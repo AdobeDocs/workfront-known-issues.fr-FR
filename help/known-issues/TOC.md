@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus pour [!DNL Adobe Workfront]
-source-git-commit: 13d173f82a6ac6894363dda746be98a22636a74d
+source-git-commit: 78d0a040027e22dc14e0a2326f635c5f4c6e1a41
 workflow-type: tm+mt
-source-wordcount: '1177'
+source-wordcount: '1201'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes en cours dans [!DNL Adobe Workfront] {#wf-current}
+      + [Tâches : Les heures ne sont pas enregistrées lors de la saisie des heures dans la tâche [!UICONTROL Panneau Résumé]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
+      + [Bons à tirer : L’utilisateur ne revient pas à la page précédente lors de la fermeture du BAT](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md)
       + [Notifications : Erreurs lors de l’accès aux paramètres de notification électronique](known-issues-workfront/wf-notifications-preview-errors-with-options.md)
       + [Bons à tirer : [!UICONTROL Principales étapes de preuve] champ vide](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md)
       + [Feuilles de temps : Les heures ne sont pas enregistrées lors de l’utilisation de [!UICONTROL Onglet] key](known-issues-workfront/wf-timesheets-hours-do-not-save-when-using-tab.md)

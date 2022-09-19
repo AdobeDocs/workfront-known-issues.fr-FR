@@ -3,9 +3,9 @@ title: Problèmes connus dans les nouveaux [!DNL Adobe Workfront] Expérience
 description: Problèmes connus signalés pour les nouveaux [!DNL Adobe Workfront] Expérience
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: e8d9550435882464904beed2acc25f9884fc2bd7
+source-git-commit: 78d0a040027e22dc14e0a2326f635c5f4c6e1a41
 workflow-type: tm+mt
-source-wordcount: '451'
+source-wordcount: '477'
 ht-degree: 1%
 
 ---
@@ -22,6 +22,8 @@ Cette page contient les problèmes actuellement identifiés dans [!DNL Adobe Wor
 
 | **Problème** | **Dernière modification** |
 |---|---|
+| [Tâches : Les heures ne sont pas enregistrées lors de la saisie des heures dans la tâche [!UICONTROL Panneau Résumé]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 19 septembre 2022 |
+| [Bons à tirer : L’utilisateur ne revient pas à la page précédente lors de la fermeture du BAT](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md) | 19 septembre 2022 |
 | [Notifications : Erreurs lors de l’accès aux paramètres de notification électronique](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 15 septembre 2022 |
 | [Tâches et problèmes : Sortie accidentelle lors de la création de tâches ou de problèmes](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md) | 9 septembre 2022 |
 | [Rapports : Problèmes lors de la création et de la modification de rapports dans [!UICONTROL Créateur de rapports]](known-issues-workfront/wf-reports-builder-degraded-performance.md) | 6 septembre 2022 |
