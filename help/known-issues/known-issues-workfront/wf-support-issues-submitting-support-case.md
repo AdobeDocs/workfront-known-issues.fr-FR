@@ -2,15 +2,15 @@
 title: "[!DNL Workfront]: Problèmes lors de l’envoi d’un cas de prise en charge Workfront sur un Experience League"
 description: '''"Si vous êtes un [!DNL Workfront] Contactez l’assistance autorisée et rencontrez des problèmes lors de l’envoi d’un dossier d’assistance. Veuillez nous appeler aux numéros ci-dessous pour que nous puissions vous aider."'
 hidefromtoc: true
-source-git-commit: fb377977f4f166a1631eb33be94a88b23d8676a7
+source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 
-# Workfront : Problèmes lors de l’envoi d’un [!DNL Workfront] cas d’assistance [!DNL Experience League]
+# [!DNL Workfront]: Problèmes lors de l’envoi d’un [!DNL Workfront] cas d’assistance [!DNL Experience League]
 
 Si vous êtes un [!DNL Workfront] Contact de l’assistance autorisé qui rencontre des problèmes lors de l’envoi d’un dossier d’assistance, veuillez cliquer sur [here](https://workfrontpartners.force.com/one/s/).
 

@@ -3,14 +3,14 @@ title: '''Home : Problèmes de résumé de l’accueil lors de l’utilisation d
 description: Lorsqu’un utilisateur consulte sa page d’accueil et qu’il utilise un navigateur autre que Chrome, il peut voir les différents problèmes.
 exl-id: 7e1935e4-2814-4527-a65a-301f4b9a9669
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
+source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# [!UICONTROL Accueil]: Problèmes de résumé de l’accueil lors de l’utilisation de navigateurs autres que [!DNL Chrome]
+# [!UICONTROL Accueil]: [!UICONTROL Accueil] problèmes de résumé lors de l’utilisation de navigateurs autres que [!DNL Chrome]
 
 >[!NOTE]
 >
