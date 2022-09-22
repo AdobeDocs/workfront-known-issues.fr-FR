@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus pour [!DNL Adobe Workfront]
-source-git-commit: 797eab330860d68262fda07b8f3dca4183b10272
+source-git-commit: d3fb396603c5f2283c74ff6a9dbd6cb5466d7334
 workflow-type: tm+mt
-source-wordcount: '1206'
+source-wordcount: '1200'
 ht-degree: 0%
 
 ---
@@ -112,6 +112,7 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [Problèmes connus dans [!DNL Workfront Proof]](workfrontproof.md)
    + Problèmes en cours dans [!DNL Workfront Proof] {#proof-current}
+      + [[!DNL Workfront Proof]: Pages vierges lors de l’affichage d’un BAT avec plusieurs pages](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
       + [Bons à tirer : Erreur lors de l’ajout du BAT à [!DNL Workfront] de [!DNL Workfront] Bon à tirer](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
       + [[!DNL Workfront Proof]: Erreur lors du téléchargement d’un fichier vers un commentaire](known-issues-workfront-proof/proof-error-when-uploading-file-to-comment.md)
       + [[!DNL Workfront Proof]: Les vues de dossier n’affichent pas de BAT](known-issues-workfront-proof/proof-folder-views-not-displaying-proofs.md)
@@ -130,7 +131,6 @@ ht-degree: 0%
       + [Nouvelle étape créée car la date limite ne peut pas correspondre à la date limite de l’étape existante](known-issues-workfront-proof/new-stage-created.md)
       + [Date limite de validation du BAT incorrecte affichée dans la liste des tâches ménagères](known-issues-workfront-proof/inaccurate-proof-approval-deadline-displayed.md)
       + [Impossible d’ajouter un utilisateur à un BAT en le balisant dans un commentaire](known-issues-workfront-proof/cannot-add-user-to-proof.md)
-      + [Impossible de créer une nouvelle version d’un BAT](known-issues-workfront-proof/cannot-create-a-new-version-of-a-proof.md)
       + [[!UICONTROL Réponse en BAT] comportement du bouton incohérent](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md)
       + [L&#39;accès automatique aux BAT est retardé](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md)
       + [[!UICONTROL Approbation du BAT] rapport ne peut pas déterminer avec précision les échéances](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
@@ -152,7 +152,6 @@ ht-degree: 0%
       + [[!DNL Workfront Fusion] les liens d’aide in-app ne mènent pas à des pages d’aide spécifiques.](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
    + Problèmes résolus dans [!DNL Workfront Fusion] {#fusion-resolved}
       + [Erreur 401 sur [!DNL Workfront] modules](known-issues-workfront-fusion/resolved-issues-fusion/401-error-on-workfront-modules.md)
-      + [Impossible de faire défiler pour afficher toutes les exécutions de scénario](known-issues-workfront-fusion/resolved-issues-fusion/cannot-scroll-to-view-all-scenario-executions.md)
       + [Données provenant de formulaires personnalisés non disponibles dans [!DNL Workfront Fusion] [!DNL Workfront] modules](known-issues-workfront-fusion/resolved-issues-fusion/data-from-custom-forms-not-available.md)
 
 + [!UICONTROL Objectifs d’Adobe Workfront] {#goals}
