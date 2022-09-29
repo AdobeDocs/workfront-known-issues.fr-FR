@@ -2,9 +2,9 @@
 title: Mises à jour de maintenance de Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 658f0ace9e6f00c5d621eec62159865983c815a9
+source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
 workflow-type: tm+mt
-source-wordcount: '13341'
+source-wordcount: '13519'
 ht-degree: 3%
 
 ---
@@ -30,6 +30,36 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2022.
 Pour connaître les mises à jour de maintenance antérieures à 2022, voir [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
 
 ## Mises à jour en septembre 2022
+
++++**Mise à jour de maintenance le 29 septembre 2022**
+
+**L’utilisateur ne revient pas à la page précédente lors de la fermeture du BAT**
+
+*Épreuves*
+
+Lorsqu’un utilisateur consulte un BAT dans [!DNL Workfront] ferme le BAT, ils ne renvoient pas la page sur laquelle ils étaient avant d&#39;ouvrir le BAT. Ils sont redirigés à la place vers une autre page de [!DNL Workfront].
+
+**Impossible d’ouvrir le BAT[!DNL Workfront]**
+
+*Épreuves*
+
+Lorsqu’un utilisateur consulte un document dans [!DNL Workfront] et tente d’ouvrir le BAT, le BAT ne s’ouvre pas et l’utilisateur est renvoyé au [!UICONTROL Détails du document] page.
+
+**Les heures ne sont pas enregistrées lors de l’utilisation de [!UICONTROL Onglet] key**
+
+*Feuilles de temps*
+
+Lorsqu’un utilisateur remplit une feuille de temps et navigue entre les cellules avec la variable [!UICONTROL Onglet] clé, les heures ne sont pas enregistrées. Le [!UICONTROL Enregistrement automatique] ne s’affiche pas en bas de l’écran. Si l’utilisateur actualise la page, il peut voir que les heures n’ont pas été enregistrées.
+
+**Pages vierges lors de l’affichage d’un BAT avec plusieurs pages**
+
+*[!DNL Workfront Proof]*
+
+Lorsqu’un utilisateur affiche un BAT avec plusieurs pages, il peut voir les miniatures des pages, mais les pages ne s’ouvrent pas dans la visionneuse principale.
+
+
+
++++
 
 +++**Mise à jour de maintenance le 22 septembre 2022**
 
@@ -72,6 +102,8 @@ Pour refléter la nouvelle fonctionnalité de possibilité d’affecter à la fo
 *[!DNL Workfront Scenario Planner]*
 
 Désormais, lorsque vous partagez un filtre de projet avec un groupe qui comporte des sous-groupes supplémentaires, le filtre est visible pour tous les membres de groupe et de sous-groupe qui affichent les projets dans la variable [!UICONTROL Importation de projets] d’un plan dans la [!DNL Scenario Planner].
+
++++
 
 +++**Mise à jour de maintenance le 8 septembre 2022**
 
