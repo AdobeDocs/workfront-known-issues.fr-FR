@@ -2,15 +2,20 @@
 title: "Rapports : Problèmes lors de la création et de la modification de rapports dans le Créateur de rapports"
 description: "Plusieurs problèmes ont été signalés lors de la création et de la modification de rapports dans le Créateur de rapports."
 hidefromtoc: true
-source-git-commit: fb377977f4f166a1631eb33be94a88b23d8676a7
+source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
 
 # Rapports : Problèmes lors de la création et de la modification de rapports dans le créateur de rapports
+
+>[!NOTE]
+>
+>Ce problème a été résolu.
+
 
 Les problèmes suivants ont été signalés lors de la création et de la modification de rapports dans le Créateur de rapports :
 
