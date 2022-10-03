@@ -3,10 +3,10 @@ title: Problèmes connus dans [!DNL Adobe Workfront Fusion]
 description: Problèmes connus signalés pour [!DNL Adobe Workfront Fusion]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
+source-git-commit: 9a63be9f1083046f615e620740e2f2e3fc93c1f1
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 8%
+source-wordcount: '90'
+ht-degree: 6%
 
 ---
 
@@ -22,7 +22,7 @@ Cette page contient les problèmes actuellement identifiés dans [!DNL Adobe Wor
 
 | **Problème** | **Dernière modification** |
 |-----------------------------------------------------------------------------------|-------------------|
-| Aucun |  |
+* | [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  Custom API Call] module renvoyant des erreurs 404 ou 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md) | 3 octobre 2022 |
 
 ## Problèmes actuels
 

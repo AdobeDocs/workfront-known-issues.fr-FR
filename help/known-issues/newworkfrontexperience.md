@@ -3,9 +3,9 @@ title: Problèmes connus dans les nouveaux [!DNL Adobe Workfront] Expérience
 description: Problèmes connus signalés pour les nouveaux [!DNL Adobe Workfront] Expérience
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
+source-git-commit: 9a63be9f1083046f615e620740e2f2e3fc93c1f1
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '457'
 ht-degree: 1%
 
 ---
@@ -37,7 +37,6 @@ Cette page contient les problèmes actuellement identifiés dans [!DNL Adobe Wor
 | **Problème** | **Dernière modification** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
 | [Tâches : Les heures ne sont pas enregistrées lors de la saisie des heures dans la tâche [!UICONTROL Panneau Résumé]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 30 septembre 2022 |
-| [Feuilles de temps : Erreurs lors de l’ajout de commentaires à une feuille de temps](known-issues-workfront/wf-timesheets-permissions-error-when-adding-hours.md) | 29 septembre 2022 |
 | [Formulaires personnalisés : Chevauchement des éléments dans le panneau de gauche](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 16 septembre 2022 |
 | [Bons à tirer : [!UICONTROL Principales étapes de preuve] champ vide](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 septembre 2022 |
 | [Intégrations : Erreur lors de l’envoi d’une requête depuis [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 août 2022 |
