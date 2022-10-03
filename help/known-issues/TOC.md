@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus pour [!DNL Adobe Workfront]
-source-git-commit: 9a63be9f1083046f615e620740e2f2e3fc93c1f1
+source-git-commit: 75defe0270b4c2d0dab3e18886b7f8276030ca71
 workflow-type: tm+mt
-source-wordcount: '1237'
+source-wordcount: '1242'
 ht-degree: 0%
 
 ---
@@ -147,6 +147,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problèmes connus dans Workfront Fusion](workfrontfusion.md)
    + Problèmes en cours dans [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Workfront Fusion]: &quot;[!UICONTROL Échec du chargement des données]&quot; erreur](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md)
       + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  Appel API personnalisé] module renvoyant des erreurs 404 ou 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: [!DNL Adobe PDF Services] > [!UICONTROL Extraction de texte] module ne produisant pas de texte](known-issues-workfront-fusion/fusion-pdf-extract-text.md)
       + [[!DNL Workfront Fusion]: Erreur &quot;Échec de vérification de la connexion&quot;](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
