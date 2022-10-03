@@ -2,9 +2,9 @@
 title: Mises à jour de maintenance de Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
+source-git-commit: a767d13343d0554325ba05c4b817b72c7e2b5727
 workflow-type: tm+mt
-source-wordcount: '13519'
+source-wordcount: '13581'
 ht-degree: 3%
 
 ---
@@ -28,6 +28,18 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2022.
 -->
 
 Pour connaître les mises à jour de maintenance antérieures à 2022, voir [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
+
+## Mises à jour en octobre 2022
+
++++**Mise à jour de maintenance le 3 octobre 2022**
+
+**Enregistrez manuellement votre feuille de temps lorsque les rôles de tâche précédents ont été modifiés.**
+
+*Feuilles de temps*
+
+Si un rôle de tâche pour lequel vous avez consigné une heure a changé et que la variable [!UICONTROL Affecter manuellement des rôles de tâche aux entrées d’heure] a été désactivé, vous devez enregistrer manuellement vos entrées de temps jusqu’à ce que les heures ne soient plus consignées pour le rôle de tâche qui a été modifié.
+
++++
 
 ## Mises à jour en septembre 2022
 
