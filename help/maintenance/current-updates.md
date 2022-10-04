@@ -2,9 +2,9 @@
 title: Mises à jour de maintenance de Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: a767d13343d0554325ba05c4b817b72c7e2b5727
+source-git-commit: ee588d19aa1f14e4db2dd4248de151193227d599
 workflow-type: tm+mt
-source-wordcount: '13581'
+source-wordcount: '13746'
 ht-degree: 3%
 
 ---
@@ -30,6 +30,41 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2022.
 Pour connaître les mises à jour de maintenance antérieures à 2022, voir [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
 
 ## Mises à jour en octobre 2022
+
++++**Mise à jour de maintenance (planifiée) le 6 octobre 2022**
+
+**Chevauchement des éléments dans le panneau de gauche**
+
+*Formulaires personnalisés dans mon groupe*
+
+Lorsqu’un utilisateur travaille dans le créateur de formulaires et que le formulaire comporte plus de 100 champs, le message informant l’utilisateur de la limite de champs entraîne le chevauchement des éléments du panneau de gauche.
+
+**Le sélecteur de date s’ouvre automatiquement lors de la mise au point**
+
+*Navigation*
+
+Désormais, lors de la navigation par le clavier, les sélecteurs de date ne sont plus automatiquement ouverts et activés lors de la réception de la sélection au clavier.
+
+&quot;[!UICONTROL Vos modifications récentes n’ont pas été enregistrées.]&quot;erreur lors de l’enregistrement automatique des modifications sur une feuille de temps
+
+*Feuilles de temps*
+
+Lorsqu’un utilisateur tente de modifier une feuille de temps de manière à déclencher une enregistrement automatique, les modifications ne sont pas enregistrées et l’utilisateur voit le message suivant :
+
+&quot;[!UICONTROL Vos modifications récentes n’ont pas été enregistrées. Actualisez la page à afficher.]&quot;
+
+Cela a été signalé lors de la modification des éléments suivants :
+
+* Heures
+* Tâches
+
+Les notifications électroniques sont différées
+
+*Épreuve Workfront*
+
+Lorsqu’un événement se produit dans [!DNL Workfront Proof] qui déclenche une notification par courrier électronique, l’utilisateur ne reçoit pas la notification immédiatement. La notification peut être différée de plusieurs heures.
+
++++
 
 +++**Mise à jour de maintenance le 3 octobre 2022**
 
