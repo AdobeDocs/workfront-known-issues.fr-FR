@@ -3,9 +3,9 @@ title: Problèmes connus dans les nouveaux [!DNL Adobe Workfront] Expérience
 description: Problèmes connus signalés pour les nouveaux [!DNL Adobe Workfront] Expérience
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 25a0276d250c74496f91c912a7e59b33283973c1
+source-git-commit: 60ebb7b0b5e9436da8d9f6b1b9c0057c4d5f3e1b
 workflow-type: tm+mt
-source-wordcount: '444'
+source-wordcount: '433'
 ht-degree: 2%
 
 ---
@@ -27,7 +27,6 @@ Ces problèmes récemment signalés sont actuellement à l’étude.
 | [Documents : &quot;[!UICONTROL Échec du téléchargement du fichier]&quot; erreur](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4 octobre 2022 |
 | [Notifications : Utilisateurs non avertis lorsqu’ils sont mentionnés ou inclus dans un commentaire](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 29 septembre 2022 |
 | [Notifications : Erreurs lors de l’accès aux paramètres de notification électronique](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 15 septembre 2022 |
-| [Tableaux de bord : Impossible d’accéder au tableau de bord à partir de la navigation gauche sur un objet](known-issues-workfront/wf-dashboards-cannot-open-from-left-nav.md) | 24 août 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 

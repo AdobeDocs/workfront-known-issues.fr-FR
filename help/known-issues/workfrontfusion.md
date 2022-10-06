@@ -3,9 +3,9 @@ title: Problèmes connus dans [!DNL Adobe Workfront Fusion]
 description: Problèmes connus signalés pour [!DNL Adobe Workfront Fusion]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 25a0276d250c74496f91c912a7e59b33283973c1
+source-git-commit: 60ebb7b0b5e9436da8d9f6b1b9c0057c4d5f3e1b
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '146'
 ht-degree: 8%
 
 ---
@@ -25,7 +25,6 @@ Ces problèmes récemment signalés sont actuellement à l’étude.
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!DNL Workfront Fusion]: 409 error in [!DNL Fusion] scénario](known-issues-workfront-fusion/fusion-409-error.md) | 6 octobre 2022 |
-| [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  Custom API Call] module renvoyant des erreurs 404 ou 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md) | 3 octobre 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -37,7 +36,6 @@ Les correctifs de ces problèmes sont actuellement en cours ou sont programmés 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!DNL Workfront Fusion]: &quot;[!UICONTROL Échec du chargement des données]&quot; erreur](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md) | 3 octobre 2022 |
-| [[!DNL Workfront Fusion]: [!DNL Adobe PDF Services] > [!UICONTROL Extract Text] module ne produisant pas de texte](known-issues-workfront-fusion/fusion-pdf-extract-text.md) | 30 septembre 2022 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion] les liens d’aide in-app ne mènent pas à des pages d’aide spécifiques.](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | 2 août 2022 |
 
 {style=&quot;table-layout:auto&quot;}
