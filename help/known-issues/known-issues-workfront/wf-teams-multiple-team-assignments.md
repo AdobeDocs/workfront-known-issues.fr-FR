@@ -2,15 +2,19 @@
 title: '"Équipes : L’affectation de plusieurs équipes entraîne l’affectation d’une seule équipe".'
 description: "Lorsqu’un utilisateur affecte plusieurs équipes à une tâche ou à un problème, une seule équipe apparaît dans la liste des affectations. Ce problème affecte également la création de rapports. Les rapports montrant les affectations de l’équipe sont inexacts car une seule équipe apparaît comme affectée à la tâche ou au problème."
 hidefromtoc: true
-source-git-commit: ed675a0d4f5dfd0f66b6756df3cae0935f33a286
+source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
 
 
 # Équipes : L’affectation de plusieurs équipes entraîne l’affectation d’une seule équipe.
+
+>[!NOTE]
+>
+>Ce problème a été résolu le 6 octobre 2022.
 
 >[!NOTE]
 >

@@ -3,7 +3,7 @@ title: Problèmes connus dans [!DNL Adobe Workfront Proof]
 description: Problèmes connus signalés pour [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 2c801b5adb0b1e2455cf741eb40596550fd33172
+source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 3%
@@ -30,7 +30,7 @@ Cette page contient les problèmes actuellement identifiés dans [!DNL Adobe Wor
 
 | **Problème** | **Dernière modification** |
 |-----------------------------------------------------------------------------------|-------------------|
-| [[!DNL Workfront Proof]: Les notifications électroniques sont différées](known-issues-workfront-proof/proof-delays-receiving-email-notifications.md) | 15 septembre 2022 |
+| [Bons à tirer : Impossible de comparer automatiquement les bons à tirer](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 6 octobre 2022 |
 | [Bons à tirer : [!UICONTROL Principales étapes de preuve] champ vide](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 septembre 2022 |
 | [[!DNL Workfront Proof]: Les demandeurs et les réviseurs sont comptabilisés dans le nombre de licences d’une organisation.](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md) | 12 août 2022 |
 | [Bons à tirer : Date limite de validation du BAT incorrecte affichée [!UICONTROL Liste de travail à domicile]](known-issues-workfront-proof/inaccurate-proof-approval-deadline-displayed.md) | 25 avril 2022 |

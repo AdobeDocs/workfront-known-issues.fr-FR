@@ -2,9 +2,9 @@
 title: Mises à jour de maintenance de Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ee588d19aa1f14e4db2dd4248de151193227d599
+source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
-source-wordcount: '13746'
+source-wordcount: '13805'
 ht-degree: 3%
 
 ---
@@ -31,7 +31,7 @@ Pour connaître les mises à jour de maintenance antérieures à 2022, voir [Mis
 
 ## Mises à jour en octobre 2022
 
-+++**Mise à jour de maintenance (planifiée) le 6 octobre 2022**
++++**Mise à jour de maintenance le 6 octobre 2022**
 
 **Chevauchement des éléments dans le panneau de gauche**
 
@@ -45,7 +45,17 @@ Lorsqu’un utilisateur travaille dans le créateur de formulaires et que le for
 
 Désormais, lors de la navigation par le clavier, les sélecteurs de date ne sont plus automatiquement ouverts et activés lors de la réception de la sélection au clavier.
 
-&quot;[!UICONTROL Vos modifications récentes n’ont pas été enregistrées.]&quot;erreur lors de l’enregistrement automatique des modifications sur une feuille de temps
+**L’affectation de plusieurs équipes entraîne l’affectation d’une seule équipe.**
+
+*Équipes*
+
+>[!NOTE]
+>
+>Ce problème existe uniquement dans l’environnement Aperçu .
+
+Lorsqu’un utilisateur affecte plusieurs équipes à une tâche ou à un problème, une seule équipe s’affiche dans la liste des affectations. Ce problème affecte également la création de rapports. Les rapports indiquant les affectations d’équipe sont inexacts car une seule équipe apparaît comme affectée à la tâche ou au problème.
+
+**&quot;[!UICONTROL Vos modifications récentes n’ont pas été enregistrées.]&quot;erreur lors de l’enregistrement automatique des modifications sur une feuille de temps**
 
 *Feuilles de temps*
 
@@ -58,7 +68,7 @@ Cela a été signalé lors de la modification des éléments suivants :
 * Heures
 * Tâches
 
-Les notifications électroniques sont différées
+**Les notifications électroniques sont différées**
 
 *Épreuve Workfront*
 
