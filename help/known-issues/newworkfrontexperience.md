@@ -3,10 +3,10 @@ title: Problèmes connus dans les nouveaux [!DNL Adobe Workfront] Expérience
 description: Problèmes connus signalés pour les nouveaux [!DNL Adobe Workfront] Expérience
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
+source-git-commit: 0c5a738b36e954f07802b3c095fbdce5fedda168
 workflow-type: tm+mt
-source-wordcount: '446'
-ht-degree: 1%
+source-wordcount: '444'
+ht-degree: 2%
 
 ---
 
@@ -18,37 +18,46 @@ Cette page contient les problèmes actuellement identifiés dans [!DNL Adobe Wor
 >
 >Pour plus d’informations sur la disponibilité du serveur ou les pannes, voir [status.adobe.com](https://status.adobe.com). Pour plus d’informations sur les problèmes récemment résolus, voir [[!DNL Workfront] Mises à jour de maintenance](../maintenance/current-updates.md).
 
-## Nouvelle enquête ou en cours
+## Nouveau
+
+Ces problèmes récemment signalés sont actuellement en cours de révision.
 
 | **Problème** | **Dernière modification** |
-|---|---|
+| -----------------------------------------------------------------| ----------------- |
 | [Documents : &quot;[!UICONTROL Échec du téléchargement du fichier]&quot; erreur](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4 octobre 2022 |
 | [Notifications : Utilisateurs non avertis lorsqu’ils sont mentionnés ou inclus dans un commentaire](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 29 septembre 2022 |
 | [Notifications : Erreurs lors de l’accès aux paramètres de notification électronique](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 15 septembre 2022 |
-| [Tâches et problèmes : Sortie accidentelle lors de la création de tâches ou de problèmes](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md) | 9 septembre 2022 |
-| [Rapports : Problèmes lors de la création et de la modification de rapports dans [!UICONTROL Créateur de rapports]](known-issues-workfront/wf-reports-builder-degraded-performance.md) | 6 septembre 2022 |
 | [Tableaux de bord : Impossible d’accéder au tableau de bord à partir de la navigation gauche sur un objet](known-issues-workfront/wf-dashboards-cannot-open-from-left-nav.md) | 24 août 2022 |
-| [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Cas d’assistance sur l’Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 août 2022 |
-| [Agile : Problèmes lors du déplacement de cartes sur [!UICONTROL Agile] board](known-issues-workfront/wf-agile-issues-moving-cards.md) | 27 avril 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 
-## Problèmes actuels
+
+## En cours
+
+Les correctifs de ces problèmes sont actuellement en cours ou sont programmés pour un avenir proche.
 
 | **Problème** | **Dernière modification** |
-| -------------------------------------------------------------------------------------------------- | ----------------- |
+| -----------------------------------------------------------------| ----------------- |
 | [Bons à tirer : Impossible de comparer automatiquement les bons à tirer](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 6 octobre 2022 |
 | [Tâches : Les heures ne sont pas enregistrées lors de la saisie des heures dans la tâche [!UICONTROL Panneau Résumé]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 30 septembre 2022 |
-| [Bons à tirer : [!UICONTROL Principales étapes de preuve] champ vide](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 septembre 2022 |
 | [Intégrations : Erreur lors de l’envoi d’une requête depuis [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 août 2022 |
-| [[!DNL Workfront Proof]: Les courriers électroniques de résumé quotidien n’incluent pas de[!UICONTROL Afficher les détails]Bouton &quot;](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md) | 5 août 2022 |
+| [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Cas d’assistance sur l’Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 août 2022 |
+
+{style=&quot;table-layout:auto&quot;}
+
+## Aucun correctif
+
+Les correctifs de ces problèmes ne figurent pas actuellement sur la feuille de route. Dans certains cas, ces problèmes seront corrigés par de nouvelles fonctionnalités ou des mises à jour de fonctionnalités.
+
+| **Problème** | **Dernière modification** |
+| -----------------------------------------------------------------| ----------------- |
+| [Bons à tirer : [!UICONTROL Principales étapes de preuve] champ vide](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 septembre 2022 |
 | [Tableaux de bord : Les graphiques des rapports affichés dans un tableau de bord utilisent des couleurs différentes de celles affichées dans le rapport.](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 5 août 2022 |
 | [[!UICONTROL Accueil]: La terminologie personnalisée n’est pas appliquée à la zone d’accueil.](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | 3 juin 2022 |
 | [Agile : Impossible de modifier les champs des formulaires personnalisés sur les cartes](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md) | 11 mai 2022 |
 | [Modèles de mise en page : Impossible de sélectionner le groupe lors de la création d’un modèle de mise en page](known-issues-workfront/wf-layout-templ-cannot-select-group.md) | 4 mai 2022 |
-| [Bons à tirer : Date limite de validation du BAT incorrecte affichée dans la liste des tâches ménagères](known-issues-workfront-proof/inaccurate-proof-approval-deadline-displayed.md) | 25 avril 2022 |
+| [Agile : Problèmes lors du déplacement de cartes sur [!UICONTROL Agile] board](known-issues-workfront/wf-agile-issues-moving-cards.md) | 27 avril 2022 |
 | [Validations : La délégation d’approbation est définie pour un nombre de jours incorrect](known-issues-workfront/wf-approval-delegation-incorrect-number-of-days.md) | 20 avril 2022 |
-| [[!UICONTROL Accueil]: [!UICONTROL Accueil] problèmes de résumé lors de l’utilisation de navigateurs autres que [!DNL Chrome]](known-issues-workfront/wf-home-summary-issues-when-not-using-chrome.md) | 24 février 2022 |
 | [[!UICONTROL Accueil]: Option Nouvelle tâche présentant les utilisateurs désactivés dans [!UICONTROL Attribuer à] field](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md) | 1er octobre 2021 |
 | [Mises à jour : Le nom de l&#39;équipe n&#39;apparaît pas dans @mention](known-issues-workfront/wf-updates-team-name-not-in-mention.md) | 1er octobre 2021 |
 | [Calendriers : Problèmes liés à [!UICONTROL Time Off] calendar](known-issues-workfront/wf-calendars-issue-time-off.md) | 25 juin 2021 |
@@ -71,8 +80,3 @@ Cette page contient les problèmes actuellement identifiés dans [!DNL Adobe Wor
 
 {style=&quot;table-layout:auto&quot;}
 
-
-<!--
-
-
--->

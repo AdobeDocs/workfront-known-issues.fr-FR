@@ -3,10 +3,10 @@ title: Problèmes connus dans [!DNL Adobe Workfront Proof]
 description: Problèmes connus signalés pour [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
+source-git-commit: 0c5a738b36e954f07802b3c095fbdce5fedda168
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 3%
+source-wordcount: '195'
+ht-degree: 6%
 
 ---
 
@@ -18,22 +18,34 @@ Cette page contient les problèmes actuellement identifiés dans [!DNL Adobe Wor
 >
 >Pour plus d’informations sur la disponibilité du serveur ou les pannes, voir [status.adobe.com](https://status.adobe.com). Pour plus d’informations sur les problèmes récemment résolus, voir [[!DNL Workfront] Mises à jour de maintenance](../maintenance/current-updates.md).
 
-## Nouvelle enquête ou en cours
+## Nouveau
 
-| Problème | Dernière modification |
-|---|---|
+Ces problèmes récemment signalés sont actuellement en cours de révision.
+
+| **Problème** | **Dernière modification** |
+| -----------------------------------------------------------------| ----------------- |
 | [Documents : &quot;[!UICONTROL Échec du téléchargement du fichier]&quot; erreur](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4 octobre 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 
-## Problèmes actuels
+## En cours
+
+Les correctifs de ces problèmes sont actuellement en cours ou sont programmés pour un avenir proche.
 
 | **Problème** | **Dernière modification** |
-|-----------------------------------------------------------------------------------|-------------------|
+| -----------------------------------------------------------------| ----------------- |
 | [Bons à tirer : Impossible de comparer automatiquement les bons à tirer](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 6 octobre 2022 |
-| [Bons à tirer : [!UICONTROL Principales étapes de preuve] champ vide](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 septembre 2022 |
 | [[!DNL Workfront Proof]: Les demandeurs et les réviseurs sont comptabilisés dans le nombre de licences d’une organisation.](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md) | 12 août 2022 |
-| [Bons à tirer : Date limite de validation du BAT incorrecte affichée [!UICONTROL Liste de travail à domicile]](known-issues-workfront-proof/inaccurate-proof-approval-deadline-displayed.md) | 25 avril 2022 |
+
+{style=&quot;table-layout:auto&quot;}
+
+## Aucun correctif
+
+Les correctifs de ces problèmes ne figurent pas actuellement sur la feuille de route. Dans certains cas, ces problèmes seront corrigés par de nouvelles fonctionnalités ou des mises à jour de fonctionnalités.
+
+| **Problème** | **Dernière modification** |
+| -----------------------------------------------------------------| ----------------- |
+| [Bons à tirer : [!UICONTROL Principales étapes de preuve] champ vide](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 septembre 2022 |
 | [[!DNL Workfront Proof]: Impossible d’ajouter un utilisateur à un BAT en le balisant dans un commentaire](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 23 mars 2022 |
 | [[!UICONTROL Accueil]: [!UICONTROL Réponse en BAT] comportement du bouton incohérent](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 21 juin 2021 |
 | [[!DNL Workfront Proof]: L&#39;accès automatique aux BAT est retardé](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md) | 14 juin 2021 |
@@ -42,3 +54,4 @@ Cette page contient les problèmes actuellement identifiés dans [!DNL Adobe Wor
 | [Documents : L’icône du workflow de BAT ne s’affiche pas](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 5 mars 2021 |
 
 {style=&quot;table-layout:auto&quot;}
+
