@@ -2,9 +2,9 @@
 title: Mises à jour de maintenance de Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
+source-git-commit: 38e86575a1c495bc2340899562d68e59cbce7b06
 workflow-type: tm+mt
-source-wordcount: '13805'
+source-wordcount: '13831'
 ht-degree: 3%
 
 ---
@@ -32,6 +32,12 @@ Pour connaître les mises à jour de maintenance antérieures à 2022, voir [Mis
 ## Mises à jour en octobre 2022
 
 +++**Mise à jour de maintenance le 6 octobre 2022**
+
+**Nouveau type de plan directeur**
+
+*Plans directeurs*
+
+Le type de plan directeur &quot;Tableau de bord&quot; a été ajouté au catalogue de plans directeurs. Auparavant, seuls les modèles de modèle de projet et de structure organisationnelle étaient disponibles.
 
 **Chevauchement des éléments dans le panneau de gauche**
 
