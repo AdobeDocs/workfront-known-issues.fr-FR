@@ -3,10 +3,10 @@ title: Problèmes connus dans [!DNL Adobe Workfront Proof]
 description: Problèmes connus signalés pour [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 25a0276d250c74496f91c912a7e59b33283973c1
+source-git-commit: 69ecc78407585dff0f7d786265fd7177963edc42
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 6%
+source-wordcount: '205'
+ht-degree: 5%
 
 ---
 
@@ -24,6 +24,7 @@ Ces problèmes récemment signalés sont actuellement à l’étude.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bons à tirer : La zone de texte &quot;Nouveaux destinataires du BAT&quot; est trop petite](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 6 octobre 2022 |
 | [Documents : &quot;[!UICONTROL Échec du téléchargement du fichier]&quot; erreur](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4 octobre 2022 |
 
 {style=&quot;table-layout:auto&quot;}

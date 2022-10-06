@@ -3,9 +3,9 @@ title: Problèmes connus dans les nouveaux [!DNL Adobe Workfront] Expérience
 description: Problèmes connus signalés pour les nouveaux [!DNL Adobe Workfront] Expérience
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 60ebb7b0b5e9436da8d9f6b1b9c0057c4d5f3e1b
+source-git-commit: 69ecc78407585dff0f7d786265fd7177963edc42
 workflow-type: tm+mt
-source-wordcount: '433'
+source-wordcount: '454'
 ht-degree: 2%
 
 ---
@@ -24,6 +24,8 @@ Ces problèmes récemment signalés sont actuellement à l’étude.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Modèles de mise en page : Erreur lors de la personnalisation des listes dans un modèle de mise en page](known-issues-workfront/wf-layout-templates-error-lists-users.md) | 6 octobre 2022 |
+| [Bons à tirer : La zone de texte &quot;Nouveaux destinataires du BAT&quot; est trop petite](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 6 octobre 2022 |
 | [Documents : &quot;[!UICONTROL Échec du téléchargement du fichier]&quot; erreur](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4 octobre 2022 |
 | [Notifications : Utilisateurs non avertis lorsqu’ils sont mentionnés ou inclus dans un commentaire](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 29 septembre 2022 |
 | [Notifications : Erreurs lors de l’accès aux paramètres de notification électronique](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 15 septembre 2022 |
