@@ -2,7 +2,7 @@
 title: Mises à jour de maintenance de Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: fae6d2991f44c333f9db1bd4c437ae3567387a86
+source-git-commit: 6ce6194f9f911b02457240645ce6407ec3eb7e26
 workflow-type: tm+mt
 source-wordcount: '13915'
 ht-degree: 3%
@@ -49,7 +49,7 @@ Lorsqu’un utilisateur travaille dans le créateur de formulaires et que le for
 
 *Navigation*
 
-Lorsqu’un utilisateur navigue par le clavier, les sélecteurs de date ne sont plus automatiquement ouverts lors de la sélection de la date à laquelle la saisie de la date reçoit le focus au clavier. À la place, les utilisateurs du clavier doivent cliquer sur l’icône du sélecteur de date et appuyer sur Entrée pour ouvrir le sélecteur de date. Lorsqu’un utilisateur navigue avec la souris, les sélecteurs de date ne sont plus automatiquement ouverts lors du clic sur la date d’entrée. Au lieu de cela, les utilisateurs du clavier doivent cliquer sur l’icône du sélecteur de date pour ouvrir le sélecteur de date.
+Lorsqu’un utilisateur navigue par le clavier, les sélecteurs de date ne sont plus automatiquement ouverts lors de la sélection de la date à laquelle la saisie de la date reçoit le focus au clavier. À la place, les utilisateurs du clavier doivent cliquer sur l’icône du sélecteur de date et appuyer sur Entrée pour ouvrir le sélecteur de date. Lorsqu’un utilisateur navigue avec la souris, les sélecteurs de date ne sont plus automatiquement ouverts lors du clic sur la date d’entrée. Les utilisateurs de la souris doivent plutôt cliquer sur l’icône du sélecteur de date pour ouvrir le sélecteur de date.
 
 Cette modification a été apportée afin de mieux se conformer aux schémas UX du sélecteur de date standard et de créer une expérience plus accessible pour les utilisateurs de clavier et de lecteur d’écran.
 
