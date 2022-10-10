@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus pour [!DNL Adobe Workfront]
-source-git-commit: 69ecc78407585dff0f7d786265fd7177963edc42
+source-git-commit: edbc35c24a135af7f3d32042ccbf2d25ae56033a
 workflow-type: tm+mt
-source-wordcount: '1284'
+source-wordcount: '1320'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes en cours dans [!DNL Adobe Workfront] {#wf-current}
+      + [Tâches : [!UICONTROL Prédécesseur] icône manquante dans l’en-tête de la tâche](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md)
+      + [Bons à tirer : L&#39;ajout d&#39;un groupe à un BAT n&#39;ajoute pas tous les membres du groupe](known-issues-workfront/wf-proofs-group-members-not-added.md)
+      + [Tâches et problèmes : Impossible de modifier le nom ou le pourcentage d’achèvement d’une tâche ou d’un problème](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md)
       + [Modèles de mise en page : Erreur lors de la personnalisation des listes dans un modèle de mise en page](known-issues-workfront/wf-layout-templates-error-lists-users.md)
       + [Bons à tirer : La zone de texte &quot;Nouveaux destinataires du BAT&quot; est trop petite](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md)
       + [Bons à tirer : Impossible de comparer automatiquement les bons à tirer](known-issues-workfront/wf-proofs-cannot-auto-compare.md)

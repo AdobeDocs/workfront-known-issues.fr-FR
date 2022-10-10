@@ -3,9 +3,9 @@ title: Problèmes connus dans les nouveaux [!DNL Adobe Workfront] Expérience
 description: Problèmes connus signalés pour les nouveaux [!DNL Adobe Workfront] Expérience
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 69ecc78407585dff0f7d786265fd7177963edc42
+source-git-commit: edbc35c24a135af7f3d32042ccbf2d25ae56033a
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '493'
 ht-degree: 2%
 
 ---
@@ -24,6 +24,7 @@ Ces problèmes récemment signalés sont actuellement à l’étude.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bons à tirer : L&#39;ajout d&#39;un groupe à un BAT n&#39;ajoute pas tous les membres du groupe](known-issues-workfront/wf-proofs-group-members-not-added.md) | 10 octobre 2022 |
 | [Modèles de mise en page : Erreur lors de la personnalisation des listes dans un modèle de mise en page](known-issues-workfront/wf-layout-templates-error-lists-users.md) | 6 octobre 2022 |
 | [Bons à tirer : La zone de texte &quot;Nouveaux destinataires du BAT&quot; est trop petite](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 6 octobre 2022 |
 | [Documents : &quot;[!UICONTROL Échec du téléchargement du fichier]&quot; erreur](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4 octobre 2022 |
@@ -39,6 +40,8 @@ Les correctifs de ces problèmes sont actuellement en cours ou sont programmés 
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Tâches : [!UICONTROL Prédécesseur] icône manquante dans l’en-tête de la tâche](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md) | 10 octobre 2022 |
+| [Tâches et problèmes : Impossible de modifier le nom ou le pourcentage d’achèvement d’une tâche ou d’un problème](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md) | 10 octobre 2022 |
 | [Bons à tirer : Impossible de comparer automatiquement les bons à tirer](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 6 octobre 2022 |
 | [Tâches : Les heures ne sont pas enregistrées lors de la saisie des heures dans la tâche [!UICONTROL Panneau Résumé]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 30 septembre 2022 |
 | [Intégrations : Erreur lors de l’envoi d’une requête depuis [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 août 2022 |
