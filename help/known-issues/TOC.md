@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus pour [!DNL Adobe Workfront]
-source-git-commit: 6937b5ece29ecc41c62e3e3116961c12e7ad49b7
+source-git-commit: 2ae28fe20f42dc04f717c543505486404794fb4e
 workflow-type: tm+mt
-source-wordcount: '1347'
+source-wordcount: '1354'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes en cours dans [!DNL Adobe Workfront] {#wf-current}
+      + [Feuilles de temps : Ne peut pas entrer de heures dans [!UICONTROL Heure générale]](known-issues-workfront/wf-timesheets-general-time-disabled.md)
       + [Listes : [!UICONTROL Filtre rapide] ne renvoie aucun résultat lors de la recherche d’équipes](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md)
       + [Navigation : Impossible de réépingler une page après sa suppression](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md)
       + [Affectations : Erreur lors de l’affectation groupée d’une équipe](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md)
