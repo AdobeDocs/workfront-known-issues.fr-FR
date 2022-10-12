@@ -2,9 +2,9 @@
 title: Mises à jour de maintenance de Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 6ce6194f9f911b02457240645ce6407ec3eb7e26
+source-git-commit: 166754914f4d532ffdb63555270548a676cf63d0
 workflow-type: tm+mt
-source-wordcount: '13915'
+source-wordcount: '14291'
 ht-degree: 3%
 
 ---
@@ -30,6 +30,56 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2022.
 Pour connaître les mises à jour de maintenance antérieures à 2022, voir [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
 
 ## Mises à jour en octobre 2022
+
++++**Mise à jour de maintenance (planifiée) le 13 octobre 2022**
+
+**Impossible de réépingler une page après sa suppression**
+
+*Navigation*
+
+>[!NOTE]
+>
+>Ce problème sera corrigé dans l’aperçu le 13 octobre 2022. Il sera fixe en production le 27 octobre 2022.
+
+Lorsqu’un utilisateur sélectionne le[!UICONTROL Supprimer le pin]&quot; sur une épingle, reçoit un message concernant la suppression et tente de la remplacer en cliquant sur &quot;[!UICONTROL Annuler]&quot; dans le message, la pin n’est pas remplacée dans le volet de navigation supérieur et n’est pas non plus ajoutée à la liste des pin’s sous le [!UICONTROL Plus de broches] liste (menu à trois points dans la [!UICONTROL Pins] ).
+
+Si un utilisateur tente de réépingler la page en accédant à la page et en la faisant épingler, l’épingle n’est pas créée et l’utilisateur ne peut pas épingler la page.
+
+**Impossible de nommer ou d’enregistrer les filtres nouvellement créés**
+
+*[!UICONTROL Planification des ressources]*
+
+Lorsqu’un utilisateur tente de nommer un nouveau filtre dans la variable [!UICONTROL Resource Planner], la zone de nom reste vide. En outre, si l’utilisateur a appuyé sur la barre d’espace, la variable [!UICONTROL Enregistrer] désactive .
+
+**Impossible de modifier le nom ou le pourcentage d’achèvement d’une tâche ou d’un problème**
+
+*Tâches et événements*
+
+Utilisateurs avec [!UICONTROL Contribution] l’accès à une tâche ou à un problème ne peut pas modifier le nom de la tâche ou du problème dans l’en-tête. En outre, les utilisateurs avec [!UICONTROL Contribution] l’accès ne peut pas modifier le pourcentage d’achèvement d’une tâche ou d’un problème.
+
+**Les demandeurs et les réviseurs sont comptabilisés dans le nombre de licences d’une organisation.**
+
+*[!DNL Workfront Proof]*
+
+Lorsqu’un utilisateur est ajouté à un BAT en tant que réviseur ou demandeur, il obtient un &quot;[!UICONTROL Visiteur]&quot;profil d’autorisations, qui ne doit pas utiliser une [!DNL Workfront Proof] licence. Cependant, lorsque l’utilisateur est ajouté, le nombre de utilisé [!DNL Workfront Proof] les licences augmentent.
+
++++
+
++++**Mise à jour de la maintenance le 11 octobre 2022
+
+**Impossible de réépingler une page après sa suppression**
+
+*Navigation*
+
+>[!NOTE]
+>
+>Ce problème a été corrigé dans Aperçu le 13 octobre 2022. Il sera fixe en production le 27 octobre 2022.
+
+Lorsqu’un utilisateur sélectionne le[!UICONTROL Supprimer le pin]&quot; sur une épingle, reçoit un message concernant la suppression et tente de la remplacer en cliquant sur &quot;[!UICONTROL Annuler]&quot; dans le message, la pin n’est pas remplacée dans le volet de navigation supérieur et n’est pas non plus ajoutée à la liste des pin’s sous le [!UICONTROL Plus de broches] liste (menu à trois points dans la [!UICONTROL Pins] ).
+
+Si un utilisateur tente de réépingler la page en accédant à la page et en la faisant épingler, l’épingle n’est pas créée et l’utilisateur ne peut pas épingler la page.
+
++++
 
 +++**Mise à jour de maintenance le 6 octobre 2022**
 
