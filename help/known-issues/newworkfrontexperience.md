@@ -3,9 +3,9 @@ title: Problèmes connus dans les nouveaux [!DNL Adobe Workfront] Expérience
 description: Problèmes connus signalés pour les nouveaux [!DNL Adobe Workfront] Expérience
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 6a7bd8e83e01199d8b5523caaaa6db76bd9675e1
+source-git-commit: 6937b5ece29ecc41c62e3e3116961c12e7ad49b7
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '523'
 ht-degree: 2%
 
 ---
@@ -41,6 +41,7 @@ Les correctifs de ces problèmes sont actuellement en cours ou sont programmés 
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Listes : [!UICONTROL Filtre rapide] ne renvoie aucun résultat lors de la recherche d’équipes](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md) | 12 octobre 2022 |
 | [Navigation : Impossible de réépingler une page après sa suppression](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md) | 11 octobre 2022 |
 | [Tâches : [!UICONTROL Prédécesseur] icône manquante dans l’en-tête de la tâche](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md) | 10 octobre 2022 |
 | [Tâches et problèmes : Impossible de modifier le nom ou le pourcentage d’achèvement d’une tâche ou d’un problème](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md) | 10 octobre 2022 |
