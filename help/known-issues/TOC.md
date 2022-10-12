@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus pour [!DNL Adobe Workfront]
-source-git-commit: edbc35c24a135af7f3d32042ccbf2d25ae56033a
+source-git-commit: 6a7bd8e83e01199d8b5523caaaa6db76bd9675e1
 workflow-type: tm+mt
-source-wordcount: '1320'
+source-wordcount: '1337'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes en cours dans [!DNL Adobe Workfront] {#wf-current}
+      + [Navigation : Impossible de réépingler une page après sa suppression](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md)
+      + [Affectations : Erreur lors de l’affectation groupée d’une équipe](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md)
       + [Tâches : [!UICONTROL Prédécesseur] icône manquante dans l’en-tête de la tâche](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md)
       + [Bons à tirer : L&#39;ajout d&#39;un groupe à un BAT n&#39;ajoute pas tous les membres du groupe](known-issues-workfront/wf-proofs-group-members-not-added.md)
       + [Tâches et problèmes : Impossible de modifier le nom ou le pourcentage d’achèvement d’une tâche ou d’un problème](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md)

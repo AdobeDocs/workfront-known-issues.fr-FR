@@ -3,9 +3,9 @@ title: Problèmes connus dans les nouveaux [!DNL Adobe Workfront] Expérience
 description: Problèmes connus signalés pour les nouveaux [!DNL Adobe Workfront] Expérience
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: edbc35c24a135af7f3d32042ccbf2d25ae56033a
+source-git-commit: 6a7bd8e83e01199d8b5523caaaa6db76bd9675e1
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: '512'
 ht-degree: 2%
 
 ---
@@ -24,6 +24,7 @@ Ces problèmes récemment signalés sont actuellement à l’étude.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Affectations : Erreur lors de l’affectation groupée d’une équipe](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md) | 11 octobre 2022 |
 | [Bons à tirer : L&#39;ajout d&#39;un groupe à un BAT n&#39;ajoute pas tous les membres du groupe](known-issues-workfront/wf-proofs-group-members-not-added.md) | 10 octobre 2022 |
 | [Modèles de mise en page : Erreur lors de la personnalisation des listes dans un modèle de mise en page](known-issues-workfront/wf-layout-templates-error-lists-users.md) | 6 octobre 2022 |
 | [Bons à tirer : La zone de texte &quot;Nouveaux destinataires du BAT&quot; est trop petite](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 6 octobre 2022 |
@@ -40,6 +41,7 @@ Les correctifs de ces problèmes sont actuellement en cours ou sont programmés 
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Navigation : Impossible de réépingler une page après sa suppression](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md) | 11 octobre 2022 |
 | [Tâches : [!UICONTROL Prédécesseur] icône manquante dans l’en-tête de la tâche](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md) | 10 octobre 2022 |
 | [Tâches et problèmes : Impossible de modifier le nom ou le pourcentage d’achèvement d’une tâche ou d’un problème](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md) | 10 octobre 2022 |
 | [Bons à tirer : Impossible de comparer automatiquement les bons à tirer](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 6 octobre 2022 |
