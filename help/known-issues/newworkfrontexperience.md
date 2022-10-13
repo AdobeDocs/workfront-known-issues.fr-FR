@@ -3,9 +3,9 @@ title: Problèmes connus dans les nouveaux [!DNL Adobe Workfront] Expérience
 description: Problèmes connus signalés pour les nouveaux [!DNL Adobe Workfront] Expérience
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
+source-git-commit: 58b95fb905fc12cc459fbdd021fee3c92536d203
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '507'
 ht-degree: 2%
 
 ---
@@ -38,6 +38,8 @@ Les correctifs de ces problèmes sont actuellement en cours ou sont programmés 
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Agile : Problèmes avec des tâches ajoutées à une itération](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md) | 13 octobre 2022 |
+| [Formulaires personnalisés : Erreur &quot;Ouvre&quot; lors de la configuration d’un champ calculé](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 13 octobre 2022 |
 | [Affectations : Erreur lors de l’affectation groupée d’une équipe](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md) | 13 octobre 2022 |
 | [Modèles de mise en page : Erreur lors de la personnalisation des listes dans un modèle de mise en page](known-issues-workfront/wf-layout-templates-error-lists-users.md) | 13 octobre 2022 |
 | [Listes : [!UICONTROL Filtre rapide] ne renvoie aucun résultat lors de la recherche d’équipes](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md) | 12 octobre 2022 |
