@@ -3,14 +3,18 @@ title: "Bon à tirer Workfront : Les demandeurs et les réviseurs sont comptabil
 description: Lorsqu’un utilisateur est ajouté à un BAT en tant que réviseur ou demandeur, il obtient un profil d’autorisations Visiteur , qui ne doit pas utiliser de licence de BAT. Cependant, lorsque l’utilisateur est ajouté, le nombre de licences de BAT utilisées augmente.
 exl-id: 7a4b0007-4e75-457a-984e-1b50492e8818
 hidefromtoc: true
-source-git-commit: d122c128b926167a00c7149cb88392b618486876
+source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
 # [!DNL Workfront Proof]: Les demandeurs et les réviseurs sont comptabilisés dans le nombre de licences d’une organisation.
+
+>[!NOTE]
+>
+>Ce problème a été résolu le 13 octobre 2022.
 
 Lorsqu’un utilisateur est ajouté à un BAT en tant que réviseur ou demandeur, il obtient un &quot;[!UICONTROL Visiteur]&quot;profil d’autorisations, qui ne doit pas utiliser une [!DNL Workfront Proof] licence. Cependant, lorsque l’utilisateur est ajouté, le nombre de utilisé [!DNL Workfront Proof] les licences augmentent.
 

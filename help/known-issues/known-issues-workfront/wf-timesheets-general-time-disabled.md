@@ -2,15 +2,19 @@
 title: "Fiches horaires : Impossible de saisir les heures dans l’heure générale"
 description: "Lorsqu’un utilisateur tente de se connecter aux heures dans la section Heure générale de sa feuille de temps, il n’y a pas de zones dans lesquelles entrer les heures. Si l’utilisateur survole la zone où il entre des heures, le message Sélectionner un titre de tâche pour consigner les heures s’affiche."
 hidefromtoc: true
-source-git-commit: 2ae28fe20f42dc04f717c543505486404794fb4e
+source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
 
 
 # Feuilles de temps : Ne peut pas entrer de heures dans [!UICONTROL Heure générale]
+
+>[!NOTE]
+>
+>Ce problème a été résolu le 13 octobre 2022.
 
 Lorsqu’un utilisateur tente de se connecter aux heures dans la variable [!UICONTROL Heure générale] de leur feuille de temps, il n’y a pas de zones dans lesquelles entrer les heures. Si l’utilisateur survole la zone où il entre des heures, le message &quot;[!UICONTROL Sélectionnez un titre de tâche pour consigner les heures.]&quot;
 
