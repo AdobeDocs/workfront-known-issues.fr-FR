@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus pour [!DNL Adobe Workfront]
-source-git-commit: cdc8a8a6c4dbf6b53a7c8aa0aeae37058f60f5c5
+source-git-commit: f7685aec7811e8741440479d083ef13922b73327
 workflow-type: tm+mt
-source-wordcount: '1391'
+source-wordcount: '1398'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes en cours dans [!DNL Adobe Workfront] {#wf-current}
+      + [Programmes : Problèmes lors de l’attribution d’un [!UICONTROL Propriétaire du programme]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md)
       + [Rapports : Option &quot;Déplacer vers&quot; non disponible dans les rapports de problème](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md)
       + [Problèmes : Le nombre de problèmes dans le volet de navigation gauche de la tâche est incorrect](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md)
       + [Agile : Problèmes avec des tâches ajoutées à une itération](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md)
