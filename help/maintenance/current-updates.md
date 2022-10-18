@@ -2,9 +2,9 @@
 title: Mises à jour de maintenance de Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b5cb8f1b158fcdacf158a7bee854c82f143ce96f
+source-git-commit: efb3af8506cf73ac7a5fe7e9f756356fdb298158
 workflow-type: tm+mt
-source-wordcount: '14290'
+source-wordcount: '14458'
 ht-degree: 3%
 
 ---
@@ -30,6 +30,39 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2022.
 Pour connaître les mises à jour de maintenance antérieures à 2022, voir [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
 
 ## Mises à jour en octobre 2022
+
++++**Mise à jour de maintenance le 20 octobre 2022**
+
+**Erreur lors de l’affectation groupée d’une équipe**
+
+*Affectations*
+
+Lorsqu’un utilisateur effectue des tâches ou des problèmes de modification en masse et affecte une équipe après avoir affecté une personne, les affectations ne sont pas enregistrées et l’utilisateur voit l’erreur suivante :
+
+&quot;[!UICONTROL Essayons de nouveau - L’erreur suivante s’est produite : TeamAssignments doit être une liste d’objets ou une liste d’identifiants]&quot;
+
+**[!UICONTROL Échec du téléchargement du fichier]&quot; erreur**
+
+*Documents*
+
+Lorsqu’un utilisateur tente de charger un fichier dans la variable [!UICONTROL Documents] , le fichier ne charge pas et l’utilisateur voit l’erreur &quot;[!UICONTROL Échec du téléchargement du fichier].&quot;
+
+Ceci a été signalé lors de la tentative de téléchargement de fichiers MP4.
+
+**Le nombre de problèmes dans le volet de navigation gauche de la tâche est incorrect**
+
+*problèmes*
+
+Lorsqu’un utilisateur consulte une tâche, le nombre affiché dans la variable [!UICONTROL Problèmes] de la navigation de gauche ne représente pas exactement le nombre réel de problèmes liés à la tâche.
+
+
+**[!UICONTROL Prédécesseur] icône manquante dans l’en-tête de la tâche**
+
+*Tâches*
+
+Lorsqu’un utilisateur consulte une tâche, l’icône du prédécesseur de la tâche est absente de l’en-tête .
+
++++
 
 +++**Mise à jour de maintenance le 13 octobre 2022**
 
