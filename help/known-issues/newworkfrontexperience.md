@@ -3,9 +3,9 @@ title: Problèmes connus dans les nouveaux [!DNL Adobe Workfront] Expérience
 description: Problèmes connus signalés pour les nouveaux [!DNL Adobe Workfront] Expérience
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: f7685aec7811e8741440479d083ef13922b73327
+source-git-commit: 3409c8e333da62ef218156c1479c4c4263448806
 workflow-type: tm+mt
-source-wordcount: '525'
+source-wordcount: '554'
 ht-degree: 2%
 
 ---
@@ -24,6 +24,8 @@ Ces problèmes récemment signalés sont actuellement à l’étude.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Panoramas]: [!UICONTROL Panoramas] page ne se charge pas](known-issues-workfront/wf-boards-boards-do-not-load.md) | 18 octobre 2022 |
+| [Documents : Le lien de requête de document externe mène à la page de connexion](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 18 octobre 2022 |
 | [Problèmes : Le nombre de problèmes dans le volet de navigation gauche de la tâche est incorrect](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md) | 12 octobre 2022 |
 | [Bons à tirer : La zone de texte &quot;Nouveaux destinataires du BAT&quot; est trop petite](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 6 octobre 2022 |
 | [Documents : &quot;[!UICONTROL Échec du téléchargement du fichier]&quot; erreur](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4 octobre 2022 |
@@ -59,6 +61,7 @@ Les correctifs de ces problèmes ne figurent pas actuellement sur la feuille de 
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bons à tirer : Le BAT n’est pas partagé avec les utilisateurs du workflow de BAT.](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18 septembre 2022 |
 | [Bons à tirer : [!UICONTROL Principales étapes de preuve] champ vide](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 septembre 2022 |
 | [Tableaux de bord : Les graphiques des rapports affichés dans un tableau de bord utilisent des couleurs différentes de celles affichées dans le rapport.](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 5 août 2022 |
 | [[!UICONTROL Accueil]: La terminologie personnalisée n’est pas appliquée à la zone d’accueil.](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | 3 juin 2022 |

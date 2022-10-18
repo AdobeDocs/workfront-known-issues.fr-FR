@@ -3,9 +3,9 @@ title: Problèmes connus dans [!DNL Adobe Workfront Proof]
 description: Problèmes connus signalés pour [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
+source-git-commit: 3409c8e333da62ef218156c1479c4c4263448806
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '213'
 ht-degree: 6%
 
 ---
@@ -24,6 +24,7 @@ Ces problèmes récemment signalés sont actuellement à l’étude.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documents : Le lien de requête de document externe mène à la page de connexion](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 18 octobre 2022 |
 | [Bons à tirer : La zone de texte &quot;Nouveaux destinataires du BAT&quot; est trop petite](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 6 octobre 2022 |
 | [Documents : &quot;[!UICONTROL Échec du téléchargement du fichier]&quot; erreur](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4 octobre 2022 |
 
@@ -45,6 +46,7 @@ Les correctifs de ces problèmes ne figurent pas actuellement sur la feuille de 
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bons à tirer : Le BAT n’est pas partagé avec les utilisateurs du workflow de BAT.](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18 septembre 2022 |
 | [Bons à tirer : [!UICONTROL Principales étapes de preuve] champ vide](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 septembre 2022 |
 | [[!DNL Workfront Proof]: Impossible d’ajouter un utilisateur à un BAT en le balisant dans un commentaire](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 23 mars 2022 |
 | [[!UICONTROL Accueil]: [!UICONTROL Réponse en BAT] comportement du bouton incohérent](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 21 juin 2021 |
