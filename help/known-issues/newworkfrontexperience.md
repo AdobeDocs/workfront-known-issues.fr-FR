@@ -3,7 +3,7 @@ title: Problèmes connus dans les nouveaux [!DNL Adobe Workfront] Expérience
 description: Problèmes connus signalés pour les nouveaux [!DNL Adobe Workfront] Expérience
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 3409c8e333da62ef218156c1479c4c4263448806
+source-git-commit: ed7f0376de050a220e907bb793c4911f88390a80
 workflow-type: tm+mt
 source-wordcount: '554'
 ht-degree: 2%
@@ -27,7 +27,6 @@ Ces problèmes récemment signalés sont actuellement à l’étude.
 | [[!UICONTROL Panoramas]: [!UICONTROL Panoramas] page ne se charge pas](known-issues-workfront/wf-boards-boards-do-not-load.md) | 18 octobre 2022 |
 | [Documents : Le lien de requête de document externe mène à la page de connexion](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 18 octobre 2022 |
 | [Problèmes : Le nombre de problèmes dans le volet de navigation gauche de la tâche est incorrect](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md) | 12 octobre 2022 |
-| [Bons à tirer : La zone de texte &quot;Nouveaux destinataires du BAT&quot; est trop petite](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 6 octobre 2022 |
 | [Documents : &quot;[!UICONTROL Échec du téléchargement du fichier]&quot; erreur](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4 octobre 2022 |
 | [Notifications : Utilisateurs non avertis lorsqu’ils sont mentionnés ou inclus dans un commentaire](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 29 septembre 2022 |
 | [Notifications : Erreurs lors de l’accès aux paramètres de notification électronique](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 15 septembre 2022 |
@@ -41,6 +40,7 @@ Les correctifs de ces problèmes sont actuellement en cours ou sont programmés 
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bons à tirer : La zone de texte &quot;Nouveaux destinataires du BAT&quot; est trop petite](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 18 octobre 2022 |
 | [Programmes : Problèmes lors de l’attribution d’un [!UICONTROL Propriétaire du programme]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md) | 17 octobre 2022 |
 | [Rapports : Option &quot;Déplacer vers&quot; non disponible dans les rapports de problème](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | 13 octobre 2022 |
 | [Agile : Problèmes avec des tâches ajoutées à une itération](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md) | 13 octobre 2022 |
