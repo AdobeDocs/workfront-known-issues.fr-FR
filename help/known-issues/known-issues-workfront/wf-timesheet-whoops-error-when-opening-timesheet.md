@@ -1,24 +1,24 @@
 ---
-title: "Fiches horaires : Oups ! erreur lors de l’ouverture d’une feuille de temps"
-description: "Lorsqu’un utilisateur tente d’ouvrir une feuille de temps, celle-ci ne se charge pas et l’utilisateur voit la variable [!UICONTROL Oups] error."
+title: "Feuilles de temps\_: erreur de type Oups\_! à l’ouverture d’une feuille de temps"
+description: "Lorsque l’utilisateur tente d’ouvrir une feuille de temps, celle-ci ne se charge pas et une erreur de type [!UICONTROL Oups] apparaît."
 hidefromtoc: true
 source-git-commit: fb377977f4f166a1631eb33be94a88b23d8676a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
-# Feuilles de temps : [!UICONTROL Oups !] erreur lors de l’ouverture d’une feuille de temps
+# Feuilles de temps : erreur de type [!UICONTROL Oups !] à l’ouverture d’une feuille de temps
 
 >[!NOTE]
 >
 >Ce problème a été résolu le 29 août 2022.
 
-Lorsqu’un utilisateur tente d’ouvrir une feuille de temps, celle-ci ne se charge pas et l’utilisateur voit l’erreur suivante :
+Lorsque l’utilisateur tente d’ouvrir une feuille de temps, celle-ci ne se charge pas et le message d’erreur suivant apparaît :
 
-&quot;[!UICONTROL Oups ! Un problème est survenu. Veuillez contacter [!DNL Workfront] donc nous pouvons comprendre ce qui s&#39;est mal passé et y remédier.]&quot;
+&quot;[!UICONTROL Oups ! Un problème est survenu. Contactez [!DNL Workfront] pour nous aider à comprendre l’erreur et y remédier.]&quot;
 
-_Le premier a eu lieu le 25 août 2022._
+_Premier signalement le 25 août 2022._
 
