@@ -1,21 +1,21 @@
 ---
-title: 'Rapports : Les rapports planifiés ne sont pas envoyés à tous les destinataires.'
-description: Lorsqu’un rapport planifié est envoyé, il n’est pas envoyé à tous les utilisateurs de la variable [!UICONTROL Envoyer à] . Les utilisateurs omis sont aléatoires et peuvent varier chaque fois que le rapport est envoyé.
+title: "Rapports\_: les rapports planifiés ne sont pas envoyés à tous les destinataires"
+description: Lorsqu’un rapport planifié est envoyé, il n’est pas envoyé à tous les utilisateurs dans la section [!UICONTROL Envoyer à]. Les utilisateurs omis sont aléatoires et peuvent varier à chaque envoi du rapport.
 exl-id: b96ceb30-2e57-48cb-a813-3a1fc49d65a5
 hidefromtoc: true
 source-git-commit: 453eef770b0f31990946c746e677fb453d0be94b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Rapports : Les rapports planifiés ne sont pas envoyés à tous les destinataires.
+# Rapports : les rapports planifiés ne sont pas envoyés à tous les destinataires
 
 >[!NOTE]
 >
 >Ce problème a été résolu le 28 juillet 2022.
 
-Lorsqu’un rapport planifié est envoyé, il n’est pas envoyé à tous les utilisateurs du[!UICONTROL Envoyer à]&quot;. Les utilisateurs omis sont aléatoires et peuvent varier chaque fois que le rapport est envoyé.
+Lorsqu’un rapport planifié est envoyé, il n’est pas envoyé à tous les utilisateurs dans la section &quot;[!UICONTROL Envoyer à]&quot;. Les utilisateurs omis sont aléatoires et peuvent varier à chaque envoi du rapport.
 
-_Premier article du 9 décembre 2021._
+_Premier signalement le 9 décembre 2021._
