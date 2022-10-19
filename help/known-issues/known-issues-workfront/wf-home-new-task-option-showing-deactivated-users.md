@@ -1,17 +1,17 @@
 ---
-title: '''Home : Option Nouvelle tâche présentant les utilisateurs désactivés dans le champ Attribuer à'
-description: Lorsqu’un utilisateur accède à la nouvelle [!DNL Adobe Workfront] l’expérience crée une nouvelle tâche ou un problème dans la zone Accueil . Elle tente d’affecter un utilisateur. Les utilisateurs désactivés apparaissent sous la forme de sélections dans la [!UICONTROL typeforward] liste déroulante.
+title: "Accueil\_: l’option Nouvelle tâche indique des utilisateurs désactivés dans le champ “Affecter à”"
+description: Lorsque l’utilisateur dans la nouvelle expérience  [!DNL Adobe Workfront]  crée une nouvelle tâche ou un nouvel événement dans la zone d’Accueil et tente d’y affecter un utilisateur, des utilisateurs désactivés peuvent être sélectionnés dans la liste déroulante de [!UICONTROL saisie semi-automatique].
 exl-id: 32257ac1-9804-4793-9c37-62ca5608df3d
 hidefromtoc: true
 source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL Accueil]: [!UICONTROL Nouvelle tâche] option affichant les utilisateurs désactivés dans [!UICONTROL Attribuer à] field
+# [!UICONTROL Accueil] : l’option [!UICONTROL Nouvelle tâche] indique des utilisateurs désactivés dans le champ [!UICONTROL Affecter à]
 
-Lorsqu’un utilisateur accède à la nouvelle [!DNL Adobe Workfront] crée une nouvelle tâche ou un problème dans le [!UICONTROL Accueil] pour tenter d’affecter un utilisateur, les utilisateurs désactivés apparaissent sous la forme de sélections dans la liste déroulante type .
+Lorsque l’utilisateur dans la nouvelle expérience [!DNL Adobe Workfront] crée une nouvelle tâche ou un nouvel événement dans la zone d’[!UICONTROL Accueil] et tente d’y affecter un utilisateur, des utilisateurs désactivés peuvent être sélectionnés dans la liste déroulante de saisie semi-automatique.
 
-_Premier article du 15 juin 2021._
+_Premier signalement le 15 juin 2021._
