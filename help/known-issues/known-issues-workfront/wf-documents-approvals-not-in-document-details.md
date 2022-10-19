@@ -1,26 +1,26 @@
 ---
-title: "Documents : Approbation de document non disponible à partir de la page Détails du document"
-description: "Lorsqu’un utilisateur tente d’approuver un document à partir de la page Détails du document, la variable [!UICONTROL Approuver], [!UICONTROL Approuver avec des modifications], et [!UICONTROL Rejeter] Les boutons ne sont pas disponibles et l’utilisateur ne peut pas prendre de décision sur le document."
+title: "Documents\_: les approbations de document sont inaccessibles depuis la page Détails du document"
+description: "Lorsque l’utilisateur tente d’approuver un document à partir de sa page Détails, les boutons [!UICONTROL Approuver], [!UICONTROL Approuver avec modifications] et [!UICONTROL Refuser] ne sont pas sélectionnables et l’utilisateur ne peut pas prendre de décision pour ce document."
 hidefromtoc: true
 source-git-commit: de7f66f7acba1a0ac32a1257b2e643a767eae7fb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '124'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Documents : Approbations de document non disponibles depuis [!UICONTROL Détails du document] page
+# Documents : les approbations de document sont inaccessibles depuis la page [!UICONTROL Détails du document]
 
 >[!NOTE]
 >
 >Ce problème a été résolu le 7 septembre 2022.
 
-lorsqu’un utilisateur tente d’approuver un document à partir de la fonction [!UICONTROL Détails] , [!UICONTROL Approuver], [!UICONTROL Approuver avec des modifications], et [!UICONTROL Rejeter] ne sont pas disponibles et l’utilisateur ne peut pas prendre de décision sur le document.
+Lorsque l’utilisateur tente d’approuver un document à partir de sa page [!UICONTROL Détails], les boutons [!UICONTROL Approuver], [!UICONTROL Approuver avec modifications] et [!UICONTROL Refuser] ne sont pas sélectionnables et l’utilisateur ne peut pas prendre de décision pour ce document.
 
 **Solution**
 
-Cliquez sur le document dans le [!UICONTROL Documents] liste d’un élément de travail. Le [!UICONTROL Approuver], [!UICONTROL Approuver avec des modifications], et [!UICONTROL Rejeter] Les boutons disponibles dans la [!UICONTROL Résumé du document] zone.
+Cliquez sur le document dans la liste des [!UICONTROL Documents] d’un élément de travail. Les boutons [!UICONTROL Approuver], [!UICONTROL Approuver avec modifications] et [!UICONTROL Rejeter] sont alors sélectionnables dans la zone [!UICONTROL Résumé du document].
 
-_Premier article du 2 septembre 2022._
+_Premier signalement le 2 septembre 2022._
 
