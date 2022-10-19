@@ -1,22 +1,22 @@
 ---
-title: 'Notifications par e-mail : Les emails ne sont pas correctement formatés dans Outlook'
-description: Lorsqu’un message électronique est défini pour un utilisateur disposant d’une adresse électronique Outlook de sorte qu’il n’autorise pas le téléchargement automatique d’une image et qu’il reçoit une notification par courrier électronique de la part de [!DNL Workfront], l’image de profil de l’utilisateur dans la notification ne s’affiche pas correctement, le nom de l’image s’affichant parfois verticalement. Le téléchargement manuel de ces images ne corrige pas le problème de mise en forme.
+title: "Notifications par e-mail\_: les e-mails ne sont pas formatés correctement dans Outlook"
+description: 'Lorsque l’adresse e-mail Outlook de l’utilisateur est configurée de manière à ne pas télécharger automatiquement les images et qu’il reçoit une notification par e-mail de la part de  [!DNL Workfront], l’image de profil de l’utilisateur dans la notification ne s’affiche pas correctement : le nom de l’image apparaît parfois à la verticale. Le téléchargement manuel de ces images ne rectifie pas le problème de formatage.'
 exl-id: 15624837-b6bb-4e75-bb9c-1d034d3571f4
 hidefromtoc: true
 source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '162'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Notifications par e-mail : Le formatage des emails n’est pas correct dans [!DNL Outlook]
+# Notifications par e-mail : les e-mails ne sont pas formatés correctement dans [!DNL Outlook]
 
 >[!NOTE]
 >
->L’équipe produit évalue actuellement cette résolution de problème, qui peut nécessiter des améliorations du produit. Les améliorations apportées aux produits sont communiquées dans les annonces de produits et non dans les mises à jour de maintenance.
+>L’équipe produit évalue actuellement la résolution de ce problème, qui peut nécessiter des améliorations du produit. Les améliorations apportées aux produits sont communiquées dans les annonces de produit et non dans les mises à jour de maintenance.
 
-Lorsqu’un utilisateur dispose d’un [!DNL Outlook] L’adresse électronique de l’utilisateur est définie de manière à ne pas autoriser le téléchargement automatique d’une image et elle reçoit une notification par courrier électronique de la part de [!DNL Workfront], l’image de profil de l’utilisateur dans la notification ne s’affiche pas correctement, le nom de l’image s’affichant parfois verticalement. Le téléchargement manuel de ces images ne corrige pas le problème de mise en forme.
+Lorsque l’adresse e-mail [!DNL Outlook] de l’utilisateur est configurée de manière à ne pas télécharger automatiquement les images et qu’il reçoit une notification par e-mail de la part de [!DNL Workfront], l’image de profil de l’utilisateur dans la notification ne s’affiche pas correctement : le nom de l’image apparaît parfois à la verticale. Le téléchargement manuel de ces images ne rectifie pas le problème de formatage.
 
 
-_Premier article du 13 novembre 2020._
+_Premier signalement le 13 novembre 2020._
