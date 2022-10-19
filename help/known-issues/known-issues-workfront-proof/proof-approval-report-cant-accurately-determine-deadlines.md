@@ -1,19 +1,19 @@
 ---
-title: "Bons à tirer : Le rapport Approbation de BAT ne peut pas déterminer avec précision les échéances."
-description: Lorsqu’un utilisateur crée une [!UICONTROL Approbation du BAT] qui contient les dates d’échéance des BAT, les dates qui s’affichent dans le rapport sont incorrectes, ce qui entraîne des rapports d’erreurs de calcul et des informations inexactes dans les résultats.
+title: "Épreuves\_: le rapport Approbation de l’épreuve ne détermine pas précisément les dates limites"
+description: Lorsque l’utilisateur crée un rapport [!UICONTROL Approbation de l’épreuve] qui contient les dates limites de l’épreuve, les dates qui s’affichent dans le rapport ne sont pas correctes. Les calculs du rapport sont alors inexacts, et les résultats le sont également.
 exl-id: 1f636a74-9522-4f2b-8e91-4f0facf1cdbc
 hidefromtoc: true
 source-git-commit: d122c128b926167a00c7149cb88392b618486876
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '115'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Bons à tirer : [!UICONTROL Approbation du BAT] rapport ne peut pas déterminer avec précision les échéances
+# Épreuves : le rapport [!UICONTROL Approbation de l’épreuve] ne détermine pas précisément les dates limites
 
-REMARQUE : L’équipe produit évalue actuellement cette résolution de problème, qui peut nécessiter des améliorations du produit. Les améliorations apportées aux produits sont communiquées dans les annonces de produits et non dans les mises à jour de maintenance.
+REMARQUE : l’équipe produit évalue actuellement la résolution de ce problème, qui peut nécessiter des améliorations du produit. Les améliorations apportées aux produits sont communiquées dans les annonces de produit et non dans les mises à jour de maintenance.
 
-Lorsqu’un utilisateur crée une [!UICONTROL Approbation du BAT] qui contient les dates d’échéance des BAT, les dates qui s’affichent dans le rapport sont incorrectes, ce qui entraîne des rapports d’erreurs de calcul et des informations inexactes dans les résultats.
+Lorsque l’utilisateur crée un rapport [!UICONTROL Approbation de l’épreuve] qui contient les dates limites de l’épreuve, les dates qui s’affichent dans le rapport ne sont pas correctes. Les calculs du rapport sont alors inexacts, et les résultats le sont également.
 
-Premier article du 21 décembre 2020
+Premier signalement le 21 décembre 2020
