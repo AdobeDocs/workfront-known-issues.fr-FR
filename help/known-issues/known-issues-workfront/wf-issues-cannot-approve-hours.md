@@ -1,21 +1,21 @@
 ---
-title: "Problèmes : Ne peut pas approuver ou rejeter des heures sur un problème"
-description: Lorsqu’un utilisateur tente d’approuver ou de rejeter des heures sur la variable [!UICONTROL Heures] de l’onglet d’un problème, la variable [!UICONTROL Approuver] et [!UICONTROL Rejeter] les boutons sont manquants.
+title: "Événements\_: impossible d’approuver ou de rejeter des heures dans un événement"
+description: Lorsque l’utilisateur tente d’approuver ou de rejeter des heures dans l’onglet [!UICONTROL Heures] d’un événement, les boutons [!UICONTROL Approuver] et [!UICONTROL Rejeter] n’apparaissent pas.
 exl-id: ee01b27a-acca-433f-9661-32ffaf683a58
 hidefromtoc: true
 source-git-commit: b02ad4aa856642d9b9849a6a8e0d9c94e4748970
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Problèmes : Ne peut pas approuver ou rejeter des heures sur un problème
+# Événements : impossible d’approuver ou de rejeter des heures dans un événement
 
 >[!NOTE]
 >
->Ce problème a été corrigé le 1er septembre 2022.
+>Ce problème a été résolu le 1 septembre 2022.
 
-Lorsqu’un utilisateur tente d’approuver ou de rejeter des heures sur la variable [!UICONTROL Heures] de l’onglet d’un problème, la variable [!UICONTROL Approuver] et [!UICONTROL Rejeter] les boutons sont manquants.
+Lorsque l’utilisateur tente d’approuver ou de rejeter des heures dans l’onglet [!UICONTROL Heures] d’un événement, les boutons [!UICONTROL Approuver] et [!UICONTROL Rejeter] n’apparaissent pas.
 
-_Premier article du 13 juin 2022._
+_Premier signalement le 13 juin 2022._
