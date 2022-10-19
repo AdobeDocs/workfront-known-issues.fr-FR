@@ -1,23 +1,23 @@
 ---
-title: '''Fiches horaires'' Les heures facturées comportent déjà une erreur lors de l''ajout d''heures sur une feuille de temps."'
-description: Lorsqu’un utilisateur tente d’ajouter des heures à une tâche sur sa feuille de temps, les heures ne sont pas ajoutées et un message d’erreur s’affiche.
+title: "Feuilles de temps\_: erreur 'Des heures facturées existent déjà' lors de l’ajout d’heures dans une feuille de temps"
+description: Lorsque l’utilisateur tente d’ajouter des heures à une tâche sur sa feuille de temps, les heures ne s’ajoutent pas et un message d’erreur apparaît.
 hidefromtoc: true
 exl-id: db991a00-f8db-461a-b876-1a11d20a5efa
 source-git-commit: fb377977f4f166a1631eb33be94a88b23d8676a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Feuilles de temps : &quot;[!UICONTROL Les heures facturées existent déjà]&quot; erreur lors de l’ajout d’heures sur une feuille de temps
+# Feuilles de temps : erreur &quot;[!UICONTROL Des heures facturées existent déjà]&quot; lors de l’ajout d’heures dans une feuille de temps
 
 >[!NOTE]
 >
 >Ce problème a été résolu le 25 août 2022.
 
-Lorsqu’un utilisateur tente d’ajouter des heures à une tâche sur sa feuille de temps, les heures ne sont pas ajoutées et l’utilisateur voit le message d’erreur suivant :
+Lorsque l’utilisateur tente d’ajouter des heures à une tâche sur sa feuille de temps, les heures ne s’ajoutent pas et le message d’erreur suivant apparaît :
 
-[!UICONTROL Les heures facturées existent déjà sur cet objet pour (date).]
+[!UICONTROL Des heures facturées existent déjà dans cet objet pour (date).]
 
-_Premier article du 22 juillet 2022._
+_Premier signalement le 22 juillet 2022._
