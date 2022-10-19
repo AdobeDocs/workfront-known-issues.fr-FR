@@ -1,21 +1,21 @@
 ---
-title: '''Home : Le nom du projet s’affiche sous la forme d’un GUID dans la liste de travail.'
-description: Lorsqu’un utilisateur est invité à approuver un BAT, il n’a pas accès à et sa Liste de travail dans [!UICONTROL Accueil] est trié par nom de projet, l’utilisateur ne peut pas voir le nom du projet et le GUID s’affiche à la place.
+title: "Accueil\_: le nom du projet s’affiche sous la forme d’un GUID dans la Liste de travail"
+description: Lorsque l’utilisateur est invité à approuver une épreuve à laquelle il n’a pas accès et que sa Liste de travail dans l’[!UICONTROL Accueil] est triée en fonction du nom de projet, il ne peut pas voir le nom du projet, qui est remplacé par le GUID.
 exl-id: ca75430f-42ea-4239-9756-fd8d4f4aba89
 hidefromtoc: true
 source-git-commit: d122c128b926167a00c7149cb88392b618486876
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL Accueil]: [!UICONTROL Nom du projet] s’affiche sous la forme d’un GUID dans la variable [!UICONTROL Liste de tâches]
+# [!UICONTROL Accueil] : le [!UICONTROL nom du projet] s’affiche sous la forme d’un GUID dans la [!UICONTROL Liste de travail]
 
 >[!NOTE]
 >
->L’équipe produit évalue actuellement cette résolution de problème. Une fois ce problème résolu, il sera communiqué dans les annonces de produits et non dans les mises à jour de maintenance.
+>L’équipe produit évalue actuellement la résolution de ce problème. Une fois la résolution trouvée, elle sera communiquée dans les annonces de produits et non pas dans les mises à jour de maintenance.
 
-Lorsqu’un utilisateur est invité à approuver un bon à tirer, il n’a pas accès à et il a la propriété [!UICONTROL Liste de tâches] in [!UICONTROL Accueil] est triée par [!UICONTROL Nom du projet], l’utilisateur ne peut pas voir le nom du projet et le GUID s’affiche à la place.
+Lorsque l’utilisateur est invité à approuver une épreuve à laquelle il n’a pas accès et que sa [!UICONTROL Liste de travail] dans l’[!UICONTROL Accueil] est triée en fonction du [!UICONTROL nom de projet], il ne peut pas voir le nom du projet, qui est remplacé par le GUID.
 
-_Premier article du 5 janvier 2021._
+_Premier signalement le 5 janvier 2021._
