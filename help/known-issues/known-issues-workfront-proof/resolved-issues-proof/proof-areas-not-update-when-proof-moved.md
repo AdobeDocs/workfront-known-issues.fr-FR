@@ -1,26 +1,26 @@
 ---
-title: '''[!DNL Workfront] Bon à tirer : Les zones du BAT Workfront ne sont pas mises à jour lorsqu’un BAT est créé, déplacé ou archivé.'
-description: Actuellement, les délais d’indexation des bons à tirer sont retardés. Cela peut affecter l’expérience de l’utilisateur de différentes manières.
+title: "[!DNL Workfront] Proof\_: certaines zones de Workfront Proof ne se mettent pas à jour lorsqu’une épreuve est créée, déplacée ou archivée"
+description: L’indexation sur Proof prend actuellement plus de temps que prévu. Cela peut avoir diverses conséquences sur l’expérience utilisateur.
 keywords: nouveau fichier, ajouter un fichier
 exl-id: b2d0036d-3271-426e-a7e7-29ba5ec118d6
 hidefromtoc: true
 source-git-commit: d122c128b926167a00c7149cb88392b618486876
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# [!DNL Workfront Proof]: Zones [!DNL Workfront Proof] ne pas mettre à jour lorsqu’un BAT est créé, déplacé ou archivé ;
+# [!DNL Workfront Proof] : certaines zones de [!DNL Workfront Proof] ne se mettent pas à jour lorsqu’une épreuve est créée, déplacée ou archivée
 
 >[!NOTE]
 >
 >Ce problème a été résolu le 28 juillet 2022.
 
-[!DNL Workfront Proo]f connaît actuellement des retards d’indexation. Cela peut avoir une incidence sur l’expérience de l’utilisateur, notamment :
+L’indexation sur [!DNL Workfront Proo]f prend actuellement plus de temps que prévu. Cela peut avoir diverses conséquences sur l’expérience utilisateur, notamment :
 
-* Les tableaux de bord n’affichent pas le nombre correct de bons à tirer
-* Les dossiers ne sont pas mis à jour lorsqu’un BAT est créé ou déplacé
-* Les BAT archivés restent sur les principales listes de BAT.
+* Les tableaux de bord n’affichent pas le nombre correct d’épreuves
+* Les dossiers ne sont pas mis à jour lorsqu’une épreuve est créée ou déplacée
+* Les épreuves archivées restent dans les listes d’épreuves actives
 
-_Premier article publié le 1er juin 2022._
+_Premier signalement le 1 juin 2022._
