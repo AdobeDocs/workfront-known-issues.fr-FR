@@ -1,21 +1,21 @@
 ---
-title: "Bon à tirer Workfront : Les vues de dossier n’affichent pas de BAT"
-description: "Lorsqu’un utilisateur déplace un BAT vers un dossier, un délai indéterminé s’affiche lorsque le BAT n’apparaît pas dans l’arborescence de dossiers."
+title: "Workfront Proof\_: les épreuves n’apparaissent pas dans la vue des dossiers"
+description: "Lorsque l’utilisateur déplace une épreuve dans un dossier, l’épreuve n’apparaît pas dans l’arborescence des dossiers pendant une durée indéterminée."
 hidefromtoc: true
 source-git-commit: d122c128b926167a00c7149cb88392b618486876
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Workfront Proof]: Les vues de dossier n’affichent pas de BAT
+# [!DNL Workfront Proof] : les épreuves n’apparaissent pas dans la vue des dossiers
 
 >[!NOTE]
 >
 >Ce problème a été résolu le 28 juillet 2022.
 
-Lorsqu’un utilisateur déplace un BAT vers un dossier, un délai indéterminé s’affiche lorsque le BAT n’apparaît pas dans l’arborescence de dossiers.
+Lorsque l’utilisateur déplace une épreuve dans un dossier, l’épreuve n’apparaît pas dans l’arborescence des dossiers pendant une durée indéterminée.
 
-_Premier article du 7 juin 2022._
+_Premier signalement le 7 juin 2022._
