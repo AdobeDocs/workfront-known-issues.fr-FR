@@ -1,21 +1,21 @@
 ---
-title: "Notifications par e-mail : L’utilisateur n’est pas redirigé vers le fil de commentaire"
-description: Lorsqu’un utilisateur clique sur le lien Commentaire dans une notification électronique, il est dirigé vers la partie supérieure de la [!UICONTROL Mises à jour] au lieu du fil de commentaires auquel ils essaient de répondre.
+title: "Notifications par e-mail\_: l’utilisateur n’est pas redirigé vers le fil de commentaires"
+description: Lorsque l’utilisateur clique sur le lien Commentaire d’une notification envoyée par e-mail, il est redirigé vers le haut de la zone des [!UICONTROL Mises à jour] au lieu du fil de commentaires auxquels il est censé répondre.
 exl-id: 335c2867-eae5-46e8-a7d5-8b9b35e66e31
 hidefromtoc: true
 source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '114'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Notifications par e-mail : L’utilisateur n’est pas redirigé vers le fil de commentaire
+# Notifications par e-mail : l’utilisateur n’est pas redirigé vers le fil de commentaires
 
 >[!NOTE]
 >
->L’équipe produit évalue actuellement cette résolution de problème, qui peut nécessiter des améliorations du produit. Les améliorations apportées aux produits sont communiquées dans les annonces de produits et non dans les mises à jour de maintenance.
+>L’équipe produit évalue actuellement la résolution de ce problème, qui peut nécessiter des améliorations du produit. Les améliorations apportées aux produits sont communiquées dans les annonces de produit et non dans les mises à jour de maintenance.
 
-Lorsqu’un utilisateur clique sur la variable [!UICONTROL Commentaire] dans une notification électronique, ils sont redirigés vers la partie supérieure de la [!UICONTROL Mises à jour] au lieu du fil de commentaires auquel ils essaient de répondre.
+Lorsque l’utilisateur clique sur le lien [!UICONTROL Commentaire] d’une notification envoyée par e-mail, il est redirigé vers le haut de la zone des [!UICONTROL Mises à jour] au lieu du fil de commentaires auxquels il est censé répondre.
 
-_Premier article du 24 mars 2021._
+_Premier signalement le 24 mars 2021._
