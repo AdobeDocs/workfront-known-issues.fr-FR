@@ -1,25 +1,25 @@
 ---
-title: Les bons à tirer s’affichent comme "Générer un bon à tirer" pour un temps excessif.
-description: Lorsqu’un utilisateur génère un BAT, le BAT s’affiche sous la forme "Génération de BAT". Cela peut durer plusieurs heures. Si l'utilisateur tente d'ouvrir le BAT alors que "Générer un BAT" est toujours affiché, il ne peut pas ouvrir le BAT. Le BAT a été généré, mais il n'est pas accessible.
+title: Les épreuves indiquent "Génération de l’épreuve en cours" pendant un délai très long.
+description: Lorsque l’utilisateur génère une épreuve, celle-ci indique "Génération de l’épreuve en cours". Cela peut durer plusieurs heures. L’utilisateur ne peut pas ouvrir l’épreuve tant que le message "Génération de l’épreuve en cours" reste affiché. L’épreuve a été générée, mais elle n’est pas accessible.
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 480d4f21-ba17-4580-b2d8-0390fde17956
 hidefromtoc: true
 source-git-commit: d122c128b926167a00c7149cb88392b618486876
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '143'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Bons à tirer : Les bons à tirer s’affichent sous la forme &quot;[!UICONTROL Générer un BAT]&quot; pour des périodes excessives
+# Épreuves : les épreuves indiquent &quot;[!UICONTROL Génération de l’épreuve en cours]&quot; pendant un délai très long
 
 >[!NOTE]
 >
->* Ce problème a été résolu car il ne s’agit pas d’un problème.
+>* Ce problème a été résolu, car il ne s’agit pas d’un problème.
 >
->* Ce problème existe uniquement dans l’environnement de test de prévisualisation.
+>* Ce problème est uniquement présent dans l’environnement de sandbox de prévisualisation.
 
 
-Lorsqu’un utilisateur génère un BAT, celui-ci s’affiche sous la forme &quot;[!UICONTROL Générer un BAT].&quot; Cela peut durer plusieurs heures. Si l’utilisateur tente d’ouvrir le BAT pendant que &quot;[!UICONTROL Générer un BAT]&quot; est toujours affiché, l’utilisateur ne peut pas ouvrir le BAT. Le BAT a été généré, mais il n&#39;est pas accessible.
+Lorsque l’utilisateur génère une épreuve, celle-ci indique &quot;[!UICONTROL Génération de l’épreuve en cours]&quot;. Cela peut durer plusieurs heures. L’utilisateur ne peut pas ouvrir l’épreuve tant que le message &quot;[!UICONTROL Génération de l’épreuve en cours]&quot; reste affiché. L’épreuve a été générée, mais elle n’est pas accessible.
 
-*Premier article du 10 mai 2022.*
+*Premier signalement le 10 mai 2022.*
