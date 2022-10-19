@@ -1,21 +1,21 @@
 ---
-title: "Bon à tirer Workfront : Nouveaux champs de texte manquants de page BAT"
-description: "Sur le [!DNL New Proof] , de nombreux champs de texte ne s’affichent pas (libellés de champ, options de liste déroulante et noms de cases à cocher inclus)."
+title: "Workfront Proof\_: pas de champs de texte sur la page Nouvelle épreuve"
+description: "De nombreux champs de texte n’apparaissent pas sur la page  [!DNL New Proof]  (notamment les libellés des champs, les options des listes déroulantes et les noms des cases à cocher)."
 hidefromtoc: true
 source-git-commit: d122c128b926167a00c7149cb88392b618486876
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '60'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Workfront Proof]: [!UICONTROL Nouvelle preuve] Champs de texte manquants sur la page
+# [!DNL Workfront Proof] : pas de champs de texte sur la page [!UICONTROL Nouvelle épreuve]
 
 >[!NOTE]
 >
->Cet article a été corrigé le 18 août 2022.
+>Cet élément a été corrigé le 18 août 2022.
 
-Sur le [!UICONTROL Nouvelle preuve] , de nombreux champs de texte ne s’affichent pas (libellés de champ, options de liste déroulante et noms de case à cocher inclus).
+De nombreux champs de texte n’apparaissent pas sur la page [!UICONTROL Nouvelle épreuve] (notamment les libellés des champs, les options des listes déroulantes et les noms des cases à cocher).
 
-_Premier article du 11 août 2022._
+_Premier signalement le 11 août 2022._
