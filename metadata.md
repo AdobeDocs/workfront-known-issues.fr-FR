@@ -9,13 +9,13 @@ index: true
 source-git-commit: 88aad8bbf8fb7beaaefefa4b0e86dfd081289d50
 workflow-type: tm+mt
 source-wordcount: '62'
-ht-degree: 0%
+ht-degree: 93%
 
 ---
 
 
 # Métadonnées à usage interne
 
-Le [!DNL metadata]Le fichier .md comprend des métadonnées au niveau du référentiel qui sont transmises au guide de l’utilisateur. [!DNL TOC.md] dans le référentiel. Si vous souhaitez modifier le contenu metadata.md pour n’importe quel guide de l’utilisateur, faites-le dans n’importe quel fichier TOC.md.
+Le fichier [!DNL metadata].md comprend des métadonnées au niveau du référentiel qui sont transmises aux fichiers [!DNL TOC.md] du guide de l’utilisateur dans le référentiel. Si vous souhaitez modifier du contenu metadata.md pour n’importe quel guide de l’utilisateur, effectuez vos modifications dans n’importe quel fichier TOC.md.
 
-Voir [Métadonnées](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html) pour une liste de valeurs valides pour **solution**, **product**, et **type**.
+Consultez les [Métadonnées](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=fr) pour obtenir une liste de valeurs valides pour la **solution**, le **produit** et le **type**.

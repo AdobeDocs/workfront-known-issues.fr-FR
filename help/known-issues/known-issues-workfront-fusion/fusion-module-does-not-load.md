@@ -1,22 +1,22 @@
 ---
-title: "Workfront Fusion : Le module ne se charge pas lors de la création ou de la modification d’un scénario."
-description: "Lorsqu’un utilisateur crée ou modifie un scénario et tente d’ouvrir un module, le module ne s’ouvre pas. L’utilisateur voit un cercle en rotation, indiquant que le module est en cours de chargement, mais que le module ne se termine pas."
+title: "Workfront Fusion\_: le module ne se charge pas lors de la création ou de la modification d’un scénario"
+description: "Lorsque l’utilisateur crée ou modifie un scénario et tente d’ouvrir un module, ce dernier ne s’ouvre pas. Un cercle apparaît et tourne sur lui-même pour indiquer que le module est en cours de chargement, mais ce chargement est infini."
 hidefromtoc: true
 source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Workfront Fusion]: Le module ne se charge pas lors de la création ou de la modification d’un scénario
+# [!DNL Workfront Fusion] : le module ne se charge pas lors de la création ou de la modification d’un scénario
 
 >[!NOTE]
 >
 >Ce problème a été résolu le 16 septembre 2022.
 
-Lorsqu’un utilisateur crée ou modifie un scénario et tente d’ouvrir un module, le module ne s’ouvre pas. L’utilisateur voit un cercle tournoyant, indiquant que le module est en cours de chargement, mais que le module ne se termine pas.
+Lorsque l’utilisateur crée ou modifie un scénario et tente d’ouvrir un module, ce dernier ne s’ouvre pas. Un cercle apparaît et tourne sur lui-même pour indiquer que le module est en cours de chargement, mais ce chargement est infini.
 
-_Premier article du 12 septembre 2022._
+_Premier signalement le 12 septembre 2022._
 

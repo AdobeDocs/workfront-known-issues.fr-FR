@@ -1,31 +1,31 @@
 ---
-title: '''Home : Problèmes de résumé de l’accueil lors de l’utilisation de navigateurs autres que Chrome'
-description: Lorsqu’un utilisateur consulte sa page d’accueil et qu’il utilise un navigateur autre que Chrome, il peut voir les différents problèmes.
+title: "Accueil\_: problèmes au niveau du résumé de l’Accueil dans des navigateurs autres que Chrome"
+description: Lorsque l’utilisateur consulte sa page d’Accueil dans un navigateur autre que Chrome, divers problèmes peuvent survenir.
 exl-id: 7e1935e4-2814-4527-a65a-301f4b9a9669
 hidefromtoc: true
 source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '112'
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL Accueil]: [!UICONTROL Accueil] problèmes de résumé lors de l’utilisation de navigateurs autres que [!DNL Chrome]
+# [!UICONTROL Accueil] : problèmes au niveau du résumé de l’[!UICONTROL Accueil] dans des navigateurs autres que [!DNL Chrome]
 
 >[!NOTE]
 >
->Ce problème a été clos car il n’a pas pu être reproduit.
+>Ce problème a été résolu, car la situation n’a pas pu être reproduite.
 
 
-Lorsqu’un utilisateur consulte le rapport [!UICONTROL Accueil] et utilise un navigateur autre que [!DNL Chrome], ils peuvent rencontrer les problèmes suivants :
+Lorsque l’utilisateur consulte sa page d’[!UICONTROL Accueil] dans un navigateur autre que [!DNL Chrome], les problèmes suivants peuvent survenir :
 
-* L’utilisateur ne peut pas modifier les champs et ne peut pas ajouter de valeurs aux champs vides.
-* Les champs peuvent s’afficher même s’ils n’existent pas dans l’objet de travail affiché.
+* Impossible de modifier les champs et impossible d’ajouter des valeurs aux champs vides.
+* Des champs inexistants dans l’objet de travail consulté peuvent apparaître.
 
-Ces problèmes ont été signalés dans les navigateurs suivants :
+Ces problèmes ont été rencontrés avec les navigateurs suivants :
 
 * [!DNL Safari]
 * [!DNL Firefox]
 * [!DNL Microsoft Edge]
 
-_Premier article du 23 novembre 2021._
+_Premier signalement le 23 novembre 2021._

@@ -1,28 +1,28 @@
 ---
-title: '''Fiches horaires'' Vos modifications récentes n’ont pas été enregistrées en erreur lors de l’enregistrement automatique des modifications sur une feuille de temps."'
-description: Lorsqu’un utilisateur tente de modifier une feuille de temps de manière à déclencher une enregistrement automatique, les modifications ne sont pas enregistrées et l’utilisateur voit le message Vos dernières modifications n’ont pas été enregistrées. Actualisez la page à afficher.
+title: "Feuilles de temps\_: erreur 'Les derniers changements n’ont pas été enregistrés' lors de l’enregistrement automatique des modifications sur une feuille de temps"
+description: 'Lorsque l’utilisateur tente d’apporter une modification à une feuille de temps qui déclencherait son enregistrement automatique, la modification n’est pas enregistrée et le message suivant apparaît : "Vos dernières modifications n’ont pas été enregistrées. Actualisez la page que vous souhaitez afficher."'
 hidefromtoc: true
 exl-id: b2eef921-84f0-4c58-890a-c27b6ecd3686
 source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 1%
+ht-degree: 95%
 
 ---
 
-# Feuilles de temps : &quot;[!UICONTROL Vos modifications récentes n’ont pas été enregistrées.]&quot;erreur lors de l’enregistrement automatique des modifications sur une feuille de temps
+# Feuilles de temps : erreur &quot;[!UICONTROL Les derniers changements n’ont pas été enregistrés]&quot; lors de l’enregistrement automatique des modifications sur une feuille de temps
 
 >[!NOTE]
 >
 >Ce problème a été résolu le 6 octobre 2022.
 
-Lorsqu’un utilisateur tente de modifier une feuille de temps de manière à déclencher une enregistrement automatique, les modifications ne sont pas enregistrées et l’utilisateur voit le message suivant :
+Lorsque l’utilisateur tente d’apporter une modification à une feuille de temps qui déclencherait son enregistrement automatique, la modification n’est pas enregistrée et le message suivant apparaît :
 
-&quot;Y[!UICONTROL nos modifications récentes n’ont pas été enregistrées. Actualisez la page à afficher.]&quot;
+&quot;[!UICONTROL Vos dernières modifications n’ont pas été enregistrées. Actualisez la page que vous souhaitez afficher.]&quot;
 
-Cela a été signalé lors de la modification des éléments suivants :
+Ce problème a été signalé lors de la modification des éléments suivants :
 
 * Heures
 * Tâches
 
-_Premier article du 22 juillet 2022._
+_Premier signalement le 22 juillet 2022._

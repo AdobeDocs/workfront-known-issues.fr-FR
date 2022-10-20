@@ -1,19 +1,21 @@
 ---
-title: "[!DNL Workfront]: Problèmes lors de l’envoi d’un cas de prise en charge Workfront sur un Experience League"
-description: '''"Si vous êtes un [!DNL Workfront] Contactez l’assistance autorisée et rencontrez des problèmes lors de l’envoi d’un dossier d’assistance. Veuillez nous appeler aux numéros ci-dessous pour que nous puissions vous aider."'
+title: "[!DNL Workfront]\_: problèmes lors de la soumission d’un cas d’assistance Workfront sur Experience League"
+description: "Si vous êtes un Contact d’assistance  [!DNL Workfront]  autorisé et rencontrez des problèmes lors de la soumission d’un cas d’assistance, appelez les numéros ci-dessous pour recevoir de l’aide."
 hidefromtoc: true
 source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '85'
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Workfront]: Problèmes lors de l’envoi d’un [!DNL Workfront] cas d’assistance [!DNL Experience League]
+# [!DNL Workfront] : problèmes lors de la soumission d’un cas d’assistance [!DNL Workfront] sur [!DNL Experience League]
 
-Si vous êtes un [!DNL Workfront] Contact de l’assistance autorisé qui rencontre des problèmes lors de l’envoi d’un dossier d’assistance, veuillez cliquer sur [here](https://workfrontpartners.force.com/one/s/).
+Si vous êtes un Contact d’assistance [!DNL Workfront] autorisé et rencontrez des problèmes lors de la soumission d’un cas d’assistance, cliquez [ici](https://workfrontpartners.force.com/one/s/).
 
-Si vous rencontrez toujours des problèmes, veuillez nous contacter par téléphone afin que nous puissions vous aider.
+Si vous rencontrez toujours des problèmes, appelez-nous aux numéros ci-dessous pour recevoir de l’aide.
 
-Appelez 844-306-4357 (AIDE), 44-1256-274200 ou 61-1800-849259
+Appelez le 844-306-4357 (HELP)
+ou le 44-1256-274200
+ou le 61-1800-849259
