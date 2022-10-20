@@ -3,7 +3,7 @@ title: "Intégrations\_: erreur lors de l’ouverture de Workfront pour  [!DNL J
 description: "Lorsque l’utilisateur travaille dans  [!DNL Jira]  et tente d’ajouter ou d’ouvrir le module complémentaire  [!DNL Workfront for Jira] , celui-ci ne s’ouvre pas et un message d’erreur apparaît."
 hidefromtoc: true
 source-git-commit: 0c5a738b36e954f07802b3c095fbdce5fedda168
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '112'
 ht-degree: 100%
 
