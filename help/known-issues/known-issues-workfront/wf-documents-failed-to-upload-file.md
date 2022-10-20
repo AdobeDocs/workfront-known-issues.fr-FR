@@ -2,10 +2,10 @@
 title: "Documents : Échec du téléchargement du fichier d’erreur"
 description: "Lorsqu’un utilisateur tente de charger un fichier dans la zone Documents, le fichier n’est pas chargé et l’utilisateur voit l’erreur Échec du téléchargement du fichier."
 hidefromtoc: true
-source-git-commit: 2c801b5adb0b1e2455cf741eb40596550fd33172
+source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 0%
+source-wordcount: '86'
+ht-degree: 4%
 
 ---
 
@@ -14,9 +14,13 @@ ht-degree: 0%
 
 <!--This issue is on the Workfront TOC and the Workfront Proof TOC-->
 
+>[!NOTE]
+>
+>Ce problème a été résolu le 20 octobre 2022.
+
 Lorsqu’un utilisateur tente de charger un fichier dans la variable [!UICONTROL Documents] , le fichier ne charge pas et l’utilisateur voit l’erreur &quot;[!UICONTROL Échec du téléchargement du fichier].&quot;
 
 Ceci a été signalé lors de la tentative de téléchargement de fichiers MP4.
 
-_Premier article du 19 septembre 2022._
+_Premier signalement le 19 septembre 2022._
 

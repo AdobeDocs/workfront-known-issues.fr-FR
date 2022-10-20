@@ -2,7 +2,7 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: efb3af8506cf73ac7a5fe7e9f756356fdb298158
+source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
 workflow-type: tm+mt
 source-wordcount: '14458'
 ht-degree: 93%
@@ -41,7 +41,7 @@ Lorsqu’un utilisateur effectue des tâches ou des problèmes de modification e
 
 &quot;[!UICONTROL Essayons de nouveau - L’erreur suivante s’est produite : TeamAssignments doit être une liste d’objets ou une liste d’identifiants]&quot;
 
-**[!UICONTROL Échec du téléchargement du fichier]&quot; erreur**
+**&quot;[!UICONTROL Échec du téléchargement du fichier]&quot; erreur**
 
 *Documents*
 

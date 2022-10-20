@@ -3,10 +3,10 @@ title: Problèmes connus dans  [!DNL Adobe Workfront Proof]
 description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 61c497b0e94a3844113240757d359c0ba26c5ebd
+source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '216'
+ht-degree: 57%
 
 ---
 
@@ -25,8 +25,6 @@ Ces problèmes récemment signalés sont actuellement à l’étude.
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
 | [Bons à tirer : La synthèse d’impression n’affiche pas toutes les pages du BAT.](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 octobre 2022 |
-| [Documents : Le lien de requête de document externe mène à la page de connexion](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 18 octobre 2022 |
-| [Documents : &quot;[!UICONTROL Échec du téléchargement du fichier]&quot; erreur](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4 octobre 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -36,6 +34,7 @@ Les correctifs de ces problèmes sont actuellement en cours ou sont programmés 
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documents : Le lien de requête de document externe mène à la page de connexion](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 20 octobre 2022 |
 | [Bons à tirer : La zone de texte &quot;Nouveaux destinataires du BAT&quot; est trop petite](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 18 octobre 2022 |
 
 {style=&quot;table-layout:auto&quot;}

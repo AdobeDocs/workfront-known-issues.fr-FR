@@ -2,15 +2,19 @@
 title: "Affectations : Erreur lors de l’affectation groupée d’une équipe"
 description: "Lorsqu’un utilisateur effectue des tâches ou des problèmes de modification en masse et affecte une équipe après avoir attribué une personne, les affectations ne sont pas enregistrées et l’utilisateur affiche une erreur."
 hidefromtoc: true
-source-git-commit: f16da861a5138c57722eea15a130e0b50cc167d0
+source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 0%
+source-wordcount: '111'
+ht-degree: 4%
 
 ---
 
 
 # Affectations : Erreur lors de l’affectation groupée d’une équipe
+
+>[!NOTE]
+>
+>Ce problème a été résolu le 20 octobre 2022.
 
 Lorsqu’un utilisateur effectue des tâches ou des problèmes de modification en masse et affecte une équipe après avoir affecté une personne, les affectations ne sont pas enregistrées et l’utilisateur voit l’erreur suivante :
 
@@ -20,5 +24,5 @@ Lorsqu’un utilisateur effectue des tâches ou des problèmes de modification e
 
 Attribuez d’abord l’équipe, puis les individus.
 
-_Premier article du 7 octobre 2022._
+_Premier signalement le 7 octobre 2022._
 

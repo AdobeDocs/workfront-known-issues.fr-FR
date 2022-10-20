@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
-source-git-commit: 61c497b0e94a3844113240757d359c0ba26c5ebd
+source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
 workflow-type: tm+mt
-source-wordcount: '1455'
+source-wordcount: '1467'
 ht-degree: 79%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 79%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Agile : Les tâches affectées par la modification en masse n’apparaissent pas dans le journal des tâches de l’équipe](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md)
       + [Rapports : Les informations d’utilisation des rapports ne sont pas mises à jour](known-issues-workfront/wf-reports-usage-not-updating.md)
       + [Navigation : Impossible de épingler des objets](known-issues-workfront/wf-navigation-cannot-pin-objects.md)
       + [[!UICONTROL Panoramas]: [!UICONTROL Panoramas] page ne se charge pas](known-issues-workfront/wf-boards-boards-do-not-load.md)
