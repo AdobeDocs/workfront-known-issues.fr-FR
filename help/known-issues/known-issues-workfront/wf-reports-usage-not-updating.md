@@ -4,8 +4,8 @@ description: "Lorsqu’un utilisateur affiche un rapport, les informations Derni
 hidefromtoc: true
 source-git-commit: 61c497b0e94a3844113240757d359c0ba26c5ebd
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 6%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

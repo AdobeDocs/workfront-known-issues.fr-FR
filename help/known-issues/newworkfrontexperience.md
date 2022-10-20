@@ -5,8 +5,8 @@ keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 51b03717b9db0e9247954ce72a58c25764766a18
 workflow-type: tm+mt
-source-wordcount: '559'
-ht-degree: 62%
+source-wordcount: '578'
+ht-degree: 60%
 
 ---
 
@@ -24,6 +24,7 @@ Ces problèmes récemment signalés sont actuellement à l’étude.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bons à tirer : La synthèse d’impression n’affiche pas toutes les pages du BAT.](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 octobre 2022 |
 | [[!UICONTROL Panoramas]: [!UICONTROL Panoramas] page ne se charge pas](known-issues-workfront/wf-boards-boards-do-not-load.md) | 18 octobre 2022 |
 | [Documents : Le lien de requête de document externe mène à la page de connexion](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 18 octobre 2022 |
 | [Problèmes : Le nombre de problèmes dans le volet de navigation gauche de la tâche est incorrect](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md) | 12 octobre 2022 |
@@ -40,6 +41,7 @@ Les correctifs de ces problèmes sont actuellement en cours ou sont programmés 
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Rapports : Les informations d’utilisation des rapports ne sont pas mises à jour](known-issues-workfront/wf-reports-usage-not-updating.md) | 19 octobre 2022 |
 | [Navigation : Impossible de épingler des objets](known-issues-workfront/wf-navigation-cannot-pin-objects.md) | 19 octobre 2022 |
 | [Bons à tirer : La zone de texte &quot;Nouveaux destinataires du BAT&quot; est trop petite](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 18 octobre 2022 |
 | [Programmes : Problèmes lors de l’attribution d’un [!UICONTROL Propriétaire du programme]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md) | 17 octobre 2022 |
