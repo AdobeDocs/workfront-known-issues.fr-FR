@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
-source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
+source-git-commit: 43639b335e2cc9b7c5e9ab96a4ec0642947270f2
 workflow-type: tm+mt
-source-wordcount: '1467'
+source-wordcount: '1454'
 ht-degree: 79%
 
 ---
@@ -165,7 +165,6 @@ ht-degree: 79%
    + Problèmes résolus dans [!DNL Workfront] Proof {#proof-resolved}
       + [[!DNL Workfront Proof] : certaines zones de  [!DNL Workfront Proof]  ne se mettent pas à jour lorsqu’une épreuve est créée, déplacée ou archivée](known-issues-workfront-proof/resolved-issues-proof/proof-areas-not-update-when-proof-moved.md)
       + [Épreuves : les épreuves indiquent &quot;[!UICONTROL Génération de l’épreuve en cours]&quot; pendant un délai très long](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
-      + [L’utilisateur ne peut pas se déplacer vers une autre étape d’une épreuve](known-issues-workfront-proof/resolved-issues-proof/user-cannot-move-self-to-another-stage-of-a-proof.md)
 
 
 + [!DNL Adobe Workfront Fusion] {#fusion}
@@ -183,7 +182,6 @@ ht-degree: 79%
       + [[!DNL Workfront Fusion] : une erreur 502 se produit lorsque le scénario inclut un module qui vérifie les décisions liées aux épreuves dans Workfront](known-issues-workfront-fusion/fusion-502-error-when-checking-proof-decision.md)
       + [Les liens d’aide in-app de [!DNL Workfront Fusion] ne mènent pas à des pages d’aide spécifiques](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
    + Problèmes résolus dans [!DNL Workfront Fusion] {#fusion-resolved}
-      + [Erreur 401 sur les modules  [!DNL Workfront] ](known-issues-workfront-fusion/resolved-issues-fusion/401-error-on-workfront-modules.md)
       + [Certaines données provenant de formulaires personnalisés ne sont pas disponibles dans les modules  [!DNL Workfront Fusion] [!DNL Workfront]](known-issues-workfront-fusion/resolved-issues-fusion/data-from-custom-forms-not-available.md)
 
 + [!UICONTROL Adobe Workfront Goals] {#goals}
