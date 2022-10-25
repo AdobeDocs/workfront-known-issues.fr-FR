@@ -2,9 +2,9 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
+source-git-commit: d95e66921c74e55ea5a8c6e926ed61e2c85174ed
 workflow-type: tm+mt
-source-wordcount: '14458'
+source-wordcount: '14607'
 ht-degree: 93%
 
 ---
@@ -30,6 +30,28 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2022.
 Pour connaître les mises à jour de maintenance antérieures à 2022, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
 
 ## Mises à jour d’octobre 2022
+
++++**Mise à jour de maintenance (planifiée) le 27 octobre 2022**
+
+**[!UICONTROL HEURE] La fonction des champs calculés utilise le format UTC.**
+
+*Formulaires personnalisés dans mon groupe*
+
+Lorsqu’un champ calculé inclut la variable [!UICONTROL HEURE] , la fonction renvoie des valeurs en fonction du fuseau horaire UTC plutôt que du fuseau horaire attendu. Par conséquent, tous les calculs basés sur la valeur HOUR sont incorrects.
+
+**[!UICONTROL Filtre rapide] ne renvoie aucun résultat lors de la recherche d’équipes**
+
+*Listes*
+
+Lorsqu’un utilisateur tente d’utiliser la variable [!UICONTROL Filtre rapide] dans une liste pour rechercher une équipe, la saisie du nom de l’équipe ne renvoie aucun résultat, même si l’équipe est visible dans la liste (par exemple, dans la variable [!UICONTROL Affecté à] ). Recherche du mot &quot;[!UICONTROL équipe]&quot; ne renvoie également aucun résultat.
+
+**Tous les utilisateurs répertoriés dans [!UICONTROL Équilibreur de charge de travail] lors de l’utilisation d’un lien partageable dans [!DNL Safari] browser**
+
+*[!UICONTROL Équilbreur de charge de travail]*
+
+Lorsqu’un utilisateur suit un lien partageable vers la variable [!UICONTROL Équilibreur de charge de travail] lors de l’utilisation d’un [!DNL Safari] , ils voient tous les utilisateurs plutôt que seulement les membres de l’équipe répertoriés.
+
++++
 
 +++**Mise à jour de maintenance le 20 octobre 2022**
 
