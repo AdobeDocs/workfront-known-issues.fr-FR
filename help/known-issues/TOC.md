@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
-source-git-commit: 3a5a53719785b587e8098a4376847cecdf46eee6
+source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
 workflow-type: tm+mt
-source-wordcount: '1475'
-ht-degree: 77%
+source-wordcount: '1513'
+ht-degree: 75%
 
 ---
 
@@ -16,6 +16,10 @@ ht-degree: 77%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Projets : Problèmes de performance et message d’erreur lors de la création d’un projet à partir d’un modèle](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
+      + [Demandes : Impossible d’afficher plus de 100 rubriques de file d’attente sur une page](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md)
+      + [Problèmes : La navigation de gauche affiche les problèmes &quot;(0)&quot; en cas de problème.](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
+      + [Demandes : [!UICONTROL Paramètres de la file d’attente des emails] non disponible](known-issues-workfront/wf-requests-email-queue-details-not-available.md)
       + [[!UICONTROL Panoramas]: [!UICONTROL Entrée] la recherche de colonnes est inefficace.](known-issues-workfront/wf-boards-search-returns-no-results.md)
       + [[!UICONTROL Configuration]: Les listes se chargent lentement dans [!UICONTROL Configuration]](known-issues-workfront/wf-setup-lists-load-slowly.md)
       + [Formulaires personnalisés : [!UICONTROL HEURE] La fonction des champs calculés utilise le format UTC.](known-issues-workfront/wf-custom-form-hours-use-utc.md)

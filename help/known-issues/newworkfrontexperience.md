@@ -3,10 +3,10 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 3a5a53719785b587e8098a4376847cecdf46eee6
+source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
 workflow-type: tm+mt
-source-wordcount: '581'
-ht-degree: 60%
+source-wordcount: '602'
+ht-degree: 57%
 
 ---
 
@@ -24,6 +24,9 @@ Ces problèmes récemment signalés sont actuellement à l’étude.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Demandes : Impossible d’afficher plus de 100 rubriques de file d’attente sur une page](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 27 octobre 2022 |
+| [Problèmes : La navigation de gauche affiche les problèmes &quot;(0)&quot; en cas de problème.](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md) | 27 octobre 2022 |
+| [Demandes : [!UICONTROL Paramètres de la file d’attente des emails] non disponible](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | 27 octobre 2022 |
 | [[!UICONTROL Panoramas]: [!UICONTROL Entrée] la recherche de colonnes est inefficace.](known-issues-workfront/wf-boards-search-returns-no-results.md) | 26 octobre 2022 |
 | [[!UICONTROL Configuration]: Les listes se chargent lentement dans [!UICONTROL Configuration]](known-issues-workfront/wf-setup-lists-load-slowly.md) | 24 octobre 2022 |
 | [Agile : Les tâches affectées par la modification en masse n’apparaissent pas dans le journal des tâches de l’équipe](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md) | 20 octobre 2022 |
@@ -40,7 +43,7 @@ Les correctifs de ces problèmes sont actuellement en cours ou sont programmés 
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Formulaires personnalisés : [!UICONTROL HEURE] La fonction des champs calculés utilise le format UTC.](known-issues-workfront/wf-custom-form-hours-use-utc.md) | 24 octobre 2022 |
+| [Projets : Problèmes de performance et message d’erreur lors de la création d’un projet à partir d’un modèle](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 27 octobre 2022 |
 | [Documents : Le lien de requête de document externe mène à la page de connexion](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 20 octobre 2022 |
 | [[!UICONTROL Panoramas]: [!UICONTROL Panoramas] page ne se charge pas](known-issues-workfront/wf-boards-boards-do-not-load.md) | 20 octobre 2022 |
 | [Rapports : Les informations d’utilisation des rapports ne sont pas mises à jour](known-issues-workfront/wf-reports-usage-not-updating.md) | 19 octobre 2022 |
@@ -50,7 +53,6 @@ Les correctifs de ces problèmes sont actuellement en cours ou sont programmés 
 | [Rapports : Option &quot;Déplacer vers&quot; non disponible dans les rapports de problème](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | 13 octobre 2022 |
 | [Agile : Problèmes avec des tâches ajoutées à une itération](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md) | 13 octobre 2022 |
 | [Formulaires personnalisés : Erreur &quot;Ouvre&quot; lors de la configuration d’un champ calculé](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 13 octobre 2022 |
-| [Listes : [!UICONTROL Filtre rapide] ne renvoie aucun résultat lors de la recherche d’équipes](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md) | 12 octobre 2022 |
 | [Navigation : Impossible de réépingler une page après sa suppression](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md) | 11 octobre 2022 |
 | [Tâches : Les heures ne sont pas enregistrées lors de la saisie des heures dans la tâche [!UICONTROL Panneau Résumé]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 30 septembre 2022 |
 | [Intégrations : erreur de soumission d’une demande depuis  [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 août 2022 |
