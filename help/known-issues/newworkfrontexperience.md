@@ -3,9 +3,9 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
+source-git-commit: 9d484f963278ae1e7b5df10379ed2d0c7b9caade
 workflow-type: tm+mt
-source-wordcount: '602'
+source-wordcount: '609'
 ht-degree: 57%
 
 ---
@@ -24,6 +24,7 @@ Ces problèmes récemment signalés sont actuellement à l’étude.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bons à tirer : La génération des preuves est extrêmement lente](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 octobre 2022 |
 | [Demandes : Impossible d’afficher plus de 100 rubriques de file d’attente sur une page](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 27 octobre 2022 |
 | [Problèmes : La navigation de gauche affiche les problèmes &quot;(0)&quot; en cas de problème.](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md) | 27 octobre 2022 |
 | [Demandes : [!UICONTROL Paramètres de la file d’attente des emails] non disponible](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | 27 octobre 2022 |
