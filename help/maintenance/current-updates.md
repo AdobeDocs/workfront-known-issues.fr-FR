@@ -2,9 +2,9 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
+source-git-commit: c2fd207043d8d813dbea4695198b49a4cda5fbc2
 workflow-type: tm+mt
-source-wordcount: '14719'
+source-wordcount: '14718'
 ht-degree: 92%
 
 ---
@@ -51,7 +51,7 @@ Lorsqu’un utilisateur tente d’utiliser la variable [!UICONTROL Filtre rapide
 
 >[!NOTE]
 >
->Ce problème a été corrigé dans Aperçu le 13 octobre 2022. Il sera fixe en production le 27 octobre 2022.
+>Ce problème a été corrigé dans Aperçu le 13 octobre 2022. Il a été fixé en production le 27 octobre 2022.
 
 Lorsqu’un utilisateur sélectionne le[!UICONTROL Supprimer le pin]&quot; sur une épingle, reçoit un message concernant la suppression et tente de la remplacer en cliquant sur &quot;[!UICONTROL Annuler]&quot; dans le message, la pin n’est pas remplacée dans le volet de navigation supérieur et n’est pas non plus ajoutée à la liste des pin’s sous le [!UICONTROL Plus de broches] liste (menu à trois points dans la [!UICONTROL Pins] ).
 
