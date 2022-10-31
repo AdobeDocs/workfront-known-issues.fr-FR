@@ -1,20 +1,20 @@
 ---
-title: "Bons à tirer : La nouvelle zone de texte des destinataires du BAT est trop petite"
-description: "Lorsqu'un utilisateur consulte un BAT et tente de partager le BAT à partir de l'onglet Partage, la zone de texte Nouveaux destinataires du BAT est très petite. L’utilisateur peut saisir un nom, mais comme la boîte est si petite, le texte s’enveloppe d’une manière difficile à lire."
+title: '« Épreuves : la zone de texte « Nouveaux destinataires de l’épreuve » est trop petite »'
+description: « Lorsqu’un utilisateur consulte une épreuve et tente de la partager à partir de l’onglet Partage, la zone de texte « Nouveaux destinataires de l’épreuve » est trop petite. L’utilisateur peut saisir un nom, mais en raison de la petite taille de la zone de texte, le texte est illisible. »
 hidefromtoc: true
 source-git-commit: 69ecc78407585dff0f7d786265fd7177963edc42
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '124'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Bons à tirer : &quot;[!UICONTROL Nouveaux destinataires de BAT]&quot; La zone de texte est trop petite
+# Épreuves : la zone de texte « [!UICONTROL Nouveaux destinataires de l’épreuve] » est trop petite
 
 <!--This article is on the WF and WFP TOCs-->
 
-Lorsqu’un utilisateur consulte un BAT et tente de partager le BAT à partir de la variable [!UICONTROL Partage] , le[!UICONTROL Nouveaux destinataires du BAT]&quot; la zone de texte est très petite. L’utilisateur peut saisir un nom, mais comme la zone est si petite, le texte s’enveloppe d’une manière difficile à lire.
+Lorsqu’un utilisateur consulte une épreuve et tente de la partager à partir de l’onglet [!UICONTROL Partage], la zone de texte « [!UICONTROL Nouveaux destinataires de l’épreuve] » est trop petite. L’utilisateur peut saisir un nom, mais en raison de la petite taille de la zone de texte, le texte est, mais en raison de la petite taille de la boîte, le texte est illisible.
 
-_Premier article du 6 octobre 2022._
+_Premier signalement le 6 octobre 2022._
 
