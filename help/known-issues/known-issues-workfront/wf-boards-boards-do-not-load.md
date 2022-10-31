@@ -1,18 +1,18 @@
 ---
-title: 'Panoramas : La page Panoramas ne se charge pas"'
-description: "Lorsqu’un utilisateur tente d’accéder aux panoramas, l’en-tête des panoramas s’affiche brièvement, puis disparaît et l’utilisateur ne voit qu’une page vierge."
+title: '« Tableaux : la page Tableaux ne charge pas »'
+description: « Lorsqu’un utilisateur tente d’accéder aux Tableaux, l’en-tête des Tableaux s’affiche brièvement, puis disparaît et l’utilisateur ne voit qu’une page vierge. »
 hidefromtoc: true
 source-git-commit: 3409c8e333da62ef218156c1479c4c4263448806
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# [!UICONTROL Panoramas]: [!UICONTROL Panoramas] page ne se charge pas
+# [!UICONTROL Tableaux] : la page [!UICONTROL Tableaux] ne charge pas
 
-Lorsqu’un utilisateur tente d’accéder à [!UICONTROL Panoramas], l’en-tête de [!UICONTROL Panoramas] s’affiche brièvement, puis disparaît et l’utilisateur ne voit qu’une page vierge.
+Lorsqu’un utilisateur tente d’accéder aux [!UICONTROL Tableaux], l’en-tête des [!UICONTROL Tableaux] s’affiche brièvement, puis disparaît et l’utilisateur ne voit qu’une page vierge.
 
-_Premier article du 11 octobre 2022._
+_Premier signalement le 11 octobre 2022._
 
