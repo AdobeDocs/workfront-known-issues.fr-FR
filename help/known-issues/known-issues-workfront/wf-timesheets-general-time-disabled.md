@@ -1,30 +1,30 @@
 ---
-title: "Fiches horaires : Impossible de saisir les heures dans l’heure générale"
-description: "Lorsqu’un utilisateur tente de se connecter aux heures dans la section Heure générale de sa feuille de temps, il n’y a pas de zones dans lesquelles entrer les heures. Si l’utilisateur survole la zone où il entre des heures, le message Sélectionner un titre de tâche pour consigner les heures s’affiche."
+title: '« Feuilles de temps : impossible de saisir des heures dans Heure générale »'
+description: « Lorsqu’un utilisateur tente de saisir des heures dans la section Heure générale de sa feuille de temps, il n’y a pas de zone dans laquelle les saisir. Si l’utilisateur survole la zone de saisie des heures, il voit apparaître le message « Sélectionnez un titre de poste pour saisir les heures ».
 hidefromtoc: true
 source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '155'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Feuilles de temps : Ne peut pas entrer de heures dans [!UICONTROL Heure générale]
+# Feuilles de temps : impossible de saisir des heures dans [!UICONTROL Heure générale]
 
 >[!NOTE]
 >
->Ce problème a été résolu le 13 octobre 2022.
+>Ce problème a été résolu le 13 octobre 2022.
 
-Lorsqu’un utilisateur tente de se connecter aux heures dans la variable [!UICONTROL Heure générale] de leur feuille de temps, il n’y a pas de zones dans lesquelles entrer les heures. Si l’utilisateur survole la zone où il entre des heures, le message &quot;[!UICONTROL Sélectionnez un titre de tâche pour consigner les heures.]&quot;
+« Lorsqu’un utilisateur tente de saisir des heures dans la section [!UICONTROL Heure générale] de sa feuille de temps, il n’y a pas de zone dans laquelle les saisir. Si l’utilisateur survole la zone de saisie des heures, il voit apparaître le message « [!UICONTROL Sélectionnez un titre de poste pour saisir les heures] ».
 
 **Solution**
 
-Pour autoriser les utilisateurs à entrer des heures dans [!UICONTROL Heure générale], un administrateur Workfront peut effectuer les opérations suivantes :
+Pour autoriser les utilisateurs à saisir des heures dans [!UICONTROL Heure générale], un administrateur Workfront peut procéder comme suit :
 
-1. Accédez à **[!UICONTROL Configuration]** > **[!UICONTROL Fiches horaires et heures]** > **[!UICONTROL Préférences]**.
-1. Décochez la case **[!UICONTROL Affecter manuellement des rôles de tâche aux entrées d’heure]** .
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Accéder à **[!UICONTROL Configuration]** > **[!UICONTROL Feuilles de temps et heures]** > **[!UICONTROL Préférences]**.
+1. Décocher la case **[!UICONTROL Affecter manuellement des rôles aux entrées d’heure]**.
+1. Cliquer sur **[!UICONTROL Enregistrer]**.
 
-_Premier article du 12 octobre 2022._
+_Premier signalement le 12 octobre 2022._
 
