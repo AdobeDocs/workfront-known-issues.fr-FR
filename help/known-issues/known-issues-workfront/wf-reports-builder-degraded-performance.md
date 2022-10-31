@@ -1,11 +1,11 @@
 ---
-title: "Rapports\_: problèmes de création et de modification de rapports dans Report Builder"
-description: "Plusieurs problèmes ont été signalés lors de la création et de la modification de rapports dans Report Builder."
+title: '« Rapports : problèmes de création et de modification de rapports dans Report Builder »'
+description: « Plusieurs problèmes ont été signalés lors de la création et de la modification de rapports dans Report Builder. »
 hidefromtoc: true
 source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
