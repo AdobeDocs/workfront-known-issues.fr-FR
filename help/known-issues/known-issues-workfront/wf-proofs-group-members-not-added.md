@@ -1,28 +1,28 @@
 ---
-title: "Bons à tirer : L'ajout d'un groupe à un BAT n'ajoute pas tous les membres du groupe"
-description: "Lorsqu’un utilisateur crée un BAT et utilise un groupe pour ajouter des utilisateurs à une étape, tous les utilisateurs de ce groupe ne sont pas ajoutés à la scène."
+title: '« Épreuves : tous les membres du groupe ne sont pas ajoutés à l’épreuve lors de l’ajout d’un groupe »'
+description: « Lorsqu’un utilisateur crée une épreuve et utilise un groupe pour ajouter des utilisateurs à une étape, tous les utilisateurs de ce groupe ne sont pas ajoutés à l’étape. »
 hidefromtoc: true
 source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '113'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Bons à tirer : L&#39;ajout d&#39;un groupe à un BAT n&#39;ajoute pas tous les membres du groupe
+# Épreuves : tous les membres du groupe ne sont pas ajoutés à l’épreuve lors de l’ajout d’un groupe
 
 <!--This issue is on the WF and WFP TOCs-->
 
 >[!NOTE]
 >
->Ce problème a été résolu car il ne s’agit pas d’un problème.
+>Ce problème a été résolu, car il ne s’agit pas d’un problème.
 
-Lorsqu’un utilisateur crée un BAT et utilise un groupe pour ajouter des utilisateurs à une étape, tous les utilisateurs de ce groupe ne sont pas ajoutés à la scène.
+Lorsqu’un utilisateur crée une épreuve et utilise un groupe pour ajouter des utilisateurs à une étape, tous les utilisateurs de ce groupe ne sont pas ajoutés à l’étape.
 
 **Solution**
 
-Chaque utilisateur peut être ajouté individuellement à la scène.
+Chaque utilisateur peut être ajouté individuellement à l’étape.
 
-_Premier article du 28 septembre 2022._
+_Premier signalement le 28 septembre 2022._
 
