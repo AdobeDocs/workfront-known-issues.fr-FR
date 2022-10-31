@@ -1,18 +1,18 @@
 ---
-title: "Rapports : Déplacer vers l’option non disponible dans les rapports de problème"
-description: "Lorsqu’un utilisateur consulte un rapport de problème et tente de déplacer un problème, l’option Déplacer vers n’est pas disponible sous le menu Plus (à trois points)."
+title: '« Rapports : l’option « Déplacer vers » n’est pas disponible dans les rapports d’événement »'
+description: « Lorsqu’un utilisateur consulte un rapport d’événement et tente de déplacer un événement, l’option « Déplacer vers » n’est pas disponible sous le menu Plus (à trois points). »
 hidefromtoc: true
 source-git-commit: cdc8a8a6c4dbf6b53a7c8aa0aeae37058f60f5c5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Rapports : Option &quot;Déplacer vers&quot; non disponible dans les rapports de problème
+# Rapports : l’option « Déplacer vers » n’est pas disponible dans les rapports d’événement
 
-Lorsqu’un utilisateur consulte un rapport de problème et tente de déplacer un problème, l’option &quot;Déplacer vers&quot; n’est pas disponible sous le menu Plus (à trois points).
+Lorsqu’un utilisateur consulte un rapport d’événement et tente de déplacer un événement, l’option « Déplacer vers » n’est pas disponible sous le menu Plus (à trois points).
 
-_Premier article du 12 octobre 2022._
+_Premier signalement le 12 octobre 2022._
 
