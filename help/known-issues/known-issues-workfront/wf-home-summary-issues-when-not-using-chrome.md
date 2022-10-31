@@ -1,10 +1,10 @@
 ---
-title: "Accueil\_: problèmes au niveau du résumé de l’Accueil dans des navigateurs autres que Chrome"
+title: '« Accueil : problèmes au niveau du résumé de l’Accueil dans des navigateurs autres que Chrome »'
 description: Lorsque l’utilisateur consulte sa page d’Accueil dans un navigateur autre que Chrome, divers problèmes peuvent survenir.
 exl-id: 7e1935e4-2814-4527-a65a-301f4b9a9669
 hidefromtoc: true
 source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '112'
 ht-degree: 100%
 
