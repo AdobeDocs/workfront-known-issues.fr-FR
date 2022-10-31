@@ -3,8 +3,8 @@ title: "Projets\_: erreur lors de la suppression du Propriétaire du projet dans
 description: Lorsque l’utilisateur tente de supprimer un Propriétaire de projet dans l’en-tête d’un projet, il n’y parvient pas et un message d’erreur apparaît.
 hidefromtoc: true
 exl-id: 3a995df4-5d6a-44e4-a644-997931c044bf
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: ht
+source-git-commit: a033108ac2c267d36e6bec1cdc53b5917b61bd16
+workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 100%
 

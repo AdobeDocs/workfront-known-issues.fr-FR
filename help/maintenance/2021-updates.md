@@ -2,8 +2,8 @@
 title: Mises à jour de maintenance pour Workfront en 2021
 description: Historique des mises à jour de maintenance pour  [!DNL Adobe Workfront] en 2021
 exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
-source-git-commit: 7fa90198186a7b0f392683d432a7da0424943da2
-workflow-type: ht
+source-git-commit: 65b26c28f83d32aa44e23ca5820bb9a8d8267935
+workflow-type: tm+mt
 source-wordcount: '10019'
 ht-degree: 100%
 
@@ -1393,7 +1393,7 @@ Lorsque l’utilisateur emploie un terme de l’API [!DNL Workfront] pour sélec
 
 **Les paramètres de modèle de projet s’appliquent désormais aux projets créés avec [!DNL Workfront Fusion] 2.0**
 
-_[!DNL Workfront Fusion]2.0_
+_[!DNL Workfront Fusion]2,0_
 
 Lors de la création d’un projet à partir d’un modèle avec [!DNL Workfront Fusion] 2.0, les paramètres du modèle sont appliqués au nouveau projet. Cela se produit également lors de la création d’un projet à partir d’un modèle dans l’application [!DNL Workfront].
 
