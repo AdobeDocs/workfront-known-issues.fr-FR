@@ -1,9 +1,9 @@
 ---
-title: "Mises à jour\_: impossible de fermer la carte d’utilisateur dans le flux de mise à jour"
-description: "Lorsque l’utilisateur consulte les mises à jour et survole un nom, une carte contenant des informations sur l’utilisateur correspondant s’ouvre et ne se ferme pas automatiquement. La page ne répond plus tant que la carte n’est pas fermée manuellement en cliquant sur le X dans le coin supérieur droit."
+title: '« Mises à jour : impossible de fermer la carte d’utilisateur dans le flux de mise à jour »'
+description: « Lorsque l’utilisateur consulte les mises à jour et survole un nom, une carte contenant des informations sur l’utilisateur correspondant s’ouvre et ne se ferme pas automatiquement. La page ne répond plus tant que la carte n’est pas fermée manuellement en cliquant sur le X dans le coin supérieur droit. »
 hidefromtoc: true
 source-git-commit: b53c6ea6e0c24581780855d37f4f20cbce41468c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
 ht-degree: 100%
 
