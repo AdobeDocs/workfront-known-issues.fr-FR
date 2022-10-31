@@ -1,18 +1,18 @@
 ---
-title: "Notifications : Utilisateurs qui ne reçoivent pas de courrier électronique ou de notifications in-app lorsqu’ils sont mentionnés ou inclus dans un commentaire"
-description: "Lorsqu’un utilisateur est mentionné, inclus dans un commentaire ou mis à jour sur le flux de mise à jour d’un objet, il se peut qu’il ne reçoive pas le courrier électronique ou la notification intégrée attendue concernant le commentaire."
+title: '« Notifications : les utilisateurs ne reçoivent pas de notification par e-mail ou in-app lorsqu’ils sont mentionnés ou inclus dans un commentaire »'
+description: « Lorsqu’un utilisateur est mentionné ou inclus dans un commentaire ou une mise à jour sur le flux de mise à jour d’un objet, il pourrait ne pas recevoir la notification par e-mail ou in-app corrspondante. »
 hidefromtoc: true
 source-git-commit: 98fa6676b103bd9870d5811fc710d54d0cd54599
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Notifications : Utilisateurs non avertis lorsqu’ils sont mentionnés ou inclus dans un commentaire
+# Notifications : utilisateurs non avertis lorsqu’ils sont mentionnés ou inclus dans un commentaire
 
-Lorsqu’un utilisateur est mentionné, inclus dans un commentaire ou mis à jour sur le flux de mise à jour d’un objet, il se peut qu’il ne reçoive pas le courrier électronique ou la notification intégrée attendue concernant le commentaire.
+Lorsqu’un utilisateur est mentionné ou inclus dans un commentaire ou une mise à jour sur le flux de mise à jour d’un objet, il pourrait ne pas recevoir la notification par e-mail ou in-app corrspondante.
 
-_Premier article du 20 septembre 2022._
+_Premier signalement le 20 septembre 2022._
 
