@@ -1,26 +1,26 @@
 ---
-title: "[!DNL Workfront Fusion]: Échec de la vérification de l’erreur de connexion"
-description: "Les connexions Workfront Fusion à un compte Workfront peuvent échouer à l’authentification, ce qui entraîne des scénarios qui renvoient l’erreur suivante : Échec de la vérification de la connexion."
+title: '« [!DNL Workfront Fusion] : échec de la vérification de l’erreur de connexion »'
+description: '« L’authentification des connexions de Workfront Fusion à un compte Workfront peut échouer, ce qui entraîne l’erreur suivante dans les scénarios : échec de vérification de la connexion. »'
 hidefromtoc: true
 source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Workfront Fusion]: Erreur &quot;Échec de vérification de la connexion&quot;
+# [!DNL Workfront Fusion] : erreur « Échec de vérification de la connexion »
 
-[!UICONTROL Workfront Fusion] se connecte à un [!DNL Workfront] L’authentification du compte peut échouer, ce qui entraîne des scénarios pour générer l’erreur suivante :
+L’authentification des connexions de [!UICONTROL Workfront Fusion] à un compte [!DNL Workfront] peut échouer, ce qui entraîne l’erreur suivante dans les scénarios :
 
-Échec de la vérification de la connexion.
+Échec de vérification de la connexion.
 
 Le scénario ne peut pas s’exécuter tant que la connexion n’est pas restaurée.
 
 **Solution**
 
-Créez une nouvelle connexion et remplacez les connexions actuelles dans vos modules Workfront par la nouvelle connexion.
+Créez une nouvelle connexion et remplacez dans vos modules Workfront les connexions actuelles par la nouvelle connexion.
 
-_Premier article du 8 septembre 2022._
+_Premier signalement le 8 septembre 2022._
 
