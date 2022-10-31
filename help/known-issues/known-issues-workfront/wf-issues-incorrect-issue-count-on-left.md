@@ -1,22 +1,22 @@
 ---
-title: "Problèmes : Le nombre de problèmes dans le volet de navigation gauche de la tâche est incorrect"
-description: "Lorsqu’un utilisateur consulte une tâche, le nombre affiché dans la section Problèmes du volet de navigation de gauche ne représente pas exactement le nombre réel de problèmes associés à la tâche."
+title: '« Événements : le nombre d’événements dans le panneau de navigation gauche de la tâche n’est pas correct »'
+description: « Lorsqu’un utilisateur consulte une tâche, le nombre affiché dans la section Événements du panneau de navigation gauche ne représente pas exactement le nombre réel d’événements associés à la tâche. »
 hidefromtoc: true
 source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Problèmes : Le nombre de problèmes dans le volet de navigation gauche de la tâche est incorrect
+# Événements : le nombre d’événements dans le panneau de navigation gauche de la tâche n’est pas correct
 
 >[!NOTE]
 >
->Ce problème a été résolu le 20 octobre 2022.
+>Ce problème a été résolu le 20 octobre 2022.
 
-Lorsqu’un utilisateur consulte une tâche, le nombre affiché dans la variable [!UICONTROL Problèmes] de la navigation de gauche ne représente pas exactement le nombre réel de problèmes liés à la tâche.
+Lorsqu’un utilisateur consulte une tâche, le nombre affiché dans la section [!UICONTROL Événements] du panneau de navigation gauche ne représente pas exactement le nombre réel d’événements associés à la tâche.
 
 _Premier signalement le 12 octobre 2022._
 
