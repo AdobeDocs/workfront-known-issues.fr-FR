@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
-source-git-commit: fb9067cb4d4941c06ae5e6730c15ab906124dc02
+source-git-commit: 57105cfb344a29ae7eb7b64c932d735198f135f6
 workflow-type: tm+mt
-source-wordcount: '1528'
-ht-degree: 94%
+source-wordcount: '1537'
+ht-degree: 93%
 
 ---
 
@@ -180,6 +180,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problèmes connus dans Workfront Fusion](workfrontfusion.md)
    + Problèmes actifs dans [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Workfront Fusion]: Éléments de tableau dans [!UICONTROL Itérateur] s’affiche comme suit :[!UICONTROL objet]&quot;](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion] : erreur lors de l’affichage d’une erreur dans l’historique d’exécution d’un scénario](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion] : erreur 409 dans un scénario  [!DNL Fusion] ](known-issues-workfront-fusion/fusion-409-error.md)
       + [[!DNL Workfront Fusion] : erreur « [!UICONTROL Échec du chargement des données] »](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md)

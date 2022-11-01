@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: c2fd207043d8d813dbea4695198b49a4cda5fbc2
+source-git-commit: 57105cfb344a29ae7eb7b64c932d735198f135f6
 workflow-type: tm+mt
-source-wordcount: '14718'
-ht-degree: 92%
+source-wordcount: '14801'
+ht-degree: 99%
 
 ---
 
@@ -31,11 +31,37 @@ Pour connaître les mises à jour de maintenance antérieures à 2022, consultez
 
 ## Mises à jour d’octobre 2022
 
-+++**Mise à jour de maintenance le 27 octobre 2022**
++++**Mise à jour de maintenance le 3 novembre 2022**
+
+**Erreurs lors de l’accès aux paramètres de notification électronique**
+
+*Notifications*
+
+>[!NOTE]
+>
+>Ce problème existe dans les environnements de production et de prévisualisation.
+
+Lorsque l’utilisateur tente de modifier les paramètres de notification par e-mail, l’une des erreurs suivantes survient parfois :
+
+* « [!UICONTROL Réessayons. Oups ! Un problème est survenu. Contactez [!DNL Workfront] pour nous aider à comprendre l’erreur et y remédier.] »
+
+* « [!UICONTROL Échec de la récupération des notifications par e-mail] »
+
+Les zones suivantes sont concernées :
+
+* [!UICONTROL Configuration] > [!UICONTROL Notifications par e-mail]
+* [!UICONTROL Utilisateur] > [!UICONTROL Modifier l’utilisateur]
+* [!UICONTROL Groupes]
+
++++
+
+## Mises à jour d’octobre 2022
+
++++**Mise à jour de maintenance le 27 octobre 2022**
 
 **[!UICONTROL HEURE] La fonction des champs calculés utilise le format UTC.**
 
-*Formulaires personnalisés dans mon groupe*
+*Formulaires personnalisés*
 
 Lorsqu’un champ calculé inclut la variable [!UICONTROL HEURE] , la fonction renvoie des valeurs en fonction du fuseau horaire UTC plutôt que du fuseau horaire attendu. Par conséquent, tous les calculs basés sur la valeur HOUR sont incorrects.
 
@@ -43,19 +69,19 @@ Lorsqu’un champ calculé inclut la variable [!UICONTROL HEURE] , la fonction r
 
 *Listes*
 
-Lorsqu’un utilisateur tente d’utiliser la variable [!UICONTROL Filtre rapide] dans une liste pour rechercher une équipe, la saisie du nom de l’équipe ne renvoie aucun résultat, même si l’équipe est visible dans la liste (par exemple, dans la variable [!UICONTROL Affecté à] ). Recherche du mot &quot;[!UICONTROL équipe]&quot; ne renvoie également aucun résultat.
+Lorsqu’un utilisateur tente d’utiliser le [!UICONTROL filtre rapide] sur une liste pour rechercher une équipe, la saisie du nom de l’équipe ne renvoie aucun résultat, même si l’équipe est visible dans la liste (par exemple dans le champ [!UICONTROL Affecté à]). La recherche du mot « [!UICONTROL équipe] » ne renvoie également aucun résultat.
 
-**Impossible de réépingler une page après sa suppression**
+**Impossible de réépingler une page après l’avoir désépinglée**
 
 *Navigation*
 
 >[!NOTE]
 >
->Ce problème a été corrigé dans Aperçu le 13 octobre 2022. Il a été fixé en production le 27 octobre 2022.
+>Ce problème a été corrigé dans la prévisualisation le 13 octobre 2022. Il a été fixé en production le 27 octobre 2022.
 
-Lorsqu’un utilisateur sélectionne le[!UICONTROL Supprimer le pin]&quot; sur une épingle, reçoit un message concernant la suppression et tente de la remplacer en cliquant sur &quot;[!UICONTROL Annuler]&quot; dans le message, la pin n’est pas remplacée dans le volet de navigation supérieur et n’est pas non plus ajoutée à la liste des pin’s sous le [!UICONTROL Plus de broches] liste (menu à trois points dans la [!UICONTROL Pins] ).
+Lorsqu’un utilisateur sélectionne l’option « [!UICONTROL Supprimer l’épingle] », qu’il est notifié de la suppression et qu’il essaie de la remplacer en cliquant sur « [!UICONTROL Annuler] » dans le message, l’épingle n’est pas remplacée dans le panneau de navigation supérieur et n’est pas non plus ajoutée à la liste des épingles dans la liste « [!UICONTROL Plus d’épingles] » (menu sous forme de trois points dans la zone [!UICONTROL Épingles] ).
 
-Si un utilisateur tente de réépingler la page en accédant à la page et en la faisant épingler, l’épingle n’est pas créée et l’utilisateur ne peut pas épingler la page.
+Si un utilisateur tente de réépingler la page en accédant à la page et en l’épinglant, l’épingle n’est pas créée et l’utilisateur ne peut pas épingler la page.
 
 **Tous les utilisateurs répertoriés dans [!UICONTROL Équilibreur de charge de travail] lors de l’utilisation d’un lien partageable dans [!DNL Safari] browser**
 
@@ -65,112 +91,112 @@ Lorsqu’un utilisateur suit un lien partageable vers la variable [!UICONTROL É
 
 +++
 
-+++**Mise à jour de maintenance le 20 octobre 2022**
++++**Mise à jour de maintenance le 20 octobre 2022**
 
-**Erreur lors de l’affectation groupée d’une équipe**
+**Erreur lors de l’affectation en bloc d’une équipe**
 
 *Affectations*
 
-Lorsqu’un utilisateur effectue des tâches ou des problèmes de modification en masse et affecte une équipe après avoir affecté une personne, les affectations ne sont pas enregistrées et l’utilisateur voit l’erreur suivante :
+Lorsqu’un utilisateur modifie en bloc des tâches ou des événements et affecte une équipe après avoir affecté une personne, les affectations ne sont pas enregistrées et l’utilisateur voit l’erreur suivante :
 
-&quot;[!UICONTROL Essayons de nouveau - L’erreur suivante s’est produite : TeamAssignments doit être une liste d’objets ou une liste d’identifiants]&quot;
+« [!UICONTROL Réessayons. L’erreur suivante s’est produite : teamAssignments doit être une liste d’objets ou une liste d’identifiants] ».
 
 **&quot;[!UICONTROL Échec du téléchargement du fichier]&quot; erreur**
 
 *Documents*
 
-Lorsqu’un utilisateur tente de charger un fichier dans la variable [!UICONTROL Documents] , le fichier ne charge pas et l’utilisateur voit l’erreur &quot;[!UICONTROL Échec du téléchargement du fichier].&quot;
+Lorsqu’un utilisateur tente de charger un fichier dans la zone [!UICONTROL Documents], le fichier ne charge pas et l’utilisateur voit l’erreur « [!UICONTROL Échec de chargement du fichier] ».
 
-Ceci a été signalé lors de la tentative de téléchargement de fichiers MP4.
+Ceci a été signalé lors de la tentative de chargement de fichiers MP4.
 
-**Le nombre de problèmes dans le volet de navigation gauche de la tâche est incorrect**
+**Le nombre d’événements figurant dans le panneau de navigation gauche de la tâche n’est pas correct**
 
 *Événements*
 
-Lorsqu’un utilisateur consulte une tâche, le nombre affiché dans la variable [!UICONTROL Problèmes] de la navigation de gauche ne représente pas exactement le nombre réel de problèmes liés à la tâche.
+Lorsqu’un utilisateur consulte une tâche, le nombre affiché dans la section [!UICONTROL Événements] du panneau de navigation gauche ne représente pas exactement le nombre réel d’événements associés à la tâche.
 
 
-**[!UICONTROL Prédécesseur] icône manquante dans l’en-tête de la tâche**
+Icône **[!UICONTROL Prédécesseur] manquante dans l’en-tête de la tâche**
 
 *Tâches*
 
-Lorsqu’un utilisateur consulte une tâche, l’icône du prédécesseur de la tâche est absente de l’en-tête .
+Lorsqu’un utilisateur consulte une tâche, l’icône du prédécesseur de la tâche est manquante dans l’en-tête.
 
 +++
 
-+++**Mise à jour de maintenance le 13 octobre 2022**
++++**Mise à jour de maintenance le 13 octobre 2022**
 
-**Impossible de réépingler une page après sa suppression**
+**Impossible de réépingler une page après l’avoir désépinglée**
 
 *Navigation*
 
 >[!NOTE]
 >
->Ce problème sera corrigé dans l’aperçu le 13 octobre 2022. Il sera fixe en production le 27 octobre 2022.
+>Ce problème sera corrigé dans la prévisualisation le 13 octobre 2022. Il sera corrigé en production le 27 octobre 2022.
 
-Lorsqu’un utilisateur sélectionne le[!UICONTROL Supprimer le pin]&quot; sur une épingle, reçoit un message concernant la suppression et tente de la remplacer en cliquant sur &quot;[!UICONTROL Annuler]&quot; dans le message, la pin n’est pas remplacée dans le volet de navigation supérieur et n’est pas non plus ajoutée à la liste des pin’s sous le [!UICONTROL Plus de broches] liste (menu à trois points dans la [!UICONTROL Pins] ).
+Lorsqu’un utilisateur sélectionne l’option « [!UICONTROL Supprimer l’épingle] », qu’il est notifié de la suppression et qu’il essaie de la remplacer en cliquant sur « [!UICONTROL Annuler] » dans le message, l’épingle n’est pas remplacée dans le panneau de navigation supérieur et n’est pas non plus ajoutée à la liste des épingles dans la liste « [!UICONTROL Plus d’épingles] » (menu sous forme de trois points dans la zone [!UICONTROL Épingles] ).
 
-Si un utilisateur tente de réépingler la page en accédant à la page et en la faisant épingler, l’épingle n’est pas créée et l’utilisateur ne peut pas épingler la page.
+Si un utilisateur tente de réépingler la page en accédant à la page et en l’épinglant, l’épingle n’est pas créée et l’utilisateur ne peut pas épingler la page.
 
 **Impossible de nommer ou d’enregistrer les filtres nouvellement créés**
 
-*[!UICONTROL Planification des ressources]*
+*[!UICONTROL Planificateur de ressources]*
 
-Lorsqu’un utilisateur tente de nommer un nouveau filtre dans la variable [!UICONTROL Resource Planner], la zone de nom reste vide. En outre, si l’utilisateur a appuyé sur la barre d’espace, la variable [!UICONTROL Enregistrer] désactive .
+Lorsqu’un utilisateur tente de nommer un nouveau filtre dans le [!UICONTROL Planificateur de ressources], le champ du nom reste vide. De plus, si l’utilisateur a appuyé sur la barre d’espace, le bouton [!UICONTROL Enregistrer] se désactive.
 
-**Impossible de modifier le nom ou le pourcentage d’achèvement d’une tâche ou d’un problème**
+**Impossible de modifier le nom ou le pourcentage d’avancement d’une tâche ou d’un événement**
 
 *Tâches et événements*
 
-Utilisateurs avec [!UICONTROL Contribution] l’accès à une tâche ou à un problème ne peut pas modifier le nom de la tâche ou du problème dans l’en-tête. En outre, les utilisateurs avec [!UICONTROL Contribution] l’accès ne peut pas modifier le pourcentage d’achèvement d’une tâche ou d’un problème.
+Les utilisateurs ayant un accès de type [!UICONTROL Contributeur] à une tâche ou à un événement ne peuvent pas modifier le nom de la tâche ou de l’événement dans l’en-tête. De plus, les utilisateurs ayant un accès de type [!UICONTROL Contributeur] ne peuvent pas modifier le pourcentage d’avancement d’une tâche ou d’un événement.
 
-**Les demandeurs et les réviseurs sont comptabilisés dans le nombre de licences d’une organisation.**
+**Les demandeurs et les réviseurs sont comptabilisés dans le nombre de licences d’une organisation**
 
 *[!DNL Workfront Proof]*
 
-Lorsque l’utilisateur est ajouté à une épreuve en tant que réviseur ou demandeur, il obtient un profil d’autorisations de niveau &quot;[!UICONTROL Visiteur]&quot;, qui n’utilise normalement pas de licence [!DNL Workfront Proof]. Toutefois, lorsque l’utilisateur est ajouté, le nombre de licences [!DNL Workfront Proof] utilisées augmente.
+Lorsque l’utilisateur est ajouté à une épreuve en tant que réviseur ou demandeur, il obtient un profil d’autorisations de niveau « [!UICONTROL Visiteur] », qui n’utilise normalement pas de licence [!DNL Workfront Proof]. Toutefois, lorsque l’utilisateur est ajouté, le nombre de licences [!DNL Workfront Proof] utilisées augmente.
 
 +++
 
-+++**Mise à jour de la maintenance le 11 octobre 2022**
++++**Mise à jour de maintenance le 11 octobre 2022**
 
-**Impossible de réépingler une page après sa suppression**
+**Impossible de réépingler une page après l’avoir désépinglée**
 
 *Navigation*
 
 >[!NOTE]
 >
->Ce problème a été corrigé dans Aperçu le 13 octobre 2022. Il sera fixe en production le 27 octobre 2022.
+>Ce problème a été corrigé dans la prévisualisation le 13 octobre 2022. Il sera corrigé en production le 27 octobre 2022.
 
-Lorsqu’un utilisateur sélectionne le[!UICONTROL Supprimer le pin]&quot; sur une épingle, reçoit un message concernant la suppression et tente de la remplacer en cliquant sur &quot;[!UICONTROL Annuler]&quot; dans le message, la pin n’est pas remplacée dans le volet de navigation supérieur et n’est pas non plus ajoutée à la liste des pin’s sous le [!UICONTROL Plus de broches] liste (menu à trois points dans la [!UICONTROL Pins] ).
+Lorsqu’un utilisateur sélectionne l’option « [!UICONTROL Supprimer l’épingle] », qu’il est notifié de la suppression et qu’il essaie de la remplacer en cliquant sur « [!UICONTROL Annuler] » dans le message, l’épingle n’est pas remplacée dans le panneau de navigation supérieur et n’est pas non plus ajoutée à la liste des épingles dans la liste « [!UICONTROL Plus d’épingles] » (menu sous forme de trois points dans la zone [!UICONTROL Épingles] ).
 
-Si un utilisateur tente de réépingler la page en accédant à la page et en la faisant épingler, l’épingle n’est pas créée et l’utilisateur ne peut pas épingler la page.
+Si un utilisateur tente de réépingler la page en accédant à la page et en l’épinglant, l’épingle n’est pas créée et l’utilisateur ne peut pas épingler la page.
 
 +++
 
-+++**Mise à jour de maintenance le 6 octobre 2022**
++++**Mise à jour de maintenance le 6 octobre 2022**
 
-**Nouveau type de plan directeur**
+**Nouveau type de blueprint**
 
-*Plans directeurs*
+*Blueprints*
 
-Le type de plan directeur &quot;Tableau de bord&quot; a été ajouté au catalogue de plans directeurs. Auparavant, seuls les modèles de modèle de projet et de structure organisationnelle étaient disponibles.
+Le type de blueprint « Tableau de bord » a été ajouté au catalogue de blueprints. Auparavant, seuls les blueprints Modèle de projet et structure organisationnelle étaient disponibles.
 
 **Chevauchement des éléments dans le panneau de gauche**
 
-*Formulaires personnalisés dans mon groupe*
+*Formulaires personnalisés*
 
 Lorsque l’utilisateur travaille dans le créateur de formulaires et que le formulaire contient plus de 100 champs, le message informant l’utilisateur de la limite de champs entraîne le chevauchement des éléments du panneau de gauche.
 
-**Le sélecteur de date ne s’ouvre plus automatiquement lors de la sélection ou du clic d’entrée.**
+**Le sélecteur de date ne s’ouvre plus automatiquement, que ce soit avec le clavier ou la souris**
 
 *Navigation*
 
-Lorsqu’un utilisateur navigue par le clavier, les sélecteurs de date ne sont plus automatiquement ouverts lors de la sélection de la date à laquelle la saisie de la date reçoit le focus au clavier. À la place, les utilisateurs du clavier doivent cliquer sur l’icône du sélecteur de date et appuyer sur Entrée pour ouvrir le sélecteur de date. Lorsqu’un utilisateur navigue avec la souris, les sélecteurs de date ne sont plus automatiquement ouverts lors du clic sur la date d’entrée. Les utilisateurs de la souris doivent plutôt cliquer sur l’icône du sélecteur de date pour ouvrir le sélecteur de date.
+Lorsqu’un utilisateur navigue avec le clavier et l’utilise pour saisir une date, les sélecteurs de date ne s’ouvrent pas automatiquement. L’utilisateur doit donc cliquer sur l’icône du sélecteur de date et appuyer sur Entrée pour ouvrir le sélecteur de date. Lorsqu’un utilisateur navigue avec la souris et l’utilise pour saisir une date, les sélecteurs de date ne s’ouvrent pas automatiquement. L’utilisateur doit donc cliquer sur l’icône du sélecteur de date pour l’ouvrir.
 
-Cette modification a été apportée afin de mieux se conformer aux schémas UX du sélecteur de date standard et de créer une expérience plus accessible pour les utilisateurs de clavier et de lecteur d’écran.
+Cette modification a été effectuée afin de mieux se conformer aux modèles standard de l’expérience utilisateur du sélecteur de date et de créer une expérience plus accessible pour les utilisateurs qui privilégient le clavier ou qui utilisent un lecteur d’écran.
 
-**L’affectation de plusieurs équipes entraîne l’affectation d’une seule équipe.**
+**Lors de l’affectation de plusieurs équipes, une seule équipe est affectée**
 
 *Équipes*
 
@@ -178,22 +204,22 @@ Cette modification a été apportée afin de mieux se conformer aux schémas UX 
 >
 >Ce problème est uniquement présent dans l’environnement de prévisualisation.
 
-Lorsqu’un utilisateur affecte plusieurs équipes à une tâche ou à un problème, une seule équipe s’affiche dans la liste des affectations. Ce problème affecte également la création de rapports. Les rapports indiquant les affectations d’équipe sont inexacts car une seule équipe apparaît comme affectée à la tâche ou au problème.
+Lorsqu’un utilisateur affecte plusieurs équipes à une tâche ou à un événement, une seule équipe s’affiche dans la liste des affectations. Ce problème affecte également la création de rapports. Les rapports indiquant les affectations d’équipe sont inexacts, car une seule équipe apparaît comme affectée à la tâche ou à l’événement.
 
-**&quot;[!UICONTROL Vos modifications récentes n’ont pas été enregistrées.]&quot;erreur lors de l’enregistrement automatique des modifications sur une feuille de temps**
+**Erreur « [!UICONTROL Les derniers changements n’ont pas été enregistrés] » lors de l’enregistrement automatique des modifications sur une feuille de temps**
 
 *Feuilles de temps*
 
 Lorsque l’utilisateur tente d’apporter une modification à une feuille de temps qui déclencherait son enregistrement automatique, la modification n’est pas enregistrée et le message suivant apparaît :
 
-&quot;[!UICONTROL Vos modifications récentes n’ont pas été enregistrées. Actualisez la page à afficher.]&quot;
+« [!UICONTROL Vos dernières modifications n’ont pas été enregistrées. Actualisez la page pour les voir]. »
 
 Ce problème a été signalé lors de la modification des éléments suivants :
 
 * Heures
 * Tâches
 
-**Les notifications électroniques sont différées**
+**Retard des notifications par e-mail**
 
 *Épreuve Workfront*
 
@@ -201,49 +227,49 @@ Lorsqu’un événement se produit dans [!DNL Workfront Proof] et déclenche l�
 
 +++
 
-+++**Mise à jour de maintenance le 3 octobre 2022**
++++**Mise à jour de maintenance le 3 octobre 2022**
 
-**Enregistrez manuellement votre feuille de temps lorsque les rôles de tâche précédents ont été modifiés.**
+**Enregistrement manuel de votre feuille de temps lorsque les rôles précédents d’une tâche ont été modifiés**
 
 *Feuilles de temps*
 
-Si un rôle de tâche pour lequel vous avez consigné une heure a changé et que la variable [!UICONTROL Affecter manuellement des rôles de tâche aux entrées d’heure] a été désactivé, vous devez enregistrer manuellement vos entrées de temps jusqu’à ce que les heures ne soient plus consignées pour le rôle de tâche qui a été modifié.
+Si un rôle de tâche pour lequel vous avez saisi une heure a changé et que le paramètre [!UICONTROL Affecter manuellement des rôles aux entrées d’heure] a été désactivé, vous devez enregistrer manuellement vos entrées de temps jusqu’à ce que les heures ne soient plus saisies pour le rôle de tâche qui a été modifié.
 
 +++
 
 ## Mises à jour de septembre 2022
 
-+++**Mise à jour de maintenance le 29 septembre 2022**
++++**Mise à jour de maintenance le 29 septembre 2022**
 
-**L’utilisateur ne revient pas à la page précédente lors de la fermeture du BAT**
-
-*Épreuves*
-
-Lorsqu’un utilisateur consulte un BAT dans [!DNL Workfront] ferme le BAT, ils ne renvoient pas la page sur laquelle ils étaient avant d&#39;ouvrir le BAT. Ils sont redirigés à la place vers une autre page de [!DNL Workfront].
-
-**Impossible d’ouvrir le BAT[!DNL Workfront]**
+**L’utilisateur ne revient pas à la page précédente lors de la fermeture de l’épreuve**
 
 *Épreuves*
 
-Lorsqu’un utilisateur consulte un document dans [!DNL Workfront] et tente d’ouvrir le BAT, le BAT ne s’ouvre pas et l’utilisateur est renvoyé au [!UICONTROL Détails du document] page.
+Lorsqu’un utilisateur consulte une épreuve dans [!DNL Workfront] et la ferme, il ne revient pas à la page sur laquelle il était avant d’ouvrir l’épreuve. Au lieu de cela, il est redirigé vers une autre page de [!DNL Workfront].
 
-**Les heures ne sont pas enregistrées lors de l’utilisation de [!UICONTROL Onglet] key**
+**Impossible d’ouvrir l’épreuve dans[!DNL Workfront]**
+
+*Épreuves*
+
+Lorsqu’un utilisateur consulte un document dans [!DNL Workfront] et tente d’ouvrir l’épreuve, l’épreuve ne s’ouvre pas et l’utilisateur est renvoyé à la page des [!UICONTROL Détails du document].
+
+**Les heures ne sont pas enregistrées lors de l’utilisation de la touche de [!UICONTROL tabulation]**
 
 *Feuilles de temps*
 
 Lorsque l’utilisateur remplit une feuille de temps et navigue entre les cellules à l’aide de la touche de [!UICONTROL tabulation], les heures ne sont pas enregistrées. La notification d’[!UICONTROL enregistrement automatique] n’apparaît pas en bas de l’écran, et si l’utilisateur actualise la page, il constate que les heures n’ont pas été enregistrées.
 
-**Pages vierges lors de l’affichage d’un BAT avec plusieurs pages**
+**Pages vierges lors de l’affichage d’une épreuve avec plusieurs pages**
 
 *[!DNL Workfront Proof]*
 
-Lorsqu’un utilisateur affiche un BAT avec plusieurs pages, il peut voir les miniatures des pages, mais les pages ne s’ouvrent pas dans la visionneuse principale.
+Lorsqu’un utilisateur affiche une épreuve avec plusieurs pages, il peut voir les miniatures des pages, mais les pages ne s’ouvrent pas dans la visionneuse principale.
 
 
 
 +++
 
-+++**Mise à jour de maintenance le 22 septembre 2022**
++++**Mise à jour de maintenance le 22 septembre 2022**
 
 **Impossible de fermer la carte d’utilisateur dans le flux de mise à jour**
 
@@ -253,15 +279,15 @@ Lorsque l’utilisateur consulte les mises à jour et survole un nom, une carte 
 
 +++
 
-+++**Mise à jour de maintenance le 15 septembre 2022**
++++**Mise à jour de maintenance le 15 septembre 2022**
 
-**&quot;[!UICONTROL Une autre personne a tenté d’enregistrer ce projet]&quot; lors de la saisie des heures**
+**« [!UICONTROL Une autre personne a tenté d’enregistrer ce projet] » lors de la saisie des heures**
 
 *Feuilles de temps*
 
 Lorsque l’utilisateur tente de consigner des heures pour une tâche sur sa feuille de temps, les heures ne s’ajoutent pas et le message d’erreur suivant apparaît :
 
-&quot;[!UICONTROL Nous sommes désolés, mais votre enregistrement a échoué, une autre personne ayant tenté d’enregistrer ce projet au même moment. Veuillez tenter d’enregistrer à nouveau.]&quot;
+« [!UICONTROL Nous sommes désolés, mais votre enregistrement a échoué, une autre personne ayant tenté d’enregistrer ce projet au même moment. Veuillez tenter d’enregistrer à nouveau.] »
 
 **Impossible de fermer la carte d’utilisateur dans le flux de mise à jour**
 
@@ -269,15 +295,15 @@ Lorsque l’utilisateur tente de consigner des heures pour une tâche sur sa feu
 
 Lorsque l’utilisateur consulte les mises à jour et survole un nom, une carte contenant des informations sur l’utilisateur correspondant s’ouvre et ne se ferme pas automatiquement. La page ne répond plus tant que la carte n’est pas fermée manuellement en cliquant sur le X du coin supérieur droit.
 
-**Le champ &quot;[!UICONTROL Affectation de rôle de tâche]&quot; est devenu &quot;[!UICONTROL Affectation de rôle]&quot; lors de l’affectation de tâches en bloc avec l’[!UICONTROL équilibreur de charge de travail]**
+**Le champ « [!UICONTROL Affectation de rôle de tâche] » est devenu « [!UICONTROL Affectation de rôle] » lors de l’affectation de tâches en bloc avec l’[!UICONTROL équilibreur de charge de travail]**
 
 *[!UICONTROL Équilbreur de charge de travail]*
 
-Pour signifier que la nouvelle fonctionnalité est capable d’affecter à la fois des tâches et des événements en bloc depuis la zone [!UICONTROL Tâches non affectées], nous avons renommé le champ &quot;[!UICONTROL Affectation de rôle de tâche]&quot;, qui devient &quot;[!UICONTROL Affectation de rôle]&quot; dans l’[!UICONTROL équilibreur de charge de travail]. Le champ fait référence à des fonctions affectées à des tâches ou à des événements. Il s’affiche lors de l’affectation d’utilisateurs à des éléments dans la zone [!UICONTROL Affectations en bloc].
+Pour signifier que la nouvelle fonctionnalité est capable d’affecter à la fois des tâches et des événements en bloc depuis la zone [!UICONTROL Tâches non affectées], nous avons renommé le champ « [!UICONTROL Affectation de rôle de tâche] », qui devient  »[!UICONTROL Affectation de rôle] » dans l’[!UICONTROL équilibreur de charge de travail]. Le champ fait référence à des fonctions affectées à des tâches ou à des événements. Il s’affiche lors de l’affectation d’utilisateurs à des éléments dans la zone [!UICONTROL Affectations en bloc].
 
 +++
 
-+++**[!DNL Workfront Scenario Planner]Mise à jour de maintenance le 15 septembre 2022**
++++**[!DNL Workfront Scenario Planner]Mise à jour de maintenance le 15 septembre 2022**
 
 **Le filtre partagé avec un groupe s’affiche désormais dans la liste [!UICONTROL Importer des projets] de [!DNL Scenario Planner] chez tous les membres de tous les sous-groupes**
 
@@ -344,7 +370,7 @@ Lorsque vous sélectionnez plus de 50 éléments à ajouter à une feuille de t
 
 +++
 
-+++**Mise à jour de maintenance le 2 septembre 2022**
++++**Mise à jour de maintenance le 2 septembre 2022**
 
 Ajout du champ [!UICONTROL Intégrations] à l’en-tête personnalisé du projet
 
@@ -358,7 +384,7 @@ Vous pouvez maintenant ajouter le champ [!UICONTROL Intégrations] à l’en-tê
 
 +++
 
-+++**Mise à jour de maintenance le 1 septembre 2022**
++++**Mise à jour de maintenance le 1 septembre 2022**
 
 **Éléments terminés supprimés de la délégation**
 
@@ -384,7 +410,7 @@ Lorsque l’utilisateur tente d’approuver ou de rejeter des heures dans l’on
 
 *Événements*
 
-Lorsqu’une erreur survient lors de la conversion d’un événement en projet à l’aide d’un modèle, une page contenant le message &quot;[!UICONTROL Le projet n’existe plus]&quot; s’affiche à la place du message d’erreur correct, qui explique la raison de l’échec de la conversion.
+Lorsqu’une erreur survient lors de la conversion d’un événement en projet à l’aide d’un modèle, une page contenant le message « [!UICONTROL Le projet n’existe plus] » s’affiche à la place du message d’erreur correct, qui explique la raison de l’échec de la conversion.
 
 **Impossible de créer une épreuve pour les fichiers de plus de 1,5 Go**
 
@@ -396,7 +422,7 @@ Si l’utilisateur télécharge un fichier de plus de 1,5 Go pour la création 
 
 ## Mises à jour d’août 2022
 
-+++**Mise à jour de maintenance le 25 août 2022**
++++**Mise à jour de maintenance le 25 août 2022**
 
 **Les liens de l’équilibreur de charge de travail ne s’affichent pas correctement dans les tableaux de bord**
 
@@ -420,13 +446,13 @@ Vous pouvez maintenant ajouter le champ [!UICONTROL Intégrations] à l’en-tê
 
 Lorsque l’utilisateur convertit un événement en projet vierge (sans modèle), les données des champs calculés ne sont pas transférées vers le nouveau projet.
 
-**Erreur de type &quot;Mode Planification de la chronologie&quot; lorsqu’une date est modifiée dans un projet**
+**Erreur de type « Mode Planification de la chronologie » lorsqu’une date est modifiée dans un projet**
 
 *Projets*
 
 Lorsque l’utilisateur tente de modifier une date dans un projet pour lequel le [!UICONTROL mode de planification] est défini sur [!UICONTROL Enregistrer manuellement] > [!UICONTROL Planification de la chronologie], la date ne change pas et un message d’erreur apparaît.
 
-&quot;[!UICONTROL Le mode Planification de la chronologie n’est disponible que lorsque timelineDate est chargée. Contactez [!DNL Workfront] pour nous aider à comprendre l’erreur et y remédier.]&quot;
+« [!UICONTROL Le mode Planification de la chronologie n’est disponible que lorsque timelineDate est chargée. Contactez [!DNL Workfront] pour nous aider à comprendre l’erreur et y remédier.] »
 
 **Cohérence lors de l’ouverture de l’équilibreur de charge de travail en vue Mois**
 
@@ -437,13 +463,13 @@ L’équilibreur de charge de travail développe désormais l’affichage des é
 
 +++
 
-+++**Mise à jour de maintenance le 18 août 2022**
++++**Mise à jour de maintenance le 18 août 2022**
 
-**Les options &quot;[!UICONTROL Ajouter à l’itération]&quot; et &quot;[!UICONTROL Ajouter au tableau kanban]&quot; ne sont pas disponibles lors de la modification sur la ligne d’un rapport**
+**Les options « [!UICONTROL Ajouter à l’itération] » et « [!UICONTROL Ajouter au tableau kanban] » ne sont pas disponibles lors de la modification sur la ligne d’un rapport**
 
 *Rapports*
 
-Lorsque l’utilisateur consulte une liste de tâches dans un rapport et ouvre le menu [!UICONTROL Plus] (trois points), les options &quot;[!UICONTROL Ajouter à l’itération]&quot; et &quot;[!UICONTROL Ajouter au tableau kanban]&quot; ne sont pas sélectionnables dans la liste déroulante. Si le rapport est consulté dans un tableau de bord, les options &quot;[!UICONTROL Ajouter à l’itération]&quot; et &quot;[!UICONTROL Ajouter au tableau kanban]&quot; sont sélectionnables dans la liste déroulante.
+Lorsque l’utilisateur consulte une liste de tâches dans un rapport et ouvre le menu [!UICONTROL Plus] (trois points), les options « [!UICONTROL Ajouter à l’itération] » et « [!UICONTROL Ajouter au tableau kanban] » ne sont pas sélectionnables dans la liste déroulante. Si le rapport est consulté dans un tableau de bord, les options « [!UICONTROL Ajouter à l’itération] » et « [!UICONTROL Ajouter au tableau kanban] » sont sélectionnables dans la liste déroulante.
 
 **Rapports de la matrice ne s’affichent pas correctement lors du défilement**
 
@@ -477,7 +503,7 @@ Lorsque l’utilisateur est identifié dans un commentaire d’épreuve, il ne r
 
 +++
 
-+++**Mise à jour de maintenance le 12 août 2022**
++++**Mise à jour de maintenance le 12 août 2022**
 
 **Nouveau champ d’en-tête personnalisable ajouté au début de l’en-tête**
 
@@ -487,39 +513,39 @@ Lorsque vous ajoutez un nouveau champ à un en-tête personnalisable, le champ e
 
 +++
 
-+++**Mise à jour de maintenance le 11 août 2022**
++++**Mise à jour de maintenance le 11 août 2022**
 
 **Impossible de modifier les formulaires personnalisés en raison d’une limite de caractères incorrecte appliquée aux champs de texte descriptif**
 
-*Formulaires personnalisés dans mon groupe*
+*Formulaires personnalisés*
 
 Lorsque l’utilisateur tente de modifier un formulaire personnalisé qui comporte un champ de [!UICONTROL texte descriptif] contenant alors plus de 512 caractères, il est impossible d’enregistrer les modifications apportées au formulaire, et le message d’erreur suivant apparaît :
 
-&quot;Les champs suivants ne sont pas valides : (champ) est trop long, 512 caractères max.&quot;
+« Les champs suivants ne sont pas valides : (champ) est trop long, 512 caractères max. »
 
 Cela concerne les champs de [!UICONTROL texte descriptif] qui ne posaient auparavant pas de problème, même s’ils comportaient plus de 512 caractères.
 
 **Les données des champs masquées par un saut de section ne sont pas conservées lors de la conversion d’un événement en projet**
 
-*Formulaires personnalisés dans mon groupe*
+*Formulaires personnalisés*
 
 Lorsque l’utilisateur convertit un événement en projet et qu’il inclut un formulaire personnalisé avec des données dans un saut de section pouvant être masquées par la logique de rendu, les données de cette section ne sont pas conservées dans le nouveau projet.
 
 **Les données des champs masquées par un saut de section ne sont pas conservées lors de la conversion d’une demande en projet**
 
-*Formulaires personnalisés dans mon groupe*
+*Formulaires personnalisés*
 
 Lorsque l’utilisateur convertit une demande en projet et qu’elle inclut un formulaire personnalisé avec des données dans un saut de section pouvant être masquées par la logique de rendu, les données de cette section ne sont pas conservées dans le nouveau projet.
 
 **Impossible de modifier les formulaires personnalisés en raison du champ de texte descriptif**
 
-*Formulaires personnalisés dans mon groupe*
+*Formulaires personnalisés*
 
-Lorsque l’utilisateur tente de modifier un formulaire personnalisé qui comprend un champ de texte descriptif, le libellé du champ n’est pas renseigné. L’erreur &quot;[!UICONTROL Ce champ est obligatoire]&quot; apparaît sous le champ du libellé et empêche toute modification du formulaire personnalisé.
+Lorsque l’utilisateur tente de modifier un formulaire personnalisé qui comprend un champ de texte descriptif, le libellé du champ n’est pas renseigné. L’erreur « [!UICONTROL Ce champ est obligatoire] » apparaît sous le champ du libellé et empêche toute modification du formulaire personnalisé.
 
 **Impossible de supprimer les instructions d’un champ personnalisé dans le créateur de formulaires personnalisés**
 
-*Formulaires personnalisés dans mon groupe*
+*Formulaires personnalisés*
 
 Lorsque l’utilisateur modifie un champ personnalisé et tente de supprimer le texte existant dans la zone [!UICONTROL Instructions], le texte n’est pas supprimé lorsque le champ est enregistré. L’utilisateur peut modifier le texte sans le supprimer entièrement.
 
@@ -531,7 +557,7 @@ Lorsque l’utilisateur crée une demande et qu’il y affecte une équipe, puis
 
 +++
 
-+++**Mise à jour de maintenance le 4 août 2022**
++++**Mise à jour de maintenance le 4 août 2022**
 
 Ces problèmes ont uniquement été résolus dans la nouvelle expérience [!DNL Workfront].
 
@@ -549,7 +575,7 @@ Lorsque l’utilisateur tente de modifier la [!UICONTROL Date d’achèvement pr
 
 ## Mises à jour de juillet 2022
 
-+++**Mise à jour de maintenance le 28 juillet 2022**
++++**Mise à jour de maintenance le 28 juillet 2022**
 
 Ces problèmes ont uniquement été résolus dans la nouvelle expérience [!DNL Workfront].
 
@@ -561,7 +587,7 @@ Toutes les fonctionnalités de [!DNL Workfront Classic] ont été supprimées le
 
 Lorsque l’utilisateur tente d’ouvrir un élément de sa [!UICONTROL Liste de travail de l’accueil], l’élément ne s’ouvre pas et le message suivant apparaît :
 
-&quot;[!UICONTROL Une erreur s’est produite et nous nous efforçons de la résoudre. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.]&quot;
+« [!UICONTROL Une erreur s’est produite et nous nous efforçons de la résoudre. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.] »
 
 **Les tâches et les événements délégués à l’utilisateur n’apparaissent pas dans sa Liste de travail de l’accueil**
 
@@ -573,7 +599,7 @@ Lorsque l’utilisateur consulte sa [!UICONTROL Liste de travail de l’accueil]
 
 *Rapports*
 
-Lorsqu’un rapport planifié est envoyé, il n’est pas envoyé à tous les utilisateurs dans la section &quot;[!UICONTROL Envoyer à]&quot;. Les utilisateurs omis sont aléatoires et peuvent varier à chaque envoi du rapport.
+Lorsqu’un rapport planifié est envoyé, il n’est pas envoyé à tous les utilisateurs dans la section « [!UICONTROL Envoyer à] ». Les utilisateurs omis sont aléatoires et peuvent varier à chaque envoi du rapport.
 
 **[!UICONTROL Impossible de désélectionner les tâches lorsqu’un modèle est joint]**
 
@@ -581,14 +607,14 @@ Lorsqu’un rapport planifié est envoyé, il n’est pas envoyé à tous les ut
 
 Lorsque l’utilisateur joint et personnalise un modèle, il est invité à désélectionner les tâches qu’il ne souhaite pas inclure. Toutefois, aucune des tâches ne s’affiche comme étant sélectionnée et il est impossible de les désélectionner.
 
-**Les libellés des champs &quot;Paramètres régionaux&quot; sont désormais plus précis**
+**Les libellés des champs « Paramètres régionaux » sont désormais plus précis**
 
 *Terminologie*
 
-Nous avons mis à jour les libellés des champs &quot;[!UICONTROL Paramètres régionaux]&quot; pour clarifier leur fonction.
+Nous avons mis à jour les libellés des champs « [!UICONTROL Paramètres régionaux] » pour clarifier leur fonction.
 
-* Le champ &quot;[!UICONTROL Paramètres régionaux]&quot; du profil utilisateur est maintenant intitulé &quot;[!UICONTROL Paramètres régionaux des e-mails]&quot;
-* Le champ &quot;[!UICONTROL Paramètres régionaux]&quot; de la zone [!UICONTROL Configuration] > [!UICONTROL Système] > [!UICONTROL Informations de clients] est désormais intitulé &quot;[!UICONTROL Paramètres régionaux des e-mails par défaut]&quot;
+* Le champ « [!UICONTROL Paramètres régionaux] » du profil utilisateur est maintenant intitulé « [!UICONTROL Paramètres régionaux des e-mails] »
+* Le champ « [!UICONTROL Paramètres régionaux] » de la zone [!UICONTROL Configuration] > [!UICONTROL Système] > [!UICONTROL Informations de clients] est désormais intitulé « [!UICONTROL Paramètres régionaux des e-mails par défaut] »
 
 La fonction de ces champs n’a pas changé.
 
@@ -598,7 +624,7 @@ La fonction de ces champs n’a pas changé.
 
 Les problèmes suivants ont été signalés lors de la création des feuilles de temps :
 
-* Lorsque l’utilisateur tente de créer une feuille de temps pour un rôle, celle-ci n’est pas créée et le message d’erreur &quot;[!UICONTROL Utilisateur avec valeur(s) de clé primaire “XXXXXXXXXXX” introuvable].&quot; apparaît.
+* Lorsque l’utilisateur tente de créer une feuille de temps pour un rôle, celle-ci n’est pas créée et le message d’erreur « [!UICONTROL Utilisateur avec valeur(s) de clé primaire “XXXXXXXXXXX” introuvable]. » apparaît.
 * Lorsque l’utilisateur tente de créer une feuille de temps pour une équipe, le champ de [!UICONTROL saisie semi-automatique] n’est pas renseigné avec les équipes et le bouton [!UICONTROL Créer une feuille de temps] n’est pas sélectionnable.
 
 
@@ -647,7 +673,7 @@ Toutes les fonctionnalités de [!DNL Workfront Classic] ont été supprimées le
 
 *Approbations*
 
-Si vous sélectionnez un statut associé à un processus d’approbation, comme le statut Rejeté pour un chemin d’approbation, l’objet rejeté passe au statut sélectionné et sera marqué comme &quot;[!UICONTROL En attente d’approbation]&quot;. Par exemple, si vous sélectionnez [!UICONTROL En attente] pour le statut Rejeté alors que le statut [!UICONTROL En attente] est associé à un processus d’approbation, le statut de l’objet rejeté devient &quot;[!UICONTROL En attente d’approbation]&quot; et une approbation est nécessaire.
+Si vous sélectionnez un statut associé à un processus d’approbation, comme le statut Rejeté pour un chemin d’approbation, l’objet rejeté passe au statut sélectionné et est marqué comme « [!UICONTROL En attente d’approbation] ». Par exemple, si vous sélectionnez [!UICONTROL En attente] pour le statut Rejeté alors que le statut [!UICONTROL En attente] est associé à un processus d’approbation, le statut de l’objet rejeté devient « [!UICONTROL En attente d’approbation] » et une approbation est nécessaire.
 
 Avant cette mise à jour, l’objet ignorait le processus d’approbation du statut Rejeté et son statut était défini sur [!UICONTROL En attente].
 
@@ -676,11 +702,11 @@ La page **[!UICONTROL Mes mises à jour] est vierge**
 
 Lorsque l’utilisateur tente d’afficher sa page [!UICONTROL Mes mises à jour], elle ne se charge pas. Seul l’en-tête de navigation [!DNL Workfront] apparaît.
 
-**Aucun paramètre &quot;[!UICONTROL Autoriser uniquement l’authentification SAML 2.0]&quot; lors de la copie d’un utilisateur**
+**Aucun paramètre « [!UICONTROL Autoriser uniquement l’authentification SAML 2.0] » lors de la copie d’un utilisateur**
 
 *Utilisateurs*
 
-Lorsque l’administrateur de groupes copie un utilisateur et désélectionne l’option &quot;[!UICONTROL Envoyer une invitation par e-mail à cette personne]&quot;, la case à cocher &quot;[!UICONTROL Autoriser uniquement l’authentification SAML 2.0]&quot; n’apparaît pas comme prévu. Cela peut se produire même si toutes les exigences d’accès et d’autorisation pour cette action sont remplies.
+Lorsque l’administrateur de groupes copie un utilisateur et désélectionne l’option « [!UICONTROL Envoyer une invitation par e-mail à cette personne] », la case à cocher « [!UICONTROL Autoriser uniquement l’authentification SAML 2.0] » n’apparaît pas comme prévu. Cela peut se produire même si toutes les exigences d’accès et d’autorisation pour cette action sont remplies.
 
 +++
 
@@ -706,7 +732,7 @@ Lorsque l’utilisateur à l’accès limité à un rapport tente de demander un
 
 *Demandes*
 
-Lors de l’abandon d’un brouillon de demande, le message de confirmation qui s’affiche après avoir cliqué sur &quot;[!UICONTROL Ignorer le brouillon]&quot; indique ceci :
+Lors de l’abandon d’un brouillon de demande, le message de confirmation qui s’affiche après avoir cliqué sur « [!UICONTROL Ignorer le brouillon] » indique ceci :
 
 * [!UICONTROL Le brouillon a été ignoré] (il s’agit d’une notification vous informant que votre brouillon a été ignoré)
 * [!UICONTROL Annuler] (il s’agit d’un lien sur lequel vous pouvez cliquer pour annuler la suppression du brouillon. Le brouillon ne sera pas supprimé, mais conservé.)
@@ -767,17 +793,17 @@ Par conséquent, nous vous recommandons d’effectuer les actions suivantes si v
 
 Lorsque l’utilisateur ajoute un utilisateur à un Modèle de workflow, il peut configurer des options. Cependant, une fois la configuration initiale terminée, l’utilisateur ne peut plus modifier les éléments suivants :
 
-* la capacité &quot;[!UICONTROL Résoudre les commentaires et appliquer les mesures]&quot;
-* la capacité &quot;[!UICONTROL Partager l’épreuve en identifiant un ou des utilisateurs]&quot;
+* la capacité « [!UICONTROL Résoudre les commentaires et appliquer les mesures] »
+* la capacité « [!UICONTROL Partager l’épreuve en identifiant un ou des utilisateurs] »
 * le rôle dans l’épreuve ([!UICONTROL Réviseur], [!UICONTROL Approbateur], etc.)
 
-**Le filtre &quot;[!UICONTROL Tâches de ce projet]&quot; a été rétabli dans l’[!UICONTROL équilibreur de charge de travail]** du projet
+**Le filtre « [!UICONTROL Tâches de ce projet] » a été rétabli dans l’[!UICONTROL équilibreur de charge de travail]** du projet
 
 *[!UICONTROL Équilbreur de charge de travail]*
 
-Le filtre &quot;Tâches de ce projet&quot; a été rétabli dans la zone [!UICONTROL Affecté] lorsque vous accédez à l’[!UICONTROL équilibreur de charge de travail] depuis un projet.
+Le filtre « Tâches de ce projet » a été rétabli dans la zone [!UICONTROL Affecté] lorsque vous accédez à l’[!UICONTROL équilibreur de charge de travail] depuis un projet.
 
-Ce filtre se trouve désormais dans la section &quot;[!UICONTROL Suggestions]&quot; des filtres de la zone [!UICONTROL Tâches affectées] de l’[!UICONTROL équilibreur de charge de travail] d’un projet.
+Ce filtre se trouve désormais dans la section « [!UICONTROL Suggestions] » des filtres de la zone [!UICONTROL Tâches affectées] de l’[!UICONTROL équilibreur de charge de travail] d’un projet.
 
 +++
 
@@ -817,7 +843,7 @@ Lorsque l’utilisateur utilise le [!UICONTROL Calendrier de l’accueil] et cli
 
 +++
 
-+++**Mise à jour de maintenance (correctif) le 24 juin 2022**
++++**Mise à jour de maintenance (correctif) le 24 juin 2022**
 
 **Le sélecteur de date ne se ferme pas lorsque le formulaire personnalisé est modifié**
 
@@ -852,7 +878,7 @@ Lorsque l’utilisateur consulte le tableau de bord d’un projet et tente d’a
 
 Lorsque l’utilisateur consulte sa [!UICONTROL Liste de travail de l’accueil] et clique sur un élément de la section [!UICONTROL Mes approbations soumises], la page affiche le message d’erreur suivant :
 
-&quot;[!UICONTROL Une erreur s’est produite et nous nous efforçons de la résoudre. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.]&quot;
+« [!UICONTROL Une erreur s’est produite et nous nous efforçons de la résoudre. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.] »
 
 Si l’utilisateur actualise la page, puis clique sur n’importe quel élément de la [!UICONTROL Liste de travail], le message d’erreur apparaît. Le problème ne concerne plus uniquement les éléments de la section [!UICONTROL Mes approbations soumises].
 
@@ -881,7 +907,7 @@ Lorsque l’utilisateur accède à l’[!UICONTROL équilibreur de charge de tra
 
 +++
 
-+++Mise à jour de maintenance pour le Planificateur de scénario **[!DNL Workfront]le 23 juin 2022**
++++Mise à jour de maintenance pour le Planificateur de scénario **[!DNL Workfront]le 23 juin 2022**
 
 **Les utilisateurs disposant d’autorisations de niveau [!UICONTROL Gérer] pour un plan peuvent le partager avec d’autres personnes**
 
@@ -903,13 +929,13 @@ Lorsque l’administrateur de groupes tente d’ajouter un utilisateur à un gro
 
 Lorsque l’utilisateur crée un filtre et applique un filtre de champ de date, la liste déroulante des opérateurs disponibles pour le champ de date n’inclut aucun trimestre personnalisé récemment ajouté.
 
-**Erreur de type &quot;Oups&quot; lors de la conversion d’un événement en projet dans un modèle**
+**Erreur de type « Oups » lors de la conversion d’un événement en projet dans un modèle**
 
 *Projets*
 
 Lorsque l’utilisateur tente de convertir un événement en projet dans un modèle et que l’événement inclut un formulaire personnalisé contenant une section réservée aux administrateurs, l’événement n’est pas converti et le message d’erreur suivant apparaît :
 
-&quot;[!UICONTROL Réessayons. Oups ! Un problème est survenu. Contactez [!DNL Workfront] pour nous aider à comprendre l’erreur et y remédier.]&quot;
+« [!UICONTROL Réessayons. Oups ! Un problème est survenu. Contactez [!DNL Workfront] pour nous aider à comprendre l’erreur et y remédier.] »
 
 **Les demandes sont soumises avec des champs obligatoires vides**
 
@@ -943,11 +969,11 @@ Lorsque l’utilisateur tente d’ouvrir la zone [!UICONTROL Demandes de travail
 
 Lorsque l’utilisateur consulte l’onglet [!UICONTROL Filtres de projet] dans les [!UICONTROL Préférences] de l’[!UICONTROL optimisateur de portfolio], les cases à cocher devant se trouver près des objets ont disparu. L’utilisateur ne peut pas interagir avec les cases, et par conséquent ne peut pas sélectionner d’objets à filtrer.
 
-**Impossible de modifier la [!UICONTROL Date de début prévue] ou la [!UICONTROL Date d’achèvement prévue] lorsque la case &quot;[!UICONTROL Planifier à partir de]&quot; n’est pas cochée**
+**Impossible de modifier la [!UICONTROL Date de début prévue] ou la [!UICONTROL Date d’achèvement prévue] lorsque la case « [!UICONTROL Planifier à partir de] » n’est pas cochée**
 
 *Projets*
 
-Lorsque l’utilisateur tente de modifier la [!UICONTROL Date de début prévue] ou la [!UICONTROL Date d’achèvement prévue] d’un projet et que l’option &quot;[!UICONTROL Planifier à partir de]&quot; n’est pas cochée pour ce projet, les zones de la [!UICONTROL Date de début prévue] et de la [!UICONTROL Date d’achèvement prévue] sont désactivées et l’utilisateur ne peut pas modifier ces dates.
+Lorsque l’utilisateur tente de modifier la [!UICONTROL Date de début prévue] ou la [!UICONTROL Date d’achèvement prévue] d’un projet et que l’option « [!UICONTROL Planifier à partir de] » n’est pas cochée pour ce projet, les zones de la [!UICONTROL Date de début prévue] et de la [!UICONTROL Date d’achèvement prévue] sont désactivées et l’utilisateur ne peut pas modifier ces dates.
 
 **Impossible de modifier le niveau d’accès des utilisateurs**
 
@@ -957,7 +983,7 @@ Lorsque l’utilisateur disposant d’un accès de niveau Planificateur qui incl
 
 +++
 
-+++**[!DNL Workfront Scenario Planner]Mise à jour de maintenance le 9 juin 2022**
++++**[!DNL Workfront Scenario Planner]Mise à jour de maintenance le 9 juin 2022**
 
 **Panneau de gauche redimensionnable dans[!DNL Scenario Planner]**
 
@@ -967,9 +993,9 @@ Vous pouvez désormais redimensionner le panneau de gauche d’un plan dans le [
 
 +++
 
-+++**[!DNL Workfront Fusion]Mise à jour de maintenance le 9 juin 2022**
++++**[!DNL Workfront Fusion]Mise à jour de maintenance le 9 juin 2022**
 
-**Certaines données provenant de formulaires personnalisés ne sont pas disponibles dans les modules [!DNL Workfront Fusion] [!DNL Workfront]**
+**Certaines données provenant de formulaires personnalisés ne sont pas disponibles dans les [!DNL Workfront Fusion] [!DNL Workfront] modules**
 
 *[!DNL Workfront Fusion]*
 
@@ -1020,14 +1046,14 @@ Les filtres basés sur les champs personnalisés de [!UICONTROL saisie semi-auto
 
 *[!DNL Workfront Proof]*
 
-Lorsque l’utilisateur tente de modifier les autorisations &quot;[!UICONTROL Résoudre les commentaires et appliquer les mesures]&quot; ou &quot;[!UICONTROL Partager l’épreuve en identifiant un ou des utilisateurs]&quot; du rôle d’un utilisateur dans [!DNL Workfront Proof], les modifications ne s’enregistrent pas. L’utilisateur reçoit une notification indiquant que le modèle a été mis à jour, mais s’il ouvre à nouveau les autorisations de rôle, il constate que les modifications n’ont pas été enregistrées.
+Lorsque l’utilisateur tente de modifier les autorisations « [!UICONTROL Résoudre les commentaires et appliquer les mesures] » ou « [!UICONTROL Partager l’épreuve en identifiant un ou des utilisateurs] » du rôle d’un utilisateur dans [!DNL Workfront Proof], les modifications ne s’enregistrent pas. L’utilisateur reçoit une notification indiquant que le modèle a été mis à jour, mais s’il ouvre à nouveau les autorisations de rôle, il constate que les modifications n’ont pas été enregistrées.
 
 +++
 
 
 ## Mises à jour de mai 2022
 
-+++**Mise à jour de maintenance le 26 mai 2022**
++++**Mise à jour de maintenance le 26 mai 2022**
 
 Ces problèmes ont uniquement été résolus dans la nouvelle expérience [!DNL Workfront]. [!DNL Adobe Workfront Classic] n’est plus pris en charge.
 
@@ -1077,7 +1103,7 @@ Lorsque l’utilisateur consulte l’[!UICONTROL équilibreur de charge de trava
 
 +++
 
-+++**Mise à jour de maintenance le 19 mai 2022**
++++**Mise à jour de maintenance le 19 mai 2022**
 
 **Impossible de créer une épreuve à partir d’un[!DNL PowerPoint]**
 
@@ -1109,7 +1135,7 @@ Lorsque l’utilisateur consulte une épreuve et tente de la fermer, le X servan
 
 Si l’utilisateur consulte une page de [!UICONTROL Groupe] et tente d’ajouter ou de supprimer un administrateur de groupes depuis la zone [!UICONTROL Administrateurs de groupes] de l’en-tête, les modifications ne s’enregistrent pas et le message d’erreur suivant apparaît :
 
-[!UICONTROL Erreur : Oups ! Un problème est survenu. Contactez [!DNL Workfront] pour nous aider à comprendre l’erreur et y remédier.]
+[!UICONTROL Erreur : Oups ! Un problème est survenu. Contactez [!DNL Workfront] pour nous aider à comprendre l’erreur et y remédier.]
 
 **La barre de défilement horizontale masque les éléments en fin de liste**
 
@@ -1117,7 +1143,7 @@ Si l’utilisateur consulte une page de [!UICONTROL Groupe] et tente d’ajouter
 
 Lorsque l’utilisateur consulte une liste dans une vue qui continue hors de l’écran, la barre de défilement horizontale masque le dernier élément de la liste.
 
-**&quot;[!UICONTROL Erreur inattendue]&quot; lors de la conversion d’un événement en projet dans un modèle**
+**« [!UICONTROL Erreur inattendue] » lors de la conversion d’un événement en projet dans un modèle**
 
 *Listes*
 
@@ -1133,13 +1159,13 @@ Le champ [!UICONTROL Statut] dans une vue de feuille de temps est désormais en 
 
 +++
 
-+++**Mise à jour de maintenance le 12 mai 2022**
++++**Mise à jour de maintenance le 12 mai 2022**
 
 Le bouton **[!UICONTROL Enregistrer] charge sans cesse lorsqu’un projet est modifié**
 
 *Projets*
 
-Lorsque l’utilisateur modifie un projet et tente de l’enregistrer, le bouton [!UICONTROL Enregistrer] indique le mot &quot;[!UICONTROL Chargement]&quot;. Si l’utilisateur clique sur ce bouton pour enregistrer les modifications apportées au projet, le bouton ne répond pas et les modifications ne sont pas enregistrées.
+Lorsque l’utilisateur modifie un projet et tente de l’enregistrer, le bouton [!UICONTROL Enregistrer] indique le mot « [!UICONTROL Chargement] ». Si l’utilisateur clique sur ce bouton pour enregistrer les modifications apportées au projet, le bouton ne répond pas et les modifications ne sont pas enregistrées.
 
 **Les libellés des champs disparaissent lors de l’affichage d’un objet dans l’[!UICONTROL Accueil]**
 
@@ -1171,7 +1197,7 @@ Lorsque l’utilisateur tente de créer une épreuve, le texte des options ou de
 
 +++
 
-+++**Mise à jour de maintenance le 5 mai 2022**
++++**Mise à jour de maintenance le 5 mai 2022**
 
 **Impossible d’ajouter un nouvel enregistrement de facturation**
 
@@ -1185,7 +1211,7 @@ Lorsque l’utilisateur se trouve dans la zone [!UICONTROL Enregistrements de fa
 
 Lorsque l’utilisateur tente une affectation dans l’[!DNL Workload Balancer] d’un projet, il est redirigé vers une page affichant le message suivant :
 
-&quot;[!UICONTROL Une erreur s’est produite et nous nous efforçons de la résoudre. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.]&quot;
+« [!UICONTROL Une erreur s’est produite et nous nous efforçons de la résoudre. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.] »
 
 L’utilisateur ne peut pas quitter cette page tant qu’il ne l’actualise pas.
 
@@ -1201,7 +1227,7 @@ Il vous suffit désormais de cliquer sur une barre de tâches ou d’événement
 
 Lorsque l’utilisateur affecté à un niveau d’accès qui inclut l’accès de niveau [!UICONTROL Administrateur d’utilisateurs (Groupe d’utilisateurs)] tente d’afficher les détails d’un utilisateur dans son groupe, le message d’erreur suivant apparaît :
 
-&quot;[!UICONTROL Réessayons. Oups ! Un problème est survenu. Contactez [!DNL Workfront] pour nous aider à comprendre l’erreur et y remédier.]&quot;
+« [!UICONTROL Réessayons. Oups ! Un problème est survenu. Contactez [!DNL Workfront] pour nous aider à comprendre l’erreur et y remédier.] »
 
 **Impossible de supprimer le statut de groupe personnalisé**
 
@@ -1221,7 +1247,7 @@ Les paramètres de notification par e-mail indiqués dans la zone [!UICONTROL Co
 
 Lorsque l’utilisateur commente une épreuve et tente d’ouvrir l’outil [!UICONTROL Texte], l’outil ne s’ouvre pas et le message suivant apparaît :
 
-&quot;[!UICONTROL Les données de texte de cette page sont toujours en cours de téléchargement. Veuillez patienter.]&quot;
+« [!UICONTROL Les données de texte de cette page sont toujours en cours de téléchargement. Veuillez patienter.] »
 
 **Les e-mails concernant les épreuves seront envoyés à l’adresse e-mail principale de l’utilisateur**
 
@@ -1235,7 +1261,7 @@ Pour plus d’informations sur la raison pour laquelle le système génère des 
 
 ## Mises à jour d’avril 2022
 
-+++**Mise à jour de maintenance le 28 avril 2022**
++++**Mise à jour de maintenance le 28 avril 2022**
 
 **Impossible d’atteindre le bouton [!UICONTROL Enregistrer] lors de la modification d’une feuille de temps**
 
@@ -1253,7 +1279,7 @@ Auparavant, le système vérifiait uniquement votre adresse e-mail dans Workfron
 
 +++
 
-+++**Mise à jour de maintenance (correctif) le 25 avril 2022**
++++**Mise à jour de maintenance (correctif) le 25 avril 2022**
 
 L’**[!UICONTROL équilibreur de charge de travail] ne se charge pas**
 
@@ -1263,7 +1289,7 @@ Lorsque l’utilisateur tente d’ouvrir l’[!UICONTROL équilibreur de charge 
 
 +++
 
-+++**Mise à jour de maintenance le 21 avril 2022**
++++**Mise à jour de maintenance le 21 avril 2022**
 
 **L’ajout d’une tâche décale la page vers le bas**
 
@@ -1277,7 +1303,7 @@ Lorsque l’utilisateur ajoute une tâche sous une tâche existante dans une lis
 
 Si l’utilisateur est ajouté à une étape du workflow d’une épreuve, il n’est pas ajouté au partage de document et n’obtient aucune autorisation concernant l’élément de travail de l’épreuve dans [!DNL Workfront]. Lorsque l’utilisateur tente d’ouvrir l’élément de travail auquel l’épreuve est jointe dans [!DNL Workfront], le message suivant apparaît :
 
-&quot;[!UICONTROL Vous ne disposez pas d’un accès suffisant pour afficher ce (l’objet)]&quot;
+« [!UICONTROL Vous ne disposez pas d’un accès suffisant pour afficher ce (l’objet)] »
 
 Ce problème concerne les épreuves déjà créées et les utilisateurs ajoutés après la création. L’ajout d’utilisateurs au workflow avant la création de l’épreuve fonctionne comme prévu.
 
@@ -1287,23 +1313,23 @@ Ce problème concerne les épreuves déjà créées et les utilisateurs ajoutés
 
 Lorsque l’utilisateur tente d’envoyer un e-mail de réinitialisation de mot de passe à partir d’une liste d’utilisateurs dans [!DNL Workfront], l’option permettant d’envoyer l’e-mail n’est pas sélectionnable.
 
-**Le bouton indique &quot;[!UICONTROL Démarrer l’événement]&quot; au lieu de &quot;[!UICONTROL Démarrer la demande]&quot;**
+**Le bouton indique « [!UICONTROL Démarrer l’événement] » au lieu de « [!UICONTROL Démarrer la demande] »**
 
 *Demandes*
 
-Lorsque l’utilisateur consulte une demande affectée à son équipe, le bouton qui apparaît dans l’en-tête indique &quot;[!UICONTROL Démarrer l’événement]&quot; au lieu de &quot;[!UICONTROL Démarrer la demande]&quot;.
+Lorsque l’utilisateur consulte une demande affectée à son équipe, le bouton qui apparaît dans l’en-tête indique « [!UICONTROL Démarrer l’événement] » au lieu de « [!UICONTROL Démarrer la demande] ».
 
-**L’option &quot;[!UICONTROL Annuler le commentaire]&quot; supprime les utilisateurs identifiés**
+**L’option « [!UICONTROL Annuler le commentaire] » supprime les utilisateurs identifiés**
 
 *Mises à jour*
 
-Lorsque l’utilisateur identifie un autre utilisateur dans un commentaire, publie le commentaire, puis sélectionne l’option &quot;[!UICONTROL Annuler le commentaire]&quot;, le commentaire s’affiche dans une zone de mise à jour comme prévu, mais l’utilisateur identifié ne se trouve pas dans la zone [!UICONTROL Utilisateurs identifiés].
+Lorsque l’utilisateur identifie un autre utilisateur dans un commentaire, publie le commentaire, puis sélectionne l’option « [!UICONTROL Annuler le commentaire] », le commentaire s’affiche dans une zone de mise à jour comme prévu, mais l’utilisateur identifié ne se trouve pas dans la zone [!UICONTROL Utilisateurs identifiés].
 
 **Impossible de faire défiler l’écran dans la vue [!UICONTROL Jalon] d’un rapport**
 
 *Rapports*
 
-Lorsque l’utilisateur consulte un rapport et sélectionne la vue [!UICONTROL Jalon], la page passe en vue Jalon mais il est impossible de la faire défiler et l’utilisateur ne peut pas afficher les jalons plus bas dans la page.
+Lorsque l’utilisateur consulte un rapport et sélectionne la vue [!UICONTROL Jalon], la page passe en vue Jalon, mais il est impossible de la faire défiler et l’utilisateur ne peut pas afficher les jalons plus bas dans la page.
 
 **La devise est incorrecte lorsque le rapport s’affiche dans le tableau de bord**
 
@@ -1325,13 +1351,13 @@ Lorsque l’utilisateur tente de se connecter à [!DNL Workfront], la page sembl
 
 +++
 
-+++**Mise à jour de maintenance le 14 avril 2022**
++++**Mise à jour de maintenance le 14 avril 2022**
 
 **Impossible d’ajouter une tâche à partir d’un rapport sur une section personnalisée d’une tâche**
 
 *Tâches*
 
-Lorsque l’utilisateur consulte une section personnalisée d’une tâche et que la section contient un rapport de tâche, il ne peut pas ajouter de tâche à partir de ce rapport. Le bouton [!UICONTROL Ajouter une tâche] met en surbrillance le rapport mais n’ouvre pas de fenêtre permettant à l’utilisateur d’ajouter une tâche.
+Lorsque l’utilisateur consulte une section personnalisée d’une tâche et que la section contient un rapport de tâche, il ne peut pas ajouter de tâche à partir de ce rapport. Le bouton [!UICONTROL Ajouter une tâche] met en surbrillance le rapport, mais n’ouvre pas de fenêtre permettant à l’utilisateur d’ajouter une tâche.
 
 **Le bouton Terminé se trouve au mauvais emplacement lors de la modification d’une vue**
 
@@ -1345,7 +1371,7 @@ L’utilisateur peut modifier la vue normalement. La fonctionnalité reste la m�
 
 *Rapports*
 
-Lorsque l’utilisateur consulte un rapport et sélectionne la vue [!UICONTROL Jalon], la page passe en vue Jalon mais il est impossible de la faire défiler et l’utilisateur ne peut pas afficher les jalons plus bas dans la page.
+Lorsque l’utilisateur consulte un rapport et sélectionne la vue [!UICONTROL Jalon], la page passe en vue Jalon, mais il est impossible de la faire défiler et l’utilisateur ne peut pas afficher les jalons plus bas dans la page.
 
 **Écran vierge lors de l’affichage des mises à jour**
 
@@ -1357,9 +1383,9 @@ Lorsque l’utilisateur consulte les mises à jour et fait défiler l’écran v
 
 *[!UICONTROL Équilbreur de charge de travail]*
 
-Lorsque l’utilisateur de l’[!UICONTROL équilibreur de charge de travail] tente d’affecter des tâches à un utilisateur dont la fonction ne correspond pas à celle affectée aux tâches, un message indiquant que la tâche sera affectée à l’aide de la fonction principale de l’utilisateur affecté s’affiche. Cependant, lorsque l’utilisateur clique sur &quot;[!UICONTROL Affecter]&quot;, les tâches ne sont pas affectées et le message d’erreur suivant apparaît :
+Lorsque l’utilisateur de l’[!UICONTROL équilibreur de charge de travail] tente d’affecter des tâches à un utilisateur dont la fonction ne correspond pas à celle affectée aux tâches, un message indiquant que la tâche sera affectée à l’aide de la fonction principale de l’utilisateur affecté s’affiche. Cependant, lorsque l’utilisateur clique sur « [!UICONTROL Affecter] », les tâches ne sont pas affectées et le message d’erreur suivant apparaît :
 
-&quot;[!UICONTROL Erreur. Le serveur a rencontré une erreur inconnue.]&quot;
+« [!UICONTROL Erreur. Le serveur a rencontré une erreur inconnue.] »
 
 +++
 
@@ -1369,7 +1395,7 @@ Lorsque l’utilisateur de l’[!UICONTROL équilibreur de charge de travail] te
 
 *Épreuves*
 
-Lorsque l’utilisateur ajoute un autre utilisateur à une épreuve, son rôle dans l’épreuve est défini comme en &quot;[!UICONTROL Lecture seule]&quot; malgré le véritable rôle d’épreuve de l’utilisateur.
+Lorsque l’utilisateur ajoute un autre utilisateur à une épreuve, son rôle dans l’épreuve est défini comme en « [!UICONTROL Lecture seule] » malgré le véritable rôle d’épreuve de l’utilisateur.
 
 **Impossible d’envoyer l’e-mail de réinitialisation de mot de passe à l’utilisateur**
 
@@ -1389,11 +1415,11 @@ Lorsque l’utilisateur consulte la zone [!UICONTROL Personnes] d’un projet et
 
 Lorsque l’utilisateur consulte un flux de mise à jour qui s’imprimerait en plusieurs pages et tente d’imprimer la page, l’écran d’impression indique que le nombre de pages à imprimer est largement supérieur au nombre réel de pages à imprimer. Si l’utilisateur tente ensuite d’imprimer au format PDF, la création du PDF échoue.
 
-**Les utilisateurs ne voient pas la liste complète des entités partagées avec un rapport lorsque le paramètre &quot;[!UICONTROL Visible à l’échelle du système]&quot; est activé**
+**Les utilisateurs ne voient pas la liste complète des entités partagées avec un rapport lorsque le paramètre « [!UICONTROL Visible à l’échelle du système] » est activé**
 
 *Rapports*
 
-Lors du partage de rapports avec plusieurs entités indiquées dans la zone [!UICONTROL Accès aux rapports], les utilisateurs ne peuvent pas faire défiler la page jusqu’au bas de la liste pour consulter la liste complète lorsque le paramètre &quot;[!UICONTROL Visible à l’échelle du système]&quot; est activé.
+Lors du partage de rapports avec plusieurs entités indiquées dans la zone [!UICONTROL Accès aux rapports], les utilisateurs ne peuvent pas faire défiler la page jusqu’au bas de la liste pour consulter la liste complète lorsque le paramètre « [!UICONTROL Visible à l’échelle du système] » est activé.
 
 **Devise incorrecte utilisée dans les rapports**
 
@@ -1489,11 +1515,11 @@ Lorsque l’utilisateur tente d’ajouter un formulaire personnalisé interobjet
 
 Lorsque l’utilisateur tente d’affecter un autre utilisateur à une tâche dans l’[!UICONTROL équilibreur de charge de travail] et que la tâche est affectée à une fonction autre que la fonction principale de l’utilisateur affecté, l’utilisateur est affecté à la tâche d’après sa fonction principale, et le message suivant s’affiche :
 
-&quot;\&lt;Nom\> ne convient pas au rôle de l’affectation \&lt;Affectation de rôle de tâche\>. 1 élément de travail actuellement affecté au rôle &lt;\Affectation de rôle de tâche\> sera affecté à \&lt;Nom\> en tant que \&lt;Fonction principale\>.&quot;
+« \&lt;Nom\> ne convient pas au rôle de l’affectation \&lt;Affectation de rôle de tâche\>. 1 élément de travail actuellement affecté au rôle &lt;\Affectation de rôle de tâche\> sera affecté à \&lt;Nom\> en tant que \&lt;Fonction principale\>. »
 
 Cela se produit même si l’utilisateur possède la fonction de l’affectation de rôle de tâche en tant que fonction secondaire.
 
-**Problème de la barre &quot;Afficher plus d’éléments de travail&quot; du scrum board**&#x200B;
+**Problème de la barre « Afficher plus d’éléments de travail » du scrum board**&#x200B;
 
 *Agile*
 
@@ -1513,11 +1539,11 @@ Lorsque l’utilisateur remplit les invites d’un rapport et rencontre un séle
 
 +++
 
-+++**Mise à jour de maintenance (correctif) le 29 mars 2022**
++++**Mise à jour de maintenance (correctif) le 29 mars 2022**
 
 **Impossible de modifier ou d’enregistrer les calculs dans le créateur de formulaires personnalisés**
 
-*Formulaires personnalisés dans mon groupe*
+*Formulaires personnalisés*
 
 Si l’utilisateur saisit manuellement un calcul dans un champ de calcul du créateur de formulaires personnalisés et enregistre le formulaire, le calcul n’est pas enregistré. Si l’utilisateur ouvre à nouveau le formulaire personnalisé, ce champ est vide.
 
@@ -1539,8 +1565,8 @@ Si le profil de l’utilisateur est défini sur un fuseau horaire spécifique da
 
 *Projets*
 
-Lorsqu’un modèle avec des champs personnalisés obligatoires est joint à un projet dans lequel le champ rempli existe déjà, l’erreur suivante se produit : &quot;[!UICONTROL Certains champs sont incomplets. Saisissez les valeurs des champs obligatoires pour continuer.]&quot; 
-Cliquer sur &quot;[!UICONTROL Y accéder]&quot; permet de constater que les champs sont remplis et que le modèle peut être joint.
+Lorsqu’un modèle avec des champs personnalisés obligatoires est joint à un projet dans lequel le champ rempli existe déjà, l’erreur suivante se produit : « [!UICONTROL Certains champs sont incomplets. Saisissez les valeurs des champs obligatoires pour continuer.] » 
+Cliquer sur « [!UICONTROL Y accéder] » permet de constater que les champs sont remplis et que le modèle peut être joint.
 
 **L’[!UICONTROL équilibreur de charge de travail] clignote en passant d’une date à l’autre**
 
@@ -1556,7 +1582,7 @@ Mettre à jour le filtre semble réinitialiser l’affichage. Toutefois, si l’
 
 Les utilisateurs signalent que lorsque l’administrateur [!DNL Workfront] personnalise la terminologie de certains objets à l’aide d’un modèle de mise en page, le nouveau nom d’objet s’affiche de manière incohérente dans l’interface.
 
-Par exemple, sur la page [!UICONTROL Projets], le titre de la page indique toujours &quot;[!UICONTROL Projets]&quot; même si l’administrateur [!DNL Workfront] a modifié le nom des &quot;[!UICONTROL Projets]&quot;.
+Par exemple, sur la page [!UICONTROL Projets], le titre de la page indique toujours « [!UICONTROL Projets] » même si l’administrateur [!DNL Workfront] a modifié le nom des « [!UICONTROL Projets] ».
 
 Cela perturbe les utilisateurs finaux.
 
@@ -1564,7 +1590,7 @@ Cela perturbe les utilisateurs finaux.
 
 +++**Mise à jour de maintenance le 17 mars 2022**
 
-**Les miniatures et les images principales des fichiers à plusieurs pages sont vides dans le navigateur [!DNL Safari]**
+**Les miniatures et les images principales des fichiers à plusieurs pages sont vides dans le [!DNL Safari] navigateur**
 
 *[!DNL Workfront Proof]*
 
@@ -1582,13 +1608,13 @@ Lorsque l’utilisateur affecte en bloc des éléments dans l’[!UICONTROL équ
 
 Lorsque l’utilisateur clique sur une colonne pour la trier, le tri semble fonctionner, mais les résultats reviennent instantanément dans l’ordre d’origine avant que l’utilisateur ne clique sur la colonne. Aucun tri n’est conservé sur aucune colonne.
 
-**Sélectionner &quot;[!UICONTROL Rien]&quot; rétablit le regroupement [!UICONTROL Rapport par défaut]**
+**Sélectionner « [!UICONTROL Rien] » rétablit le regroupement [!UICONTROL Rapport par défaut]**
 
 *Rapports*
 
-Lorsque l’utilisateur tente de sélectionner &quot;[!UICONTROL Rien]&quot; dans le menu déroulant [!UICONTROL Regroupement] d’un rapport comportant un groupement intégré, le rapport s’affiche sans aucun regroupement pendant quelques instants, puis repasse au regroupement [!UICONTROL Rapport par défaut].
+Lorsque l’utilisateur tente de sélectionner « [!UICONTROL Rien] » dans le menu déroulant [!UICONTROL Regroupement] d’un rapport comportant un groupement intégré, le rapport s’affiche sans aucun regroupement pendant quelques instants, puis repasse au regroupement [!UICONTROL Rapport par défaut].
 
-**Suppression de l’onglet &quot;[!UICONTROL Accès aux blueprints]&quot; depuis les préférences des blueprints**
+**Suppression de l’onglet « [!UICONTROL Accès aux blueprints] » depuis les préférences des blueprints**
 
 *Plans directeurs*
 
@@ -1610,7 +1636,7 @@ La vue **[!UICONTROL Jalon] du rapport du projet provoque l’apparition d’une
 
 *Rapports*
 
-Lors de l’affichage d’un rapport de projet dans la vue [!UICONTROL Jalon], l’erreur &quot;[!UICONTROL L’APIModel INTERNE ne prend pas en charge la VIGNETTE namedQuery : milestone-view (UIVW)]&quot; apparaît.
+Lors de l’affichage d’un rapport de projet dans la vue [!UICONTROL Jalon], l’erreur « [!UICONTROL L’APIModel INTERNE ne prend pas en charge la VIGNETTE namedQuery : milestone-view (UIVW)] » apparaît.
 
 **La terminologie personnalisée est incohérente**
 
@@ -1618,7 +1644,7 @@ Lors de l’affichage d’un rapport de projet dans la vue [!UICONTROL Jalon], l
 
 Les utilisateurs signalent que lorsque l’administrateur [!DNL Workfront] personnalise la terminologie de certains objets à l’aide d’un modèle de mise en page, le nouveau nom d’objet s’affiche de manière incohérente dans l’interface.
 
-Par exemple, sur la page [!UICONTROL Projets], le titre de la page indique toujours &quot;[!UICONTROL Projets]&quot; même si l’administrateur [!DNL Workfront] a modifié le nom des &quot;[!UICONTROL Projets]&quot;.
+Par exemple, sur la page [!UICONTROL Projets], le titre de la page indique toujours « [!UICONTROL Projets] » même si l’administrateur [!DNL Workfront] a modifié le nom des « [!UICONTROL Projets] ».
 
 Cela perturbe les utilisateurs finaux.
 
@@ -1636,7 +1662,7 @@ Erreur **[!UICONTROL Paramètre non valide] lors de la réinitialisation des mot
 
 Les utilisateurs ne peuvent pas réinitialiser leurs mots de passe dans aucun environnement. Lorsqu’ils saisissent leur adresse e-mail et tentent de continuer le processus, un message d’erreur apparaît.
 
-[!UICONTROL Erreur : paramètre non valide : valeur du paramètre de recherche &quot;domaine&quot;].
+[!UICONTROL Erreur : paramètre non valide : valeur du paramètre de recherche « domaine »].
 
 +++
 
@@ -1650,7 +1676,7 @@ Les problèmes suivants liés à la connexion à l’environnement de prévisual
 
 Lorsque l’utilisateur tente de se connecter à l’environnement de prévisualisation, un message l’informant que l’ID ou le mot de passe saisi est incorrect apparaît.
 
-Lorsque l’utilisateur tente de réinitialiser son mot de passe, le message d’erreur &quot;[!UICONTROL Plusieurs utilisateurs correspondent à cette adresse e-mail <example@example.com>]&quot; apparaît.
+Lorsque l’utilisateur tente de réinitialiser son mot de passe, le message d’erreur « [!UICONTROL Plusieurs utilisateurs correspondent à cette adresse e-mail <example@example.com>] » apparaît.
 
 **Les formulaires personnalisés se chargent lentement dans la zone [!UICONTROL Détails du projet]**
 
@@ -1676,7 +1702,7 @@ Lorsque l’utilisateur disposant d’un accès en lecture seule à un modèle p
 
 Lorsque l’utilisateur tente de charger une nouvelle version d’un document depuis la liste de documents, le document n’est pas chargé et le message d’erreur suivant apparaît :
 
-[!UICONTROL Erreur : Impossible d’appeler &quot;com.attask.boz.Document.getCurrentVersion()&quot; car &quot;document&quot; est nul]
+[!UICONTROL Erreur : Impossible d’appeler &quot;com.attask.boz.Document.getCurrentVersion()&quot;, car &quot;document&quot; est nul]
 
 **Impossible de modifier les taux de facturation**
 
@@ -1690,13 +1716,13 @@ Lorsque l’utilisateur tente de modifier un taux de facturation dans l’onglet
 
 Lorsque l’utilisateur tente d’ouvrir un document à l’aide d’un lien public, le lien mène à une page vierge. Cela se produit lorsque le lien est ouvert dans une fenêtre où une session [!DNL Workfront] active est ouverte.
 
-**Erreur de type &quot;Oups&quot; lors de l’ajout d’une tâche ou d’un événement à la liste**
+**Erreur de type « Oups » lors de l’ajout d’une tâche ou d’un événement à la liste**
 
 *Tâches et événements*
 
 Lorsque l’utilisateur non-administrateur tente d’ajouter une tâche ou un événement à une liste et renseigne des champs personnalisés, la tâche ou l’événement n’est pas créé et le message d’erreur suivant apparaît :
 
-[!UICONTROL Erreur : Oups ! Un problème est survenu. Contactez [!DNL Workfront] pour nous aider à comprendre l’erreur et y remédier.]
+[!UICONTROL Erreur : Oups ! Un problème est survenu. Contactez [!DNL Workfront] pour nous aider à comprendre l’erreur et y remédier.]
 
 **Conserver une mise à jour après un changement de statut rétablit l’état précédent de l’objet**
 
@@ -1708,18 +1734,18 @@ Modifier le statut d’un projet, d’une tâche ou d’un événement, puis com
 
 *Épreuves*
 
-Lorsque l’utilisateur ajoute un autre utilisateur à une épreuve, son rôle dans l’épreuve est défini comme en &quot;[!UICONTROL Lecture seule]&quot; malgré le véritable rôle d’épreuve de l’utilisateur.
+Lorsque l’utilisateur ajoute un autre utilisateur à une épreuve, son rôle dans l’épreuve est défini comme en « [!UICONTROL Lecture seule] » malgré le véritable rôle d’épreuve de l’utilisateur.
 
 Solution : 
 Changez le rôle de l’utilisateur sur l’épreuve indiqué dans son profil puis repassez-le au rôle approprié.
 
 **Le formulaire personnalisé ne se charge pas lors de la conversion d’un événement en projet à l’aide d’un modèle**
 
-*Formulaires personnalisés dans mon groupe*
+*Formulaires personnalisés*
 
 Lorsque l’utilisateur tente de convertir un événement en projet à l’aide d’un modèle, un ou plusieurs des formulaires personnalisés joints au modèle peuvent ne pas se charger. Lorsque l’utilisateur configure le modèle pour le nouveau projet, au lieu des formulaires personnalisés, le message suivant apparaît :
 
-&quot;[!UICONTROL Un problème est survenu, impossible de charger le formulaire].&quot;
+« [!UICONTROL Un problème est survenu, impossible de charger le formulaire]. »
 
 **L’utilisateur ne peut pas ajouter d’événement sur la ligne avec le champ déroulant personnalisé qui s’affiche dans la vue**
 
@@ -1727,7 +1753,7 @@ Lorsque l’utilisateur tente de convertir un événement en projet à l’aide 
 
 Lorsque l’utilisateur ajoute un événement sur la ligne et qu’une vue personnalisée avec des champs déroulants personnalisés est appliquée à la liste, une erreur se produit lorsqu’il remplit uniquement le champ déroulant. L’utilisateur est autorisé à modifier les formulaires personnalisés et est le propriétaire du projet disposant de droits de gestion sur le projet.
 
-[!UICONTROL Erreur : Oups ! Un problème est survenu. Contactez [!DNL Workfront] pour nous aider à comprendre l’erreur et y remédier.]
+[!UICONTROL Erreur : Oups ! Un problème est survenu. Contactez [!DNL Workfront] pour nous aider à comprendre l’erreur et y remédier.]
 
 **Les autorisations d’ajout de tâches à un projet ne sont pas obligatoires pour déplacer ou copier une tâche dans le projet**
 
@@ -1763,7 +1789,7 @@ Lorsque l’utilisateur tente d’ajouter un document à partir de [!DNL Google 
 
 *Mises à jour*
 
-Lorsque l’utilisateur est identifié dans une mise à jour, il n’apparaît pas dans la zone &quot;[!UICONTROL À]&quot; de la mise à jour ou de ses réponses.
+Lorsque l’utilisateur est identifié dans une mise à jour, il n’apparaît pas dans la zone « [!UICONTROL À] » de la mise à jour ou de ses réponses.
 
 **L’utilisateur de l’épreuve dispose de deux comptes de relecture distincts**
 
@@ -1771,13 +1797,13 @@ Lorsque l’utilisateur est identifié dans une mise à jour, il n’apparaît p
 
 L’adresse électronique d’un utilisateur dans [!DNL Workfront Proof] peut appartenir à deux comptes distincts avec des ID distincts. L’utilisateur possède alors deux comptes. Identifier le compte correct est alors compliqué.
 
-**Erreur de type &quot;Oups&quot; dans les en-têtes de rapports**
+**Erreur de type « Oups » dans les en-têtes de rapports**
 
 *Rapports*
 
 Lorsque l’utilisateur consulte un rapport, le message d’erreur suivant apparaît dans l’en-tête du rapport :
 
-&quot;[!UICONTROL Réessayons. Oups ! Un problème est survenu. Contactez [!DNL Workfront] pour nous aider à comprendre l’erreur et y remédier.]&quot;
+« [!UICONTROL Réessayons. Oups ! Un problème est survenu. Contactez [!DNL Workfront] pour nous aider à comprendre l’erreur et y remédier.] »
 
 Si l’utilisateur consulte un tableau de bord, l’erreur peut apparaître dans l’en-tête de tous les rapports du tableau de bord.
 
@@ -1844,17 +1870,17 @@ Lorsque l’utilisateur tente de copier une demande, le bouton [!UICONTROL Copie
 
 **Les données des formulaires personnalisés disparaissent lorsque d’autres champs des formulaires sont remplis**
 
-*Formulaires personnalisés dans mon groupe*
+*Formulaires personnalisés*
 
 Lorsque l’utilisateur remplit un formulaire personnalisé en vue de la conversion d’un événement en projet, le remplissage d’un champ personnalisé peut provoquer la disparition des données d’un autre champ personnalisé. Si l’utilisateur saisit à nouveau les données manquantes, le message d’erreur suivant s’affiche lorsqu’il tente de créer le projet :
 
-&quot;[!UICONTROL Vous devez être un administrateur système pour modifier cette valeur de paramètre de donnée personnalisée]&quot;
+« [!UICONTROL Vous devez être un administrateur système pour modifier cette valeur de paramètre de donnée personnalisée] »
 
-**Aucun champ &quot;[!UICONTROL Ce processus d’approbation peut être utilisé par…]&quot;**
+**Aucun champ « [!UICONTROL Ce processus d’approbation peut être utilisé par…] »**
 
 *Approbations*
 
-Lorsque l’utilisateur crée ou modifie un processus d’approbation dans la zone [!UICONTROL Configuration], le champ &quot;[!UICONTROL Ce processus d’approbation peut être utilisé par…]&quot; n’apparaît pas. Cela peut se produire lors de la création d’un processus d’approbation ou de la modification d’un processus existant.
+Lorsque l’utilisateur crée ou modifie un processus d’approbation dans la zone [!UICONTROL Configuration], le champ « [!UICONTROL Ce processus d’approbation peut être utilisé par…] » n’apparaît pas. Cela peut se produire lors de la création d’un processus d’approbation ou de la modification d’un processus existant.
 
 **L’administrateur système ne peut pas réaffecter les utilisateurs lors de la suppression d’un groupe**
 
@@ -1862,7 +1888,7 @@ Lorsque l’utilisateur crée ou modifie un processus d’approbation dans la zo
 
 Lorsque l’administrateur système supprime un groupe, il pourra uniquement réaffecter les utilisateurs de ce groupe aux groupes dont il est l’administrateur. Les autres groupes n’apparaissent pas dans la liste déroulante et l’administrateur ne peut pas les sélectionner.
 
-**Erreur de type &quot;Oups&quot; lors de la conversion d’un événement en projet**
+**Erreur de type « Oups » lors de la conversion d’un événement en projet**
 
 *Projets*
 
@@ -1902,7 +1928,7 @@ Le déploiement échelonné se poursuivra pendant 2 semaines.
 
 +++
 
-+++**[!DNL Workfront Fusion]Mise à jour de maintenance le 18 février 2022**
++++**[!DNL Workfront Fusion]Mise à jour de maintenance le 18 février 2022**
 
 **Validation du type de valeur de champ ajoutée aux propriétés d’éléments de liste [!DNL Anaplan]**
 
@@ -1920,9 +1946,9 @@ Correction d’un problème qui permettait aux utilisateurs d’insérer un type
 
 Lorsque l’utilisateur tente de supprimer un prédécesseur depuis l’onglet [!UICONTROL Prédécesseurs] d’une tâche, la tâche n’est pas supprimée et le message d’erreur suivant apparaît :
 
-[!UICONTROL Tâche avec valeur(s) de clé primaire « » introuvable]
+[!UICONTROL Tâche avec valeur(s) de clé primaire &quot;&quot; introuvable]
 
-**Erreur de type &quot;Oups&quot; lors de l’ouverture de la page Utilisateurs**
+**Erreur de type « Oups » lors de l’ouverture de la page Utilisateurs**
 
 *Utilisateurs*
 
@@ -1936,21 +1962,21 @@ Lorsque l’utilisateur tente d’ouvrir la page [!UICONTROL Utilisateurs], cell
 
 Lorsque l’utilisateur consulte un rapport dans un tableau de bord, l’icône et le libellé des regroupements chevauchent les liens menant vers les [!UICONTROL Détails] et le [!UICONTROL Résumé].
 
-**Problèmes liés au menu &quot;[!UICONTROL Plus]&quot; des documents et des épreuves**
+**Problèmes liés au menu « [!UICONTROL Plus] » des documents et des épreuves**
 
 *Documents*
 
-Lorsque l’utilisateur sélectionne un document ou une épreuve dans une liste de documents [!DNL Workfront Classic] puis clique sur &quot;[!UICONTROL Plus]&quot;, l’un des problèmes suivants peut survenir : 
+Lorsque l’utilisateur sélectionne un document ou une épreuve dans une liste de documents [!DNL Workfront Classic] puis clique sur « [!UICONTROL Plus] », l’un des problèmes suivants peut survenir : 
 Le bouton ne répond pas 
-Toutes les options apparaissant sous le bouton sont intitulées &quot;[!UICONTROL Objet de l’objet]&quot; et ne peuvent pas être sélectionnées.
+Toutes les options apparaissant sous le bouton sont intitulées « [!UICONTROL Objet de l’objet] » et ne peuvent pas être sélectionnées.
 
-**Erreur &quot;Vous devez être un administrateur système&quot; lors de la création d’un projet**
+**Erreur « Vous devez être un administrateur système » lors de la création d’un projet**
 
 *Projets*
 
 Lorsque l’utilisateur non-administrateur tente de créer un projet et joint un formulaire personnalisé dont une section est réservée aux administrateurs, il ne peut pas créer le projet et le message d’erreur suivant apparaît :
 
-&quot;Vous devez être un administrateur système pour modifier cette valeur de paramètre de donnée personnalisée&quot;
+« Vous devez être un administrateur système pour modifier cette valeur de paramètre de donnée personnalisée »
 
 **Dans les formulaires personnalisés, les données des sections réservées aux administrateurs ne sont pas conservées lors de la conversion d’événements en projets**
 
@@ -1962,13 +1988,13 @@ Lorsque l’utilisateur convertit un événement en projet à l’aide d’un mo
 
 +++**Mise à jour de maintenance le 10 février 2022**
 
-**Erreur &quot;[!UICONTROL Vous devez être un administrateur système]&quot; lors de la création d’un projet**
+**Erreur « [!UICONTROL Vous devez être un administrateur système] » lors de la création d’un projet**
 
 *Projets*
 
 Lorsque l’utilisateur non-administrateur tente de créer un projet et joint un formulaire personnalisé dont une section est réservée aux administrateurs, il ne peut pas créer le projet et le message d’erreur suivant apparaît :
 
-&quot;[!UICONTROL Vous devez être un administrateur système pour modifier cette valeur de paramètre de donnée personnalisée]&quot;
+« [!UICONTROL Vous devez être un administrateur système pour modifier cette valeur de paramètre de donnée personnalisée] »
 
 **Les utilisateurs désactivés puis réactivés n’apparaissent pas dans les [!UICONTROL Contacts de l’épreuve]**
 
@@ -1976,21 +2002,21 @@ Lorsque l’utilisateur non-administrateur tente de créer un projet et joint un
 
 Lorsque l’utilisateur consulte sa liste de contacts dans [!DNL Workfront Proof], les utilisateurs désactivés puis réactivés n’apparaissent pas dans la liste.
 
-**Message &quot;Un problème est survenu&quot; lors de la conversion d’un événement en projet à l’aide d’un modèle**
+**Message « Un problème est survenu » lors de la conversion d’un événement en projet à l’aide d’un modèle**
 
 *Projets*
 
 Lorsque l’utilisateur non-administrateur tente de convertir un événement en projet à l’aide d’un modèle, les champs de formulaire personnalisés visibles uniquement par les administrateurs indiquent le message suivant :
 
-&quot;[!UICONTROL Un problème est survenu, impossible de charger le formulaire]&quot;
+« [!UICONTROL Un problème est survenu, impossible de charger le formulaire] »
 
-**Erreur &quot;Impossible de charger le contenu de la page&quot; lors de l’affichage des préférences du projet**
+**Erreur « Impossible de charger le contenu de la page » lors de l’affichage des préférences du projet**
 
 *Configuration*
 
 Lorsque l’utilisateur au statut d’administrateur tente d’afficher des projets, des tâches ou des événements depuis les [!UICONTROL Préférences du projet] dans la zone [!UICONTROL Configuration], la page ne se charge pas et le message d’erreur suivant apparaît :
 
-&quot;[!UICONTROL Impossible de charger le contenu de la page. Essayez d’actualiser la page.]&quot;
+« [!UICONTROL Impossible de charger le contenu de la page. Essayez d’actualiser la page.] »
 
 +++
 
@@ -2002,7 +2028,7 @@ Erreur **[!UICONTROL BizContext] lors de la connexion**
 
 Lorsque l’utilisateur tente de se connecter à [!DNL Workfront], la connexion échoue et le message suivant apparaît :
 
-&quot;[!UICONTROL Réessayons. Erreur de base de données : échec de l’engagement BizContext]&quot;
+« [!UICONTROL Réessayons. Erreur de base de données : échec de l’engagement BizContext] »
 
 Ce problème a été signalé dans l’environnement de Prévisualisation.
 
@@ -2019,7 +2045,7 @@ Lorsque l’utilisateur clique sur la zone [!UICONTROL Nouvelle mise à jour] du
 Lorsque l’utilisateur tente de charger une nouvelle version d’un document, la nouvelle version ne se charge pas et l’un des messages d’erreur suivants apparaît :
 
 * [!UICONTROL documentID ne peut pas être nul]
-* [!UICONTROL Erreur : paramètre non valide : la valeur de documentID est &quot;non définie&quot;]
+* [!UICONTROL Erreur : paramètre non valide : la valeur de documentID est « non définie »]
 
 **Le lien public du document mène à une page vierge**
 
@@ -2033,13 +2059,13 @@ Lorsque l’utilisateur tente d’ouvrir un document à l’aide d’un lien pub
 
 Lorsque l’utilisateur consulte un rapport dans un tableau de bord et tente de modifier le filtre, le regroupement ou la vue du rapport, le filtre, le regroupement ou la vue ne change pas.
 
-**Erreur &quot;[!UICONTROL Vous devez être un administrateur système]&quot; lors de la création d’un projet**
+**Erreur « [!UICONTROL Vous devez être un administrateur système] » lors de la création d’un projet**
 
 *Projets*
 
 Lorsque l’utilisateur non-administrateur tente de créer un projet et joint un formulaire personnalisé dont une section est réservée aux administrateurs, il ne peut pas créer le projet et le message d’erreur suivant apparaît :
 
-&quot;[!UICONTROL Vous devez être un administrateur système pour modifier cette valeur de paramètre de donnée personnalisée]&quot;
+« [!UICONTROL Vous devez être un administrateur système pour modifier cette valeur de paramètre de donnée personnalisée] »
 
 **Les données personnalisées ne sont pas conservées lors de la conversion d’un événement en projet**
 
@@ -2053,7 +2079,7 @@ Lorsque l’utilisateur convertit un événement en projet à l’aide d’un mo
 
 Lorsque l’utilisateur tente de convertir un événement en projet, l’événement n’est pas converti et le message d’erreur suivant apparaît :
 
-&quot;[!UICONTROL Une erreur inattendue s’est produite]&quot;
+« [!UICONTROL Une erreur inattendue s’est produite] »
 
 +++
 
@@ -2078,7 +2104,7 @@ Lorsque l’utilisateur affiche la liste des utilisateurs d’un tableau agile, 
 
 *Événements*
 
-Dans l’environnement de Prévisualisation, les liens permettant de copier et de déplacer les événements ont été mis à jour et sont passés à &quot;[!UICONTROL Copier vers]&quot; et &quot;[!UICONTROL Déplacer vers]&quot;, à la fois sur la page de l’événement et dans la liste des événements.
+Dans l’environnement de Prévisualisation, les liens permettant de copier et de déplacer les événements ont été mis à jour et sont passés à « [!UICONTROL Copier vers] » et « [!UICONTROL Déplacer vers] », à la fois sur la page de l’événement et dans la liste des événements.
 
 **Ajoutez jusqu’à 45 adresses IP à votre liste autorisée [!DNL Workfront]**
 
@@ -2090,13 +2116,13 @@ La limite du nombre d’adresses IP ajoutées à votre liste autorisée [!DNL Wo
 
 +++**Mise à jour de maintenance le 20 janvier 2022**
 
-**Erreur &quot;[!UICONTROL Paramètre non valide]&quot; lors de la création d’un projet à partir d’un modèle**
+**Erreur « [!UICONTROL Paramètre non valide] » lors de la création d’un projet à partir d’un modèle**
 
 *Projets*
 
-Lorsque l’utilisateur tente de créer un projet à partir d’un modèle et supprime un formulaire personnalisé du modèle lors de la création du projet, le projet n’est pas créé et un message d’erreur &quot;[!UICONTROL Paramètre non valide]&quot; apparaît, qui mentionne un champ obligatoire du formulaire personnalisé supprimé.
+Lorsque l’utilisateur tente de créer un projet à partir d’un modèle et supprime un formulaire personnalisé du modèle lors de la création du projet, le projet n’est pas créé et un message d’erreur « [!UICONTROL Paramètre non valide] » apparaît, qui mentionne un champ obligatoire du formulaire personnalisé supprimé.
 
-**La liste des utilisateurs ne se charge pas dans le navigateur [!DNL Safari]**
+**La liste des utilisateurs ne se charge pas dans le [!DNL Safari] navigateur**
 
 *Utilisateurs*
 
@@ -2150,17 +2176,17 @@ Le **[!UICONTROL Pourcentage terminé] et les [!UICONTROL Heures terminées] ne 
 
 *Agile*
 
-Lorsque l’utilisateur sélectionne &quot;[!UICONTROL Afficher plus d’éléments de travail]&quot; dans le tableau Agile puis tente de modifier le [!UICONTROL Pourcentage terminé] ou les [!UICONTROL Heures terminées] pour l’un des éléments de travail nouvellement chargés, il n’y parvient pas. Le bouton [!UICONTROL Pourcentage terminé] reste également gris, indiquant qu’il est inactif.
+Lorsque l’utilisateur sélectionne « [!UICONTROL Afficher plus d’éléments de travail] » dans le tableau Agile puis tente de modifier le [!UICONTROL Pourcentage terminé] ou les [!UICONTROL Heures terminées] pour l’un des éléments de travail nouvellement chargés, il n’y parvient pas. Le bouton [!UICONTROL Pourcentage terminé] reste également gris, indiquant qu’il est inactif.
 
 +++
 
 +++**Mise à jour de maintenance le 6 janvier 2022**
 
-**Erreur &quot;[!UICONTROL Paramètre non valide]&quot; lorsque des modèles ou des formulaires personnalisés sont joints à des projets**
+**Erreur « [!UICONTROL Paramètre non valide] » lorsque des modèles ou des formulaires personnalisés sont joints à des projets**
 
 *Projets*
 
-Lorsque l’utilisateur tente de joindre un formulaire personnalisé ou un modèle à un projet existant, puis remplit les champs obligatoires du formulaire personnalisé ou du modèle et enregistre les modifications dans le projet, les modifications ne sont pas enregistrées et un message d’erreur &quot;[!UICONTROL Paramètre non valide]&quot; apparaît en haut de la page des détails du projet.
+Lorsque l’utilisateur tente de joindre un formulaire personnalisé ou un modèle à un projet existant, puis remplit les champs obligatoires du formulaire personnalisé ou du modèle et enregistre les modifications dans le projet, les modifications ne sont pas enregistrées et un message d’erreur « [!UICONTROL Paramètre non valide] » apparaît en haut de la page des détails du projet.
 
 **Les commentaires de l’épreuve ne s’affichent pas dans les mises à jour du document**
 
@@ -2168,11 +2194,11 @@ Lorsque l’utilisateur tente de joindre un formulaire personnalisé ou un modè
 
 Lorsque l’utilisateur consulte une épreuve dans la zone [!UICONTROL Documents], les commentaires ajoutés sur l’épreuve ne s’affichent pas dans la zone des [!UICONTROL mises à jour] du document.
 
-**[!UICONTROL Équilbreur de charge de travail] : &quot;[!UICONTROL  ?[Objet d’objet] ?]&quot; s’affiche dans les informations de suraffectation**
+**[!UICONTROL Équilbreur de charge de travail] : « [!UICONTROL  ?[Objet d’objet] ?] » s’affiche dans les informations de suraffectation**
 
 *[!UICONTROL Équilbreur de charge de travail]*
 
-Si l’utilisateur est indiqué comme suraffecté dans l’[!UICONTROL équilibreur de charge de travail] en raison d’une tâche qui empiète sur son temps de pause et qu’un autre utilisateur consulte sa suraffectation, la zone &quot;[!UICONTROL Capacité]&quot; des informations de suraffectation indique &quot;[!UICONTROL  ?[Objet d’objet] ?]&quot; plutôt que la capacité réelle de l’utilisateur.
+Si l’utilisateur est indiqué comme suraffecté dans l’[!UICONTROL équilibreur de charge de travail] en raison d’une tâche qui empiète sur son temps de pause et qu’un autre utilisateur consulte sa suraffectation, la zone « [!UICONTROL Capacité] » des informations de suraffectation indique  »[!UICONTROL  ?[Objet d’objet] ?] » plutôt que la capacité réelle de l’utilisateur.
 
 +++
 
