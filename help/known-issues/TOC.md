@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
-source-git-commit: ed5bd591f4be66631dba19d666b7d280eda1e1ab
+source-git-commit: d2d2ae6585d64cfc68d90c17f72d5ce47f7168ab
 workflow-type: tm+mt
-source-wordcount: '1553'
+source-wordcount: '1560'
 ht-degree: 92%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 92%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Demandes : Message &quot;Ouvre&quot; lors de la modification de la file d’attente des demandes](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
       + [Listes : Les erreurs de modification en ligne par l’utilisateur ne provoquent pas de messages d’erreur](known-issues-workfront/wf-lists-error-messages-not-generated.md)
       + [Rechercher : La recherche est extrêmement lente.](known-issues-workfront/wf-search-basic-search-is-slow.md)
       + [[!DNL Workfront Fusion]: Erreurs 404 sur [!DNL Workfront] modules](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md)
