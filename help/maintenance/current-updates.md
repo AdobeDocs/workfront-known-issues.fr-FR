@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 57105cfb344a29ae7eb7b64c932d735198f135f6
+source-git-commit: ed5bd591f4be66631dba19d666b7d280eda1e1ab
 workflow-type: tm+mt
-source-wordcount: '14801'
-ht-degree: 99%
+source-wordcount: '14844'
+ht-degree: 98%
 
 ---
 
@@ -32,6 +32,12 @@ Pour connaître les mises à jour de maintenance antérieures à 2022, consultez
 ## Mises à jour d’octobre 2022
 
 +++**Mise à jour de maintenance le 3 novembre 2022**
+
+**Renommez les sections &quot;Planification&quot; et &quot;Planification&quot; pour les équipes et les projets dans le modèle de mise en page.**
+
+*Modèles de mise en page*
+
+Les onglets &quot;Planification&quot; et &quot;Planification&quot; disponibles pour l’ajout dans un modèle de mise en page au panneau de gauche d’une équipe ou d’un projet ont été renommés &quot;Équilibreur de charge de travail&quot;.
 
 **Erreurs lors de l’accès aux paramètres de notification électronique**
 

@@ -3,10 +3,10 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 34cded8048e7f2c9e99f9c29303acde09ac76be1
+source-git-commit: ed5bd591f4be66631dba19d666b7d280eda1e1ab
 workflow-type: tm+mt
-source-wordcount: '621'
-ht-degree: 85%
+source-wordcount: '633'
+ht-degree: 84%
 
 ---
 
@@ -24,6 +24,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Listes : Les erreurs de modification en ligne par l’utilisateur ne provoquent pas de messages d’erreur](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 2 novembre 2022 |
 | [Rechercher : La recherche est extrêmement lente.](known-issues-workfront/wf-search-basic-search-is-slow.md) | 1 novembre 2022 |
 | [Bons à tirer : La génération des preuves est extrêmement lente](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 octobre 2022 |
 | [Demandes : Impossible d’afficher plus de 100 rubriques de file d’attente sur une page](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 27 octobre 2022 |
