@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
-source-git-commit: d2d2ae6585d64cfc68d90c17f72d5ce47f7168ab
+source-git-commit: 5c3f91350bc1a1e2b563d4d3fc6660fc49f38075
 workflow-type: tm+mt
-source-wordcount: '1560'
-ht-degree: 92%
+source-wordcount: '1583'
+ht-degree: 91%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 92%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Tâches : Modification impossible [!UICONTROL Date d’achèvement prévue] d’une tâche](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
+      + [Workfront : Erreur 500 lors de la modification d’un objet Workfront](known-issues-workfront/wf-500-error-when-making-changes.md)
       + [Demandes : Message &quot;Ouvre&quot; lors de la modification de la file d’attente des demandes](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
       + [Listes : Les erreurs de modification en ligne par l’utilisateur ne provoquent pas de messages d’erreur](known-issues-workfront/wf-lists-error-messages-not-generated.md)
       + [Rechercher : La recherche est extrêmement lente.](known-issues-workfront/wf-search-basic-search-is-slow.md)
@@ -149,6 +151,7 @@ ht-degree: 92%
 + [!DNL Workfront Proof] {#proof}
    + [Problèmes connus dans  [!DNL Workfront Proof]](workfrontproof.md)
    + Problèmes actifs dans [!DNL Workfront Proof] {#proof-current}
+      + [[!DNL Workfront Proof]: Impossible d’ouvrir un BAT interactif](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md)
       + [Épreuves : le résumé d’impression n’affiche pas toutes les pages de l’épreuve](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
       + [Épreuves : l’épreuve n’est pas partagée avec les utilisateurs du workflow de l’épreuve](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [[!DNL Workfront Proof] : pages vierges lors de l’affichage d’une épreuve avec plusieurs pages](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
