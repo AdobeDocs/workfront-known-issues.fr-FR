@@ -2,7 +2,7 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ed5bd591f4be66631dba19d666b7d280eda1e1ab
+source-git-commit: 047fff767e0eb5e0eff72640ddeb7626276afb7c
 workflow-type: tm+mt
 source-wordcount: '14844'
 ht-degree: 98%
@@ -29,7 +29,7 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2022.
 
 Pour connaître les mises à jour de maintenance antérieures à 2022, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
 
-## Mises à jour d’octobre 2022
+## Mises à jour de novembre 2022
 
 +++**Mise à jour de maintenance le 3 novembre 2022**
 
