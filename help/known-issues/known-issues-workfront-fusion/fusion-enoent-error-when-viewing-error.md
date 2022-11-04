@@ -1,24 +1,28 @@
 ---
-title: "Workfront Fusion : Erreur lors de l'affichage d'une erreur dans l'historique d'exécution d'un scénario"
-description: "Lorsqu’un utilisateur consulte l’historique d’exécution d’un scénario et tente d’afficher plus de détails sur une erreur en cliquant sur l’erreur, les détails ne s’ouvrent pas et un message d’erreur s’affiche."
+title: '« Workfront Fusion : erreur lors de l’affichage d’une erreur dans l’historique d’exécution d’un scénario »'
+description: « Lorsqu’un utilisateur consulte l’historique d’exécution d’un scénario et tente d’afficher plus de détails sur une erreur en cliquant dessus, les détails ne s’ouvrent pas et un message d’erreur s’affiche. »
 hidefromtoc: true
-source-git-commit: 323f4e42b6b0093858542ada3812f9a630bd3a5f
+source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 3%
+source-wordcount: '154'
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Workfront Fusion]: Erreur lors de l&#39;affichage d&#39;une erreur dans l&#39;historique d&#39;exécution d&#39;un scénario
+# [!DNL Workfront Fusion] : erreur lors de l’affichage d’une erreur dans l’historique d’exécution d’un scénario
 
-Lorsqu’un utilisateur consulte l’historique d’exécution d’un scénario et tente d’afficher plus de détails sur une erreur en cliquant sur l’erreur, les détails ne s’ouvrent pas et le message suivant s’affiche :
+>[!NOTE]
+>
+>L’équipe produit évalue actuellement la résolution de ce problème, qui peut nécessiter des améliorations du produit. Les améliorations apportées aux produits sont communiquées dans les annonces de produit et non dans les mises à jour de maintenance.
 
-&quot;[!UICONTROL L&#39;exécution ne peut pas être affichée : Impossible d’initialiser le scénario en raison de l’opérateur &quot;ENOENT&quot; : Aucun fichier ou répertoire de ce type.&quot;]&quot;
+« Lorsqu’un utilisateur consulte l’historique d’exécution d’un scénario et tente d’afficher plus de détails sur une erreur en cliquant dessus, les détails ne s’ouvrent pas et le message suivant s’affiche :
+
+« [!UICONTROL L’exécution ne peut pas être affichée : impossible d’initialiser le scénario pour la raison suivante : « ENOENT : aucun fichier ou répertoire de ce type. »] »
 
 **Solution**
 
-Cliquez sur &quot;[!UICONTROL Accéder à l’enregistrement d’origine]&quot; et affichez l’erreur ici.
+Cliquez sur « [!UICONTROL Accéder à l’enregistrement d’origine] » et consultez l’erreur.
 
-_Premier signalement le 22 août 2022._
+_Premier signalement le 22 août 2022._
 

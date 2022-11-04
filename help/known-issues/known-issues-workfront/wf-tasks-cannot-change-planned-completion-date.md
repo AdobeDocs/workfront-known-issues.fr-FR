@@ -2,15 +2,19 @@
 title: "Tâches : Impossible de modifier la date d’achèvement planifiée d’une tâche"
 description: '"Lorsqu’un utilisateur tente de modifier la date d’achèvement planifiée d’une tâche, le champ ne répond pas.  »'
 hidefromtoc: true
-source-git-commit: d425d85b81c88bf301fce143b7cbed55c3c64cbb
+source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 16%
+source-wordcount: '118'
+ht-degree: 24%
 
 ---
 
 
 # Tâches : Modification impossible [!UICONTROL Date d’achèvement prévue] d’une tâche
+
+>[!NOTE]
+>
+>Ce problème a été résolu, car tout fonctionne comme prévu.
 
 Lorsqu’un utilisateur tente de modifier la variable [!UICONTROL Date d’achèvement prévue] d’une tâche, le champ ne répond pas.
 

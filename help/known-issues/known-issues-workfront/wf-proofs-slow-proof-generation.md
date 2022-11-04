@@ -2,15 +2,19 @@
 title: "Bons à tirer : La génération de la preuve est extrêmement lente"
 description: "Lorsqu’un utilisateur tente d’ajouter un BAT à un élément de travail Workfront via l’option Ajouter un nouveau > Bon à tirer, à l’aide d’un workflow automatisé, la génération du BAT prend plusieurs minutes."
 hidefromtoc: true
-source-git-commit: 9d484f963278ae1e7b5df10379ed2d0c7b9caade
+source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 5%
+source-wordcount: '103'
+ht-degree: 10%
 
 ---
 
 
 # Bons à tirer : La génération des preuves est extrêmement lente
+
+>[!NOTE]
+>
+>Ce problème a été résolu le 31 octobre 2022.
 
 <!--This article is on the WF and WFP TOCs-->
 
