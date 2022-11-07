@@ -2,15 +2,19 @@
 title: '« Agile : problèmes avec des tâches ajoutées à une itération »'
 description: « Plusieurs signalements d’ajout d’événements à une itération »
 hidefromtoc: true
-source-git-commit: 58b95fb905fc12cc459fbdd021fee3c92536d203
-workflow-type: ht
-source-wordcount: '108'
-ht-degree: 100%
+source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
+workflow-type: tm+mt
+source-wordcount: '114'
+ht-degree: 94%
 
 ---
 
 
 # Agile : problèmes avec des tâches ajoutées à une itération
+
+>[!NOTE]
+>
+>Ce problème a été résolu le 4 novembre 2022.
 
 Les problèmes suivants ont été signalés concernant des événements ajoutés à une itération :
 

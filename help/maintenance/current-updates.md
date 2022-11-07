@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 047fff767e0eb5e0eff72640ddeb7626276afb7c
+source-git-commit: a1758017f1fa00903c057f6f3d51bc8ac81c1f02
 workflow-type: tm+mt
-source-wordcount: '14844'
-ht-degree: 98%
+source-wordcount: '15198'
+ht-degree: 97%
 
 ---
 
@@ -30,6 +30,77 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2022.
 Pour connaître les mises à jour de maintenance antérieures à 2022, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
 
 ## Mises à jour de novembre 2022
+
++++**Mise à jour de maintenance (correctif) le 4 novembre 2022**
+
+**Problèmes avec des tâches ajoutées à une itération**
+
+*Agile*
+
+Les problèmes suivants ont été signalés concernant des événements ajoutés à une itération :
+
+* Certaines sous-tâches d’une tâche ajoutée à une itération n’apparaissent pas sur la page [!UICONTROL Itération].
+* Lorsqu’un utilisateur tente d’ajouter une tâche manquante à l’itération, la tâche n’est pas ajoutée et l’utilisateur voit le message suivant :
+
+   « [!UICONTROL L’erreur suivante s’est produite : aucun des éléments suivants n’a pu être déplacé parce qu’ils ne sont pas affectés à une équipe Agile ou ne sont pas des éléments Agile.] »
+
+**Les tâches affectées par la modification en masse n’apparaissent pas dans le journal des tâches de l’équipe**
+
+*Agile*
+
+Lorsqu’un utilisateur attribue des tâches à une équipe de Scrum en utilisant la modification en masse, ces tâches n’apparaissent pas dans le journal des tâches de l’équipe.
+
+Les équipes de Kanban ne sont pas affectées par ce problème.
+
+**&quot;[!UICONTROL Nouveaux destinataires de BAT]&quot; La zone de texte est trop petite**
+
+*Épreuves*
+
+Lorsqu’un utilisateur consulte une épreuve et tente de la partager à partir de l’onglet [!UICONTROL Partage], la zone de texte « [!UICONTROL Nouveaux destinataires de l’épreuve] » est trop petite. L’utilisateur peut saisir un nom, mais en raison de la petite taille de la zone de texte, le texte est, mais en raison de la petite taille de la boîte, le texte est illisible.
+
+**Les informations d’utilisation des rapports ne sont pas mises à jour**
+
+*Rapports*
+
+Lorsqu’un utilisateur affiche un rapport, les informations relatives à la dernière consultation, telles que date de dernière consultation et Affiché en dernier par, ne sont pas mises à jour. Cela signifie que toutes les informations d’utilisation peuvent être incorrectes.
+
+Ce comportement a été signalé lorsque l’utilisateur accède au rapport des façons suivantes :
+
+* Recherche
+* Épingles
+* Favoris
+* Récents
+
+L’accès aux rapports via un tableau de bord met à jour les informations relatives à la dernière consultation.
+
+**[!DNL Workfront]: Erreur 500 lors de la modification d’une [!DNL Workfront] objet**
+
+*[!DNL Workfront]*
+
+Lorsqu’un utilisateur tente d’apporter des modifications à une [!DNL Workfront] , les modifications ne sont pas enregistrées et l’utilisateur voit l’erreur suivante :
+
+&quot;[!UICONTROL 500 : Erreur de base de données en raison d’une instruction SQL non valide.]&quot;
+
+Cela a été signalé dans les situations suivantes :
+
+* Modification de l’état d’un objet
+* Recalcul des chronologies
+* Ajout d’un modèle
+* Temps de journalisation
+
++++
+
++++**[!DNL Workfront Fusion]Mise à jour de maintenance le 3 novembre 2022**
+
+**Erreur concernant [!UICONTROL apiKey] in [!DNL Workfront] > [!UICONTROL Événements de contrôle] module**
+
+*[!DNL Workfront Fusion]*
+
+Lorsqu’un utilisateur tente d’ajouter un webhook dans la variable [!DNL Workfront] > [!UICONTROL Événements de contrôle] , ils reçoivent l’erreur suivante :
+
+&quot;[!UICONTROL L’apiKey fourni était vide ou considéré comme non valide.]&quot;
+
++++
 
 +++**Mise à jour de maintenance le 3 novembre 2022**
 

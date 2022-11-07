@@ -3,9 +3,9 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
+source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
 workflow-type: tm+mt
-source-wordcount: '595'
+source-wordcount: '562'
 ht-degree: 86%
 
 ---
@@ -24,10 +24,10 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Agile : La tâche a un ordre de non-retour Kanban égal à 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 7 novembre 2022 |
 | [Demandes : Message &quot;Ouvre&quot; lors de la modification de la file d’attente des demandes](known-issues-workfront/wf-requests-error-message-when-editing-queue.md) | 2 novembre 2022 |
 | [Bons à tirer : La génération des preuves est extrêmement lente](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 octobre 2022 |
 | [Demandes : [!UICONTROL Paramètres de la file d’attente des emails] non disponible](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | 27 octobre 2022 |
-| [Agile : Les tâches affectées par la modification en masse n’apparaissent pas dans le journal des tâches de l’équipe](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md) | 20 octobre 2022 |
 | [Épreuves : le résumé d’impression n’affiche pas toutes les pages de l’épreuve](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 octobre 2022 |
 | [Notifications : utilisateurs non avertis lorsqu’ils sont mentionnés ou inclus dans un commentaire](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 29 septembre 2022 |
 
@@ -42,15 +42,11 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | -----------------------------------------------------------------| ----------------- |
 | [Listes : Les erreurs de modification en ligne par l’utilisateur ne provoquent pas de messages d’erreur](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 4 novembre 2022 |
 | [Demandes : Impossible d’afficher plus de 100 rubriques de file d’attente sur une page](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 4 novembre 2022 |
-| [[!DNL Workfront]: 500 error when making changes to a [!DNL Workfront] objet](known-issues-workfront/wf-500-error-when-making-changes.md) | 3 novembre 2022 |
 | [Projets : Problèmes de performance et message d’erreur lors de la création d’un projet à partir d’un modèle](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 27 octobre 2022 |
 | [Documents : le lien de demande de document externe mène à la page de connexion](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 20 octobre 2022 |
-| [Rapports : les informations d’utilisation des rapports ne sont pas mises à jour](known-issues-workfront/wf-reports-usage-not-updating.md) | 19 octobre 2022 |
 | [Navigation : impossible d’épingler des objets](known-issues-workfront/wf-navigation-cannot-pin-objects.md) | 19 octobre 2022 |
-| [Épreuves : la zone de texte « Nouveaux destinataires de l’épreuve » est trop petite](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 18 octobre 2022 |
 | [Programmes : problèmes lors de l’affectation d’un [!UICONTROL propriétaire de programme]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md) | 17 octobre 2022 |
 | [Rapports : l’option « Déplacer vers » n’est pas disponible dans les rapports d’événement](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | 13 octobre 2022 |
-| [Agile : problèmes avec des tâches ajoutées à une itération](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md) | 13 octobre 2022 |
 | [Formulaires personnalisés : erreur « Oups » lors de la configuration d’un champ calculé](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 13 octobre 2022 |
 | [Tâches : les heures ne sont pas enregistrées lors de la saisie des heures dans le panneau [!UICONTROL Résumé de la tâche]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 30 septembre 2022 |
 | [Intégrations : erreur de soumission d’une demande depuis  [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 août 2022 |

@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
-source-git-commit: 5c3f91350bc1a1e2b563d4d3fc6660fc49f38075
+source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
 workflow-type: tm+mt
-source-wordcount: '1583'
-ht-degree: 91%
+source-wordcount: '1591'
+ht-degree: 90%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 91%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Agile : La tâche a un ordre de non-retour Kanban égal à 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
       + [Tâches : Modification impossible [!UICONTROL Date d’achèvement prévue] d’une tâche](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
       + [Workfront : Erreur 500 lors de la modification d’un objet Workfront](known-issues-workfront/wf-500-error-when-making-changes.md)
       + [Demandes : Message &quot;Ouvre&quot; lors de la modification de la file d’attente des demandes](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
