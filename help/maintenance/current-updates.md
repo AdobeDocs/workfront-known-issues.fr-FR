@@ -2,9 +2,9 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: a1758017f1fa00903c057f6f3d51bc8ac81c1f02
+source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
 workflow-type: tm+mt
-source-wordcount: '15198'
+source-wordcount: '15236'
 ht-degree: 97%
 
 ---
@@ -30,6 +30,18 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2022.
 Pour connaître les mises à jour de maintenance antérieures à 2022, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
 
 ## Mises à jour de novembre 2022
+
++++**Mise à jour de maintenance (planifiée) le 10 novembre 2022**
+
+**Impossible d’ouvrir un BAT interactif**
+
+*Épreuve Workfront*
+
+Lorsqu’un utilisateur tente d’ouvrir un BAT interactif, le BAT ne s’ouvre pas et le message suivant s’affiche :
+
+&quot;[!UICONTROL Bon à tirer non chargé (501) Réessayer]&quot;
+
++++
 
 +++**Mise à jour de maintenance (correctif) le 4 novembre 2022**
 

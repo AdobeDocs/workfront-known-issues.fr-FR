@@ -1,11 +1,11 @@
 ---
 title: "Bon à tirer Workfront : Impossible d’ouvrir un BAT interactif"
-description: ""
+description: "Lorsqu’un utilisateur tente d’ouvrir un BAT interactif, le BAT ne s’ouvre pas et un message d’erreur s’affiche."
 hidefromtoc: true
-source-git-commit: d425d85b81c88bf301fce143b7cbed55c3c64cbb
+source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 7%
+source-wordcount: '73'
+ht-degree: 5%
 
 ---
 
