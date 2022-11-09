@@ -1,22 +1,22 @@
 ---
-title: "Navigation: Impossible de réépingler une page après sa suppression."
-description: "Lorsqu’un utilisateur sélectionne l’option Retirer une épingle sur une épingle, reçoit un message concernant la suppression et tente de la remplacer en cliquant sur Annuler dans le message, la épingle n’est pas remplacée dans la barre de navigation supérieure, ni ajoutée à la liste des épingles située sous la liste Plus de pinslist (menu à trois points dans la zone Epingles). Si un utilisateur tente de réépingler la page en accédant à la page et en l’épinglant, l’épinglant, la page, l’épingle n’épingle n’est pas créé, et l’utilisateur ne peut pas épingler la page."
+title: '« Navigation : impossible de réépingler une page après l’avoir désépinglée »'
+description: « Lorsqu’un utilisateur sélectionne l’option « Supprimer l’épingle », qu’il est notifié de la suppression et qu’il essaie de la remplacer en cliquant sur « Annuler » dans le message, l’épingle n’est pas remplacée dans le panneau de navigation supérieur et n’est pas non plus ajoutée à la liste des épingles dans la liste « Plus d’épingles » (menu sous forme de trois points dans la zone Épingles ). Si un utilisateur tente de réépingler la page en accédant à la page et en l’épinglant, l’épingle n’est pas créée et l’utilisateur ne peut pas épingler la page. »
 hidefromtoc: true
 source-git-commit: c2fd207043d8d813dbea4695198b49a4cda5fbc2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '207'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Navigation : Impossible de réépingler une page après sa suppression
+# Navigation : impossible de réépingler une page après l’avoir désépinglée
 
 >[!NOTE]
 >
->Ce problème a été corrigé dans Aperçu le 11 octobre 2022. Il a été fixé en production le 27 octobre 2022.
+>Ce problème a été corrigé dans la prévisualisation le 11 octobre 2022. Il a été corrigé en production le 27 octobre 2022.
 
-Lorsqu’un utilisateur sélectionne le[!UICONTROL Supprimer le pin]&quot; sur une épingle, reçoit un message concernant la suppression et tente de la remplacer en cliquant sur &quot;[!UICONTROL Annuler]&quot; dans le message, la pin n’est pas remplacée dans le volet de navigation supérieur et n’est pas non plus ajoutée à la liste des pin’s sous le [!UICONTROL Plus de broches] liste (menu à trois points dans la [!UICONTROL Pins] ).
+Lorsqu’un utilisateur sélectionne l’option « [!UICONTROL Supprimer l’épingle] », qu’il est notifié de la suppression et qu’il essaie de la remplacer en cliquant sur « [!UICONTROL Annuler] » dans le message, l’épingle n’est pas remplacée dans le panneau de navigation supérieur et n’est pas non plus ajoutée à la liste des épingles dans la liste « [!UICONTROL Plus d’épingles] » (menu sous forme de trois points dans la zone [!UICONTROL Épingles] ).
 
-Si un utilisateur tente de réépingler la page en accédant à la page et en la faisant épingler, l’épingle n’est pas créée et l’utilisateur ne peut pas épingler la page.
+Si un utilisateur tente de réépingler la page en accédant à la page et en l’épinglant, l’épingle n’est pas créée et l’utilisateur ne peut pas épingler la page.
 
