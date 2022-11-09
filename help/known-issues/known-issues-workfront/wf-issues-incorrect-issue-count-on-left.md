@@ -3,7 +3,7 @@ title: '« Événements : le nombre d’événements dans le panneau de naviga
 description: « Lorsqu’un utilisateur consulte une tâche, le nombre affiché dans la section Événements du panneau de navigation gauche ne représente pas exactement le nombre réel d’événements associés à la tâche. »
 hidefromtoc: true
 source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
 ht-degree: 100%
 
