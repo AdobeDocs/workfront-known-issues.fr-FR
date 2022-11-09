@@ -3,7 +3,7 @@ title: '« [!DNL Workfront Fusion] :  [!DNL Workfront]  > module d’[!UICONTR
 description: « Le module Workfront > Appel d’API personnalisée renvoie une erreur. »
 hidefromtoc: true
 source-git-commit: f5a953dafaa758e941e56595e9b1cabd6dc87f15
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
 ht-degree: 100%
 
