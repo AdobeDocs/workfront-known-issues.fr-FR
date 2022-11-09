@@ -4,7 +4,7 @@ user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
 source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
 workflow-type: tm+mt
 source-wordcount: '1598'
-ht-degree: 90%
+ht-degree: 95%
 
 ---
 
@@ -24,16 +24,16 @@ ht-degree: 90%
       + [Listes : Les erreurs de modification en ligne par l’utilisateur ne provoquent pas de messages d’erreur](known-issues-workfront/wf-lists-error-messages-not-generated.md)
       + [Rechercher : La recherche est extrêmement lente.](known-issues-workfront/wf-search-basic-search-is-slow.md)
       + [[!DNL Workfront Fusion]: Erreurs 404 sur [!DNL Workfront] modules](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md)
-      + [API : Impossible de trier les champs dynamiques](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
-      + [Bons à tirer : La génération des preuves est extrêmement lente](known-issues-workfront/wf-proofs-slow-proof-generation.md)
-      + [Projets : Problèmes de performance et message d’erreur lors de la création d’un projet à partir d’un modèle](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
-      + [Demandes : Impossible d’afficher plus de 100 rubriques de file d’attente sur une page](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md)
-      + [Problèmes : La navigation de gauche affiche les problèmes &quot;(0)&quot; en cas de problème.](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
-      + [Demandes : [!UICONTROL Paramètres de la file d’attente des emails] non disponible](known-issues-workfront/wf-requests-email-queue-details-not-available.md)
-      + [[!UICONTROL Panoramas]: [!UICONTROL Entrée] la recherche de colonnes est inefficace.](known-issues-workfront/wf-boards-search-returns-no-results.md)
-      + [[!UICONTROL Configuration]: Les listes se chargent lentement dans [!UICONTROL Configuration]](known-issues-workfront/wf-setup-lists-load-slowly.md)
-      + [Formulaires personnalisés : [!UICONTROL HEURE] La fonction des champs calculés utilise le format UTC.](known-issues-workfront/wf-custom-form-hours-use-utc.md)
-      + [Agile : Les tâches affectées par la modification en masse n’apparaissent pas dans le journal des tâches de l’équipe](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md)
+      + [API : Impossible de trier les champs dynamiques](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
+      + [Bons à tirer : La génération de BAT est extrêmement lente](known-issues-workfront/wf-proofs-slow-proof-generation.md)
+      + [Projets : Problèmes de performance et message d’erreur lors de la création d’un projet à partir d’un modèle](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
+      + [Demandes : Impossible d’afficher plus de 100 rubriques de file d’attente sur une page](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md)
+      + [Problèmes : La navigation de gauche affiche « (0) » problèmes alors que des problèmes existent](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
+      + [Demandes : [!UICONTROL Paramètres de la file d’attente des e-mails] non disponibles](known-issues-workfront/wf-requests-email-queue-details-not-available.md)
+      + [[!UICONTROL Panoramas] : La recherche de colonnes [!UICONTROL Extraction] ne génère aucun résultat.](known-issues-workfront/wf-boards-search-returns-no-results.md)
+      + [[!UICONTROL Configuration] : Les listes se chargent lentement dans [!UICONTROL Configuration]](known-issues-workfront/wf-setup-lists-load-slowly.md)
+      + [Formulaires personnalisés : La fonction [!UICONTROL HEURE] dans les champs calculés utilise le format UTC.](known-issues-workfront/wf-custom-form-hours-use-utc.md)
+      + [Agile : Les tâches affectées au moyen de la modification en bloc n’apparaissent pas dans la liste d’attente de l’équipe.](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md)
       + [Rapports : les informations d’utilisation des rapports ne sont pas mises à jour](known-issues-workfront/wf-reports-usage-not-updating.md)
       + [Navigation : impossible d’épingler des objets](known-issues-workfront/wf-navigation-cannot-pin-objects.md)
       + [[!UICONTROL Tableaux] : la page [!UICONTROL Tableaux] ne charge pas](known-issues-workfront/wf-boards-boards-do-not-load.md)

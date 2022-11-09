@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
 workflow-type: tm+mt
 source-wordcount: '570'
-ht-degree: 85%
+ht-degree: 93%
 
 ---
 
@@ -26,8 +26,8 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 | -----------------------------------------------------------------| ----------------- |
 | [Agile : La tâche a un ordre de non-retour Kanban égal à 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 7 novembre 2022 |
 | [Demandes : Message &quot;Ouvre&quot; lors de la modification de la file d’attente des demandes](known-issues-workfront/wf-requests-error-message-when-editing-queue.md) | 2 novembre 2022 |
-| [Bons à tirer : La génération des preuves est extrêmement lente](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 octobre 2022 |
-| [Demandes : [!UICONTROL Paramètres de la file d’attente des emails] non disponible](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | 27 octobre 2022 |
+| [Bons à tirer : La génération de BAT est extrêmement lente](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 octobre 2022 |
+| [Demandes : [!UICONTROL Paramètres de la file d’attente des e-mails] non disponibles](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | 27 octobre 2022 |
 | [Épreuves : le résumé d’impression n’affiche pas toutes les pages de l’épreuve](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 octobre 2022 |
 | [Notifications : utilisateurs non avertis lorsqu’ils sont mentionnés ou inclus dans un commentaire](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 29 septembre 2022 |
 
@@ -42,8 +42,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | -----------------------------------------------------------------| ----------------- |
 | [Tâches : Modification en masse de tâches modifie les affectations de tâches](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md) | 7 novembre 2022 |
 | [Listes : Les erreurs de modification en ligne par l’utilisateur ne provoquent pas de messages d’erreur](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 4 novembre 2022 |
-| [Demandes : Impossible d’afficher plus de 100 rubriques de file d’attente sur une page](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 4 novembre 2022 |
-| [Projets : Problèmes de performance et message d’erreur lors de la création d’un projet à partir d’un modèle](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 27 octobre 2022 |
+| [Demandes : Impossible d’afficher plus de 100 rubriques de file d’attente sur une page](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 4 novembre 2022 |
+| [Projets : Problèmes de performance et message d’erreur lors de la création d’un projet à partir d’un modèle](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 27 octobre 2022 |
 | [Documents : le lien de demande de document externe mène à la page de connexion](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 20 octobre 2022 |
 | [Navigation : impossible d’épingler des objets](known-issues-workfront/wf-navigation-cannot-pin-objects.md) | 19 octobre 2022 |
 | [Programmes : problèmes lors de l’affectation d’un [!UICONTROL propriétaire de programme]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md) | 17 octobre 2022 |
@@ -61,8 +61,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [API : Impossible de trier les champs dynamiques](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 31 octobre 2022 |
-| [[!UICONTROL Configuration]: Les listes se chargent lentement dans [!UICONTROL Configuration]](known-issues-workfront/wf-setup-lists-load-slowly.md) | 28 octobre 2022 |
+| [API : Impossible de trier les champs dynamiques](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 31 octobre 2022 |
+| [[!UICONTROL Configuration] : Les listes se chargent lentement dans [!UICONTROL Configuration]](known-issues-workfront/wf-setup-lists-load-slowly.md) | 28 octobre 2022 |
 | [Épreuves : l’épreuve n’est pas partagée avec les utilisateurs du workflow de l’épreuve](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18 septembre 2022 |
 | [Épreuves : le champ [!UICONTROL Étapes d’épreuve actives] est vide](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 septembre 2022 |
 | [Tableaux de bord : les graphiques des rapports affichés dans un tableau de bord ne sont pas de la même couleur que ceux affichés dans le rapport](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 5 août 2022 |

@@ -1,22 +1,21 @@
 ---
-title: 'Panoramas : La recherche des colonnes d’entrée est inefficace.'
-description: '"Lorsqu’un utilisateur tente de rechercher la colonne Réception d’un panorama, les éléments affichés dans cette colonne ne changent pas.  »'
+title: 'Panoramas : La recherche des colonnes d’entrée est inefficace'
+description: '"Lorsqu’un utilisateur tente de rechercher la colonne Réception d’un panorama, les éléments affichés dans cette colonne ne changent pas. '''
 hidefromtoc: true
-source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
+exl-id: d5c6470d-59ed-4fb6-9cc8-a8445abb2e67
+source-git-commit: 66e3bc22d8aef2d6287161f4a13fbbe0f3ac99c8
 workflow-type: tm+mt
 source-wordcount: '68'
-ht-degree: 5%
+ht-degree: 48%
 
 ---
 
-
-# [!UICONTROL Panoramas]: [!UICONTROL Entrée] la recherche de colonnes est inefficace.
+# [!UICONTROL Panoramas] : La recherche de colonnes [!UICONTROL Extraction] ne génère aucun résultat.
 
 >[!NOTE]
 >
 >Ce problème a été résolu le 3 novembre 2022.
 
-Lorsqu’un utilisateur tente de rechercher la variable [!UICONTROL Entrée] d’une colonne [!UICONTROL Panorama], les éléments affichés dans cette colonne ne changent pas.
+« Lorsqu’un utilisateur tente de rechercher la colonne [!UICONTROL Extraction] d’un [!UICONTROL panorama], les éléments affichés dans cette colonne ne changent pas.
 
 _Premier signalement le 7 octobre 2022._
-

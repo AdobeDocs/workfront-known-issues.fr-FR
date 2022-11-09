@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
 workflow-type: tm+mt
 source-wordcount: '15236'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -60,7 +60,7 @@ Les problèmes suivants ont été signalés concernant des événements ajoutés
 
 *Agile*
 
-Lorsqu’un utilisateur attribue des tâches à une équipe de Scrum en utilisant la modification en masse, ces tâches n’apparaissent pas dans le journal des tâches de l’équipe.
+Lorsqu’un utilisateur affecte des tâches à une équipe de Scrum en utilisant la modification en bloc, ces tâches n’apparaissent pas dans la liste d’attente de l’équipe.
 
 Les équipes de Kanban ne sont pas affectées par ce problème.
 
@@ -148,13 +148,13 @@ Les zones suivantes sont concernées :
 
 +++**Mise à jour de maintenance le 27 octobre 2022**
 
-**[!UICONTROL HEURE] La fonction des champs calculés utilise le format UTC.**
+La fonction **[!UICONTROL HEURE] dans les champs calculés utilise le format UTC.**
 
 *Formulaires personnalisés*
 
-Lorsqu’un champ calculé inclut la variable [!UICONTROL HEURE] , la fonction renvoie des valeurs en fonction du fuseau horaire UTC plutôt que du fuseau horaire attendu. Par conséquent, tous les calculs basés sur la valeur HOUR sont incorrects.
+Lorsqu’un champ calculé inclut la fonction [!UICONTROL HEURE], celle-ci renvoie des valeurs en fonction du fuseau horaire UTC plutôt que du fuseau horaire attendu. Par conséquent, tous les calculs basés sur la fonction HEURE sont incorrects.
 
-**[!UICONTROL Filtre rapide] ne renvoie aucun résultat lors de la recherche d’équipes**
+Le **[!UICONTROL filtre rapide] ne renvoie aucun résultat lors de la recherche d’équipes**.
 
 *Listes*
 
@@ -166,17 +166,17 @@ Lorsqu’un utilisateur tente d’utiliser le [!UICONTROL filtre rapide] sur une
 
 >[!NOTE]
 >
->Ce problème a été corrigé dans la prévisualisation le 13 octobre 2022. Il a été fixé en production le 27 octobre 2022.
+>Ce problème a été corrigé dans la prévisualisation le 13 octobre 2022. Il a été corrigé en production le 27 octobre 2022.
 
 Lorsqu’un utilisateur sélectionne l’option « [!UICONTROL Supprimer l’épingle] », qu’il est notifié de la suppression et qu’il essaie de la remplacer en cliquant sur « [!UICONTROL Annuler] » dans le message, l’épingle n’est pas remplacée dans le panneau de navigation supérieur et n’est pas non plus ajoutée à la liste des épingles dans la liste « [!UICONTROL Plus d’épingles] » (menu sous forme de trois points dans la zone [!UICONTROL Épingles] ).
 
 Si un utilisateur tente de réépingler la page en accédant à la page et en l’épinglant, l’épingle n’est pas créée et l’utilisateur ne peut pas épingler la page.
 
-**Tous les utilisateurs répertoriés dans [!UICONTROL Équilibreur de charge de travail] lors de l’utilisation d’un lien partageable dans [!DNL Safari] browser**
+**Tous les utilisateurs répertoriés dans [!UICONTROL Équilibreur de charge de travail] lors de l’utilisation d’un lien partageable dans le [!DNL Safari] navigateur**
 
 *[!UICONTROL Équilbreur de charge de travail]*
 
-Lorsqu’un utilisateur suit un lien partageable vers la variable [!UICONTROL Équilibreur de charge de travail] lors de l’utilisation d’un [!DNL Safari] , ils voient tous les utilisateurs plutôt que seulement les membres de l’équipe répertoriés.
+Lorsqu’un utilisateur suit un lien partageable vers l’[!UICONTROL Équilibreur de charge de travail] lors de l’utilisation d’un navigateur [!DNL Safari], il voit tous les utilisateurs plutôt que seulement les membres de l’équipe répertoriés.
 
 +++
 
@@ -190,7 +190,7 @@ Lorsqu’un utilisateur modifie en bloc des tâches ou des événements et affec
 
 « [!UICONTROL Réessayons. L’erreur suivante s’est produite : teamAssignments doit être une liste d’objets ou une liste d’identifiants] ».
 
-**&quot;[!UICONTROL Échec du téléchargement du fichier]&quot; erreur**
+Erreur **« [!UICONTROL Échec de chargement du fichier] »**
 
 *Documents*
 
@@ -388,7 +388,7 @@ Lorsque l’utilisateur consulte les mises à jour et survole un nom, une carte 
 
 *[!UICONTROL Équilbreur de charge de travail]*
 
-Pour signifier que la nouvelle fonctionnalité est capable d’affecter à la fois des tâches et des événements en bloc depuis la zone [!UICONTROL Tâches non affectées], nous avons renommé le champ « [!UICONTROL Affectation de rôle de tâche] », qui devient  »[!UICONTROL Affectation de rôle] » dans l’[!UICONTROL équilibreur de charge de travail]. Le champ fait référence à des fonctions affectées à des tâches ou à des événements. Il s’affiche lors de l’affectation d’utilisateurs à des éléments dans la zone [!UICONTROL Affectations en bloc].
+Pour signifier que la nouvelle fonctionnalité est capable d’affecter à la fois des tâches et des événements en bloc depuis la zone [!UICONTROL Tâches non affectées], nous avons renommé le champ « [!UICONTROL Affectation de rôle de tâche] », qui devient « [!UICONTROL Affectation de rôle] » dans l’[!UICONTROL équilibreur de charge de travail]. Le champ fait référence à des fonctions affectées à des tâches ou à des événements. Il s’affiche lors de l’affectation d’utilisateurs à des éléments dans la zone [!UICONTROL Affectations en bloc].
 
 +++
 
@@ -1074,7 +1074,7 @@ Lorsque l’utilisateur disposant d’un accès de niveau Planificateur qui incl
 
 +++**[!DNL Workfront Scenario Planner]Mise à jour de maintenance le 9 juin 2022**
 
-**Panneau de gauche redimensionnable dans[!DNL Scenario Planner]**
+**Panneau de gauche redimensionnable dans [!DNL Scenario Planner]**
 
 *[!DNL Workfront Scenario Planner]*
 
@@ -1100,7 +1100,7 @@ Lorsque l’utilisateur consulte l’historique d’exécution d’un scénario 
 
 +++**Mise à jour de maintenance le 2 juin 2022**
 
-L’**[!UICONTROL optimisateur de portfolio] indique un score de 0 lors de l’utilisation d’une langue autre que l’anglais**
+L’**[!UICONTROL optimisateur de portfolio] indique un score de 0 lors de l’utilisation d’une langue autre que l’anglais**
 
 *Portefeuilles*
 
@@ -1172,7 +1172,7 @@ Les problèmes suivants ont été signalés lors de l’impression d’un tablea
 Toutes les lignes du rapport ne figurent pas sur le PDF imprimé. À l’endroit des lignes sont manquantes, seuls des espaces vides apparaissent.
 Le PDF inclut des espaces vides entre les en-têtes de colonne et la première ligne du rapport.
 
-**[!DNL Portfolio Optimizer]indique un score de 0 lors de l’utilisation d’une langue autre que l’anglais**
+**[!DNL Portfolio Optimizer] indique un score de 0 lors de l’utilisation d’une langue autre que l’anglais**
 
 *Portefeuilles*
 
@@ -1194,13 +1194,13 @@ Lorsque l’utilisateur consulte l’[!UICONTROL équilibreur de charge de trava
 
 +++**Mise à jour de maintenance le 19 mai 2022**
 
-**Impossible de créer une épreuve à partir d’un[!DNL PowerPoint]**
+**Impossible de créer une épreuve à partir d’un [!DNL PowerPoint]**
 
 *[!DNL Workfront Proof]*
 
 Lorsque l’utilisateur tente de créer une épreuve à partir d’un [!DNL PowerPoint] qui comprend un graphique, la création de l’épreuve échoue.
 
-**Impossible de créer une épreuve à partir d’un document [!UICONTROL Word]**
+**Impossible de créer une épreuve à partir d’un document [!UICONTROL Word]**
 
 *[!DNL Workfront Proof]*
 
@@ -1386,7 +1386,7 @@ Lorsque l’utilisateur tente d’ouvrir l’[!UICONTROL équilibreur de charge 
 
 Lorsque l’utilisateur ajoute une tâche sous une tâche existante dans une liste, la page est décalée en bas de la liste. Bien que la nouvelle tâche se trouve au bon endroit, l’utilisateur doit faire défiler la page vers le haut pour la retrouver.
 
-**Les utilisateurs ajoutés à une épreuve ne peuvent pas accéder à l’élément de travail de l’épreuve dans[!DNL Workfront]**
+**Les utilisateurs ajoutés à une épreuve ne peuvent pas accéder à l’élément de travail de l’épreuve dans [!DNL Workfront]**
 
 *Épreuves*
 
@@ -1396,7 +1396,7 @@ Si l’utilisateur est ajouté à une étape du workflow d’une épreuve, il n�
 
 Ce problème concerne les épreuves déjà créées et les utilisateurs ajoutés après la création. L’ajout d’utilisateurs au workflow avant la création de l’épreuve fonctionne comme prévu.
 
-**Impossible d’envoyer l’e-mail de réinitialisation de mot de passe à partir de[!DNL Workfront]**
+**Impossible d’envoyer l’e-mail de réinitialisation de mot de passe à partir de [!DNL Workfront]**
 
 *Utilisateurs*
 
@@ -1570,7 +1570,7 @@ Lorsque l’utilisateur accède à la page des Projets depuis un onglet épingl�
 
 +++**Mise à jour de maintenance le 31 mars 2022**
 
-**Les fuseaux horaires de [!DNL Workfront] et de[!DNL Workfront Proof]** ne sont pas cohérents
+**Les fuseaux horaires de [!DNL Workfront] et de [!DNL Workfront Proof]** ne sont pas cohérents
 
 *[!DNL Workfront Proof]*
 
@@ -1604,7 +1604,7 @@ Lorsque l’utilisateur tente d’ajouter un formulaire personnalisé interobjet
 
 Lorsque l’utilisateur tente d’affecter un autre utilisateur à une tâche dans l’[!UICONTROL équilibreur de charge de travail] et que la tâche est affectée à une fonction autre que la fonction principale de l’utilisateur affecté, l’utilisateur est affecté à la tâche d’après sa fonction principale, et le message suivant s’affiche :
 
-« \&lt;Nom\> ne convient pas au rôle de l’affectation \&lt;Affectation de rôle de tâche\>. 1 élément de travail actuellement affecté au rôle &lt;\Affectation de rôle de tâche\> sera affecté à \&lt;Nom\> en tant que \&lt;Fonction principale\>. »
+« &lt;Nom> ne convient pas au rôle de l’affectation &lt;Affectation de rôle de tâche>. 1 élément de travail actuellement affecté au rôle &lt;\Affectation de rôle de tâche> sera affecté à &lt;Nom> en tant que &lt;Fonction principale>. »
 
 Cela se produit même si l’utilisateur possède la fonction de l’affectation de rôle de tâche en tant que fonction secondaire.
 
@@ -1644,7 +1644,7 @@ REMARQUE : ce correctif concernait également des fonctionnalités supplémenta
 
 +++**Mise à jour de maintenance le 24 mars 2022**
 
-**Les fuseaux horaires de [!DNL Workfront] et de[!DNL Workfront Proof]** ne sont pas cohérents
+**Les fuseaux horaires de [!DNL Workfront] et de [!DNL Workfront Proof]** ne sont pas cohérents
 
 *[!DNL Workfront Proof]*
 
@@ -1791,7 +1791,7 @@ Lorsque l’utilisateur disposant d’un accès en lecture seule à un modèle p
 
 Lorsque l’utilisateur tente de charger une nouvelle version d’un document depuis la liste de documents, le document n’est pas chargé et le message d’erreur suivant apparaît :
 
-[!UICONTROL Erreur : Impossible d’appeler &quot;com.attask.boz.Document.getCurrentVersion()&quot;, car &quot;document&quot; est nul]
+[!UICONTROL Erreur : Impossible d’appeler « com.attask.boz.Document.getCurrentVersion() », car « document » est nul]
 
 **Impossible de modifier les taux de facturation**
 
@@ -1868,7 +1868,7 @@ Lorsque l’utilisateur modifie le statut d’un élément de travail dans l’e
 
 +++**Mise à jour de maintenance le 3 mars 2022**
 
-**Impossible d’ajouter de document à partir de[!DNL Google Drive]**
+**Impossible d’ajouter de document à partir de [!DNL Google Drive]**
 
 *Documents*
 
@@ -1904,7 +1904,7 @@ Lorsque l’utilisateur non-administrateur tente de convertir un événement en 
 
 Lorsque l’administrateur convertit l’événement, les données sont transférées vers le nouveau projet comme prévu.
 
-La limite de taille de fichier pour **[!DNL XLS]et [!DNL XLSX] est temporairement réduite à 100 Mo pour les épreuves**
+La limite de taille de fichier pour **[!DNL XLS] et [!DNL XLSX] est temporairement réduite à 100 Mo pour les épreuves**
 
 *Relecture*
 
@@ -1991,7 +1991,7 @@ Lorsque l’utilisateur tente de convertir un événement en projet avec un mod�
 
 Lorsque l’utilisateur tente d’ouvrir une épreuve, celle-ci ne s’ouvre pas. La page finit par s’actualiser.
 
-La limite de taille de fichier pour **[!DNL XLS]et [!DNL XLSX] est temporairement réduite à 100 Mo pour les épreuves**
+La limite de taille de fichier pour **[!DNL XLS] et [!DNL XLSX] est temporairement réduite à 100 Mo pour les épreuves**
 
 *Relecture*
 
@@ -2283,11 +2283,11 @@ Lorsque l’utilisateur tente de joindre un formulaire personnalisé ou un modè
 
 Lorsque l’utilisateur consulte une épreuve dans la zone [!UICONTROL Documents], les commentaires ajoutés sur l’épreuve ne s’affichent pas dans la zone des [!UICONTROL mises à jour] du document.
 
-**[!UICONTROL Équilbreur de charge de travail] : « [!UICONTROL  ?[Objet d’objet] ?] » s’affiche dans les informations de suraffectation**
+**[!UICONTROL Équilbreur de charge de travail] : « [!UICONTROL  ?[Objet d’objet] ?] » s’affiche dans les informations de suraffectation**
 
 *[!UICONTROL Équilbreur de charge de travail]*
 
-Si l’utilisateur est indiqué comme suraffecté dans l’[!UICONTROL équilibreur de charge de travail] en raison d’une tâche qui empiète sur son temps de pause et qu’un autre utilisateur consulte sa suraffectation, la zone « [!UICONTROL Capacité] » des informations de suraffectation indique  »[!UICONTROL  ?[Objet d’objet] ?] » plutôt que la capacité réelle de l’utilisateur.
+Si l’utilisateur est indiqué comme suraffecté dans l’[!UICONTROL équilibreur de charge de travail] en raison d’une tâche qui empiète sur son temps de pause et qu’un autre utilisateur consulte sa suraffectation, la zone « [!UICONTROL Capacité] » des informations de suraffectation indique »[!UICONTROL  ?[Objet d’objet] ?] » plutôt que la capacité réelle de l’utilisateur.
 
 +++
 
