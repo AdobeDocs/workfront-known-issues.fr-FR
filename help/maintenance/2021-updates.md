@@ -3,7 +3,7 @@ title: Mises à jour de maintenance pour Workfront en 2021
 description: Historique des mises à jour de maintenance pour  [!DNL Adobe Workfront] en 2021
 exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
 source-git-commit: 65b26c28f83d32aa44e23ca5820bb9a8d8267935
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '10019'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2021 :
 
 _Tâches_
 
-Lorsque l’utilisateur crée une tâche à l’aide du bouton &quot;[!UICONTROL Nouvelle tâche]&quot; alors que l’option [!UICONTROL Date de début par défaut de la nouvelle tâche] est définie sur &quot;[!UICONTROL Aujourd’hui]&quot;, la contrainte de tâche de la tâche créée est définie sur &quot;[!UICONTROL Dès que possible]&quot; plutôt que sur &quot;[!UICONTROL Ne pas démarrer avant]&quot;. Cela peut également se produire lors de l’utilisation de modèles de projet.
+Lorsque l’utilisateur crée une tâche à l’aide du bouton « [!UICONTROL Nouvelle tâche] » alors que l’option [!UICONTROL Date de début par défaut de la nouvelle tâche] est définie sur « [!UICONTROL Aujourd’hui] », la contrainte de tâche de la tâche créée est définie sur « [!UICONTROL Dès que possible] » plutôt que sur « [!UICONTROL Ne pas démarrer avant] ». Cela peut également se produire lors de l’utilisation de modèles de projet.
 
 **L’ouverture d’un planning dans la zone des [!UICONTROL Groupes] fait apparaître une page vierge**
 
@@ -45,7 +45,7 @@ L’**[!UICONTROL équilibreur de charge de travail] indique qu’aucune heure 
 
 _[!UICONTROL Équilbreur de charge de travail]_
 
-Lorsque l’utilisateur consulte l’[!UICONTROL équilibreur de charge de travail] avec le paramètre &quot;[!UICONTROL Afficher les dates prévues]&quot; activé, toutes les futures dates indiquent 0 heure affectée.
+Lorsque l’utilisateur consulte l’[!UICONTROL équilibreur de charge de travail] avec le paramètre « [!UICONTROL Afficher les dates prévues] » activé, toutes les futures dates indiquent 0 heure affectée.
 
 **Les épreuves disparaissent des dossiers par intermittence**
 
@@ -63,7 +63,7 @@ _Notifications_
 
 Lorsque l’utilisateur ouvre sa liste de notifications depuis l’icône [!UICONTROL Notifications], puis clique sur une annonce, une page vierge apparaît et l’annonce ne s’affiche pas.
 
-**Le panneau de résumé indique &quot;[!UICONTROL Aucune sélection]&quot; lorsque la tâche est sélectionnée**
+**Le panneau de résumé indique « [!UICONTROL Aucune sélection] » lorsque la tâche est sélectionnée**
 
 _Tâches_
 
@@ -79,11 +79,11 @@ _[!UICONTROL Équilbreur de charge de travail]_
 
 Lorsque l’utilisateur crée un filtre dans l’[!UICONTROL Équilibreur de charge de travail] à l’aide du champ [!UICONTROL Affectation : ID de rôle], la zone [!UICONTROL Tâches non affectées] ne se charge pas.
 
-**Joindre un modèle avec l’option &quot;[!UICONTROL Personnaliser et joindre]&quot; efface les valeurs de champ personnalisées**
+**Joindre un modèle avec l’option « [!UICONTROL Personnaliser et joindre] » efface les valeurs de champ personnalisées**
 
 _Projets_
 
-Si l’utilisateur joint un modèle à un projet avec l’option &quot;[!UICONTROL Personnaliser et joindre]&quot; et qu’un formulaire personnalisé est déjà joint au projet, les valeurs des champs personnalisés ne sont pas transférées et doivent être saisies une nouvelle fois manuellement. Cela se produit même lorsque le formulaire personnalisé inclus au modèle est identique.
+Si l’utilisateur joint un modèle à un projet avec l’option « [!UICONTROL Personnaliser et joindre] » et qu’un formulaire personnalisé est déjà joint au projet, les valeurs des champs personnalisés ne sont pas transférées et doivent être saisies une nouvelle fois manuellement. Cela se produit même lorsque le formulaire personnalisé inclus au modèle est identique.
 
 +++
 
@@ -95,7 +95,7 @@ _Projets_
 
 Lorsque l’utilisateur tente de joindre un modèle à un projet existant, le modèle n’est pas joint et le message d’erreur suivant apparaît :
 
-&quot;[!UICONTROL Oups ! Un problème est survenu. Contactez [!DNL Workfront] pour nous aider à comprendre l’erreur et y remédier.]&quot;
+« [!UICONTROL Oups ! Un problème est survenu. Contactez [!DNL Workfront] pour nous aider à comprendre l’erreur et y remédier.] »
 
 +++
 
@@ -112,7 +112,7 @@ L’**[!UICONTROL équilibreur de charge de travail] indique qu’aucune heure 
 
 _[!UICONTROL Équilbreur de charge de travail]_
 
-Lorsque l’utilisateur consulte l’[!UICONTROL équilibreur de charge de travail] avec le paramètre &quot;[!UICONTROL Afficher les dates prévues]&quot; activé, toutes les futures dates indiquent 0 heure affectée.
+Lorsque l’utilisateur consulte l’[!UICONTROL équilibreur de charge de travail] avec le paramètre « [!UICONTROL Afficher les dates prévues] » activé, toutes les futures dates indiquent 0 heure affectée.
 
 +++
 
@@ -159,7 +159,7 @@ _[!DNL Workfront]_
 
 Lorsque l’utilisateur travaille sur les pages [!DNL Workfront], elles ne se chargent pas et le message d’erreur suivant apparaît :
 
-&quot;[!UICONTROL Une erreur s’est produite et nous nous efforçons de la résoudre. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.]&quot;
+« [!UICONTROL Une erreur s’est produite et nous nous efforçons de la résoudre. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.] »
 
 Cela a été signalé dans
 
@@ -175,13 +175,13 @@ Cette erreur se produit de manière aléatoire et peut affecter n’importe quel
 
 +++**Mise à jour de maintenance le 18 novembre 2021**
 
-Erreur &quot;[!UICONTROL ClientID ou clientSecret non valide]&quot; sur **[!DNL Workfront]pour [!DNL Jira] au moment de la connexion**
+Erreur « [!UICONTROL ClientID ou clientSecret non valide] » sur **[!DNL Workfront]pour [!DNL Jira] au moment de la connexion**
 
 _Intégrations Workfront_
 
 Des utilisateurs ont été déconnectés du [!DNL Jira] pour l’intégration Workfront. L’utilisateur ne peut pas se connecter à l’intégration [!DNL Workfront for Jira] et le message d’erreur suivant apparaît :
 
-&quot;[!UICONTROL ClientID ou clientSecret non valide]&quot;
+« [!UICONTROL ClientID ou clientSecret non valide] »
 
 **Le formulaire personnalisé joint à la demande ne se met pas à jour lorsqu’une nouvelle rubrique de file d’attente est sélectionnée**
 
@@ -195,11 +195,11 @@ _[!DNL Workfront]_
 
 Les images des icônes ne s’affichent pas correctement. Cela a été signalé dans de nombreuses zones de [!UICONTROL Workfront].
 
-**Les tâches ne sont pas exportées au format PDF lorsque l’option &quot;Autres tailles&quot; est sélectionnée.**
+**Les tâches ne sont pas exportées au format PDF lorsque l’option « Autres tailles » est sélectionnée.**
 
 _Tâches_
 
-Si l’utilisateur tente d’exporter une liste de tâches au format PDF et sélectionne l’option &quot;[!UICONTROL Autres tailles]&quot;, il peut sélectionner une taille et cliquer sur [!UICONTROL Exporter], mais la liste n’est pas exportée. Aucun message d’erreur et aucune indication que l’exportation a échoué ne s’affiche.
+Si l’utilisateur tente d’exporter une liste de tâches au format PDF et sélectionne l’option « [!UICONTROL Autres tailles] », il peut sélectionner une taille et cliquer sur [!UICONTROL Exporter], mais la liste n’est pas exportée. Aucun message d’erreur et aucune indication que l’exportation a échoué ne s’affiche.
 
 **L’indicateur d’image ne s’affiche pas dans les notifications par e-mail**
 
@@ -213,7 +213,7 @@ _[!DNL Workfront]_
 
 Lorsque l’utilisateur travaille sur les pages [!DNL Workfront], elles ne se chargent pas et le message d’erreur suivant apparaît :
 
-&quot;[!UICONTROL Une erreur s’est produite et nous nous efforçons de la résoudre. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.]&quot;
+« [!UICONTROL Une erreur s’est produite et nous nous efforçons de la résoudre. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.] »
 
 Cela a été signalé dans
 
@@ -241,11 +241,11 @@ Lorsque l’utilisateur tente d’utiliser plusieurs filtres dans l’[!UICONTRO
 * Si l’utilisateur sélectionne deux filtres, seul le filtre inférieur est appliqué.
 * Si l’utilisateur sélectionne plus de deux filtres, aucun résultat ne s’affiche.
 
-**L’en-tête du document &quot;[!UICONTROL Dossiers du projet]&quot; est absent de la zone des documents du projet**
+**L’en-tête du document « [!UICONTROL Dossiers du projet] » est absent de la zone des documents du projet**
 
 _Projets_
 
-Lorsque l’utilisateur consulte les documents du projet dans un projet, l’en-tête &quot;[!UICONTROL Dossiers du projet]&quot; est absent du panneau de navigation de gauche. La flèche de la liste déroulante apparaît toujours, et l’utilisateur peut sélectionner un dossier.
+Lorsque l’utilisateur consulte les documents du projet dans un projet, l’en-tête « [!UICONTROL Dossiers du projet] » est absent du panneau de navigation de gauche. La flèche de la liste déroulante apparaît toujours, et l’utilisateur peut sélectionner un dossier.
 
 **Les colonnes du tableau kanban sont trop larges et ne peuvent pas être modifiées.**
 
@@ -257,7 +257,7 @@ Lorsque l’utilisateur consulte un tableau kanban à plusieurs colonnes, celles
 
 _Équipes_
 
-La création d’équipes est désormais plus intuitive, avec de nouveaux repères visuels. Lorsque l’icône [!UICONTROL Changer d’équipe] est sélectionnée sur n’importe quelle page d’équipe, le lien [!UICONTROL Créer une nouvelle équipe] comporte une icône indiquant &quot;[!UICONTROL nouvelle]&quot; et le lien est séparé du reste de la liste afin de ne pas être confondu avec un nom d’équipe. Cette interface est identique pour les équipes agiles et non agiles.
+La création d’équipes est désormais plus intuitive, avec de nouveaux repères visuels. Lorsque l’icône [!UICONTROL Changer d’équipe] est sélectionnée sur n’importe quelle page d’équipe, le lien [!UICONTROL Créer une nouvelle équipe] comporte une icône indiquant « [!UICONTROL nouvelle] » et le lien est séparé du reste de la liste afin de ne pas être confondu avec un nom d’équipe. Cette interface est identique pour les équipes agiles et non agiles.
 
 +++
 
@@ -267,7 +267,7 @@ La création d’équipes est désormais plus intuitive, avec de nouveaux repèr
 
 _Tâches_
 
-Lorsque l’utilisateur crée une tâche à l’aide du bouton &quot;[!UICONTROL Nouvelle tâche]&quot; alors que l’option Date de début par défaut de la nouvelle tâche est définie sur &quot;[!UICONTROL Aujourd’hui]&quot;, la contrainte de tâche de la tâche créée est définie sur &quot;[!UICONTROL Dès que possible]&quot; plutôt que sur &quot;[!UICONTROL Ne pas démarrer avant]&quot;.
+Lorsque l’utilisateur crée une tâche à l’aide du bouton « [!UICONTROL Nouvelle tâche] » alors que l’option Date de début par défaut de la nouvelle tâche est définie sur « [!UICONTROL Aujourd’hui] », la contrainte de tâche de la tâche créée est définie sur « [!UICONTROL Dès que possible] » plutôt que sur « [!UICONTROL Ne pas démarrer avant] ».
 
 **Les champs ne s’affichent pas sur les cartes des Stories agiles**
 
@@ -287,13 +287,13 @@ _[!UICONTROL Équilbreur de charge de travail]_
 
 Lorsque l’utilisateur tente de créer un filtre à l’aide d’un champ personnalisé, la valeur de ce champ personnalisé ne s’affiche pas et ne peut pas être saisie dans le filtre.
 
-**Des pages ne se chargent pas dans le navigateur [!DNL Firefox]**
+**Des pages ne se chargent pas dans le [!DNL Firefox] navigateur**
 
 _[!DNL Workfront]_
 
 Lorsque l’utilisateur travaille dans [!DNL Workfront] à l’aide du navigateur [!DNL Firefox], les pages ne se chargent pas et le message d’erreur suivant apparaît :
 
-&quot;[!UICONTROL Une erreur s’est produite et nous nous efforçons de la résoudre. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.]&quot;
+« [!UICONTROL Une erreur s’est produite et nous nous efforçons de la résoudre. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.] »
 
 Cette erreur se produit de manière aléatoire et peut affecter n’importe quelle zone de [!DNL Workfront].
 
@@ -307,7 +307,7 @@ La boîte de dialogue **[!UICONTROL Exporter le graphique Gantt] ne répond pas*
 
 _Graphique Gantt_
 
-Si l’utilisateur tente d’exporter le [!UICONTROL graphique Gantt] et sélectionne l’option &quot;[!UICONTROL Ce qui apparaît à l’écran]&quot; et qu’il se trouve dans la nouvelle expérience [!DNL Workfront], le [!UICONTROL graphique Gantt] n’est pas exporté et la boîte de dialogue ne répond pas. L’utilisateur ne peut ni fermer ni cliquer en dehors de la boîte de dialogue.
+Si l’utilisateur tente d’exporter le [!UICONTROL graphique Gantt] et sélectionne l’option « [!UICONTROL Ce qui apparaît à l’écran] » et qu’il se trouve dans la nouvelle expérience [!DNL Workfront], le [!UICONTROL graphique Gantt] n’est pas exporté et la boîte de dialogue ne répond pas. L’utilisateur ne peut ni fermer ni cliquer en dehors de la boîte de dialogue.
 
 **Les icônes ne s’affichent pas correctement**
 
@@ -354,7 +354,7 @@ Lorsque l’utilisateur accède à [!UICONTROL Accueil] ou Mes tâches, une page
 
 _Demandes_
 
-Lorsque l’utilisateur tente d’afficher ou de modifier les détails d’un groupe de rubriques, la page qui s’ouvre affiche &quot;[!UICONTROL Détails du groupe de rubriques]&quot;dans l’en-tête, mais tout le reste est vierge.
+Lorsque l’utilisateur tente d’afficher ou de modifier les détails d’un groupe de rubriques, la page qui s’ouvre affiche « [!UICONTROL Détails du groupe de rubriques] »dans l’en-tête, mais tout le reste est vierge.
 
 **Les boutons radio devant rester vides sont remplis automatiquement**
 
@@ -382,7 +382,7 @@ Lorsque l’utilisateur tente d’afficher le scrum board dans l’itération d�
 
 _Agile_
 
-Lorsque l’utilisateur tente de consulter un storyboard scrum avec un filtre autre que le filtre &quot;[!UICONTROL Toute l’équipe]&quot;, un écran vierge s’affiche. L’utilisateur ne peut pas revenir au filtre &quot;[!UICONTROL Toute l’équipe]&quot;.
+Lorsque l’utilisateur tente de consulter un storyboard scrum avec un filtre autre que le filtre « [!UICONTROL Toute l’équipe] », un écran vierge s’affiche. L’utilisateur ne peut pas revenir au filtre « [!UICONTROL Toute l’équipe] ».
 
 **Les listes ne sont visibles que sur une petite partie de l’écran.**
 
@@ -430,7 +430,7 @@ Lorsque l’utilisateur dans la nouvelle expérience [!DNL Workfront] crée une 
 
 _Agile_
 
-Lorsque l’utilisateur tente de consulter un storyboard scrum avec un filtre autre que le filtre &quot;[!UICONTROL Toute l’équipe]&quot;, un écran vierge s’affiche. L’utilisateur ne peut pas revenir au filtre &quot;[!UICONTROL Toute l’équipe]&quot;.
+Lorsque l’utilisateur tente de consulter un storyboard scrum avec un filtre autre que le filtre « [!UICONTROL Toute l’équipe] », un écran vierge s’affiche. L’utilisateur ne peut pas revenir au filtre « [!UICONTROL Toute l’équipe] ».
 
 +++
 
@@ -448,19 +448,19 @@ _Modèles_
 
 Lorsque l’utilisateur tente de créer un projet à partir d’un modèle contenant un formulaire personnalisé avec une section visible uniquement par les administrateurs, la création du projet est impossible et le message suivant apparaît :
 
-&quot;[!UICONTROL Catégorie avec valeur(s) de clé primaire &#39;xxxxxxxxxxxxxxxx&#39; introuvable]&quot;
+« [!UICONTROL Catégorie avec valeur(s) de clé primaire ’xxxxxxxxxxxxxxxx’ introuvable] »
 
 **Mise à jour des liens pour copier et déplacer les tâches**
 
 _Tâches_
 
-Les liens permettant de copier et de déplacer les tâches ont été mis à jour et sont passés à &quot;[!UICONTROL Copier vers]&quot; et &quot;[!UICONTROL Déplacer vers]&quot;, à la fois sur la page de la tâche et dans la liste de tâches.
+Les liens permettant de copier et de déplacer les tâches ont été mis à jour et sont passés à « [!UICONTROL Copier vers] » et « [!UICONTROL Déplacer vers] », à la fois sur la page de la tâche et dans la liste de tâches.
 
 **Suppression de la limite de recherche de fonction lors du remplacement du taux de facturation d’un projet**
 
 Fonctions
 
-REMARQUE : cette mise à jour se trouve actuellement dans l’environnement de prévisualisation et entrera en production avec la publication de la production 22.1. Consultez &quot;Aperçu de la publication 22.1&quot; pour en savoir plus.
+REMARQUE : cette mise à jour se trouve actuellement dans l’environnement de prévisualisation et entrera en production avec la publication de la production 22.1. Consultez « Aperçu de la publication 22.1 » pour en savoir plus.
 
 Le remplacement des taux de facturation des fonctions dans un projet recherche désormais toutes les fonctions dans le système.
 
@@ -493,7 +493,7 @@ _[!UICONTROL Équilbreur de charge de travail]_
 
 Lorsque l’utilisateur tente une affectation dans l’[!UICONTROL Équilibreur de charge de travail], la tâche n’est pas affectée et le message d’erreur suivant apparaît :
 
-&quot;[!UICONTROL Une erreur s’est produite et nous nous efforçons de la résoudre. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.]&quot;
+« [!UICONTROL Une erreur s’est produite et nous nous efforçons de la résoudre. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.] »
 
 +++
 
@@ -508,7 +508,7 @@ _Page d’accueil_
 
 Lorsque l’utilisateur navigue rapidement à ou depuis l’[!UICONTROL Accueil], la page ne se charge pas et le message d’erreur suivant apparaît :
 
-&quot;[!UICONTROL Une erreur s’est produite et nous nous efforçons de la résoudre. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.]&quot;
+« [!UICONTROL Une erreur s’est produite et nous nous efforçons de la résoudre. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.] »
 
 Cela peut également se produire en naviguant vers l’[!UICONTROL Accueil] depuis une épingle.
 
@@ -522,7 +522,7 @@ _Événements_
 
 Lorsque l’utilisateur ayant soumis un ticket à [!DNL Workfront] tente de l’afficher, le message d’erreur suivant apparaît :
 
-&quot;[!UICONTROL Accès refusé : Oups ! Un problème est survenu. Contactez [!DNL Workfront] pour nous aider à comprendre l’erreur et y remédier.]&quot;
+« [!UICONTROL Accès refusé : Oups ! Un problème est survenu. Contactez [!DNL Workfront] pour nous aider à comprendre l’erreur et y remédier.] »
 
 **Le résumé de l’analyse de rentabilité indique des valeurs incorrectes**
 
@@ -552,7 +552,7 @@ _Groupes_
 
 Lorsque l’utilisateur tente de modifier ou de supprimer un groupe, celui-ci n’est ni modifié ni supprimé, et le message suivant apparaît :
 
-&quot;[!UICONTROL Réessayons. Groupe avec valeur(s) de clé primaire &quot;(ID du groupe)&quot; introuvable]&quot;
+« [!UICONTROL Réessayons. Groupe avec valeur(s) de clé primaire « (ID du groupe) » introuvable] »
 
 L’**[!UICONTROL optimisateur de portfolio] n’affiche aucun projet**
 
@@ -604,13 +604,13 @@ Lorsque l’utilisateur tente d’utiliser l’un des filtres suivants :
 
 la liste devient vide et le message d’erreur suivant apparaît :
 
-&quot;[!UICONTROL Réessayons.]&quot;
+« [!UICONTROL Réessayons.] »
 
 La section **[!UICONTROL Tâches] devient vide lors de la modification sur la ligne**
 
 _Modèles_
 
-Lorsque l’utilisateur tente de modifier des tâches sur la ligne dans un modèle en utilisant une vue qui inclut le champ &quot;[!UICONTROL Affecter à : Nom]&quot; et que l’affectation contient un utilisateur, la section [!UICONTROL Tâches] devient vide et l’utilisateur ne peut pas modifier les tâches de modèle.
+Lorsque l’utilisateur tente de modifier des tâches sur la ligne dans un modèle en utilisant une vue qui inclut le champ « [!UICONTROL Affecter à : Nom] » et que l’affectation contient un utilisateur, la section [!UICONTROL Tâches] devient vide et l’utilisateur ne peut pas modifier les tâches de modèle.
 
 **Exportation impossible de l’[!UICONTROL optimisateur de portfolio]**
 
@@ -630,11 +630,11 @@ _Champs personnalisés_
 
 Lorsque l’utilisateur modifie des données personnalisées qui déclenchent des modifications d’autres données affichées, le chargement des modifications est lent.
 
-**L’icône de regroupement &quot;[!UICONTROL Tout réduire ou tout développer]&quot; ne s’affiche pas**
+**L’icône de regroupement « [!UICONTROL Tout réduire ou tout développer] » ne s’affiche pas**
 
 _Rapports_
 
-L’icône &quot;[!UICONTROL Tout réduire ou tout développer]&quot; ne s’affiche pas dans l’en-tête d’une liste ou d’un rapport lorsque des regroupements sont appliqués à la liste ou au rapport.
+L’icône « [!UICONTROL Tout réduire ou tout développer] » ne s’affiche pas dans l’en-tête d’une liste ou d’un rapport lorsque des regroupements sont appliqués à la liste ou au rapport.
 
 Les options **[!UICONTROL Vérifier] et [!UICONTROL Annuler] n’apparaissent pas lorsque l’affectation de tâche est modifiée**
 
@@ -664,7 +664,7 @@ _Tableaux de bord_
 
 Lorsque l’utilisateur tente d’épingler un tableau de bord personnalisé, le tableau de bord n’est pas épinglé et le message d’erreur suivant apparaît :
 
-&quot;[!UICONTROL Un problème est survenu au moment d’épingler cet élément. Contactez [!DNL Workfront] pour remédier à l’erreur.]&quot;
+« [!UICONTROL Un problème est survenu au moment d’épingler cet élément. Contactez [!DNL Workfront] pour remédier à l’erreur.] »
 
 **[!DNL Workfront Proof]Le résumé d’impression est vide**
 
@@ -691,7 +691,7 @@ _Tâches_
 
 Lorsque l’utilisateur tente de définir une tâche en tant que prédécesseur en la modifiant sur la ligne, le prédécesseur n’est pas défini et le message suivant apparaît :
 
-&quot;[!UICONTROL Une erreur inattendue s’est produite]&quot;
+« [!UICONTROL Une erreur inattendue s’est produite] »
 
 +++
 
@@ -814,7 +814,7 @@ _[!UICONTROL Équilbreur de charge de travail]_
 
 Lorsque l’utilisateur sélectionne l’option [!UICONTROL Pourcentage] pour les [!UICONTROL Heures affectées] et que des tâches sont répertoriées dans la section [!UICONTROL Tâches non affectées], le message d’erreur suivant apparaît :
 
-&quot;[!UICONTROL Une erreur s’est produite et nous nous efforçons de la résoudre. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.]&quot;
+« [!UICONTROL Une erreur s’est produite et nous nous efforçons de la résoudre. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.] »
 
 +++
 
@@ -832,7 +832,7 @@ Lorsque l’utilisateur télécharge la nouvelle version d’une épreuve dont l
 
 **Erreur lors de la tentative de navigation vers des projets, des feuilles de temps, des tâches ou des programmes**
 
-Dans la nouvelle expérience [!DNL Adobe Workfront], lorsque l’utilisateur tente d’accéder à des projets, des feuilles de temps, des tâches ou des programmes, il rencontre un message d’erreur &quot;[!UICONTROL Oups ! Un problème est survenu. Contactez [!DNL Workfront] pour nous aider à comprendre l’erreur et y remédier.]&quot;
+Dans la nouvelle expérience [!DNL Adobe Workfront], lorsque l’utilisateur tente d’accéder à des projets, des feuilles de temps, des tâches ou des programmes, il rencontre un message d’erreur « [!UICONTROL Oups ! Un problème est survenu. Contactez [!DNL Workfront] pour nous aider à comprendre l’erreur et y remédier.] »
 
 +++
 
@@ -936,7 +936,7 @@ Lorsque l’utilisateur dans la nouvelle expérience [!DNL Adobe Workfront] acc�
 
 _Projets_
 
-Lorsque l’utilisateur dans la nouvelle expérience [!DNL Adobe Workfront] tente de développer un formulaire personnalisé joint à un projet, il ne parvient pas à ouvrir le formulaire personnalisé et le message d’erreur suivant apparaît : &quot;[!UICONTROL Une erreur s’est produite et nous nous efforçons de la résoudre. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.]&quot; Actualiser la page ne résout pas le problème.
+Lorsque l’utilisateur dans la nouvelle expérience [!DNL Adobe Workfront] tente de développer un formulaire personnalisé joint à un projet, il ne parvient pas à ouvrir le formulaire personnalisé et le message d’erreur suivant apparaît : « [!UICONTROL Une erreur s’est produite et nous nous efforçons de la résoudre. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.] » Actualiser la page ne résout pas le problème.
 
 L’image de marque **[!DNL Adobe Workfront]apparaît désormais dans les e-mails du centre d’annonce**
 
@@ -999,7 +999,7 @@ Lorsque l’utilisateur ouvre un rapport de tâche dans la nouvelle expérience 
 
 _Demandes_
 
-Lorsque l’utilisateur dans la nouvelle expérience [!DNL Adobe Workfront] tente de soumettre une demande avec un champ dépassant la limite de caractères, la demande ne s’envoie pas et aucun message d’erreur n’apparaît. L’avertissement &quot;plus de [!UICONTROL [nombre] caractères&quot; apparaît dans [!DNL Adobe Workfront Classic], et lorsque l’utilisateur tente de soumettre la demande, le message d’erreur &quot;Points suivants à vérifier : saisissez 2 000 caractères au maximum (vous avez saisi [nombre] caractères).]&quot; apparaît.
+Lorsque l’utilisateur dans la nouvelle expérience [!DNL Adobe Workfront] tente de soumettre une demande avec un champ dépassant la limite de caractères, la demande ne s’envoie pas et aucun message d’erreur n’apparaît. L’avertissement « plus de [!UICONTROL [nombre] caractères » apparaît dans [!DNL Adobe Workfront Classic], et lorsque l’utilisateur tente de soumettre la demande, le message d’erreur « Points suivants à vérifier : saisissez 2 000 caractères au maximum (vous avez saisi [nombre] caractères).] » apparaît.
 
 +++
 
@@ -1039,7 +1039,7 @@ _[!DNL Workfront Proof]_
 
 Lorsque l’utilisateur accède à la page [!UICONTROL Créer une nouvelle épreuve] dans [!DNL Workfront Proof] et que son contenu est traduit dans une langue autre que l’anglais, certaines phrases restent en anglais.
 
-**Les libellés Désactivé et Supprimé sont ajoutés aux utilisateurs[!DNL Workfront Proof]**
+**Les libellés Désactivé et Supprimé sont ajoutés aux utilisateurs [!DNL Workfront Proof]**
 
 _[!DNL Workfront Proof]_
 
@@ -1071,11 +1071,11 @@ _Listes_
 
 Lorsque l’utilisateur dans la nouvelle expérience [!DNL Adobe Workfront] affiche les filtres, les vues ou les regroupements pour une liste, l’icône du menu [!UICONTROL Plus] n’apparaît pas. Il ne peut donc pas partager ni, s’il y est autorisé, supprimer des filtres, des vues ou des regroupements.
 
-**Copier et coller le [!UICONTROL Numéro de référence] d’un projet y ajoute &quot;[!UICONTROL Ceci]&quot;**
+**Copier et coller le [!UICONTROL Numéro de référence] d’un projet y ajoute « [!UICONTROL Ceci] »**
 
 _Projets_
 
-Lorsque l’utilisateur dans la nouvelle expérience [!DNL Workfront] accède à un projet et copie le [!UICONTROL Numéro de référence] de la zone [!UICONTROL Présentation], puis le colle, le mot &quot;[!UICONTROL Ceci]&quot; est ajouté à la fin du nombre.
+Lorsque l’utilisateur dans la nouvelle expérience [!DNL Workfront] accède à un projet et copie le [!UICONTROL Numéro de référence] de la zone [!UICONTROL Présentation], puis le colle, le mot « [!UICONTROL Ceci] » est ajouté à la fin du nombre.
 
 Les e-mails de **[!UICONTROL Sommaire quotidien] sont envoyés alors qu’ils sont désactivés**
 
@@ -1087,7 +1087,7 @@ Certains utilisateurs reçoivent des notifications de [!UICONTROL Résumé quoti
 
 _Objets_
 
-Lorsque l’utilisateur dans la nouvelle expérience [!DNL Workfront] tente d’ouvrir certains objets, le message d’erreur &quot;[!UICONTROL (L’objet) n’existe plus. L’adresse Web est peut-être mal orthographiée. Vérifiez-la, puis tentez d’y accéder à nouveau.]&quot; apparaît. Le lien de l’objet s’affiche toujours dans les listes, les éléments récents, les favoris, les résultats de recherche, etc., mais il n’est pas accessible et il n’apparaît pas dans la Corbeille avec les objets supprimés.
+Lorsque l’utilisateur dans la nouvelle expérience [!DNL Workfront] tente d’ouvrir certains objets, le message d’erreur « [!UICONTROL (L’objet) n’existe plus. L’adresse Web est peut-être mal orthographiée. Vérifiez-la, puis tentez d’y accéder à nouveau.] » apparaît. Le lien de l’objet s’affiche toujours dans les listes, les éléments récents, les favoris, les résultats de recherche, etc., mais il n’est pas accessible et il n’apparaît pas dans la Corbeille avec les objets supprimés.
 
 
 
@@ -1141,7 +1141,7 @@ _[!DNL Workfront Fusion]_
 
 Auparavant, si l’utilisateur activait un scénario inactif auquel était associée une file d’attente webhook contenant plusieurs enregistrements, [!DNL Workfront Fusion] tentait de traiter la file d’attente complète en une seule fois (mais en plusieurs cycles).  Selon le nombre d’enregistrements traités, la durée d’une telle exécution dépassait parfois la durée maximale d’exécution (40 minutes).  Désormais, lorsqu’un scénario inactif avec une file d’attente d’enregistrements webhook associée est activé, Workfront Fusion traite jusqu’au nombre maximal d’enregistrements identifiés en une seule fois (généralement 2 enregistrements par exécution).
 
-**Les banques de données affichent désormais correctement les valeurs &quot;0&quot;**
+**Les banques de données affichent désormais correctement les valeurs « 0 »**
 
 _[!DNL Workfront Fusion]_
 
@@ -1181,7 +1181,7 @@ Lorsque l’utilisateur dans la nouvelle expérience [!DNL Workfront] est affect
 
 _[!UICONTROL Page d’accueil]_
 
-Lorsque l’utilisateur clique sur un objet de la [!UICONTROL Liste de travail de l’accueil], l’en-tête de l’objet s’affiche dans le panneau de droite, mais les détails de l’objet n’apparaissent pas. Le message &quot;[!UICONTROL La page ne répond pas.]&quot; finit par apparaître.
+Lorsque l’utilisateur clique sur un objet de la [!UICONTROL Liste de travail de l’accueil], l’en-tête de l’objet s’affiche dans le panneau de droite, mais les détails de l’objet n’apparaissent pas. Le message « [!UICONTROL La page ne répond pas.] » finit par apparaître.
 
 **Problèmes liés aux champs Rich Text dans[!DNL Microsoft Outlook]**
 
@@ -1236,7 +1236,7 @@ Lorsque l’utilisateur crée un projet à partir d’un modèle, les paramètre
 
 _[!UICONTROL Page d’accueil]_
 
-Lorsque l’utilisateur clique sur un objet de la [!UICONTROL Liste de travail de l’accueil], l’en-tête de l’objet s’affiche dans le panneau de droite, mais les détails de l’objet n’apparaissent pas. Le message &quot;[!UICONTROL La page ne répond pas.]&quot; finit par apparaître.
+Lorsque l’utilisateur clique sur un objet de la [!UICONTROL Liste de travail de l’accueil], l’en-tête de l’objet s’affiche dans le panneau de droite, mais les détails de l’objet n’apparaissent pas. Le message « [!UICONTROL La page ne répond pas.] » finit par apparaître.
 
 +++
 
@@ -1245,7 +1245,7 @@ Lorsque l’utilisateur clique sur un objet de la [!UICONTROL Liste de travail d
 
 +++**Mise à jour de maintenance le 29 avril 2021**
 
-L’intégration **[!DNL SharePoint]authentifie à l’aide des informations d’identification provenant d’une intégration distincte**
+L’intégration **[!DNL SharePoint] authentifie à l’aide des informations d’identification provenant d’une intégration distincte**
 
 _Intégrations Workfront_
 
@@ -1255,9 +1255,9 @@ Lorsque l’utilisateur possède plusieurs intégrations [!DNL SharePoint], une 
 
 _Intégrations Workfront_
 
-Lorsque l’utilisateur tente de charger ou d’exporter des fichiers à l’aide de l’intégration [!DNL Workfront for Adobe Creative Cloud], le message d’erreur &quot;[!UICONTROL Impossible de lire &quot;les étapes&quot; de propriété d’un objet non défini]&quot; s’affiche, et il est impossible de télécharger ou d’exporter les fichiers.
+Lorsque l’utilisateur tente de charger ou d’exporter des fichiers à l’aide de l’intégration [!DNL Workfront for Adobe Creative Cloud], le message d’erreur « [!UICONTROL Impossible de lire « les étapes » de propriété d’un objet non défini] » s’affiche, et il est impossible de télécharger ou d’exporter les fichiers.
 
-**Les fichiers n’apparaissent pas dans[!DNL Internet Explorer]**
+**Les fichiers n’apparaissent pas dans [!DNL Internet Explorer]**
 
 _Documents_
 
@@ -1282,11 +1282,11 @@ _Épreuves_
 
 +++**[!DNL Workfront Fusion]Mise à jour de maintenance le 15 avril 2021**
 
-**L’erreur &quot;[!UICONTROL Scénario rejeté]&quot; survient lors de l’exécution d’un scénario**
+**L’erreur « [!UICONTROL Scénario rejeté] » survient lors de l’exécution d’un scénario**
 
 _[!DNL Workfront Fusion]_
 
-Lorsque l’utilisateur tente d’exécuter un scénario, celui-ci ne s’exécute pas et le message &quot;[!UICONTROL Scénario rejeté.]&quot; apparaît.
+Lorsque l’utilisateur tente d’exécuter un scénario, celui-ci ne s’exécute pas et le message « [!UICONTROL Scénario rejeté.] » apparaît.
 
 +++
 
@@ -1298,7 +1298,7 @@ _[!UICONTROL Équilbreur de charge de travail]_
 
 Lorsque l’utilisateur consulte le nombre d’heures prévues d’une tâche dans l’[!UICONTROL Équilibreur de charge de travail], la valeur du nombre d’heures prévues ne correspond pas au nombre d’heures prévues affectées à la tâche.
 
-**La barre de navigation supérieure n’apparaît pas dans[!DNL Workfront Proof]**
+**La barre de navigation supérieure n’apparaît pas dans [!DNL Workfront Proof]**
 
 _[!DNL Workfront Proof]_
 
@@ -1324,7 +1324,7 @@ Lorsque l’utilisateur tente de créer directement une épreuve à partir du [!
 
 +++**Mise à jour de maintenance le 1 avril 2021**
 
-**Problèmes d’affichage du panneau de résumé dans[!DNL Chrome]**
+**Problèmes d’affichage du panneau de résumé dans [!DNL Chrome]**
 
 _[!UICONTROL Résumé]_
 
@@ -1342,7 +1342,7 @@ _Projets_
 
 Si l’utilisateur tente d’ajouter une mise à jour à un projet dont le statut est défini sur [!UICONTROL En attente d’approbation] et qu’il n’est pas l’utilisateur affecté à l’approbation du projet, la mise à jour n’est pas ajoutée et le message suivant apparaît :
 
-Les projets dont le statut est défini sur &quot;[!DNL Pending Approval]&quot; ne peuvent pas être modifiés. Vous pouvez modifier le projet en changeant son statut.
+Les projets dont le statut est défini sur « [!DNL Pending Approval] » ne peuvent pas être modifiés. Vous pouvez modifier le projet en changeant son statut.
 
 +++
 
@@ -1369,13 +1369,13 @@ _[!DNL Workfront Proof]_
 
 Lorsque l’utilisateur avec le paramètre [!UICONTROL Partage public] activé par défaut pour les épreuves crée une épreuve, celle-ci est créée avec le partage désactivé. Les autres utilisateurs ne peuvent pas voir le bouton [!UICONTROL Partager] ni partager l’épreuve.
 
-**Erreur &quot;[!UICONTROL Échec de la génération de l’épreuve]&quot; lors de la création d’une épreuve**
+**Erreur « [!UICONTROL Échec de la génération de l’épreuve] » lors de la création d’une épreuve**
 
 _[!DNL Workfront Proof]_
 
 Lorsque l’utilisateur tente de créer une épreuve, celle-ci n’est pas créée et le message d’erreur suivant apparaît :
 
-&quot;[!UICONTROL Échec de la génération de l’épreuve ; erreur interne]&quot;
+« [!UICONTROL Échec de la génération de l’épreuve ; erreur interne] »
 
 +++
 
@@ -1393,7 +1393,7 @@ Lorsque l’utilisateur emploie un terme de l’API [!DNL Workfront] pour sélec
 
 **Les paramètres de modèle de projet s’appliquent désormais aux projets créés avec [!DNL Workfront Fusion] 2.0**
 
-_[!DNL Workfront Fusion]2,0_
+_[!DNL Workfront Fusion]2.0_
 
 Lors de la création d’un projet à partir d’un modèle avec [!DNL Workfront Fusion] 2.0, les paramètres du modèle sont appliqués au nouveau projet. Cela se produit également lors de la création d’un projet à partir d’un modèle dans l’application [!DNL Workfront].
 
@@ -1403,7 +1403,7 @@ Lors de la création d’un projet à partir d’un modèle avec [!DNL Workfront
 
 **Les paramètres de modèle de projet s’appliquent désormais aux projets créés avec l’API**
 
-API _[!DNL Workfront]_
+_[!DNL Workfront]API_
 
 Lors de la création d’un projet à partir d’un modèle avec l’API [!DNL Workfront], les paramètres du modèle sont appliqués au nouveau projet. Cela se produit également lors de la création d’un projet à partir d’un modèle dans l’application [!DNL Workfront].
 
@@ -1448,13 +1448,13 @@ Lorsque l’utilisateur joint un message personnalisé à une épreuve puis char
 
 _Listes_
 
-Lorsque l’utilisateur tente d’afficher une liste d’utilisateurs et que la vue inclut la colonne &quot;[!UICONTROL Icônes de statut]&quot;, la liste ne s’affiche pas.
+Lorsque l’utilisateur tente d’afficher une liste d’utilisateurs et que la vue inclut la colonne « [!UICONTROL Icônes de statut] », la liste ne s’affiche pas.
 
-L’option **&quot;[!UICONTROL Notifier les destinataires à propos de cette épreuve]&quot; est désactivée quels que soient les paramètres du workflow**
+L’option **« [!UICONTROL Notifier les destinataires à propos de cette épreuve] » est désactivée quels que soient les paramètres du workflow**
 
 _[!DNL Workfront Proof]_
 
-Lorsque l’utilisateur crée une épreuve et n’active pas manuellement l’option &quot;[!UICONTROL Notifier les destinataires à propos de cette épreuve]&quot;, le destinataire prévu n’est pas notifié, même si l’option est activée dans les paramètres du workflow.
+Lorsque l’utilisateur crée une épreuve et n’active pas manuellement l’option « [!UICONTROL Notifier les destinataires à propos de cette épreuve] », le destinataire prévu n’est pas notifié, même si l’option est activée dans les paramètres du workflow.
 
 **Impossible de modifier la période**
 
@@ -1476,7 +1476,7 @@ Lorsque l’utilisateur clique sur un lien partagé pour télécharger un docume
 
 _Formulaires personnalisés_
 
-Si un formulaire personnalisé joint à un objet comporte un saut de section dont le contenu de la section exige un accès supérieur à &quot;[!UICONTROL Vue]&quot; pour s’afficher, seuls les administrateurs sont en mesure d’exporter le contenu de la section.
+Si un formulaire personnalisé joint à un objet comporte un saut de section dont le contenu de la section exige un accès supérieur à « [!UICONTROL Vue] » pour s’afficher, seuls les administrateurs sont en mesure d’exporter le contenu de la section.
 
 **Le nom du document téléchargé n’est pas correct**
 
@@ -1492,7 +1492,7 @@ Lorsque l’utilisateur télécharge un document à partir de la [!UICONTROL vis
 
 _Modèles de mise en page_
 
-Lorsque l’utilisateur inscrit dans la nouvelle expérience [!DNL Workfront] passe à l’expérience [!DNL Classic] et tente d’accéder à un modèle de mise en page [!DNL Classic], l’erreur &quot;[!UICONTROL Cette page n’existe pas.]&quot; s’affiche.
+Lorsque l’utilisateur inscrit dans la nouvelle expérience [!DNL Workfront] passe à l’expérience [!DNL Classic] et tente d’accéder à un modèle de mise en page [!DNL Classic], l’erreur « [!UICONTROL Cette page n’existe pas.] » s’affiche.
 
 **Impossible de modifier les filtres dans l’[!UICONTROL équilibreur de charge de travail]**
 
@@ -1500,13 +1500,13 @@ _[!UICONTROL Équilbreur de charge de travail]_
 
 Lorsque l’utilisateur tente de modifier un filtre dans l’[!UICONTROL équilibreur de charge de travail], le créateur de filtres ne s’ouvre pas.
 
-Le lien **&quot;[!UICONTROL Voir toutes les notifications]&quot; dans les notifications par e-mail ne renvoie pas vers la bonne page**
+Le lien **« [!UICONTROL Voir toutes les notifications] » dans les notifications par e-mail ne renvoie pas vers la bonne page**
 
 _Notifications par e-mail_
 
-Lorsque l’utilisateur clique sur le lien &quot;[!UICONTROL Voir toutes les notifications]&quot; dans une notification envoyée par e-mail, il est dirigé vers une page contenant le message suivant :
+Lorsque l’utilisateur clique sur le lien « [!UICONTROL Voir toutes les notifications] » dans une notification envoyée par e-mail, il est dirigé vers une page contenant le message suivant :
 
-&quot;[!UICONTROL L’utilisateur n’existe plus. L’adresse Web est peut-être mal orthographiée. Vérifiez-la, puis tentez d’y accéder à nouveau.]&quot;
+« [!UICONTROL L’utilisateur n’existe plus. L’adresse Web est peut-être mal orthographiée. Vérifiez-la, puis tentez d’y accéder à nouveau.] »
 
 **L’utilisateur n’est pas redirigé vers le commentaire de l’épreuve dans lequel il est identifié.**
 
@@ -1568,7 +1568,7 @@ Erreur de **[!UICONTROL partage de document] lors de la suppression de projets**
 
 _Projets_
 
-Lorsque l’utilisateur avec un statut d’administrateur système a accès à un projet qui a été copié et tente de le supprimer ou de supprimer un document du projet, il ne peut pas supprimer l’objet et l’erreur &quot;[!UICONTROL Partage de documents avec valeur(s) de clé primaire introuvable.]&quot; s’affiche.
+Lorsque l’utilisateur avec un statut d’administrateur système a accès à un projet qui a été copié et tente de le supprimer ou de supprimer un document du projet, il ne peut pas supprimer l’objet et l’erreur « [!UICONTROL Partage de documents avec valeur(s) de clé primaire introuvable.] » s’affiche.
 
 **Le rapport d’utilisateur n’applique pas tous les filtres**
 
@@ -1602,13 +1602,13 @@ Nous avons supprimé la case à cocher à gauche des noms de demande dans la Lis
 
 _Documents_
 
-Lorsque l’utilisateur dans la nouvelle expérience [!DNL Workfront] clique sur certains liens de document, il ne peut pas accéder au document et le message d’erreur suivant apparaît : &quot;[!UICONTROL Le document n’existe plus. L’adresse Web est peut-être mal orthographiée. Vérifiez-la, puis tentez d’y accéder à nouveau.]&quot;. La même erreur se produit avec le lien [!UICONTROL Afficher les détails] dans les notifications par e-mail concernant les épreuves.
+Lorsque l’utilisateur dans la nouvelle expérience [!DNL Workfront] clique sur certains liens de document, il ne peut pas accéder au document et le message d’erreur suivant apparaît : « [!UICONTROL Le document n’existe plus. L’adresse Web est peut-être mal orthographiée. Vérifiez-la, puis tentez d’y accéder à nouveau.] ». La même erreur se produit avec le lien [!UICONTROL Afficher les détails] dans les notifications par e-mail concernant les épreuves.
 
 +++
 
 +++**Mise à jour de maintenance de Workfront Fusion le 16 février 2021**
 
-**[!DNL Workfront Fusion]Les fuseaux horaires affichés dans la version 2.0 sont inexacts**
+**[!DNL Workfront Fusion] Les fuseaux horaires affichés dans la version 2.0 sont inexacts**
 
 _Scénarios_
 
@@ -1640,7 +1640,7 @@ Lorsque l’utilisateur tente de modifier un champ Rich Text sur la ligne, il ne
 
 +++**Mise à jour de maintenance le 4 février 2021**
 
-**Les rapports exportés affichent l’image de marque [!DNL Workfront Classic]**
+**Les rapports exportés affichent l’image de [!DNL Workfront Classic] marque**
 
 _Rapports_
 
@@ -1653,11 +1653,11 @@ Lorsque l’utilisateur dans la nouvelle expérience Workfront exporte un rappor
 
 +++**Mise à jour de maintenance le 28 janvier 2021**
 
-**Les commentaires n’indiquent pas &quot;[!UICONTROL Au nom de]&quot;**
+**Les commentaires n’indiquent pas « [!UICONTROL Au nom de] »**
 
 _Mises à jour_
 
-Lorsque l’administrateur de [!DNL Workfront] se connecte en tant qu’autre utilisateur et répond à un commentaire dans la zone [!UICONTROL Mises à jour] d’un objet, le texte &quot;[!UICONTROL Au nom de]&quot; ne s’affiche pas avant le nom d’utilisateur.
+Lorsque l’administrateur de [!DNL Workfront] se connecte en tant qu’autre utilisateur et répond à un commentaire dans la zone [!UICONTROL Mises à jour] d’un objet, le texte « [!UICONTROL Au nom de] » ne s’affiche pas avant le nom d’utilisateur.
 
 **Impossible de joindre un document**
 
@@ -1675,7 +1675,7 @@ Lorsque l’utilisateur dans la nouvelle expérience [!DNL Workfront] ouvre le [
 
 _Projets_
 
-Lors de l’utilisation d’un processus d’approbation à usage unique pour un projet dans la nouvelle expérience [!DNL Workfront], celui-ci s’affiche désormais sous la forme &quot;[!UICONTROL Processus de validation à usage unique]&quot; au lieu de &quot;\&lt;Personnalisé\>&quot; dans la zone de texte [!UICONTROL Modifier le projet]. Cette option n’est pas encore disponible pour l’ensemble des tâches et des événements.
+Lors de l’utilisation d’un processus d’approbation à usage unique pour un projet dans la nouvelle expérience [!DNL Workfront], celui-ci s’affiche désormais sous la forme « [!UICONTROL Processus de validation à usage unique] » au lieu de « &lt;Personnalisé> » dans la zone de texte [!UICONTROL Modifier le projet]. Cette option n’est pas encore disponible pour l’ensemble des tâches et des événements.
 
 **Amélioration de l’aspect des formulaires personnalisés**
 
@@ -1705,13 +1705,13 @@ _Rapports_
 
 Lorsque l’utilisateur dans la nouvelle expérience [!DNL Workfront] clique sur une barre du graphique d’un rapport, puis sur un en-tête de colonne pour trier manuellement les résultats de ce regroupement, tous les résultats du rapport s’affichent, et non pas uniquement les résultats du regroupement sélectionné en premier lieu.
 
-Modifications du paramètre **&quot;[!UICONTROL Autoriser le partage de l’épreuve par une URL ou un code intégré]&quot;**
+Modifications du paramètre **« [!UICONTROL Autoriser le partage de l’épreuve par une URL ou un code intégré] »**
 
 _[!DNL Workfront Proof]_
 
 Lorsque l’utilisateur crée une épreuve et désélectionne le paramètre [!UICONTROL Autoriser le partage de l’épreuve par une URL ou un code intégré], le paramètre est de nouveau coché une fois l’épreuve générée. Si l’utilisateur ne coche pas la case du paramètre, celle-ci n’est pas cochée après la génération de l’épreuve.
 
-Les utilisateurs de **[!DNL Mac]ne peuvent pas coller de texte dans les champs de texte de la visionneuse d’épreuve**
+Les utilisateurs de **[!DNL Mac] ne peuvent pas coller de texte dans les champs de texte de la visionneuse d’épreuve**
 
 _[!DNL Workfront Proof]_
 
@@ -1725,7 +1725,7 @@ Lorsque l’utilisateur tente de coller du texte dans certains champs de la visi
 
 _Configuration_
 
-Lorsque l’utilisateur tente de mettre à jour les paramètres des notifications par e-mail, il ne peut pas accéder à la zone des [!UICONTROL Notifications par e-mail] et le message d’erreur suivant apparaît : &quot;[!UICONTROL Réessayons. Oups ! Un problème est survenu. Contactez [!DNL Workfront] pour nous aider à comprendre l’erreur et y remédier.]&quot;
+Lorsque l’utilisateur tente de mettre à jour les paramètres des notifications par e-mail, il ne peut pas accéder à la zone des [!UICONTROL Notifications par e-mail] et le message d’erreur suivant apparaît : « [!UICONTROL Réessayons. Oups ! Un problème est survenu. Contactez [!DNL Workfront] pour nous aider à comprendre l’erreur et y remédier.] »
 
 Le **[!UICONTROL graphique Gantt] tronque certains champs**
 
@@ -1737,7 +1737,7 @@ Lorsque l’utilisateur ouvre le [!UICONTROL graphique Gantt] dans certaines zon
 
 _Documents_
 
-Lorsque l’utilisateur dans la nouvelle expérience [!DNL Workfront] tente d’envoyer un document à partir de la page [!UICONTROL Détails du document], le message d’erreur suivant apparaît : &quot;[!UICONTROL Une erreur s’est produite et nous nous efforçons de la résoudre. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.]&quot;
+Lorsque l’utilisateur dans la nouvelle expérience [!DNL Workfront] tente d’envoyer un document à partir de la page [!UICONTROL Détails du document], le message d’erreur suivant apparaît : « [!UICONTROL Une erreur s’est produite et nous nous efforçons de la résoudre. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.] »
 
 +++
 
