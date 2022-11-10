@@ -2,15 +2,19 @@
 title: "Bon à tirer Workfront : Impossible d’ouvrir un BAT interactif"
 description: "Lorsqu’un utilisateur tente d’ouvrir un BAT interactif, le BAT ne s’ouvre pas et un message d’erreur s’affiche."
 hidefromtoc: true
-source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
+source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '79'
 ht-degree: 5%
 
 ---
 
 
 # [!DNL Workfront Proof]: Impossible d’ouvrir un BAT interactif
+
+>[!NOTE]
+>
+>Ce problème a été résolu le 10 novembre 2022.
 
 Lorsqu’un utilisateur tente d’ouvrir un BAT interactif, le BAT ne s’ouvre pas et le message suivant s’affiche :
 

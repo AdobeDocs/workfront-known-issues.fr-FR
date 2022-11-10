@@ -3,10 +3,10 @@ title: Problèmes connus dans  [!DNL Adobe Workfront Proof]
 description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
+source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 97%
+source-wordcount: '196'
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Proof]: Impossible d’ouvrir un BAT interactif](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md) | 3 novembre 2022 |
 | [Documents : le lien de demande de document externe mène à la page de connexion](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 20 octobre 2022 |
 
 {style=&quot;table-layout:auto&quot;}

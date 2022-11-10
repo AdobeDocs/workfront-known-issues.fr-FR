@@ -3,10 +3,10 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
+source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
 workflow-type: tm+mt
-source-wordcount: '570'
-ht-degree: 93%
+source-wordcount: '554'
+ht-degree: 94%
 
 ---
 
@@ -40,13 +40,11 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Tâches : Modification en masse de tâches modifie les affectations de tâches](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md) | 7 novembre 2022 |
 | [Listes : Les erreurs de modification en ligne par l’utilisateur ne provoquent pas de messages d’erreur](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 4 novembre 2022 |
 | [Demandes : Impossible d’afficher plus de 100 rubriques de file d’attente sur une page](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 4 novembre 2022 |
 | [Projets : Problèmes de performance et message d’erreur lors de la création d’un projet à partir d’un modèle](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 27 octobre 2022 |
 | [Documents : le lien de demande de document externe mène à la page de connexion](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 20 octobre 2022 |
 | [Navigation : impossible d’épingler des objets](known-issues-workfront/wf-navigation-cannot-pin-objects.md) | 19 octobre 2022 |
-| [Programmes : problèmes lors de l’affectation d’un [!UICONTROL propriétaire de programme]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md) | 17 octobre 2022 |
 | [Rapports : l’option « Déplacer vers » n’est pas disponible dans les rapports d’événement](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | 13 octobre 2022 |
 | [Formulaires personnalisés : erreur « Oups » lors de la configuration d’un champ calculé](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 13 octobre 2022 |
 | [Tâches : les heures ne sont pas enregistrées lors de la saisie des heures dans le panneau [!UICONTROL Résumé de la tâche]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 30 septembre 2022 |

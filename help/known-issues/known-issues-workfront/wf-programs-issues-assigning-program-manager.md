@@ -2,15 +2,19 @@
 title: '« Programmes : problèmes lors de l’affectation d’un propriétaire de programme »'
 description: « Lorsqu’un utilisateur crée un programme et affecte un propriétaire de programme, les problèmes décrits dans cet article se produisent. »
 hidefromtoc: true
-source-git-commit: f7685aec7811e8741440479d083ef13922b73327
-workflow-type: ht
-source-wordcount: '95'
-ht-degree: 100%
+source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
+workflow-type: tm+mt
+source-wordcount: '101'
+ht-degree: 94%
 
 ---
 
 
 # Programmes : problèmes lors de l’affectation d’un [!UICONTROL propriétaire de programme]
+
+>[!NOTE]
+>
+>Ce problème a été résolu le 7 novembre 2022.
 
 Lorsqu’un utilisateur crée un programme et affecte un [!UICONTROL propriétaire de programme], les problèmes suivants se produisent :
 

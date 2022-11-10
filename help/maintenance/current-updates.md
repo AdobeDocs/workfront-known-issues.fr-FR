@@ -2,9 +2,9 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
+source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
 workflow-type: tm+mt
-source-wordcount: '15236'
+source-wordcount: '15269'
 ht-degree: 98%
 
 ---
@@ -31,7 +31,13 @@ Pour connaître les mises à jour de maintenance antérieures à 2022, consultez
 
 ## Mises à jour de novembre 2022
 
-+++**Mise à jour de maintenance (planifiée) le 10 novembre 2022**
++++**Mise à jour de maintenance le 10 novembre 2022**
+
+**Modification en masse de tâches modifie les affectations de tâches**
+
+*Tâches*
+
+Lorsqu’un utilisateur modifie en masse un champ pour un ensemble de tâches, les affectations de la première tâche sont appliquées à toutes les tâches. Cela supprime les affectations précédentes.
 
 **Impossible d’ouvrir un BAT interactif**
 
