@@ -3,10 +3,10 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 813e6bb26b612f016ad7df071fa7f6690fe528cf
+source-git-commit: 8a0bd10d95cda709d9d934ef1458bb07fc2f335d
 workflow-type: tm+mt
-source-wordcount: '564'
-ht-degree: 92%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -29,7 +29,6 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 | [Bons à tirer : La génération de BAT est extrêmement lente](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 octobre 2022 |
 | [Demandes : [!UICONTROL Paramètres de la file d’attente des e-mails] non disponibles](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | 27 octobre 2022 |
 | [Épreuves : le résumé d’impression n’affiche pas toutes les pages de l’épreuve](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 octobre 2022 |
-| [Notifications : utilisateurs non avertis lorsqu’ils sont mentionnés ou inclus dans un commentaire](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 29 septembre 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -60,6 +59,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Notifications : utilisateurs non avertis lorsqu’ils sont mentionnés ou inclus dans un commentaire](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 11 novembre 2022 |
 | [API : Impossible de trier les champs dynamiques](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 31 octobre 2022 |
 | [[!UICONTROL Configuration] : Les listes se chargent lentement dans [!UICONTROL Configuration]](known-issues-workfront/wf-setup-lists-load-slowly.md) | 28 octobre 2022 |
 | [Épreuves : l’épreuve n’est pas partagée avec les utilisateurs du workflow de l’épreuve](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18 septembre 2022 |

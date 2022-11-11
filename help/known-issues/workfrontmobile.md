@@ -3,8 +3,8 @@ title: Problèmes connus dans l’application mobile  [!DNL Adobe Workfront]
 description: Problèmes connus et signalés dans l’application mobile  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 9f48d0f8-b4e8-4bd8-b317-ff406e97cb1b
-source-git-commit: 6c17aed35f0124d39c5c5f5807e02ba242fa2801
-workflow-type: ht
+source-git-commit: ea7b66fa2ef7d3a93250c7fe3b3ae804cad3bfb5
+workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ Cette page répertorie les problèmes actuellement identifiés dans l’applicat
 >
 >Pour plus d’informations sur la disponibilité ou les pannes du serveur, consultez [https://status.adobe.com/fr](https://status.adobe.com/fr). Pour plus d’informations sur les problèmes récemment résolus, consultez les [[!DNL Workfront] Mises à jour de maintenance](../maintenance/current-updates.md).
 
-**Il n’existe aucun problème connu pour[!DNL Workfront Library]**
+**Il n’existe aucun problème connu pour[!DNL Workfront Mobile]**
 
 <!--
 
