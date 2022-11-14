@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
-source-git-commit: f5646872d94a95986ff2cada3024dc4f8318f859
+source-git-commit: 7d6683758d76de8d31048f6f0657d45ea9fd5fe1
 workflow-type: tm+mt
-source-wordcount: '1616'
-ht-degree: 94%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Bons à tirer : La synthèse d’impression n’affiche pas la miniature de l’image.](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
       + [Intégrations : [!UICONTROL Calendrier d’accueil] affiche les événements une heure plus tard que [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
       + [Modèles de mise en page : Le masquage d’un élément masque l’élément incorrect.](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
       + [Tâches : Modification en masse de tâches modifie les affectations de tâches](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)

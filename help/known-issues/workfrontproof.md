@@ -3,10 +3,10 @@ title: Problèmes connus dans  [!DNL Adobe Workfront Proof]
 description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
+source-git-commit: 7d6683758d76de8d31048f6f0657d45ea9fd5fe1
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,7 +24,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| Aucun |  |
+| [Bons à tirer : [!UICONTROL Résumé de l’impression] n’affiche pas la miniature de l’image](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md) | 14 novembre 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 
