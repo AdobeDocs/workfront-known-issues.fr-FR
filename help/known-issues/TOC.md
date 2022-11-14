@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
-source-git-commit: 7d6683758d76de8d31048f6f0657d45ea9fd5fe1
+source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1653'
+ht-degree: 92%
 
 ---
 
@@ -16,6 +16,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Rapports : Erreur &quot;Ouvre&quot; lors de l’ajout d’un nouveau problème à un rapport de problème](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
+      + [Rapports : Le graphique en combinaison affiche deux fois les mêmes données.](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md)
+      + [Bons à tirer : L’ajout d’un message personnalisé entraîne un problème dans la visionneuse de BAT.](known-issues-workfront/wf-proofs-cannot-add-custom-message.md)
       + [Bons à tirer : La synthèse d’impression n’affiche pas la miniature de l’image.](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
       + [Intégrations : [!UICONTROL Calendrier d’accueil] affiche les événements une heure plus tard que [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
       + [Modèles de mise en page : Le masquage d’un élément masque l’élément incorrect.](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)

@@ -1,11 +1,11 @@
 ---
-title: ""
-description: ""
+title: "Bons à tirer : [!UICONTROL Résumé de l’impression] n’affiche pas la miniature de l’image"
+description: "Lorsqu’un utilisateur affiche la variable [!UICONTROL Résumé de l’impression] page d’un BAT dans [!DNL Workfront], la miniature du BAT ne s’affiche pas. Une simple image d’espace réservé apparaît à la place."
 hidefromtoc: true
-source-git-commit: 7d6683758d76de8d31048f6f0657d45ea9fd5fe1
+source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '72'
+ht-degree: 5%
 
 ---
 
