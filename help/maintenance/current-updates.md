@@ -2,9 +2,9 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
+source-git-commit: ffd3cb1f7e355af7fd568a33c7ca205031633276
 workflow-type: tm+mt
-source-wordcount: '15269'
+source-wordcount: '15307'
 ht-degree: 98%
 
 ---
@@ -30,6 +30,17 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2022.
 Pour connaître les mises à jour de maintenance antérieures à 2022, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
 
 ## Mises à jour de novembre 2022
+
++++**Mise à jour de maintenance (prévue) le 17 novembre 2022**
+
+**Le masquage d’un élément masque l’élément incorrect.**
+
+*Modèles de mise en page*
+
+Lorsqu’un utilisateur modifie le fait qu’un élément soit masqué ou affiché, ces modifications sont répercutées sur un autre élément du modèle de mise en page.
+
+
++++
 
 +++**Mise à jour de maintenance le 10 novembre 2022**
 
