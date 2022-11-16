@@ -1,31 +1,30 @@
 ---
-title: "Workfront : Erreur 500 lors de la modification d’un objet Workfront"
-description: "Lorsqu’un utilisateur tente d’apporter des modifications à un objet Workfront, les modifications ne sont pas enregistrées et une erreur s’affiche"
+title: '« Workfront : Erreur 500 lors de la modification d’un objet Workfront »'
+description: Lorsqu’un utilisateur tente d’apporter des modifications à un objet Workfront, les modifications ne sont pas enregistrées et l’utilisateur voit une erreur
 hidefromtoc: true
-source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
-workflow-type: tm+mt
+exl-id: 67c686a8-3c4f-48c2-a120-eca27816a367
+source-git-commit: 66e3bc22d8aef2d6287161f4a13fbbe0f3ac99c8
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
-
-# [!DNL Workfront]: Erreur 500 lors de la modification d’une [!DNL Workfront] objet
+# [!DNL Workfront] : Erreur 500 lors de la modification d’un objet [!DNL Workfront]
 
 >[!NOTE]
 >
 >Ce problème a été résolu le 4 novembre 2022.
 
-Lorsqu’un utilisateur tente d’apporter des modifications à une [!DNL Workfront] , les modifications ne sont pas enregistrées et l’utilisateur voit l’erreur suivante :
+Lorsqu’un utilisateur tente d’apporter des modifications à un objet [!DNL Workfront], les modifications ne sont pas enregistrées et l’utilisateur voit l’erreur suivante :
 
-&quot;[!UICONTROL 500 : Erreur de base de données en raison d’une instruction SQL non valide.]&quot;
+« [!UICONTROL 500 : Erreur de base de données en raison d’une déclaration SQL non valide.] »
 
-Cela a été signalé dans les situations suivantes :
+Les situations suivantes sont concernées :
 
-* Modification de l’état d’un objet
+* Modification du statut d’un objet
 * Recalcul des chronologies
 * Ajout d’un modèle
-* Temps de journalisation
+* Heure de connexion
 
 _Premier signalement le 3 novembre 2022._
-
