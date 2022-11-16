@@ -1,18 +1,17 @@
 ---
-title: "Workfront Fusion : Les éléments de tableau du module Itérateur s’affichent sous forme d’objet Objet"
-description: "Lorsqu’un utilisateur consulte un module d’itérateur, les éléments du tableau s’affichent sous la forme d’objet Object. Cela peut se produire même si les éléments du tableau s’affichaient correctement lors d’une consultation antérieure."
+title: '« Workfront Fusion : Les éléments de tableau du module Itérateur s’affichent sous la forme d’un objet Object »'
+description: Lorsqu’un utilisateur consulte un module Itérateur, les éléments du tableau s’affichent sous la forme d’un objet Object. Cela peut se produire même lorsque les éléments du tableau se sont affichés correctement lorsqu’ils ont été consultés antérieurement.
 hidefromtoc: true
-source-git-commit: e7bfb61054250c1eaf92c15f07316b37cc50a01a
-workflow-type: tm+mt
+exl-id: 94cab740-6e04-41a6-85c7-d7755b6bae7e
+source-git-commit: 66e3bc22d8aef2d6287161f4a13fbbe0f3ac99c8
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
+# [!DNL Workfront Fusion] : Les éléments de tableau du module [!UICONTROL Itérateur] s’affichent sous la forme d’un « [!UICONTROL objet Object] »
 
-# [!DNL Workfront Fusion]: Éléments de tableau dans [!UICONTROL Itérateur] s’affiche comme suit :[!UICONTROL objet]&quot;
-
-Lorsqu’un utilisateur affiche une [!UICONTROL Itérateur] module, les éléments du tableau s’affichent sous la forme &quot;[!UICONTROL objet].&quot; Cela peut se produire même lorsque les éléments du tableau s’affichaient correctement lorsqu’ils étaient consultés antérieurement.
+Lorsqu’un utilisateur consulte un module [!UICONTROL Itérateur], les éléments du tableau s’affichent sous la forme d’un « [!UICONTROL objet Object] ». Cela peut se produire même lorsque les éléments du tableau se sont affichés correctement lorsqu’ils ont été consultés antérieurement.
 
 _Premier signalement le 13 octobre 2022._
-
