@@ -3,9 +3,9 @@ title: '« Rapports : les informations d’utilisation des rapports ne sont pa
 description: « Lorsqu’un utilisateur affiche un rapport, les informations relatives à la dernière consultation, telles que date de dernière consultation et Affiché en dernier par, ne sont pas mises à jour. Cela signifie que toutes les informations d’utilisation peuvent être incorrectes. »
 hidefromtoc: true
 source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '115'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
