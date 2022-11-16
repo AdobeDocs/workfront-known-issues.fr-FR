@@ -1,16 +1,16 @@
 ---
-title: "Tâches : Modification en masse de tâches qui modifie les affectations de tâches"
-description: "Lorsqu’un utilisateur modifie en masse un champ pour un ensemble de tâches, les affectations de la première tâche sont appliquées à toutes les tâches. Cela supprime les affectations précédentes."
+title: '« Tâches : La modification en masse de tâches modifie les affectations de tâches »'
+description: « Lorsqu’un utilisateur modifie en masse un champ pour un ensemble de tâches, les affectations de la première tâche sont appliquées à toutes les tâches. Cela supprime les affectations précédentes. »
 hidefromtoc: true
 source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
 workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# Tâches : Modification en masse de tâches modifie les affectations de tâches
+# Tâches : La modification en masse de tâches modifie les affectations de tâches
 
 >[!NOTE]
 >

@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 6fb8c92089c56f00825ab27f6c92ed9335380a4f
 workflow-type: tm+mt
 source-wordcount: '629'
-ht-degree: 83%
+ht-degree: 89%
 
 ---
 
@@ -26,8 +26,8 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 | -----------------------------------------------------------------| ----------------- |
 | [Bons à tirer : [!UICONTROL Résumé de l’impression] n’affiche pas la miniature de l’image](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md) | 14 novembre 2022 |
 | [Intégrations : [!UICONTROL Calendrier d’accueil] affiche les événements une heure plus tard que [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) | 11 novembre 2022 |
-| [Agile : La tâche a un ordre de non-retour Kanban égal à 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 7 novembre 2022 |
-| [Demandes : Message &quot;Ouvre&quot; lors de la modification de la file d’attente des demandes](known-issues-workfront/wf-requests-error-message-when-editing-queue.md) | 2 novembre 2022 |
+| [Agile : La tâche a un ordre de backlog Kanban égal à 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 7 novembre 2022 |
+| [Demandes : Message « Ooops » lors de la modification de la file d’attente des demandes](known-issues-workfront/wf-requests-error-message-when-editing-queue.md) | 2 novembre 2022 |
 | [Bons à tirer : La génération de BAT est extrêmement lente](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 octobre 2022 |
 | [Demandes : [!UICONTROL Paramètres de la file d’attente des e-mails] non disponibles](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | 27 octobre 2022 |
 | [Épreuves : le résumé d’impression n’affiche pas toutes les pages de l’épreuve](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 octobre 2022 |
@@ -46,7 +46,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [Rapports : Le graphique en combinaison affiche deux fois les mêmes données.](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md) | 14 novembre 2022 |
 | [Bons à tirer : L’ajout d’un message personnalisé entraîne un problème dans la visionneuse de BAT.](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 14 novembre 2022 |
 | [Modèles de mise en page : Le masquage d’un élément masque l’élément incorrect.](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md) | 10 novembre 2022 |
-| [Listes : Les erreurs de modification en ligne par l’utilisateur ne provoquent pas de messages d’erreur](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 4 novembre 2022 |
+| [Listes : Les erreurs de modification en ligne par l’utilisateur ne provoquent pas de messages d’erreur](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 4 novembre 2022 |
 | [Demandes : Impossible d’afficher plus de 100 rubriques de file d’attente sur une page](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 4 novembre 2022 |
 | [Projets : Problèmes de performance et message d’erreur lors de la création d’un projet à partir d’un modèle](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 27 octobre 2022 |
 | [Documents : le lien de demande de document externe mène à la page de connexion](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 20 octobre 2022 |
