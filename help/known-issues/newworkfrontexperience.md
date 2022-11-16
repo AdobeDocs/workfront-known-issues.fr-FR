@@ -3,10 +3,10 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
+source-git-commit: 6fb8c92089c56f00825ab27f6c92ed9335380a4f
 workflow-type: tm+mt
-source-wordcount: '615'
-ht-degree: 85%
+source-wordcount: '629'
+ht-degree: 83%
 
 ---
 
@@ -41,6 +41,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Formulaires personnalisés : &quot;[!UICONTROL Expression personnalisée non valide]&quot; message lors de la référence à &quot;[!UICONTROL propriétaire]&quot; dans un champ calculé](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 15 novembre 2022 |
 | [Rapports : Erreur &quot;Ouvre&quot; lors de l’ajout d’un nouveau problème à un rapport de problème](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 novembre 2022 |
 | [Rapports : Le graphique en combinaison affiche deux fois les mêmes données.](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md) | 14 novembre 2022 |
 | [Bons à tirer : L’ajout d’un message personnalisé entraîne un problème dans la visionneuse de BAT.](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 14 novembre 2022 |
