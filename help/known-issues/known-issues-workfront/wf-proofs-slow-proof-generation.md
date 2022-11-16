@@ -3,7 +3,7 @@ title: '« Bons à tirer : La génération de BAT est extrêmement lente »'
 description: « Lorsqu’un utilisateur tente d’ajouter un BAT à un élément de travail Workfront via l’option Ajouter un nouveau BAT > Bon à tirer, à l’aide d’un workflow automatisé, la génération du BAT prend plusieurs minutes. »
 hidefromtoc: true
 source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
 ht-degree: 100%
 
