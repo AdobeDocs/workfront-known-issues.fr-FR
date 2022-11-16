@@ -1,12 +1,12 @@
 ---
-title: 'Formulaires personnalisés : La fonction HOUR des champs calculés utilise UTC'
+title: '« Formulaires personnalisés : La fonction HEURE dans les champs calculés utilise le format UTC. »'
 description: Lorsqu’un champ calculé inclut la fonction HEURE, celle-ci renvoie des valeurs en fonction du fuseau horaire UTC plutôt que du fuseau horaire attendu. Par conséquent, tous les calculs basés sur la fonction HEURE sont incorrects.
 hidefromtoc: true
 exl-id: f4f9fb6e-6226-4603-9518-4c935a644039
 source-git-commit: 66e3bc22d8aef2d6287161f4a13fbbe0f3ac99c8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
