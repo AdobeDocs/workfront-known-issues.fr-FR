@@ -3,7 +3,7 @@ title: '« Notifications : les utilisateurs ne reçoivent pas de notification 
 description: « Lorsqu’un utilisateur est mentionné ou inclus dans un commentaire ou une mise à jour sur le flux de mise à jour d’un objet, il pourrait ne pas recevoir la notification par e-mail ou in-app corrspondante. »
 hidefromtoc: true
 source-git-commit: 8a0bd10d95cda709d9d934ef1458bb07fc2f335d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '118'
 ht-degree: 100%
 
