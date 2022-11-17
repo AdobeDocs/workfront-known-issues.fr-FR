@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ffd3cb1f7e355af7fd568a33c7ca205031633276
+source-git-commit: 4934cd2daca87cbc3b1df7914a0e38969e22e061
 workflow-type: tm+mt
-source-wordcount: '15307'
-ht-degree: 98%
+source-wordcount: '15306'
+ht-degree: 99%
 
 ---
 
@@ -31,11 +31,11 @@ Pour connaître les mises à jour de maintenance antérieures à 2022, consultez
 
 ## Mises à jour de novembre 2022
 
-+++**Mise à jour de maintenance (prévue) le 17 novembre 2022**
++++**Mise à jour de maintenance le 17 novembre 2022**
 
 **Le masquage d’un élément masque l’élément incorrect.**
 
-*Modèles de mise en page*
+*Modèles de disposition*
 
 Lorsqu’un utilisateur modifie le fait qu’un élément soit masqué ou affiché, ces modifications sont répercutées sur un autre élément du modèle de mise en page.
 
@@ -54,13 +54,13 @@ Lorsqu’un utilisateur modifie en masse un champ pour un ensemble de tâches, l
 
 *Épreuve Workfront*
 
-Lorsqu’un utilisateur tente d’ouvrir un BAT interactif, le BAT ne s’ouvre pas et le message suivant s’affiche :
+Lorsque l’utilisateur tente d’ouvrir un BAT interactif, celui-ci ne s’ouvre pas et le message suivant apparaît :
 
-&quot;[!UICONTROL Bon à tirer non chargé (501) Réessayer]&quot;
+« [!UICONTROL BAT non chargé (501) Réessayer] »
 
 +++
 
-+++**Mise à jour de maintenance (correctif) le 4 novembre 2022**
++++**Mise à jour de maintenance (correctif) le 4 novembre 2022**
 
 **Problèmes avec des tâches ajoutées à une itération**
 
@@ -73,7 +73,7 @@ Les problèmes suivants ont été signalés concernant des événements ajoutés
 
    « [!UICONTROL L’erreur suivante s’est produite : aucun des éléments suivants n’a pu être déplacé parce qu’ils ne sont pas affectés à une équipe Agile ou ne sont pas des éléments Agile.] »
 
-**Les tâches affectées par la modification en masse n’apparaissent pas dans le journal des tâches de l’équipe**
+**Les tâches affectées au moyen de la modification en bloc n’apparaissent pas dans la liste d’attente de l’équipe.**
 
 *Agile*
 
@@ -81,13 +81,13 @@ Lorsqu’un utilisateur affecte des tâches à une équipe de Scrum en utilisant
 
 Les équipes de Kanban ne sont pas affectées par ce problème.
 
-**&quot;[!UICONTROL Nouveaux destinataires de BAT]&quot; La zone de texte est trop petite**
+**La zone de texte « [!UICONTROL Nouveaux destinataires du BAT] » est trop petite**
 
-*Épreuves*
+*BAT*
 
 Lorsqu’un utilisateur consulte une épreuve et tente de la partager à partir de l’onglet [!UICONTROL Partage], la zone de texte « [!UICONTROL Nouveaux destinataires de l’épreuve] » est trop petite. L’utilisateur peut saisir un nom, mais en raison de la petite taille de la zone de texte, le texte est, mais en raison de la petite taille de la boîte, le texte est illisible.
 
-**Les informations d’utilisation des rapports ne sont pas mises à jour**
+**Les informations sur l’utilisation des rapports ne sont pas mises à jour**
 
 *Rapports*
 
@@ -102,44 +102,44 @@ Ce comportement a été signalé lorsque l’utilisateur accède au rapport des 
 
 L’accès aux rapports via un tableau de bord met à jour les informations relatives à la dernière consultation.
 
-**[!DNL Workfront]: Erreur 500 lors de la modification d’une [!DNL Workfront] objet**
+**[!DNL Workfront] : Erreur 500 lors de la modification d’un objet [!DNL Workfront]**
 
 *[!DNL Workfront]*
 
-Lorsqu’un utilisateur tente d’apporter des modifications à une [!DNL Workfront] , les modifications ne sont pas enregistrées et l’utilisateur voit l’erreur suivante :
+Lorsqu’un utilisateur tente d’apporter des modifications à un objet [!DNL Workfront], les modifications ne sont pas enregistrées et l’utilisateur voit l’erreur suivante :
 
-&quot;[!UICONTROL 500 : Erreur de base de données en raison d’une instruction SQL non valide.]&quot;
+« [!UICONTROL 500 : Erreur de base de données en raison d’une déclaration SQL non valide.] »
 
-Cela a été signalé dans les situations suivantes :
+Les situations suivantes sont concernées :
 
-* Modification de l’état d’un objet
+* Modification du statut d’un objet
 * Recalcul des chronologies
 * Ajout d’un modèle
-* Temps de journalisation
+* Heure de connexion
 
 +++
 
 +++**[!DNL Workfront Fusion]Mise à jour de maintenance le 3 novembre 2022**
 
-**Erreur concernant [!UICONTROL apiKey] in [!DNL Workfront] > [!UICONTROL Événements de contrôle] module**
+**Erreur concernant [!UICONTROL apiKey] dans le module [!DNL Workfront] > [!UICONTROL Événements Espion]**
 
 *[!DNL Workfront Fusion]*
 
-Lorsqu’un utilisateur tente d’ajouter un webhook dans la variable [!DNL Workfront] > [!UICONTROL Événements de contrôle] , ils reçoivent l’erreur suivante :
+Lorsqu’un utilisateur tente d’ajouter un webhook dans le module [!DNL Workfront] > [!UICONTROL Événements Espion], il reçoit l’erreur suivante :
 
-&quot;[!UICONTROL L’apiKey fourni était vide ou considéré comme non valide.]&quot;
+« [!UICONTROL L’apiKey fourni était vide ou est considéré comme non valide.] »
 
 +++
 
 +++**Mise à jour de maintenance le 3 novembre 2022**
 
-**Renommez les sections &quot;Planification&quot; et &quot;Planification&quot; pour les équipes et les projets dans le modèle de mise en page.**
+**Renommez les sections « Planifier » et « Planification » pour les équipes et les projets dans le modèle de disposition.**
 
-*Modèles de mise en page*
+*Modèles de disposition*
 
-Les onglets &quot;Planification&quot; et &quot;Planification&quot; disponibles pour l’ajout dans un modèle de mise en page au panneau de gauche d’une équipe ou d’un projet ont été renommés &quot;Équilibreur de charge de travail&quot;.
+Les onglets « Planifier » et « Planification » disponibles pouvant être ajoutés dans un modèle de disposition au panneau de gauche d’une équipe ou d’un projet ont été renommés « Équilibreur de charge de travail ».
 
-**Erreurs lors de l’accès aux paramètres de notification électronique**
+**Erreurs lors de l’accès aux paramètres de notification par e-mail**
 
 *Notifications*
 
@@ -191,7 +191,7 @@ Si un utilisateur tente de réépingler la page en accédant à la page et en l�
 
 **Tous les utilisateurs répertoriés dans [!UICONTROL Équilibreur de charge de travail] lors de l’utilisation d’un lien partageable dans le [!DNL Safari] navigateur**
 
-*[!UICONTROL Équilbreur de charge de travail]*
+*[!UICONTROL Équilibreur de charge de travail]*
 
 Lorsqu’un utilisateur suit un lien partageable vers l’[!UICONTROL Équilibreur de charge de travail] lors de l’utilisation d’un navigateur [!DNL Safari], il voit tous les utilisateurs plutôt que seulement les membres de l’équipe répertoriés.
 
@@ -434,7 +434,7 @@ Les champs d’affectation temporairement renommés la semaine dernière ont ret
 
 *Projets*
 
-Lorsque l’utilisateur tente de supprimer un [!UICONTROL Propriétaire de projet] dans l’en-tête d’un projet, il n’y parvient pas et le message d’erreur suivant apparaît :
+Lorsque l’utilisateur tente de supprimer un [!UICONTROL Propriétaire de projet] dans l’en-tête d’un [!UICONTROL projet], il n’y parvient pas et le message d’erreur suivant apparaît :
 
 `422: Invalid Parameter: ownerID value "null" /attask/api-internal/PROJ/<project ID>`
 
@@ -1621,7 +1621,7 @@ Lorsque l’utilisateur tente d’ajouter un formulaire personnalisé interobjet
 
 Lorsque l’utilisateur tente d’affecter un autre utilisateur à une tâche dans l’[!UICONTROL équilibreur de charge de travail] et que la tâche est affectée à une fonction autre que la fonction principale de l’utilisateur affecté, l’utilisateur est affecté à la tâche d’après sa fonction principale, et le message suivant s’affiche :
 
-« &lt;Nom> ne convient pas au rôle de l’affectation &lt;Affectation de rôle de tâche>. 1 élément de travail actuellement affecté au rôle &lt;\Affectation de rôle de tâche> sera affecté à &lt;Nom> en tant que &lt;Fonction principale>. »
+« &lt;Nom> ne convient pas au rôle de l’affectation &lt;Affectation de rôle de tâche>. 1 élément de travail actuellement affecté au rôle &lt;Affectation de rôle de tâche> sera affecté à &lt;Nom> en tant que &lt;Fonction principale>. »
 
 Cela se produit même si l’utilisateur possède la fonction de l’affectation de rôle de tâche en tant que fonction secondaire.
 
