@@ -2,9 +2,9 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 4934cd2daca87cbc3b1df7914a0e38969e22e061
+source-git-commit: fdf641bd38d05d6b8abac133daa3118d2c0fff3a
 workflow-type: tm+mt
-source-wordcount: '15306'
+source-wordcount: '15397'
 ht-degree: 99%
 
 ---
@@ -32,6 +32,12 @@ Pour connaître les mises à jour de maintenance antérieures à 2022, consultez
 ## Mises à jour de novembre 2022
 
 +++**Mise à jour de maintenance le 17 novembre 2022**
+
+**Documents placés dans la variable [!UICONTROL Corbeille] s’il est désélectionné lors du déplacement d’une tâche ou d’un problème**
+
+*Documents*
+
+Maintenant, lorsque vous désélectionnez l’option [!UICONTROL Documents] dans le processus de déplacement d’une tâche ou d’un problème, les documents associés à la tâche ou le problème seront placés dans la [!UICONTROL Corbeille] pendant 30 jours. Si nécessaire, un administrateur peut les restaurer. L’utilisateur qui désélectionne Documents dans le processus de déplacement recevra un avertissement à propos de ce comportement dans la variable [!UICONTROL Déplacer la tâche] ou [!UICONTROL Problème de déplacement] de la boîte. Avant cette amélioration, les documents étaient supprimés définitivement.
 
 **Le masquage d’un élément masque l’élément incorrect.**
 
