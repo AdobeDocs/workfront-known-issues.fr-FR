@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
-source-git-commit: 67b9557b2284ee1089d5e5ecb8ba246cd5363ad8
+source-git-commit: c46af0adbbb427a8acc7ba0833f7332f3455f9d3
 workflow-type: tm+mt
-source-wordcount: '1679'
-ht-degree: 95%
+source-wordcount: '1691'
+ht-degree: 94%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Bons à tirer : Les bons à tirer s’affichent dans la visionneuse de bons à tirer moins clairement que l’image d’origine.](known-issues-workfront/wf-proofs-are-blurry.md)
       + [Formulaires personnalisés : &quot;[!UICONTROL Vous ne disposez pas d’un accès suffisant.]&quot; erreur lors de la modification d’un formulaire personnalisé](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)
       + [Formulaires personnalisés : &quot;[!UICONTROL Expression personnalisée non valide]&quot; message lors de la référence à &quot;[!UICONTROL propriétaire]&quot; dans un champ calculé](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)
       + [Rapports : Erreur &quot;Ouvre&quot; lors de l’ajout d’un nouveau problème à un rapport de problème](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)

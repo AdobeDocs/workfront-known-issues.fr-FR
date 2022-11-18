@@ -3,10 +3,10 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 4934cd2daca87cbc3b1df7914a0e38969e22e061
+source-git-commit: c46af0adbbb427a8acc7ba0833f7332f3455f9d3
 workflow-type: tm+mt
-source-wordcount: '633'
-ht-degree: 88%
+source-wordcount: '646'
+ht-degree: 86%
 
 ---
 
@@ -24,6 +24,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bons à tirer : Les bons à tirer s’affichent dans la visionneuse de bons à tirer moins clairement que l’image d’origine.](known-issues-workfront/wf-proofs-are-blurry.md) | 18 novembre 2022 |
 | [Formulaires personnalisés : &quot;[!UICONTROL Vous ne disposez pas d’un accès suffisant.]&quot; erreur lors de la modification d’un formulaire personnalisé](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 16 novembre 2022 |
 | [Bons à tirer : [!UICONTROL Résumé de l’impression] n’affiche pas la miniature de l’image](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md) | 14 novembre 2022 |
 | [Intégrations : [!UICONTROL Calendrier d’accueil] affiche les événements une heure plus tard que [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) | 11 novembre 2022 |
