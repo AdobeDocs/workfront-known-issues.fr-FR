@@ -2,15 +2,19 @@
 title: '« Demandes : Message « Ooops » lors de la modification de la file d’attente des demandes »'
 description: « Lorsqu’un utilisateur modifie une file d’attente des demandes et tente d’enregistrer les modifications, une erreur s’affiche. »
 hidefromtoc: true
-source-git-commit: d2d2ae6585d64cfc68d90c17f72d5ce47f7168ab
-workflow-type: ht
-source-wordcount: '115'
+source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
+workflow-type: tm+mt
+source-wordcount: '121'
 ht-degree: 100%
 
 ---
 
 
 # Demandes : Message « Ooops » lors de la modification de la file d’attente des demandes
+
+>[!NOTE]
+>
+>Ce problème a été résolu le 10 novembre 2022.
 
 Lorsqu’un utilisateur modifie une file d’attente des demandes et tente d’enregistrer les modifications, l’erreur suivante s’affiche :
 

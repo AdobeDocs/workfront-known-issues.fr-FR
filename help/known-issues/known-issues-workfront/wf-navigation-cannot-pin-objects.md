@@ -2,15 +2,19 @@
 title: '« Navigation : impossible d’épingler des objets »'
 description: '« Lorsqu’un utilisateur tente d’épingler un objet dans Workfront, celui-ci n’est pas épinglé et le message suivant s’affiche : Un problème est survenu au moment d’épingler cet élément. Contactez Workfront pour remédier à l’erreur. »'
 hidefromtoc: true
-source-git-commit: 323f4e42b6b0093858542ada3812f9a630bd3a5f
+source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '101'
 ht-degree: 100%
 
 ---
 
 
 # Navigation : impossible d’épingler des objets
+
+>[!NOTE]
+>
+>Ce problème a été résolu le 16 novembre 2022.
 
 Lorsqu’un utilisateur tente d’épingler un objet dans [!DNL Workfront], celui-ci n’est pas épinglé et le message suivant s’affiche :
 
