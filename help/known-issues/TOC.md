@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
-source-git-commit: be498327ea7bb2a49be0fc65e53806ddb217aa8c
+source-git-commit: 94ab02425f64dc53dc62fe32df5fe72b8563b005
 workflow-type: tm+mt
-source-wordcount: '1704'
-ht-degree: 93%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Agile : Erreur lors du déplacement des tâches vers une itération](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
+      + [Feuilles de temps : Utilisateurs désactivés disponibles lors de la sélection de l’approbateur de feuille de temps](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
       + [Formulaires personnalisés : Les formulaires personnalisés multi-objets requièrent [!UICONTROL Gérer] ou [!UICONTROL Modifier] accès aux champs d&#39;édition](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
       + [Bons à tirer : Les bons à tirer s’affichent dans la visionneuse de bons à tirer moins clairement que l’image d’origine.](known-issues-workfront/wf-proofs-are-blurry.md)
       + [Formulaires personnalisés : &quot;[!UICONTROL Vous ne disposez pas d’un accès suffisant.]&quot; erreur lors de la modification d’un formulaire personnalisé](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)

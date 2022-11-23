@@ -3,10 +3,10 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
+source-git-commit: 94ab02425f64dc53dc62fe32df5fe72b8563b005
 workflow-type: tm+mt
-source-wordcount: '621'
-ht-degree: 85%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,6 +24,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Agile : Erreur lors du déplacement des tâches vers une itération](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md) | 23 novembre 2022 |
 | [Bons à tirer : Les bons à tirer s’affichent dans la visionneuse de bons à tirer moins clairement que l’image d’origine.](known-issues-workfront/wf-proofs-are-blurry.md) | 18 novembre 2022 |
 | [Intégrations : [!UICONTROL Calendrier d’accueil] affiche les événements une heure plus tard que [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) | 11 novembre 2022 |
 | [Bons à tirer : La génération de BAT est extrêmement lente](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 octobre 2022 |
@@ -38,6 +39,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Feuilles de temps : Utilisateurs désactivés disponibles lors de la sélection de l’approbateur de feuille de temps](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 23 novembre 2022 |
 | [Formulaires personnalisés : &quot;[!UICONTROL Vous ne disposez pas d’un accès suffisant.]&quot; erreur lors de la modification d’un formulaire personnalisé](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 21 novembre 2022 |
 | [Agile : La tâche a un ordre de backlog Kanban égal à 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 21 novembre 2022 |
 | [Formulaires personnalisés : &quot;[!UICONTROL Expression personnalisée non valide]&quot; message lors de la référence à &quot;[!UICONTROL propriétaire]&quot; dans un champ calculé](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 15 novembre 2022 |
