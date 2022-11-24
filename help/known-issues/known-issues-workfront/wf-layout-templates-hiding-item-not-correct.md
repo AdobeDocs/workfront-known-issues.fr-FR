@@ -1,22 +1,22 @@
 ---
-title: "Modèles de mise en page : Le masquage d’un élément masque l’élément incorrect."
-description: "Lorsqu’un utilisateur modifie le fait qu’un élément soit masqué ou affiché, ces modifications sont répercutées sur un autre élément du modèle de mise en page."
+title: '« Modèle de disposition : le masquage d’un élément ne masque pas le bon élément »'
+description: « Lorsque l’utilisateur affiche ou masque un élément, c’est un autre élément du modèle de mise en page qui est affiché ou masqué. »
 hidefromtoc: true
 source-git-commit: 4934cd2daca87cbc3b1df7914a0e38969e22e061
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 13%
+ht-degree: 100%
 
 ---
 
 
-# Modèles de mise en page : Le masquage d’un élément masque l’élément incorrect.
+# Modèle de disposition : le masquage d’un élément ne masque pas le bon élément
 
 >[!NOTE]
 >
->Ce problème a été résolu le 17 novembre 2022.
+>Ce problème a été résolu le 17 novembre 2022.
 
-Lorsqu’un utilisateur modifie le fait qu’un élément soit masqué ou affiché, ces modifications sont répercutées sur un autre élément du modèle de mise en page.
+Lorsque l’utilisateur affiche ou masque un élément, c’est un autre élément du modèle de mise en page qui est affiché ou masqué.
 
 _Premier signalement le 8 novembre 2022._
 

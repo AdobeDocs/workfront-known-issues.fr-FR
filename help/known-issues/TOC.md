@@ -3,8 +3,8 @@ user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
 source-git-commit: 94ab02425f64dc53dc62fe32df5fe72b8563b005
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1721'
+ht-degree: 96%
 
 ---
 
@@ -21,13 +21,13 @@ ht-degree: 0%
       + [Formulaires personnalisés : Les formulaires personnalisés multi-objets requièrent [!UICONTROL Gérer] ou [!UICONTROL Modifier] accès aux champs d&#39;édition](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
       + [Bons à tirer : Les bons à tirer s’affichent dans la visionneuse de bons à tirer moins clairement que l’image d’origine.](known-issues-workfront/wf-proofs-are-blurry.md)
       + [Formulaires personnalisés : &quot;[!UICONTROL Vous ne disposez pas d’un accès suffisant.]&quot; erreur lors de la modification d’un formulaire personnalisé](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)
-      + [Formulaires personnalisés : &quot;[!UICONTROL Expression personnalisée non valide]&quot; message lors de la référence à &quot;[!UICONTROL propriétaire]&quot; dans un champ calculé](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)
-      + [Rapports : Erreur &quot;Ouvre&quot; lors de l’ajout d’un nouveau problème à un rapport de problème](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
-      + [Rapports : Le graphique en combinaison affiche deux fois les mêmes données.](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md)
-      + [Bons à tirer : L’ajout d’un message personnalisé entraîne un problème dans la visionneuse de BAT.](known-issues-workfront/wf-proofs-cannot-add-custom-message.md)
-      + [Bons à tirer : La synthèse d’impression n’affiche pas la miniature de l’image.](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
-      + [Intégrations : [!UICONTROL Calendrier d’accueil] affiche les événements une heure plus tard que [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
-      + [Modèles de mise en page : Le masquage d’un élément masque l’élément incorrect.](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
+      + [Formulaires personnalisés : un message « [!UICONTROL Expression personnalisée non valide] » apparaît lorsqu’un champ calculé fait référence à un « [!UICONTROL propriétaire] »](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)
+      + [Rapports : erreur de type « Oups » lors de l’ajout d’un nouveau problème à un rapport de problème](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
+      + [Rapports : le graphique combiné affiche les mêmes données en double](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md)
+      + [Épreuves : l’ajout d’un message personnalisé cause un problème dans la visionneuse d’épreuves](known-issues-workfront/wf-proofs-cannot-add-custom-message.md)
+      + [Épreuves : le résumé d’impression n’affiche pas la miniature de l’image](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
+      + [Intégrations : le [!UICONTROL calendrier d’accueil] affiche les événements avec une heure de retard par rapport à  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
+      + [Modèle de disposition : le masquage d’un élément ne masque pas le bon élément](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
       + [Tâches : La modification en masse de tâches modifie les affectations de tâches](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
       + [Agile : La tâche a un ordre de backlog Kanban égal à 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
       + [Tâches : Impossible de modifier la [!UICONTROL Date d’achèvement prévue] d’une tâche](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
