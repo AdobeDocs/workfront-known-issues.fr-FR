@@ -1,18 +1,18 @@
 ---
-title: "Rapports : Le graphique en combinaison affiche deux fois les mêmes données."
-description: "Lorsqu’un utilisateur affiche un graphique en combinaison, le graphique affiche une valeur définie deux fois au lieu de comparer deux jeux de valeurs. Les jeux de valeurs corrects se trouvent dans les détails du rapport."
+title: '« Rapports : le graphique combiné affiche les mêmes données en double »'
+description: « Lorsque l’utilisateur consulte un graphique combiné, celui-ci affiche un ensemble de valeurs en double au lieu de comparer deux ensembles de valeurs. Les ensembles de valeurs corrects se trouvent dans les détails du rapport. »
 hidefromtoc: true
 source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Rapports : Le graphique en combinaison affiche deux fois les mêmes données.
+# Rapports : le graphique combiné affiche les mêmes données en double
 
-Lorsqu’un utilisateur affiche un graphique en combinaison, le graphique affiche une valeur définie deux fois au lieu de comparer deux jeux de valeurs. Les jeux de valeurs corrects se trouvent dans les détails du rapport.
+Lorsque l’utilisateur consulte un graphique combiné, celui-ci affiche un ensemble de valeurs en double au lieu de comparer deux ensembles de valeurs. Les ensembles de valeurs corrects se trouvent dans les détails du rapport.
 
-_Premier signalement le 4 novembre 2022._
+_Premier signalement le 4 novembre 2022._
 
