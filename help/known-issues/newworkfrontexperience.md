@@ -3,10 +3,10 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: f37010ce4fbe9bbbde8f54ae10b511e35fdbe1ac
+source-git-commit: bf8ea112ab3b45cc9aed93caec9a7b62dbbced75
 workflow-type: tm+mt
-source-wordcount: '663'
-ht-degree: 88%
+source-wordcount: '669'
+ht-degree: 87%
 
 ---
 
@@ -24,6 +24,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Feuilles de temps : La feuille de calcul n’est pas générée](known-issues-workfront/wf-timesheets-timesheet-not-generated.md) | 28 novembre 2022 |
 | [Agile : Erreur lors du déplacement des tâches vers une itération](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md) | 23 novembre 2022 |
 | [Bons à tirer : Les bons à tirer s’affichent dans la visionneuse de bons à tirer moins clairement que l’image d’origine.](known-issues-workfront/wf-proofs-are-blurry.md) | 18 novembre 2022 |
 | [Intégrations : le [!UICONTROL calendrier d’accueil] affiche les événements avec une heure de retard par rapport à  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) | 11 novembre 2022 |
