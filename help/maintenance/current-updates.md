@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: fdf641bd38d05d6b8abac133daa3118d2c0fff3a
+source-git-commit: 5fdf05bfe98beb6a51bbc679253898cb1f3f7841
 workflow-type: tm+mt
-source-wordcount: '15397'
-ht-degree: 99%
+source-wordcount: '15666'
+ht-degree: 98%
 
 ---
 
@@ -29,6 +29,56 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2022.
 
 Pour connaître les mises à jour de maintenance antérieures à 2022, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
 
+## Mises à jour de décembre 2022
+
++++**Mise à jour de maintenance (prévue) le 1er décembre 2022**
+
+**La tâche a un ordre de non-retour Kanban égal à 0**
+
+*Agile*
+
+Lorsqu’un utilisateur consulte la liste d’attente d’une équipe Kanban, une ou plusieurs tâches affichent un ordre de backlog de 0.
+
+**&quot;[!UICONTROL Expression personnalisée non valide]&quot; message lors de la référence à &quot;[!UICONTROL propriétaire]&quot; dans un champ calculé**
+
+*Formulaires personnalisés*
+
+Lorsque l’utilisateur ajoute un champ calculé à un formulaire personnalisé au niveau du problème et tente de faire référence à un « [!UICONTROL propriétaire] » (par exemple, `ownerID`), le champ n’est pas enregistré et le message suivant apparaît :
+
+« [!UICONTROL Cette expression client n’est pas valide, veuillez réessayer.] »
+
+Cela se produit même lorsque l’expression est valide.
+
+**Impossible d’accéder aux éléments de [!DNL Workfront for Jira] integration**
+
+*Intégrations*
+
+Les éléments suivants sont actuellement inaccessibles dans la variable [!DNL Workfront for Jira] intégration pour [!DNL Jira Cloud]:
+
+* Le [!UICONTROL Configuration] page
+* Le &quot;[!UICONTROL Ouvrir Workfront]&quot; sur un bouton [!DNL Jira] issue
+
+**L’ajout d’un message personnalisé entraîne un problème dans la visionneuse de BAT.**
+
+*BAT*
+
+Lorsque l’utilisateur partage une épreuve et tente d’ajouter un message personnalisé, voici ce qui se passe :
+
+* La visionneuse d’épreuves effectue un zoom avant sur l’épreuve.
+* Les zones du volet de navigation de gauche ne réagissent plus.
+
+**Utilisateurs désactivés disponibles lors de la sélection de l’approbateur de feuille de temps**
+
+*Feuilles de temps*
+
+Lorsqu’un utilisateur crée une feuille de temps et tente d’affecter un approbateur, la liste déroulante comprend les utilisateurs désactivés. Si un utilisateur désactivé est sélectionné, la feuille de temps n’est pas enregistrée et l’utilisateur voit le message suivant :
+
+« [!UICONTROL Erreur. Désolé ! Seuls les utilisateurs disposant de la licence Plan peuvent approuver ou rejeter les feuilles de temps. Veuillez contacter votre administrateur système.]&quot;
+
+L’utilisateur désactivé ne pouvant pas être affecté, il doit sélectionner un utilisateur activé. La feuille de temps fonctionne donc comme prévu, mais les utilisateurs désactivés dans la liste peuvent prêter à confusion ou gêner l’utilisateur.
+
++++
+
 ## Mises à jour de novembre 2022
 
 +++**Mise à jour de maintenance le 17 novembre 2022**
@@ -39,18 +89,18 @@ Pour connaître les mises à jour de maintenance antérieures à 2022, consultez
 
 Maintenant, lorsque vous désélectionnez l’option [!UICONTROL Documents] dans le processus de déplacement d’une tâche ou d’un problème, les documents associés à la tâche ou le problème seront placés dans la [!UICONTROL Corbeille] pendant 30 jours. Si nécessaire, un administrateur peut les restaurer. L’utilisateur qui désélectionne Documents dans le processus de déplacement recevra un avertissement à propos de ce comportement dans la variable [!UICONTROL Déplacer la tâche] ou [!UICONTROL Problème de déplacement] de la boîte. Avant cette amélioration, les documents étaient supprimés définitivement.
 
-**Le masquage d’un élément masque l’élément incorrect.**
+**Le masquage d’un élément ne masque pas le bon élément**
 
 *Modèles de disposition*
 
-Lorsqu’un utilisateur modifie le fait qu’un élément soit masqué ou affiché, ces modifications sont répercutées sur un autre élément du modèle de mise en page.
+Lorsque l’utilisateur affiche ou masque un élément, c’est un autre élément du modèle de mise en page qui est affiché ou masqué.
 
 
 +++
 
 +++**Mise à jour de maintenance le 10 novembre 2022**
 
-**Modification en masse de tâches modifie les affectations de tâches**
+**La modification en masse de tâches modifie les affectations de tâches**
 
 *Tâches*
 
