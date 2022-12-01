@@ -2,9 +2,9 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 5fdf05bfe98beb6a51bbc679253898cb1f3f7841
+source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
 workflow-type: tm+mt
-source-wordcount: '15666'
+source-wordcount: '15702'
 ht-degree: 98%
 
 ---
@@ -31,7 +31,7 @@ Pour connaître les mises à jour de maintenance antérieures à 2022, consultez
 
 ## Mises à jour de décembre 2022
 
-+++**Mise à jour de maintenance (prévue) le 1er décembre 2022**
++++**Mise à jour de maintenance le 1 décembre 2022**
 
 **La tâche a un ordre de non-retour Kanban égal à 0**
 
@@ -76,6 +76,12 @@ Lorsqu’un utilisateur crée une feuille de temps et tente d’affecter un appr
 « [!UICONTROL Erreur. Désolé ! Seuls les utilisateurs disposant de la licence Plan peuvent approuver ou rejeter les feuilles de temps. Veuillez contacter votre administrateur système.]&quot;
 
 L’utilisateur désactivé ne pouvant pas être affecté, il doit sélectionner un utilisateur activé. La feuille de temps fonctionne donc comme prévu, mais les utilisateurs désactivés dans la liste peuvent prêter à confusion ou gêner l’utilisateur.
+
+**La feuille de calcul n’est pas générée**
+
+*Feuilles de temps*
+
+Les feuilles de temps ne sont pas générées malgré les paramètres de profil de la feuille de temps. Étant donné que la feuille de temps n’est jamais générée, elle n’est pas disponible pour que l’utilisateur saisisse l’heure et elle n’est pas visible sur les listes.
 
 +++
 
