@@ -3,7 +3,7 @@ title: '« Demandes : Message « Ooops » lors de la modification de la file
 description: « Lorsqu’un utilisateur modifie une file d’attente des demandes et tente d’enregistrer les modifications, une erreur s’affiche. »
 hidefromtoc: true
 source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '121'
 ht-degree: 100%
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Ce problème a été résolu le 10 novembre 2022.
+>Ce problème a été résolu le 10 novembre 2022.
 
 Lorsqu’un utilisateur modifie une file d’attente des demandes et tente d’enregistrer les modifications, l’erreur suivante s’affiche :
 
@@ -22,7 +22,7 @@ Lorsqu’un utilisateur modifie une file d’attente des demandes et tente d’e
 
 En outre, l’utilisateur voit le message suivant au bas de la page, près du bouton Enregistrer :
 
-&quot;Impossible d’accéder au service de messagerie de file d’attente de demandes. Veuillez contacter Workfront.&quot;
+« Impossible d’accéder au service de messagerie de file d’attente de demandes. Veuillez contacter Workfront. »
 
 Les modifications apportées à la file d’attente des demandes sont enregistrées malgré le message d’erreur.
 
