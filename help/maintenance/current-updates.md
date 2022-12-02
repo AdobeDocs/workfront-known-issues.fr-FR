@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
 workflow-type: tm+mt
 source-wordcount: '15702'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -71,11 +71,11 @@ Lorsque l’utilisateur partage une épreuve et tente d’ajouter un message per
 
 *Feuilles de temps*
 
-Lorsqu’un utilisateur crée une feuille de temps et tente d’affecter un approbateur, la liste déroulante comprend les utilisateurs désactivés. Si un utilisateur désactivé est sélectionné, la feuille de temps n’est pas enregistrée et l’utilisateur voit le message suivant :
+Lorsque l’utilisateur crée une feuille de temps et tente d’affecter un approbateur, la liste déroulante inclut les utilisateurs désactivés. Si un utilisateur désactivé est sélectionné, la feuille de temps n’est pas enregistrée et le message suivant apparaît :
 
-« [!UICONTROL Erreur. Désolé ! Seuls les utilisateurs disposant de la licence Plan peuvent approuver ou rejeter les feuilles de temps. Veuillez contacter votre administrateur système.]&quot;
+« [!UICONTROL Erreur. Désolé, mais seuls les utilisateurs disposant d’une licence Plan peuvent approuver ou refuser les feuilles de temps. Contactez votre administrateur système.] »
 
-L’utilisateur désactivé ne pouvant pas être affecté, il doit sélectionner un utilisateur activé. La feuille de temps fonctionne donc comme prévu, mais les utilisateurs désactivés dans la liste peuvent prêter à confusion ou gêner l’utilisateur.
+L’utilisateur désactivé ne pouvant pas être affecté, il faut sélectionner un utilisateur activé. La feuille de temps fonctionne donc comme prévu, mais la présence d’utilisateurs désactivés dans la liste peut prêter à confusion ou gêner l’utilisateur.
 
 **La feuille de calcul n’est pas générée**
 
@@ -89,11 +89,11 @@ Les feuilles de temps ne sont pas générées malgré les paramètres de profil 
 
 +++**Mise à jour de maintenance le 17 novembre 2022**
 
-**Documents placés dans la variable [!UICONTROL Corbeille] s’il est désélectionné lors du déplacement d’une tâche ou d’un problème**
+**Les documents sont envoyés dans la [!UICONTROL Corbeille] s’ils sont désélectionnés lorsqu’une tâche ou un problème est déplacé**
 
 *Documents*
 
-Maintenant, lorsque vous désélectionnez l’option [!UICONTROL Documents] dans le processus de déplacement d’une tâche ou d’un problème, les documents associés à la tâche ou le problème seront placés dans la [!UICONTROL Corbeille] pendant 30 jours. Si nécessaire, un administrateur peut les restaurer. L’utilisateur qui désélectionne Documents dans le processus de déplacement recevra un avertissement à propos de ce comportement dans la variable [!UICONTROL Déplacer la tâche] ou [!UICONTROL Problème de déplacement] de la boîte. Avant cette amélioration, les documents étaient supprimés définitivement.
+Lorsque vous désélectionnez l’option [!UICONTROL Documents] pendant le déplacement d’une tâche ou d’un problème, les documents associés à la tâche ou au problème seront désormais envoyés dans la [!UICONTROL Corbeille] pendant 30 jours. Un administrateur peut les restaurer si nécessaire. Si l’option Documents est désélectionnée pendant le déplacement, un message d’avertissement s’affichera à ce propos dans la fenêtre [!UICONTROL Déplacer la tâche] ou [!UICONTROL Déplacer le problème]. Avant cette amélioration, les documents étaient supprimés définitivement.
 
 **Le masquage d’un élément ne masque pas le bon élément**
 
@@ -2366,7 +2366,7 @@ Lorsque l’utilisateur consulte une épreuve dans la zone [!UICONTROL Documents
 
 *[!UICONTROL Équilbreur de charge de travail]*
 
-Si l’utilisateur est indiqué comme suraffecté dans l’[!UICONTROL équilibreur de charge de travail] en raison d’une tâche qui empiète sur son temps de pause et qu’un autre utilisateur consulte sa suraffectation, la zone « [!UICONTROL Capacité] » des informations de suraffectation indique »[!UICONTROL  ?[Objet d’objet] ?] » plutôt que la capacité réelle de l’utilisateur.
+Si l’utilisateur est indiqué comme suraffecté dans l’[!UICONTROL équilibreur de charge de travail] en raison d’une tâche qui empiète sur son temps de pause et qu’un autre utilisateur consulte sa suraffectation, la zone « [!UICONTROL Capacité] » des informations de suraffectation indique « [!UICONTROL  ?[Objet d’objet] ?] » plutôt que la capacité réelle de l’utilisateur.
 
 +++
 
