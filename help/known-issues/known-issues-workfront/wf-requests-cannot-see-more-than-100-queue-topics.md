@@ -2,15 +2,19 @@
 title: '« Demandes : Impossible d’afficher plus de 100 rubriques de file d’attente sur une page »'
 description: Lorsqu’un utilisateur consulte une liste de rubriques de file d’attente comportant plus de 100 éléments et tente de modifier cette liste pour afficher plus de rubriques de file d’attente par page ou toutes les rubriques de file d’attente, la liste ne change pas et l’utilisateur voit un message d’erreur. »
 hidefromtoc: true
-source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
-workflow-type: ht
-source-wordcount: '180'
-ht-degree: 100%
+source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+workflow-type: tm+mt
+source-wordcount: '186'
+ht-degree: 96%
 
 ---
 
 
 # Demandes : Impossible d’afficher plus de 100 rubriques de file d’attente sur une page
+
+>[!NOTE]
+>
+>Ce problème a été résolu le 2 décembre 2022.
 
 « Lorsqu’un utilisateur consulte une liste de rubriques de file d’attente comportant plus de 100 éléments et tente de modifier cette liste pour afficher plus de rubriques de file d’attente par page ou toutes les rubriques de file d’attente, la liste ne change pas et l’utilisateur voit le message suivant :
 

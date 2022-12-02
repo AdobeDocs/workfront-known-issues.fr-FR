@@ -2,9 +2,9 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
+source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
 workflow-type: tm+mt
-source-wordcount: '15702'
+source-wordcount: '15901'
 ht-degree: 99%
 
 ---
@@ -30,6 +30,35 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2022.
 Pour connaître les mises à jour de maintenance antérieures à 2022, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
 
 ## Mises à jour de décembre 2022
+
++++**Mise à jour de maintenance (correctif) le 1 décembre 2022**
+
+**Les erreurs de modification en ligne par l’utilisateur ne provoquent pas de messages d’erreur**
+
+*Listes*
+
+Lorsqu’un utilisateur édite un objet en ligne et qu’il génère une erreur qui doit créer un message d’erreur, aucun message d’erreur ne s’affiche. L’erreur elle-même n’est pas enregistrée dans Workfront. Par conséquent, les données ne sont pas affectées, mais l’absence de message d’erreur peut prêter à confusion.
+
+Les situations suivantes sont concernées :
+
+* Prédécesseurs : Une boucle précédente est créée, par exemple en affectant une tâche à elle-même.
+* Dates : Une date impossible est définie, par exemple une date de fin antérieure à la date de début ou postérieure à la date d’achèvement du projet.
+
+**Option &quot;Déplacer vers&quot; non disponible dans les rapports de problème**
+
+*Rapports*
+
+Lorsqu’un utilisateur consulte un rapport d’événement et tente de déplacer un événement, l’option « Déplacer vers » n’est pas disponible sous le menu Plus (à trois points).
+
+
+**Impossible de fermer la carte d’utilisateur dans le flux de mise à jour**
+
+*Mises à jour*
+
+Lorsque l’utilisateur consulte les mises à jour et survole un nom, une carte contenant des informations sur l’utilisateur correspondant s’ouvre et ne se ferme pas automatiquement. La page ne répond plus tant que la carte n’est pas fermée manuellement en cliquant sur le X du coin supérieur droit.
+
+
++++
 
 +++**Mise à jour de maintenance le 1 décembre 2022**
 

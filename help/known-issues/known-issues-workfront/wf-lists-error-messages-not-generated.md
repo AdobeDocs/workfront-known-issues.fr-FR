@@ -2,15 +2,19 @@
 title: '« Listes : Les erreurs de modification en ligne par l’utilisateur ne provoquent pas de messages d’erreur »'
 description: « Lorsqu’un utilisateur édite un objet en ligne et qu’il génère une erreur qui doit créer un message d’erreur, aucun message d’erreur ne s’affiche. L’erreur elle-même n’est pas enregistrée dans Workfront. Par conséquent, les données ne sont pas affectées, mais l’absence de message d’erreur peut prêter à confusion. »
 hidefromtoc: true
-source-git-commit: ed5bd591f4be66631dba19d666b7d280eda1e1ab
-workflow-type: ht
-source-wordcount: '165'
-ht-degree: 100%
+source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+workflow-type: tm+mt
+source-wordcount: '171'
+ht-degree: 96%
 
 ---
 
 
 # Listes : Les erreurs de modification en ligne par l’utilisateur ne provoquent pas de messages d’erreur
+
+>[!NOTE]
+>
+>Ce problème a été résolu le 1er décembre 2022.
 
 Lorsqu’un utilisateur édite un objet en ligne et qu’il génère une erreur qui doit créer un message d’erreur, aucun message d’erreur ne s’affiche. L’erreur elle-même n’est pas enregistrée dans Workfront. Par conséquent, les données ne sont pas affectées, mais l’absence de message d’erreur peut prêter à confusion.
 

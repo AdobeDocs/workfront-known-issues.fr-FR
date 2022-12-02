@@ -3,14 +3,18 @@ title: '« Agile : erreur lors du déplacement d’éléments de travail vers 
 description: Lorsque l’utilisateur tente de déplacer une tâche ou un problème vers une itération, l’élément de travail ne se déplace pas et un message d’erreur apparaît.
 hidefromtoc: true
 exl-id: f83d946d-04ec-4c0d-9b07-a44c439f99b0
-source-git-commit: fbf501c23b2dcaee5e7de5b752cb39221bfb4a1f
-workflow-type: ht
-source-wordcount: '101'
-ht-degree: 100%
+source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+workflow-type: tm+mt
+source-wordcount: '107'
+ht-degree: 94%
 
 ---
 
 # Agile : erreur lors du déplacement d’éléments de travail vers une itération
+
+>[!NOTE]
+>
+>Ce problème a été résolu le 1er décembre 2022.
 
 Lorsque l’utilisateur tente de déplacer une tâche ou un problème vers une itération, l’élément de travail ne se déplace pas et le message suivant apparaît :
 

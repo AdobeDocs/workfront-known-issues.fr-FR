@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
-source-git-commit: 5fdf05bfe98beb6a51bbc679253898cb1f3f7841
+source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
 workflow-type: tm+mt
-source-wordcount: '1759'
-ht-degree: 94%
+source-wordcount: '1778'
+ht-degree: 96%
 
 ---
 
@@ -16,15 +16,17 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Projets : L’état du projet ne suit pas les préférences du projet Groupe](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
+      + [Projets : Erreur &quot;Ouvre&quot; lors de la création d’un projet à partir d’un modèle](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md)
       + [[!UICONTROL Accueil]: Impossible de supprimer une affectation de problème dans [!UICONTROL Accueil]](known-issues-workfront/wf-home-cannot-remove-assignment.md)
       + [Feuilles de temps : La feuille de calcul n’est pas générée](known-issues-workfront/wf-timesheets-timesheet-not-generated.md)
       + [Intégrations : Impossible d’accéder aux éléments de [!DNL Workfront for Jira] integration](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
       + [Formulaires personnalisés : Impossible d’utiliser un champ dans le calcul si le nom du champ contient des apostrophes ou des guillemets](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
-      + [Agile : Erreur lors du déplacement des tâches vers une itération](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
-      + [Feuilles de temps : Utilisateurs désactivés disponibles lors de la sélection de l’approbateur de feuille de temps](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
-      + [Formulaires personnalisés : Les formulaires personnalisés multi-objets requièrent [!UICONTROL Gérer] ou [!UICONTROL Modifier] accès aux champs d&#39;édition](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
-      + [Bons à tirer : Les bons à tirer s’affichent dans la visionneuse de bons à tirer moins clairement que l’image d’origine.](known-issues-workfront/wf-proofs-are-blurry.md)
-      + [Formulaires personnalisés : &quot;[!UICONTROL Vous ne disposez pas d’un accès suffisant.]&quot; erreur lors de la modification d’un formulaire personnalisé](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)
+      + [Agile : erreur lors du déplacement d’éléments de travail vers une itération](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
+      + [Feuilles de temps : les utilisateurs désactivés sont sélectionnables en tant qu’approbateurs de la feuille de temps](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
+      + [Formulaires personnalisés : la modification des champs des formulaires personnalisés interobjet exige un accès de niveau [!UICONTROL Gérer] ou [!UICONTROL Modifier]](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
+      + [Épreuves : l’affichage des épreuves dans la visionneuse d’épreuves est d’une qualité inférieure à celle de l’image d’origine](known-issues-workfront/wf-proofs-are-blurry.md)
+      + [Formulaires personnalisés : erreur « [!UICONTROL Vous ne disposez pas d’un niveau d’accès suffisant] » lors de la modification d’un formulaire personnalisé](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)
       + [Formulaires personnalisés : un message « [!UICONTROL Expression personnalisée non valide] » apparaît lorsqu’un champ calculé fait référence à un « [!UICONTROL propriétaire] »](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)
       + [Rapports : erreur de type « Oups » lors de l’ajout d’un nouveau problème à un rapport de problème](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
       + [Rapports : le graphique combiné affiche les mêmes données en double](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md)
