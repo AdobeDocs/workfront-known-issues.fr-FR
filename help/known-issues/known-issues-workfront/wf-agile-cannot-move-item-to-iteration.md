@@ -1,20 +1,19 @@
 ---
-title: "Agile : Erreur lors du déplacement des tâches vers une itération"
-description: "Lorsqu’un utilisateur tente de déplacer une tâche ou un problème vers une itération, l’élément de travail ne se déplace pas et l’utilisateur voit un message d’erreur."
+title: '« Agile : erreur lors du déplacement d’éléments de travail vers une itération »'
+description: Lorsque l’utilisateur tente de déplacer une tâche ou un problème vers une itération, l’élément de travail ne se déplace pas et un message d’erreur apparaît.
 hidefromtoc: true
-source-git-commit: f37c5514fa93915589c8af9bf5a4b678446a8078
-workflow-type: tm+mt
+exl-id: f83d946d-04ec-4c0d-9b07-a44c439f99b0
+source-git-commit: fbf501c23b2dcaee5e7de5b752cb39221bfb4a1f
+workflow-type: ht
 source-wordcount: '101'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
+# Agile : erreur lors du déplacement d’éléments de travail vers une itération
 
-# Agile : Erreur lors du déplacement des tâches vers une itération
+Lorsque l’utilisateur tente de déplacer une tâche ou un problème vers une itération, l’élément de travail ne se déplace pas et le message suivant apparaît :
 
-Lorsqu’un utilisateur tente de déplacer une tâche ou un problème vers une itération, l’élément de travail ne se déplace pas et l’utilisateur voit le message suivant :
-
-« [!UICONTROL Erreur. L’erreur suivante s’est produite : Aucun des éléments sélectionnés n’a pu être déplacé, car ils ne sont pas affectés à une équipe agile ou ne sont pas des éléments agiles.]&quot;
+« [!UICONTROL Erreur. L’erreur suivante s’est produite : aucun des éléments suivants n’a pu être déplacé parce qu’ils ne sont pas affectés à une équipe Agile ou ne sont pas des éléments Agile.] »
 
 _Premier signalement le 31 octobre 2022._
-
