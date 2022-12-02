@@ -3,7 +3,7 @@ title: '« Modèle de disposition : le masquage d’un élément ne masque pas
 description: « Lorsque l’utilisateur affiche ou masque un élément, c’est un autre élément du modèle de mise en page qui est affiché ou masqué. »
 hidefromtoc: true
 source-git-commit: 4934cd2daca87cbc3b1df7914a0e38969e22e061
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
 ht-degree: 100%
 
