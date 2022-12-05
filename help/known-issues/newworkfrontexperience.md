@@ -3,10 +3,10 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+source-git-commit: 4557df164d16b5451cb23d19399655a363641ae9
 workflow-type: tm+mt
-source-wordcount: '614'
-ht-degree: 92%
+source-wordcount: '631'
+ht-degree: 89%
 
 ---
 
@@ -38,7 +38,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Feuilles de temps : les utilisateurs désactivés sont sélectionnables en tant qu’approbateurs de la feuille de temps](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2 décembre 2022 |
+| [Feuilles de temps : Impossible de saisir l’heure sur la feuille de temps](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md) | 5 décembre 2022 |
+| [Feuilles de temps : les utilisateurs désactivés sont sélectionnables en tant qu’approbateurs de la feuille de temps](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2 décembre 2022 |
 | [Formulaires personnalisés : un message « [!UICONTROL Expression personnalisée non valide] » apparaît lorsqu’un champ calculé fait référence à un « [!UICONTROL propriétaire] »](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2 décembre 2022 |
 | [Projets : L’état du projet ne suit pas les préférences du projet Groupe](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md) | 2 décembre 2022 |
 | [Projets : Erreur &quot;Ouvre&quot; lors de la création d’un projet à partir d’un modèle](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md) | 2 décembre 2022 |
@@ -58,6 +59,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bons à tirer : L’état du BAT n’est pas mis à jour dans [!UICONTROL Document] lists](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 décembre 2022 |
 | [Tâches : les heures ne sont pas enregistrées lors de la saisie des heures dans le panneau [!UICONTROL Résumé de la tâche]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2 décembre 2022 |
 | [Projets : Problèmes de performance et message d’erreur lors de la création d’un projet à partir d’un modèle](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2 décembre 2022 |
 | [Formulaires personnalisés : la modification des champs des formulaires personnalisés interobjet exige un accès de niveau [!UICONTROL Gérer] ou [!UICONTROL Modifier]](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | 21 novembre 2022 |

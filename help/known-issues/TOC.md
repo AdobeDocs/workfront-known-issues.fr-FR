@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
-source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+source-git-commit: eff0362813a15b8e2f5085c05b1d88b716aba25e
 workflow-type: tm+mt
-source-wordcount: '1778'
-ht-degree: 96%
+source-wordcount: '1793'
+ht-degree: 95%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Feuilles de temps : Impossible de saisir l’heure sur la feuille de temps](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md)
+      + [Bons à tirer : L’état du BAT n’est pas mis à jour dans [!UICONTROL Document] lists](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
       + [Projets : L’état du projet ne suit pas les préférences du projet Groupe](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
       + [Projets : Erreur &quot;Ouvre&quot; lors de la création d’un projet à partir d’un modèle](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md)
       + [[!UICONTROL Accueil]: Impossible de supprimer une affectation de problème dans [!UICONTROL Accueil]](known-issues-workfront/wf-home-cannot-remove-assignment.md)

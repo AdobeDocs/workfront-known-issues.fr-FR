@@ -3,10 +3,10 @@ title: Problèmes connus dans  [!DNL Adobe Workfront Proof]
 description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
+source-git-commit: 4557df164d16b5451cb23d19399655a363641ae9
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 100%
+source-wordcount: '209'
+ht-degree: 95%
 
 ---
 
@@ -44,6 +44,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bons à tirer : L’état du BAT n’est pas mis à jour dans [!UICONTROL Document] lists](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 décembre 2022 |
 | [Épreuves : l’épreuve n’est pas partagée avec les utilisateurs du workflow de l’épreuve](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18 septembre 2022 |
 | [Épreuves : le champ [!UICONTROL Étapes d’épreuve actives] est vide](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 septembre 2022 |
 | [[!DNL Workfront Proof] : impossible d’ajouter un utilisateur à l’épreuve en l’identifiant dans un commentaire](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 23 mars 2022 |
