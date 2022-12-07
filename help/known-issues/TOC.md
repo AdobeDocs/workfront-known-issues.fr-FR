@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
-source-git-commit: 4de171bddf40bf7329a0928776d63efbfd18603c
+source-git-commit: 835873c47203f6f13e0c5239ff2e68d18049762d
 workflow-type: tm+mt
-source-wordcount: '1797'
+source-wordcount: '1800'
 ht-degree: 95%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Intégrations : Impossible d’ouvrir [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)
       + [Tâches : Impossible d’ajouter une sous-tâche](known-issues-workfront/wf-tasks-cannot-add-subtask.md)
       + [Feuilles de temps : Impossible de saisir l’heure sur la feuille de temps](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md)
       + [Bons à tirer : L’état du BAT n’est pas mis à jour dans [!UICONTROL Document] lists](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)

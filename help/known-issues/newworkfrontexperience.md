@@ -3,9 +3,9 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 4de171bddf40bf7329a0928776d63efbfd18603c
+source-git-commit: 835873c47203f6f13e0c5239ff2e68d18049762d
 workflow-type: tm+mt
-source-wordcount: '636'
+source-wordcount: '640'
 ht-degree: 88%
 
 ---
@@ -24,6 +24,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Intégrations : Impossible d’ouvrir [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 7 décembre 2022 |
 | [[!UICONTROL Accueil]: Impossible de supprimer une affectation de problème dans [!UICONTROL Accueil]](known-issues-workfront/wf-home-cannot-remove-assignment.md) | 29 novembre 2022 |
 | [Épreuves : l’affichage des épreuves dans la visionneuse d’épreuves est d’une qualité inférieure à celle de l’image d’origine](known-issues-workfront/wf-proofs-are-blurry.md) | 18 novembre 2022 |
 | [Bons à tirer : La génération de BAT est extrêmement lente](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 octobre 2022 |
