@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
-source-git-commit: 835873c47203f6f13e0c5239ff2e68d18049762d
+source-git-commit: 40a8c48b51e1da690aa0622606c40ebfd8df4e8e
 workflow-type: tm+mt
-source-wordcount: '1800'
+source-wordcount: '1805'
 ht-degree: 95%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Documents : Chargement du fichier MP4 impossible](known-issues-workfront/wf-documents-cannot-upload-mp4.md)
       + [Intégrations : Impossible d’ouvrir [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)
       + [Tâches : Impossible d’ajouter une sous-tâche](known-issues-workfront/wf-tasks-cannot-add-subtask.md)
       + [Feuilles de temps : Impossible de saisir l’heure sur la feuille de temps](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md)
