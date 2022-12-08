@@ -2,9 +2,9 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: dd71044b671b7a7da8a8769039485b80664880d7
+source-git-commit: faf363bbdaa7c44a447117e35779eeb10d463dbf
 workflow-type: tm+mt
-source-wordcount: '15954'
+source-wordcount: '16044'
 ht-degree: 98%
 
 ---
@@ -31,15 +31,30 @@ Pour connaître les mises à jour de maintenance antérieures à 2022, consultez
 
 ## Mises à jour de décembre 2022
 
-+++**Mise à jour de maintenance (prévue) le 8 décembre 2022**
-
-+++
++++**Mise à jour de la maintenance le 8 décembre 2022**
 
 **L’état du projet ne suit pas les préférences du projet Groupe**
 
 *Projets*
 
 Lorsqu’un utilisateur crée un projet à partir d’un modèle, le nouveau projet ne prend pas l’état défini dans les préférences du projet Groupe. Si un projet est créé sans modèle, l’état reflète les préférences du projet Groupe comme prévu.
+
+**Impossible d’ajouter une sous-tâche**
+
+*Tâches*
+
+Lorsqu’un utilisateur tente d’ajouter une sous-tâche à l’aide de la fonction[!UICONTROL +Nouveau]&quot;, aucune option n’apparaît dans la variable [!UICONTROL Nouvelle tâche] et l’utilisateur voit le message suivant :
+
+&quot;[!UICONTROL Impossible de lire les propriétés d’undefined (lecture des &#39;validations&#39;)]&quot;
+
+**Erreurs lors de la fermeture ou de l’enregistrement des feuilles de temps**
+
+*Feuilles de temps*
+
+Lorsqu’un utilisateur tente d’ajouter du temps à une feuille de temps ou de la fermer, elle n’est pas enregistrée et les erreurs suivantes s’affichent :
+
+* Erreur de base de données en raison d&#39;une déclaration SQL non valide.
+* Vos dernières modifications n’ont pas été enregistrées. Actualisez la page pour les voir.
 
 +++
 

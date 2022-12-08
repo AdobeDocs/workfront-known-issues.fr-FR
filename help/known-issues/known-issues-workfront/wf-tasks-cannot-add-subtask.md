@@ -2,15 +2,19 @@
 title: "Tâches : Impossible d’ajouter une sous-tâche"
 description: "Lorsqu’un utilisateur tente d’ajouter une sous-tâche à l’aide du bouton +Nouveau , aucune option n’apparaît dans la fenêtre Nouvelle tâche et un message d’erreur s’affiche."
 hidefromtoc: true
-source-git-commit: 4de171bddf40bf7329a0928776d63efbfd18603c
+source-git-commit: e470ad87b9ebd8795ec3d228479244322f96c928
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 9%
+source-wordcount: '116'
+ht-degree: 8%
 
 ---
 
 
 # Tâches : Impossible d’ajouter une sous-tâche
+
+>[!NOTE]
+>
+>Ce problème a été résolu le 8 décembre 2022.
 
 Lorsqu’un utilisateur tente d’ajouter une sous-tâche à l’aide de la fonction[!UICONTROL +Nouveau]&quot;, aucune option n’apparaît dans la variable [!UICONTROL Nouvelle tâche] et l’utilisateur voit le message suivant :
 
