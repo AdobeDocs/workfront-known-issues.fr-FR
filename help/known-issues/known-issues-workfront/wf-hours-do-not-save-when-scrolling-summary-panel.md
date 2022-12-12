@@ -3,7 +3,7 @@ title: '« Tâches : les heures ne sont pas enregistrées lors de la saisie de
 description: « Lorsqu’un utilisateur tente de saisir des heures pour une tâche dans le panneau Résumé de cette tâche, les heures ne sont pas enregistrées. Cela se produit lorsque l’utilisateur laisse le curseur dans la zone où il a saisi les heures, et fait défiler le panneau [!UICONTROL Résumé]. »
 hidefromtoc: true
 source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '153'
 ht-degree: 100%
 
