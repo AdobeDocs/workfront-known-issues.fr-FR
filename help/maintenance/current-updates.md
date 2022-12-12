@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: faf363bbdaa7c44a447117e35779eeb10d463dbf
+source-git-commit: 1e82922e463ea71019e1c4d625ba10157bd582fa
 workflow-type: tm+mt
-source-wordcount: '16044'
-ht-degree: 99%
+source-wordcount: '16198'
+ht-degree: 98%
 
 ---
 
@@ -276,6 +276,21 @@ Les zones suivantes sont concernées :
 * [!UICONTROL Configuration] > [!UICONTROL Notifications par e-mail]
 * [!UICONTROL Utilisateur] > [!UICONTROL Modifier l’utilisateur]
 * [!UICONTROL Groupes]
+
+**Nouvelles icônes d’informations pour les feuilles de temps, les profils de la feuille de temps et les préférences de la feuille de temps**
+
+*Workfront*
+
+>[!NOTE]
+>
+>Cette mise à jour a été publiée uniquement dans l’environnement Aperçu . Il sera publié en production avec la version 23.1.
+
+Nous avons ajouté plusieurs icônes d’informations aux paramètres suivants :
+
+* Cochez la case &quot;Peut modifier l’heure&quot; lors de la création ou de la modification d’une feuille de temps ou d’un profil de feuille de temps pour indiquer que, lorsqu’elle est activée, les approbateurs peuvent également envoyer, rouvrir ou modifier la feuille de temps, sauf si votre administrateur restreint ces actions dans la zone Préférences de la feuille de temps de la configuration.
+* &quot;Limiter la modification de la feuille de temps aux propriétaires et aux administrateurs&quot; dans la zone Préférences de la feuille de temps et de l’heure de la configuration pour indiquer que, lorsque cette option est désactivée, les utilisateurs suivants peuvent également modifier les feuilles de temps : les utilisateurs disposant d’un accès administratif aux feuilles de calcul temporelles et aux heures, les approbateurs de feuilles de temps sont autorisés à modifier l’heure et les gestionnaires des propriétaires de feuilles de temps.
+
+Notez que la fonctionnalité de ces paramètres n’a pas été modifiée et que seules les icônes d’informations ont été ajoutées pour clarifier la portée des paramètres.
 
 +++
 
