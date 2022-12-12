@@ -3,9 +3,9 @@ title: '« Feuilles de temps : les utilisateurs désactivés sont sélectionna
 description: « Lorsque l’utilisateur crée une feuille de temps et tente d’affecter un approbateur, la liste déroulante inclut les utilisateurs désactivés. Si un utilisateur désactivé est sélectionné, la feuille de temps n’est pas enregistrée et un message d’erreur apparaît. »
 hidefromtoc: true
 source-git-commit: 800d8330bfc7a4f964ea4f4b4ae4217c26eb09b6
-workflow-type: ht
-source-wordcount: '146'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
