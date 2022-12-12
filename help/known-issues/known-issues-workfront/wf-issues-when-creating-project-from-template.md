@@ -3,7 +3,7 @@ title: '« Projets : Problèmes de performance et message d’erreur lors de l
 description: « Lorsqu’un utilisateur crée un projet à partir d’un modèle et enregistre ce projet, celui-ci prend 3 à 5 fois plus de temps que d’habitude pour être créé. En outre, l’utilisateur voit le message Échec de récupération, ce qui suggère que le projet n’a pas été créé, bien que le projet ait été effectivement créé. »
 hidefromtoc: true
 source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '158'
 ht-degree: 100%
 
