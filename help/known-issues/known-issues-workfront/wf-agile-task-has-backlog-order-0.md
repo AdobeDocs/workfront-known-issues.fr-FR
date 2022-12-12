@@ -4,9 +4,9 @@ description: Lorsqu’un utilisateur consulte la liste d’attente d’une équi
 hidefromtoc: true
 exl-id: 5bc183e2-15c1-4ff4-9f88-05df873a7926
 source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 90%
 
 >[!NOTE]
 >
->Ce problème a été résolu le 1er décembre 2022.
+>Ce problème a été résolu le 1 décembre 2022.
 
 Lorsqu’un utilisateur consulte la liste d’attente d’une équipe Kanban, une ou plusieurs tâches affichent un ordre de backlog de 0.
 
