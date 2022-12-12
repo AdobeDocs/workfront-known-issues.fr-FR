@@ -4,7 +4,7 @@ user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
 source-git-commit: 40a8c48b51e1da690aa0622606c40ebfd8df4e8e
 workflow-type: tm+mt
 source-wordcount: '1805'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -23,10 +23,10 @@ ht-degree: 95%
       + [Bons à tirer : L’état du BAT n’est pas mis à jour dans [!UICONTROL Document] lists](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
       + [Projets : L’état du projet ne suit pas les préférences du projet Groupe](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
       + [Projets : Erreur &quot;Ouvre&quot; lors de la création d’un projet à partir d’un modèle](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md)
-      + [[!UICONTROL Accueil]: Impossible de supprimer une affectation de problème dans [!UICONTROL Accueil]](known-issues-workfront/wf-home-cannot-remove-assignment.md)
-      + [Feuilles de temps : La feuille de calcul n’est pas générée](known-issues-workfront/wf-timesheets-timesheet-not-generated.md)
-      + [Intégrations : Impossible d’accéder aux éléments de [!DNL Workfront for Jira] integration](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
-      + [Formulaires personnalisés : Impossible d’utiliser un champ dans le calcul si le nom du champ contient des apostrophes ou des guillemets](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
+      + [[!UICONTROL Accueil] : impossible de supprimer une affectation d’événement dans [!UICONTROL Accueil]](known-issues-workfront/wf-home-cannot-remove-assignment.md)
+      + [Feuille de temps : la feuille de temps n’est pas générée](known-issues-workfront/wf-timesheets-timesheet-not-generated.md)
+      + [Intégrations : impossible d’accéder aux éléments de l’intégration  [!DNL Workfront for Jira] ](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
+      + [Formulaires personnalisés : impossible d’utiliser le champ dans le calcul si le nom du champ contient des apostrophes ou des guillemets](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
       + [Agile : erreur lors du déplacement d’éléments de travail vers une itération](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
       + [Feuilles de temps : les utilisateurs désactivés sont sélectionnables en tant qu’approbateurs de la feuille de temps](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
       + [Formulaires personnalisés : la modification des champs des formulaires personnalisés interobjet exige un accès de niveau [!UICONTROL Gérer] ou [!UICONTROL Modifier]](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
@@ -80,7 +80,7 @@ ht-degree: 95%
       + [Équipes : lors de l’affectation de plusieurs équipes, une seule équipe est affectée](known-issues-workfront/wf-teams-multiple-team-assignments.md)
       + [Notifications : utilisateurs non avertis lorsqu’ils sont mentionnés ou inclus dans un commentaire](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md)
       + [Feuilles de temps : erreurs lors de l’ajout de commentaires à une feuille de temps](known-issues-workfront/wf-timesheets-permissions-error-when-adding-hours.md)
-      + [Épreuves : impossible d’ouvrir l’épreuve dans  [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md)
+      + [Épreuves : impossible d’ouvrir l’épreuve dans  [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md)
       + [Tâches : les heures ne sont pas enregistrées lors de la saisie des heures dans le panneau [!UICONTROL Résumé de la tâche]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [Épreuves : l’utilisateur ne revient pas à la page précédente lors de la fermeture de l’épreuve](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md)
       + [Notifications : erreurs lors de l’accès aux paramètres de notification par e-mail](known-issues-workfront/wf-notifications-preview-errors-with-options.md)
@@ -211,7 +211,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problèmes connus dans Workfront Fusion](workfrontfusion.md)
    + Problèmes actifs dans [!DNL Workfront Fusion] {#fusion-current}
-      + [[!DNL Workfront Fusion]: Impossible de créer la connexion à [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
+      + [[!DNL Workfront Fusion] : impossible de créer une connexion à  [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion] : Les éléments de tableau du module [!UICONTROL Itérateur] s’affichent sous la forme d’un « [!UICONTROL objet Object] »](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion] : erreur lors de l’affichage d’une erreur dans l’historique d’exécution d’un scénario](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion] : erreur 409 dans un scénario  [!DNL Fusion] ](known-issues-workfront-fusion/fusion-409-error.md)

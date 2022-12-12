@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: faf363bbdaa7c44a447117e35779eeb10d463dbf
 workflow-type: tm+mt
 source-wordcount: '16044'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -89,13 +89,13 @@ Lorsque l’utilisateur consulte les mises à jour et survole un nom, une carte 
 
 +++**Mise à jour de maintenance le 1 décembre 2022**
 
-**La tâche a un ordre de non-retour Kanban égal à 0**
+**L’ordre de la tâche dans la liste d’attente Kanban est égale à 0.**
 
 *Agile*
 
 Lorsqu’un utilisateur consulte la liste d’attente d’une équipe Kanban, une ou plusieurs tâches affichent un ordre de backlog de 0.
 
-**&quot;[!UICONTROL Expression personnalisée non valide]&quot; message lors de la référence à &quot;[!UICONTROL propriétaire]&quot; dans un champ calculé**
+**Un message « [!UICONTROL Expression personnalisée non valide] » apparaît lorsqu’un champ calculé fait référence à un « [!UICONTROL propriétaire] »**
 
 *Formulaires personnalisés*
 
@@ -105,16 +105,16 @@ Lorsque l’utilisateur ajoute un champ calculé à un formulaire personnalisé 
 
 Cela se produit même lorsque l’expression est valide.
 
-**Impossible d’accéder aux éléments de [!DNL Workfront for Jira] integration**
+**Impossible d’accéder aux éléments de l’intégration [!DNL Workfront for Jira]**
 
 *Intégrations*
 
-Les éléments suivants sont actuellement inaccessibles dans la variable [!DNL Workfront for Jira] intégration pour [!DNL Jira Cloud]:
+Les éléments suivants ne sont actuellement pas accessibles dans l’intégration [!DNL Workfront for Jira] pour [!DNL Jira Cloud] :
 
-* Le [!UICONTROL Configuration] page
-* Le &quot;[!UICONTROL Ouvrir Workfront]&quot; sur un bouton [!DNL Jira] issue
+* La page de [!UICONTROL configuration]
+* Le bouton « [!UICONTROL Ouvrir Workfront] » sur un événement [!DNL Jira]
 
-**L’ajout d’un message personnalisé entraîne un problème dans la visionneuse de BAT.**
+**L’ajout d’un message personnalisé cause un problème dans la visionneuse d’épreuves**
 
 *BAT*
 
@@ -123,7 +123,7 @@ Lorsque l’utilisateur partage une épreuve et tente d’ajouter un message per
 * La visionneuse d’épreuves effectue un zoom avant sur l’épreuve.
 * Les zones du volet de navigation de gauche ne réagissent plus.
 
-**Utilisateurs désactivés disponibles lors de la sélection de l’approbateur de feuille de temps**
+**Les utilisateurs désactivés sont sélectionnables en tant qu’approbateurs de la feuille de temps**
 
 *Feuilles de temps*
 
@@ -133,11 +133,11 @@ Lorsque l’utilisateur crée une feuille de temps et tente d’affecter un appr
 
 L’utilisateur désactivé ne pouvant pas être affecté, il faut sélectionner un utilisateur activé. La feuille de temps fonctionne donc comme prévu, mais la présence d’utilisateurs désactivés dans la liste peut prêter à confusion ou gêner l’utilisateur.
 
-**La feuille de calcul n’est pas générée**
+**La feuille de temps n’est pas générée**
 
 *Feuilles de temps*
 
-Les feuilles de temps ne sont pas générées malgré les paramètres de profil de la feuille de temps. Étant donné que la feuille de temps n’est jamais générée, elle n’est pas disponible pour que l’utilisateur saisisse l’heure et elle n’est pas visible sur les listes.
+Les feuilles de temps ne sont pas générées contrairement aux paramètres du profil des feuilles de temps. Étant donné que la feuille de temps n’est jamais générée, l’utilisateur ne peut pas saisir de temps et elle n’est pas visible sur les listes.
 
 +++
 
@@ -1185,7 +1185,7 @@ Lorsque l’utilisateur tente d’ouvrir la zone [!UICONTROL Demandes de travail
 
 +++
 
-+++**Mise à jour de maintenance le 9 juin 2022**
++++** Mise à jour de maintenance le 9 juin 2022**
 
 **Impossible de sélectionner les objets à filtrer dans les préférences de l’[!UICONTROL optimisateur de portfolio]**
 
@@ -1207,7 +1207,7 @@ Lorsque l’utilisateur disposant d’un accès de niveau Planificateur qui incl
 
 +++
 
-+++**[!DNL Workfront Scenario Planner]Mise à jour de maintenance le 9 juin 2022**
++++**[!DNL Workfront Scenario Planner] Mise à jour de maintenance le 9 juin 2022**
 
 **Panneau de gauche redimensionnable dans [!DNL Scenario Planner]**
 
@@ -1217,7 +1217,7 @@ Vous pouvez désormais redimensionner le panneau de gauche d’un plan dans le [
 
 +++
 
-+++**[!DNL Workfront Fusion]Mise à jour de maintenance le 9 juin 2022**
++++**[!DNL Workfront Fusion] Mise à jour de maintenance le 9 juin 2022**
 
 **Certaines données provenant de formulaires personnalisés ne sont pas disponibles dans les [!DNL Workfront Fusion] [!DNL Workfront] modules**
 
