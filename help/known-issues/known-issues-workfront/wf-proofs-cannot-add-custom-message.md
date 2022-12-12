@@ -3,9 +3,9 @@ title: '« Épreuves : l’ajout d’un message personnalisé cause un problè
 description: « Lorsque l’utilisateur partage une épreuve et tente d’ajouter un message personnalisé, des problèmes surviennent. »
 hidefromtoc: true
 source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->Ce problème a été résolu le 1er décembre 2022.
+>Ce problème a été résolu le 1 décembre 2022.
 
 Lorsque l’utilisateur partage une épreuve et tente d’ajouter un message personnalisé, voici ce qui se passe :
 
