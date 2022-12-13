@@ -3,10 +3,10 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 296acacc040f296c1732ab897b771d26bc0c392e
+source-git-commit: a98c5f2dde335245343c56a2cabea9caef27e56f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '628'
+ht-degree: 90%
 
 ---
 
@@ -85,7 +85,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [Notifications par e-mail : l’utilisateur n’est pas redirigé vers le fil de commentaires](known-issues-workfront/wf-email-notif-user-not-directed-to-thread.md) | 23 avril 2021 |
 | [Calendriers : [!DNL OR]  l’instruction de filtre exclut la règle de filtrage](known-issues-workfront/wf-calendars-or-filter-statement.md) | 23 avril 2021 |
 | [[!UICONTROL Workfront Proof] : le rapport [!UICONTROL Approbation de l’épreuve] ne détermine pas précisément les dates limites](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 21 avril 2021 |
-| [[!UICONTROL Accueil] : les épreuves terminées sont bloquées dans la [!UICONTROL Liste de travail]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 14 juin 2021 |
 | [Rapports : impossible de faire défiler le rapport vers la droite ou la gauche lorsqu’il est affiché dans le tableau de bord](known-issues-workfront/wf-reports-cannot-scroll-horizontally.md) | 30 mars 2021 |
 | [[!UICONTROL Accueil] : le nom du projet s’affiche sous la forme d’un GUID dans la [!UICONTROL Liste de travail]](known-issues-workfront/wf-home-project-name-shows-as-guid.md) | 11 février 2021 |
 | [Documents : l’icône du workflow de l’épreuve ne s’affiche pas](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 25 janvier 2021 |

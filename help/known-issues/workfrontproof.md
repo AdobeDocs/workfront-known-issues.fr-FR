@@ -3,9 +3,9 @@ title: Problèmes connus dans  [!DNL Adobe Workfront Proof]
 description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 4557df164d16b5451cb23d19399655a363641ae9
+source-git-commit: a98c5f2dde335245343c56a2cabea9caef27e56f
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '200'
 ht-degree: 95%
 
 ---
@@ -51,7 +51,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [[!UICONTROL Accueil] : l’action du bouton [!UICONTROL Répondre dans l’épreuve] varie](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 21 juin 2021 |
 | [[!DNL Workfront Proof] : l’accès automatique aux épreuves est retardé](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md) | 14 juin 2021 |
 | Le rapport [[!DNL Workfront Proof]: [!UICONTROL Proof Approval]  ne détermine pas précisément les dates limites](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 21 avril 2021 |
-| [[!UICONTROL Accueil] : les épreuves terminées sont bloquées dans la [!UICONTROL Liste de travail]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 14 juin 2021 |
 | [Documents : l’icône du workflow de l’épreuve ne s’affiche pas](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 5 mars 2021 |
 
 {style=&quot;table-layout:auto&quot;}
