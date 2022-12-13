@@ -2,9 +2,9 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 707324aea99a9f77e7664afa555a4b7b9d6e4cef
+source-git-commit: 3973a5e7f934404165fb5132faa36392951940f3
 workflow-type: tm+mt
-source-wordcount: '16388'
+source-wordcount: '16460'
 ht-degree: 97%
 
 ---
@@ -60,6 +60,14 @@ L’utilisateur désactivé ne pouvant pas être affecté, il faut sélectionner
 +++
 
 +++**Mise à jour de la maintenance le 8 décembre 2022**
+
+**Sélection intelligente des utilisateurs lors de l’ajout d’approbateurs à un chemin d’approbation**
+
+*Approbations*
+
+Nous avons amélioré l’affichage des utilisateurs lorsque vous les ajoutez à la variable [!UICONTROL Approbateurs] d’une nouvelle validation.
+
+Désormais, lorsque vous ajoutez un utilisateur au [!UICONTROL Approbateurs] d’une validation au niveau du système ou à usage unique, en plus de leur nom et de leur avatar, leur rôle Principal et leur email s’affichent également. Cela permet de distinguer plusieurs utilisateurs portant des noms similaires ou identiques.
 
 **L’état du projet ne suit pas les préférences du projet Groupe**
 
