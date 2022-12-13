@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 1e82922e463ea71019e1c4d625ba10157bd582fa
+source-git-commit: 707324aea99a9f77e7664afa555a4b7b9d6e4cef
 workflow-type: tm+mt
-source-wordcount: '16198'
-ht-degree: 98%
+source-wordcount: '16388'
+ht-degree: 97%
 
 ---
 
@@ -30,6 +30,34 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2022.
 Pour connaître les mises à jour de maintenance antérieures à 2022, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
 
 ## Mises à jour de décembre 2022
+
++++**Mise à jour de la maintenance le 15 décembre 2022**
+
+**&quot;[!UICONTROL Oups]&quot;erreur lors de la création d’un projet à partir d’un modèle**
+
+*Projets*
+
+Lorsqu’un utilisateur tente de créer un projet à partir d’un modèle, le projet n’est pas créé et l’utilisateur voit l’erreur suivante :
+
+« [!UICONTROL Oups ! Un problème est survenu. Contactez [!DNL Workfront] pour nous aider à comprendre l’erreur et y remédier.] »
+
+**Le graphique en combinaison affiche deux fois les mêmes données.**
+
+*Rapports*
+
+Lorsque l’utilisateur consulte un graphique combiné, celui-ci affiche un ensemble de valeurs en double au lieu de comparer deux ensembles de valeurs. Les ensembles de valeurs corrects se trouvent dans les détails du rapport.
+
+**Les utilisateurs désactivés sont sélectionnables en tant qu’approbateurs de la feuille de temps**
+
+*Feuilles de temps*
+
+Lorsque l’utilisateur crée une feuille de temps et tente d’affecter un approbateur, la liste déroulante inclut les utilisateurs désactivés. Si un utilisateur désactivé est sélectionné, la feuille de temps n’est pas enregistrée et le message suivant apparaît :
+
+« [!UICONTROL Erreur. Désolé, mais seuls les utilisateurs disposant d’une licence Plan peuvent approuver ou refuser les feuilles de temps. Contactez votre administrateur système.] »
+
+L’utilisateur désactivé ne pouvant pas être affecté, il faut sélectionner un utilisateur activé. La feuille de temps fonctionne donc comme prévu, mais la présence d’utilisateurs désactivés dans la liste peut prêter à confusion ou gêner l’utilisateur.
+
++++
 
 +++**Mise à jour de la maintenance le 8 décembre 2022**
 
@@ -220,7 +248,7 @@ Ce comportement a été signalé lorsque l’utilisateur accède au rapport des 
 
 L’accès aux rapports via un tableau de bord met à jour les informations relatives à la dernière consultation.
 
-**[!DNL Workfront] : Erreur 500 lors de la modification d’un objet [!DNL Workfront]**
+**[!DNL Workfront] : Erreur 500 lors de la modification d’un objet [!DNL Workfront]**+
 
 *[!DNL Workfront]*
 
