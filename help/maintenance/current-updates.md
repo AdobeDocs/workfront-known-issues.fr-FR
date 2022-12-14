@@ -2,9 +2,9 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 3973a5e7f934404165fb5132faa36392951940f3
+source-git-commit: 927ea8bc10eb333428f1d10961c0b859be8f19bb
 workflow-type: tm+mt
-source-wordcount: '16460'
+source-wordcount: '16506'
 ht-degree: 97%
 
 ---
@@ -46,6 +46,12 @@ Lorsqu’un utilisateur tente de créer un projet à partir d’un modèle, le p
 *Rapports*
 
 Lorsque l’utilisateur consulte un graphique combiné, celui-ci affiche un ensemble de valeurs en double au lieu de comparer deux ensembles de valeurs. Les ensembles de valeurs corrects se trouvent dans les détails du rapport.
+
+**Info-bulles ajoutées pour les cellules d’heures grisées dans les feuilles de temps**
+
+*Feuilles de temps*
+
+Nous avons ajouté des info-bulles pour expliquer pourquoi une cellule d’une heure peut être grisée dans une feuille de temps. Par exemple, certaines raisons peuvent être dues à la fermeture de la feuille de temps ou à la fin du projet.
 
 **Les utilisateurs désactivés sont sélectionnables en tant qu’approbateurs de la feuille de temps**
 
