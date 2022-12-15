@@ -2,21 +2,19 @@
 title: '« Feuilles de temps : les utilisateurs désactivés sont sélectionnables en tant qu’approbateurs de la feuille de temps »'
 description: « Lorsque l’utilisateur crée une feuille de temps et tente d’affecter un approbateur, la liste déroulante inclut les utilisateurs désactivés. Si un utilisateur désactivé est sélectionné, la feuille de temps n’est pas enregistrée et un message d’erreur apparaît. »
 hidefromtoc: true
-source-git-commit: 800d8330bfc7a4f964ea4f4b4ae4217c26eb09b6
+source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '152'
+ht-degree: 100%
 
 ---
 
 
 # Feuilles de temps : les utilisateurs désactivés sont sélectionnables en tant qu’approbateurs de la feuille de temps
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on December 1, 2022.
--->
+>Ce problème a été résolu le 15 décembre 2022.
 
 Lorsque l’utilisateur crée une feuille de temps et tente d’affecter un approbateur, la liste déroulante inclut les utilisateurs désactivés. Si un utilisateur désactivé est sélectionné, la feuille de temps n’est pas enregistrée et le message suivant apparaît :
 

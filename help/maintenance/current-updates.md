@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 927ea8bc10eb333428f1d10961c0b859be8f19bb
+source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
 workflow-type: tm+mt
-source-wordcount: '16506'
-ht-degree: 97%
+source-wordcount: '16687'
+ht-degree: 96%
 
 ---
 
@@ -32,6 +32,17 @@ Pour connaître les mises à jour de maintenance antérieures à 2022, consultez
 ## Mises à jour de décembre 2022
 
 +++**Mise à jour de la maintenance le 15 décembre 2022**
+
+**Mises à jour de l’accessibilité dans les listes**
+
+*Listes*
+
+Les fonctionnalités d’accessibilité suivantes sont désormais disponibles dans les listes :
+
+* Les cases à cocher des listes sont désormais dotées d’un indicateur de focus visible lorsque vous leur appuyez dessus. Cela facilite la navigation au clavier des éléments d’une liste à suivre visuellement.
+* Tous les boutons des barres d’outils de liste ont désormais des états de survol et de focus cohérents, avec un arrière-plan gris affiché au survol et un arrière-plan gris et un contour bleu affichés au focus.
+* Auparavant, lors de l’ouverture d’un menu déroulant dans une liste avec la touche Espace , le menu s’ouvrait et la page faisait également défiler un peu vers le bas, ce qui n’était pas prévu. Désormais, la page ne fait plus défiler lorsque vous appuyez sur Espace dans une liste déroulante, ce qui est le comportement prévu correct.
+* Lorsque vous affichez une liste avec la case à cocher de rangée sélectionnée, vous pouvez désormais passer d’un élément modifiable à l’autre en appuyant sur la touche Espace pour passer en mode d’édition et commencer à modifier cette cellule dans la rangée. Auparavant, ces éléments ne pouvaient pas être navigués via le clavier et nécessitaient l’utilisation d’une souris. Le passage en mode d’édition est désormais compatible avec la souris et le clavier.
 
 **&quot;[!UICONTROL Oups]&quot;erreur lors de la création d’un projet à partir d’un modèle**
 
