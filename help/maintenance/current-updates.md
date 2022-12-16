@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
+source-git-commit: 7bb0987beff9127e4f5ebf82401f5243712f45f0
 workflow-type: tm+mt
-source-wordcount: '16687'
-ht-degree: 96%
+source-wordcount: '16738'
+ht-degree: 95%
 
 ---
 
@@ -73,6 +73,12 @@ Lorsque l’utilisateur crée une feuille de temps et tente d’affecter un appr
 « [!UICONTROL Erreur. Désolé, mais seuls les utilisateurs disposant d’une licence Plan peuvent approuver ou refuser les feuilles de temps. Contactez votre administrateur système.] »
 
 L’utilisateur désactivé ne pouvant pas être affecté, il faut sélectionner un utilisateur activé. La feuille de temps fonctionne donc comme prévu, mais la présence d’utilisateurs désactivés dans la liste peut prêter à confusion ou gêner l’utilisateur.
+
+**Impossible de saisir l’heure sur la feuille de temps**
+
+*Feuilles de temps*
+
+Lorsqu’un utilisateur tente d’ajouter du temps à une feuille de temps, il constate que les horodatages des lignes Heure du projet ou Heure de la tâche sont grisés et il ne peut pas entrer de temps dans ces zones. Ils ne peuvent saisir l’heure que dans la zone Heure générale .
 
 +++
 
