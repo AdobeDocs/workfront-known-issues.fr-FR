@@ -1,11 +1,11 @@
 ---
 title: Mises à jour de maintenance pour Workfront
-description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
+description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 7bb0987beff9127e4f5ebf82401f5243712f45f0
 workflow-type: tm+mt
 source-wordcount: '16738'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -15,7 +15,7 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2022.
 
 >[!NOTE]
 >
->Ces mises à jour incluent également d’autres correctifs mineurs ou moins conséquents. L’assistance [!DNL Workfront] vous avertira lorsqu’un problème que vous avez soumis est résolu.
+>Ces mises à jour incluent également d’autres correctifs mineurs ou moins conséquents. L’assistance [!DNL Workfront]vous avertira lorsqu’un problème que vous avez soumis est résolu.
 
 <!--
 * [July 2022](#updates-in-july-2022)
@@ -31,7 +31,7 @@ Pour connaître les mises à jour de maintenance antérieures à 2022, consultez
 
 ## Mises à jour de décembre 2022
 
-+++**Mise à jour de la maintenance le 15 décembre 2022**
++++**Mise à jour de maintenance le 15 décembre 2022**
 
 **Mises à jour de l’accessibilité dans les listes**
 
@@ -48,7 +48,7 @@ Les fonctionnalités d’accessibilité suivantes sont désormais disponibles da
 
 *Projets*
 
-Lorsqu’un utilisateur tente de créer un projet à partir d’un modèle, le projet n’est pas créé et l’utilisateur voit l’erreur suivante :
+Lorsque l’utilisateur tente de créer un projet à partir d’un modèle, le projet n’est pas créé et l’erreur suivante apparaît :
 
 « [!UICONTROL Oups ! Un problème est survenu. Contactez [!DNL Workfront] pour nous aider à comprendre l’erreur et y remédier.] »
 
@@ -78,11 +78,11 @@ L’utilisateur désactivé ne pouvant pas être affecté, il faut sélectionner
 
 *Feuilles de temps*
 
-Lorsqu’un utilisateur tente d’ajouter du temps à une feuille de temps, il constate que les horodatages des lignes Heure du projet ou Heure de la tâche sont grisés et il ne peut pas entrer de temps dans ces zones. Ils ne peuvent saisir l’heure que dans la zone Heure générale .
+Lorsqu’un utilisateur tente d’ajouter des heures à une feuille de temps, les cases « heure » dans les lignes de temps du projet ou de la tâche sont grisées et l’utilisateur ne peut saisir d’heures dans ces cases. Seule la partie « Heure générale » peut être complétée.
 
 +++
 
-+++**Mise à jour de la maintenance le 8 décembre 2022**
++++**Mise à jour de maintenance le 8 décembre 2022**
 
 **Sélection intelligente des utilisateurs lors de l’ajout d’approbateurs à un chemin d’approbation**
 
@@ -92,32 +92,32 @@ Nous avons amélioré l’affichage des utilisateurs lorsque vous les ajoutez à
 
 Désormais, lorsque vous ajoutez un utilisateur au [!UICONTROL Approbateurs] d’une validation au niveau du système ou à usage unique, en plus de leur nom et de leur avatar, leur rôle Principal et leur email s’affichent également. Cela permet de distinguer plusieurs utilisateurs portant des noms similaires ou identiques.
 
-**L’état du projet ne suit pas les préférences du projet Groupe**
+**Le statut du projet ne correspond pas aux préférences du groupe**
 
 *Projets*
 
-Lorsqu’un utilisateur crée un projet à partir d’un modèle, le nouveau projet ne prend pas l’état défini dans les préférences du projet Groupe. Si un projet est créé sans modèle, l’état reflète les préférences du projet Groupe comme prévu.
+Lorsqu’un utilisateur crée un projet à partir d’un modèle, le nouveau projet ne prend pas le statut défini dans les préférences du groupe. Si un projet est créé sans modèle, le statut reflète les préférences du groupe comme prévu.
 
 **Impossible d’ajouter une sous-tâche**
 
 *Tâches*
 
-Lorsqu’un utilisateur tente d’ajouter une sous-tâche à l’aide de la fonction[!UICONTROL +Nouveau]&quot;, aucune option n’apparaît dans la variable [!UICONTROL Nouvelle tâche] et l’utilisateur voit le message suivant :
+Lorsqu’un utilisateur tente d’ajouter une sous-tâche à l’aide du bouton « [!UICONTROL +Nouveau] », aucune option n’apparaît dans la fenêtre [!UICONTROL Nouvelle tâche] et le message suivant apparaît :
 
-&quot;[!UICONTROL Impossible de lire les propriétés d’undefined (lecture des &#39;validations&#39;)]&quot;
+« [!UICONTROL Impossible de lire les propriétés de l’objet non défini (lecture des « validations »)] »
 
 **Erreurs lors de la fermeture ou de l’enregistrement des feuilles de temps**
 
 *Feuilles de temps*
 
-Lorsqu’un utilisateur tente d’ajouter du temps à une feuille de temps ou de la fermer, elle n’est pas enregistrée et les erreurs suivantes s’affichent :
+Lorsqu’un utilisateur tente d’ajouter du temps à une feuille de temps ou de la fermer, cette dernière ne s’enregistre pas et les erreurs suivantes apparaissent :
 
-* Erreur de base de données en raison d&#39;une déclaration SQL non valide.
+* Erreur de base de données en raison d’une déclaration SQL non valide.
 * Vos dernières modifications n’ont pas été enregistrées. Actualisez la page pour les voir.
 
 +++
 
-+++**Mise à jour de maintenance (correctif) le 1 décembre 2022**
++++**Mise à jour de maintenance (correctif) le 1er décembre 2022**
 
 **Les erreurs de modification en ligne par l’utilisateur ne provoquent pas de messages d’erreur**
 
@@ -130,7 +130,7 @@ Les situations suivantes sont concernées :
 * Prédécesseurs : Une boucle précédente est créée, par exemple en affectant une tâche à elle-même.
 * Dates : Une date impossible est définie, par exemple une date de fin antérieure à la date de début ou postérieure à la date d’achèvement du projet.
 
-**Option &quot;Déplacer vers&quot; non disponible dans les rapports de problème**
+**L’option « Déplacer vers » n’est pas disponible dans les rapports d’événement**
 
 *Rapports*
 
@@ -146,9 +146,9 @@ Lorsque l’utilisateur consulte les mises à jour et survole un nom, une carte 
 
 +++
 
-+++**Mise à jour de maintenance le 1 décembre 2022**
++++**Mise à jour de maintenance le 1 décembre 2022**
 
-**L’ordre de la tâche dans la liste d’attente Kanban est égale à 0.**
+**L’ordre de la tâche dans la liste d’attente Kanban est égal à 0.**
 
 *Agile*
 
@@ -158,7 +158,7 @@ Lorsqu’un utilisateur consulte la liste d’attente d’une équipe Kanban, un
 
 *Formulaires personnalisés*
 
-Lorsque l’utilisateur ajoute un champ calculé à un formulaire personnalisé au niveau du problème et tente de faire référence à un « [!UICONTROL propriétaire] » (par exemple, `ownerID`), le champ n’est pas enregistré et le message suivant apparaît :
+Lorsque l’utilisateur ajoute un champ calculé à un formulaire personnalisé au niveau du problème et tente de faire référence à un « [!UICONTROL propriétaire] » (par exemple `ownerID`), le champ n’est pas enregistré et le message suivant apparaît :
 
 « [!UICONTROL Cette expression client n’est pas valide, veuillez réessayer.] »
 
@@ -202,7 +202,7 @@ Les feuilles de temps ne sont pas générées contrairement aux paramètres du p
 
 ## Mises à jour de novembre 2022
 
-+++**Mise à jour de maintenance le 17 novembre 2022**
++++**Mise à jour de maintenance le 17 novembre 2022**
 
 **Les documents sont envoyés dans la [!UICONTROL Corbeille] s’ils sont désélectionnés lorsqu’une tâche ou un problème est déplacé**
 
@@ -219,7 +219,7 @@ Lorsque l’utilisateur affiche ou masque un élément, c’est un autre éléme
 
 +++
 
-+++**Mise à jour de maintenance le 10 novembre 2022**
++++**Mise à jour de maintenance le 10 novembre 2022**
 
 **La modification en masse de tâches modifie les affectations de tâches**
 
@@ -283,7 +283,7 @@ L’accès aux rapports via un tableau de bord met à jour les informations rela
 
 *[!DNL Workfront]*
 
-Lorsqu’un utilisateur tente d’apporter des modifications à un objet [!DNL Workfront], les modifications ne sont pas enregistrées et l’utilisateur voit l’erreur suivante :
+Lorsqu’un utilisateur tente d’apporter des modifications à un objet [!DNL Workfront], les modifications ne sont pas enregistrées et l’utilisateur voit l’erreur suivante:
 
 « [!UICONTROL 500 : Erreur de base de données en raison d’une déclaration SQL non valide.] »
 
@@ -296,7 +296,7 @@ Les situations suivantes sont concernées :
 
 +++
 
-+++**[!DNL Workfront Fusion]Mise à jour de maintenance le 3 novembre 2022**
++++**[!DNL Workfront Fusion]Mise à jour de maintenance le 3 novembre 2022**
 
 **Erreur concernant [!UICONTROL apiKey] dans le module [!DNL Workfront] > [!UICONTROL Événements Espion]**
 
@@ -308,7 +308,7 @@ Lorsqu’un utilisateur tente d’ajouter un webhook dans le module [!DNL Workfr
 
 +++
 
-+++**Mise à jour de maintenance le 3 novembre 2022**
++++**Mise à jour de maintenance le 3 novembre 2022**
 
 **Renommez les sections « Planifier » et « Planification » pour les équipes et les projets dans le modèle de disposition.**
 
@@ -355,7 +355,7 @@ Notez que la fonctionnalité de ces paramètres n’a pas été modifiée et que
 
 ## Mises à jour d’octobre 2022
 
-+++**Mise à jour de maintenance le 27 octobre 2022**
++++**Mise à jour de maintenance le 27 octobre 2022**
 
 La fonction **[!UICONTROL HEURE] dans les champs calculés utilise le format UTC.**
 
@@ -525,7 +525,7 @@ Lorsqu’un événement se produit dans [!DNL Workfront Proof] et déclenche l�
 
 +++
 
-+++**Mise à jour de maintenance le 3 octobre 2022**
++++**Mise à jour de maintenance le 3 octobre 2022**
 
 **Enregistrement manuel de votre feuille de temps lorsque les rôles précédents d’une tâche ont été modifiés**
 
@@ -611,7 +611,7 @@ Désormais, lorsque vous partagez un filtre de projet avec un groupe qui comport
 
 +++
 
-+++**Mise à jour de maintenance le 8 septembre 2022**
++++**Mise à jour de maintenance le 8 septembre 2022**
 
 **Annulation de la mise à jour des noms de champs d’affectation de rôle et d’utilisateur**
 
@@ -652,7 +652,7 @@ Vous pouvez toujours utiliser des zones de dépôt d’autres manières pour sou
 
 +++
 
-+++**Mise à jour de maintenance le 6 septembre 2022**
++++**Mise à jour de maintenance le 6 septembre 2022**
 
 **Dates prévues ajoutées à la liste de champs pour les en-têtes de projet personnalisables**
 
@@ -959,7 +959,7 @@ Lorsque l’utilisateur convertit une demande en projet à l’aide d’un modè
 
 +++
 
-+++**Mise à jour de maintenance le 21 juillet 2022**
++++**Mise à jour de maintenance le 21 juillet 2022**
 
 Ces problèmes ont uniquement été résolus dans la nouvelle expérience [!DNL Workfront].
 
@@ -1008,7 +1008,7 @@ Lorsque l’administrateur de groupes copie un utilisateur et désélectionne l�
 
 +++
 
-+++**Mise à jour de maintenance le 14 juillet 2022**
++++**Mise à jour de maintenance le 14 juillet 2022**
 
 Ces problèmes ont uniquement été résolus dans la nouvelle expérience [!DNL Workfront].
 
@@ -1064,7 +1064,7 @@ Pour améliorer les performances de la zone [!UICONTROL Mises à jour], une nouv
 
 *Intégrations Workfront*
 
-Lorsque l’utilisateur tente de charger une pièce jointe avec l’intégration [!DNL Workfront for Outlook], la pièce jointe ne se charge pas et le message suivant apparaît :
+Lorsque l’utilisateur tente de charger une pièce jointe avec l’intégration [!DNL Workfront for Outlook], la pièce jointe ne se charge pas et le message suivant apparaît:
 
 [!UICONTROL Certaines pièces jointes n’ont pas été chargées. Cause : un problème est survenu au moment du chargement des pièces jointes.]
 
@@ -1107,7 +1107,7 @@ Ce filtre se trouve désormais dans la section « [!UICONTROL Suggestions] » 
 
 ## Mises à jour de juin 2022
 
-+++**Mise à jour de maintenance le 30 juin 2022**
++++**Mise à jour de maintenance le 30 juin 2022**
 
 **Afficher l’[!UICONTROL équilibreur de charge de travail] pendant une semaine**
 
@@ -1162,7 +1162,7 @@ Lorsque l’utilisateur consulte le [!UICONTROL workflow d’une épreuve] et te
 
 +++
 
-+++**Mise à jour de maintenance le 23 juin 2022**
++++**Mise à jour de maintenance le 23 juin 2022**
 
 **[!UICONTROL Impossible d’ajouter une nouvelle demande depuis le tableau de bord]**
 
@@ -1209,11 +1209,11 @@ Lorsque l’utilisateur accède à l’[!UICONTROL équilibreur de charge de tra
 
 **Les utilisateurs disposant d’autorisations de niveau [!UICONTROL Gérer] pour un plan peuvent le partager avec d’autres personnes**
 
-Les utilisateurs disposant d’autorisations de niveau [!UICONTROL Gérer] pour un plan dans le [!DNL Scenario Planner] peuvent désormais le partager avec d’autres utilisateurs. Avant cette mise à jour, seul le créateur du plan pouvait partager son plan avec d’autres utilisateurs.
+Les utilisateurs disposant d’autorisations de niveau [!UICONTROL Gérer] pour un plan dans le [!DNL Scenario Planner]peuvent désormais le partager avec d’autres utilisateurs. Avant cette mise à jour, seul le créateur du plan pouvait partager son plan avec d’autres utilisateurs.
 
 +++
 
-+++**Mise à jour de maintenance le 16 juin 2022**
++++**Mise à jour de maintenance le 16 juin 2022**
 
 **L’administrateur de groupes ne peut pas ajouter de membres au groupe**
 
@@ -1259,7 +1259,7 @@ Lorsque l’utilisateur tente d’ouvrir la zone [!UICONTROL Demandes de travail
 
 +++
 
-+++** Mise à jour de maintenance le 9 juin 2022**
++++**Mise à jour de maintenance le 9 juin 2022**
 
 **Impossible de sélectionner les objets à filtrer dans les préférences de l’[!UICONTROL optimisateur de portfolio]**
 
@@ -1281,7 +1281,7 @@ Lorsque l’utilisateur disposant d’un accès de niveau Planificateur qui incl
 
 +++
 
-+++**[!DNL Workfront Scenario Planner] Mise à jour de maintenance le 9 juin 2022**
++++**[!DNL Workfront Scenario Planner]Mise à jour de maintenance le 9 juin 2022**
 
 **Panneau de gauche redimensionnable dans [!DNL Scenario Planner]**
 
@@ -1291,7 +1291,7 @@ Vous pouvez désormais redimensionner le panneau de gauche d’un plan dans le [
 
 +++
 
-+++**[!DNL Workfront Fusion] Mise à jour de maintenance le 9 juin 2022**
++++**[!DNL Workfront Fusion]Mise à jour de maintenance le 9 juin 2022**
 
 **Certaines données provenant de formulaires personnalisés ne sont pas disponibles dans les [!DNL Workfront Fusion] [!DNL Workfront] modules**
 
@@ -1307,7 +1307,7 @@ Lorsque l’utilisateur consulte l’historique d’exécution d’un scénario 
 
 +++
 
-+++**Mise à jour de maintenance le 2 juin 2022**
++++**Mise à jour de maintenance le 2 juin 2022**
 
 L’**[!UICONTROL optimisateur de portfolio] indique un score de 0 lors de l’utilisation d’une langue autre que l’anglais**
 
@@ -1335,8 +1335,7 @@ Lorsque l’utilisateur tente de modifier les [!UICONTROL Conditions] dans les [
 >
 >Cette mise à jour est uniquement valable pour l’environnement de prévisualisation.
 
-Pour améliorer les performances de la zone Mises à jour, une nouvelle limite de nombre de caractères saisis dans une mise à jour ou une réponse à une mise à jour existante a été ajoutée. La nouvelle limite est de 15 000 caractères. Cette mise à jour n’a pas modifié le nombre de caractères autorisés avec l’API. La limite de caractères des mises à jour avec l’API est de 4 000. Mises à jour 
-Prise en charge des champs personnalisés de saisie semi-automatique dans les filtres de l’équilibreur de charge de travail
+Pour améliorer les performances de la zone Mises à jour, une nouvelle limite de nombre de caractères saisis dans une mise à jour ou une réponse à une mise à jour existante a été ajoutée. La nouvelle limite est de 15 000 caractères. Cette mise à jour n’a pas modifié le nombre de caractères autorisés avec l’API. La limite de caractères des mises à jour avec l’API est de 4 000. Mises à jour Prise en charge des champs personnalisés de saisie semi-automatique dans les filtres de l’équilibreur de charge de travail
 
 Les filtres basés sur les champs personnalisés de [!UICONTROL saisie semi-automatique] sont désormais compatibles avec l’équilibreur de charge de travail. Avant ce correctif, le filtrage de ce type de champs personnalisés n’était pas possible dans l’équilibreur de charge de travail.
 
@@ -1377,8 +1376,7 @@ Lorsque l’utilisateur tente de modifier un formulaire personnalisé comprenant
 
 *Tableaux de bord*
 
-Les problèmes suivants ont été signalés lors de l’impression d’un tableau de bord au format PDF : 
-Toutes les lignes du rapport ne figurent pas sur le PDF imprimé. À l’endroit des lignes sont manquantes, seuls des espaces vides apparaissent.
+Les problèmes suivants ont été signalés lors de l’impression d’un tableau de bord au format PDF : Toutes les lignes du rapport ne figurent pas sur le PDF imprimé. À l’endroit des lignes sont manquantes, seuls des espaces vides apparaissent.
 Le PDF inclut des espaces vides entre les en-têtes de colonne et la première ligne du rapport.
 
 **[!DNL Portfolio Optimizer] indique un score de 0 lors de l’utilisation d’une langue autre que l’anglais**
@@ -1571,7 +1569,7 @@ Lorsque l’utilisateur modifie une feuille de temps, il ne peut pas faire défi
 
 *Épreuves*
 
-Lors de la signature électronique d’une épreuve, le système vérifie désormais l’ID de fédération si le SSO est activé dans [!DNL Workfront Proof] en plus de votre adresse e-mail dans [!DNL Workfront].
+Lors de la signature électronique d’une épreuve, le système vérifie désormais l’ID de fédération si le SSO est activé dans [!DNL Workfront Proof]en plus de votre adresse e-mail dans [!DNL Workfront].
 
 Auparavant, le système vérifiait uniquement votre adresse e-mail dans Workfront.
 
@@ -1599,7 +1597,7 @@ Lorsque l’utilisateur ajoute une tâche sous une tâche existante dans une lis
 
 *Épreuves*
 
-Si l’utilisateur est ajouté à une étape du workflow d’une épreuve, il n’est pas ajouté au partage de document et n’obtient aucune autorisation concernant l’élément de travail de l’épreuve dans [!DNL Workfront]. Lorsque l’utilisateur tente d’ouvrir l’élément de travail auquel l’épreuve est jointe dans [!DNL Workfront], le message suivant apparaît :
+Si l’utilisateur est ajouté à une étape du workflow d’une épreuve, il n’est pas ajouté au partage de document et n’obtient aucune autorisation concernant l’élément de travail de l’épreuve dans [!DNL Workfront]. Lorsque l’utilisateur tente d’ouvrir l’élément de travail auquel l’épreuve est jointe dans[!DNL Workfront], le message suivant apparaît:
 
 « [!UICONTROL Vous ne disposez pas d’un accès suffisant pour afficher ce (l’objet)] »
 
@@ -1687,7 +1685,7 @@ Lorsque l’utilisateur de l’[!UICONTROL équilibreur de charge de travail] te
 
 +++
 
-+++**Mise à jour de maintenance le 7 avril 2022**
++++**Mise à jour de maintenance le 7 avril 2022**
 
 **Les utilisateurs ajoutés aux épreuves ont des rôles incorrects**
 
@@ -1777,7 +1775,7 @@ Lorsque l’utilisateur accède à la page des Projets depuis un onglet épingl�
 
 ## Mises à jour de mars 2022
 
-+++**Mise à jour de maintenance le 31 mars 2022**
++++**Mise à jour de maintenance le 31 mars 2022**
 
 **Les fuseaux horaires de [!DNL Workfront] et de [!DNL Workfront Proof]** ne sont pas cohérents
 
@@ -1851,7 +1849,7 @@ REMARQUE : ce correctif concernait également des fonctionnalités supplémenta
 
 +++
 
-+++**Mise à jour de maintenance le 24 mars 2022**
++++**Mise à jour de maintenance le 24 mars 2022**
 
 **Les fuseaux horaires de [!DNL Workfront] et de [!DNL Workfront Proof]** ne sont pas cohérents
 
@@ -1863,8 +1861,7 @@ Si le profil de l’utilisateur est défini sur un fuseau horaire spécifique da
 
 *Projets*
 
-Lorsqu’un modèle avec des champs personnalisés obligatoires est joint à un projet dans lequel le champ rempli existe déjà, l’erreur suivante se produit : « [!UICONTROL Certains champs sont incomplets. Saisissez les valeurs des champs obligatoires pour continuer.] » 
-Cliquer sur « [!UICONTROL Y accéder] » permet de constater que les champs sont remplis et que le modèle peut être joint.
+Lorsqu’un modèle avec des champs personnalisés obligatoires est joint à un projet dans lequel le champ rempli existe déjà, l’erreur suivante se produit : « [!UICONTROL Certains champs sont incomplets. Saisissez les valeurs des champs obligatoires pour continuer.] » Cliquer sur « [!UICONTROL Y accéder] » permet de constater que les champs sont remplis et que le modèle peut être joint.
 
 **L’[!UICONTROL équilibreur de charge de travail] clignote en passant d’une date à l’autre**
 
@@ -1886,7 +1883,7 @@ Cela perturbe les utilisateurs finaux.
 
 +++
 
-+++**Mise à jour de maintenance le 17 mars 2022**
++++**Mise à jour de maintenance le 17 mars 2022**
 
 **Les miniatures et les images principales des fichiers à plusieurs pages sont vides dans le [!DNL Safari] navigateur**
 
@@ -1922,7 +1919,7 @@ L’onglet [!UICONTROL Accès aux blueprints] a été supprimé de la fenêtre m
 
 +++
 
-+++**Mise à jour de maintenance (correctif) le 14 mars 2022**
++++**Mise à jour de maintenance (correctif) le 14 mars 2022**
 
 **Impossible de faire défiler la liste des utilisateurs lors d’une affectation dans le tableau kanban**
 
@@ -1964,7 +1961,7 @@ Les utilisateurs ne peuvent pas réinitialiser leurs mots de passe dans aucun en
 
 +++
 
-+++**Mise à jour de maintenance le 10 mars 2022**
++++**Mise à jour de maintenance le 10 mars 2022**
 
 **Problèmes de connexion à l’environnement de prévisualisation**
 
@@ -1974,7 +1971,7 @@ Les problèmes suivants liés à la connexion à l’environnement de prévisual
 
 Lorsque l’utilisateur tente de se connecter à l’environnement de prévisualisation, un message l’informant que l’ID ou le mot de passe saisi est incorrect apparaît.
 
-Lorsque l’utilisateur tente de réinitialiser son mot de passe, le message d’erreur « [!UICONTROL Plusieurs utilisateurs correspondent à cette adresse e-mail <example@example.com>] » apparaît.
+Lorsque l’utilisateur tente de réinitialiser son mot de passe, le message d’erreur « [!UICONTROL Plusieurs utilisateurs correspondent à cette adresse e-mail <example@example.com>]» apparaît.
 
 **Les formulaires personnalisés se chargent lentement dans la zone [!UICONTROL Détails du projet]**
 
@@ -2034,8 +2031,7 @@ Modifier le statut d’un projet, d’une tâche ou d’un événement, puis com
 
 Lorsque l’utilisateur ajoute un autre utilisateur à une épreuve, son rôle dans l’épreuve est défini comme en « [!UICONTROL Lecture seule] » malgré le véritable rôle d’épreuve de l’utilisateur.
 
-Solution : 
-Changez le rôle de l’utilisateur sur l’épreuve indiqué dans son profil puis repassez-le au rôle approprié.
+Solution : Changez le rôle de l’utilisateur sur l’épreuve indiqué dans son profil puis repassez-le au rôle approprié.
 
 **Le formulaire personnalisé ne se charge pas lors de la conversion d’un événement en projet à l’aide d’un modèle**
 
@@ -2075,7 +2071,7 @@ Lorsque l’utilisateur modifie le statut d’un élément de travail dans l’e
 
 +++
 
-+++**Mise à jour de maintenance le 3 mars 2022**
++++**Mise à jour de maintenance le 3 mars 2022**
 
 **Impossible d’ajouter de document à partir de [!DNL Google Drive]**
 
@@ -2140,7 +2136,7 @@ Les rapports dans les tableaux de bord possèdent désormais une nouvelle barre 
 
 ## Mises à jour de février 2022
 
-+++**Mise à jour de maintenance (correctif) le 24 février 2022**
++++**Mise à jour de maintenance (correctif) le 24 février 2022**
 
 **Les données ne sont pas conservées lors de la conversion d’événements en projets si le champ est masqué dans le modèle**
 
@@ -2164,7 +2160,7 @@ Lorsque l’utilisateur tente de copier une demande, le bouton [!UICONTROL Copie
 
 +++
 
-+++**Mise à jour de maintenance le 24 février 2022**
++++**Mise à jour de maintenance le 24 février 2022**
 
 **Les données des formulaires personnalisés disparaissent lorsque d’autres champs des formulaires sont remplis**
 
@@ -2236,7 +2232,7 @@ Correction d’un problème qui permettait aux utilisateurs d’insérer un type
 
 +++
 
-+++**Mise à jour de maintenance le 17 février 2022**
++++**Mise à jour de maintenance le 17 février 2022**
 
 **Erreur lors de la suppression du prédécesseur depuis l’onglet Prédécesseurs**
 
@@ -2284,7 +2280,7 @@ Lorsque l’utilisateur convertit un événement en projet à l’aide d’un mo
 
 +++
 
-+++**Mise à jour de maintenance le 10 février 2022**
++++**Mise à jour de maintenance le 10 février 2022**
 
 **Erreur « [!UICONTROL Vous devez être un administrateur système] » lors de la création d’un projet**
 
@@ -2318,7 +2314,7 @@ Lorsque l’utilisateur au statut d’administrateur tente d’afficher des proj
 
 +++
 
-+++**Mise à jour de maintenance le 3 février 2022**
++++**Mise à jour de maintenance le 3 février 2022**
 
 Erreur **[!UICONTROL BizContext] lors de la connexion**
 
@@ -2384,7 +2380,7 @@ Lorsque l’utilisateur tente de convertir un événement en projet, l’événe
 
 ## Mises à jour de janvier 2022
 
-+++**Mise à jour de maintenance le 27 janvier 2022**
++++**Mise à jour de maintenance le 27 janvier 2022**
 
 **Les données personnalisées ne sont pas conservées lors de la conversion d’un événement en projet**
 
@@ -2412,7 +2408,7 @@ La limite du nombre d’adresses IP ajoutées à votre liste autorisée [!DNL Wo
 
 +++
 
-+++**Mise à jour de maintenance le 20 janvier 2022**
++++**Mise à jour de maintenance le 20 janvier 2022**
 
 **Erreur « [!UICONTROL Paramètre non valide] » lors de la création d’un projet à partir d’un modèle**
 
@@ -2434,7 +2430,7 @@ Lorsque l’utilisateur tente de déplacer une tâche dans une liste en la faisa
 
 +++
 
-+++**[!DNL Workfront Fusion]Mise à jour de maintenance le 14 janvier 2022**
++++**[!DNL Workfront Fusion]Mise à jour de maintenance le 14 janvier 2022**
 
 **Certains champs mappés sont réinitialisés lors de la sélection d’un [!UICONTROL nouveau champ à mapper]**
 
@@ -2444,7 +2440,7 @@ Lorsque le mappage est activé pour au moins un champ du module [!UICONTROL Cré
 
 +++
 
-+++**Mise à jour de maintenance le 13 janvier 2022**
++++**Mise à jour de maintenance le 13 janvier 2022**
 
 **Impossible d’ajouter un lien hypertexte à un commentaire dans le panneau Résumé**
 
@@ -2478,7 +2474,7 @@ Lorsque l’utilisateur sélectionne « [!UICONTROL Afficher plus d’élément
 
 +++
 
-+++**Mise à jour de maintenance le 6 janvier 2022**
++++**Mise à jour de maintenance le 6 janvier 2022**
 
 **Erreur « [!UICONTROL Paramètre non valide] » lorsque des modèles ou des formulaires personnalisés sont joints à des projets**
 
@@ -2492,11 +2488,11 @@ Lorsque l’utilisateur tente de joindre un formulaire personnalisé ou un modè
 
 Lorsque l’utilisateur consulte une épreuve dans la zone [!UICONTROL Documents], les commentaires ajoutés sur l’épreuve ne s’affichent pas dans la zone des [!UICONTROL mises à jour] du document.
 
-**[!UICONTROL Équilbreur de charge de travail] : « [!UICONTROL  ?[Objet d’objet] ?] » s’affiche dans les informations de suraffectation**
+**[!UICONTROL Équilbreur de charge de travail] : « [!UICONTROL ?[Objet d’objet] ?] » s’affiche dans les informations de suraffectation**
 
 *[!UICONTROL Équilbreur de charge de travail]*
 
-Si l’utilisateur est indiqué comme suraffecté dans l’[!UICONTROL équilibreur de charge de travail] en raison d’une tâche qui empiète sur son temps de pause et qu’un autre utilisateur consulte sa suraffectation, la zone « [!UICONTROL Capacité] » des informations de suraffectation indique « [!UICONTROL  ?[Objet d’objet] ?] » plutôt que la capacité réelle de l’utilisateur.
+Si l’utilisateur est indiqué comme suraffecté dans l’[!UICONTROL équilibreur de charge de travail] en raison d’une tâche qui empiète sur son temps de pause et qu’un autre utilisateur consulte sa suraffectation, la zone « [!UICONTROL Capacité] » des informations de suraffectation indique « [!UICONTROL ?[Objet d’objet] ?] » plutôt que la capacité réelle de l’utilisateur.
 
 +++
 
