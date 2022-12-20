@@ -1,20 +1,20 @@
 ---
-title: "Bons à tirer : L’état du BAT n’est pas mis à jour dans les listes de documents"
-description: "Lorsque l’état d’un BAT change, une liste de documents indiquant que le BAT n’affiche pas le nouvel état correct."
+title: '« Épreuves : le statut de l’épreuve n’est pas mis à jour dans les listes de documents »'
+description: « Lorsque le statut d’une épreuve change, une liste de documents apparaît, indiquant que l’épreuve n’affiche pas le nouveau statut. »
 hidefromtoc: true
 source-git-commit: 4557df164d16b5451cb23d19399655a363641ae9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# Bons à tirer : L’état du BAT n’est pas mis à jour dans [!UICONTROL Document] lists
+# Épreuves : le statut de l’épreuve n’est pas mis à jour dans les listes de [!UICONTROL documents]
 
-Lorsque l’état d’un BAT change, une [!UICONTROL Document] liste indiquant que le BAT n’affiche pas le nouvel état correct.
+Lorsque le statut d’une épreuve change, une liste de [!UICONTROL documents] apparaît, indiquant que l’épreuve n’affiche pas le nouveau statut.
 
-Le [!UICONTROL Workflow de BAT] page [!DNL Workfront] affiche le statut correct du BAT.
+La page du [!UICONTROL workflow d’une épreuve] dans [!DNL Workfront] affiche le nouveau statut de celle-ci.
 
-_Premier signalement le 3 août 2022._
+_Premier signalement le 3 août 2022._
 
