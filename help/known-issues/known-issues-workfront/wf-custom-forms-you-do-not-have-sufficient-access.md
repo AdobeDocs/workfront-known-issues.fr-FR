@@ -1,9 +1,9 @@
 ---
-title: '« Formulaires personnalisés : erreur "Vous ne disposez pas d’un niveau d’accès suffisant" lors de la modification d’un formulaire personnalisé »'
-description: '« Lorsque l’utilisateur tente de modifier un formulaire personnalisé, la modification n’est pas enregistrée et le message d’erreur suivant apparaît : "Vous ne disposez pas d’un niveau d’accès suffisant pour modifier ce paramètre". »'
+title: '« Formulaires personnalisés : erreur « Vous ne disposez pas d’un niveau d’accès suffisant » lors de la modification d’un formulaire personnalisé »'
+description: '« Lorsque l’utilisateur tente de modifier un formulaire personnalisé, la modification n’est pas enregistrée et le message d’erreur suivant apparaît : « Vous ne disposez pas d’un niveau d’accès suffisant pour modifier ce paramètre ». »'
 hidefromtoc: true
 source-git-commit: 7bb0987beff9127e4f5ebf82401f5243712f45f0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
 ht-degree: 100%
 
