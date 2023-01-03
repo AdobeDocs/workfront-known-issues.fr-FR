@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
-source-git-commit: c3f753f5cba03766f04f530edee1a726142475f5
+source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
 workflow-type: tm+mt
-source-wordcount: '1253'
-ht-degree: 96%
+source-wordcount: '1268'
+ht-degree: 98%
 
 ---
 
@@ -16,11 +16,12 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Forms personnalisé : Ctrl+F ou Cmd+F ne fonctionnent pas comme prévu dans les champs de liste déroulante](known-issues-workfront/wf-custom-forms-dropdown-search.md)
       + [Bons à tirer : Les bons à tirer ne désarchivent pas](known-issues-workfront/wf-proofs-do-not-unarchive.md)
       + [Documents : Impossible d’ajouter des documents depuis [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
-      + [Rapports : L’écran Modifier le rapport est vide](known-issues-workfront/wf-reports-edit-report-is-blank.md)
-      + [Documents : Les autorisations de document ne sont pas héritées lorsque le problème parent est converti en projet.](known-issues-workfront/wf-documents-permissions-not-inherited.md)
-      + [Rapports : Le rapport utilise le créateur de rapports au lieu du caractère générique &quot;$$$[!UICONTROL USERID]&quot;](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
+      + [Rapports : l’écran « Modifier le rapport » est vide](known-issues-workfront/wf-reports-edit-report-is-blank.md)
+      + [Documents : les autorisations de document ne sont pas héritées lorsque le problème parent est converti en projet.](known-issues-workfront/wf-documents-permissions-not-inherited.md)
+      + [Rapports : le rapport utilise le créateur de rapports plutôt que le caractère de remplacement « $$[!UICONTROL USERID] »](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
       + [Documents : impossible de charger le fichier MP4](known-issues-workfront/wf-documents-cannot-upload-mp4.md)
       + [Intégrations : impossible d’ouvrir [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)
       + [Tâches : impossible d’ajouter une sous-tâche](known-issues-workfront/wf-tasks-cannot-add-subtask.md)
@@ -48,7 +49,7 @@ ht-degree: 96%
       + [Agile : La tâche a un ordre de backlog Kanban égal à 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
       + [Tâches : Impossible de modifier la [!UICONTROL Date d’achèvement prévue] d’une tâche](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
       + [Workfront : Erreur 500 lors de la modification d’un objet Workfront](known-issues-workfront/wf-500-error-when-making-changes.md)
-      + [Demandes : Message « Ooops » lors de la modification de la file d’attente des demandes](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
+      + [Demandes : Message « Oups » lors de la modification de la file d’attente des demandes](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
       + [Listes : Les erreurs de modification en ligne par l’utilisateur ne provoquent pas de messages d’erreur](known-issues-workfront/wf-lists-error-messages-not-generated.md)
       + [Recherche : La recherche est extrêmement lente.](known-issues-workfront/wf-search-basic-search-is-slow.md)
       + [[!DNL Workfront Fusion] : Erreurs 404 sur les modules [!DNL Workfront] ](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md)
@@ -59,7 +60,7 @@ ht-degree: 96%
       + [Problèmes : La navigation de gauche affiche « (0) » problèmes alors que des problèmes existent](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
       + [Demandes : [!UICONTROL Paramètres de la file d’attente des e-mails] non disponibles](known-issues-workfront/wf-requests-email-queue-details-not-available.md)
       + [[!UICONTROL Panoramas] : La recherche de colonnes [!UICONTROL Extraction] ne génère aucun résultat.](known-issues-workfront/wf-boards-search-returns-no-results.md)
-      + [[!UICONTROL Configuration] : Les listes se chargent lentement dans [!UICONTROL Configuration]](known-issues-workfront/wf-setup-lists-load-slowly.md)
+      + [[!UICONTROL Configuration] : les listes se chargent lentement dans [!UICONTROL Configuration]](known-issues-workfront/wf-setup-lists-load-slowly.md)
       + [Formulaires personnalisés : La fonction [!UICONTROL HEURE] dans les champs calculés utilise le format UTC.](known-issues-workfront/wf-custom-form-hours-use-utc.md)
       + [Agile : Les tâches affectées au moyen de la modification en bloc n’apparaissent pas dans la liste d’attente de l’équipe.](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md)
       + [Rapports : les informations d’utilisation des rapports ne sont pas mises à jour](known-issues-workfront/wf-reports-usage-not-updating.md)
@@ -103,7 +104,7 @@ ht-degree: 96%
       + [Tâches et événements : la fenêtre se ferme accidentellement lors de la création de tâches ou d’événements](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md)
       + [Mises à jour : impossible de fermer la carte d’utilisateur dans le flux de mise à jour](known-issues-workfront/wf-updates-cant-close-user-card.md)
       + [Demandes : seule la première page de la liste de demandes peut être ouverte](known-issues-workfront/wf-requests-cannot-open-second-page-of-requests-list.md)
-      + [[!DNL Workfront] : problèmes lors de la soumission d’un cas d’assistance  [!DNL Workfront] sur Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md)
+      + [[!DNL Workfront] : problèmes lors de la soumission d’un cas d’assistance  [!DNL Workfront]  sur Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md)
       + [Notifications : les utilisateurs ne reçoivent pas de notification par e-mail lorsqu’ils sont mentionnés dans un commentaire](known-issues-workfront/wf-notif-users-not-receive-email-when-mentioned.md)
       + [Feuilles de temps : erreur « Les derniers changements n’ont pas été enregistrés » lors de l’enregistrement automatique des modifications sur une feuille de temps](known-issues-workfront/wf-timesheets-recent-changes-not-saved-error.md)
       + [Tableaux de bord : les graphiques des rapports affichés dans un tableau de bord ne sont pas de la même couleur que ceux affichés dans le rapport](known-issues-workfront/wf-dashboard-reports-wrong-color.md)
@@ -159,17 +160,17 @@ ht-degree: 96%
    + [Problèmes connus dans Workfront Fusion](workfrontfusion.md)
    + Problèmes actifs dans [!DNL Workfront Fusion] {#fusion-current}
       + [[!DNL Workfront Fusion] : impossible de créer une connexion à [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
-      + [[!DNL Workfront Fusion] : Les éléments de tableau du module [!UICONTROL Itérateur] s’affichent sous la forme d’un « [!UICONTROL objet Object] »](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
+      + [[!DNL Workfront Fusion] : les éléments de tableau du module [!UICONTROL Itérateur] s’affichent sous la forme d’un « [!UICONTROL objet Objet] »](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion] : erreur lors de l’affichage d’une erreur dans l’historique d’exécution d’un scénario](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion] : erreur 409 dans un scénario [!DNL Fusion] ](known-issues-workfront-fusion/fusion-409-error.md)
       + [[!DNL Workfront Fusion] : erreur « [!UICONTROL Échec du chargement des données] »](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md)
-      + [[!DNL Workfront Fusion] :  [!DNL Workfront] > [!UICONTROL module d’appel d’API personnalisé] renvoie des erreurs 404 ou 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion] :  [!DNL Workfront]  > [!UICONTROL module d’appel d’API personnalisé] renvoie des erreurs 404 ou 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion] :  [!DNL Adobe PDF Services]  > Module d’[!UICONTROL extraction de texte] ne produit pas de texte](known-issues-workfront-fusion/fusion-pdf-extract-text.md)
       + [[!DNL Workfront Fusion] : erreur « Échec de vérification de la connexion »](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion] : le module ne se charge pas lors de la création ou de la modification d’un scénario](known-issues-workfront-fusion/fusion-module-does-not-load.md)
       + [[!DNL Workfront Fusion] : le module  [!DNL Fusion] renvoie une erreur 404 sans autre information](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] : impossible de se connecter au module MS Dynamics dans Fusion](known-issues-workfront-fusion/fusion-unable-to-connect-to-ms-dynamics-module.md)
-      + [Les liens d’aide in-app de [!DNL Workfront Fusion]ne mènent pas à des pages d’aide spécifiques](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
+      + [Les liens d’aide in-app de [!DNL Workfront Fusion] ne mènent pas à des pages d’aide spécifiques](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + [!UICONTROL Adobe Workfront Goals] {#goals}
    + [Problèmes connus dans [!DNL Workfront Goals]](workfrontgoals.md)
