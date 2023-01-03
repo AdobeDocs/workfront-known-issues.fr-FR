@@ -86,7 +86,7 @@ ht-degree: 98%
       + [Équipes : lors de l’affectation de plusieurs équipes, une seule équipe est affectée](known-issues-workfront/wf-teams-multiple-team-assignments.md)
       + [Notifications : utilisateurs non avertis lorsqu’ils sont mentionnés ou inclus dans un commentaire](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md)
       + [Feuilles de temps : erreurs lors de l’ajout de commentaires à une feuille de temps](known-issues-workfront/wf-timesheets-permissions-error-when-adding-hours.md)
-      + [Épreuves : impossible d’ouvrir l’épreuve dans  [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md)
+      + [Épreuves : impossible d’ouvrir l’épreuve dans  [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md)
       + [Tâches : les heures ne sont pas enregistrées lors de la saisie des heures dans le panneau [!UICONTROL Résumé de la tâche]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [Épreuves : l’utilisateur ne revient pas à la page précédente lors de la fermeture de l’épreuve](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md)
       + [Notifications : erreurs lors de l’accès aux paramètres de notification par e-mail](known-issues-workfront/wf-notifications-preview-errors-with-options.md)

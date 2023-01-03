@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Ce problème a été résolu le 15er décembre 2022.
+>Ce problème a été résolu le 15 décembre 2022.
 
 Lorsqu’un utilisateur tente d’ajouter des heures à une feuille de temps, les cases « heure » dans les lignes de temps du projet ou de la tâche sont grisées et l’utilisateur ne peut saisir d’heures dans ces cases. Seule la partie « Heure générale » peut être complétée.
 
