@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
+source-git-commit: 69396ba9c1dabade728cca5c9dce97b2d7c1998c
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 81%
+source-wordcount: '130'
+ht-degree: 52%
 
 ---
 
@@ -23,7 +23,15 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 +++**Mise à jour de maintenance (planifiée) le 5 janvier 2023**
 
-Cette mise à jour contient uniquement des correctifs mineurs ou moins importants.
+**Fonctionnalité d’épingle disponible dans [!UICONTROL Plus] menu**
+
+_Navigation_
+
+Les fonctionnalités suivantes sont désormais disponibles dans la [!UICONTROL Plus] pour les pin&#39;s, dans l’environnement Aperçu uniquement :
+
+* Renommer les pin
+* Réorganisation des pin’s dans [!UICONTROL Plus] menu
+* Déplacement d’une épingle du [!UICONTROL Plus] (lorsque vous procédez de la sorte, la dernière épingle de la barre de navigation supérieure est déplacée vers le [!UICONTROL Plus] menu)
 
 +++
 
