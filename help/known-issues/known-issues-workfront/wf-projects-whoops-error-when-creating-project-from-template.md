@@ -3,7 +3,7 @@ title: '« Projets : erreur « Oups » lors de la création d’un projet à
 description: '« Lorsqu’un utilisateur tente de créer un projet à partir d’un modèle, le projet n’est pas créé et l’erreur suivante apparaît : « Oups ! Un problème est survenu. Contactez Workfront pour nous aider à comprendre l’erreur et y remédier. » »'
 hidefromtoc: true
 source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '121'
 ht-degree: 100%
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Ce problème a été résolu le 15er décembre 2022.
+>Ce problème a été résolu le 15 décembre 2022.
 
 Lorsque l’utilisateur tente de créer un projet à partir d’un modèle, le projet n’est pas créé et l’erreur suivante apparaît :
 
