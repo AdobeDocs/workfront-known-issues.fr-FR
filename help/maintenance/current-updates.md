@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: fef42f59b0dd8f9494478254e73fa9615852bf8a
+source-git-commit: aa129b37ee460450fa8c015b2f1c4b15c1dc466f
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 38%
+source-wordcount: '341'
+ht-degree: 60%
 
 ---
 
@@ -38,6 +38,21 @@ Les fonctionnalités suivantes sont désormais disponibles dans la [!UICONTROL P
 _Équipes_
 
 Nous avons supprimé la limitation qui obligeait les utilisateurs qui doivent être ajoutés à une équipe de projet à faire partie du groupe associé au projet. Vous pouvez désormais ajouter n’importe quel utilisateur principal à une équipe de projet, quels que soient les groupes auxquels il appartient.
+
+**Nouvelles icônes d’informations pour les feuilles de temps, les profils de feuille de temps et les préférences de la feuille de temps**
+
+>[!NOTE]
+>
+>Cette mise à jour a été publiée dans l’environnement Aperçu le 3 novembre 2022 et est désormais disponible dans l’environnement de production.
+
+_Workfront_
+
+Nous avons ajouté plusieurs icônes d’informations pour les paramètres suivants :
+
+* La case « Peut modifier l’heure » lors de la création ou de la modification d’une feuille de temps ou d’un profil de feuille de temps indique, lorsqu’elle est cochée, que les approbateurs peuvent également envoyer, rouvrir ou modifier la feuille de temps, sauf si votre administrateur restreint ces actions dans les « Préférences de la feuille de temps » de la section « Configuration ».
+* « Limiter la modification de la feuille de temps aux propriétaires et aux administrateurs » dans la zone « Préférences de la feuille de temps et d’heure » de la section « Configuration » pour indiquer que, lorsque cette case est décochée, les utilisateurs suivants peuvent également modifier les feuilles de temps : les utilisateurs disposant d’un accès administratif aux feuilles de temps et d’heure, les approbateurs de feuilles de temps autorisés à modifier l’heure et les gestionnaires des propriétaires de feuilles de temps.
+
+Notez que la fonctionnalité de ces paramètres n’a pas été modifiée et que seules des icônes d’informations ont été ajoutées pour clarifier la fonction des paramètres.
 
 +++
 
