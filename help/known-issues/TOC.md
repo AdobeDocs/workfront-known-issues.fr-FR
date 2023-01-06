@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
-source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
+source-git-commit: 765a69f5f29836e6296a79688c555d681964a6ba
 workflow-type: tm+mt
-source-wordcount: '1268'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Tâches : Les tâches en retrait ne restent pas en retrait](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)
+      + [Mises à jour : L’écran devient temporairement vide lorsque la réponse est envoyée](known-issues-workfront/wf-updates-reply-goes-blank.md)
       + [Forms personnalisé : Ctrl+F ou Cmd+F ne fonctionnent pas comme prévu dans les champs de liste déroulante](known-issues-workfront/wf-custom-forms-dropdown-search.md)
       + [Bons à tirer : Les bons à tirer ne désarchivent pas](known-issues-workfront/wf-proofs-do-not-unarchive.md)
       + [Documents : Impossible d’ajouter des documents depuis [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)

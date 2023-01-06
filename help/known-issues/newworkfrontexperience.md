@@ -3,10 +3,10 @@ title: Problèmes connus dans la nouvelle expérience [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
+source-git-commit: 765a69f5f29836e6296a79688c555d681964a6ba
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '647'
+ht-degree: 93%
 
 ---
 
@@ -24,6 +24,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Mises à jour : L’écran devient temporairement vide lorsque la réponse est envoyée](known-issues-workfront/wf-updates-reply-goes-blank.md) | 6 janvier 2023 |
 | [Documents : Impossible d’ajouter des documents depuis [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) | 20 décembre 2022 |
 | [Documents : les autorisations de document ne sont pas héritées lorsque le problème parent est converti en projet.](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 16 décembre 2022 |
 | [Rapports : le rapport utilise le créateur de rapports plutôt que le caractère de remplacement « $$[!UICONTROL USERID] »](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md) | 13 décembre 2022 |
@@ -41,6 +42,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Tâches : Les tâches en retrait ne restent pas en retrait](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md) | 6 janvier 2023 |
 | [Forms personnalisé : Ctrl+F ou Cmd+F ne fonctionnent pas comme prévu dans les champs de liste déroulante](known-issues-workfront/wf-custom-forms-dropdown-search.md) | 3 janvier 2023 |
 | [Bons à tirer : Les bons à tirer ne désarchivent pas](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 20 décembre 2022 |
 | [Rapports : l’écran « Modifier le rapport » est vide](known-issues-workfront/wf-reports-edit-report-is-blank.md) | 20 décembre 2022 |
