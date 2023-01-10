@@ -3,18 +3,20 @@ title: '« Accueil : les épreuves terminées sont bloquées dans la Liste de 
 description: Une fois que l’utilisateur termine une épreuve, elle apparaît toujours dans la [!UICONTROL Liste de travail].
 exl-id: 1d52d477-4ba9-4a64-a91d-26682a6c607f
 hidefromtoc: true
-source-git-commit: a98c5f2dde335245343c56a2cabea9caef27e56f
-workflow-type: ht
-source-wordcount: '51'
+source-git-commit: c4530d9f2848adb30cab802303170b3c5bc02451
+workflow-type: tm+mt
+source-wordcount: '74'
 ht-degree: 100%
 
 ---
 
 # [!UICONTROL Accueil] : les épreuves terminées sont bloquées dans la [!UICONTROL Liste de travail]
 
+<!-- Do not change this note unless told to by Daniel Sipos-->
+
 >[!NOTE]
 >
->Ce problème a été résolu.
+>L’équipe produit évalue actuellement la résolution de ce problème, qui peut nécessiter des améliorations du produit. Les améliorations apportées aux produits sont communiquées dans les annonces de produit et non dans les mises à jour de maintenance.
 
 Une fois que l’utilisateur termine une épreuve, elle apparaît toujours dans la [!UICONTROL Liste de travail].
 

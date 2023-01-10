@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
-source-git-commit: 765a69f5f29836e6296a79688c555d681964a6ba
+source-git-commit: 3f6f821e8452e2306175ff524dc6126ff14f2eab
 workflow-type: tm+mt
-source-wordcount: '1284'
+source-wordcount: '1292'
 ht-degree: 96%
 
 ---
@@ -138,6 +138,7 @@ ht-degree: 96%
 + [!DNL Workfront Proof] {#proof}
    + [Problèmes connus dans [!DNL Workfront Proof]](workfrontproof.md)
    + Problèmes actifs dans [!DNL Workfront Proof] {#proof-current}
+      + [[!DNL Workfront Proof] API : &quot;[!UICONTROL Corps n’est pas un XML valide]&quot; erreur](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
       + [[!DNL Workfront Proof] : Impossible d’ouvrir un BAT interactif](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md)
       + [Épreuves : le résumé d’impression n’affiche pas toutes les pages de l’épreuve](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
       + [Épreuves : l’épreuve n’est pas partagée avec les utilisateurs du workflow de l’épreuve](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)

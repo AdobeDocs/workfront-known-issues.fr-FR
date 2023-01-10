@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: aa129b37ee460450fa8c015b2f1c4b15c1dc466f
+source-git-commit: c4530d9f2848adb30cab802303170b3c5bc02451
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 60%
+source-wordcount: '483'
+ht-degree: 49%
 
 ---
 
@@ -20,6 +20,28 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2023.
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
 
 ## Mises à jour de janvier 2023
+
++++**Mise à jour de maintenance (planifiée) le 12 janvier 2023**
+
+**Ctrl+F ou Cmd+F ne fonctionnent pas comme prévu dans les champs de liste déroulante**
+
+_Formulaires personnalisés_
+
+Lorsqu’un utilisateur remplit un formulaire personnalisé et effectue une recherche dans une liste déroulante à l’aide de Ctrl+F ou Cmd+F, puis tente d’accéder à l’instance suivante de cette recherche, la liste déroulante revient en haut de la liste plutôt que d’accéder à l’instance suivante de la recherche. Cela se produit lorsqu’une liste déroulante est définie pour autoriser plusieurs sélections.
+
+**[!UICONTROL Modifier le rapport] écran vide**
+
+_Rapports_
+
+Lorsqu’un utilisateur consulte un rapport et tente de le modifier, il est redirigé vers une page vide et ne peut pas le modifier.
+
+**Les tâches en retrait ne restent pas en retrait**
+
+_Tâches_
+
+Lorsqu’un utilisateur consulte une liste de tâches et met une tâche en retrait, la tâche revient immédiatement à son état d’origine (obsolète).
+
++++
 
 +++**Mise à jour de maintenance le 5 janvier 2023**
 
