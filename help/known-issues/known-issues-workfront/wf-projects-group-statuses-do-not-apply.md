@@ -3,7 +3,7 @@ title: '« Projets : le statut du projet ne correspond pas aux préférences d
 description: « Lorsqu’un utilisateur crée un projet à partir d’un modèle, le nouveau projet ne prend pas le statut défini dans les préférences du groupe. Si un projet est créé sans modèle, le statut reflète les préférences du groupe comme prévu. »
 hidefromtoc: true
 source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '128'
 ht-degree: 100%
 
