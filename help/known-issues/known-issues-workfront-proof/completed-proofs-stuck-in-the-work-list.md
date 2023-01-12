@@ -4,7 +4,7 @@ description: Une fois que l’utilisateur termine une épreuve, elle apparaît t
 exl-id: 1d52d477-4ba9-4a64-a91d-26682a6c607f
 hidefromtoc: true
 source-git-commit: c4530d9f2848adb30cab802303170b3c5bc02451
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
 ht-degree: 100%
 
