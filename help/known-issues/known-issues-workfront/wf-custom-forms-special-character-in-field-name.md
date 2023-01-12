@@ -3,7 +3,7 @@ title: '« Formulaires personnalisés : impossible d’utiliser le champ dans 
 description: '« Lorsqu’un utilisateur crée une expression de champ calculée et tente d’inclure un champ de saisie semi-automatique dont le nom comporte une apostrophe ou un guillemet, le calcul n’est pas accepté, et le message suivant apparaît : « Cette expression client n’est pas valide, veuillez réessayer. »'
 hidefromtoc: true
 source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '176'
 ht-degree: 100%
 
