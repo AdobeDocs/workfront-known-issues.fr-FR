@@ -3,10 +3,10 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: c4530d9f2848adb30cab802303170b3c5bc02451
+source-git-commit: 5f4d8813a43166db6491464dff26938fc4f545ef
 workflow-type: tm+mt
-source-wordcount: '628'
-ht-degree: 97%
+source-wordcount: '597'
+ht-degree: 98%
 
 ---
 
@@ -40,10 +40,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | -----------------------------------------------------------------| ----------------- |
 | [Intégrations : impossible d’ouvrir [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | mardi 6 janvier 2023 |
 | [Documents : les autorisations de document ne sont pas héritées lorsque le problème parent est converti en projet.](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 16 décembre 2022 |
-| [Tâches : Les tâches en retrait ne restent pas en retrait](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md) | mardi 6 janvier 2023 |
-| [Formulaires personnalisés : Ctrl+F ou Cmd+F ne fonctionne pas comme prévu dans les champs de liste déroulante](known-issues-workfront/wf-custom-forms-dropdown-search.md) | mardi 3 janvier 2023 |
 | [Bons à tirer : les bons à tirer ne peuvent pas être décompressés](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 20 décembre 2022 |
-| [Rapports : l’écran « Modifier le rapport » est vide](known-issues-workfront/wf-reports-edit-report-is-blank.md) | 20 décembre 2022 |
 | [Formulaires personnalisés : un message « [!UICONTROL Expression personnalisée non valide] » apparaît lorsqu’un champ calculé fait référence à un « [!UICONTROL propriétaire] »](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2 décembre 2022 |
 | [Rapports : erreur de type « Oups » lors de l’ajout d’un nouveau problème à un rapport de problème](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 novembre 2022 |
 | [Intégrations : erreur de soumission d’une demande depuis [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 août 2022 |
