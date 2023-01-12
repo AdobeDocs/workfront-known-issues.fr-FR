@@ -3,8 +3,8 @@ user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
 source-git-commit: 3f6f821e8452e2306175ff524dc6126ff14f2eab
 workflow-type: tm+mt
-source-wordcount: '1292'
-ht-degree: 96%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 96%
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
       + [Tâches : Les tâches en retrait ne restent pas en retrait](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)
       + [Mises à jour : L’écran devient temporairement vide lorsque la réponse est envoyée](known-issues-workfront/wf-updates-reply-goes-blank.md)
-      + [Forms personnalisé : Ctrl+F ou Cmd+F ne fonctionnent pas comme prévu dans les champs de liste déroulante](known-issues-workfront/wf-custom-forms-dropdown-search.md)
-      + [Bons à tirer : Les bons à tirer ne désarchivent pas](known-issues-workfront/wf-proofs-do-not-unarchive.md)
-      + [Documents : Impossible d’ajouter des documents depuis [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
+      + [Formulaires personnalisés : Ctrl+F ou Cmd+F ne fonctionne pas comme prévu dans les champs de liste déroulante](known-issues-workfront/wf-custom-forms-dropdown-search.md)
+      + [Bons à tirer : les bons à tirer ne peuvent pas être décompressés](known-issues-workfront/wf-proofs-do-not-unarchive.md)
+      + [Documents : impossible d’ajouter des documents depuis [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
       + [Rapports : l’écran « Modifier le rapport » est vide](known-issues-workfront/wf-reports-edit-report-is-blank.md)
       + [Documents : les autorisations de document ne sont pas héritées lorsque le problème parent est converti en projet.](known-issues-workfront/wf-documents-permissions-not-inherited.md)
       + [Rapports : le rapport utilise le créateur de rapports plutôt que le caractère de remplacement « $$[!UICONTROL USERID] »](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)

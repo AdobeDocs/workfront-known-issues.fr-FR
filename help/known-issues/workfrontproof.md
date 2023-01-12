@@ -6,7 +6,7 @@ exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: c4530d9f2848adb30cab802303170b3c5bc02451
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 91%
+ht-degree: 96%
 
 ---
 
@@ -24,8 +24,8 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Proof] API : &quot;[!UICONTROL Corps n’est pas un XML valide]&quot; erreur](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 10 janvier 2023 |
-| [Documents : Impossible d’ajouter des documents depuis [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) | 20 décembre 2022 |
+| [[!DNL Workfront Proof] API : &quot;[!UICONTROL Corps n’est pas un XML valide]&quot; erreur](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | mardi 10 janvier 2023 |
+| [Documents : impossible d’ajouter des documents depuis [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) | 20 décembre 2022 |
 | [Documents : les autorisations de document ne sont pas héritées lorsque le problème parent est converti en projet.](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 16 décembre 2022 |
 | [Épreuves : l’affichage des épreuves dans la visionneuse d’épreuves est d’une qualité inférieure à celle de l’image d’origine](known-issues-workfront/wf-proofs-are-blurry.md) | 18 novembre 2022 |
 
@@ -37,7 +37,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Bons à tirer : Les bons à tirer ne désarchivent pas](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 20 décembre 2022 |
+| [Bons à tirer : les bons à tirer ne peuvent pas être décompressés](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 20 décembre 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -47,7 +47,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL Accueil] : les épreuves terminées sont bloquées dans la [!UICONTROL Liste de travail]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 janvier 2023 |
+| [[!UICONTROL Accueil] : les épreuves terminées sont bloquées dans la [!UICONTROL Liste de travail]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | mardi 10 janvier 2023 |
 | [Épreuves : le statut de l’épreuve n’est pas mis à jour dans les listes de [!UICONTROL documents]](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 décembre 2022 |
 | [Épreuves : l’épreuve n’est pas partagée avec les utilisateurs du workflow de l’épreuve](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18 septembre 2022 |
 | [Épreuves : le champ [!UICONTROL Étapes d’épreuve actives] est vide](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 septembre 2022 |

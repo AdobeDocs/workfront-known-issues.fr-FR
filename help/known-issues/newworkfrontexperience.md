@@ -1,12 +1,12 @@
 ---
-title: Problèmes connus dans la nouvelle expérience [!DNL Adobe Workfront]
+title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: c4530d9f2848adb30cab802303170b3c5bc02451
 workflow-type: tm+mt
 source-wordcount: '628'
-ht-degree: 93%
+ht-degree: 97%
 
 ---
 
@@ -24,7 +24,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Mises à jour : L’écran devient temporairement vide lorsque la réponse est envoyée](known-issues-workfront/wf-updates-reply-goes-blank.md) | 6 janvier 2023 |
+| [Mises à jour : L’écran devient temporairement vide lorsque la réponse est envoyée](known-issues-workfront/wf-updates-reply-goes-blank.md) | mardi 6 janvier 2023 |
 | [Épreuves : l’affichage des épreuves dans la visionneuse d’épreuves est d’une qualité inférieure à celle de l’image d’origine](known-issues-workfront/wf-proofs-are-blurry.md) | 18 novembre 2022 |
 | [Bons à tirer : La génération de BAT est extrêmement lente](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 octobre 2022 |
 | [Épreuves : le résumé d’impression n’affiche pas toutes les pages de l’épreuve](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 octobre 2022 |
@@ -38,11 +38,11 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Intégrations : impossible d’ouvrir [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 6 janvier 2023 |
+| [Intégrations : impossible d’ouvrir [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | mardi 6 janvier 2023 |
 | [Documents : les autorisations de document ne sont pas héritées lorsque le problème parent est converti en projet.](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 16 décembre 2022 |
-| [Tâches : Les tâches en retrait ne restent pas en retrait](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md) | 6 janvier 2023 |
-| [Forms personnalisé : Ctrl+F ou Cmd+F ne fonctionnent pas comme prévu dans les champs de liste déroulante](known-issues-workfront/wf-custom-forms-dropdown-search.md) | 3 janvier 2023 |
-| [Bons à tirer : Les bons à tirer ne désarchivent pas](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 20 décembre 2022 |
+| [Tâches : Les tâches en retrait ne restent pas en retrait](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md) | mardi 6 janvier 2023 |
+| [Formulaires personnalisés : Ctrl+F ou Cmd+F ne fonctionne pas comme prévu dans les champs de liste déroulante](known-issues-workfront/wf-custom-forms-dropdown-search.md) | mardi 3 janvier 2023 |
+| [Bons à tirer : les bons à tirer ne peuvent pas être décompressés](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 20 décembre 2022 |
 | [Rapports : l’écran « Modifier le rapport » est vide](known-issues-workfront/wf-reports-edit-report-is-blank.md) | 20 décembre 2022 |
 | [Formulaires personnalisés : un message « [!UICONTROL Expression personnalisée non valide] » apparaît lorsqu’un champ calculé fait référence à un « [!UICONTROL propriétaire] »](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2 décembre 2022 |
 | [Rapports : erreur de type « Oups » lors de l’ajout d’un nouveau problème à un rapport de problème](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 novembre 2022 |
@@ -57,9 +57,9 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL Accueil] : les épreuves terminées sont bloquées dans la [!UICONTROL Liste de travail]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 janvier 2023 |
-| [Formulaires personnalisés : impossible d’utiliser le champ dans le calcul si le nom du champ contient des apostrophes ou des guillemets](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 6 janvier 2023 |
-| [Projets : le statut du projet ne correspond pas aux préférences du groupe](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md) | 6 janvier 2023 |
+| [[!UICONTROL Accueil] : les épreuves terminées sont bloquées dans la [!UICONTROL Liste de travail]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | mardi 10 janvier 2023 |
+| [Formulaires personnalisés : impossible d’utiliser le champ dans le calcul si le nom du champ contient des apostrophes ou des guillemets](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | mardi 6 janvier 2023 |
+| [Projets : le statut du projet ne correspond pas aux préférences du groupe](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md) | mardi 6 janvier 2023 |
 | [Épreuves : le statut de l’épreuve n’est pas mis à jour dans les listes de [!UICONTROL documents]](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 décembre 2022 |
 | [Tâches : les heures ne sont pas enregistrées lors de la saisie des heures dans le panneau [!UICONTROL Résumé de la tâche]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2 décembre 2022 |
 | [Projets : Problèmes de performance et message d’erreur lors de la création d’un projet à partir d’un modèle](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2 décembre 2022 |
