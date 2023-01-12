@@ -1,10 +1,10 @@
 ---
-title: Mises à jour de maintenance pour Workfront en 2022
+title: Mises à jour de maintenance pour Workfront  en 2022
 description: Mises à jour de maintenance 2022 pour [!DNL Adobe Workfront]
 source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '16739'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -544,7 +544,7 @@ Si un rôle de tâche pour lequel vous avez saisi une heure a changé et que le 
 
 Lorsqu’un utilisateur consulte une épreuve dans [!DNL Workfront] et la ferme, il ne revient pas à la page sur laquelle il était avant d’ouvrir l’épreuve. Au lieu de cela, il est redirigé vers une autre page de [!DNL Workfront].
 
-**Impossible d’ouvrir l’épreuve dans[!DNL Workfront]**
+**Impossible d’ouvrir l’épreuve dans [!DNL Workfront]**
 
 *Épreuves*
 
@@ -927,7 +927,7 @@ Les problèmes suivants ont été signalés lors de la création des feuilles de
 
 **Certaines zones de [!DNL Workfront Proof] ne se mettent pas à jour lorsqu’une épreuve est créée, déplacée ou archivée**
 
-*[!DNL Workfront]Épreuve*
+*[!DNL Workfront] Épreuve*
 
 L’indexation sur Proof prend actuellement plus de temps que prévu. Cela peut avoir diverses conséquences sur l’expérience utilisateur, notamment :
 
@@ -1069,7 +1069,7 @@ Lorsque l’utilisateur tente de charger une pièce jointe avec l’intégration
 
 **Mise à jour des notifications par e-mail liées aux épreuves**
 
-*[!DNL Workfront]Épreuve*
+*[!DNL Workfront] Épreuve*
 
 Un correctif déployé ce mois-ci destiné à l’environnement d’Exploitation de [!DNL Workfront] corrige également un bug concernant le système d’envoi de notifications par e-mail en lien avec les épreuves. Cette modification n’a pas été recensée dans la mise à jour de maintenance lors de sa publication. Nous avons ajouté les informations suivantes à la [Mise à jour de maintenance le 2 juin 2022](#maintenance-update-on-june-2-2022) :
 
@@ -1930,7 +1930,7 @@ La vue **[!UICONTROL Jalon] du rapport du projet provoque l’apparition d’une
 
 *Rapports*
 
-Lors de l’affichage d’un rapport de projet dans la vue [!UICONTROL Jalon], l’erreur « [!UICONTROL L’APIModel INTERNE ne prend pas en charge la VIGNETTE namedQuery : milestone-view (UIVW)] » apparaît.
+Lors de l’affichage d’un rapport de projet dans la vue [!UICONTROL Jalon], l’erreur « [!UICONTROL L’APIModel INTERNAL ne prend pas en charge la VIGNETTE namedQuery TILE:milestone-view (UIVW)] » apparaît.
 
 **La terminologie personnalisée est incohérente**
 
@@ -1970,7 +1970,7 @@ Les problèmes suivants liés à la connexion à l’environnement de prévisual
 
 Lorsque l’utilisateur tente de se connecter à l’environnement de prévisualisation, un message l’informant que l’ID ou le mot de passe saisi est incorrect apparaît.
 
-Lorsque l’utilisateur tente de réinitialiser son mot de passe, le message d’erreur « [!UICONTROL Plusieurs utilisateurs correspondent à cette adresse e-mail <example@example.com>]» apparaît.
+Lorsque l’utilisateur tente de réinitialiser son mot de passe, le message d’erreur « [!UICONTROL Plusieurs utilisateurs correspondent à cette adresse e-mail <example@example.com>] » apparaît.
 
 **Les formulaires personnalisés se chargent lentement dans la zone [!UICONTROL Détails du projet]**
 
