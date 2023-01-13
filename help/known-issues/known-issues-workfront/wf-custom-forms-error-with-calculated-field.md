@@ -1,16 +1,20 @@
 ---
-title: '« Formulaires personnalisés : erreur Oups lors de la configuration d’un champ calculé »'
-description: « Lorsqu’un utilisateur crée ou modifie le champ calculé d’un formulaire personnalisé et inclut un champ personnalisé dans l’expression du champ calculé, l’expression est considérée comme non valide. Le bouton Enregistrer est désactivé et l’utilisateur ne peut pas quitter le champ personnalisé. De plus, l’utilisateur voit un message Oups sous le champ. »
+title: '''Formulaires personnalisés : Erreur de suppression lors de la configuration d’un champ calculé"'
+description: Lorsqu’un utilisateur crée ou modifie le champ calculé d’un formulaire personnalisé et inclut un champ personnalisé dans l’expression du champ calculé, l’expression est considérée comme non valide. Le bouton Enregistrer est désactivé et l’utilisateur ne peut pas quitter le champ personnalisé. En outre, l’utilisateur voit un message de whops sous le champ .
 hidefromtoc: true
-source-git-commit: 58b95fb905fc12cc459fbdd021fee3c92536d203
-workflow-type: ht
-source-wordcount: '170'
-ht-degree: 100%
+exl-id: e499c680-2fdf-40cb-a1fa-b0d4ae799ad2
+source-git-commit: 62d6d8659079211804d2a270b181272ac7b0eede
+workflow-type: tm+mt
+source-wordcount: '176'
+ht-degree: 84%
 
 ---
 
-
 # Formulaires personnalisés : erreur « [!UICONTROL Oups] » lors de la configuration d’un champ calculé
+
+>[!NOTE]
+>
+>Ce problème a été corrigé le 12 janvier 2023.
 
 Lorsqu’un utilisateur crée ou modifie le champ calculé d’un formulaire personnalisé et inclut un champ personnalisé dans l’expression du champ calculé, l’expression est considérée comme non valide. Le bouton [!UICONTROL Enregistrer] est désactivé et l’utilisateur ne peut pas quitter le champ personnalisé. De plus, l’utilisateur voit le message suivant sous le champ :
 
@@ -19,4 +23,3 @@ Lorsqu’un utilisateur crée ou modifie le champ calculé d’un formulaire per
 La suppression du champ personnalisé de l’expression permet à l’utilisateur d’enregistrer et de quitter le champ.
 
 _Premier signalement le 11 octobre 2022._
-

@@ -2,9 +2,9 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 5f4d8813a43166db6491464dff26938fc4f545ef
+source-git-commit: 62d6d8659079211804d2a270b181272ac7b0eede
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '662'
 ht-degree: 63%
 
 ---
@@ -20,6 +20,40 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2023.
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
 
 ## Mises à jour de janvier 2023
+
++++**[!DNL Adobe Workfront Fusion]Mise à jour de maintenance (correctif) le 12 janvier 2023**
+
+**Erreurs 404 sur [!DNL Workfront] modules**
+
+_Workfront Fusion_
+
+Lorsqu’un scénario s’exécute, un module [!DNL Workfront] renvoie une erreur 404.
+
+Les modules suivants sont concernés :
+
+* [!UICONTROL Lire un enregistrement]
+
++++
+
++++**Mise à jour de maintenance (correctif) le 12 janvier 2023**
+
+**&quot;[!UICONTROL Oups]&quot; lors de la configuration d’un champ calculé**
+
+_Formulaires personnalisés_
+
+Lorsqu’un utilisateur crée ou modifie le champ calculé d’un formulaire personnalisé et inclut un champ personnalisé dans l’expression du champ calculé, l’expression est considérée comme non valide. Le bouton [!UICONTROL Enregistrer] est désactivé et l’utilisateur ne peut pas quitter le champ personnalisé. De plus, l’utilisateur voit le message suivant sous le champ :
+
+« [!UICONTROL Oups ! Un problème est survenu. Contactez Workfront pour nous aider à comprendre l’erreur et y remédier.] »
+
+La suppression du champ personnalisé de l’expression permet à l’utilisateur d’enregistrer et de quitter le champ.
+
+**Impossible de définir les niveaux d’accès**
+
+_Utilisateurs_
+
+Lorsqu’un utilisateur tente de modifier le niveau d’accès d’un autre utilisateur, les niveaux d’accès sont grisés et l’utilisateur ne peut pas les modifier. Cela se produit même lorsque l’utilisateur qui tente d’effectuer la modification est un administrateur système.
+
++++
 
 +++**Mise à jour de maintenance le 12 janvier 2023**
 
