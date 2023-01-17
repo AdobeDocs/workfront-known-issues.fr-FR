@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 62d6d8659079211804d2a270b181272ac7b0eede
+source-git-commit: b6182d9693b48e4b3bdacb783d202522d23583f6
 workflow-type: tm+mt
-source-wordcount: '662'
-ht-degree: 63%
+source-wordcount: '771'
+ht-degree: 55%
 
 ---
 
@@ -20,6 +20,22 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2023.
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
 
 ## Mises à jour de janvier 2023
+
++++**(Planifiée) Mise à jour de maintenance le jeudi 19 janvier 2023**
+
+**Les expressions avec des caractères génériques ne sont pas valides dans les champs personnalisés**
+
+_Formulaires personnalisés_
+
+Lorsqu’un utilisateur utilise un caractère générique tel que $$TODAY ou $$NOW avec un modificateur (tel que &quot;-30d&quot;) dans un champ personnalisé, le programme de validation n’accepte pas le caractère générique comme valide. Les caractères génériques sans modificateurs sont considérés comme valides.
+
+**[!UICONTROL Équilibreur de charge de travail] affiche les heures non associées à un projet/une tâche/un problème**
+
+_[!UICONTROL Équilibreur de charge de travail]_
+
+Lorsqu’un utilisateur affiche la variable [!UICONTROL Équilibreur de charge de travail], ils voient les heures enregistrées pour un utilisateur qui n’est associé à aucun projet, tâche ou problème, et ils ne sont pas enregistrés en tant que [!UICONTROL Général] heures. Ces heures peuvent s’afficher uniquement en mode 4 semaines ou 6 semaines.
+
++++
 
 +++**[!DNL Adobe Workfront Fusion]Mise à jour de maintenance (correctif) le 12 janvier 2023**
 
