@@ -3,10 +3,10 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 7b0382f7c254795048dd015c4410dc6c25242101
+source-git-commit: 682d0c0beafcb71a412afb1cad71f20ad3a50d82
 workflow-type: tm+mt
-source-wordcount: '600'
-ht-degree: 98%
+source-wordcount: '615'
+ht-degree: 96%
 
 ---
 
@@ -24,6 +24,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Configuration : Impossible d’enregistrer les modèles d’email](known-issues-workfront/wf-setup-email-templates-not-working.md) | mardi 18 janvier 2023 |
 | [Documents : Impossible de restaurer le document supprimé](known-issues-workfront/wf-documents-cannot-restore-document.md) | mardi 18 janvier 2023 |
 | [Documents : Erreur lors du téléchargement d’un fichier volumineux](known-issues-workfront/wf-documents-large-uploads-fail.md) | mardi 18 janvier 2023 |
 | [Épreuves : l’affichage des épreuves dans la visionneuse d’épreuves est d’une qualité inférieure à celle de l’image d’origine](known-issues-workfront/wf-proofs-are-blurry.md) | 18 novembre 2022 |
@@ -39,6 +40,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Utilisateurs : L’utilisateur ne peut pas modifier son propre paramètre d’utilisateur.](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md) | mardi 18 janvier 2023 |
 | [Documents : les autorisations de document ne sont pas héritées lorsque le problème parent est converti en projet.](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 16 décembre 2022 |
 | [Bons à tirer : les bons à tirer ne peuvent pas être décompressés](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 20 décembre 2022 |
 | [Formulaires personnalisés : un message « [!UICONTROL Expression personnalisée non valide] » apparaît lorsqu’un champ calculé fait référence à un « [!UICONTROL propriétaire] »](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2 décembre 2022 |
