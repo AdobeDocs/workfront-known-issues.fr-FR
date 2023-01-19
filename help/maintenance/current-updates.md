@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f85f2ffac82c14c3ad3d6b1d6e8155c61586d767
+source-git-commit: 244d9f48b2f63bf2b0b30259e42ca9317f5ad933
 workflow-type: tm+mt
-source-wordcount: '770'
-ht-degree: 55%
+source-wordcount: '879'
+ht-degree: 49%
 
 ---
 
@@ -20,6 +20,26 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2023.
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
 
 ## Mises à jour de janvier 2023
+
++++**Mise à jour de maintenance le 19 janvier 2023**
+
+**Les filtres de colonne d’entrée peuvent désormais être partagés.**
+
+_Panoramas_
+
+Lorsque la fonction Colonne d’ingestion a été diffusée sur les panoramas, les filtres pour configurer la colonne d’ingestion n’étaient visibles que par la personne qui les avait créés. Désormais, le créateur peut partager les filtres avec d’autres utilisateurs ou équipes.
+
+**Fonctionnalité d’épingle disponible dans [!UICONTROL Plus] menu**
+
+_Navigation_
+
+Les fonctionnalités suivantes sont désormais disponibles dans la [!UICONTROL Plus] pour les pin’s, dans l’environnement de production :
+
+* Renommer les pin
+* Réorganisation des pin’s dans [!UICONTROL Plus] menu
+* Déplacement d’une épingle du [!UICONTROL Plus] (lorsque vous procédez de la sorte, la dernière épingle de la barre de navigation supérieure est déplacée vers le [!UICONTROL Plus] menu)
+
++++
 
 +++**Mise à jour de maintenance le 18 janvier 2023**
 
