@@ -3,10 +3,10 @@ title: Problèmes connus dans  [!DNL Adobe Workfront Proof]
 description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 7b0382f7c254795048dd015c4410dc6c25242101
+source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
 workflow-type: tm+mt
-source-wordcount: '258'
-ht-degree: 92%
+source-wordcount: '222'
+ht-degree: 94%
 
 ---
 
@@ -24,12 +24,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documents : Impossible de restaurer le document supprimé](known-issues-workfront/wf-documents-cannot-restore-document.md) | mardi 18 janvier 2023 |
-| [Documents : Erreur lors du téléchargement d’un fichier volumineux](known-issues-workfront/wf-documents-large-uploads-fail.md) | mardi 18 janvier 2023 |
-| [[!DNL Workfront Proof] API : &quot;[!UICONTROL Corps n’est pas un XML valide]&quot; erreur](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | mardi 10 janvier 2023 |
 | [Documents : impossible d’ajouter des documents depuis [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) | 20 décembre 2022 |
-| [Documents : les autorisations de document ne sont pas héritées lorsque le problème parent est converti en projet.](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 16 décembre 2022 |
-| [Épreuves : l’affichage des épreuves dans la visionneuse d’épreuves est d’une qualité inférieure à celle de l’image d’origine](known-issues-workfront/wf-proofs-are-blurry.md) | 18 novembre 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -39,6 +34,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Proof] API : &quot;[!UICONTROL Corps n’est pas un XML valide]&quot; erreur](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | mardi 20 janvier 2023 |
+| [Documents : Impossible de restaurer le document supprimé](known-issues-workfront/wf-documents-cannot-restore-document.md) | mardi 20 janvier 2023 |
 | [Bons à tirer : les bons à tirer ne peuvent pas être décompressés](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 20 décembre 2022 |
 
 {style=&quot;table-layout:auto&quot;}

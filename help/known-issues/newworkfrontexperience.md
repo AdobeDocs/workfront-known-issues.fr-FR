@@ -3,9 +3,9 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 682d0c0beafcb71a412afb1cad71f20ad3a50d82
+source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '585'
 ht-degree: 96%
 
 ---
@@ -24,10 +24,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Configuration : Impossible d’enregistrer les modèles d’email](known-issues-workfront/wf-setup-email-templates-not-working.md) | mardi 18 janvier 2023 |
 | [Documents : Impossible de restaurer le document supprimé](known-issues-workfront/wf-documents-cannot-restore-document.md) | mardi 18 janvier 2023 |
-| [Documents : Erreur lors du téléchargement d’un fichier volumineux](known-issues-workfront/wf-documents-large-uploads-fail.md) | mardi 18 janvier 2023 |
-| [Épreuves : l’affichage des épreuves dans la visionneuse d’épreuves est d’une qualité inférieure à celle de l’image d’origine](known-issues-workfront/wf-proofs-are-blurry.md) | 18 novembre 2022 |
 | [Bons à tirer : La génération de BAT est extrêmement lente](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 octobre 2022 |
 | [Épreuves : le résumé d’impression n’affiche pas toutes les pages de l’épreuve](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 octobre 2022 |
 
@@ -40,10 +37,10 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Configuration : Impossible d’enregistrer les modèles d’email](known-issues-workfront/wf-setup-email-templates-not-working.md) | mardi 20 janvier 2023 |
+| [Documents : Impossible de restaurer le document supprimé](known-issues-workfront/wf-documents-cannot-restore-document.md) | mardi 20 janvier 2023 |
 | [Utilisateurs : L’utilisateur ne peut pas modifier son propre paramètre d’utilisateur.](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md) | mardi 18 janvier 2023 |
-| [Documents : les autorisations de document ne sont pas héritées lorsque le problème parent est converti en projet.](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 16 décembre 2022 |
 | [Bons à tirer : les bons à tirer ne peuvent pas être décompressés](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 20 décembre 2022 |
-| [Formulaires personnalisés : un message « [!UICONTROL Expression personnalisée non valide] » apparaît lorsqu’un champ calculé fait référence à un « [!UICONTROL propriétaire] »](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2 décembre 2022 |
 | [Rapports : erreur de type « Oups » lors de l’ajout d’un nouveau problème à un rapport de problème](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 novembre 2022 |
 | [Intégrations : erreur de soumission d’une demande depuis [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 août 2022 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Cas d’assistance sur Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 août 2022 |
@@ -56,6 +53,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Formulaires personnalisés : un message « [!UICONTROL Expression personnalisée non valide] » apparaît lorsqu’un champ calculé fait référence à un « [!UICONTROL propriétaire] »](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | mardi 20 janvier 2023 |
 | [Intégrations : impossible d’ouvrir [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | mardi 12 janvier 2023 |
 | [[!UICONTROL Accueil] : les épreuves terminées sont bloquées dans la [!UICONTROL Liste de travail]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | mardi 10 janvier 2023 |
 | [Formulaires personnalisés : impossible d’utiliser le champ dans le calcul si le nom du champ contient des apostrophes ou des guillemets](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | mardi 6 janvier 2023 |
