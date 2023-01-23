@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 244d9f48b2f63bf2b0b30259e42ca9317f5ad933
 workflow-type: tm+mt
 source-wordcount: '879'
-ht-degree: 49%
+ht-degree: 73%
 
 ---
 
@@ -29,15 +29,15 @@ _Panoramas_
 
 Lorsque la fonction Colonne d’ingestion a été diffusée sur les panoramas, les filtres pour configurer la colonne d’ingestion n’étaient visibles que par la personne qui les avait créés. Désormais, le créateur peut partager les filtres avec d’autres utilisateurs ou équipes.
 
-**Fonctionnalité d’épingle disponible dans [!UICONTROL Plus] menu**
+**Fonctionnalité Épingle disponible dans le menu [!UICONTROL Plus]**
 
 _Navigation_
 
 Les fonctionnalités suivantes sont désormais disponibles dans la [!UICONTROL Plus] pour les pin’s, dans l’environnement de production :
 
-* Renommer les pin
-* Réorganisation des pin’s dans [!UICONTROL Plus] menu
-* Déplacement d’une épingle du [!UICONTROL Plus] (lorsque vous procédez de la sorte, la dernière épingle de la barre de navigation supérieure est déplacée vers le [!UICONTROL Plus] menu)
+* Renommer des épingles
+* Réorganisation des épingles dans le menu [!UICONTROL Plus]
+* Retrait d’une épingle du menu [!UICONTROL Plus] (en procédant de la sorte, la dernière épingle de la barre de navigation supérieure est déplacée vers le menu [!UICONTROL Plus])
 
 +++
 
@@ -93,49 +93,49 @@ Lorsqu’un utilisateur tente de modifier le niveau d’accès d’un autre util
 
 +++**Mise à jour de maintenance le 12 janvier 2023**
 
-**Ctrl+F ou Cmd+F ne fonctionnent pas comme prévu dans les champs de liste déroulante**
+**Formulaires Ctrl+F ou Cmd+F ne fonctionne pas comme prévu dans les champs de liste déroulante**
 
 _Formulaires personnalisés_
 
 Lorsqu’un utilisateur remplit un formulaire personnalisé et effectue une recherche dans une liste déroulante à l’aide de Ctrl+F ou Cmd+F, puis tente d’accéder à l’instance suivante de cette recherche, la liste déroulante revient en haut de la liste plutôt que d’accéder à l’instance suivante de la recherche. Cela se produit lorsqu’une liste déroulante est définie pour autoriser plusieurs sélections.
 
-**[!UICONTROL Modifier le rapport] écran vide**
+l’écran « **[!UICONTROL Modifier le rapport] » est vide**
 
 _Rapports_
 
 Lorsqu’un utilisateur consulte un rapport et tente de le modifier, il est redirigé vers une page vide et ne peut pas le modifier.
 
-**Les tâches en retrait ne restent pas en retrait**
+**Les tâches mises en avant ne restent pas mises en avant**
 
 _Tâches_
 
-Lorsqu’un utilisateur consulte une liste de tâches et met une tâche en retrait, la tâche revient immédiatement à son état d’origine (obsolète).
+Lorsqu’un utilisateur consulte une liste de tâches et met en avant une tâche, la tâche revient immédiatement à son état d’origine (mise en retrait).
 
 +++
 
 +++**Mise à jour de maintenance le 5 janvier 2023**
 
-**Fonctionnalité d’épingle disponible dans [!UICONTROL Plus] menu**
+**Fonctionnalité Épingle disponible dans le menu [!UICONTROL Plus]**
 
 _Navigation_
 
-Les fonctionnalités suivantes sont désormais disponibles dans la [!UICONTROL Plus] pour les pin&#39;s, dans l’environnement Aperçu uniquement :
+Les fonctionnalités suivantes sont désormais disponibles dans le menu [!UICONTROL Plus] pour les épingles, dans l’environnement de prévisualisation uniquement :
 
-* Renommer les pin
-* Réorganisation des pin’s dans [!UICONTROL Plus] menu
-* Déplacement d’une épingle du [!UICONTROL Plus] (lorsque vous procédez de la sorte, la dernière épingle de la barre de navigation supérieure est déplacée vers le [!UICONTROL Plus] menu)
+* Renommer des épingles
+* Réorganisation des épingles dans le menu [!UICONTROL Plus]
+* Retrait d’une épingle du menu [!UICONTROL Plus] (en procédant de la sorte, la dernière épingle de la barre de navigation supérieure est déplacée vers le menu [!UICONTROL Plus])
 
-**Suppression de la limitation du groupe de projets de l’ajout d’utilisateurs à l’équipe de projet.**
+**Suppression de la restriction du groupe du projet empêchant l’ajout d’utilisateurs à l’équipe du projet**
 
 _Équipes_
 
-Nous avons supprimé la limitation qui obligeait les utilisateurs qui doivent être ajoutés à une équipe de projet à faire partie du groupe associé au projet. Vous pouvez désormais ajouter n’importe quel utilisateur principal à une équipe de projet, quels que soient les groupes auxquels il appartient.
+Nous avons supprimé la restriction qui obligeait les utilisateurs devant être ajoutés à une équipe de projet à faire partie du groupe associé au projet. Vous pouvez désormais ajouter n’importe quel utilisateur actif à une équipe de projet, quels que soient les groupes auxquels il appartient.
 
 **Nouvelles icônes d’informations pour les feuilles de temps, les profils de feuille de temps et les préférences de la feuille de temps**
 
 >[!NOTE]
 >
->Cette mise à jour a été publiée dans l’environnement Aperçu le 3 novembre 2022 et est désormais disponible dans l’environnement de production.
+>Cette mise à jour de est sortie dans l’environnement de prévisualisation le 3 novembre 2022 et passe désormais en production
 
 _Workfront_
 

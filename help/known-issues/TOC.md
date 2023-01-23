@@ -4,7 +4,7 @@ user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
 source-git-commit: 682d0c0beafcb71a412afb1cad71f20ad3a50d82
 workflow-type: tm+mt
 source-wordcount: '1316'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -14,14 +14,14 @@ ht-degree: 96%
 + [Vue d’ensemble](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [Problèmes connus dans [!DNL Adobe Workfront]](newworkfrontexperience.md)
+   + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
       + [Configuration : Impossible d’enregistrer les modèles d’email](known-issues-workfront/wf-setup-email-templates-not-working.md)
       + [Utilisateurs : L’utilisateur ne peut pas modifier son propre paramètre d’utilisateur.](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
       + [Documents : Impossible de restaurer le document supprimé](known-issues-workfront/wf-documents-cannot-restore-document.md)
       + [Documents : Erreur lors du téléchargement d’un fichier volumineux](known-issues-workfront/wf-documents-large-uploads-fail.md)
-      + [Tâches : Les tâches en retrait ne restent pas en retrait](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)
-      + [Mises à jour : L’écran devient temporairement vide lorsque la réponse est envoyée](known-issues-workfront/wf-updates-reply-goes-blank.md)
+      + [Tâches : les tâches mises en avant ne restent pas mises en avant](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)
+      + [Mises à jour : l’écran n’affiche temporairement plus rien lors de l’envoi de la réponse](known-issues-workfront/wf-updates-reply-goes-blank.md)
       + [Formulaires personnalisés : Ctrl+F ou Cmd+F ne fonctionne pas comme prévu dans les champs de liste déroulante](known-issues-workfront/wf-custom-forms-dropdown-search.md)
       + [Bons à tirer : les bons à tirer ne peuvent pas être décompressés](known-issues-workfront/wf-proofs-do-not-unarchive.md)
       + [Documents : impossible d’ajouter des documents depuis [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
@@ -106,7 +106,7 @@ ht-degree: 96%
       + [Intégrations : le dossier  [!DNL SharePoint] n’apparaît pas pour le propriétaire du dossier](known-issues-workfront/wf-integrations-sharepoint-folder-not-appearing-for-owner.md)
       + [Intégrations : erreur de soumission d’une demande depuis [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md)
       + [Feuilles de temps : erreur « [!UICONTROL Une autre personne a tenté d’enregistrer ce projet] » lors de la saisie des heures](known-issues-workfront/wf-timesheets-not-autosaving-due-to-error.md)
-      + [Tableaux de bord : impossible d’accéder au tableau de bord à partir du panneau de navigation de gauche d’un objet](known-issues-workfront/wf-dashboards-cannot-open-from-left-nav.md)
+      + [Tableaux de bord : impossible d’accéder au tableau de bord à partir du panneau de navigation gauche sur un objet](known-issues-workfront/wf-dashboards-cannot-open-from-left-nav.md)
       + [Tâches et événements : la fenêtre se ferme accidentellement lors de la création de tâches ou d’événements](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md)
       + [Mises à jour : impossible de fermer la carte d’utilisateur dans le flux de mise à jour](known-issues-workfront/wf-updates-cant-close-user-card.md)
       + [Demandes : seule la première page de la liste de demandes peut être ouverte](known-issues-workfront/wf-requests-cannot-open-second-page-of-requests-list.md)
@@ -140,9 +140,9 @@ ht-degree: 96%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [Problèmes connus dans [!DNL Workfront Proof]](workfrontproof.md)
+   + [Problèmes connus dans  [!DNL Workfront Proof]](workfrontproof.md)
    + Problèmes actifs dans [!DNL Workfront Proof] {#proof-current}
-      + [[!DNL Workfront Proof] API : &quot;[!UICONTROL Corps n’est pas un XML valide]&quot; erreur](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
+      + [API [!DNL Workfront Proof] : erreur « [!UICONTROL Le corps n’est pas un XML valide.] »](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
       + [[!DNL Workfront Proof] : Impossible d’ouvrir un BAT interactif](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md)
       + [Épreuves : le résumé d’impression n’affiche pas toutes les pages de l’épreuve](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
       + [Épreuves : l’épreuve n’est pas partagée avec les utilisateurs du workflow de l’épreuve](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
