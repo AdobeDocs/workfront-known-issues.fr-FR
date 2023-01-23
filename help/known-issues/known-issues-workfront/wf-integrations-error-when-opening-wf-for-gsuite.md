@@ -3,9 +3,9 @@ title: '« Intégrations : impossible d’ouvrir Workfront for G Suite »'
 description: « Lorsqu’un utilisateur se trouve dans une application G Suite et tente d’ouvrir le module complémentaire Workfront for G Suite, ce dernier ne s’ouvre pas et le message « Une erreur s’est produite, veuillez réessayer » apparaît. Une nouvelle tentative ne résout pas le problème.  »
 hidefromtoc: true
 source-git-commit: dd093aff6103901898c561c9f6f544c1648682a3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '0'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
