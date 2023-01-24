@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 244d9f48b2f63bf2b0b30259e42ca9317f5ad933
+source-git-commit: efa58e381aba8aaba59f0c19362f3da0cc81154f
 workflow-type: tm+mt
-source-wordcount: '879'
-ht-degree: 73%
+source-wordcount: '951'
+ht-degree: 75%
 
 ---
 
@@ -20,6 +20,20 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2023.
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
 
 ## Mises à jour de janvier 2023
+
++++**(Planifiée) Mise à jour de maintenance le jeudi 26 janvier 2023**
+
+**Erreur lors de l’envoi d’une requête depuis[!DNL Outlook]**
+
+_Intégrations_
+
+Lorsque l’utilisateur tente de soumettre une demande comprenant des pièces jointes dans un e-mail [!DNL Outlook], une ou plusieurs des pièces jointes ne se chargent pas et le message d’erreur suivant apparaît :
+
+&quot;[!UICONTROL L’erreur suivante s’est produite : Le fichier contenant l’identificateur xxxx n’existe pas.]&quot;
+
+Cela se produit uniquement lorsqu’une affectation est effectuée pour la nouvelle demande, soit au moyen de la file d’attente des demandes, soit manuellement lors de la création de la demande.
+
++++
 
 +++**Mise à jour de maintenance le 19 janvier 2023**
 
