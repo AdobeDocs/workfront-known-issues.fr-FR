@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: efa58e381aba8aaba59f0c19362f3da0cc81154f
+source-git-commit: 9d19a853dbd123107d55eb362d383f5080ff1b8a
 workflow-type: tm+mt
-source-wordcount: '951'
-ht-degree: 75%
+source-wordcount: '1000'
+ht-degree: 71%
 
 ---
 
@@ -32,6 +32,12 @@ Lorsque l’utilisateur tente de soumettre une demande comprenant des pièces jo
 &quot;[!UICONTROL L’erreur suivante s’est produite : Le fichier contenant l’identificateur xxxx n’existe pas.]&quot;
 
 Cela se produit uniquement lorsqu’une affectation est effectuée pour la nouvelle demande, soit au moyen de la file d’attente des demandes, soit manuellement lors de la création de la demande.
+
+**L’utilisateur ne peut pas modifier son propre paramètre d’utilisateur.**
+
+_Utilisateurs_
+
+Lorsqu’un utilisateur disposant d’une licence de travail, de révision ou de requête tente de modifier ses propres paramètres utilisateur, la fenêtre contextuelle qui s’ouvre est vide et l’utilisateur ne peut pas apporter de modifications. Pour quitter la fenêtre contextuelle, l’utilisateur doit actualiser la page.
 
 +++
 
