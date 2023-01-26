@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: baeb2b783dcf75bc889096cd02035ecb9bd17ef6
+source-git-commit: 441062239d07963454e1cc57e4dff54e0c5a06bb
 workflow-type: tm+mt
-source-wordcount: '999'
-ht-degree: 71%
+source-wordcount: '1071'
+ht-degree: 67%
 
 ---
 
@@ -32,6 +32,17 @@ Lorsque l’utilisateur tente de soumettre une demande comprenant des pièces jo
 &quot;[!UICONTROL L’erreur suivante s’est produite : Le fichier contenant l’identificateur xxxx n’existe pas.]&quot;
 
 Cela se produit uniquement lorsqu’une affectation est effectuée pour la nouvelle demande, soit au moyen de la file d’attente des demandes, soit manuellement lors de la création de la demande.
+
+**Nouvelle version de la visionneuse de vérification de l’appli de bureau**
+
+_Relecture_
+
+Pour résoudre un problème de blocage dans la visionneuse de vérification de l’appli de bureau, nous avons déployé une nouvelle version de la visionneuse de vérification de l’appli de bureau. Les utilisateurs qui disposent déjà de la visionneuse de vérification de l’appli de bureau seront automatiquement informés de cette mise à jour.
+
+Les utilisateurs peuvent également afficher manuellement la dernière version. Pour plus d’informations, voir [Installation de la visionneuse de vérification de l’appli de bureau](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=en).
+
+* Version précédente : 2.1.19
+* Nouvelle version : 2.1.20
 
 **L’utilisateur ne peut pas modifier son propre paramètre d’utilisateur.**
 
