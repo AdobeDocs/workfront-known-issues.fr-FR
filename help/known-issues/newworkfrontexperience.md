@@ -3,10 +3,10 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
+source-git-commit: baeb2b783dcf75bc889096cd02035ecb9bd17ef6
 workflow-type: tm+mt
-source-wordcount: '585'
-ht-degree: 96%
+source-wordcount: '569'
+ht-degree: 97%
 
 ---
 
@@ -39,10 +39,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | -----------------------------------------------------------------| ----------------- |
 | [Configuration : Impossible d’enregistrer les modèles d’email](known-issues-workfront/wf-setup-email-templates-not-working.md) | 20 janvier 2023 |
 | [Documents : Impossible de restaurer le document supprimé](known-issues-workfront/wf-documents-cannot-restore-document.md) | 20 janvier 2023 |
-| [Utilisateurs : L’utilisateur ne peut pas modifier son propre paramètre d’utilisateur.](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md) | 18 janvier 2023 |
 | [Bons à tirer : les bons à tirer ne peuvent pas être décompressés](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 20 décembre 2022 |
 | [Rapports : erreur de type « Oups » lors de l’ajout d’un nouveau problème à un rapport de problème](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 novembre 2022 |
-| [Intégrations : erreur de soumission d’une demande depuis [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 août 2022 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Cas d’assistance sur Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 août 2022 |
 
 {style=&quot;table-layout:auto&quot;}
