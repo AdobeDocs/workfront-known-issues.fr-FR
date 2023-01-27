@@ -4,9 +4,9 @@ description: Lorsqu’un utilisateur tente de créer une connexion dans l’un d
 hidefromtoc: true
 exl-id: 068793be-63e5-40b5-bf10-c01d76c1b6e7
 source-git-commit: dd093aff6103901898c561c9f6f544c1648682a3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '109'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->Ce problème a été résolu le 9 janvier 2023.
+>Ce problème a été résolu le 9 janvier 2023.
 
 Lorsqu’un utilisateur tente de créer une connexion dans l’une des connecteurs [!DNL Google] (tels que [!DNL Google Sheets] ou [!DNL Google Drive]), une fenêtre s’ouvre et le message d’erreur suivant apparaît :
 
