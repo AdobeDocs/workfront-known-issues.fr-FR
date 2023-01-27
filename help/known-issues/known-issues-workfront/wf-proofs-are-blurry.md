@@ -3,7 +3,7 @@ title: « L’affichage des épreuves est d’une qualité inférieure à celle
 description: « Lorsque l’utilisateur crée une épreuve puis l’affiche dans la visionneuse d’épreuves, l’épreuve apparaît moins nettement (plus floue) par rapport à l’image d’origine. »
 hidefromtoc: true
 source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
 ht-degree: 100%
 
