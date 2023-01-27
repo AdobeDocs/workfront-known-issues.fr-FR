@@ -1,12 +1,12 @@
 ---
-title: '''Formulaires personnalisés : Erreur de suppression lors de la configuration d’un champ calculé"'
-description: Lorsqu’un utilisateur crée ou modifie le champ calculé d’un formulaire personnalisé et inclut un champ personnalisé dans l’expression du champ calculé, l’expression est considérée comme non valide. Le bouton Enregistrer est désactivé et l’utilisateur ne peut pas quitter le champ personnalisé. En outre, l’utilisateur voit un message de whops sous le champ .
+title: '« Formulaires personnalisés : erreur Oups lors de la configuration d’un champ calculé »'
+description: Lorsqu’un utilisateur crée ou modifie le champ calculé d’un formulaire personnalisé et inclut un champ personnalisé dans l’expression du champ calculé, l’expression est considérée comme non valide. Le bouton Enregistrer est désactivé et l’utilisateur ou l’utilisatrice ne peut pas quitter le champ personnalisé. De plus, l’utilisateur ou l’utilisatrice voit un message Oups sous le champ.
 hidefromtoc: true
 exl-id: e499c680-2fdf-40cb-a1fa-b0d4ae799ad2
 source-git-commit: 62d6d8659079211804d2a270b181272ac7b0eede
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '176'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 84%
 
 >[!NOTE]
 >
->Ce problème a été corrigé le 12 janvier 2023.
+>Ce problème a été résolu le 12 janvier 2023.
 
 Lorsqu’un utilisateur crée ou modifie le champ calculé d’un formulaire personnalisé et inclut un champ personnalisé dans l’expression du champ calculé, l’expression est considérée comme non valide. Le bouton [!UICONTROL Enregistrer] est désactivé et l’utilisateur ne peut pas quitter le champ personnalisé. De plus, l’utilisateur voit le message suivant sous le champ :
 
