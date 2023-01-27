@@ -3,7 +3,7 @@ title: '« Documents : les autorisations de document ne sont pas héritées lo
 description: « Lorsque des documents sont joints à un problème et qu’un utilisateur convertit le problème en projet, les documents du nouveau projet ne disposent pas des autorisations héritées qu’ils devraient avoir. »
 hidefromtoc: true
 source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
 ht-degree: 100%
 
