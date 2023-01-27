@@ -4,7 +4,7 @@ user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
 source-git-commit: 1b49b3fdcd78dc0ceef76f2a0c7492d2ae151296
 workflow-type: tm+mt
 source-wordcount: '1323'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -17,10 +17,10 @@ ht-degree: 97%
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
       + [Utilisateurs : La désactivation planifiée ne désactive pas l’utilisateur](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
-      + [Configuration : Impossible d’enregistrer les modèles d’email](known-issues-workfront/wf-setup-email-templates-not-working.md)
-      + [Utilisateurs : L’utilisateur ne peut pas modifier son propre paramètre d’utilisateur.](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
-      + [Documents : Impossible de restaurer le document supprimé](known-issues-workfront/wf-documents-cannot-restore-document.md)
-      + [Documents : Erreur lors du téléchargement d’un fichier volumineux](known-issues-workfront/wf-documents-large-uploads-fail.md)
+      + [Configuration : impossible d’enregistrer les modèles d’e-mail](known-issues-workfront/wf-setup-email-templates-not-working.md)
+      + [Utilisateurs : l’utilisateur ou l’utilisatrice ne peut pas modifier ses propres paramètres utilisateur](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
+      + [Documents : impossible de restaurer le document supprimé](known-issues-workfront/wf-documents-cannot-restore-document.md)
+      + [Documents : erreur lors du téléchargement d’un fichier volumineux](known-issues-workfront/wf-documents-large-uploads-fail.md)
       + [Tâches : les tâches mises en avant ne restent pas mises en avant](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)
       + [Mises à jour : l’écran n’affiche temporairement plus rien lors de l’envoi de la réponse](known-issues-workfront/wf-updates-reply-goes-blank.md)
       + [Formulaires personnalisés : Ctrl+F ou Cmd+F ne fonctionne pas comme prévu dans les champs de liste déroulante](known-issues-workfront/wf-custom-forms-dropdown-search.md)

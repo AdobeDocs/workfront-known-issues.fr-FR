@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 441062239d07963454e1cc57e4dff54e0c5a06bb
 workflow-type: tm+mt
 source-wordcount: '1071'
-ht-degree: 67%
+ht-degree: 92%
 
 ---
 
@@ -48,7 +48,7 @@ Les utilisateurs peuvent également afficher manuellement la dernière version. 
 
 _Utilisateurs_
 
-Lorsqu’un utilisateur disposant d’une licence de travail, de révision ou de requête tente de modifier ses propres paramètres utilisateur, la fenêtre contextuelle qui s’ouvre est vide et l’utilisateur ne peut pas apporter de modifications. Pour quitter la fenêtre contextuelle, l’utilisateur doit actualiser la page.
+Lorsqu’un utilisateur ou une utilisatrice sous licence de Travail, Révision ou Demande tente de modifier ses propres paramètres utilisateur, la fenêtre contextuelle qui s’affiche est vide et l’utilisateur ou l’utilisatrice ne peut pas apporter de modifications. Pour quitter la fenêtre contextuelle, l’utilisateur ou l’utilisatrice doit actualiser la page.
 
 +++
 
@@ -56,15 +56,15 @@ Lorsqu’un utilisateur disposant d’une licence de travail, de révision ou de
 
 **Les filtres de colonne d’entrée peuvent désormais être partagés.**
 
-_Panoramas_
+_Tableaux_
 
-Lorsque la fonction Colonne d’ingestion a été diffusée sur les panoramas, les filtres pour configurer la colonne d’ingestion n’étaient visibles que par la personne qui les avait créés. Désormais, le créateur peut partager les filtres avec d’autres utilisateurs ou équipes.
+Lors de la publication de la fonctionnalité Colonne d’entrée sur les tableaux, les filtres de configuration n’étaient visibles que par la personne qui les avait créés. Le créateur ou la créatrice des filtres peut maintenant les partager avec d’autres utilisateurs, utilisatrices ou équipes.
 
 **Fonctionnalité Épingle disponible dans le menu [!UICONTROL Plus]**
 
 _Navigation_
 
-Les fonctionnalités suivantes sont désormais disponibles dans la [!UICONTROL Plus] pour les pin’s, dans l’environnement de production :
+Les fonctionnalités suivantes sont désormais disponibles dans le menu [!UICONTROL Plus] pour les épingles, dans l’environnement de production :
 
 * Renommer des épingles
 * Réorganisation des épingles dans le menu [!UICONTROL Plus]
@@ -74,25 +74,25 @@ Les fonctionnalités suivantes sont désormais disponibles dans la [!UICONTROL P
 
 +++**Mise à jour de maintenance le 18 janvier 2023**
 
-**Les expressions avec des caractères génériques ne sont pas valides dans les champs personnalisés**
+**Les expressions avec des caractères génériques ne sont pas valides dans les champs personnalisés**.
 
 _Formulaires personnalisés_
 
-Lorsqu’un utilisateur utilise un caractère générique tel que \$$TODAY ou $$NOW avec un modificateur (tel que &quot;-30d&quot;) dans un champ personnalisé, le programme de validation n’accepte pas le caractère générique comme valide. Les caractères génériques sans modificateurs sont considérés comme valides.
+Lorsqu’un utilisateur ou une utilisatrice utilise un caractère générique tel que \$$TODAY ou $$NOW avec un modificateur (tel que « -30d ») dans un champ personnalisé, le programme de validation ne reconnaît pas le caractère générique comme étant valide. Les caractères génériques sans modificateurs sont considérés comme valides.
 
-**[!UICONTROL Équilibreur de charge de travail] affiche les heures non associées à un projet/une tâche/un problème**
+L’**[!UICONTROL Équilibreur de charge de travail] affiche les heures non associées à un projet, une tâche ou un problème**.
 
 _[!UICONTROL Équilibreur de charge de travail]_
 
-Lorsqu’un utilisateur affiche la variable [!UICONTROL Équilibreur de charge de travail], ils voient les heures enregistrées pour un utilisateur qui n’est associé à aucun projet, tâche ou problème, et ils ne sont pas enregistrés en tant que [!UICONTROL Général] heures. Ces heures peuvent s’afficher uniquement en mode 4 semaines ou 6 semaines.
+Lorsqu’un utilisateur ou une utilisatrice consulte l’[!UICONTROL Équilibreur de charge de travail], il voit les heures enregistrées pour un utilisateur ou une utilisatrice qui ne sont associées à aucun projet, tâche ou problème, et qui ne sont pas non plus enregistrées en tant qu’heures [!UICONTROL Générales]. Ces heures peuvent s’afficher uniquement dans la vue 4 semaines ou 6 semaines.
 
 +++
 
-+++**[!DNL Adobe Workfront Fusion]Mise à jour de maintenance (correctif) le 12 janvier 2023**
++++**[!DNL Adobe Workfront Fusion]Mise à jour de maintenance (correctif) le 12 janvier 2023**
 
-**Erreurs 404 sur [!DNL Workfront] modules**
+**Erreurs 404 sur les modules [!DNL Workfront]**
 
-_Workfront Fusion_
+_Workfront Fusion_
 
 Lorsqu’un scénario s’exécute, un module [!DNL Workfront] renvoie une erreur 404.
 
@@ -102,9 +102,9 @@ Les modules suivants sont concernés :
 
 +++
 
-+++**Mise à jour de maintenance (correctif) le 12 janvier 2023**
++++**Mise à jour de maintenance (correctif) le 12 janvier 2023**
 
-**&quot;[!UICONTROL Oups]&quot; lors de la configuration d’un champ calculé**
+**Erreur « [!UICONTROL Oups] » lors de la configuration d’un champ calculé**
 
 _Formulaires personnalisés_
 
@@ -118,7 +118,7 @@ La suppression du champ personnalisé de l’expression permet à l’utilisateu
 
 _Utilisateurs_
 
-Lorsqu’un utilisateur tente de modifier le niveau d’accès d’un autre utilisateur, les niveaux d’accès sont grisés et l’utilisateur ne peut pas les modifier. Cela se produit même lorsque l’utilisateur qui tente d’effectuer la modification est un administrateur système.
+Lorsqu’un utilisateur ou une utilisatrice tente de modifier le niveau d’accès d’un autre utilisateur ou d’une autre utilisatrice, les niveaux d’accès sont grisés et l’utilisateur ou l’utilisatrice ne peut pas les modifier. Le problème se produit également si l’utilisateur ou l’utilisatrice qui tente d’effectuer la modification est un administrateur ou une administratrice système.
 
 +++
 
