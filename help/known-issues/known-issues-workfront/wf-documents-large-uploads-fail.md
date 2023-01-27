@@ -1,16 +1,16 @@
 ---
-title: "Documents : Erreur lors du téléchargement d’un fichier volumineux"
-description: "Lorsqu’un utilisateur tente de charger un fichier volumineux (plus de 25 Mo), le fichier n’est pas chargé et l’utilisateur voit l’erreur Échec du téléchargement du fichier."
+title: '« Documents : erreur lors du téléchargement d’un fichier volumineux »'
+description: '« Lorsqu’un utilisateur ou une utilisatrice tente de télécharger un fichier volumineux (plus de 25 Mo), le fichier ne télécharge pas et l’erreur suivante s’affiche : échec du téléchargement du fichier. »'
 hidefromtoc: true
 source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
-ht-degree: 18%
+ht-degree: 100%
 
 ---
 
 
-# Documents : Erreur lors du téléchargement d’un fichier volumineux
+# Documents : erreur lors du téléchargement d’un fichier volumineux
 
 <!--This article is on WF and WFP TOCs-->
 
@@ -18,7 +18,7 @@ ht-degree: 18%
 >
 >Ce problème a été résolu, car il ne s’agit pas d’un problème.
 
-Lorsqu’un utilisateur tente de charger un fichier volumineux (plus de 25 Mo), le fichier n’est pas chargé et l’utilisateur voit l’erreur &quot;[!UICONTROL Échec du téléchargement du fichier].&quot;
+Lorsqu’un utilisateur ou une utilisatrice tente de télécharger un fichier volumineux (plus de 25 Mo), le fichier ne télécharge pas et l’erreur « [!UICONTROL Échec du téléchargement du fichier] » s’affiche.
 
 **Solution**
 
