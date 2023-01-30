@@ -3,10 +3,10 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 7d01ba3dad163924a9f5f6f0a5d39215f77980ed
+source-git-commit: e8358a00e3cfa9a62f86056752801f030ced296f
 workflow-type: tm+mt
-source-wordcount: '571'
-ht-degree: 98%
+source-wordcount: '609'
+ht-degree: 93%
 
 ---
 
@@ -24,6 +24,8 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Projets : Le projet converti à partir de la publication n’hérite pas des autorisations du portfolio ou du programme](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 30 janvier 2023 |
+| [Documents : Erreur &quot;Réponse non valide&quot; lors de l’ouverture ou du téléchargement d’un document](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md) | 30 janvier 2023 |
 | [Documents : impossible de restaurer le document supprimé](known-issues-workfront/wf-documents-cannot-restore-document.md) | 18 janvier 2023 |
 | [Bons à tirer : La génération de BAT est extrêmement lente](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 octobre 2022 |
 | [Épreuves : le résumé d’impression n’affiche pas toutes les pages de l’épreuve](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 octobre 2022 |
@@ -36,6 +38,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Configuration]: Les journaux d’audit ne sont pas exportés](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | 30 janvier 2023 |
+| [[!UICONTROL Résumé]: Impossible de faire défiler [!UICONTROL Résumé] panel](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md) | 30 janvier 2023 |
 | [Utilisateurs : La désactivation planifiée ne désactive pas l’utilisateur](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | 26 janvier 2023 |
 | [Configuration : impossible d’enregistrer les modèles d’e-mail](known-issues-workfront/wf-setup-email-templates-not-working.md) | 20 janvier 2023 |
 | [Document : impossible de restaurer le document supprimé](known-issues-workfront/wf-documents-cannot-restore-document.md) | 20 janvier 2023 |
