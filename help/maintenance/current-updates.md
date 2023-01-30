@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 441062239d07963454e1cc57e4dff54e0c5a06bb
+source-git-commit: f3dbb947d2c3d9d36677c6c3c2cb41db2ce47685
 workflow-type: tm+mt
-source-wordcount: '1071'
-ht-degree: 92%
+source-wordcount: '1319'
+ht-degree: 78%
 
 ---
 
@@ -20,6 +20,41 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2023.
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
 
 ## Mises à jour de janvier 2023
+
++++**Mise à jour de maintenance le 30 janvier 2023**
+
+**Raccourcis clavier ajoutés pour les actions de feuille de temps courantes**
+
+_Feuilles de temps_
+
+Nous avons introduit les raccourcis clavier suivants pour les actions courantes suivantes dans une feuille de temps :
+
+* Ajouter une ligne (Cmd+Option++ / Ctrl+Option++)
+* Supprimer la ligne (Cmd+Option+- / Ctrl+Option+-)
+* Epingler ou détacher un élément de travail (Option+P / Option+P)
+* Ouvrir le commentaire (Maj+F2 / Maj+F2)
+* Enregistrer le commentaire (Cmd+Entrée / Ctrl+Entrée)
+* Développer (Maj+Option+Flèche Haut/ Maj+Alt+Flèche Haut)
+* Réduire (Maj+Option+Flèche Bas/ Maj+Alt+Flèche Bas)
+
+La zone où ces actions sont effectuées doit être mise en surbrillance pour qu’elles s’appliquent.
+
+**Nouvelles icônes d’informations pour les feuilles de temps, les profils de feuille de temps et les préférences de la feuille de temps**
+
+_Feuilles de temps_
+
+>[!NOTE]
+>
+>Cette mise à jour a été publiée uniquement dans l’environnement Aperçu le 3 novembre 2022 et est désormais disponible dans l’environnement de production.
+
+Nous avons ajouté plusieurs icônes d’informations pour les paramètres suivants :
+
+* &quot;[!UICONTROL Peut modifier l’heure]&quot;case à cocher lors de la création ou de la modification d’une feuille de temps ou d’un profil de feuille de temps pour indiquer que lorsqu’elle est activée, les approbateurs peuvent également envoyer, rouvrir ou modifier la feuille de temps, sauf si votre administrateur restreint ces actions dans la variable [!UICONTROL Préférences de la feuille de temps] area of [!UICONTROL Configuration].
+* &quot;[!UICONTROL Limitation de la modification de la feuille de temps aux propriétaires et aux administrateurs]&quot; dans la variable [!UICONTROL Préférences de la feuille de temps et de l’heure] area of [!UICONTROL Configuration] pour indiquer qu’en cas de désactivation, les utilisateurs suivants peuvent également modifier les feuilles de temps : les utilisateurs disposant d’un accès administratif aux feuilles de calcul temporelles et aux heures, les approbateurs de feuilles de temps sont autorisés à modifier l’heure et les gestionnaires des propriétaires de feuilles de temps.
+
+Notez que la fonctionnalité de ces paramètres n’a pas été modifiée et que seules des icônes d’informations ont été ajoutées pour clarifier la fonction des paramètres.
+
++++
 
 +++**Mise à jour de maintenance le 26 janvier 2023**
 
