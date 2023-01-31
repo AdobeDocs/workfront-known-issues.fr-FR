@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f3dbb947d2c3d9d36677c6c3c2cb41db2ce47685
+source-git-commit: ee85cc89d8803afa3a239e51c468fe3ed372ea49
 workflow-type: tm+mt
-source-wordcount: '1319'
-ht-degree: 78%
+source-wordcount: '1351'
+ht-degree: 79%
 
 ---
 
@@ -19,7 +19,17 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2023.
 
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
 
-## Mises à jour de janvier 2023
+## Mises à jour de février 2023
+
++++**Mise à jour de maintenance le 2 février 2023**
+
+**Impossible d’enregistrer les modèles d’email**
+
+_Configuration_
+
+Lorsqu’un utilisateur ou une utilisatrice tente de créer ou de modifier un modèle d’e-mail, le bouton [!UICONTROL Enregistrer] ne répond pas et l’utilisateur ou l’utilisatrice ne peut pas enregistrer le modèle.
+
++++
 
 +++**Mise à jour de maintenance le 30 janvier 2023**
 
