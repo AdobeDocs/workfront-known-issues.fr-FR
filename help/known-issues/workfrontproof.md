@@ -3,9 +3,9 @@ title: Problèmes connus dans  [!DNL Adobe Workfront Proof]
 description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 6183d1c028c93ee2eba2e9c4452879bc8813289f
+source-git-commit: 202602937d0734716871d78d0863a46cf646ced5
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '264'
 ht-degree: 87%
 
 ---
@@ -48,6 +48,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Épreuves : une nouvelle étape a été créée, car la date limite ne correspond pas à la date limite de l’étape existante](known-issues-workfront-proof/proof-new-stage-created.md) | 2 février 2023 |
 | [[!UICONTROL Accueil] : les épreuves terminées sont bloquées dans la [!UICONTROL Liste de travail]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 janvier 2023 |
 | [Épreuves : le statut de l’épreuve n’est pas mis à jour dans les listes de [!UICONTROL documents]](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 décembre 2022 |
 | [Épreuves : l’épreuve n’est pas partagée avec les utilisateurs du workflow de l’épreuve](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18 septembre 2022 |
