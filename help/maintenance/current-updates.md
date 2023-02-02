@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ee85cc89d8803afa3a239e51c468fe3ed372ea49
+source-git-commit: 4f1ddf2ac7e5b6b463d421ba3356dfd0815e43f0
 workflow-type: tm+mt
-source-wordcount: '1351'
-ht-degree: 79%
+source-wordcount: '1402'
+ht-degree: 76%
 
 ---
 
@@ -23,7 +23,11 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 +++**Mise à jour de maintenance le 2 février 2023**
 
-**Impossible d’enregistrer les modèles d’email**
+**L’icône Panoramas apparaît par défaut dans le menu principal.**
+
+_Tableaux_
+
+L’icône Panoramas apparaît désormais dans le menu principal pour les utilisateurs qui ne disposent pas d’un modèle de mise en page. Les panoramas sont également inclus par défaut dans le menu principal pour tous les nouveaux modèles de mise en page créés. Les modèles de mise en page existants n’ont pas été modifiés.**Impossible d’enregistrer les modèles d’email**
 
 _Configuration_
 

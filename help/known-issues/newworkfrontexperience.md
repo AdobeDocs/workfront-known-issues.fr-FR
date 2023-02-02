@@ -3,10 +3,10 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 6183d1c028c93ee2eba2e9c4452879bc8813289f
+source-git-commit: 4f1ddf2ac7e5b6b463d421ba3356dfd0815e43f0
 workflow-type: tm+mt
-source-wordcount: '633'
-ht-degree: 90%
+source-wordcount: '627'
+ht-degree: 89%
 
 ---
 
@@ -43,7 +43,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [[!UICONTROL Configuration]: Les journaux d’audit ne sont pas exportés](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | 30 janvier 2023 |
 | [[!UICONTROL Résumé]: Impossible de faire défiler [!UICONTROL Résumé] panel](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md) | 30 janvier 2023 |
 | [Utilisateurs : La désactivation planifiée ne désactive pas l’utilisateur](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | 26 janvier 2023 |
-| [Configuration : impossible d’enregistrer les modèles d’e-mail](known-issues-workfront/wf-setup-email-templates-not-working.md) | 20 janvier 2023 |
 | [Document : impossible de restaurer le document supprimé](known-issues-workfront/wf-documents-cannot-restore-document.md) | 20 janvier 2023 |
 | [Rapports : erreur de type « Oups » lors de l’ajout d’un nouveau problème à un rapport de problème](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 novembre 2022 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Cas d’assistance sur Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 août 2022 |
