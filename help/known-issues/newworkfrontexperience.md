@@ -3,10 +3,10 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 4a346b600df6e53d85542faf8cb3ce56d76a07e2
+source-git-commit: 1617567bef73599325b363c61dff421fc65b9a1f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '649'
+ht-degree: 85%
 
 ---
 
@@ -24,6 +24,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documents : Les autorisations ne sont pas héritées lorsqu’un document est déplacé vers un nouveau projet.](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 3 février 2023 |
 | [Équilibreur de charge de travail : Résultats inexacts en cas d’utilisation simultanée de plusieurs filtres](known-issues-workfront/wf-workload-balancer-multiple-filters.md) | 3 février 2023 |
 | [Documents : Le panneau Résumé revient en haut lorsque vous cliquez sur le menu à trois points](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 31 janvier 2023 |
 | [Documents : Erreur &quot;Cette page n’existe pas&quot; lors de l’ouverture ou du téléchargement d’un document](known-issues-workfront/wf-documents-cannot-open-or-download-document.md) | 31 janvier 2023 |
