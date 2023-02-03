@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
-source-git-commit: 3826558093ba7d8aa6ee25211010c60610d03fcc
+source-git-commit: 4a346b600df6e53d85542faf8cb3ce56d76a07e2
 workflow-type: tm+mt
-source-wordcount: '1407'
-ht-degree: 94%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Équilibreur de charge de travail : Résultats inexacts en cas d’utilisation simultanée de plusieurs filtres](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
       + [Groupes : Les sous-groupes ne dévoilent pas de notifications en fonction des paramètres de notification d’événement de groupe](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)
       + [Documents : Le panneau Résumé revient en haut lorsque vous cliquez sur le menu à trois points](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md)
       + [Documents : Erreur &quot;Cette page n’existe pas&quot; lors de l’ouverture ou du téléchargement d’un document](known-issues-workfront/wf-documents-cannot-open-or-download-document.md)
@@ -175,6 +176,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problèmes connus dans Workfront Fusion](workfrontfusion.md)
    + Problèmes actifs dans [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Adobe Workfront Fusion]: Erreurs de dépassement de délai dans Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md)
       + [[!DNL Adobe Workfront Fusion]: Erreurs 404 dans les modules Workfront](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
       + [[!DNL Workfront Fusion] : impossible de créer une connexion à [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion] : les éléments de tableau du module [!UICONTROL Itérateur] s’affichent sous la forme d’un « [!UICONTROL objet Objet] »](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
