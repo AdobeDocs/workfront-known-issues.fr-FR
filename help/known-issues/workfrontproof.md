@@ -3,10 +3,10 @@ title: Problèmes connus dans  [!DNL Adobe Workfront Proof]
 description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 202602937d0734716871d78d0863a46cf646ced5
+source-git-commit: 43cc7a54a32f68460118de9d8ad93b472bd77c75
 workflow-type: tm+mt
-source-wordcount: '264'
-ht-degree: 87%
+source-wordcount: '247'
+ht-degree: 90%
 
 ---
 
@@ -26,7 +26,6 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 | -----------------------------------------------------------------| ----------------- |
 | [Documents : Le panneau Résumé revient en haut lorsque vous cliquez sur le menu à trois points](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 31 janvier 2023 |
 | [Documents : Erreur &quot;Cette page n’existe pas&quot; lors de l’ouverture ou du téléchargement d’un document](known-issues-workfront/wf-documents-cannot-open-or-download-document.md) | 31 janvier 2023 |
-| [Documents : Erreur &quot;Réponse non valide&quot; lors de l’ouverture ou du téléchargement d’un document](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md) | 30 janvier 2023 |
 | [Documents : impossible d’ajouter des documents depuis [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) | 20 décembre 2022 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -38,7 +37,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
 | API [[!DNL Workfront Proof]  : erreur « [!UICONTROL Le corps n’est pas un XML valide.] »](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 20 janvier 2023 |
-| [Document : impossible de restaurer le document supprimé](known-issues-workfront/wf-documents-cannot-restore-document.md) | 20 janvier 2023 |
 
 {style=&quot;table-layout:auto&quot;}
 

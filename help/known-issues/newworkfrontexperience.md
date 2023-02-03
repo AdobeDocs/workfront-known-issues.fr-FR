@@ -3,10 +3,10 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: e13d003b2771683ecd7cc1701f3d94c958b8b9e2
+source-git-commit: 43cc7a54a32f68460118de9d8ad93b472bd77c75
 workflow-type: tm+mt
-source-wordcount: '640'
-ht-degree: 88%
+source-wordcount: '623'
+ht-degree: 89%
 
 ---
 
@@ -27,8 +27,6 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 | [Documents : Le panneau Résumé revient en haut lorsque vous cliquez sur le menu à trois points](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 31 janvier 2023 |
 | [Documents : Erreur &quot;Cette page n’existe pas&quot; lors de l’ouverture ou du téléchargement d’un document](known-issues-workfront/wf-documents-cannot-open-or-download-document.md) | 31 janvier 2023 |
 | [Projets : Le projet converti à partir de la publication n’hérite pas des autorisations du portfolio ou du programme](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 30 janvier 2023 |
-| [Documents : Erreur &quot;Réponse non valide&quot; lors de l’ouverture ou du téléchargement d’un document](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md) | 30 janvier 2023 |
-| [Documents : impossible de restaurer le document supprimé](known-issues-workfront/wf-documents-cannot-restore-document.md) | 18 janvier 2023 |
 | [Bons à tirer : La génération de BAT est extrêmement lente](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 octobre 2022 |
 | [Épreuves : le résumé d’impression n’affiche pas toutes les pages de l’épreuve](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 octobre 2022 |
 
