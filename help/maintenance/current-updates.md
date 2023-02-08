@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: c85772aa45bce70beb6f0f52fec926abcf8d5843
+source-git-commit: f60d2cab1983c7486ca611050de5ee53596c9e05
 workflow-type: tm+mt
-source-wordcount: '1428'
-ht-degree: 75%
+source-wordcount: '1482'
+ht-degree: 73%
 
 ---
 
@@ -24,6 +24,16 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 +++**Mise à jour de maintenance (prévue) le 9 février 2023**
 
 Cette mise à jour comprend uniquement des correctifs mineurs ou moins importants. L’assistance [!DNL Workfront]vous avertira lorsqu’un problème que vous avez soumis est résolu.
+
++++
+
++++**Mise à jour de maintenance le 8 février 2023**
+
+**Bouton Filtrer dans la colonne d’entrée**
+
+_Tableaux_
+
+La colonne d’ingestion d’un panorama comprend désormais une **Ajouter un filtre** lorsque la colonne est vide et qu’aucun filtre n’a été créé. Le bouton ouvre la zone de configuration, dans laquelle vous pouvez ajouter des filtres pour importer les tâches et les problèmes dans la colonne d’entrée.
 
 +++
 
