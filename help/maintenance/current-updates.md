@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f60d2cab1983c7486ca611050de5ee53596c9e05
+source-git-commit: f31a0b764aa1e734fc2cb997b7f7170b315f3086
 workflow-type: tm+mt
-source-wordcount: '1482'
-ht-degree: 73%
+source-wordcount: '1506'
+ht-degree: 71%
 
 ---
 
@@ -21,9 +21,13 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 ## Mises à jour de février 2023
 
-+++**Mise à jour de maintenance (prévue) le 9 février 2023**
++++**Mise à jour de maintenance le 9 février 2023**
 
-Cette mise à jour comprend uniquement des correctifs mineurs ou moins importants. L’assistance [!DNL Workfront]vous avertira lorsqu’un problème que vous avez soumis est résolu.
+**[!UICONTROL Points d’article] champ ajouté aux listes et rapports de tâches et de problèmes**
+
+_Rapports_
+
+Le [!UICONTROL Points d’article] est désormais disponible pour être ajouté aux listes et aux rapports pour les tâches ou les problèmes. Il s’agit d’un champ de formulaire libre modifiable qui n’est pas lié aux heures planifiées ou aux affectations d’équipe.
 
 +++
 
@@ -33,17 +37,17 @@ Cette mise à jour comprend uniquement des correctifs mineurs ou moins important
 
 _Tableaux_
 
-La colonne d’ingestion d’un panorama comprend désormais une **Ajouter un filtre** lorsque la colonne est vide et qu’aucun filtre n’a été créé. Le bouton ouvre la zone de configuration, dans laquelle vous pouvez ajouter des filtres pour importer les tâches et les problèmes dans la colonne d’entrée.
+La colonne d’ingestion d’un panorama comprend désormais une **[!UICONTROL Ajouter un filtre]** lorsque la colonne est vide et qu’aucun filtre n’a été créé. Le bouton ouvre la zone de configuration, dans laquelle vous pouvez ajouter des filtres pour importer les tâches et les problèmes dans la colonne d’entrée.
 
 +++
 
 +++**Mise à jour de maintenance le 2 février 2023**
 
-**L’icône Panoramas apparaît par défaut dans le menu principal.**
+**[!UICONTROL Panoramas] apparaît dans [!UICONTROL Menu Principal] par défaut**
 
 _Tableaux_
 
-L’icône Panoramas apparaît désormais dans le menu principal pour les utilisateurs qui ne disposent pas d’un modèle de mise en page. Les panoramas sont également inclus par défaut dans le menu principal pour tous les nouveaux modèles de mise en page créés. Les modèles de mise en page existants n’ont pas été modifiés.
+Le [!UICONTROL Panoramas] s’affiche maintenant dans la [!UICONTROL Menu Principal] pour les utilisateurs qui n’ont pas de modèle de mise en page. Les panoramas sont également inclus par défaut dans le menu principal pour tous les nouveaux modèles de mise en page créés. Les modèles de mise en page existants n’ont pas été modifiés.
 
 **Impossible d’enregistrer les modèles d’email**
 
