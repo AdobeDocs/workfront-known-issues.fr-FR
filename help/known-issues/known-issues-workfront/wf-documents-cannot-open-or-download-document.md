@@ -2,10 +2,10 @@
 title: "Documents : Cette page n’existe pas d’erreur lors de l’ouverture ou du téléchargement d’un document."
 description: "Lorsqu’un utilisateur tente d’ouvrir ou de télécharger un document dans Workfront, il ne peut pas l’ouvrir ni le télécharger, et une erreur s’affiche"
 hidefromtoc: true
-source-git-commit: 6183d1c028c93ee2eba2e9c4452879bc8813289f
+source-git-commit: d03db6c677e340e01629a962fec8b2690af8460d
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 15%
+source-wordcount: '90'
+ht-degree: 14%
 
 ---
 
@@ -13,6 +13,10 @@ ht-degree: 15%
 # Documents : Erreur &quot;Cette page n’existe pas&quot; lors de l’ouverture ou du téléchargement d’un document
 
 <!--This article is on the WF and WFP TOC-->
+
+>[!NOTE]
+>
+>Ce problème a été résolu le 2 février 2023.
 
 Lorsqu’un utilisateur tente d’ouvrir ou de télécharger un document dans Workfront, il ne peut ni l’ouvrir ni le télécharger, et le message d’erreur suivant s’affiche :
 
