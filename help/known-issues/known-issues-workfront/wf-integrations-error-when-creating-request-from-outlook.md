@@ -1,11 +1,11 @@
 ---
 title: "Intégrations\_: erreur de soumission d’une demande depuis Outlook"
-description: "Lorsque l’utilisateur tente de soumettre une demande comprenant des pièces jointes dans un e-mail  [!DNL Outlook] , une ou plusieurs des pièces jointes ne se chargent pas et un message d’erreur apparaît."
+description: "Lorsque l’utilisateur tente de soumettre une demande comprenant des pièces jointes dans un e-mail [!DNL Outlook] , une ou plusieurs des pièces jointes ne se chargent pas et un message d’erreur apparaît."
 hidefromtoc: true
 source-git-commit: baeb2b783dcf75bc889096cd02035ecb9bd17ef6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->Ce problème a été résolu le 26 janvier 2023.
+>Ce problème a été résolu le 26 janvier 2023.
 
 Lorsque l’utilisateur tente de soumettre une demande comprenant des pièces jointes dans un e-mail [!DNL Outlook], une ou plusieurs des pièces jointes ne se chargent pas et le message d’erreur suivant apparaît :
 
