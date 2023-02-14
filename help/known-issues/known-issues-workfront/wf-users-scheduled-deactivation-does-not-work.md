@@ -1,18 +1,18 @@
 ---
-title: "Utilisateurs : La désactivation planifiée ne désactive pas l’utilisateur"
-description: "Lorsqu’un utilisateur est programmé pour être désactivé et que la date et l’heure planifiées sont transmises, il n’est pas désactivé."
+title: '« Utilisateurs : la désactivation planifiée ne désactive pas l’utilisateur »'
+description: « Lorsque la désactivation d’un utilisateur est planifiée et que la date et l’heure programmées sont passées, il n’est pas désactivé ».
 hidefromtoc: true
 source-git-commit: 7e9ce4242d5c738f88d26156137853dd48086ede
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '58'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
 
-# Utilisateurs : La désactivation planifiée ne désactive pas l’utilisateur
+# Utilisateurs : la désactivation planifiée ne désactive pas l’utilisateur
 
-Lorsqu’un utilisateur est programmé pour être désactivé et que la date et l’heure planifiées sont transmises, il n’est pas désactivé.
+Lorsque la désactivation d’un utilisateur est planifiée et que la date et l’heure programmées sont passées, il n’est pas désactivé.
 
-_Premier signalement le 18 janvier 2023._
+_Premier signalement le 18 janvier 2023._
 
