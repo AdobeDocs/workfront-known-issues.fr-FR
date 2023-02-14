@@ -5,8 +5,8 @@ keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: b385fcb16dbcb85397afd22ce730757603f0f6d7
 workflow-type: tm+mt
-source-wordcount: '635'
-ht-degree: 87%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -42,7 +42,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [Utilisateurs : Le niveau d’accès n’est pas attribué lors de la réactivation de l’utilisateur](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | 13 février 2023 |
 | [Mises à jour : Lien vers un commentaire redirige vers [!UICONTROL Détails] page](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md) | 10 février 2023 |
 | [[!UICONTROL Configuration]: Les journaux d’audit ne sont pas exportés](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | 30 janvier 2023 |
-| [Utilisateurs : La désactivation planifiée ne désactive pas l’utilisateur](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | 26 janvier 2023 |
+| [Utilisateurs : la désactivation planifiée ne désactive pas l’utilisateur](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | 26 janvier 2023 |
 | [Document : impossible de restaurer le document supprimé](known-issues-workfront/wf-documents-cannot-restore-document.md) | 20 janvier 2023 |
 | [Rapports : erreur de type « Oups » lors de l’ajout d’un nouveau problème à un rapport de problème](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 novembre 2022 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Cas d’assistance sur Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 août 2022 |

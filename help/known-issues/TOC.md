@@ -3,8 +3,8 @@ user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
 source-git-commit: b385fcb16dbcb85397afd22ce730757603f0f6d7
 workflow-type: tm+mt
-source-wordcount: '1462'
-ht-degree: 90%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 90%
       + [[!UICONTROL Configuration]: Les journaux d’audit ne sont pas exportés](known-issues-workfront/wf-setup-audit-logs-do-not-export.md)
       + [[!UICONTROL Résumé]: Impossible de faire défiler [!UICONTROL Résumé] panel](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md)
       + [Documents : Erreur &quot;Réponse non valide&quot; lors de l’ouverture ou du téléchargement d’un document](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md)
-      + [Utilisateurs : La désactivation planifiée ne désactive pas l’utilisateur](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
+      + [Utilisateurs : la désactivation planifiée ne désactive pas l’utilisateur](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
       + [Configuration : impossible d’enregistrer les modèles d’e-mail](known-issues-workfront/wf-setup-email-templates-not-working.md)
       + [Utilisateurs : l’utilisateur ou l’utilisatrice ne peut pas modifier ses propres paramètres utilisateur](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
       + [Documents : impossible de restaurer le document supprimé](known-issues-workfront/wf-documents-cannot-restore-document.md)
@@ -117,13 +117,13 @@ ht-degree: 90%
       + [Formulaires personnalisés : infobulle affichant des champs de texte descriptif](known-issues-workfront/wf-custom-forms-descriptive-text-tooltip.md)
       + [Intégrations : erreur 404 lors de l’ajout d’un document à partir de  [!DNL SharePoint] [!UICONTROL (API Graph)]](known-issues-workfront/wf-integrations-sharepoint-graph-api-returns-404.md)
       + [Intégrations : le dossier  [!DNL SharePoint] n’apparaît pas pour le propriétaire du dossier](known-issues-workfront/wf-integrations-sharepoint-folder-not-appearing-for-owner.md)
-      + [Intégrations : erreur de soumission d’une demande depuis [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md)
+      + [Intégrations : erreur de soumission d’une demande depuis  [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md)
       + [Feuilles de temps : erreur « [!UICONTROL Une autre personne a tenté d’enregistrer ce projet] » lors de la saisie des heures](known-issues-workfront/wf-timesheets-not-autosaving-due-to-error.md)
       + [Tableaux de bord : impossible d’accéder au tableau de bord à partir du panneau de navigation gauche sur un objet](known-issues-workfront/wf-dashboards-cannot-open-from-left-nav.md)
       + [Tâches et événements : la fenêtre se ferme accidentellement lors de la création de tâches ou d’événements](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md)
       + [Mises à jour : impossible de fermer la carte d’utilisateur dans le flux de mise à jour](known-issues-workfront/wf-updates-cant-close-user-card.md)
       + [Demandes : seule la première page de la liste de demandes peut être ouverte](known-issues-workfront/wf-requests-cannot-open-second-page-of-requests-list.md)
-      + [[!DNL Workfront] : problèmes lors de la soumission d’un cas d’assistance  [!DNL Workfront]  sur Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md)
+      + [[!DNL Workfront] : problèmes lors de la soumission d’un cas d’assistance [!DNL Workfront] sur Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md)
       + [Notifications : les utilisateurs ne reçoivent pas de notification par e-mail lorsqu’ils sont mentionnés dans un commentaire](known-issues-workfront/wf-notif-users-not-receive-email-when-mentioned.md)
       + [Feuilles de temps : erreur « Les derniers changements n’ont pas été enregistrés » lors de l’enregistrement automatique des modifications sur une feuille de temps](known-issues-workfront/wf-timesheets-recent-changes-not-saved-error.md)
       + [Tableaux de bord : les graphiques des rapports affichés dans un tableau de bord ne sont pas de la même couleur que ceux affichés dans le rapport](known-issues-workfront/wf-dashboard-reports-wrong-color.md)
