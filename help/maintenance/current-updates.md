@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f31a0b764aa1e734fc2cb997b7f7170b315f3086
+source-git-commit: b931adc190ed492131133cf1ba704a8b8057b6f9
 workflow-type: tm+mt
-source-wordcount: '1506'
-ht-degree: 71%
+source-wordcount: '1538'
+ht-degree: 76%
 
 ---
 
@@ -20,6 +20,16 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2023.
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
 
 ## Mises à jour de février 2023
+
++++**Mise à jour de maintenance (planifiée) le 16 février 2023**
+
+**La désactivation planifiée ne désactive pas l’utilisateur**
+
+_Utilisateurs_
+
+Lorsque la désactivation d’un utilisateur est planifiée et que la date et l’heure programmées sont passées, il n’est pas désactivé.
+
++++
 
 +++**Mise à jour de maintenance le 9 février 2023**
 
@@ -94,7 +104,7 @@ Notez que la fonctionnalité de ces paramètres n’a pas été modifiée et que
 
 +++**Mise à jour de maintenance le 26 janvier 2023**
 
-**Erreur lors de l’envoi d’une requête depuis[!DNL Outlook]**
+**Erreur de soumission d’une demande depuis [!DNL Outlook]**
 
 _Intégrations_
 
@@ -104,18 +114,18 @@ Lorsque l’utilisateur tente de soumettre une demande comprenant des pièces jo
 
 Cela se produit uniquement lorsqu’une affectation est effectuée pour la nouvelle demande, soit au moyen de la file d’attente des demandes, soit manuellement lors de la création de la demande.
 
-**Nouvelle version de la visionneuse de vérification de l’appli de bureau**
+**Nouvelle version du lecteur de vérification pour bureau**
 
-_Relecture_
+_Vérification_
 
-Pour résoudre un problème de blocage dans la visionneuse de vérification de l’appli de bureau, nous avons déployé une nouvelle version de la visionneuse de vérification de l’appli de bureau. Les utilisateurs qui disposent déjà de la visionneuse de vérification de l’appli de bureau seront automatiquement informés de cette mise à jour.
+Pour résoudre un problème de blocage du lecteur de vérification pour bureau, nous en avons déployé une nouvelle version. Les utilisateurs ou utlisatrices qui disposent déjà du lecteur de vérification pour bureau recevont une notification automatique de cette mise à jour.
 
-Les utilisateurs peuvent également afficher manuellement la dernière version. Pour plus d’informations, voir [Installation de la visionneuse de vérification de l’appli de bureau](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=en).
+Les utilisateurs ou utilisatrices peuvent également afficher manuellement la dernière version. Pour plus d’informations, consultez [Installation du lecteur de vérification pour bureau](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=fr).
 
-* Version précédente : 2.1.19
-* Nouvelle version : 2.1.20
+* Version précédente : 2.1.19
+* Nouvelle version : 2.1.20
 
-**L’utilisateur ne peut pas modifier son propre paramètre d’utilisateur.**
+**L’utilisateur ne peut pas modifier ses propres paramètres utilisateur**
 
 _Utilisateurs_
 
@@ -159,7 +169,7 @@ Lorsqu’un utilisateur ou une utilisatrice consulte l’[!UICONTROL Équilibreu
 
 +++
 
-+++**[!DNL Adobe Workfront Fusion]Mise à jour de maintenance (correctif) le 12 janvier 2023**
++++Mise à jour de maintenance pour **[!DNL Adobe Workfront Fusion] (correctif) le 12 janvier 2023**
 
 **Erreurs 404 sur les modules [!DNL Workfront]**
 
@@ -201,7 +211,7 @@ _Formulaires personnalisés_
 
 Lorsqu’un utilisateur remplit un formulaire personnalisé et effectue une recherche dans une liste déroulante à l’aide de Ctrl+F ou Cmd+F, puis tente d’accéder à l’instance suivante de cette recherche, la liste déroulante revient en haut de la liste plutôt que d’accéder à l’instance suivante de la recherche. Cela se produit lorsqu’une liste déroulante est définie pour autoriser plusieurs sélections.
 
-l’écran « **[!UICONTROL Modifier le rapport] » est vide**
+L’écran « **[!UICONTROL Modifier le rapport] » est vide**
 
 _Rapports_
 
