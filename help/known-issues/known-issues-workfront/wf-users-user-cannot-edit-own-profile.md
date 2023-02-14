@@ -3,7 +3,7 @@ title: '« Utilisateurs : l’utilisateur ou l’utilisatrice ne peut pas modi
 description: « Lorsqu’un utilisateur ou une utilisatrice sous licence de [!UICONTROL Travail], [!UICONTROL Révision] ou [!UICONTROL Demande] tente de modifier ses propres paramètres utilisateur, la fenêtre contextuelle qui s’affiche est vide et l’utilisateur ou l’utilisatrice ne peut pas apporter de modifications. Pour quitter la fenêtre contextuelle, l’utilisateur ou l’utilisatrice doit actualiser la page. »
 hidefromtoc: true
 source-git-commit: baeb2b783dcf75bc889096cd02035ecb9bd17ef6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
 ht-degree: 100%
 
