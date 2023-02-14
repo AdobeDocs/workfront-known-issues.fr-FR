@@ -3,7 +3,7 @@ title: "Épreuves\_: une nouvelle étape a été créée, car la date limite ne 
 description: Lors de la création d’une nouvelle épreuve, la date limite peut être déterminée par incréments de 15 minutes (10:00, 10:15, 10:30, 20:45, etc.). Cependant, lorsque l’utilisateur est ajouté à une épreuve après sa création, la date limite peut uniquement être déterminée par incréments de 30 minutes (10:00, 10:30, 11:00, etc.).
 hidefromtoc: true
 source-git-commit: 3826558093ba7d8aa6ee25211010c60610d03fcc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '192'
 ht-degree: 100%
 
