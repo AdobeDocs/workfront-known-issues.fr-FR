@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
-source-git-commit: ae624c4cf75d907613bd0fc7f2efbedf73b1c35d
+source-git-commit: c998c35b249f5702ff9676f3eff9da468d5f83e3
 workflow-type: tm+mt
-source-wordcount: '1075'
-ht-degree: 88%
+source-wordcount: '1083'
+ht-degree: 87%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 88%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Panoramas]: Impossible d’ajouter des cartes lors de l’application du regroupement](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
       + [Utilisateurs : Le niveau d’accès n’est pas attribué lors de la réactivation de l’utilisateur](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
       + [Mises à jour : Lien vers un commentaire redirige vers [!UICONTROL Détails] page](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
       + [Utilisateurs : L’utilisateur ne peut pas modifier ses propres paramètres de notification](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)

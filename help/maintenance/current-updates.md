@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b931adc190ed492131133cf1ba704a8b8057b6f9
+source-git-commit: c998c35b249f5702ff9676f3eff9da468d5f83e3
 workflow-type: tm+mt
-source-wordcount: '1538'
-ht-degree: 76%
+source-wordcount: '1582'
+ht-degree: 75%
 
 ---
 
@@ -21,7 +21,19 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 ## Mises à jour de février 2023
 
-+++**Mise à jour de maintenance (planifiée) le 16 février 2023**
++++**Mise à jour de maintenance le 16 février 2023**
+
+**Affectations d’équipes multiples sur les panoramas**
+
+_Tableaux_
+
+Vous pouvez désormais affecter plusieurs équipes à une tâche ou à un problème sur un panorama, ainsi qu’au panorama lui-même.
+
+**Augmentation de la limite de diffusion des cartes**
+
+_Tableaux_
+
+Les délais de remise des cartes ont été augmentés à 8 semaines / 60 jours au lieu de 4 semaines / 30 jours.
 
 **La désactivation planifiée ne désactive pas l’utilisateur**
 

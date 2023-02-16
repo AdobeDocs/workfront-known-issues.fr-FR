@@ -3,10 +3,10 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: b164121c0d7aa1c57fa23160ba37796fef2fa151
+source-git-commit: c998c35b249f5702ff9676f3eff9da468d5f83e3
 workflow-type: tm+mt
-source-wordcount: '628'
-ht-degree: 88%
+source-wordcount: '637'
+ht-degree: 86%
 
 ---
 
@@ -24,6 +24,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Panoramas]: Impossible d’ajouter des cartes lors de l’application du regroupement](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md) | 16 février 2023 |
 | [Utilisateurs : L’utilisateur ne peut pas modifier ses propres paramètres de notification](known-issues-workfront/wf-user-cannot-edit-notification-settings.md) | 10 février 2023 |
 | [Documents : Les autorisations ne sont pas héritées lorsqu’un document est déplacé vers un nouveau projet.](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 3 février 2023 |
 | [Documents : Le panneau Résumé revient en haut lorsque vous cliquez sur le menu à trois points](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 31 janvier 2023 |
