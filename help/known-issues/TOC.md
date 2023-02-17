@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
-source-git-commit: c998c35b249f5702ff9676f3eff9da468d5f83e3
+source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
 workflow-type: tm+mt
-source-wordcount: '1083'
+source-wordcount: '1088'
 ht-degree: 87%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 87%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Projets : Erreur 504 dans l’en-tête du projet](known-issues-workfront/wf-projects-504-error-in-project-header.md)
       + [[!UICONTROL Panoramas]: Impossible d’ajouter des cartes lors de l’application du regroupement](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
       + [Utilisateurs : Le niveau d’accès n’est pas attribué lors de la réactivation de l’utilisateur](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
       + [Mises à jour : Lien vers un commentaire redirige vers [!UICONTROL Détails] page](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
