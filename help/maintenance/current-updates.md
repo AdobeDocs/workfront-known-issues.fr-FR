@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: c998c35b249f5702ff9676f3eff9da468d5f83e3
+source-git-commit: e98fb79ece32db7e590078660a4fcf560b8e6be8
 workflow-type: tm+mt
-source-wordcount: '1582'
-ht-degree: 75%
+source-wordcount: '1693'
+ht-degree: 70%
 
 ---
 
@@ -20,6 +20,24 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2023.
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
 
 ## Mises à jour de février 2023
+
++++**Mise à jour de maintenance (planifiée) le 23 février 2023**
+
+**Lien vers un commentaire redirige vers [!UICONTROL Détails] page**
+
+_Mises à jour_
+
+Lorsqu’un utilisateur suit un lien vers un commentaire sur un objet dans Workfront, le flux de mise à jour se charge brièvement, puis l’utilisateur est redirigé vers le [!UICONTROL Détails] zone. Cela peut se produire si l’utilisateur clique sur le lien d’un courrier électronique ou colle le lien dans son navigateur.
+
+Cela affecte uniquement les objets Document actuellement.
+
+**L’utilisateur ne peut pas modifier ses propres paramètres de notification**
+
+_Utilisateurs_
+
+Lorsqu’un utilisateur dispose d’un [!UICONTROL Worker] la licence tente de modifier ses propres paramètres de notification, [!UICONTROL Notifications] Les options ne sont pas visibles dans la variable [!UICONTROL Modifier] et l’utilisateur ne peut pas modifier les paramètres.
+
++++
 
 +++**Mise à jour de maintenance le 16 février 2023**
 
@@ -78,6 +96,8 @@ _Configuration_
 Lorsqu’un utilisateur ou une utilisatrice tente de créer ou de modifier un modèle d’e-mail, le bouton [!UICONTROL Enregistrer] ne répond pas et l’utilisateur ou l’utilisatrice ne peut pas enregistrer le modèle.
 
 +++
+
+## Mises À Jour En Janvier 2023
 
 +++**Mise à jour de maintenance le 30 janvier 2023**
 
