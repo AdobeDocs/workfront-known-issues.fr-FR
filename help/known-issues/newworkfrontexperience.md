@@ -3,7 +3,7 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: a21275163de2c7de2201971b125703f40b9983b8
+source-git-commit: ace7bcf248b16fa62c04cc112b5844f5fcb38a2d
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -27,7 +27,6 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 | [Projets : Erreur 504 dans l’en-tête du projet](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 17 février 2023 |
 | [[!UICONTROL Panoramas]: Impossible d’ajouter des cartes lors de l’application du regroupement](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md) | 16 février 2023 |
 | [Documents : Les autorisations ne sont pas héritées lorsqu’un document est déplacé vers un nouveau projet.](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 3 février 2023 |
-| [Projets : Le projet converti à partir de la publication n’hérite pas des autorisations du portfolio ou du programme](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 30 janvier 2023 |
 | [Épreuves : le résumé d’impression n’affiche pas toutes les pages de l’épreuve](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 octobre 2022 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -38,6 +37,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Projets : Le projet converti à partir de la publication n’hérite pas des autorisations du portfolio ou du programme](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 23 février 2023 |
 | [Intégrations : impossible d’ouvrir [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 14 février 2023 |
 | [Utilisateurs : Le niveau d’accès n’est pas attribué lors de la réactivation de l’utilisateur](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | 13 février 2023 |
 | [Document : impossible de restaurer le document supprimé](known-issues-workfront/wf-documents-cannot-restore-document.md) | 20 janvier 2023 |
