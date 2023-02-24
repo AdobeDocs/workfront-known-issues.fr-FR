@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
-source-git-commit: 72d2cf5620f0ea6ca7f74d2e7e773f93a807af30
+source-git-commit: 940dfb74994519d9dd55f25ca457f7c2ed3a0984
 workflow-type: tm+mt
-source-wordcount: '1114'
+source-wordcount: '1107'
 ht-degree: 85%
 
 ---
@@ -120,7 +120,6 @@ ht-degree: 85%
 + [!DNL Workfront Proof] {#proof}
    + [Problèmes connus dans  [!DNL Workfront Proof]](workfrontproof.md)
    + Problèmes actifs dans [!DNL Workfront Proof] {#proof-current}
-      + [Intégrations : Erreur lors de la connexion à [!DNL Workfront] de [!DNL Jira]](known-issues-workfront-proof/proof-print-summary-does-not-load.md)
       + [Bons à tirer : L’utilisateur ne reçoit pas d’e-mail lorsqu’il est balisé dans un commentaire de BAT](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + [Épreuves : une nouvelle étape a été créée, car la date limite ne correspond pas à la date limite de l’étape existante](known-issues-workfront-proof/proof-new-stage-created.md)
       + [API [!DNL Workfront Proof] : erreur « [!UICONTROL Le corps n’est pas un XML valide.] »](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
