@@ -1,11 +1,11 @@
 ---
-title: ""
-description: ""
+title: "Bons à tirer : L’utilisateur ne reçoit pas d’e-mail lorsqu’il est balisé dans un commentaire de BAT"
+description: "Lorsqu’un utilisateur est balisé au format @name sur un commentaire de BAT, il ne reçoit pas de notification par courrier électronique le concernant."
 hidefromtoc: true
-source-git-commit: a21275163de2c7de2201971b125703f40b9983b8
+source-git-commit: 7aa896333c20e67da4da27b981eee0b0f79a09f2
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 29%
+source-wordcount: '87'
+ht-degree: 17%
 
 ---
 
