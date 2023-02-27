@@ -3,7 +3,7 @@ title: '« Épreuves : l’épreuve n’est pas partagée avec les utilisateur
 description: « Lorsqu’une épreuve atteint une étape d’un workflow auquel un utilisateur a été ajouté lors de la création de l’épreuve, l’épreuve n’est pas partagée avec l’utilisateur et celui-ci ne peut pas accéder à l’épreuve. »
 hidefromtoc: true
 source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '113'
 ht-degree: 100%
 
