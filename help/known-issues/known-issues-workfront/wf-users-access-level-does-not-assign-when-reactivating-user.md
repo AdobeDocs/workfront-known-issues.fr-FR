@@ -1,22 +1,22 @@
 ---
-title: "Utilisateurs : Le niveau d’accès n’est pas attribué lors de la réactivation de l’utilisateur."
-description: "Lorsqu’un utilisateur réactive un utilisateur désactivé et tente de lui attribuer un niveau d’accès dans la fenêtre Réactiver l’utilisateur, le menu déroulant du niveau d’accès ne s’affiche pas lorsque l’utilisateur saisit un niveau d’accès. L’utilisateur ne peut pas le sélectionner. Si l’utilisateur saisit le niveau d’accès et enregistre, ce niveau d’accès n’est pas attribué à l’utilisateur réactivé."
+title: '« Utilisateurs : le niveau d’accès n’est pas attribué lors de la réactivation d’un utilisateur. »'
+description: « Lorsqu’un utilisateur en réactive un autre et tente de lui attribuer un niveau d’accès dans la fenêtre Réactiver un utilisateur, le menu déroulant ne s’affiche pas lors de la saisie. Il est donc impossible de sélectionner un niveau d’accès. Si l’utilisateur saisit intégralement un niveau d’accès et enregistre, il n’est pas attribué à l’utilisateur réactivé. »
 hidefromtoc: true
 source-git-commit: b385fcb16dbcb85397afd22ce730757603f0f6d7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '157'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
-# Utilisateurs : Le niveau d’accès n’est pas attribué lors de la réactivation de l’utilisateur
+# Utilisateurs : le niveau d’accès n’est pas attribué lors de la réactivation d’un utilisateur.
 
-Lorsqu’un utilisateur réactive un utilisateur désactivé et tente de lui attribuer un niveau d’accès dans la variable [!UICONTROL Réactiver l’utilisateur] , la liste déroulante du niveau d’accès ne s’affiche pas lorsque l’utilisateur saisit un niveau d’accès. Si l’utilisateur saisit le niveau d’accès et l’enregistre, ce niveau d’accès n’est pas attribué à l’utilisateur réactivé.
+Lorsqu’un utilisateur en réactive un autre et tente de lui attribuer un niveau d’accès dans la fenêtre [!UICONTROL Réactiver un utilisateur], le menu déroulant ne s’affiche pas lors de la saisie. Il est donc impossible de sélectionner un niveau d’accès. Si l’utilisateur saisit intégralement un niveau d’accès et enregistre, il n’est pas attribué à l’utilisateur réactivé.
 
-**Solution**
+**Solution de contournement**
 
-Réactivez l’utilisateur, puis attribuez le niveau d’accès dans la variable [!UICONTROL Modifier la personne] fenêtre.
+Réactivez l’utilisateur, puis attribuez-lui un niveau d’accès dans la fenêtre [!UICONTROL Modifier la personne].
 
-_Premier signalement le 9 février 2023._
+_Premier signalement le 9 février 2023._
 
