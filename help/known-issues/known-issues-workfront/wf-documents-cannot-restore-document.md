@@ -3,9 +3,9 @@ title: '« Documents : impossible de restaurer le document supprimé »'
 description: « Lorsqu’un utilisateur ou une utilisatrice tente de restaurer un document précédemment supprimé, il ou elle ne peut pas restaurer le document et l’erreur Oups s’affiche. »
 hidefromtoc: true
 source-git-commit: 43cc7a54a32f68460118de9d8ad93b472bd77c75
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->Ce problème a été résolu le 2 février 2023.
+>Ce problème a été résolu le 2 février 2023.
 
 <!-- On WF and WFP TOCs-->
 
