@@ -1,22 +1,22 @@
 ---
-title: "Résumé : Impossible de faire défiler le panneau Résumé"
-description: "Lorsqu’un utilisateur consulte un objet [!UICONTROL Résumé] et tente de faire défiler le panneau, le panneau ne fait pas défiler et l’utilisateur ne peut pas afficher les éléments plus bas dans le panneau [!UICONTROL Résumé] du panneau. Si l’utilisateur clique sur l’une des icônes à gauche de la variable [!UICONTROL Résumé] pour accéder à cette zone, la page entière fait défiler l’écran et ne répond plus. L’utilisateur doit actualiser la page pour revenir à la liste."
+title: '« Résumé : impossible de faire défiler le panneau Résumé. »'
+description: « Lorsqu’un utilisateur consulte le panneau [!UICONTROL Résumé] d’un objet et tente de le faire défiler, l’action ne fonctionne pas et l’utilisateur ne peut pas afficher les éléments affichés plus bas dans le panneau [!UICONTROL Résumé]. Si l’utilisateur clique sur l’une des icônes à gauche du panneau [!UICONTROL Résumé] pour accéder à une zone située plus bas, la page entière défile, puis ne répond plus. Il est alors nécessaire d’actualiser la page pour revenir à la liste. »
 hidefromtoc: true
 source-git-commit: d03db6c677e340e01629a962fec8b2690af8460d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '156'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 
-# [!UICONTROL Résumé]: Impossible de faire défiler [!UICONTROL Résumé] panel
+# [!UICONTROL Résumé] : impossible de faire défiler le panneau [!UICONTROL Résumé].
 
 >[!NOTE]
 >
->Ce problème a été résolu le 2 février 2023.
+>Ce problème a été résolu le 2 février 2023.
 
-Lorsqu’un utilisateur consulte un objet [!UICONTROL Résumé] et tente de faire défiler le panneau, le panneau ne fait pas défiler et l’utilisateur ne peut pas afficher les éléments plus bas dans le panneau [!UICONTROL Résumé] du panneau. Si l’utilisateur clique sur l’une des icônes à gauche de la variable [!UICONTROL Résumé] pour accéder à cette zone, la page entière fait défiler l’écran et ne répond plus. L’utilisateur doit actualiser la page pour revenir à la liste des objets.
+Lorsqu’un utilisateur consulte le panneau [!UICONTROL Résumé] d’un objet et tente de le faire défiler, l’action ne fonctionne pas et l’utilisateur ne peut pas afficher les éléments affichés plus bas dans le panneau [!UICONTROL Résumé]. Si l’utilisateur clique sur l’une des icônes à gauche du panneau [!UICONTROL Résumé] pour accéder à une zone située plus bas, la page entière défile, puis ne répond plus. Il est alors nécessaire d’actualiser la page pour revenir à la liste d’objets.
 
 _Premier signalement le 26 janvier 2023._
 
