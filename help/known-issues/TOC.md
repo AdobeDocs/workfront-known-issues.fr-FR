@@ -3,8 +3,8 @@ user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
 source-git-commit: 3d821318a12bc8cbc47472f9bfc148cb20a0248a
 workflow-type: tm+mt
-source-wordcount: '1115'
-ht-degree: 85%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -20,18 +20,18 @@ ht-degree: 85%
       + [Intégrations : Erreur lors de la connexion à [!DNL Workfront] de [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
       + [Projets : Erreur 504 dans l’en-tête du projet](known-issues-workfront/wf-projects-504-error-in-project-header.md)
       + [[!UICONTROL Panoramas]: Impossible d’ajouter des cartes lors de l’application du regroupement](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
-      + [Utilisateurs : Le niveau d’accès n’est pas attribué lors de la réactivation de l’utilisateur](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
-      + [Mises à jour : Lien vers un commentaire redirige vers [!UICONTROL Détails] page](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
-      + [Utilisateurs : L’utilisateur ne peut pas modifier ses propres paramètres de notification](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)
-      + [Documents : Les autorisations ne sont pas héritées lorsqu’un document est déplacé vers un nouveau projet.](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
-      + [Équilibreur de charge de travail : Résultats inexacts en cas d’utilisation simultanée de plusieurs filtres](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
-      + [Groupes : Les sous-groupes ne dévoilent pas de notifications en fonction des paramètres de notification d’événement de groupe](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)
-      + [Documents : Le panneau Résumé revient en haut lorsque vous cliquez sur le menu à trois points](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md)
-      + [Documents : Erreur &quot;Cette page n’existe pas&quot; lors de l’ouverture ou du téléchargement d’un document](known-issues-workfront/wf-documents-cannot-open-or-download-document.md)
-      + [Projets : Le projet converti à partir de la publication n’hérite pas des autorisations du portfolio ou du programme](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
-      + [[!UICONTROL Configuration]: Les journaux d’audit ne sont pas exportés](known-issues-workfront/wf-setup-audit-logs-do-not-export.md)
-      + [[!UICONTROL Résumé]: Impossible de faire défiler [!UICONTROL Résumé] panel](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md)
-      + [Documents : Erreur &quot;Réponse non valide&quot; lors de l’ouverture ou du téléchargement d’un document](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md)
+      + [Utilisateurs : le niveau d’accès n’est pas attribué lors de la réactivation d’un utilisateur.](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
+      + [Mises à jour : le lien vers un commentaire redirige vers la page [!UICONTROL Détails].](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
+      + [Utilisateurs : l’utilisateur ne peut pas modifier ses propres paramètres de notification.](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)
+      + [Documents : lorsqu’un document est déplacé vers un nouveau projet, les autorisations ne sont pas héritées.](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
+      + [Équilibreur de charge de travail : résultats inexacts si plusieurs filtres sont utilisés simultanément.](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
+      + [Groupes : les sous-groupes ne reçoivent pas les notifications correspondant aux paramètres de notification d’événement de groupe.](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)
+      + [Documents : en cliquant sur le menu à trois points, le panneau Résumé revient en haut.](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md)
+      + [Documents : une erreur de type « Cette page n’existe pas » survient lors de l’ouverture ou du téléchargement d’un document.](known-issues-workfront/wf-documents-cannot-open-or-download-document.md)
+      + [Projets : un projet converti à partir d’un problème n’hérite pas des autorisations du portfolio ou du programme.](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
+      + [[!UICONTROL Configuration] : les journaux d’audit ne sont pas exportés.](known-issues-workfront/wf-setup-audit-logs-do-not-export.md)
+      + [[!UICONTROL Résumé] : impossible de faire défiler le panneau [!UICONTROL Résumé].](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md)
+      + [Documents : une erreur de type « Réponse non valide » survient lors de l’ouverture ou du téléchargement d’un document.](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md)
       + [Utilisateurs : la désactivation planifiée ne désactive pas l’utilisateur](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
       + [Configuration : impossible d’enregistrer les modèles d’e-mail](known-issues-workfront/wf-setup-email-templates-not-working.md)
       + [Utilisateurs : l’utilisateur ou l’utilisatrice ne peut pas modifier ses propres paramètres utilisateur](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
@@ -122,7 +122,7 @@ ht-degree: 85%
    + [Problèmes connus dans  [!DNL Workfront Proof]](workfrontproof.md)
    + Problèmes actifs dans [!DNL Workfront Proof] {#proof-current}
       + [Bons à tirer : L’utilisateur ne reçoit pas d’e-mail lorsqu’il est balisé dans un commentaire de BAT](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
-      + [Épreuves : une nouvelle étape a été créée, car la date limite ne correspond pas à la date limite de l’étape existante](known-issues-workfront-proof/proof-new-stage-created.md)
+      + [Épreuves : une nouvelle étape a été créée, car la date limite ne correspond pas à celle de l’étape existante.](known-issues-workfront-proof/proof-new-stage-created.md)
       + [API [!DNL Workfront Proof] : erreur « [!UICONTROL Le corps n’est pas un XML valide.] »](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
       + [Épreuves : le résumé d’impression n’affiche pas toutes les pages de l’épreuve](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
       + [Épreuves : l’épreuve n’est pas partagée avec les utilisateurs du workflow de l’épreuve](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
@@ -142,8 +142,8 @@ ht-degree: 85%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problèmes connus dans Workfront Fusion](workfrontfusion.md)
    + Problèmes actifs dans [!DNL Workfront Fusion] {#fusion-current}
-      + [[!DNL Adobe Workfront Fusion]: Erreurs de dépassement de délai dans Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md)
-      + [[!DNL Adobe Workfront Fusion]: Erreurs 404 dans les modules Workfront](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
+      + [[!DNL Adobe Workfront Fusion] : erreurs de délai d’expiration dans Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md)
+      + [[!DNL Adobe Workfront Fusion] : erreurs 404 dans les modules Workfront](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
       + [[!DNL Workfront Fusion] : impossible de créer une connexion à [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion] : les éléments de tableau du module [!UICONTROL Itérateur] s’affichent sous la forme d’un « [!UICONTROL objet Objet] »](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion] : erreur lors de l’affichage d’une erreur dans l’historique d’exécution d’un scénario](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
