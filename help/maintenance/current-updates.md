@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: a21275163de2c7de2201971b125703f40b9983b8
+source-git-commit: 50e30f70083284302eccb04fb056cd4725650419
 workflow-type: tm+mt
-source-wordcount: '1692'
-ht-degree: 96%
+source-wordcount: '1870'
+ht-degree: 90%
 
 ---
 
@@ -18,6 +18,34 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2023.
 >Ces mises à jour incluent également d’autres correctifs mineurs ou moins conséquents. L’assistance [!DNL Workfront]vous avertira lorsqu’un problème que vous avez soumis est résolu.
 
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
+
+## Mises à jour de mars 2023
+
++++**Mise à jour de maintenance (prévue) le 2 mars 2023**
+
+**Impossible d’ajouter des cartes lors de l’application du regroupement**
+
+_Panoramas_
+
+Lorsqu’un utilisateur consulte un panorama auquel un regroupement est appliqué et tente d’ajouter une carte, il ne peut saisir que le nom de la carte. Les autres champs de la carte sont désactivés, y compris le champ [!UICONTROL Enregistrer] bouton .
+
+Si l’utilisateur modifie le regroupement en [!UICONTROL Aucun], le problème demeure. L’utilisateur doit remplacer le regroupement par [!UICONTROL Aucun] puis actualisez la page pour restaurer la possibilité d’ajouter une carte.
+
+**Lien vers un commentaire redirige vers [!UICONTROL Détails] page**
+
+_Mises à jour_
+
+Lorsqu’un utilisateur suit un lien vers un commentaire sur un objet dans Workfront, le flux de mise à jour se charge brièvement, puis l’utilisateur est redirigé vers la zone [!UICONTROL Détails] de l’objet. Cela peut se produire si l’utilisateur clique sur le lien d’un e-mail ou s’il le colle dans son navigateur.
+
+Actuellement, seuls les objets Document sont touchés par ce problème.
+
+**Le résumé d’impression ne se charge pas**
+
+_[!UICONTROL Épreuve Workfront]_
+
+Lorsqu’un utilisateur tente de charger la page Résumé de l’impression, la page semble être en cours de chargement, mais ne se charge jamais.
+
++++
 
 ## Mises à jour de février 2023
 
