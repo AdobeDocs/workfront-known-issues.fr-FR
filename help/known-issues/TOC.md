@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
-source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
+source-git-commit: 4ea83d5a5f0466a50c09fd1b5b8e020b46e2132c
 workflow-type: tm+mt
-source-wordcount: '1154'
-ht-degree: 93%
+source-wordcount: '1167'
+ht-degree: 92%
 
 ---
 
@@ -123,6 +123,7 @@ ht-degree: 93%
 + [!DNL Workfront Proof] {#proof}
    + [Problèmes connus dans  [!DNL Workfront Proof]](workfrontproof.md)
    + Problèmes actifs dans [!DNL Workfront Proof] {#proof-current}
+      + [[!DNL Workfront Proof]: Le bon à tirer ne se charge pas lors de l’utilisation de &quot;[!UICONTROL Accéder au BAT]Bouton &quot; dans la notification électronique](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
       + [[!DNL Workfront Proof]: [!UICONTROL Rapports] La zone n’est plus prise en charge](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + [[!DNL Workfront Proof]: [!UICONTROL Résumé de l’impression] ne charge pas](known-issues-workfront-proof/proof-print-summary-not-loading.md)
       + [Bons à tirer : L’utilisateur ne reçoit pas d’e-mail lorsqu’il est balisé dans un commentaire de BAT](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
