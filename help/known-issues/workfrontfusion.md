@@ -3,10 +3,10 @@ title: Problèmes connus dans  [!DNL Adobe Workfront Fusion]
 description: Problèmes connus et signalés de  [!DNL Adobe Workfront Fusion]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 6290d20892889fb2a31ae2a7a2a844dfe4cc2952
+source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '162'
+ht-degree: 94%
 
 ---
 
@@ -24,6 +24,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Fusion]: L&#39;historique de l&#39;exécution du scénario n&#39;affiche pas l&#39;historique complet](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md) | 3 mars 2023 |
 | [[!DNL Adobe Workfront Fusion] : erreurs de délai d’expiration dans Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md) | 3 février 2023 |
 
 {style=&quot;table-layout:auto&quot;}

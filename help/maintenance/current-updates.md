@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 50e30f70083284302eccb04fb056cd4725650419
+source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
 workflow-type: tm+mt
-source-wordcount: '1870'
-ht-degree: 90%
+source-wordcount: '1905'
+ht-degree: 89%
 
 ---
 
@@ -21,7 +21,7 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 ## Mises à jour de mars 2023
 
-+++**Mise à jour de maintenance (prévue) le 2 mars 2023**
++++**Mise à jour de maintenance le 2 mars 2023**
 
 **Impossible d’ajouter des cartes lors de l’application du regroupement**
 
@@ -30,6 +30,13 @@ _Panoramas_
 Lorsqu’un utilisateur consulte un panorama auquel un regroupement est appliqué et tente d’ajouter une carte, il ne peut saisir que le nom de la carte. Les autres champs de la carte sont désactivés, y compris le champ [!UICONTROL Enregistrer] bouton .
 
 Si l’utilisateur modifie le regroupement en [!UICONTROL Aucun], le problème demeure. L’utilisateur doit remplacer le regroupement par [!UICONTROL Aucun] puis actualisez la page pour restaurer la possibilité d’ajouter une carte.
+
+**Cartes connectées non ajoutées aux colonnes en fonction de l’état**
+
+_Panoramas_
+
+Même si des stratégies de colonne sont appliquées pour l’état, de nouvelles cartes connectées apparaissent dans la colonne la plus à gauche et non dans la colonne correspondant à leur état.
+
 
 **Lien vers un commentaire redirige vers [!UICONTROL Détails] page**
 
