@@ -2,8 +2,8 @@
 title: "Épreuves\_: le champ [!UICONTROL Étapes d’épreuve actives] est vide"
 description: '"Lorsque l’utilisateur crée une épreuve puis l’affiche dans un rapport comme [!UICONTROL Version du document] ou [!UICONTROL Approbation de l’épreuve], le champ [!UICONTROL Étapes d’épreuve actives] est vide. Cela se produit lorsque l’épreuve est créée après le chargement du document, sous la forme d’une [!UICONTROL Épreuve simple] ou d’une [!UICONTROL Épreuve avancée] avec un [!UICONTROL Workflow basique].'
 hidefromtoc: true
-source-git-commit: 40763737feab664840a600224cff2f2889cbef72
-workflow-type: ht
+source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
+workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 100%
 
@@ -12,7 +12,7 @@ ht-degree: 100%
 
 # Épreuves : le champ [!UICONTROL Étapes d’épreuve actives] est vide
 
-<!-- This Known Issue is on the TOC for both Workfront and Workfront Proof-->
+<!-- This Known Issue is on the TOC for both Workfront and Workfront Proof. Article created by request.-->
 
 >[!NOTE]
 >

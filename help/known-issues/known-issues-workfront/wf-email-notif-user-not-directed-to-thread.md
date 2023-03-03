@@ -3,14 +3,16 @@ title: "Notifications par e-mail\_: l’utilisateur n’est pas redirigé vers l
 description: Lorsque l’utilisateur clique sur le lien Commentaire d’une notification envoyée par e-mail, il est redirigé vers le haut de la zone des [!UICONTROL Mises à jour] au lieu du fil de commentaires auxquels il est censé répondre.
 exl-id: 335c2867-eae5-46e8-a7d5-8b9b35e66e31
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: ht
+source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
+workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 100%
 
 ---
 
 # Notifications par e-mail : l’utilisateur n’est pas redirigé vers le fil de commentaires
+
+<!--Article created by request-->
 
 >[!NOTE]
 >

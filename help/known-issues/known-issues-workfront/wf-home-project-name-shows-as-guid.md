@@ -3,14 +3,16 @@ title: "Accueil\_: le nom du projet s’affiche sous la forme d’un GUID dans l
 description: Lorsque l’utilisateur est invité à approuver une épreuve à laquelle il n’a pas accès et que sa Liste de travail dans l’[!UICONTROL Accueil] est triée en fonction du nom de projet, il ne peut pas voir le nom du projet, qui est remplacé par le GUID.
 exl-id: ca75430f-42ea-4239-9756-fd8d4f4aba89
 hidefromtoc: true
-source-git-commit: d122c128b926167a00c7149cb88392b618486876
-workflow-type: ht
+source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
+workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 100%
 
 ---
 
 # [!UICONTROL Accueil] : le [!UICONTROL nom du projet] s’affiche sous la forme d’un GUID dans la [!UICONTROL Liste de travail]
+
+<!--Article created by request-->
 
 >[!NOTE]
 >
