@@ -3,7 +3,7 @@ title: '« Configuration : les journaux d’audit ne sont pas exportés. »'
 description: « Lorsqu’un utilisateur tente d’exporter un journal d’audit, ce dernier n’est pas exporté. Dans Workfront, rien n’indique que l’action n’a pas fonctionné, mais le fichier exporté n’apparaît pas. »
 hidefromtoc: true
 source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
 ht-degree: 100%
 
