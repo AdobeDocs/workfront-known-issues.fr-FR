@@ -1,22 +1,26 @@
 ---
-title: "Intégrations : Erreur lors de la connexion à Workfront à partir de Jira"
-description: "Lorsqu’un utilisateur tente de se connecter à Workfront à partir de Jira à l’aide de l’intégration Workfront for Jira, la page ne se charge pas et l’utilisateur voit une erreur."
+title: '« Intégrations : erreur lors de la connexion à Workfront à partir de Jira »'
+description: « Lors de la tentative de connexion à Workfront à partir de Jira à l’aide de l’intégration Workfront for Jira, la page ne se charge pas et un message d’erreur s’affiche. »
 hidefromtoc: true
-source-git-commit: 72d2cf5620f0ea6ca7f74d2e7e773f93a807af30
+source-git-commit: fa782bc69636c0ad4d65f1ce7b7f9493ef155af3
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 4%
+source-wordcount: '103'
+ht-degree: 94%
 
 ---
 
 
-# Intégrations : Erreur lors de la connexion à [!DNL Workfront] de [!DNL Jira]
+# Intégrations : erreur lors de la connexion à [!DNL Workfront] à partir de [!DNL Jira]
 
-Lorsqu’un utilisateur tente de se connecter à [!DNL Workfront] de [!DNL Jira] à l’aide de l’intégration de Workfront pour Jira, la page ne se charge pas et l’utilisateur voit l’erreur suivante :
+>[!NOTE]
+>
+>Ce problème a été corrigé le 8 mars. 2023.
 
-[!UICONTROL &quot;statusCode&quot;:400,&quot;code&quot;:&quot;BAD_REQUEST&quot;,&quot;error&quot;:&quot;Bad Request&quot;,&quot;message&quot;:&quot;Impossible de valider un jeton JWT atlassien.&quot;]
+Lors de la tentative de connexion à [!DNL Workfront] à partir de [!DNL Jira] à l’aide de l’intégration Workfront for Jira, la page ne se charge pas et le message d’erreur suivant s’affiche :
 
-L’utilisateur ne parvient pas à se connecter à [!DNL Workfront].
+[!UICONTROL &quot;statusCode&quot;:400,&quot;code&quot;:&quot;BAD_REQUEST&quot;,&quot;error&quot;:&quot;Bad Request&quot;,&quot;message&quot;:&quot;Impossible de valider un jeton JWT Atlassian.&quot;]
 
-_Premier signalement le 24 février 2023._
+La connexion à [!DNL Workfront] échoue.
+
+_Premier signalement le 24 février 2023._
 
