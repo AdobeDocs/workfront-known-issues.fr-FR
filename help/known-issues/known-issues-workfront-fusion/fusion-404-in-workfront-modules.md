@@ -3,9 +3,9 @@ title: '« Adobe Workfront Fusion : erreurs 404 dans les modules Workfront
 description: « Les modules Workfront renvoient parfois des erreurs 404, ce qui entraîne l’échec de l’exécution du scénario. »
 hidefromtoc: true
 source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '54'
+ht-degree: 100%
 
 ---
 
