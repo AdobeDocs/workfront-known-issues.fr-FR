@@ -4,7 +4,7 @@ description: Lorsque l’utilisateur clique sur une miniature .docx pour affiche
 exl-id: 63b02355-0857-4da2-98d4-190ed4219b89
 hidefromtoc: true
 source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
 ht-degree: 100%
 
