@@ -3,7 +3,7 @@ title: '« Utilisateurs : l’utilisateur ne peut pas modifier ses propres par
 description: « Lorsqu’un utilisateur disposant d’une licence [!UICONTROL Employé] tente de modifier ses propres paramètres de notification, les options du menu [!UICONTROL Notifications] ne sont pas visibles dans la fenêtre [!UICONTROL Modifier] et l’utilisateur ne peut pas changer ses paramètres. »
 hidefromtoc: true
 source-git-commit: a21275163de2c7de2201971b125703f40b9983b8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
 ht-degree: 100%
 
