@@ -4,7 +4,7 @@ user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
 source-git-commit: 94fb9fc57614aa914031d1fa0039650a7478201e
 workflow-type: tm+mt
 source-wordcount: '1192'
-ht-degree: 90%
+ht-degree: 93%
 
 ---
 
@@ -20,10 +20,10 @@ ht-degree: 90%
       + [Documents : [!UICONTROL Résumé] le contenu du panneau est trop large pour le panneau.](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md)
       + [Projets : Champ personnalisé manquant lorsque le problème est converti en projet](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
       + [Bons à tirer : Impossible d’ajouter un utilisateur ou un groupe au workflow de BAT](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
-      + [Bons à tirer : Les rôles de BAT sont modifiés en [!UICONTROL Lecture seule]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
-      + [Intégrations : Erreur lors de la connexion à [!DNL Workfront] de [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
-      + [Projets : Erreur 504 dans l’en-tête du projet](known-issues-workfront/wf-projects-504-error-in-project-header.md)
-      + [[!UICONTROL Panoramas]: Impossible d’ajouter des cartes lors de l’application du regroupement](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
+      + [BAT : les rôles de BAT sont modifiés en [!UICONTROL Lecture seule]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
+      + [Intégrations : erreur lors de la connexion à [!DNL Workfront] à partir de [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
+      + [Projets : erreur 504 dans l’en-tête du projet](known-issues-workfront/wf-projects-504-error-in-project-header.md)
+      + [[!UICONTROL Panoramas] : impossible d’ajouter des cartes lors de l’application du regroupement](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
       + [Utilisateurs : le niveau d’accès n’est pas attribué lors de la réactivation d’un utilisateur.](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
       + [Mises à jour : le lien vers un commentaire redirige vers la page [!UICONTROL Détails].](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
       + [Utilisateurs : l’utilisateur ne peut pas modifier ses propres paramètres de notification.](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)
@@ -86,10 +86,10 @@ ht-degree: 90%
       + [Documents : le lien de demande de document externe mène à la page de connexion](known-issues-workfront/wf-documents-external-request-leads-to-login.md)
       + [Rapports : l’option « Déplacer vers » n’est pas disponible dans les rapports d’événement](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md)
       + [Formulaires personnalisés : erreur « Oups » lors de la configuration d’un champ calculé](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
-      + [Épreuves : tous les membres du groupe ne sont pas ajoutés à l’épreuve lors de l’ajout d’un groupe](known-issues-workfront/wf-proofs-group-members-not-added.md)
-      + [Notifications : utilisateurs non avertis lorsqu’ils sont mentionnés ou inclus dans un commentaire](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md)
+      + [Épreuves : tous les membres du groupe ne sont pas ajoutés au BAT lors de l’ajout d’un groupe](known-issues-workfront/wf-proofs-group-members-not-added.md)
+      + [Notifications : utilisateurs ou uitlisatrices non averti(e)s lorsqu’ils ou elles sont mentionné(e)s ou inclus(es) dans un commentaire](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md)
       + [Tâches : les heures ne sont pas enregistrées lors de la saisie des heures dans le panneau [!UICONTROL Résumé de la tâche]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
-      + [Épreuves : le champ [!UICONTROL Étapes d’épreuve actives] est vide](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md)
+      + [BAT : le champ [!UICONTROL Étapes de BAT actives] est vide](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md)
       + [Intégrations : erreur 404 lors de l’ajout d’un document à partir de  [!DNL SharePoint] [!UICONTROL (API Graph)]](known-issues-workfront/wf-integrations-sharepoint-graph-api-returns-404.md)
       + [Intégrations : le dossier  [!DNL SharePoint] n’apparaît pas pour le propriétaire du dossier](known-issues-workfront/wf-integrations-sharepoint-folder-not-appearing-for-owner.md)
       + [Intégrations : erreur de soumission d’une demande depuis  [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md)
@@ -129,15 +129,15 @@ ht-degree: 90%
       + [[!DNL Workfront Proof]: Le bon à tirer ne se charge pas lors de l’utilisation de &quot;[!UICONTROL Accéder au BAT]Bouton &quot; dans la notification électronique](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
       + [[!DNL Workfront Proof]: [!UICONTROL Rapports] La zone n’est plus prise en charge](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + [[!DNL Workfront Proof]: [!UICONTROL Résumé de l’impression] ne charge pas](known-issues-workfront-proof/proof-print-summary-not-loading.md)
-      + [Bons à tirer : L’utilisateur ne reçoit pas d’e-mail lorsqu’il est balisé dans un commentaire de BAT](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
+      + [BAT : l’utilisateur ou l’utilisatrice ne reçoit pas d’e-mail lorsqu’il ou elle est mentionné(e) dans un commentaire de BAT](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + [Épreuves : une nouvelle étape a été créée, car la date limite ne correspond pas à celle de l’étape existante.](known-issues-workfront-proof/proof-new-stage-created.md)
       + [API [!DNL Workfront Proof] : erreur « [!UICONTROL Le corps n’est pas un XML valide.] »](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
       + [Épreuves : le résumé d’impression n’affiche pas toutes les pages de l’épreuve](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
       + [Épreuves : l’épreuve n’est pas partagée avec les utilisateurs du workflow de l’épreuve](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
-      + [Épreuves : erreur lors de l’ajout d’une épreuve à  [!DNL Workfront] depuis  [!DNL Workfront] Proof](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
+      + [BAT : erreur lors de l’ajout d’un BAT à  [!DNL Workfront] depuis  [!DNL Workfront] ](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
       + [[!DNL Workfront Proof] : les e-mails de résumé quotidien n’incluent pas de bouton « Afficher les détails »](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md)
       + [[!DNL Workfront Proof] : l’administrateur de l’épreuve dispose d’autorisations limitées sur une épreuve](known-issues-workfront-proof/proof-admin-has-limited-permissions.md)
-      + [Impossible d’ajouter un utilisateur à l’épreuve en l’identifiant dans un commentaire](known-issues-workfront-proof/cannot-add-user-to-proof.md)
+      + [Impossible d’ajouter un utilisateur ou une utilisatrice au BAT en l’identifiant dans un commentaire](known-issues-workfront-proof/cannot-add-user-to-proof.md)
       + [L’action du bouton [!UICONTROL Répondre dans l’épreuve] varie](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md)
       + [L’accès automatique aux épreuves est retardé](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md)
       + [Le rapport [!UICONTROL Approbation de l’épreuve] ne détermine pas précisément les dates limites](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
@@ -156,7 +156,7 @@ ht-degree: 90%
       + [[!DNL Workfront Fusion] : impossible de créer une connexion à [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion] : les éléments de tableau du module [!UICONTROL Itérateur] s’affichent sous la forme d’un « [!UICONTROL objet Objet] »](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion] : erreur lors de l’affichage d’une erreur dans l’historique d’exécution d’un scénario](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
-      + [[!DNL Workfront Fusion] :  [!DNL Workfront]  > [!UICONTROL module d’appel d’API personnalisé] renvoie des erreurs 404 ou 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion] :  [!DNL Workfront]  > [!UICONTROL module d’appel d’API personnalisé] renvoyant des erreurs 404 ou 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion] : erreur « Échec de vérification de la connexion »](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion] : le module  [!DNL Fusion] renvoie une erreur 404 sans autre information](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [Les liens d’aide in-app de [!DNL Workfront Fusion] ne mènent pas à des pages d’aide spécifiques](known-issues-workfront-fusion/help-links-in-modules-not-working.md)

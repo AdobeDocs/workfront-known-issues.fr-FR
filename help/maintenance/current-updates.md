@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 1b1627e2f4448c5e4fd3791354cd17e5dda327b3
 workflow-type: tm+mt
 source-wordcount: '1979'
-ht-degree: 88%
+ht-degree: 96%
 
 ---
 
@@ -37,9 +37,9 @@ Lorsqu’un utilisateur en réactive un autre et tente de lui attribuer un nivea
 
 _Panoramas_
 
-Lorsqu’un utilisateur consulte un panorama auquel un regroupement est appliqué et tente d’ajouter une carte, il ne peut saisir que le nom de la carte. Les autres champs de la carte sont désactivés, y compris le champ [!UICONTROL Enregistrer] bouton .
+Lorsqu’un utilisateur ou une utilisatrice consulte un panorama comportant un regroupement et tente d’ajouter une carte, il ou elle ne peut saisir que le nom de la carte. Les autres champs de la carte sont désactivés, y compris le bouton [!UICONTROL Enregistrer].
 
-Si l’utilisateur modifie le regroupement en [!UICONTROL Aucun], le problème demeure. L’utilisateur doit remplacer le regroupement par [!UICONTROL Aucun] puis actualisez la page pour restaurer la possibilité d’ajouter une carte.
+Si l’utilisateur ou l’utilisatrice modifie le regroupement pour le définir sur [!UICONTROL Aucun], le problème persiste. Pour pouvoir à nouveau ajouter une carte, modifiez la valeur du regroupement sur [!UICONTROL Aucun], puis actualisez la page.
 
 **Cartes connectées non ajoutées aux colonnes en fonction de l’état**
 
@@ -48,7 +48,7 @@ _Panoramas_
 Même si des stratégies de colonne sont appliquées pour l’état, de nouvelles cartes connectées apparaissent dans la colonne la plus à gauche et non dans la colonne correspondant à leur état.
 
 
-**Lien vers un commentaire redirige vers [!UICONTROL Détails] page**
+**Le lien vers un commentaire redirige vers la page [!UICONTROL Détails]**
 
 _Mises à jour_
 
@@ -68,7 +68,7 @@ Lorsqu’un utilisateur tente de charger la page Résumé de l’impression, la 
 
 +++**Mise à jour de maintenance du 23 février 2023**
 
-**Lien vers un commentaire redirige vers [!UICONTROL Détails] page**
+**Le lien vers un commentaire redirige vers la page [!UICONTROL Détails]**
 
 _Mises à jour_
 
@@ -76,27 +76,27 @@ Lorsqu’un utilisateur suit un lien vers un commentaire sur un objet dans Workf
 
 Actuellement, seuls les objets Document sont touchés par ce problème.
 
-**L’utilisateur ne peut pas modifier ses propres paramètres de notification**
+**L’utilisateur ou l’utilisatrice ne peut pas modifier ses propres paramètres de notification**
 
 _Utilisateurs_
 
-Lorsqu’un utilisateur disposant d’une licence [!UICONTROL Employé] tente de modifier ses propres paramètres de notification, les options du menu [!UICONTROL Notifications] ne sont pas visibles dans la fenêtre [!UICONTROL Modifier] et l’utilisateur ne peut pas changer ses paramètres.
+Lorsqu’un utilisateur ou une utilisatrice disposant d’une licence [!UICONTROL Employé] tente de modifier ses propres paramètres de notification, les options du menu [!UICONTROL Notifications] ne sont pas visibles dans la fenêtre [!UICONTROL Modifier] et l’utilisateur ou l’utilisatrice ne peut pas modifier ses paramètres.
 
 +++
 
 +++**Mise à jour de maintenance du 16 février 2023**
 
-**Affectations d’équipes multiples sur les panoramas**
+**Affectations de plusieurs équipes sur les panoramas**
 
 _Panoramas_
 
 Vous pouvez désormais affecter plusieurs équipes à une tâche ou à un problème sur un panorama, ainsi qu’au panorama lui-même.
 
-**Augmentation de la limite de diffusion des cartes**
+**Augmentation du délai d’expiration des cartes**
 
 _Panoramas_
 
-Les délais de remise des cartes ont été augmentés à 8 semaines / 60 jours au lieu de 4 semaines / 30 jours.
+Le délai d’expiration des cartes passe de 4 semaines/30 jours à 8 semaines/60 jours.
 
 **La désactivation planifiée ne désactive pas l’utilisateur.**
 
@@ -142,7 +142,7 @@ Lorsqu’un utilisateur ou une utilisatrice tente de créer ou de modifier un mo
 
 +++
 
-## Mises À Jour En Janvier 2023
+## Mises à jour de janvier 2023
 
 +++**Mise à jour de maintenance du 30 janvier 2023**
 
