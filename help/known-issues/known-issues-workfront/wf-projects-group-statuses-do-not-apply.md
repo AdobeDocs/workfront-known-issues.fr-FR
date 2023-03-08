@@ -3,9 +3,9 @@ title: '« Projets : le statut du projet ne correspond pas aux préférences d
 description: « Lorsqu’un utilisateur crée un projet à partir d’un modèle, le nouveau projet ne prend pas le statut défini dans les préférences du groupe. Si un projet est créé sans modèle, le statut reflète les préférences du groupe comme prévu. »
 hidefromtoc: true
 source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->Ce problème a été corrigé le 23 février 2023.
+>Ce problème a été résolu le 23 février 2023.
 
 Lorsqu’un utilisateur crée un projet à partir d’un modèle, le nouveau projet ne prend pas le statut défini dans les préférences du groupe. Si un projet est créé sans modèle, le statut reflète les préférences du groupe comme prévu.
 
