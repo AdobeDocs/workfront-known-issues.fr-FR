@@ -3,9 +3,9 @@ title: '« Documents : en cliquant sur le menu à trois points, le panneau Ré
 description: ""
 hidefromtoc: true
 source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '73'
+ht-degree: 100%
 
 ---
 
