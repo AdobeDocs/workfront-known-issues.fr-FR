@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 1b1627e2f4448c5e4fd3791354cd17e5dda327b3
+source-git-commit: 3c0a34c118c8a3b900890a7126a7502b7556b0d4
 workflow-type: tm+mt
-source-wordcount: '1979'
-ht-degree: 96%
+source-wordcount: '2025'
+ht-degree: 94%
 
 ---
 
@@ -21,13 +21,19 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 ## Mises à jour de mars 2023
 
-+++**Mise à jour de maintenance (prévue) le 9 mars 2023**
++++**Mise à jour de maintenance le 9 mars 2023**
 
 **Le niveau d’accès n’est pas attribué lors de la réactivation de l’utilisateur**
 
 _Utilisateurs_
 
 Lorsqu’un utilisateur en réactive un autre et tente de lui attribuer un niveau d’accès dans la fenêtre [!UICONTROL Réactiver un utilisateur], le menu déroulant ne s’affiche pas lors de la saisie. Il est donc impossible de sélectionner un niveau d’accès. Si l’utilisateur saisit intégralement un niveau d’accès et enregistre, il n’est pas attribué à l’utilisateur réactivé.
+
+**Enregistrez le brouillon d’un commentaire dans le [!DNL Goals] area**
+
+_[!DNL Workfront Goals]_
+
+Maintenant, lorsque vous quittez le [!UICONTROL Mises à jour] page d’un objectif lors de la composition d’un message, le message est conservé lorsque vous revenez en arrière. Avant cette mise à jour, le commentaire non envoyé aurait été supprimé.
 
 +++
 
