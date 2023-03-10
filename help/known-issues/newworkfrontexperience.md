@@ -3,10 +3,10 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: ca969341423e373a94faa677729fc2dccd9453d6
+source-git-commit: 5e967c740d4facb3cb2f401aecb057d78f074da0
 workflow-type: tm+mt
-source-wordcount: '547'
-ht-degree: 90%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,6 +24,8 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Rapports : Le tri par en-tête de colonne revient au tri précédent](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 10 mars 2023 |
+| [[!UICONTROL Mises à jour]: Impossible de consigner l’heure du jour en cours dans la variable [!UICONTROL Mises à jour] area](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | 10 mars 2023 |
 | [Bons à tirer : Impossible d’ajouter un utilisateur ou un groupe au workflow de BAT](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 27 février 2023 |
 | [BAT : les rôles de BAT sont modifiés en [!UICONTROL Lecture seule]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | 27 février 2023 |
 | [Projets : erreur 504 dans l’en-tête du projet](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 17 février 2023 |

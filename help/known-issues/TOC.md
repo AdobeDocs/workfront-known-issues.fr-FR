@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
-source-git-commit: 94fb9fc57614aa914031d1fa0039650a7478201e
+source-git-commit: 88ccfcb9b94d60d9ec843f83eaca54ffbec41ca6
 workflow-type: tm+mt
-source-wordcount: '1192'
-ht-degree: 93%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Rapports : Le tri par en-tête de colonne revient au tri précédent](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md)
+      + [[!UICONTROL Mises à jour]: Impossible de consigner l’heure du jour en cours dans la variable [!UICONTROL Mises à jour] area](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
       + [Feuilles de temps : [!UICONTROL Type d’heure] liste déroulante ne s’ouvre pas](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md)
       + [Documents : [!UICONTROL Résumé] le contenu du panneau est trop large pour le panneau.](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md)
       + [Projets : Champ personnalisé manquant lorsque le problème est converti en projet](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
