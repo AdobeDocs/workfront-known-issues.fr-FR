@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 7f4d16ac984134af0f16122ea0aa79a6bcc4cd3c
+source-git-commit: 7738ac9b68dd48817105171d7f9ae2cf97e742fe
 workflow-type: tm+mt
-source-wordcount: '2193'
-ht-degree: 87%
+source-wordcount: '2194'
+ht-degree: 86%
 
 ---
 
@@ -21,7 +21,7 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 ## Mises à jour de mars 2023
 
-+++**Mise à jour de maintenance le 16 mars 2023**
++++**Mise à jour de maintenance (planifiée) le 16 mars 2023**
 
 **[!UICONTROL Résumé] le contenu du panneau est trop large pour le panneau.**
 
