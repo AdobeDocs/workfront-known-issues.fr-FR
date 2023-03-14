@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 7738ac9b68dd48817105171d7f9ae2cf97e742fe
+source-git-commit: f27dfd8dbe3e0c862f84edfe5b2deab5f139eb50
 workflow-type: tm+mt
-source-wordcount: '2194'
-ht-degree: 86%
+source-wordcount: '2223'
+ht-degree: 85%
 
 ---
 
@@ -22,6 +22,12 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 ## Mises à jour de mars 2023
 
 +++**Mise à jour de maintenance (planifiée) le 16 mars 2023**
+
+**Éléments de liste de contrôle non copiés lors de la copie d’une carte**
+
+_Panoramas_
+
+Lors de la copie d’une carte ad hoc (les cartes connectées ne peuvent pas être copiées), les éléments de liste de contrôle ne sont pas copiés dans la nouvelle carte.
 
 **[!UICONTROL Résumé] le contenu du panneau est trop large pour le panneau.**
 
