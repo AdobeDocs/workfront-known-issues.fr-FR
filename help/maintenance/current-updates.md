@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 3c0a34c118c8a3b900890a7126a7502b7556b0d4
+source-git-commit: 7f4d16ac984134af0f16122ea0aa79a6bcc4cd3c
 workflow-type: tm+mt
-source-wordcount: '2025'
-ht-degree: 94%
+source-wordcount: '2193'
+ht-degree: 87%
 
 ---
 
@@ -20,6 +20,28 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2023.
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
 
 ## Mises à jour de mars 2023
+
++++**Mise à jour de maintenance le 16 mars 2023**
+
+**[!UICONTROL Résumé] le contenu du panneau est trop large pour le panneau.**
+
+_Documents_
+
+Lorsqu’un utilisateur affiche la variable [!UICONTROL Résumé] pour un document, le contenu est trop large pour être affiché dans le panneau. Le panneau comporte désormais une barre de défilement horizontale et l’utilisateur doit faire défiler horizontalement pour voir le [!UICONTROL Résumé] contenu du panneau. Cela se produit car le nom de fichier du document n’est pas renvoyé à la ligne. Ce problème est limité au fichier dont le nom de fichier comporte une extension de fichier HTML.
+
+**Champ personnalisé manquant lorsque le problème est converti en projet**
+
+_Projets_
+
+Lorsqu’un utilisateur convertit un problème en projet à l’aide d’un modèle, un champ personnalisé qui se trouvait sur le problème ne s’affiche pas sur le projet. Ce problème affecte uniquement les non-administrateurs.
+
+**Les messages personnalisés ne s’affichent pas dans les notifications électroniques**
+
+_BAT_
+
+Lorsqu’un utilisateur partage un BAT et ajoute un message personnalisé, ce message personnalisé n’apparaît pas dans l’email de notification envoyé au destinataire. L’objet est le nom du BAT et le message n’apparaît pas dans l’email.
+
++++
 
 +++**Mise à jour de maintenance le 9 mars 2023**
 
