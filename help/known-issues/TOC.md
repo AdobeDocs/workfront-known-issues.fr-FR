@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
-source-git-commit: 506874e3b4503db3390a09f44b4be204b4ead2b3
+source-git-commit: e2b518715b4283ed7940ee51dda44cc1cad0227a
 workflow-type: tm+mt
-source-wordcount: '1225'
-ht-degree: 91%
+source-wordcount: '1230'
+ht-degree: 90%
 
 ---
 
@@ -128,6 +128,7 @@ ht-degree: 91%
 + [!DNL Workfront Proof] {#proof}
    + [Problèmes connus dans  [!DNL Workfront Proof]](workfrontproof.md)
    + Problèmes actifs dans [!DNL Workfront Proof] {#proof-current}
+      + [[!DNL Workfront Proof]: Les listes ne sont pas triées correctement](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [Bons à tirer : Les messages personnalisés ne s’affichent pas dans les notifications électroniques](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
       + [[!DNL Workfront Proof]: Le bon à tirer ne se charge pas lors de l’utilisation de &quot;[!UICONTROL Accéder au BAT]Bouton &quot; dans la notification électronique](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
       + [[!DNL Workfront Proof]: [!UICONTROL Rapports] La zone n’est plus prise en charge](known-issues-workfront-proof/proof-reports-analytics-not-working.md)

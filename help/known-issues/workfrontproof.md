@@ -3,10 +3,10 @@ title: Problèmes connus dans  [!DNL Adobe Workfront Proof]
 description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 1b1627e2f4448c5e4fd3791354cd17e5dda327b3
+source-git-commit: e2b518715b4283ed7940ee51dda44cc1cad0227a
 workflow-type: tm+mt
-source-wordcount: '273'
-ht-degree: 82%
+source-wordcount: '279'
+ht-degree: 88%
 
 ---
 
@@ -25,8 +25,9 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
 |  | 24 février 2023 |
+| [[!DNL Workfront Proof]: Les listes ne sont pas triées correctement](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 15 mars 2023 |
 | [Bons à tirer : Impossible d’ajouter un utilisateur ou un groupe au workflow de BAT](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 27 février 2023 |
-| [Bons à tirer : Les rôles de BAT sont modifiés en [!UICONTROL Lecture seule]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | 27 février 2023 |
+| [BAT : les rôles de BAT sont modifiés en [!UICONTROL Lecture seule]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | 27 février 2023 |
 
 {style="table-layout:auto"}
 
@@ -49,7 +50,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | -----------------------------------------------------------------| ----------------- |
 | [Documents : lorsqu’un document est déplacé vers un nouveau projet, les autorisations ne sont pas héritées.](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 7 mars 2023 |
 | [[!DNL Workfront Proof]: [!UICONTROL Reports] La zone n’est plus prise en charge](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 1 mars 2023 |
-| [Bons à tirer : L’utilisateur ne reçoit pas d’e-mail lorsqu’il est balisé dans un commentaire de BAT](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 23 février 2023 |
+| [BAT : l’utilisateur ou l’utilisatrice ne reçoit pas d’e-mail lorsqu’il ou elle est identifié(e) dans un commentaire de BAT](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 23 février 2023 |
 | [Épreuves : une nouvelle étape a été créée, car la date limite ne correspond pas à celle de l’étape existante.](known-issues-workfront-proof/proof-new-stage-created.md) | 2 février 2023 |
 | [[!UICONTROL Accueil] : les épreuves terminées sont bloquées dans la [!UICONTROL Liste de travail]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 janvier 2023 |
 | [Épreuves : le statut de l’épreuve n’est pas mis à jour dans les listes de [!UICONTROL documents]](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 décembre 2022 |
