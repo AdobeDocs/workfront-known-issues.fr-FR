@@ -3,10 +3,10 @@ title: Problèmes connus dans  [!DNL Adobe Workfront Fusion]
 description: Problèmes connus et signalés de  [!DNL Adobe Workfront Fusion]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
+source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 94%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,10 +24,9 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: L&#39;historique de l&#39;exécution du scénario n&#39;affiche pas l&#39;historique complet](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md) | 3 mars 2023 |
 | [[!DNL Adobe Workfront Fusion] : erreurs de délai d’expiration dans Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md) | 3 février 2023 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 
 ## En cours
@@ -39,7 +38,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | API [[!DNL Workfront Proof]  : erreur « [!UICONTROL Le corps n’est pas un XML valide.] »](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 20 janvier 2023 |
 | Les liens d’aide in-app de [[!DNL Workfront Fusion]: [!DNL Fusion]  ne mènent pas à des pages d’aide spécifiques](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | 2 août 2022 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Aucun correctif
 
@@ -50,4 +49,4 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [[!DNL Workfront Fusion] : erreur « Échec de vérification de la connexion »](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) | 29 septembre 2022 |
 | Le module [[!DNL Workfront Fusion]: [!DNL Fusion]  renvoie une erreur 404 sans autre information](known-issues-workfront-fusion/fusion-404-error-no-description.md) | 9 septembre 2022 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}

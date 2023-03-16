@@ -3,10 +3,10 @@ title: Problèmes connus dans  [!DNL Adobe Workfront Proof]
 description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: e2b518715b4283ed7940ee51dda44cc1cad0227a
+source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
 workflow-type: tm+mt
-source-wordcount: '279'
-ht-degree: 88%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,10 +24,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-|  | 24 février 2023 |
 | [[!DNL Workfront Proof]: Les listes ne sont pas triées correctement](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 15 mars 2023 |
-| [Bons à tirer : Impossible d’ajouter un utilisateur ou un groupe au workflow de BAT](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 27 février 2023 |
-| [BAT : les rôles de BAT sont modifiés en [!UICONTROL Lecture seule]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | 27 février 2023 |
 
 {style="table-layout:auto"}
 
