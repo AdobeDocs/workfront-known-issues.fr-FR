@@ -3,10 +3,10 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 506874e3b4503db3390a09f44b4be204b4ead2b3
+source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
 workflow-type: tm+mt
-source-wordcount: '583'
-ht-degree: 85%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -39,9 +39,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Filtres : Le filtre n’est pas appliqué lors de l’actualisation de la page.](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | 16 mars 2023 |
 | [Documents : [!UICONTROL Résumé] le contenu du panneau est trop large pour le panneau.](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 3 mars 2023 |
-| [Bons à tirer : Les messages personnalisés ne s’affichent pas dans les notifications électroniques](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md) | 3 mars 2023 |
-| [Projets : Champ personnalisé manquant lorsque le problème est converti en projet](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md) | 2 mars 2023 |
 | [Projets : un projet converti à partir d’un problème n’hérite pas des autorisations du portfolio ou du programme.](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 23 février 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Cas d’assistance sur Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 août 2022 |
 

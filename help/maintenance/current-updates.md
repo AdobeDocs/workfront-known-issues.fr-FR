@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f27dfd8dbe3e0c862f84edfe5b2deab5f139eb50
+source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
 workflow-type: tm+mt
-source-wordcount: '2223'
-ht-degree: 85%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -28,12 +28,6 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 _Panoramas_
 
 Lors de la copie d’une carte ad hoc (les cartes connectées ne peuvent pas être copiées), les éléments de liste de contrôle ne sont pas copiés dans la nouvelle carte.
-
-**[!UICONTROL Résumé] le contenu du panneau est trop large pour le panneau.**
-
-_Documents_
-
-Lorsqu’un utilisateur affiche la variable [!UICONTROL Résumé] pour un document, le contenu est trop large pour être affiché dans le panneau. Le panneau comporte désormais une barre de défilement horizontale et l’utilisateur doit faire défiler horizontalement pour voir le [!UICONTROL Résumé] contenu du panneau. Cela se produit car le nom de fichier du document n’est pas renvoyé à la ligne. Ce problème est limité au fichier dont le nom de fichier comporte une extension de fichier HTML.
 
 **Champ personnalisé manquant lorsque le problème est converti en projet**
 

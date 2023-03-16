@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
-source-git-commit: e2b518715b4283ed7940ee51dda44cc1cad0227a
+source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
 workflow-type: tm+mt
-source-wordcount: '1230'
-ht-degree: 90%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 90%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Filtres : Le filtre n’est pas appliqué lors de l’actualisation de la page.](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md)
       + [[!UICONTROL Équilibreur de charge de travail]: Les heures ne s’ajustent pas pour prendre en compte le temps d’arrêt de l’utilisateur](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [Rapports : Le tri par en-tête de colonne revient au tri précédent](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md)
       + [[!UICONTROL Mises à jour]: Impossible de consigner l’heure du jour en cours dans la variable [!UICONTROL Mises à jour] area](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
