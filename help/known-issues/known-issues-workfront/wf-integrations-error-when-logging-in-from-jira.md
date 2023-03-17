@@ -3,9 +3,9 @@ title: '« Intégrations : erreur lors de la connexion à Workfront à partir 
 description: « Lors de la tentative de connexion à Workfront à partir de Jira à l’aide de l’intégration Workfront for Jira, la page ne se charge pas et un message d’erreur s’affiche. »
 hidefromtoc: true
 source-git-commit: fa782bc69636c0ad4d65f1ce7b7f9493ef155af3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->Ce problème a été corrigé le 8 mars. 2023.
+>Ce problème a été résolu le 8 mars 2023.
 
 Lors de la tentative de connexion à [!DNL Workfront] à partir de [!DNL Jira] à l’aide de l’intégration Workfront for Jira, la page ne se charge pas et le message d’erreur suivant s’affiche :
 
