@@ -3,8 +3,8 @@ user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
 source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1239'
+ht-degree: 96%
 
 ---
 
@@ -20,10 +20,10 @@ ht-degree: 0%
       + [[!UICONTROL Équilibreur de charge de travail]: Les heures ne s’ajustent pas pour prendre en compte le temps d’arrêt de l’utilisateur](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [Rapports : Le tri par en-tête de colonne revient au tri précédent](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md)
       + [[!UICONTROL Mises à jour]: Impossible de consigner l’heure du jour en cours dans la variable [!UICONTROL Mises à jour] area](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
-      + [Feuilles de temps : [!UICONTROL Type d’heure] liste déroulante ne s’ouvre pas](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md)
-      + [Documents : [!UICONTROL Résumé] le contenu du panneau est trop large pour le panneau.](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md)
-      + [Projets : Champ personnalisé manquant lorsque le problème est converti en projet](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
-      + [Bons à tirer : Impossible d’ajouter un utilisateur ou un groupe au workflow de BAT](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
+      + [Feuilles de temps : la liste déroulante [!UICONTROL Type d’heure] ne s’ouvre pas](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md)
+      + [Documents : le contenu du panneau [!UICONTROL Résumé] est trop large pour le panneau](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md)
+      + [Projets : champ personnalisé manquant lorsque le problème est converti en projet](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
+      + [BAT : impossible d’ajouter un utilisateur, une utilisatrice ou un groupe au workflow de BAT](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
       + [BAT : les rôles de BAT sont modifiés en [!UICONTROL Lecture seule]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
       + [Intégrations : erreur lors de la connexion à [!DNL Workfront] à partir de [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
       + [Projets : erreur 504 dans l’en-tête du projet](known-issues-workfront/wf-projects-504-error-in-project-header.md)
@@ -130,10 +130,10 @@ ht-degree: 0%
    + [Problèmes connus dans  [!DNL Workfront Proof]](workfrontproof.md)
    + Problèmes actifs dans [!DNL Workfront Proof] {#proof-current}
       + [[!DNL Workfront Proof]: Les listes ne sont pas triées correctement](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
-      + [Bons à tirer : Les messages personnalisés ne s’affichent pas dans les notifications électroniques](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
-      + [[!DNL Workfront Proof]: Le bon à tirer ne se charge pas lors de l’utilisation de &quot;[!UICONTROL Accéder au BAT]Bouton &quot; dans la notification électronique](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
-      + [[!DNL Workfront Proof]: [!UICONTROL Rapports] La zone n’est plus prise en charge](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
-      + [[!DNL Workfront Proof]: [!UICONTROL Résumé de l’impression] ne charge pas](known-issues-workfront-proof/proof-print-summary-not-loading.md)
+      + [BAT : les messages personnalisés ne s’affichent pas dans les e-mails de notification](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
+      + [[!DNL Workfront Proof] : le BAT ne se charge pas lors de l’utilisation du bouton « [!UICONTROL Accéder au BAT] » dans l’e-mail de notification](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
+      + [[!DNL Workfront Proof] : la zone [!UICONTROL Rapports] n’est plus prise en charge](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
+      + [[!DNL Workfront Proof] : le [!UICONTROL résumé de l’impression] ne se charge pas](known-issues-workfront-proof/proof-print-summary-not-loading.md)
       + [BAT : l’utilisateur ou l’utilisatrice ne reçoit pas d’e-mail lorsqu’il ou elle est mentionné(e) dans un commentaire de BAT](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + [Épreuves : une nouvelle étape a été créée, car la date limite ne correspond pas à celle de l’étape existante.](known-issues-workfront-proof/proof-new-stage-created.md)
       + [API [!DNL Workfront Proof] : erreur « [!UICONTROL Le corps n’est pas un XML valide.] »](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
@@ -155,7 +155,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problèmes connus dans Workfront Fusion](workfrontfusion.md)
    + Problèmes actifs dans [!DNL Workfront Fusion] {#fusion-current}
-      + [[!DNL Workfront Fusion]: L&#39;historique de l&#39;exécution du scénario n&#39;affiche pas l&#39;historique complet](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
+      + [[!DNL Workfront Fusion] : l’historique d’exécution d’un scénario ne s’affiche pas en entier](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
       + [[!DNL Adobe Workfront Fusion] : erreurs de délai d’expiration dans Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md)
       + [[!DNL Adobe Workfront Fusion] : erreurs 404 dans les modules Workfront](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
       + [[!DNL Workfront Fusion] : impossible de créer une connexion à [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)

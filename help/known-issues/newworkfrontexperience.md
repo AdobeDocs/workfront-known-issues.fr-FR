@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
 workflow-type: tm+mt
 source-wordcount: '555'
-ht-degree: 86%
+ht-degree: 92%
 
 ---
 
@@ -24,9 +24,9 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Feuilles de temps : [!UICONTROL Type d’heure] liste déroulante ne s’ouvre pas](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 16 mars 2023 |
-| [[!UICONTROL Équilibreur de charge de travail]: Les heures ne s’ajustent pas pour prendre en compte le temps d’arrêt de l’utilisateur](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md) | 13 mars 2023 |
-| [[!UICONTROL Mises à jour]: Impossible de consigner l’heure du jour en cours dans la variable [!UICONTROL Mises à jour] area](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | 10 mars 2023 |
+| [Feuilles de temps : la liste déroulante [!UICONTROL Type d’heure] ne s’ouvre pas](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 16 mars 2023 |
+| [[!UICONTROL Équilibreur de charge de travail]: Les heures ne s’ajustent pas pour prendre en compte le temps d’arrêt de l’utilisateur](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md) | 13 mars 2023 |
+| [[!UICONTROL Mises à jour]: Impossible de consigner l’heure du jour en cours dans la variable [!UICONTROL Mises à jour] area](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | 10 mars 2023 |
 
 {style="table-layout:auto"}
 
@@ -36,9 +36,9 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Rapports : Le tri par en-tête de colonne revient au tri précédent](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 16 mars 2023 |
-| [Filtres : Le filtre n’est pas appliqué lors de l’actualisation de la page.](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | 16 mars 2023 |
-| [Documents : [!UICONTROL Résumé] le contenu du panneau est trop large pour le panneau.](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 3 mars 2023 |
+| [Rapports : Le tri par en-tête de colonne revient au tri précédent](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 16 mars 2023 |
+| [Filtres : Le filtre n’est pas appliqué lors de l’actualisation de la page.](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | 16 mars 2023 |
+| [Documents : le contenu du panneau [!UICONTROL Résumé] est trop large pour le panneau](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 3 mars 2023 |
 | [Projets : un projet converti à partir d’un problème n’hérite pas des autorisations du portfolio ou du programme.](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 23 février 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Cas d’assistance sur Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 août 2022 |
 
@@ -50,9 +50,9 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Feuilles de temps : [!UICONTROL Type d’heure] liste déroulante ne s’ouvre pas](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 9 mars 2023 |
-| [Documents : lorsqu’un document est déplacé vers un nouveau projet, les autorisations ne sont pas héritées.](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 7 mars 2023 |
-| [Intégrations : impossible d’ouvrir [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 24 février 2023 |
+| [Feuilles de temps : la liste déroulante [!UICONTROL Type d’heure] ne s’ouvre pas](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 9 mars 2023 |
+| [Documents : lorsqu’un document est déplacé vers un nouveau projet, les autorisations ne sont pas héritées.](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 7 mars 2023 |
+| [Intégrations : ouverture impossible [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 24 février 2023 |
 | [BAT : l’utilisateur ou l’utilisatrice ne reçoit pas d’e-mail lorsqu’il ou elle est identifié(e) dans un commentaire de BAT](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 23 février 2023 |
 | [[!UICONTROL Accueil] : les épreuves terminées sont bloquées dans la [!UICONTROL Liste de travail]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 janvier 2023 |
 | [Épreuves : le statut de l’épreuve n’est pas mis à jour dans les listes de [!UICONTROL documents]](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 décembre 2022 |

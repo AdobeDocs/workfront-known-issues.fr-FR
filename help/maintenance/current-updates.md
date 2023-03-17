@@ -4,8 +4,8 @@ description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '2148'
+ht-degree: 95%
 
 ---
 
@@ -21,7 +21,7 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 ## Mises à jour de mars 2023
 
-+++**Mise à jour de maintenance (planifiée) le 16 mars 2023**
++++**(Planifiée) Mise à jour de maintenance du 16 mars 2023**
 
 **Éléments de liste de contrôle non copiés lors de la copie d’une carte**
 
@@ -33,19 +33,19 @@ Lors de la copie d’une carte ad hoc (les cartes connectées ne peuvent pas êt
 
 _Projets_
 
-Lorsqu’un utilisateur convertit un problème en projet à l’aide d’un modèle, un champ personnalisé qui se trouvait sur le problème ne s’affiche pas sur le projet. Ce problème affecte uniquement les non-administrateurs.
+Lorsqu’un utilisateur ou une utilisatrice convertit un problème en projet à l’aide d’un modèle, un champ personnalisé qui se trouvait sur le problème ne s’affiche pas sur le projet. Ce problème affecte uniquement les personnes hors administration.
 
 **Les messages personnalisés ne s’affichent pas dans les notifications électroniques**
 
 _BAT_
 
-Lorsqu’un utilisateur partage un BAT et ajoute un message personnalisé, ce message personnalisé n’apparaît pas dans l’email de notification envoyé au destinataire. L’objet est le nom du BAT et le message n’apparaît pas dans l’email.
+Lorsqu’un utilisateur ou une utilisatrice partage un BAT et ajoute un message personnalisé, ce dernier n’apparaît pas dans l’e-mail de notification envoyé au ou à la destinataire. L’objet est le nom du BAT et le message n’apparaît pas dans l’e-mail.
 
 +++
 
 +++**Mise à jour de maintenance le 9 mars 2023**
 
-**Le niveau d’accès n’est pas attribué lors de la réactivation de l’utilisateur**
+**Le niveau d’accès n’est pas attribué lors de la réactivation d’un utilisateur ou d’une utilisatrice**
 
 _Utilisateurs_
 
@@ -69,11 +69,11 @@ Lorsqu’un utilisateur ou une utilisatrice consulte un panorama comportant un r
 
 Si l’utilisateur ou l’utilisatrice modifie le regroupement pour le définir sur [!UICONTROL Aucun], le problème persiste. Pour pouvoir à nouveau ajouter une carte, modifiez la valeur du regroupement sur [!UICONTROL Aucun], puis actualisez la page.
 
-**Cartes connectées non ajoutées aux colonnes en fonction de l’état**
+**Cartes connectées non ajoutées aux colonnes basées sur le statut**
 
 _Panoramas_
 
-Même si des stratégies de colonne sont appliquées pour l’état, de nouvelles cartes connectées apparaissent dans la colonne la plus à gauche et non dans la colonne correspondant à leur état.
+Même si des politiques de colonne sont appliquées pour le statut, de nouvelles cartes connectées apparaissent dans la colonne tout à gauche et non dans la colonne correspondant à leur statut.
 
 
 **Le lien vers un commentaire redirige vers la page [!UICONTROL Détails]**
@@ -86,9 +86,9 @@ Actuellement, seuls les objets Document sont touchés par ce problème.
 
 **Le résumé d’impression ne se charge pas**
 
-_[!UICONTROL Épreuve Workfront]_
+_[!UICONTROL Workfront Proof]_
 
-Lorsqu’un utilisateur tente de charger la page Résumé de l’impression, la page semble être en cours de chargement, mais ne se charge jamais.
+Lorsqu’un utilisateur ou une utilisatrice tente de charger la page de résumé d’impression, celle-ci semble être en cours de chargement, mais ne se charge jamais.
 
 +++
 
