@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
+source-git-commit: f736d2d5eef0e77c56f1993ea32c92a4c6f17cb1
 workflow-type: tm+mt
-source-wordcount: '2148'
-ht-degree: 95%
+source-wordcount: '2227'
+ht-degree: 94%
 
 ---
 
@@ -21,7 +21,17 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 ## Mises à jour de mars 2023
 
-+++**(Planifiée) Mise à jour de maintenance du 16 mars 2023**
++++**(Planifiée) Mise à jour de maintenance du 23 mars 2023**
+
+**[!UICONTROL Résumé] le contenu du panneau est trop large pour le panneau.**
+
+_Documents_
+
+« Lorsqu’un utilisateur ou une utilisatrice consulte le panneau [!UICONTROL Résumé] pour un document, le contenu est trop large pour être affiché dans le panneau. » Le panneau comporte désormais une barre de défilement horizontale et l’utilisateur doit faire défiler horizontalement pour voir le [!UICONTROL Résumé] contenu du panneau. Le problème est dû au fait que le nom de fichier du document ne s’ajuste pas. Ce problème est limité aux fichiers dont le nom comporte une extension de fichier HTML.
+
++++
+
++++**Mise à jour de maintenance le 16 mars 2023**
 
 **Éléments de liste de contrôle non copiés lors de la copie d’une carte**
 
