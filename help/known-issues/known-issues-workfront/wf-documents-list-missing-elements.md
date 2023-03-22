@@ -2,7 +2,7 @@
 title: "Documents : Problèmes avec la liste de documents "
 description: "Cet article décrit les problèmes récents signalés concernant la liste de documents."
 hidefromtoc: true
-source-git-commit: 9c7a9725ae2ebcc98415c19457db28b8074460a3
+source-git-commit: 9d76e762063f7922b1d47930a0aa0b7e812ae7f9
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 6%
@@ -16,7 +16,7 @@ ht-degree: 6%
 
 Les problèmes suivants ont été signalés concernant la liste de documents :
 
-* Les miniatures ne s’affichent pas
+* Les miniatures ne s’affichent pas.
 * Si un utilisateur change de dossier sélectionné en mode Liste, les options Mode Filtre et Groupement ne fonctionnent plus.
 
 **Solution de contournement**
