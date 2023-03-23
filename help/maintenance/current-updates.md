@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f736d2d5eef0e77c56f1993ea32c92a4c6f17cb1
+source-git-commit: 3299691cd869897ca0049e11e79e5b6fc7675411
 workflow-type: tm+mt
-source-wordcount: '2227'
-ht-degree: 94%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,13 +21,26 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 ## Mises à jour de mars 2023
 
-+++**(Planifiée) Mise à jour de maintenance du 23 mars 2023**
++++**Mise à jour de maintenance le 23 mars 2023**
 
 **[!UICONTROL Résumé] le contenu du panneau est trop large pour le panneau.**
 
 _Documents_
 
 « Lorsqu’un utilisateur ou une utilisatrice consulte le panneau [!UICONTROL Résumé] pour un document, le contenu est trop large pour être affiché dans le panneau. » Le panneau comporte désormais une barre de défilement horizontale et l’utilisateur doit faire défiler horizontalement pour voir le [!UICONTROL Résumé] contenu du panneau. Le problème est dû au fait que le nom de fichier du document ne s’ajuste pas. Ce problème est limité aux fichiers dont le nom comporte une extension de fichier HTML.
+
+**Nouvelle version du lecteur de vérification pour bureau**
+
+_Vérification_
+
+Pour résoudre un problème de commentaire dans la variable [!UICONTROL Vue de la vérification de l’appli de bureau]Ou, nous avons déployé une nouvelle version de la visionneuse de vérification de l’ordinateur de bureau.
+
+Les utilisateurs qui disposent déjà de la variable [!UICONTROL Visionneuse de vérification de poste de travail] Cette mise à jour sera automatiquement activée.
+
+Les utilisateurs ou utilisatrices peuvent également afficher manuellement la dernière version. Pour plus d’informations, consultez [[!UICONTROL Installation du lecteur de vérification pour bureau]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html).
+
+* Version précédente : 2.1.22
+* Nouvelle version : 2.1.23
 
 +++
 
