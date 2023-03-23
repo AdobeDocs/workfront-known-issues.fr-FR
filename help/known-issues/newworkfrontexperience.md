@@ -3,10 +3,10 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 223ef5c3573b85981a91fabddc7c591116beb94e
+source-git-commit: dc40136eb4343745d7e43b372c444df2022bb406
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '624'
+ht-degree: 81%
 
 ---
 
@@ -24,13 +24,9 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documents : Problèmes liés à la liste de documents](known-issues-workfront/wf-documents-list-missing-elements.md) | 22 mars 2023 |
-| [Bons à tirer : L’étape de BAT ne s’active pas lorsque la date limite de l’étape précédente est dépassée.](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 21 mars 2023 |
 | [Utilisateurs : Niveau d’accès modifié par le système sans enregistrement de la modification.](known-issues-workfront/wf-users-access-level-is-changed.md) | 20 mars 2023 |
-| [Documents : Erreur 404 lors de l’accès au document lié à partir de [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 17 mars 2023 |
 | [Documents : [!UICONTROL Activités de vérification] les options mènent à la page de connexion ;](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 17 mars 2023 |
 | [Mises à jour : La mise à jour effectuée au nom d’un utilisateur s’affiche directement à partir de l’utilisateur.](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md) | 17 mars 2023 |
-| [Feuilles de temps : la liste déroulante [!UICONTROL Type d’heure] ne s’ouvre pas](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 16 mars 2023 |
 | [[!UICONTROL Équilibreur de charge de travail]: Les heures ne s’ajustent pas pour prendre en compte le temps d’arrêt de l’utilisateur](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md) | 13 mars 2023 |
 | [[!UICONTROL Mises à jour]: Impossible de consigner l’heure du jour en cours dans la variable [!UICONTROL Mises à jour] area](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | 10 mars 2023 |
 
@@ -42,6 +38,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Feuilles de temps : la liste déroulante [!UICONTROL Type d’heure] ne s’ouvre pas](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 23 mars 2023 |
+| [Bons à tirer : L’étape de BAT ne s’active pas lorsque la date limite de l’étape précédente est dépassée.](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 mars 2023 |
 | [Bons à tirer : L’utilisateur est désactivé par le workflow de BAT et reçoit &quot;[!UICONTROL Accès interdit]&quot; lors de l’accès au BAT](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 23 mars 2023 |
 | [Rapports : Le tri par en-tête de colonne revient au tri précédent](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 16 mars 2023 |
 | [Filtres : Le filtre n’est pas appliqué lors de l’actualisation de la page.](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | 16 mars 2023 |
@@ -56,6 +54,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documents : Erreur 404 lors de l’accès au document lié à partir de [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 23 mars 2023 |
+| [Documents : Problèmes liés à la liste de documents](known-issues-workfront/wf-documents-list-missing-elements.md) | 23 mars 2023 |
 | [Feuilles de temps : la liste déroulante [!UICONTROL Type d’heure] ne s’ouvre pas](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 9 mars 2023 |
 | [Documents : lorsqu’un document est déplacé vers un nouveau projet, les autorisations ne sont pas héritées.](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 7 mars 2023 |
 | [Intégrations : ouverture impossible [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 24 février 2023 |
