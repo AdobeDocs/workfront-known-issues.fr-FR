@@ -3,10 +3,10 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: dc40136eb4343745d7e43b372c444df2022bb406
+source-git-commit: 3d16be4546c171afb0cc9485a7b2d62ca8cba9d2
 workflow-type: tm+mt
-source-wordcount: '624'
-ht-degree: 81%
+source-wordcount: '652'
+ht-degree: 78%
 
 ---
 
@@ -38,6 +38,9 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Rechercher : [!DNL Workfront] Délai d’expiration de recherche](known-issues-workfront/wf-search-search-times-out.md) | 27 mars 2023 |
+| [Bons à tirer : Impossible de changer la version du BAT lors de l’affichage du BAT](known-issues-workfront/wf-proofs-cannot-switch-version.md) | 27 mars 2023 |
+| [Bons à tirer : Les noyaux ne s’ouvrent pas lorsqu’un utilisateur est ajouté à un BAT](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md) | 27 mars 2023 |
 | [Feuilles de temps : la liste déroulante [!UICONTROL Type d’heure] ne s’ouvre pas](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 23 mars 2023 |
 | [Bons à tirer : L’étape de BAT ne s’active pas lorsque la date limite de l’étape précédente est dépassée.](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 mars 2023 |
 | [Bons à tirer : L’utilisateur est désactivé par le workflow de BAT et reçoit &quot;[!UICONTROL Accès interdit]&quot; lors de l’accès au BAT](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 23 mars 2023 |

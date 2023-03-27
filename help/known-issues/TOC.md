@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
-source-git-commit: 223ef5c3573b85981a91fabddc7c591116beb94e
+source-git-commit: 3d16be4546c171afb0cc9485a7b2d62ca8cba9d2
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1337'
+ht-degree: 89%
 
 ---
 
@@ -16,6 +16,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Rechercher : [!DNL Workfront] Délai d’expiration de recherche](known-issues-workfront/wf-search-search-times-out.md)
+      + [Bons à tirer : Impossible de changer la version du BAT lors de l’affichage du BAT](known-issues-workfront/wf-proofs-cannot-switch-version.md)
+      + [Bons à tirer : Les noyaux ne s’ouvrent pas lorsqu’un utilisateur est ajouté à un BAT](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md)
       + [Bons à tirer : L’utilisateur est désactivé par le workflow de BAT et reçoit &quot;[!UICONTROL Accès interdit]&quot; lors de l’accès au BAT](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
       + [Documents : Problèmes liés à la liste de documents](known-issues-workfront/wf-documents-list-missing-elements.md)
       + [Bons à tirer : L’étape de BAT ne s’active pas lorsque la date limite de l’étape précédente est dépassée.](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)
