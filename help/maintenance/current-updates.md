@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: c3a4e85589744be4d1b40a1074835dc6bd7a48a1
+source-git-commit: b03ef9d21bfe75bea3a2df6b2420490c6ce22050
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '2423'
+ht-degree: 88%
 
 ---
 
@@ -21,7 +21,7 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 ## Mises à jour de mars 2023
 
-+++**(Planifiée) Mise à jour de maintenance du 23 mars 2023**
++++**Mise à jour de maintenance le 23 mars 2023**
 
 **Impossible de changer la version du BAT lors de l’affichage du BAT**
 
@@ -34,6 +34,12 @@ Lorsqu’un utilisateur consulte un BAT dans la variable [!UICONTROL Visionneuse
 _Rapports_
 
 Lorsqu’un utilisateur tente d’exporter un rapport avec un grand nombre d’éléments, il voit une erreur 504 et ne peut pas exporter le rapport.
+
+**La mise à jour effectuée au nom d’un utilisateur s’affiche directement à partir de l’utilisateur.**
+
+_Mises à jour_
+
+Lorsqu’un administrateur est connecté en tant qu’utilisateur et qu’il fait un commentaire, ce commentaire s’affiche directement depuis l’utilisateur, plutôt que depuis l’administrateur au nom de l’utilisateur.
 
 +++
 
