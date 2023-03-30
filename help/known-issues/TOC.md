@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
-source-git-commit: c3a4e85589744be4d1b40a1074835dc6bd7a48a1
+source-git-commit: b1f0590a6e5beffa41144bfbb04a4020dfe31a24
 workflow-type: tm+mt
-source-wordcount: '1357'
-ht-degree: 87%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 87%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Projets : [!UICONTROL Groupe d’accueil] états personnalisés non disponibles lors de la création d’un projet à partir d’un modèle](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
       + [Bons à tirer : Impossible d’utiliser l’outil Polyline lors de l’ajout d’un commentaire sur un BAT](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)
       + [Bons à tirer : L’outil de mesure n’accepte pas les décimales.](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
       + [Rechercher : [!DNL Workfront] Délai d’expiration de recherche](known-issues-workfront/wf-search-search-times-out.md)
