@@ -1,12 +1,12 @@
 ---
-title: '''[!DNL Workfront Fusion]: Échec de la vérification de l’erreur de connexion'
-description: '"Les connexions Workfront Fusion à un compte Workfront peuvent échouer à l’authentification, ce qui entraîne des scénarios qui renvoient l’erreur suivante : Échec de la vérification de la connexion.'''
+title: '« [!DNL Workfront Fusion] : erreur d’échec de vérification de la connexion. »'
+description: '« L’authentification des connexions de Workfront Fusion à un compte Workfront peut échouer, ce qui entraîne l’erreur suivante dans les scénarios : échec de vérification de la connexion. »'
 hidefromtoc: true
 exl-id: 89b6331d-8e5e-4139-9359-0afa7be07d2f
 source-git-commit: ca969341423e373a94faa677729fc2dccd9453d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
