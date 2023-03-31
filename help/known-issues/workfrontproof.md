@@ -3,10 +3,10 @@ title: Problèmes connus dans  [!DNL Adobe Workfront Proof]
 description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: b03ef9d21bfe75bea3a2df6b2420490c6ce22050
+source-git-commit: aad3b2765a83b265b6b356d44f1be6b4c21bcdba
 workflow-type: tm+mt
-source-wordcount: '320'
-ht-degree: 78%
+source-wordcount: '327'
+ht-degree: 76%
 
 ---
 
@@ -24,6 +24,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bons à tirer : La zone Options de texte affiche &quot;textAnnotations&quot;.](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 31 mars 2023 |
 | [Bons à tirer : Impossible d’utiliser l’outil Polyline lors de l’ajout d’un commentaire sur un BAT](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 28 mars 2023 |
 | [Documents : [!UICONTROL Activités de vérification] les options mènent à la page de connexion ;](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 17 mars 2023 |
 
