@@ -5,8 +5,8 @@ keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: aad3b2765a83b265b6b356d44f1be6b4c21bcdba
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '672'
+ht-degree: 82%
 
 ---
 
@@ -28,8 +28,8 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 | [Bons à tirer : Impossible d’utiliser l’outil Polyline lors de l’ajout d’un commentaire sur un BAT](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 28 mars 2023 |
 | [Utilisateurs : Niveau d’accès modifié par le système sans enregistrement de la modification.](known-issues-workfront/wf-users-access-level-is-changed.md) | 20 mars 2023 |
 | [Documents : [!UICONTROL Activités de vérification] les options mènent à la page de connexion ;](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 17 mars 2023 |
-| [[!UICONTROL Équilibreur de charge de travail]: Les heures ne s’ajustent pas pour prendre en compte le temps d’arrêt de l’utilisateur](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md) | 13 mars 2023 |
-| [[!UICONTROL Mises à jour]: Impossible de consigner l’heure du jour en cours dans la variable [!UICONTROL Mises à jour] area](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | 10 mars 2023 |
+| [[!UICONTROL Équilibreur de charge de travail] : les heures ne s’ajustent pas pour prendre en compte les congés de l’utilisateur ou de l’utilisatrice](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md). | 13 mars 2023 |
+| [[!UICONTROL Mises à jour] : impossible de consigner l’heure du jour en cours dans la zone [!UICONTROL Mises à jour].](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | 10 mars 2023 |
 
 {style="table-layout:auto"}
 
@@ -45,8 +45,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [Feuilles de temps : la liste déroulante [!UICONTROL Type d’heure] ne s’ouvre pas](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 23 mars 2023 |
 | [Bons à tirer : L’étape de BAT ne s’active pas lorsque la date limite de l’étape précédente est dépassée.](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 mars 2023 |
 | [Bons à tirer : L’utilisateur est désactivé par le workflow de BAT et reçoit &quot;[!UICONTROL Accès interdit]&quot; lors de l’accès au BAT](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 23 mars 2023 |
-| [Rapports : Le tri par en-tête de colonne revient au tri précédent](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 16 mars 2023 |
-| [Filtres : Le filtre n’est pas appliqué lors de l’actualisation de la page.](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | 16 mars 2023 |
+| [Rapports : le tri par en-tête de colonne revient au tri précédent](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md). | 16 mars 2023 |
+| [Filtres : le filtre n’est pas appliqué lors de l’actualisation de la page](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md). | 16 mars 2023 |
 | [Projets : un projet converti à partir d’un problème n’hérite pas des autorisations du portfolio ou du programme.](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 23 février 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Cas d’assistance sur Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 août 2022 |
 
