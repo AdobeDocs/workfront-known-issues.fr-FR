@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
-source-git-commit: 0e78bfc2f2a681f035d26d40daeac35f29b6e6f0
+source-git-commit: c914b0f7d3b0f3fea1f73baf16b29cfe3e09ea96
 workflow-type: tm+mt
-source-wordcount: '1387'
-ht-degree: 89%
+source-wordcount: '1395'
+ht-degree: 88%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 89%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Bons à tirer : Impossible de basculer entre les bons à tirer dans [!UICONTROL Visionneuse de BAT]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)
       + [Utilisateurs : Impossible de sélectionner [!UICONTROL Type d’heure par défaut] ou [!UICONTROL Types d’heure disponibles]](known-issues-workfront/wf-user-cannot-select-hour-type.md)
       + [Projets : [!UICONTROL Groupe d’accueil] états personnalisés non disponibles lors de la création d’un projet à partir d’un modèle](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
       + [Bons à tirer : Impossible d’utiliser l’outil Polyline lors de l’ajout d’un commentaire sur un BAT](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)

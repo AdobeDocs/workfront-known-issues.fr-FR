@@ -3,10 +3,10 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 0e78bfc2f2a681f035d26d40daeac35f29b6e6f0
+source-git-commit: c914b0f7d3b0f3fea1f73baf16b29cfe3e09ea96
 workflow-type: tm+mt
-source-wordcount: '683'
-ht-degree: 81%
+source-wordcount: '692'
+ht-degree: 80%
 
 ---
 
@@ -40,6 +40,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bons à tirer : Impossible de basculer entre les bons à tirer dans [!UICONTROL Visionneuse de BAT]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | 31 mars 2023 |
 | [Projets : [!UICONTROL Groupe d’accueil] états personnalisés non disponibles lors de la création d’un projet à partir d’un modèle](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 mars 2023 |
 | [Rechercher : [!DNL Workfront] Délai d’expiration de recherche](known-issues-workfront/wf-search-search-times-out.md) | 27 mars 2023 |
 | [Bons à tirer : Les noyaux ne s’ouvrent pas lorsqu’un utilisateur est ajouté à un BAT](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md) | 27 mars 2023 |

@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b03ef9d21bfe75bea3a2df6b2420490c6ce22050
+source-git-commit: c914b0f7d3b0f3fea1f73baf16b29cfe3e09ea96
 workflow-type: tm+mt
-source-wordcount: '2423'
-ht-degree: 88%
+source-wordcount: '2493'
+ht-degree: 90%
 
 ---
 
@@ -15,13 +15,25 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2023.
 
 >[!NOTE]
 >
->Ces mises à jour incluent également d’autres correctifs mineurs ou moins conséquents. L’assistance [!DNL Workfront]vous avertira lorsqu’un problème que vous avez soumis est résolu.
+>Ces mises à jour incluent également d’autres correctifs mineurs ou moins conséquents. L’assistance [!DNL Workfront] vous avertira lorsqu’un problème que vous avez soumis est résolu.
 
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
 
+## Mises à jour d’avril 2023
+
++++**Mise à jour de maintenance le 4 avril 2023**
+
+**Les listes déroulantes ne s’ouvrent pas lorsqu’un utilisateur est ajouté à un BAT**
+
+_BAT_
+
+Lorsqu’un utilisateur ajoute un autre utilisateur à un BAT dans la variable [!UICONTROL Visionneuse de vérification], le &quot;[!UICONTROL Rôle BAT]&quot; et &quot;[!UICONTROL Alertes par email]&quot; les listes déroulantes ne peuvent pas s’ouvrir. L’utilisateur ne peut pas attribuer un rôle de BAT ou une alerte par courrier électronique. Cela peut se produire lors de l’ajout d’un utilisateur par le biais d’un commentaire ou du partage du BAT avec l’utilisateur.
+
++++
+
 ## Mises à jour de mars 2023
 
-+++**Mise à jour de maintenance le 23 mars 2023**
++++**Mise à jour de maintenance le 30 mars 2023**
 
 **Impossible de changer la version du BAT lors de l’affichage du BAT**
 
@@ -49,7 +61,7 @@ Lorsqu’un administrateur est connecté en tant qu’utilisateur et qu’il fai
 
 _Documents_
 
-« Lorsqu’un utilisateur ou une utilisatrice consulte le panneau [!UICONTROL Résumé] pour un document, le contenu est trop large pour être affiché dans le panneau. » Le panneau comporte désormais une barre de défilement horizontale et l’utilisateur doit faire défiler horizontalement pour voir le [!UICONTROL Résumé] contenu du panneau. Le problème est dû au fait que le nom de fichier du document ne s’ajuste pas. Ce problème est limité aux fichiers dont le nom comporte une extension de fichier HTML.
+« Lorsqu’un utilisateur ou une utilisatrice consulte le panneau [!UICONTROL Résumé] pour un document, le contenu est trop large pour être affiché dans le panneau. » Le panneau comporte désormais une barre de défilement horizontale qu’il faut faire défiler pour afficher le contenu du panneau [!UICONTROL Résumé]. Le problème est dû au fait que le nom de fichier du document ne s’ajuste pas. Ce problème est limité aux fichiers dont le nom comporte une extension de fichier HTML.
 
 **Nouvelle version du lecteur de vérification pour bureau**
 
@@ -80,7 +92,7 @@ _Projets_
 
 Lorsqu’un utilisateur ou une utilisatrice convertit un problème en projet à l’aide d’un modèle, un champ personnalisé qui se trouvait sur le problème ne s’affiche pas sur le projet. Ce problème affecte uniquement les personnes hors administration.
 
-**Les messages personnalisés ne s’affichent pas dans les notifications électroniques**
+**Les messages personnalisés ne s’affichent pas dans les e-mails de notification**
 
 _BAT_
 
@@ -96,11 +108,11 @@ _Utilisateurs_
 
 Lorsqu’un utilisateur en réactive un autre et tente de lui attribuer un niveau d’accès dans la fenêtre [!UICONTROL Réactiver un utilisateur], le menu déroulant ne s’affiche pas lors de la saisie. Il est donc impossible de sélectionner un niveau d’accès. Si l’utilisateur saisit intégralement un niveau d’accès et enregistre, il n’est pas attribué à l’utilisateur réactivé.
 
-**Enregistrez le brouillon d’un commentaire dans le [!DNL Goals] area**
+**Enregistrer le brouillon d’un commentaire dans la zone [!DNL Goals]**
 
 _[!DNL Workfront Goals]_
 
-Maintenant, lorsque vous quittez le [!UICONTROL Mises à jour] page d’un objectif lors de la composition d’un message, le message est conservé lorsque vous revenez en arrière. Avant cette mise à jour, le commentaire non envoyé aurait été supprimé.
+Désormais, lorsque vous quittez la page [!UICONTROL Mises à jour] d’un objectif lors de la composition d’un message, le message est conservé lorsque vous revenez en arrière. Avant cette mise à jour, le commentaire non envoyé aurait été supprimé.
 
 +++
 
