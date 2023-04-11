@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: c914b0f7d3b0f3fea1f73baf16b29cfe3e09ea96
+source-git-commit: ff0a984c4f9f2041f1e3f3d8da6432f6b1a6d499
 workflow-type: tm+mt
-source-wordcount: '2493'
-ht-degree: 90%
+source-wordcount: '2573'
+ht-degree: 88%
 
 ---
 
@@ -21,7 +21,22 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 ## Mises à jour d’avril 2023
 
-+++**Mise à jour de maintenance le 4 avril 2023**
++++**Mise à jour de maintenance le 13 avril 2023**
+
+**Les filtres ne sont pas appliqués à la liste des requêtes**
+
+_Demandes_
+
+Lorsqu’un utilisateur affiche une liste de requêtes auxquelles un filtre est appliqué, la liste inclut les requêtes que le filtre doit exclure.
+
+**Impossible de sélectionner [!UICONTROL Type d’heure par défaut] ou [!UICONTROL Types d’heure disponibles]**
+
+_Utilisateurs_
+
+Lorsqu’un administrateur modifie un utilisateur et tente de sélectionner une [!UICONTROL Type d’heure par défaut] ou [!UICONTROL Type d’heure disponible], ils voient que les listes déroulantes de ces champs sont désactivées et qu’ils ne peuvent pas sélectionner de types d’heure.
++++
+
++++**Mise à jour de maintenance le 6 avril 2023**
 
 **Les listes déroulantes ne s’ouvrent pas lorsqu’un utilisateur est ajouté à un BAT**
 
