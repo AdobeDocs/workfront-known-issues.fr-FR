@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
-source-git-commit: 7ff96f21e2438743a7273b7ba0015cef4e4e47ee
+source-git-commit: ddce44ac49df4795b17195a8672e4240945398be
 workflow-type: tm+mt
-source-wordcount: '1413'
-ht-degree: 87%
+source-wordcount: '1431'
+ht-degree: 86%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 87%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Modèles : Impossible de sélectionner le modèle à partir de [!UICONTROL Modèles favoris]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
+      + [Filtres : Impossible de partager un filtre depuis un rapport sur un tableau de bord](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
       + [[!UICONTROL Accueil]: Cliquez sur près de la miniature dans [!UICONTROL Liste de tâches] mène à une page vierge](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md)
       + [Formulaires personnalisés : Problèmes dans les champs de liste déroulante personnalisés](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md)
       + [Bons à tirer : Impossible de basculer entre les bons à tirer dans [!UICONTROL Visionneuse de BAT]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)
