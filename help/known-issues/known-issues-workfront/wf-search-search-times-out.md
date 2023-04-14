@@ -1,22 +1,22 @@
 ---
-title: "Recherche : Délai d’expiration de la recherche Workfront"
-description: "La recherche Workfront arrive à expiration. La recherche peut renvoyer quelques résultats, ou aucun."
+title: '« Recherche : la recherche Workfront expire »'
+description: « La recherche Workfront expire. La recherche peut renvoyer quelques résultats ou aucun. »
 hidefromtoc: true
 source-git-commit: 3d16be4546c171afb0cc9485a7b2d62ca8cba9d2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
 
-# Rechercher : [!DNL Workfront] Délai d’expiration de recherche
+# Recherche : la recherche [!DNL Workfront] expire
 
 <!--this issue is on WF and WFF TOCs-->
 
-[!DNL Workfront] la recherche expire. La recherche peut renvoyer quelques résultats ou aucun résultat.
+La recherche [!DNL Workfront] expire. La recherche peut renvoyer quelques résultats ou aucun.
 
-Ce problème affecte également les fonctionnalités de la variable [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL Rechercher] module .
+Ce problème affecte également les fonctionnalités du module [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL Recherche].
 
 _Premier signalement le 21 février 2023._
 
