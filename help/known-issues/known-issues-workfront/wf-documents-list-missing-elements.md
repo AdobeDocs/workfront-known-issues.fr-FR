@@ -1,23 +1,23 @@
 ---
-title: "Documents : Problèmes avec la liste de documents "
-description: "Cet article décrit les problèmes récents signalés concernant la liste de documents."
+title: '« Documents : problèmes liés à la liste de documents »'
+description: « Cet article décrit les problèmes liés à la liste de documents qui ont été récemment signalés. »
 hidefromtoc: true
 source-git-commit: 9d76e762063f7922b1d47930a0aa0b7e812ae7f9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
 
-# Documents : Problèmes liés à la liste de documents
+# Documents : problèmes liés à la liste de documents
 
 <!--This article is on the WF and WFP TOCs-->
 
-Les problèmes suivants ont été signalés concernant la liste de documents :
+Les problèmes suivants liés à la liste de documents ont été signalés :
 
 * Les miniatures ne s’affichent pas.
-* Si un utilisateur change de dossier sélectionné en mode Liste, les options Mode Filtre et Groupement ne fonctionnent plus.
+* Si un utilisateur ou une utilisatrice change de dossier sélectionné en mode Liste, les options Filtre, Affichage et Regroupement ne fonctionnent plus.
 
 **Solution de contournement**
 
