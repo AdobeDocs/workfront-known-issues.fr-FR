@@ -4,7 +4,7 @@ user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
 source-git-commit: ddce44ac49df4795b17195a8672e4240945398be
 workflow-type: tm+mt
 source-wordcount: '1431'
-ht-degree: 86%
+ht-degree: 96%
 
 ---
 
@@ -22,19 +22,19 @@ ht-degree: 86%
       + [Formulaires personnalisés : Problèmes dans les champs de liste déroulante personnalisés](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md)
       + [Bons à tirer : Impossible de basculer entre les bons à tirer dans [!UICONTROL Visionneuse de BAT]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)
       + [Utilisateurs : Impossible de sélectionner [!UICONTROL Type d’heure par défaut] ou [!UICONTROL Types d’heure disponibles]](known-issues-workfront/wf-user-cannot-select-hour-type.md)
-      + [Projets : [!UICONTROL Groupe d’accueil] états personnalisés non disponibles lors de la création d’un projet à partir d’un modèle](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
-      + [Bons à tirer : Impossible d’utiliser l’outil Polyline lors de l’ajout d’un commentaire sur un BAT](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)
-      + [Bons à tirer : L’outil de mesure n’accepte pas les décimales.](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
-      + [Rechercher : [!DNL Workfront] Délai d’expiration de recherche](known-issues-workfront/wf-search-search-times-out.md)
-      + [Bons à tirer : Impossible de changer la version du BAT lors de l’affichage du BAT](known-issues-workfront/wf-proofs-cannot-switch-version.md)
-      + [Bons à tirer : Les noyaux ne s’ouvrent pas lorsqu’un utilisateur est ajouté à un BAT](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md)
-      + [Bons à tirer : L’utilisateur est désactivé par le workflow de BAT et reçoit &quot;[!UICONTROL Accès interdit]&quot; lors de l’accès au BAT](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
-      + [Documents : Problèmes liés à la liste de documents](known-issues-workfront/wf-documents-list-missing-elements.md)
-      + [Bons à tirer : L’étape de BAT ne s’active pas lorsque la date limite de l’étape précédente est dépassée.](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)
-      + [Utilisateurs : Niveau d’accès modifié par le système sans enregistrement de la modification.](known-issues-workfront/wf-users-access-level-is-changed.md)
-      + [Documents : Erreur 404 lors de l’accès au document lié à partir de [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md)
-      + [Documents : [!UICONTROL Activités de vérification] les options mènent à la page de connexion ;](known-issues-workfront/wf-documents-taken-to-login-screen.md)
-      + [Mises à jour : La mise à jour effectuée au nom d’un utilisateur s’affiche directement à partir de l’utilisateur.](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md)
+      + [Projets : les statuts personnalisés du [!UICONTROL Groupe résidentiel] ne sont pas disponibles lors de la création d’un projet à partir d’un modèle](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
+      + [BAT : impossible d’utiliser l’outil Polyligne lors de l’ajout d’un commentaire à un BAT](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)
+      + [BAT : l’outil de mesure n’accepte pas les points décimaux](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
+      + [Recherche : la recherche  [!DNL Workfront]  expire](known-issues-workfront/wf-search-search-times-out.md)
+      + [BAT : impossible de changer de version de BAT lors de sa visualisation](known-issues-workfront/wf-proofs-cannot-switch-version.md)
+      + [BAT : les menus déroulants ne s’ouvrent pas lorsqu’une personne utilisatrice est ajoutée à un BAT](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md)
+      + [BAT : la personne utilisatrice est désactivée du workflow de BAT et le message « [!UICONTROL Accès non autorisé] » s’affiche lors de l’accès au BAT](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
+      + [Documents : problèmes liés à la liste de documents](known-issues-workfront/wf-documents-list-missing-elements.md)
+      + [BAT : l’étape de BAT ne se déclenche pas lorsque l’échéance de l’étape précédente est dépassée](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)
+      + [Utilisateurs : modification du niveau d’accès par le système sans enregistrement de la modification](known-issues-workfront/wf-users-access-level-is-changed.md)
+      + [Documents : erreur 404 lors de l’accès au document lié par  [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md)
+      + [Documents : les options des [!UICONTROL Activités de vérification] débouchent sur la page de connexion](known-issues-workfront/wf-documents-taken-to-login-screen.md)
+      + [Mises à jour : la mise à jour effectuée au nom d’un utilisateur ou utilisatrice s’affiche comme provenant directement de l’utilisateur ou utilisatrice](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md)
       + [Filtres : le filtre n’est pas appliqué lors de l’actualisation de la page.](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md)
       + [[!UICONTROL Équilibreur de charge de travail] : les heures ne s’ajustent pas pour prendre en compte les congés de l’utilisateur ou de l’utilisatrice.](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [Rapports : le tri par en-tête de colonne revient au tri précédent.](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md)
@@ -148,7 +148,7 @@ ht-degree: 86%
 + [!DNL Workfront Proof] {#proof}
    + [Problèmes connus dans  [!DNL Workfront Proof]](workfrontproof.md)
    + Problèmes actifs dans [!DNL Workfront Proof] {#proof-current}
-      + [Bons à tirer : La zone Options de texte affiche &quot;textAnnotations&quot;.](known-issues-workfront-proof/proof-text-shows-textannotation.md)
+      + [BAT : la zone Options de texte affiche « textAnnotations »](known-issues-workfront-proof/proof-text-shows-textannotation.md)
       + [[!DNL Workfront Proof] : les listes ne sont pas triées correctement.](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [BAT : les messages personnalisés ne s’affichent pas dans les e-mails de notification](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
       + [[!DNL Workfront Proof] : le BAT ne se charge pas lors de l’utilisation du bouton « [!UICONTROL Accéder au BAT] » dans l’e-mail de notification](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)

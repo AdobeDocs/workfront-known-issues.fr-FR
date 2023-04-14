@@ -6,7 +6,7 @@ exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
 workflow-type: tm+mt
 source-wordcount: '329'
-ht-degree: 77%
+ht-degree: 96%
 
 ---
 
@@ -24,8 +24,8 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Bons à tirer : La zone Options de texte affiche &quot;textAnnotations&quot;.](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 31 mars 2023 |
-| [Documents : [!UICONTROL Activités de vérification] les options mènent à la page de connexion ;](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 17 mars 2023 |
+| [BAT : la zone Options de texte affiche « textAnnotations »](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 31 mars 2023 |
+| [Documents : les options des [!UICONTROL Activités de vérification] débouchent sur la page de connexion](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 17 mars 2023 |
 
 {style="table-layout:auto"}
 
@@ -35,10 +35,10 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Bons à tirer : Impossible d’utiliser l’outil Polyline lors de l’ajout d’un commentaire sur un BAT](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 6 avril |
-| [Bons à tirer : La zone Options de texte affiche &quot;textAnnotations&quot;.](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 6 avril 2023 |
+| [BAT : impossible d’utiliser l’outil Polyligne lors de l’ajout d’un commentaire sur un BAT](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 6 avril |
+| [BAT : la zone Options de texte affiche « textAnnotations »](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 6 avril 2023 |
 | [Bons à tirer : Impossible de basculer entre les bons à tirer dans [!UICONTROL Visionneuse de BAT]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | 31 mars 2023 |
-| [Bons à tirer : L’étape de BAT ne s’active pas lorsque la date limite de l’étape précédente est dépassée.](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 mars 2023 |
+| [BAT : l’étape de BAT ne se déclenche pas lorsque l’échéance de l’étape précédente est dépassée](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 mars 2023 |
 | API [[!DNL Workfront Proof]  : erreur « [!UICONTROL Le corps n’est pas un XML valide.] »](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 20 janvier 2023 |
 
 {style="table-layout:auto"}
@@ -49,10 +49,10 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Bons à tirer : L’outil de mesure n’accepte pas les décimales.](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 27 mars 2023 |
-| [Documents : Erreur 404 lors de l’accès au document lié à partir de [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 23 mars 2023 |
-| [Documents : Problèmes liés à la liste de documents](known-issues-workfront/wf-documents-list-missing-elements.md) | 23 mars 2023 |
-| [[!DNL Workfront Proof] : les listes ne sont pas triées correctement](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md). | 23 mars 2023 |
+| [BAT : l’outil de mesure n’accepte pas les points décimaux](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 27 mars 2023 |
+| [Documents : erreur 404 lors de l’accès au document lié par  [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 23 mars 2023 |
+| [Documents : problèmes liés à la liste de documents](known-issues-workfront/wf-documents-list-missing-elements.md) | 23 mars 2023 |
+| [[!DNL Workfront Proof] : les listes ne sont pas triées correctement](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 23 mars 2023 |
 | [Documents : lorsqu’un document est déplacé vers un nouveau projet, les autorisations ne sont pas héritées.](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 7 mars 2023 |
 | La zone [[!DNL Workfront Proof]: [!UICONTROL Reports]  n’est plus pris en charge](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 1 mars 2023 |
 | [BAT : l’utilisateur ou l’utilisatrice ne reçoit pas d’e-mail lorsqu’il ou elle est identifié(e) dans un commentaire de BAT](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 23 février 2023 |

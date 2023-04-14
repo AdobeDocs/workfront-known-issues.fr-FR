@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: bce9d44c3f96d260ebdeec8665d095e8963bc5d0
 workflow-type: tm+mt
 source-wordcount: '2573'
-ht-degree: 88%
+ht-degree: 96%
 
 ---
 
@@ -43,7 +43,7 @@ Lorsqu’un administrateur modifie un utilisateur et tente de sélectionner une 
 
 _BAT_
 
-Lorsqu’un utilisateur ajoute un autre utilisateur à un BAT dans la variable [!UICONTROL Visionneuse de vérification], le &quot;[!UICONTROL Rôle BAT]&quot; et &quot;[!UICONTROL Alertes par email]&quot; les listes déroulantes ne peuvent pas s’ouvrir. L’utilisateur ne peut pas attribuer un rôle de BAT ou une alerte par courrier électronique. Cela peut se produire lors de l’ajout d’un utilisateur par le biais d’un commentaire ou du partage du BAT avec l’utilisateur.
+Lorsqu’un utilisateur ou une utilisatrice ajoute un autre utilisateur ou utilisatrice à un BAT dans le [!UICONTROL Lecteur de vérification], les menus déroulants « [!UICONTROL Rôle du BAT] » et « [!UICONTROL Alertes par e-mail] » ne s’ouvrent pas. L’utilisateur ou l’utilisatrice ne peut pas attribuer un rôle de BAT ou une alerte par e-mail. Cela peut se produire lors de l’ajout d’un utilisateur ou d’une utilisatrice par le biais d’un commentaire ou du partage du BAT avec l’utilisateur ou l’utilisatrice.
 
 +++
 
@@ -51,43 +51,43 @@ Lorsqu’un utilisateur ajoute un autre utilisateur à un BAT dans la variable [
 
 +++**Mise à jour de maintenance le 30 mars 2023**
 
-**Impossible de changer la version du BAT lors de l’affichage du BAT**
+**Impossible de changer de version de BAT lors de sa visualisation**
 
 _BAT_
 
-Lorsqu’un utilisateur consulte un BAT dans la variable [!UICONTROL Visionneuse de vérification], et passe à une autre version, la liste déroulante de versions devient désactivée et l’utilisateur ne peut pas revenir à la version d’origine qu’il visualisait ou à une autre version du BAT.
+Lorsqu’un utilisateur ou une utilisatrice consulte un BAT dans le [!UICONTROL Lecteur de vérification] et passe à une autre version, la liste déroulante des versions est désactivée et il est impossible de revenir à la version originale que la personne visualisait ou à une autre version du BAT.
 
-**Erreur 504 lors de l&#39;export des rapports**
+**Erreur 504 lors de l’exportation des rapports**
 
 _Rapports_
 
-Lorsqu’un utilisateur tente d’exporter un rapport avec un grand nombre d’éléments, il voit une erreur 504 et ne peut pas exporter le rapport.
+Lorsqu’un utilisateur ou une utilisatrice tente d’exporter un rapport contenant un grand nombre d’éléments, une erreur 504 s’affiche et il est impossible d’exporter le rapport.
 
-**La mise à jour effectuée au nom d’un utilisateur s’affiche directement à partir de l’utilisateur.**
+**La mise à jour effectuée au nom d’un utilisateur ou d’une utilisatrice s’affiche comme provenant directement de l’utilisateur ou de l’utilisatrice**
 
 _Mises à jour_
 
-Lorsqu’un administrateur est connecté en tant qu’utilisateur et qu’il fait un commentaire, ce commentaire s’affiche directement depuis l’utilisateur, plutôt que depuis l’administrateur au nom de l’utilisateur.
+Lorsqu’une personne de l’administration est connectée en tant qu’utilisateur ou utilisatrice et qu’elle apporte un commentaire, celui-ci s’affiche comme provenant directement de l’utilisateur ou utilisatrice, et non de la personne de l’administration agissant au nom de l’utilisateur ou utilisatrice.
 
 +++
 
 +++**Mise à jour de maintenance le 23 mars 2023**
 
-**[!UICONTROL Résumé] le contenu du panneau est trop large pour le panneau.**
+Le contenu du panneau **[!UICONTROL Résumé] est trop large pour le panneau**
 
 _Documents_
 
-« Lorsqu’un utilisateur ou une utilisatrice consulte le panneau [!UICONTROL Résumé] pour un document, le contenu est trop large pour être affiché dans le panneau. » Le panneau comporte désormais une barre de défilement horizontale qu’il faut faire défiler pour afficher le contenu du panneau [!UICONTROL Résumé]. Le problème est dû au fait que le nom de fichier du document ne s’ajuste pas. Ce problème est limité aux fichiers dont le nom comporte une extension de fichier HTML.
+Lorsqu’un utilisateur ou une utilisatrice consulte le panneau [!UICONTROL Résumé] d’un document, le contenu est trop large pour être affiché dans le panneau. Le panneau comporte désormais une barre de défilement horizontale qu’il faut faire défiler pour afficher le contenu du panneau [!UICONTROL Résumé]. Le problème est dû au fait que le nom de fichier du document ne s’ajuste pas. Ce problème est limité aux fichiers dont le nom comporte une extension de fichier HTML.
 
-**Nouvelle version du lecteur de vérification pour bureau**
+**Nouvelle version du [!UICONTROL lecteur de vérification pour bureau]**
 
 _Vérification_
 
-Pour résoudre un problème de commentaire dans la variable [!UICONTROL Vue de la vérification de l’appli de bureau]Ou, nous avons déployé une nouvelle version de la visionneuse de vérification de l’ordinateur de bureau.
+Pour résoudre un problème de commentaire du [!UICONTROL lecteur de vérification pour bureau], nous en avons déployé une nouvelle version.
 
-Les utilisateurs qui disposent déjà de la variable [!UICONTROL Visionneuse de vérification de poste de travail] Cette mise à jour sera automatiquement activée.
+Les utilisateurs ou utilisatrices qui disposent déjà du [!UICONTROL lecteur de vérification pour bureau] recevront une notification automatique de cette mise à jour.
 
-Les utilisateurs ou utilisatrices peuvent également afficher manuellement la dernière version. Pour plus d’informations, consultez [[!UICONTROL Installation du lecteur de vérification pour bureau]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html).
+Les utilisateurs ou utilisatrices peuvent également télécharger manuellement la dernière version. Pour plus d’informations, consultez [Installation [!UICONTROL du lecteur de vérification pour bureau]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=fr).
 
 * Version précédente : 2.1.22
 * Nouvelle version : 2.1.23

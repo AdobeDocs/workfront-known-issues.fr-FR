@@ -6,7 +6,7 @@ exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -46,7 +46,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Rechercher : [!DNL Workfront] Délai d’expiration de recherche](known-issues-workfront/wf-search-search-times-out.md) | 13 avril 2023 |
+| [Recherche : la recherche  [!DNL Workfront]  expire](known-issues-workfront/wf-search-search-times-out.md) | 13 avril 2023 |
 | [[!DNL Workfront Fusion] : erreur « Échec de vérification de la connexion »](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) | 29 septembre 2022 |
 | Le module [[!DNL Workfront Fusion]: [!DNL Fusion]  renvoie une erreur 404 sans autre information](known-issues-workfront-fusion/fusion-404-error-no-description.md) | 9 septembre 2022 |
 

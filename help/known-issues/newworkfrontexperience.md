@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
 workflow-type: tm+mt
 source-wordcount: '664'
-ht-degree: 77%
+ht-degree: 93%
 
 ---
 
@@ -24,7 +24,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documents : [!UICONTROL Activités de vérification] les options mènent à la page de connexion ;](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 17 mars 2023 |
+| [Documents : les options des [!UICONTROL Activités de vérification] débouchent sur la page de connexion](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 17 mars 2023 |
 
 {style="table-layout:auto"}
 
@@ -34,17 +34,17 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Utilisateurs : Niveau d’accès modifié par le système sans enregistrement de la modification.](known-issues-workfront/wf-users-access-level-is-changed.md) | 13 avril 2023 |
+| [Utilisateurs : modification du niveau d’accès par le système sans enregistrement de la modification](known-issues-workfront/wf-users-access-level-is-changed.md) | 13 avril 2023 |
 | [Modèles : Impossible de sélectionner le modèle à partir de [!UICONTROL Modèles favoris]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 12 avril 2023 |
-| [Bons à tirer : Impossible d’utiliser l’outil Polyline lors de l’ajout d’un commentaire sur un BAT](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 6 avril 2023 |
-| [Bons à tirer : La zone Options de texte affiche &quot;textAnnotations&quot;.](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 6 avril 2023 |
+| [BAT : impossible d’utiliser l’outil Polyligne lors de l’ajout d’un commentaire sur un BAT](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 6 avril 2023 |
+| [BAT : la zone Options de texte affiche « textAnnotations »](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 6 avril 2023 |
 | [Formulaires personnalisés : Problèmes dans les champs de liste déroulante personnalisés](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md) | 5 avril 2023 |
 | [Bons à tirer : Impossible de basculer entre les bons à tirer dans [!UICONTROL Visionneuse de BAT]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | 31 mars 2023 |
-| [Projets : [!UICONTROL Groupe d’accueil] états personnalisés non disponibles lors de la création d’un projet à partir d’un modèle](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 mars 2023 |
-| [Rechercher : [!DNL Workfront] Délai d’expiration de recherche](known-issues-workfront/wf-search-search-times-out.md) | 27 mars 2023 |
+| [Projets : les statuts personnalisés du [!UICONTROL Groupe résidentiel] ne sont pas disponibles lors de la création d’un projet à partir d’un modèle](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 mars 2023 |
+| [Recherche : la recherche  [!DNL Workfront]  expire](known-issues-workfront/wf-search-search-times-out.md) | 27 mars 2023 |
 | [Feuilles de temps : la liste déroulante [!UICONTROL Type d’heure] ne s’ouvre pas](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 23 mars 2023 |
-| [Bons à tirer : L’étape de BAT ne s’active pas lorsque la date limite de l’étape précédente est dépassée.](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 mars 2023 |
-| [Bons à tirer : L’utilisateur est désactivé par le workflow de BAT et reçoit &quot;[!UICONTROL Accès interdit]&quot; lors de l’accès au BAT](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 23 mars 2023 |
+| [BAT : l’étape de BAT ne se déclenche pas lorsque l’échéance de l’étape précédente est dépassée](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 mars 2023 |
+| [BAT : la personne utilisatrice est désactivée du workflow de BAT et le message « [!UICONTROL Accès non autorisé] » s’affiche lors de l’accès au BAT](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 23 mars 2023 |
 | [Filtres : le filtre n’est pas appliqué lors de l’actualisation de la page](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md). | 16 mars 2023 |
 | [Projets : un projet converti à partir d’un problème n’hérite pas des autorisations du portfolio ou du programme.](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 23 février 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Cas d’assistance sur Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 août 2022 |
@@ -57,11 +57,11 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Rechercher : [!DNL Workfront] Délai d’expiration de recherche](known-issues-workfront/wf-search-search-times-out.md) | 13 avril 2023 |
+| [Recherche : la recherche  [!DNL Workfront]  expire](known-issues-workfront/wf-search-search-times-out.md) | 13 avril 2023 |
 | [Filtres : Impossible de partager un filtre depuis un rapport sur un tableau de bord](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md) | 11 avril 2023 |
-| [Bons à tirer : L’outil de mesure n’accepte pas les décimales.](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 27 mars 2023 |
-| [Documents : Erreur 404 lors de l’accès au document lié à partir de [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 23 mars 2023 |
-| [Documents : Problèmes liés à la liste de documents](known-issues-workfront/wf-documents-list-missing-elements.md) | 23 mars 2023 |
+| [BAT : l’outil de mesure n’accepte pas les points décimaux](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 27 mars 2023 |
+| [Documents : erreur 404 lors de l’accès au document lié par  [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 23 mars 2023 |
+| [Documents : problèmes liés à la liste de documents](known-issues-workfront/wf-documents-list-missing-elements.md) | 23 mars 2023 |
 | [Feuilles de temps : la liste déroulante [!UICONTROL Type d’heure] ne s’ouvre pas](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 9 mars 2023 |
 | [Documents : lorsqu’un document est déplacé vers un nouveau projet, les autorisations ne sont pas héritées.](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 7 mars 2023 |
 | [Intégrations : ouverture impossible [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 24 février 2023 |
