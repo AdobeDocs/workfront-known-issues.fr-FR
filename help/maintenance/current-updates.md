@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: bce9d44c3f96d260ebdeec8665d095e8963bc5d0
+source-git-commit: 5291904cc6e086d8f943f2141874df944b64a7bd
 workflow-type: tm+mt
-source-wordcount: '2573'
-ht-degree: 96%
+source-wordcount: '2657'
+ht-degree: 93%
 
 ---
 
@@ -20,6 +20,16 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2023.
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
 
 ## Mises à jour d’avril 2023
+
++++**Mise à jour de maintenance le 17 avril 2023**
+
+**Afficher les nouveaux commentaires en dehors de la zone d’écran visible dans la [!UICONTROL Mises à jour] section des problèmes (nouvelle expérience de commentaires bêta) et [!UICONTROL Objectifs]**
+
+_Mises à jour_
+
+Nous avons ajouté une bannière de notification pour la variable [!UICONTROL Mises à jour] pour informer les utilisateurs de la présence de commentaires plus récents sur un élément qui peuvent se trouver en dehors de la zone visible à l’écran. Cette mise à jour est actuellement disponible dans le [!UICONTROL Mises à jour] la section des objectifs et celle des problèmes lorsque la nouvelle expérience bêta de commentaires a été activée pour les problèmes.
+
++++
 
 +++**Mise à jour de maintenance le 13 avril 2023**
 
