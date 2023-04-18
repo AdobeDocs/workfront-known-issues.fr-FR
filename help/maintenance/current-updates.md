@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 5291904cc6e086d8f943f2141874df944b64a7bd
+source-git-commit: 6cbbb738a49855fb2d0750ca4a8b4b21ba7a2f5b
 workflow-type: tm+mt
-source-wordcount: '2657'
-ht-degree: 93%
+source-wordcount: '2757'
+ht-degree: 92%
 
 ---
 
@@ -20,6 +20,25 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2023.
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
 
 ## Mises à jour d’avril 2023
+
++++**Mise à jour de maintenance (prévue) le 20 avril 2023**
+
+**Problèmes dans les champs de liste déroulante personnalisés**
+
+_Formulaires personnalisés_
+
+Les champs déroulants personnalisés activés en tant que champs à sélection multiple peuvent afficher les problèmes suivants :
+
+* Le &quot;+[!UICONTROL Ajouter]&quot; n’est pas présent lorsque le formulaire n’est pas en mode d’édition.
+* Les champs qui n’ont pas de valeurs affichent un &quot;—[!UICONTROL pas de libellé]—&quot;.
+
+**La zone Options de texte affiche &quot;textAnnotations&quot;.**
+
+_BAT_
+
+Lorsqu’un utilisateur ou une utilisatrice consulte un BAT et souhaite apporter un commentaire, la personne ouvre l’outil Texte et le mot « textAnnotation » s’affiche en regard des options de l’outil. L’outil Texte fonctionne toujours normalement et « textAnnotation » disparaît après la publication du commentaire.
+
++++
 
 +++**Mise à jour de maintenance le 17 avril 2023**
 
