@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 6cbbb738a49855fb2d0750ca4a8b4b21ba7a2f5b
+source-git-commit: 92e59572387e45e24569a8b8781e8487ef848718
 workflow-type: tm+mt
-source-wordcount: '2757'
-ht-degree: 92%
+source-wordcount: '2859'
+ht-degree: 88%
 
 ---
 
@@ -37,6 +37,14 @@ Les champs déroulants personnalisés activés en tant que champs à sélection 
 _BAT_
 
 Lorsqu’un utilisateur ou une utilisatrice consulte un BAT et souhaite apporter un commentaire, la personne ouvre l’outil Texte et le mot « textAnnotation » s’affiche en regard des options de l’outil. L’outil Texte fonctionne toujours normalement et « textAnnotation » disparaît après la publication du commentaire.
+
+## Conserver les images en tant que brouillon lors de l’abandon d’une mise à jour pour les objectifs et les problèmes liés à l’expérience bêta de commentaires
+
+>[!NOTE]
+>
+>Cette fonctionnalité a été ajoutée à Aperçu le 19 avril 2023. Il sera mis en production le 20 avril 2023.
+
+Désormais, lorsque vous quittez la page Mises à jour alors que vous composez un message auquel vous avez joint une image, le message et l’image sont conservés lorsque vous revenez en arrière. Avant cette mise à jour, le commentaire non envoyé était conservé, mais l’image était supprimée. Cette option est disponible dans la section Mises à jour pour connaître les objectifs et les problèmes éventuels lors de l’activation de l’expérience bêta de commentaires.
 
 +++
 
