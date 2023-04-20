@@ -3,10 +3,10 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
+source-git-commit: 51db31ccf47c4219f678c1b11f4ef715aed0c1c6
 workflow-type: tm+mt
-source-wordcount: '631'
-ht-degree: 94%
+source-wordcount: '639'
+ht-degree: 93%
 
 ---
 
@@ -24,6 +24,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Resource Planner]: Impossible d’enregistrer après l’ajout de temps](known-issues-workfront/wf-resource-planner-cannot-save-time.md) | 20 avril 2023 |
 | [Documents : les options des [!UICONTROL Activités de vérification] débouchent sur la page de connexion](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 17 mars 2023 |
 
 {style="table-layout:auto"}
