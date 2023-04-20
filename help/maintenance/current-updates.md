@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
+source-git-commit: 64c3ac3656a8caf38a224bf092c9e755b04fc179
 workflow-type: tm+mt
-source-wordcount: '2945'
-ht-degree: 88%
+source-wordcount: '3021'
+ht-degree: 86%
 
 ---
 
@@ -44,15 +44,25 @@ _BAT_
 
 Lorsqu’un utilisateur ou une utilisatrice consulte un BAT et souhaite apporter un commentaire, la personne ouvre l’outil Texte et le mot « textAnnotation » s’affiche en regard des options de l’outil. L’outil Texte fonctionne toujours normalement et « textAnnotation » disparaît après la publication du commentaire.
 
-## Conserver les images en tant que brouillon lors de l’abandon d’une mise à jour pour les objectifs et les problèmes liés à l’expérience bêta de commentaires
+**Conserver les images en tant que brouillon lors de l’abandon d’une mise à jour pour les objectifs et les problèmes liés à l’expérience bêta de commentaires**
 
 >[!NOTE]
 >
->Cette fonctionnalité a été ajoutée à Aperçu le 19 avril 2023. Il sera bientôt en production.
+>Cette fonctionnalité a été lancée le 19 avril 2023 dans l’aperçu et mise en production le 20 avril 2023.
 
 _Mises à jour_
 
 Désormais, lorsque vous quittez la page Mises à jour alors que vous composez un message auquel vous avez joint une image, le message et l’image sont conservés lorsque vous revenez en arrière. Avant cette mise à jour, le commentaire non envoyé était conservé, mais l’image était supprimée. Cette option est disponible dans la section Mises à jour pour connaître les objectifs et les problèmes éventuels lors de l’activation de l’expérience bêta de commentaires.
+
+**Mises à jour en temps réel et commentaires supprimés dans la section Mises à jour**
+
+>[!NOTE]
+>
+>Cette fonctionnalité a été lancée le 19 avril 2023 dans l’aperçu et mise en production le 20 avril 2023.
+
+_Mises à jour_
+
+Désormais, lorsque quelqu’un ajoute un commentaire ou une réponse, ou supprime un commentaire de la zone Mises à jour, vous pouvez voir le nouveau commentaire ou une indication que le commentaire a été supprimé en temps réel, sans délai. Cette option est disponible dans la section Mises à jour pour connaître les objectifs et les problèmes éventuels lors de l’activation de l’expérience bêta de commentaires.
 
 **Niveau d’accès modifié par le système sans enregistrement de la modification.**
 
