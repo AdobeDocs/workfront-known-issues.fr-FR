@@ -2,9 +2,9 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 92e59572387e45e24569a8b8781e8487ef848718
+source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
 workflow-type: tm+mt
-source-wordcount: '2859'
+source-wordcount: '2945'
 ht-degree: 88%
 
 ---
@@ -32,6 +32,12 @@ Les champs déroulants personnalisés activés en tant que champs à sélection 
 * Le &quot;+[!UICONTROL Ajouter]&quot; n’est pas présent lorsque le formulaire n’est pas en mode d’édition.
 * Les champs qui n’ont pas de valeurs affichent un &quot;—[!UICONTROL pas de libellé]—&quot;.
 
+**Impossible d’utiliser l’outil Polyline lors de l’ajout d’un commentaire sur un BAT**
+
+_BAT_
+
+Lorsqu’un utilisateur ou utilisatrice consulte un BAT dans le lecteur de vérification et tente d’ajouter un commentaire à l’aide de l’outil Polyligne, aucun commentaire n’est apporté au BAT.
+
 **La zone Options de texte affiche &quot;textAnnotations&quot;.**
 
 _BAT_
@@ -42,9 +48,17 @@ Lorsqu’un utilisateur ou une utilisatrice consulte un BAT et souhaite apporter
 
 >[!NOTE]
 >
->Cette fonctionnalité a été ajoutée à Aperçu le 19 avril 2023. Il sera mis en production le 20 avril 2023.
+>Cette fonctionnalité a été ajoutée à Aperçu le 19 avril 2023. Il sera bientôt en production.
+
+_Mises à jour_
 
 Désormais, lorsque vous quittez la page Mises à jour alors que vous composez un message auquel vous avez joint une image, le message et l’image sont conservés lorsque vous revenez en arrière. Avant cette mise à jour, le commentaire non envoyé était conservé, mais l’image était supprimée. Cette option est disponible dans la section Mises à jour pour connaître les objectifs et les problèmes éventuels lors de l’activation de l’expérience bêta de commentaires.
+
+**Niveau d’accès modifié par le système sans enregistrement de la modification.**
+
+_Utilisateurs_
+
+Le système peut modifier le niveau d’accès d’un utilisateur ou d’une utilisatrice de manière imprévisible. Dans ce cas, aucune mise à jour n’est visible et la modification n’apparaît pas dans le journal d’audit. »
 
 +++
 
