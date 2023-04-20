@@ -2,9 +2,9 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 64c3ac3656a8caf38a224bf092c9e755b04fc179
+source-git-commit: 3466245b95c2ab8b6206eec7f42f9bed0b68e325
 workflow-type: tm+mt
-source-wordcount: '3021'
+source-wordcount: '3020'
 ht-degree: 86%
 
 ---
@@ -21,7 +21,7 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 ## Mises à jour d’avril 2023
 
-+++**Mise à jour de maintenance (prévue) le 20 avril 2023**
++++**Mise à jour de maintenance le 20 avril 2023**
 
 **Problèmes dans les champs de liste déroulante personnalisés**
 
