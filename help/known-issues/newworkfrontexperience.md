@@ -3,10 +3,10 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 51db31ccf47c4219f678c1b11f4ef715aed0c1c6
+source-git-commit: 3943ffe8a6dc392e8604dbd2f1a410d2ed11aaf6
 workflow-type: tm+mt
-source-wordcount: '639'
-ht-degree: 93%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -40,7 +40,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [Bons à tirer : Impossible de basculer entre les bons à tirer dans [!UICONTROL Visionneuse de BAT]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | 31 mars 2023 |
 | [Projets : les statuts personnalisés du [!UICONTROL Groupe résidentiel] ne sont pas disponibles lors de la création d’un projet à partir d’un modèle](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 mars 2023 |
 | [Recherche : la recherche  [!DNL Workfront]  expire](known-issues-workfront/wf-search-search-times-out.md) | 27 mars 2023 |
-| [Feuilles de temps : la liste déroulante [!UICONTROL Type d’heure] ne s’ouvre pas](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 23 mars 2023 |
 | [BAT : l’étape de BAT ne se déclenche pas lorsque l’échéance de l’étape précédente est dépassée](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 mars 2023 |
 | [BAT : la personne utilisatrice est désactivée du workflow de BAT et le message « [!UICONTROL Accès non autorisé] » s’affiche lors de l’accès au BAT](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 23 mars 2023 |
 | [Filtres : le filtre n’est pas appliqué lors de l’actualisation de la page](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md). | 16 mars 2023 |
