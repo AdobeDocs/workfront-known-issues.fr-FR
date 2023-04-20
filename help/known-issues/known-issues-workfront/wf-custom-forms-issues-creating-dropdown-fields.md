@@ -2,15 +2,19 @@
 title: "Formulaires personnalisés : Problèmes dans les champs de liste déroulante personnalisés"
 description: "Les champs déroulants personnalisés activés en tant que champs à sélection multiple peuvent afficher les problèmes."
 hidefromtoc: true
-source-git-commit: f3a5fa9f863c670d56c8d8dea929065317dc21d1
+source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '95'
+ht-degree: 10%
 
 ---
 
 
 # Formulaires personnalisés : Problèmes dans les champs de liste déroulante personnalisés
+
+>[!NOTE]
+>
+>Ce problème a été résolu le 20 avril 2023.
 
 Les champs déroulants personnalisés activés en tant que champs à sélection multiple peuvent afficher les problèmes suivants :
 
