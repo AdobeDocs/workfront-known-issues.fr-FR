@@ -1,9 +1,9 @@
 ---
 title: '« Feuille de temps : la feuille de temps n’est pas générée »'
-description: « Les feuilles de temps ne sont pas générées contrairement aux paramètres du profil des feuilles de temps.
+description: « Les feuilles de temps ne sont pas générées contrairement aux paramètres du profil des feuilles de temps. »
 hidefromtoc: true
-source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
-workflow-type: ht
+source-git-commit: 67d7e907af995a40ecad3792584ebf8768ad4570
+workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 100%
 
