@@ -3,8 +3,8 @@ user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
 source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
 workflow-type: tm+mt
-source-wordcount: '1463'
-ht-degree: 94%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -20,12 +20,12 @@ ht-degree: 94%
       + [Bons à tirer : Les validations de BAT verrouillées apparaissent toujours dans la liste de travail](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
       + [[!UICONTROL Resource Planner]: Impossible d’enregistrer après l’ajout de temps](known-issues-workfront/wf-resource-planner-cannot-save-time.md)
       + [Bons à tirer : [!UICONTROL Activité de BAT] onglets ouverts [!UICONTROL Détails du BAT]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
-      + [Modèles : Impossible de sélectionner le modèle à partir de [!UICONTROL Modèles favoris]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
-      + [Filtres : Impossible de partager un filtre depuis un rapport sur un tableau de bord](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
-      + [[!UICONTROL Accueil]: Cliquez sur près de la miniature dans [!UICONTROL Liste de tâches] mène à une page vierge](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md)
-      + [Formulaires personnalisés : Problèmes dans les champs de liste déroulante personnalisés](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md)
-      + [Bons à tirer : Impossible de basculer entre les bons à tirer dans [!UICONTROL Visionneuse de BAT]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)
-      + [Utilisateurs : Impossible de sélectionner [!UICONTROL Type d’heure par défaut] ou [!UICONTROL Types d’heure disponibles]](known-issues-workfront/wf-user-cannot-select-hour-type.md)
+      + [Modèles : impossible de sélectionner un modèle à partir des [!UICONTROL Modèles favoris]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
+      + [Filtres : impossible de partager un filtre d’un rapport sur un tableau de bord](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
+      + [[!UICONTROL Accueil] : le clic près d’une miniature de la [!UICONTROL Liste de travail] aboutit à une page vierge](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md)
+      + [Formulaires personnalisés : problèmes liés aux champs déroulants personnalisés](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md)
+      + [BAT : impossible de changer de BAT dans la [!UICONTROL Visionneuse de BAT]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)
+      + [Utilisateurs et utilisatrices : impossible de sélectionner un [!UICONTROL Type d’heure par défaut] ou un [!UICONTROL Type d’heure disponible]](known-issues-workfront/wf-user-cannot-select-hour-type.md)
       + [Projets : les statuts personnalisés du [!UICONTROL Groupe résidentiel] ne sont pas disponibles lors de la création d’un projet à partir d’un modèle](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
       + [BAT : impossible d’utiliser l’outil Polyligne lors de l’ajout d’un commentaire à un BAT](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)
       + [BAT : l’outil de mesure n’accepte pas les points décimaux](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)

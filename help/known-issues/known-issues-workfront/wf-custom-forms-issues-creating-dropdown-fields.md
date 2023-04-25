@@ -1,25 +1,25 @@
 ---
-title: "Formulaires personnalisés : Problèmes dans les champs de liste déroulante personnalisés"
-description: "Les champs déroulants personnalisés activés en tant que champs à sélection multiple peuvent afficher les problèmes."
+title: 'Formulaires personnalisés : problèmes liés aux champs déroulants personnalisés'
+description: Les champs déroulants personnalisés activés en tant que champs à sélection multiple peuvent afficher les problèmes.
 hidefromtoc: true
-source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
+exl-id: 9dbada55-672a-4afa-b4a5-2b9cda9c0e86
+source-git-commit: a9e0c0cc9bd1d69b22fcf9ef755a715d37ba658d
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 10%
+ht-degree: 86%
 
 ---
 
-
-# Formulaires personnalisés : Problèmes dans les champs de liste déroulante personnalisés
+# Formulaires personnalisés : problèmes liés aux champs déroulants personnalisés
 
 >[!NOTE]
 >
->Ce problème a été résolu le 20 avril 2023.
+>Ce problème a été résolu le 20 avril 2023.
 
-Les champs déroulants personnalisés activés en tant que champs à sélection multiple peuvent afficher les problèmes suivants :
+Les champs déroulants personnalisés activés en tant que champs à sélection multiple peuvent connaître les problèmes suivants :
 
-* Le &quot;+[!UICONTROL Ajouter]&quot; n’est pas présent lorsque le formulaire n’est pas en mode d’édition.
-* Les champs qui n’ont pas de valeurs affichent un &quot;—[!UICONTROL pas de libellé]—&quot;.
+* Le bouton « +[!UICONTROL Ajouter] » est absent lorsque le formulaire n’est pas en mode de modification.
+* Les champs qui ne contiennent pas de valeur affichent l’option « --[!UICONTROL aucun libellé]-- ».
 
 **Solution de contournement**
 
@@ -29,4 +29,3 @@ Utilisez l’une des méthodes suivantes :
 * Définissez une valeur par défaut.
 
 _Premier signalement le 30 mars 2023._
-

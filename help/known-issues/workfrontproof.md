@@ -34,8 +34,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Bons à tirer : [!UICONTROL Activité de BAT] onglets ouverts [!UICONTROL Détails du BAT]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md) | 17 avril 2023 |
-| [Bons à tirer : Impossible de basculer entre les bons à tirer dans [!UICONTROL Visionneuse de BAT]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | 31 mars 2023 |
+| [Bons à tirer : [!UICONTROL Activité de BAT] onglets ouverts [!UICONTROL Détails du BAT]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md) | 17 avril 2023 |
+| [BAT : impossible de changer de BAT dans la [!UICONTROL Visionneuse de BAT]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | 31 mars 2023 |
 | [BAT : l’étape de BAT ne se déclenche pas lorsque l’échéance de l’étape précédente est dépassée](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 mars 2023 |
 | API [[!DNL Workfront Proof]  : erreur « [!UICONTROL Le corps n’est pas un XML valide.] »](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 20 janvier 2023 |
 

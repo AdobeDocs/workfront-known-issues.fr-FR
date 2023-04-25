@@ -4,8 +4,8 @@ description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
 workflow-type: tm+mt
-source-wordcount: '3123'
-ht-degree: 83%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -27,7 +27,7 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 _BAT_
 
-Lorsqu’un utilisateur consulte un BAT dans la variable [!UICONTROL Visionneuse de vérification], et passe à un autre BAT, le bouton BAT du commutateur ne répond plus. L’utilisateur ne peut pas revenir au BAT d’origine qu’il visualisait, ni à un autre BAT.
+Lorsqu’un utilisateur ou une utilisatrice consulte un BAT dans la [!UICONTROL Visionneuse de BAT] et passe à un autre BAT, le bouton de changement de BAT ne répond plus. Il est impossible de revenir au BAT précédemment consulté ou à un autre BAT.
 
 +++
 
@@ -37,7 +37,7 @@ Lorsqu’un utilisateur consulte un BAT dans la variable [!UICONTROL Visionneuse
 
 _[!DNL Workfront Fusion]_
 
-Lorsqu’un utilisateur consulte un BAT dans la variable [!UICONTROL Visionneuse de vérification], et passe à un autre BAT, le bouton BAT du commutateur ne répond plus. L’utilisateur ne peut pas revenir au BAT d’origine qu’il visualisait, ni à un autre BAT.
+Lorsqu’un utilisateur ou une utilisatrice consulte un BAT dans la [!UICONTROL Visionneuse de BAT] et passe à un autre BAT, le bouton de changement de BAT ne répond plus. Il est impossible de revenir au BAT précédemment consulté ou à un autre BAT.
 
 +++
 
@@ -47,10 +47,10 @@ Lorsqu’un utilisateur consulte un BAT dans la variable [!UICONTROL Visionneuse
 
 _Formulaires personnalisés_
 
-Les champs déroulants personnalisés activés en tant que champs à sélection multiple peuvent afficher les problèmes suivants :
+Les champs déroulants personnalisés activés en tant que champs à sélection multiple peuvent connaître les problèmes suivants :
 
-* Le &quot;+[!UICONTROL Ajouter]&quot; n’est pas présent lorsque le formulaire n’est pas en mode d’édition.
-* Les champs qui n’ont pas de valeurs affichent un &quot;—[!UICONTROL pas de libellé]—&quot;.
+* Le bouton « +[!UICONTROL Ajouter] » est absent lorsque le formulaire n’est pas en mode de modification.
+* Les champs qui ne contiennent pas de valeur affichent l’option « --[!UICONTROL aucun libellé]-- ».
 
 **Impossible d’utiliser l’outil Polyline lors de l’ajout d’un commentaire sur un BAT**
 
@@ -86,7 +86,7 @@ Désormais, lorsque quelqu’un ajoute un commentaire ou une réponse, ou suppri
 
 **Niveau d’accès modifié par le système sans enregistrement de la modification.**
 
-_Utilisateurs_
+_Utilisateurs et utilisatrices_
 
 Le système peut modifier le niveau d’accès d’un utilisateur ou d’une utilisatrice de manière imprévisible. Dans ce cas, aucune mise à jour n’est visible et la modification n’apparaît pas dans le journal d’audit. »
 
@@ -104,23 +104,23 @@ Nous avons ajouté une bannière de notification pour la variable [!UICONTROL Mi
 
 +++**Mise à jour de maintenance le 13 avril 2023**
 
-**Les filtres ne sont pas appliqués à la liste des requêtes**
+**Les filtres ne sont pas appliqués à la liste des demandes**
 
 _Demandes_
 
-Lorsqu’un utilisateur affiche une liste de requêtes auxquelles un filtre est appliqué, la liste inclut les requêtes que le filtre doit exclure.
+Lorsqu’un utilisateur ou une utilisatrice affiche une liste de demandes qui comporte un filtre, celle-ci inclut les demandes que le filtre doit exclure.
 
-**Impossible de sélectionner [!UICONTROL Type d’heure par défaut] ou [!UICONTROL Types d’heure disponibles]**
+**Impossible de sélectionner un [!UICONTROL Type d’heure par défaut] ou un [!UICONTROL Type d’heure disponible]**
 
-_Utilisateurs_
+_Utilisateurs et utilisatrices_
 
-Lorsqu’un administrateur modifie un utilisateur et tente de sélectionner une [!UICONTROL Type d’heure par défaut] ou [!UICONTROL Type d’heure disponible], ils voient que les listes déroulantes de ces champs sont désactivées et qu’ils ne peuvent pas sélectionner de types d’heure.
+Lorsque l’administration modifie un utilisateur ou une utilisatrice et tente de sélectionner un [!UICONTROL Type d’heure par défaut] ou un [!UICONTROL Type d’heure disponible], les listes déroulantes de ces champs sont désactivées et le type d’heure ne peut pas être sélectionné.
 
 +++
 
 +++**Mise à jour de maintenance le 6 avril 2023**
 
-**Les listes déroulantes ne s’ouvrent pas lorsqu’un utilisateur est ajouté à un BAT**
+**Les menus déroulants ne s’ouvrent pas lorsqu’un utilisateur ou une utilisatrice est ajouté à un BAT**
 
 _BAT_
 

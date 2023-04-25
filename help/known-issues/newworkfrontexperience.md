@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
 workflow-type: tm+mt
 source-wordcount: '651'
-ht-degree: 90%
+ht-degree: 95%
 
 ---
 
@@ -24,7 +24,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Feuilles de temps : Le filtre n’est pas appliqué lors de l’actualisation de la page.](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md) | 25 avril 2023 |
+| [Feuilles de temps : Le filtre n’est pas appliqué lors de l’actualisation de la page.](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md) | 25 avril 2023 |
 | [Bons à tirer : Les validations de BAT verrouillées apparaissent toujours dans la liste de travail](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 21 avril 2023 |
 | [[!UICONTROL Resource Planner]: Impossible d’enregistrer après l’ajout de temps](known-issues-workfront/wf-resource-planner-cannot-save-time.md) | 20 avril 2023 |
 
@@ -36,9 +36,9 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Bons à tirer : [!UICONTROL Activité de BAT] onglets ouverts [!UICONTROL Détails du BAT]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md) | 17 avril 2023 |
-| [Modèles : Impossible de sélectionner le modèle à partir de [!UICONTROL Modèles favoris]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 12 avril 2023 |
-| [Bons à tirer : Impossible de basculer entre les bons à tirer dans [!UICONTROL Visionneuse de BAT]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | 31 mars 2023 |
+| [Bons à tirer : [!UICONTROL Activité de BAT] onglets ouverts [!UICONTROL Détails du BAT]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md) | 17 avril 2023 |
+| [Modèles : impossible de sélectionner le modèle à partir des [!UICONTROL Modèles favoris]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 12 avril 2023 |
+| [BAT : impossible de changer de BAT dans la [!UICONTROL Visionneuse de BAT]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | 31 mars 2023 |
 | [Projets : les statuts personnalisés du [!UICONTROL Groupe résidentiel] ne sont pas disponibles lors de la création d’un projet à partir d’un modèle](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 mars 2023 |
 | [Recherche : la recherche  [!DNL Workfront]  expire](known-issues-workfront/wf-search-search-times-out.md) | 27 mars 2023 |
 | [BAT : l’étape de BAT ne se déclenche pas lorsque l’échéance de l’étape précédente est dépassée](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 mars 2023 |
@@ -56,8 +56,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
 | [Documents : les options des [!UICONTROL Activités de vérification] débouchent sur la page de connexion](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 21 avril 2023 |
-| [Recherche : la recherche  [!DNL Workfront]  expire](known-issues-workfront/wf-search-search-times-out.md) | 13 avril 2023 |
-| [Filtres : Impossible de partager un filtre depuis un rapport sur un tableau de bord](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md) | 11 avril 2023 |
+| [Recherche : la recherche  [!DNL Workfront]  expire](known-issues-workfront/wf-search-search-times-out.md) | 13 avril 2023 |
+| [Filtres : impossible de partager un filtre d’un rapport sur un tableau de bord](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md) | 11 avril 2023 |
 | [BAT : l’outil de mesure n’accepte pas les points décimaux](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 27 mars 2023 |
 | [Documents : erreur 404 lors de l’accès au document lié par  [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 23 mars 2023 |
 | [Documents : problèmes liés à la liste de documents](known-issues-workfront/wf-documents-list-missing-elements.md) | 23 mars 2023 |
