@@ -1,26 +1,26 @@
 ---
-title: "Filtres : Impossible de partager un filtre depuis un rapport sur un tableau de bord"
-description: "Lorsqu’un utilisateur consulte un rapport sur un tableau de bord et tente de partager un filtre à partir de ce rapport, il ne peut pas partager le filtre. Si vous cliquez sur les trois points, le tableau de bord passe au rapport suivant. Lorsque l’utilisateur fait défiler l’écran jusqu’au rapport prévu, il s’aperçoit que l’option Partager n’a pas été ouverte."
+title: '« Filtres : impossible de partager un filtre d’un rapport sur un tableau de bord »'
+description: « Lorsqu’un utilisateur ou une utilisatrice consulte un rapport sur un tableau de bord et tente de partager un filtre du rapport, le filtre ne peut pas être partagé. Cliquer sur les trois points de suspension fait passer le tableau de bord au rapport suivant. Lorsque l’utilisateur ou l’utilisatrice fait défiler l’écran pour revenir au rapport souhaité, il ou elle s’aperçoit que l’option Partager n’a pas été ouverte. »
 hidefromtoc: true
 source-git-commit: ddce44ac49df4795b17195a8672e4240945398be
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '187'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# Filtres : Impossible de partager un filtre depuis un rapport sur un tableau de bord
+# Filtres : impossible de partager un filtre d’un rapport sur un tableau de bord
 
-Lorsqu’un utilisateur consulte un rapport sur un tableau de bord et tente de partager un filtre à partir de ce rapport, il ne peut pas partager le filtre. Si vous cliquez sur les trois points, le tableau de bord passe au rapport suivant. Lorsque l’utilisateur fait défiler l’écran jusqu’au rapport prévu, il s’aperçoit que la variable [!UICONTROL Partager] n’a pas été ouverte.
+Lorsqu’un utilisateur ou une utilisatrice consulte un rapport sur un tableau de bord et tente de partager un filtre du rapport, celui-ci ne peut pas être partagé. Cliquer sur les trois points de suspension fait passer le tableau de bord au rapport suivant. Lorsque l’utilisateur ou l’utilisatrice fait défiler l’écran pour revenir au rapport souhaité, il ou elle s’aperçoit que l’option [!UICONTROL Partager] n’a pas été ouverte.
 
 **Solution de contournement**
 
 Utilisez l’une des méthodes suivantes :
 
-* Ouvrez le rapport, puis partagez le filtre depuis le rapport.
-* Accédez à une liste de l’objet représenté par le rapport, puis partagez le filtre de cette liste.
-* Partagez le filtre à partir du [!UICONTROL Configuration] > [!UICONTROL Filtres] zone.
+* Ouvrez le rapport, puis partagez le filtre directement dans le rapport.
+* Accédez à une liste de l’objet que le rapport représente, puis partagez le filtre à partir de cette liste.
+* Partagez le filtre à partir de la zone [!UICONTROL Configuration] > [!UICONTROL Filtres].
 
 _Premier signalement le 14 mars 2023._
 
