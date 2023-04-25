@@ -1,22 +1,22 @@
 ---
-title: "Utilisateurs : Impossible de sélectionner le type d’heure par défaut ou les types d’heure disponibles"
-description: '"Lorsqu’un administrateur modifie un utilisateur et tente de sélectionner un type d’heure par défaut ou d’heure disponible, il voit que les listes déroulantes de ces champs sont désactivées et il ne peut pas sélectionner de types d’heure.  »'
+title: '« Utilisateurs et utilisatrices : impossible de sélectionner un type d’heure par défaut ou un type d’heure disponible »'
+description: « Lorsque l’administration modifie un utilisateur ou une utilisatrice et tente de sélectionner un type d’heure par défaut ou un type d’heure disponible, les listes déroulantes de ces champs sont désactivées et le type d’heure ne peut pas être sélectionné.  »
 hidefromtoc: true
 source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
-# Utilisateurs : Impossible de sélectionner [!UICONTROL Type d’heure par défaut] ou [!UICONTROL Types d’heure disponibles]
+# Utilisateurs et utilisatrices : impossible de sélectionner un [!UICONTROL Type d’heure par défaut] ou un [!UICONTROL Type d’heure disponible]
 
 >[!NOTE]
 >
->Ce problème a été résolu le 13 avril 2023.
+>Ce problème a été résolu le 13 avril 2023.
 
-Lorsqu’un administrateur modifie un utilisateur et tente de sélectionner une [!UICONTROL Type d’heure par défaut] ou [!UICONTROL Type d’heure disponible], ils voient que les listes déroulantes de ces champs sont désactivées et qu’ils ne peuvent pas sélectionner de types d’heure.
+Lorsque l’administration modifie un utilisateur ou une utilisatrice et tente de sélectionner un [!UICONTROL Type d’heure par défaut] ou un [!UICONTROL Type d’heure disponible], les listes déroulantes de ces champs sont désactivées et le type d’heure ne peut pas être sélectionné.
 
 _Premier signalement le 30 mars 2023._
 
