@@ -3,9 +3,9 @@ title: '« Rapports : le tri par en-tête de colonne revient au tri précéden
 description: « Lorsqu’un utilisateur ou une utilisatrice tente de trier un rapport en cliquant sur l’en-tête d’une colonne, le rapport procède au tri en fonction de la colonne, puis revient rapidement au tri précédent. »
 hidefromtoc: true
 source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '93'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->Ce problème a été résolu le 6 avril 2023.
+>Ce problème a été résolu le 6 avril 2023.
 
 Lorsqu’un utilisateur ou une utilisatrice tente de trier un rapport en cliquant sur l’en-tête d’une colonne, le rapport procède au tri en fonction de la colonne, puis revient rapidement au tri précédent.
 
