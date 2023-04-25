@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 3466245b95c2ab8b6206eec7f42f9bed0b68e325
+source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
 workflow-type: tm+mt
-source-wordcount: '3020'
-ht-degree: 86%
+source-wordcount: '3123'
+ht-degree: 83%
 
 ---
 
@@ -20,6 +20,26 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2023.
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
 
 ## Mises à jour d’avril 2023
+
++++**Mise à jour de maintenance (prévue) le 27 avril 2023**
+
+**Impossible de basculer entre les bons à tirer dans [!UICONTROL Visionneuse de BAT]**
+
+_BAT_
+
+Lorsqu’un utilisateur consulte un BAT dans la variable [!UICONTROL Visionneuse de vérification], et passe à un autre BAT, le bouton BAT du commutateur ne répond plus. L’utilisateur ne peut pas revenir au BAT d’origine qu’il visualisait, ni à un autre BAT.
+
++++
+
++++**[!DNL Adobe Workfront Fusion]Mise à jour de maintenance le 25 avril 2023**
+
+ Les liens d’aide in-app de **[!DNL Fusion]ne mènent pas à des pages d’aide spécifiques**
+
+_[!DNL Workfront Fusion]_
+
+Lorsqu’un utilisateur consulte un BAT dans la variable [!UICONTROL Visionneuse de vérification], et passe à un autre BAT, le bouton BAT du commutateur ne répond plus. L’utilisateur ne peut pas revenir au BAT d’origine qu’il visualisait, ni à un autre BAT.
+
++++
 
 +++**Mise à jour de maintenance le 20 avril 2023**
 
