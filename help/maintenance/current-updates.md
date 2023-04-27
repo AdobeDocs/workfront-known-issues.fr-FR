@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
+source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '3167'
+ht-degree: 89%
 
 ---
 
@@ -21,13 +21,19 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 ## Mises à jour d’avril 2023
 
-+++**Mise à jour de maintenance (prévue) le 27 avril 2023**
++++**Mise à jour de maintenance le 27 avril 2023**
 
 **Impossible de basculer entre les bons à tirer dans [!UICONTROL Visionneuse de BAT]**
 
 _BAT_
 
 Lorsqu’un utilisateur ou une utilisatrice consulte un BAT dans la [!UICONTROL Visionneuse de BAT] et passe à un autre BAT, le bouton de changement de BAT ne répond plus. Il est impossible de revenir au BAT précédemment consulté ou à un autre BAT.
+
+**Modifier les images jointes lors de la modification d’un commentaire**
+
+_Mises à jour_
+
+Vous pouvez désormais modifier l’image jointe à un commentaire lorsque vous modifiez un commentaire. Cette option est disponible dans la section Mises à jour des objectifs de Workfront et dans les problèmes liés à l’activation de l’expérience bêta de commentaires.
 
 +++
 
