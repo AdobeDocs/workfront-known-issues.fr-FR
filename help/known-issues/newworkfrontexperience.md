@@ -3,10 +3,10 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
+source-git-commit: 9947478d3699657386fef218be278fb3ec95e187
 workflow-type: tm+mt
-source-wordcount: '601'
-ht-degree: 95%
+source-wordcount: '613'
+ht-degree: 93%
 
 ---
 
@@ -35,6 +35,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Tâches : Aucun message d’erreur lors de la réorganisation de la tâche dans [!UICONTROL En attente de validation] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 3 mai 2023 |
 | [Bons à tirer : [!UICONTROL Activité de BAT] onglets ouverts [!UICONTROL Détails du BAT]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md) | 17 avril 2023 |
 | [Modèles : impossible de sélectionner le modèle à partir des [!UICONTROL Modèles favoris]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 12 avril 2023 |
 | [Projets : les statuts personnalisés du [!UICONTROL Groupe résidentiel] ne sont pas disponibles lors de la création d’un projet à partir d’un modèle](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 mars 2023 |

@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
-source-git-commit: f63f33c4038da13d36d522754b9174b799c48599
+source-git-commit: 9947478d3699657386fef218be278fb3ec95e187
 workflow-type: tm+mt
-source-wordcount: '1125'
-ht-degree: 96%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Tâches : Aucun message d’erreur lors de la réorganisation de la tâche dans [!UICONTROL En attente de validation] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
       + [Feuilles de temps : Le filtre n’est pas appliqué lors de l’actualisation de la page.](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
       + [Bons à tirer : Les validations de BAT verrouillées apparaissent toujours dans la liste de travail](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
       + [[!UICONTROL Resource Planner]: Impossible d’enregistrer après l’ajout de temps](known-issues-workfront/wf-resource-planner-cannot-save-time.md)
