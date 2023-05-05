@@ -3,10 +3,10 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
+source-git-commit: b52c358bc47dbfa9c3f4bb31998651614b88f76a
 workflow-type: tm+mt
-source-wordcount: '564'
-ht-degree: 96%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -34,6 +34,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Projets : Erreur lors de l’utilisation de [!UICONTROL Milestone] view](known-issues-workfront/wf-projects-error-in-milestone-view.md) | 5 mai 2023 |
 | [Bons à tirer : Les validations de BAT verrouillées apparaissent toujours dans la liste de travail](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4 mai 2023 |
 | [Tâches : Aucun message d’erreur lors de la réorganisation de la tâche dans [!UICONTROL En attente de validation] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 3 mai 2023 |
 | [Projets : les statuts personnalisés du [!UICONTROL Groupe résidentiel] ne sont pas disponibles lors de la création d’un projet à partir d’un modèle](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 mars 2023 |
