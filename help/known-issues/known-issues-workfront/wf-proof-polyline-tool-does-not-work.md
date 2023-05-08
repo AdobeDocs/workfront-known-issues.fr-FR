@@ -1,14 +1,14 @@
 ---
-title: '« BAT : impossible d’utiliser l’outil Polyligne lors de l’ajout d’un commentaire sur un BAT »'
-description: « Lorsqu’un utilisateur ou utilisatrice consulte un BAT dans le lecteur de vérification et tente d’ajouter un commentaire à l’aide de l’outil Polyligne, aucun commentaire n’est apporté au BAT.  »
+title: 'BAT : impossible d’utiliser l’outil Polyligne lors de l’ajout d’un commentaire sur un BAT'
+description: 'Lorsqu’un utilisateur ou utilisatrice consulte un BAT dans la visionneuse de relecture et tente d’ajouter un commentaire à l’aide de l’outil Polyligne, aucun commentaire n’est apporté au BAT. '
 hidefromtoc: true
-source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
-workflow-type: tm+mt
+exl-id: 1cd2209f-c430-40ae-ad78-41f4a558beba
+source-git-commit: a9e0c0cc9bd1d69b22fcf9ef755a715d37ba658d
+workflow-type: ht
 source-wordcount: '101'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
-
 
 # BAT : impossible d’utiliser l’outil Polyligne lors de l’ajout d’un commentaire à un BAT
 
@@ -16,7 +16,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->Ce problème a été résolu le 20 avril 2023.
+>Ce problème a été résolu le 20 avril 2023.
 
 Lorsqu’un utilisateur ou utilisatrice consulte un BAT dans le lecteur de vérification et tente d’ajouter un commentaire à l’aide de l’outil Polyligne, aucun commentaire n’est apporté au BAT.
 
@@ -25,4 +25,3 @@ Lorsqu’un utilisateur ou utilisatrice consulte un BAT dans le lecteur de véri
 D’autres outils permettent d’apporter des commentaires.
 
 _Premier signalement le 24 mars 2023._
-
