@@ -4,8 +4,8 @@ description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 64a21b5ac15ffb068ae2e45a13cab91977d1608d
 workflow-type: tm+mt
-source-wordcount: '3245'
-ht-degree: 89%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -35,7 +35,7 @@ Lorsqu’un utilisateur ou une utilisatrice tente de sélectionner un modèle da
 
 +++**Mise à jour de maintenance le 27 avril 2023**
 
-**Impossible de basculer entre les bons à tirer dans [!UICONTROL Visionneuse de BAT]**
+**Impossible de changer de BAT dans la [!UICONTROL visionneuse de BAT]**
 
 _BAT_
 
@@ -49,9 +49,9 @@ Vous pouvez désormais modifier l’image jointe à un commentaire lorsque vous 
 
 +++
 
-+++**[!DNL Adobe Workfront Fusion]Mise à jour de maintenance le 25 avril 2023**
++++Mise à jour de maintenance de **[!DNL Adobe Workfront Fusion]le 25 avril 2023**
 
- Les liens d’aide in-app de **[!DNL Fusion]ne mènent pas à des pages d’aide spécifiques**
+Les liens d’aide in-app de **[!DNL Fusion]ne mènent pas à des pages d’aide spécifiques**.
 
 _[!DNL Workfront Fusion]_
 
@@ -61,7 +61,7 @@ Lorsqu’un utilisateur ou une utilisatrice consulte un BAT dans la [!UICONTROL 
 
 +++**Mise à jour de maintenance le 20 avril 2023**
 
-**Problèmes dans les champs de liste déroulante personnalisés**
+**Problèmes liés aux champs de liste déroulante personnalisés**
 
 _Formulaires personnalisés_
 
@@ -70,39 +70,39 @@ Les champs déroulants personnalisés activés en tant que champs à sélection 
 * Le bouton « +[!UICONTROL Ajouter] » est absent lorsque le formulaire n’est pas en mode de modification.
 * Les champs qui ne contiennent pas de valeur affichent l’option « --[!UICONTROL aucun libellé]-- ».
 
-**Impossible d’utiliser l’outil Polyline lors de l’ajout d’un commentaire sur un BAT**
+**Impossible d’utiliser l’outil Polyligne lors de l’ajout d’un commentaire sur un BAT**
 
 _BAT_
 
-Lorsqu’un utilisateur ou utilisatrice consulte un BAT dans le lecteur de vérification et tente d’ajouter un commentaire à l’aide de l’outil Polyligne, aucun commentaire n’est apporté au BAT.
+Lorsqu’un utilisateur ou utilisatrice consulte un BAT dans la visionneuse de relecture et tente d’ajouter un commentaire à l’aide de l’outil Polyligne, aucun commentaire n’est apporté au BAT.
 
-**La zone Options de texte affiche &quot;textAnnotations&quot;.**
+**La zone Options de texte affiche « textAnnotations »**
 
 _BAT_
 
 Lorsqu’un utilisateur ou une utilisatrice consulte un BAT et souhaite apporter un commentaire, la personne ouvre l’outil Texte et le mot « textAnnotation » s’affiche en regard des options de l’outil. L’outil Texte fonctionne toujours normalement et « textAnnotation » disparaît après la publication du commentaire.
 
-**Conserver les images en tant que brouillon lors de l’abandon d’une mise à jour pour les objectifs et les problèmes liés à l’expérience bêta de commentaires**
+**Conserver les images sous format brouillon lors de l’abandon d’une mise à jour pour les objectifs et les problèmes liés à l’expérience bêta de commentaires**
 
 >[!NOTE]
 >
->Cette fonctionnalité a été lancée le 19 avril 2023 dans l’aperçu et mise en production le 20 avril 2023.
+>Cette fonctionnalité a été présentée en aperçu le 19 avril 2023 et mise en production le 20 avril 2023.
 
 _Mises à jour_
 
-Désormais, lorsque vous quittez la page Mises à jour alors que vous composez un message auquel vous avez joint une image, le message et l’image sont conservés lorsque vous revenez en arrière. Avant cette mise à jour, le commentaire non envoyé était conservé, mais l’image était supprimée. Cette option est disponible dans la section Mises à jour pour connaître les objectifs et les problèmes éventuels lors de l’activation de l’expérience bêta de commentaires.
+Désormais, lorsque vous quittez la page Mises à jour alors que vous composez un message auquel vous avez joint une image, le message et l’image sont conservés lorsque vous revenez en arrière. Avant cette mise à jour, le commentaire non envoyé était conservé, mais l’image était supprimée. Cette fonctionnalité est disponible dans la section Mises à jour pour les objectifs et les problèmes éventuels lors de l’activation de l’expérience bêta de commentaires.
 
 **Mises à jour en temps réel et commentaires supprimés dans la section Mises à jour**
 
 >[!NOTE]
 >
->Cette fonctionnalité a été lancée le 19 avril 2023 dans l’aperçu et mise en production le 20 avril 2023.
+>Cette fonctionnalité a été présentée en aperçu le 19 avril 2023 et mise en production le 20 avril 2023.
 
 _Mises à jour_
 
-Désormais, lorsque quelqu’un ajoute un commentaire ou une réponse, ou supprime un commentaire de la zone Mises à jour, vous pouvez voir le nouveau commentaire ou une indication que le commentaire a été supprimé en temps réel, sans délai. Cette option est disponible dans la section Mises à jour pour connaître les objectifs et les problèmes éventuels lors de l’activation de l’expérience bêta de commentaires.
+Désormais, lorsque quelqu’un publie un commentaire ou une réponse, ou supprime un commentaire de la zone Mises à jour, le nouveau commentaire ou une indication que le commentaire a été supprimé s’affiche en temps réel, sans délai. Cette fonctionnalité est disponible dans la section Mises à jour pour les objectifs et les problèmes éventuels lors de l’activation de l’expérience bêta de commentaires.
 
-**Niveau d’accès modifié par le système sans enregistrement de la modification.**
+**Modification du niveau d’accès par le système sans enregistrement de la modification**
 
 _Utilisateurs et utilisatrices_
 
@@ -112,11 +112,11 @@ Le système peut modifier le niveau d’accès d’un utilisateur ou d’une uti
 
 +++**Mise à jour de maintenance le 17 avril 2023**
 
-**Afficher les nouveaux commentaires en dehors de la zone d’écran visible dans la [!UICONTROL Mises à jour] section des problèmes (nouvelle expérience de commentaires bêta) et [!UICONTROL Objectifs]**
+**Afficher les nouveaux commentaires en dehors de la zone d’écran visible dans la section [!UICONTROL Mises à jour] des problèmes (nouvelle expérience de commentaires bêta) et [!UICONTROL Objectifs]**
 
 _Mises à jour_
 
-Nous avons ajouté une bannière de notification pour la variable [!UICONTROL Mises à jour] pour informer les utilisateurs de la présence de commentaires plus récents sur un élément qui peuvent se trouver en dehors de la zone visible à l’écran. Cette mise à jour est actuellement disponible dans le [!UICONTROL Mises à jour] la section des objectifs et celle des problèmes lorsque la nouvelle expérience bêta de commentaires a été activée pour les problèmes.
+Nous avons ajouté une bannière de notification pour la section [!UICONTROL Mises à jour] afin d’informer les utilisateurs et utilisatrices de la publication de commentaires sur un élément, au cas où ceux-ci se trouveraient en dehors de la zone visible à l’écran. Cette mise à jour est actuellement disponible dans la section [!UICONTROL Mises à jour] pour les objectifs et les problèmes éventuels lorsque la nouvelle expérience bêta de commentaires a été activée pour résoudre les problèmes.
 
 +++
 

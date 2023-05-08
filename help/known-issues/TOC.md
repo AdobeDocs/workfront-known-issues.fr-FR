@@ -3,8 +3,8 @@ user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
 source-git-commit: b52c358bc47dbfa9c3f4bb31998651614b88f76a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1142'
+ht-degree: 98%
 
 ---
 
@@ -18,10 +18,10 @@ ht-degree: 0%
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
       + [Projets : Erreur lors de l’utilisation de [!UICONTROL Milestone] view](known-issues-workfront/wf-projects-error-in-milestone-view.md)
       + [Tâches : Aucun message d’erreur lors de la réorganisation de la tâche dans [!UICONTROL En attente de validation] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
-      + [Feuilles de temps : Le filtre n’est pas appliqué lors de l’actualisation de la page.](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
-      + [Bons à tirer : Les validations de BAT verrouillées apparaissent toujours dans la liste de travail](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
-      + [[!UICONTROL Resource Planner]: Impossible d’enregistrer après l’ajout de temps](known-issues-workfront/wf-resource-planner-cannot-save-time.md)
-      + [Bons à tirer : [!UICONTROL Activité de BAT] onglets ouverts [!UICONTROL Détails du BAT]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
+      + [Feuilles de temps : le filtre n’est pas appliqué lors de l’actualisation de la page.](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
+      + [BAT : les validations de BAT verrouillées apparaissent toujours dans la liste de travail.](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
+      + [[!UICONTROL Planificateur de ressources] : impossible d’effectuer un enregistrement après l’ajout de temps.](known-issues-workfront/wf-resource-planner-cannot-save-time.md)
+      + [BAT : l’onglet [!UICONTROL Activité du BAT] ouvre [!UICONTROL Détails du BAT].](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
       + [Modèles : impossible de sélectionner un modèle à partir des [!UICONTROL Modèles favoris]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [Filtres : impossible de partager un filtre d’un rapport sur un tableau de bord](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
       + [[!UICONTROL Accueil] : le clic près d’une miniature de la [!UICONTROL Liste de travail] aboutit à une page vierge](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md)
