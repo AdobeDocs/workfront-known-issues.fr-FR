@@ -1,16 +1,16 @@
 ---
-title: '« Documents : les options des activités de vérification débouchent sur la page de connexion »'
-description: « Lorsqu’un utilisateur ou une utilisatrice consulte la page Détails du document et clique sur une option dans le menu Activités de vérification, la personne est redirigée vers une page de connexion au lieu de la page de destination prévue. »
+title: 'Documents : les options des Activités de relecture débouchent sur la page de connexion'
+description: Lorsqu’un utilisateur ou une utilisatrice consulte la page des Détails du document et clique sur une option du menu Activités de relecture, la personne est redirigée vers une page de connexion au lieu de la page de destination prévue.
 hidefromtoc: true
-source-git-commit: 84a36d6747a47a6e0884eb053b16f5e6dbfb9c20
-workflow-type: tm+mt
+exl-id: 637fa798-9d23-497c-a50b-e40deaa4fd61
+source-git-commit: a9e0c0cc9bd1d69b22fcf9ef755a715d37ba658d
+workflow-type: ht
 source-wordcount: '114'
 ht-degree: 100%
 
 ---
 
-
-# Documents : les options des [!UICONTROL Activités de vérification] débouchent sur la page de connexion
+# Documents : les options des [!UICONTROL Activités de relecture] débouchent sur la page de connexion
 
 <!--This article is on WF and WFP TOCs-->
 
@@ -21,4 +21,3 @@ ht-degree: 100%
 Lorsqu’un utilisateur ou une utilisatrice consulte la page des [!UICONTROL Détails du document] et clique sur une option du menu [!UICONTROL Activités de vérification], la personne est redirigée vers une page de connexion au lieu de la page de destination prévue.
 
 _Premier signalement le 3 mars 2023._
-
