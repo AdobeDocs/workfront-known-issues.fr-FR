@@ -3,7 +3,7 @@ title: '« Formulaires personnalisés : erreur Oups lors de la configuration d
 description: Lorsqu’un utilisateur crée ou modifie le champ calculé d’un formulaire personnalisé et inclut un champ personnalisé dans l’expression du champ calculé, l’expression est considérée comme non valide. Le bouton Enregistrer est désactivé et l’utilisateur ou l’utilisatrice ne peut pas quitter le champ personnalisé. De plus, l’utilisateur ou l’utilisatrice voit un message Oups sous le champ.
 hidefromtoc: true
 exl-id: e499c680-2fdf-40cb-a1fa-b0d4ae799ad2
-source-git-commit: 25b7ec9e953eca2f439a2625ba4ca58514703d1e
+source-git-commit: 4cc779627205b6b66876e6e7323cdf0ce94477b6
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 100%
@@ -11,6 +11,8 @@ ht-degree: 100%
 ---
 
 # Formulaires personnalisés : erreur « [!UICONTROL Oups] » lors de la configuration d’un champ calculé
+
+<!--Do not delete without approval from Alex Beach-->
 
 >[!NOTE]
 >
