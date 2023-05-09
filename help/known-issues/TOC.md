@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
-source-git-commit: 50664b35f7edcd9064f0055ea3988a41b00621d0
+source-git-commit: 25b7ec9e953eca2f439a2625ba4ca58514703d1e
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1161'
+ht-degree: 98%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Formulaires personnalisés : erreur « [!UICONTROL Oups] » lors de la configuration d’un champ calculé](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
       + [Rapports : le tri par en-tête de colonne revient au tri précédent.](known-issues-workfront/wf-reports-sorting-not-applied.md)
       + [Projets : Erreur lors de l’utilisation de [!UICONTROL Milestone] view](known-issues-workfront/wf-projects-error-in-milestone-view.md)
       + [Tâches : Aucun message d’erreur lors de la réorganisation de la tâche dans [!UICONTROL En attente de validation] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
