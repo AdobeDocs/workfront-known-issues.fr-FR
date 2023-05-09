@@ -3,7 +3,7 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: b52c358bc47dbfa9c3f4bb31998651614b88f76a
+source-git-commit: 50664b35f7edcd9064f0055ea3988a41b00621d0
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| Aucun |  |
+| [Rapports : le tri par en-tête de colonne revient au tri précédent](known-issues-workfront/wf-reports-sorting-not-applied.md). | 9 mai 2023 |
 
 {style="table-layout:auto"}
 

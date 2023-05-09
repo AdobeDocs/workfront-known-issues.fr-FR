@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 64a21b5ac15ffb068ae2e45a13cab91977d1608d
+source-git-commit: 50664b35f7edcd9064f0055ea3988a41b00621d0
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '3456'
+ht-degree: 96%
 
 ---
 
@@ -20,6 +20,52 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2023.
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
 
 ## Mises à jour de mai 2023
+
++++**Mise à jour de maintenance (prévue) le 11 mai 2023**
+
+**[!DNL Workfront]Délai d’expiration de recherche**
+
+_Rechercher_
+
+La recherche [!DNL Workfront] expire. La recherche peut renvoyer quelques résultats ou aucun.
+
+Ce problème affecte également les fonctionnalités du module [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL Recherche].
+
+**Impossible de changer de version de BAT lors de sa visualisation**
+
+_BAT_
+
+Lorsqu’un utilisateur ou une utilisatrice consulte un BAT dans le [!UICONTROL Lecteur de vérification] et passe à une autre version, la liste déroulante des versions est désactivée et il est impossible de revenir à la version originale que la personne visualisait ou à une autre version du BAT.
+
++++
+
++++**(Planifié) [!DNL Adobe Workfront Fusion] Mise à jour de maintenance le 11 mai 2023**
+
+**Erreurs de dépassement de délai dans[!DNL Workfront Fusion]**
+
+_Adobe Workfront Fusion_
+
+Lorsqu’un scénario est en cours d’exécution, une erreur de délai d’expiration peut survenir. Les informations du module concerné par l’erreur n’atteignent pas leur destination.
+
+**[!DNL Workfront]Délai d’expiration de recherche**
+
+_Rechercher_
+
+La recherche [!DNL Workfront] expire. La recherche peut renvoyer quelques résultats ou aucun.
+
+Ce problème affecte également les fonctionnalités du module [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL Recherche].
+
++++
+
++++**Mise à jour de maintenance le 9 mai 2023**
+
+**Filtres enregistrés disponibles dans la colonne d’entrée du panorama**
+
+_Panoramas_
+
+Vous pouvez désormais utiliser des tâches Workfront existantes et émettre des filtres lors de la configuration de la colonne d’entrée pour un panorama. Toutefois, les filtres de colonnes d’ingestion existants sont désormais en lecture seule dans le panneau de configuration. Les filtres existants sont toujours appliqués à la colonne d&#39;admission, mais vous devez recréer les filtres si vous souhaitez les éditer.
+
++++
 
 +++**Mise à jour de maintenance le 4 mai 2023**
 
