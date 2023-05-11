@@ -2,9 +2,9 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 50664b35f7edcd9064f0055ea3988a41b00621d0
+source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
 workflow-type: tm+mt
-source-wordcount: '3456'
+source-wordcount: '3454'
 ht-degree: 96%
 
 ---
@@ -21,7 +21,13 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 ## Mises à jour de mai 2023
 
-+++**Mise à jour de maintenance (prévue) le 11 mai 2023**
++++**Mise à jour de maintenance le 11 mai 2023**
+
+**Impossible de changer de version de BAT lors de sa visualisation**
+
+_BAT_
+
+Lorsqu’un utilisateur ou une utilisatrice consulte un BAT dans le [!UICONTROL Lecteur de vérification] et passe à une autre version, la liste déroulante des versions est désactivée et il est impossible de revenir à la version originale que la personne visualisait ou à une autre version du BAT.
 
 **[!DNL Workfront]Délai d’expiration de recherche**
 
@@ -31,15 +37,9 @@ La recherche [!DNL Workfront] expire. La recherche peut renvoyer quelques résul
 
 Ce problème affecte également les fonctionnalités du module [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL Recherche].
 
-**Impossible de changer de version de BAT lors de sa visualisation**
-
-_BAT_
-
-Lorsqu’un utilisateur ou une utilisatrice consulte un BAT dans le [!UICONTROL Lecteur de vérification] et passe à une autre version, la liste déroulante des versions est désactivée et il est impossible de revenir à la version originale que la personne visualisait ou à une autre version du BAT.
-
 +++
 
-+++**(Planifié) [!DNL Adobe Workfront Fusion] Mise à jour de maintenance le 11 mai 2023**
++++**[!DNL Adobe Workfront Fusion]Mise à jour de maintenance le 11 mai 2023**
 
 **Erreurs de dépassement de délai dans[!DNL Workfront Fusion]**
 
