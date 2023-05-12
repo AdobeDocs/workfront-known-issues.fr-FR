@@ -3,14 +3,16 @@ title: "Agile\_: incohérence dans les Points terminés d’une itération"
 description: Le nombre indiqué pour les Points terminés sur le storyboard ne correspond parfois pas au nombre réel de points terminés pour les articles dans une itération
 exl-id: 65696b39-e2ab-409e-8bd3-811f399f4622
 hidefromtoc: true
-source-git-commit: c452fe0fe206a741dab40d6a121ebf6bace675fe
-workflow-type: ht
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
+workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 100%
 
 ---
 
 # Agile : incohérence dans les Points terminés d’une itération
+
+<!--Converted to story-->
 
 >[!NOTE]
 >

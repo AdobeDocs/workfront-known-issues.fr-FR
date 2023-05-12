@@ -3,14 +3,16 @@ title: "Épreuve\_: l’accès automatique aux épreuves est retardé"
 description: Lorsque l’utilisateur est affecté en tant que réviseur et approbateur à une épreuve avec un workflow automatisé, l’accès est retardé et il ne peut pas accéder à l’épreuve.
 exl-id: 5b6fffed-a9af-4f1f-83a6-d4b992067b3a
 hidefromtoc: true
-source-git-commit: d122c128b926167a00c7149cb88392b618486876
-workflow-type: ht
+source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
+workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 100%
 
 ---
 
 # [!DNL Workfront Proof]L’accès automatique aux épreuves est retardé
+
+<!--Converted to story-->
 
 >[!NOTE]
 >

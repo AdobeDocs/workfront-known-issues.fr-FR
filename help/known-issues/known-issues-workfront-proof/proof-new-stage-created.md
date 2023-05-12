@@ -2,14 +2,17 @@
 title: "Épreuves\_: une nouvelle étape a été créée, car la date limite ne peut pas correspondre à la date limite de l’étape existante"
 description: Lors de la création d’une nouvelle épreuve, la date limite peut être déterminée par incréments de 15 minutes (10:00, 10:15, 10:30, 20:45, etc.). Cependant, lorsque l’utilisateur est ajouté à une épreuve après sa création, la date limite peut uniquement être déterminée par incréments de 30 minutes (10:00, 10:30, 11:00, etc.).
 hidefromtoc: true
-source-git-commit: 3826558093ba7d8aa6ee25211010c60610d03fcc
-workflow-type: ht
+exl-id: dc0725f4-d31b-4f55-a3ea-24486ce73ebf
+source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
+workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 100%
 
 ---
 
 # Épreuves : une nouvelle étape a été créée, car la date limite ne correspond pas à la date limite de l’étape existante
+
+<!--Requested article-->
 
 Lors de la création d’une nouvelle épreuve, la date limite peut être déterminée par incréments de 15 minutes (10:00, 10:15, 10:30, 20:45, etc.). Cependant, lorsque l’utilisateur est ajouté à une épreuve après sa création, la date limite peut uniquement être déterminée par incréments de 30 minutes (10:00, 10:30, 11:00, etc.). Par conséquent, le nouvel utilisateur ne peut être ajouté à aucune étape avec une date limite fixée à xx:15 ou xx:45, car les dates limites ne correspondent pas. Au lieu de cela, le nouvel utilisateur est ajouté à une nouvelle étape, avec une date limite définie par incréments de 30 minutes.
 

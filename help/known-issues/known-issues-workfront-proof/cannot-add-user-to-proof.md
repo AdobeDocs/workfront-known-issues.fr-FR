@@ -3,14 +3,16 @@ title: "Épreuve\_: impossible d’ajouter un utilisateur à l’épreuve en l�
 description: Lorsque l’utilisateur identifie un autre utilisateur qui n’appartient pas encore à l’épreuve dans un commentaire, il lui est impossible de sélectionner une fonction ou une adresse e-mail pour l’utilisateur et ne peut donc pas l’ajouter à l’épreuve.
 exl-id: 0ed7af8f-b177-4839-8045-24a5be2c764f
 hidefromtoc: true
-source-git-commit: d122c128b926167a00c7149cb88392b618486876
-workflow-type: ht
+source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
+workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 100%
 
 ---
 
 # [!DNL Workfront Proof] : impossible d’ajouter un utilisateur à l’épreuve en l’identifiant dans un commentaire
+
+<!--Converted to story-->
 
 >[!NOTE]
 >
