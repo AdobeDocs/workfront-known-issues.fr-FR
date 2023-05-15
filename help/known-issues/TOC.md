@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
-source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
+source-git-commit: da7467950481dc880a88c2cc78df73bc7ded3a74
 workflow-type: tm+mt
-source-wordcount: '1176'
-ht-degree: 96%
+source-wordcount: '1182'
+ht-degree: 98%
 
 ---
 
@@ -20,8 +20,8 @@ ht-degree: 96%
       + [Équilibreur de charge de travail : Les heures sont redistribuées de manière inattendue](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
       + [Formulaires personnalisés : erreur « [!UICONTROL Oups] » lors de la configuration d’un champ calculé](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
       + [Rapports : le tri par en-tête de colonne revient au tri précédent.](known-issues-workfront/wf-reports-sorting-not-applied.md)
-      + [Projets : Erreur lors de l’utilisation de [!UICONTROL Milestone] view](known-issues-workfront/wf-projects-error-in-milestone-view.md)
-      + [Tâches : Aucun message d’erreur lors de la réorganisation de la tâche dans [!UICONTROL En attente de validation] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
+      + [Projets : erreur lors de l’utilisation de la vue [!UICONTROL Jalon]](known-issues-workfront/wf-projects-error-in-milestone-view.md)
+      + [Tâches : aucun message d’erreur lors de la réorganisation de la tâche au statut [!UICONTROL En attente de validation]](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
       + [Feuilles de temps : le filtre n’est pas appliqué lors de l’actualisation de la page.](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
       + [BAT : les validations de BAT verrouillées apparaissent toujours dans la liste de travail.](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
       + [[!UICONTROL Planificateur de ressources] : impossible d’effectuer un enregistrement après l’ajout de temps.](known-issues-workfront/wf-resource-planner-cannot-save-time.md)
@@ -73,10 +73,10 @@ ht-degree: 96%
       + [Configuration : impossible d’enregistrer les modèles d’e-mail](known-issues-workfront/wf-setup-email-templates-not-working.md)
       + [Documents : impossible de restaurer le document supprimé](known-issues-workfront/wf-documents-cannot-restore-document.md)
       + [Documents : erreur lors du téléchargement d’un fichier volumineux](known-issues-workfront/wf-documents-large-uploads-fail.md)
-      + [Documents : impossible d’ajouter des documents depuis [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
+      + [Documents : impossible d’ajouter des documents depuis  [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
       + [Documents : les autorisations de document ne sont pas héritées lorsque le problème parent est converti en projet.](known-issues-workfront/wf-documents-permissions-not-inherited.md)
       + [Rapports : le rapport utilise le créateur de rapports plutôt que le caractère de remplacement « $$[!UICONTROL USERID] »](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
-      + [Intégrations : impossible d’ouvrir [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)
+      + [Intégrations : impossible d’ouvrir  [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)
       + [Épreuves : le statut de l’épreuve n’est pas mis à jour dans les listes de [!UICONTROL documents]](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
       + [Projets : le statut du projet ne correspond pas aux préférences du groupe](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
       + [Formulaires personnalisés : impossible d’utiliser le champ dans le calcul si le nom du champ contient des apostrophes ou des guillemets](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
@@ -86,14 +86,14 @@ ht-degree: 96%
       + [Rapports : erreur de type « Oups » lors de l’ajout d’un nouveau problème à un rapport de problème](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
       + [Épreuves : le résumé d’impression n’affiche pas la miniature de l’image](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
       + [Intégrations : le [!UICONTROL calendrier d’accueil] affiche les événements avec une heure de retard par rapport à [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
-      + [Tâches : Impossible de modifier la [!UICONTROL Date d’achèvement prévue] d’une tâche](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
+      + [Tâches : impossible de modifier la [!UICONTROL Date d’achèvement prévue] d’une tâche](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
       + [API : Impossible de trier les champs dynamiques](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
-      + [Projets : Problèmes de performance et message d’erreur lors de la création d’un projet à partir d’un modèle](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
-      + [Problèmes : La navigation de gauche affiche « (0) » problèmes alors que des problèmes existent](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
+      + [Projets : problèmes de performance et message d’erreur lors de la création d’un projet à partir d’un modèle](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
+      + [Problèmes : la navigation de gauche affiche « (0) » problèmes alors que des problèmes existent](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
       + [[!UICONTROL Configuration] : les listes se chargent lentement dans [!UICONTROL Configuration]](known-issues-workfront/wf-setup-lists-load-slowly.md)
       + [Tâches : les heures ne sont pas enregistrées lors de la saisie des heures dans le panneau [!UICONTROL Résumé de la tâche]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [BAT : le champ [!UICONTROL Étapes de BAT actives] est vide](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md)
-      + [[!DNL Workfront] : problèmes lors de la soumission d’un cas d’assistance [!DNL Workfront] sur Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md)
+      + [[!DNL Workfront] : problèmes lors de la soumission d’un cas d’assistance  [!DNL Workfront]  sur Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md)
       + [Tableaux de bord : les graphiques des rapports affichés dans un tableau de bord ne sont pas de la même couleur que ceux affichés dans le rapport](known-issues-workfront/wf-dashboard-reports-wrong-color.md)
       + [Agile : problèmes de déplacement de cartes dans le tableau Agile](known-issues-workfront/wf-agile-issues-moving-cards.md)
       + [Accueil : la terminologie personnalisée n’est pas appliquée à la zone d’Accueil](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md)
@@ -123,7 +123,8 @@ ht-degree: 96%
 + [!DNL Workfront Proof] {#proof}
    + [Problèmes connus dans  [!DNL Workfront Proof]](workfrontproof.md)
    + Problèmes actifs dans [!DNL Workfront Proof] {#proof-current}
-      + [[!DNL Workfront Proof]: La recherche ne renvoie aucun résultat](known-issues-workfront-proof/proof-search-returns-no-results.md)
+      + [[!DNL Workfront Proof]: Erreur 500 lors de l’accès [!DNL Workfront Proof] via l’API ou [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
+      + [[!DNL Workfront Proof] : la recherche ne renvoie aucun résultat](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [BAT : la zone Options de texte affiche « textAnnotations »](known-issues-workfront-proof/proof-text-shows-textannotation.md)
       + [[!DNL Workfront Proof] : les listes ne sont pas triées correctement.](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [BAT : les messages personnalisés ne s’affichent pas dans les e-mails de notification](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
@@ -133,7 +134,7 @@ ht-degree: 96%
       + [BAT : l’utilisateur ou l’utilisatrice ne reçoit pas d’e-mail lorsqu’il ou elle est mentionné(e) dans un commentaire de BAT](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + [Épreuves : une nouvelle étape a été créée, car la date limite ne correspond pas à celle de l’étape existante.](known-issues-workfront-proof/proof-new-stage-created.md)
       + [API [!DNL Workfront Proof] : erreur « [!UICONTROL Le corps n’est pas un XML valide.] »](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
-      + [Épreuves : l’épreuve n’est pas partagée avec les utilisateurs du workflow de l’épreuve](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
+      + [BAT : le BAT n’est pas partagé avec les utilisateurs et utilisatrices du workflow du BAT](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [Impossible d’ajouter un utilisateur ou une utilisatrice au BAT en l’identifiant dans un commentaire](known-issues-workfront-proof/cannot-add-user-to-proof.md)
       + [L’action du bouton [!UICONTROL Répondre dans l’épreuve] varie](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md)
       + [L’accès automatique aux épreuves est retardé](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md)
