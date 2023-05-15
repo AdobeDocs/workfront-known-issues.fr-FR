@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
 workflow-type: tm+mt
 source-wordcount: '3454'
-ht-degree: 96%
+ht-degree: 97%
 
 ---
 
@@ -69,7 +69,7 @@ Vous pouvez désormais utiliser des tâches Workfront existantes et émettre des
 
 +++**Mise à jour de maintenance le 4 mai 2023**
 
-**Impossible de sélectionner le modèle à partir de [!UICONTROL Modèles favoris]**
+**Modèles : impossible de sélectionner un modèle à partir des [!UICONTROL Modèles favoris]**
 
 _Modèles_
 
@@ -91,7 +91,7 @@ Lorsqu’un utilisateur ou une utilisatrice consulte un BAT dans la [!UICONTROL 
 
 _Mises à jour_
 
-Vous pouvez désormais modifier l’image jointe à un commentaire lorsque vous modifiez un commentaire. Cette option est disponible dans la section Mises à jour des objectifs de Workfront et dans les problèmes liés à l’activation de l’expérience bêta de commentaires.
+Vous pouvez désormais modifier l’image jointe à un commentaire lorsque vous modifiez ce dernier. Cette fonctionnalité est disponible dans la section Mises à jour pour les objectifs et les problèmes éventuels de Workfront lors de l’activation de l’expérience Beta des commentaires.
 
 +++
 
