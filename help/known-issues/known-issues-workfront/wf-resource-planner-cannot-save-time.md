@@ -4,9 +4,9 @@ description: Lorsqu’un utilisateur ou une utilisatrice dans le [!UICONTROL Pla
 hidefromtoc: true
 exl-id: a5e2aefb-e1f6-48dc-9fe8-e03c0c157274
 source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '119'
+ht-degree: 100%
 
 ---
 
