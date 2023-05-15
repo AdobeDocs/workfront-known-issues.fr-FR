@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
-source-git-commit: c9876398ffdec456113d3343c8fb19ae8ca8ae83
+source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
 workflow-type: tm+mt
-source-wordcount: '1166'
-ht-degree: 97%
+source-wordcount: '1176'
+ht-degree: 96%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Rapports : Le tri des rapports n&#39;est pas correct lors d&#39;un tri selon n&#39;importe quel champ](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
       + [Équilibreur de charge de travail : Les heures sont redistribuées de manière inattendue](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
       + [Formulaires personnalisés : erreur « [!UICONTROL Oups] » lors de la configuration d’un champ calculé](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
       + [Rapports : le tri par en-tête de colonne revient au tri précédent.](known-issues-workfront/wf-reports-sorting-not-applied.md)

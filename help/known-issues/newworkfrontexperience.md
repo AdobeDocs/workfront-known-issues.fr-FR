@@ -3,10 +3,10 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
+source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
 workflow-type: tm+mt
-source-wordcount: '553'
-ht-degree: 96%
+source-wordcount: '565'
+ht-degree: 93%
 
 ---
 
@@ -24,7 +24,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| Aucun |  |
+| [Rapports : Le tri des rapports n&#39;est pas correct lors d&#39;un tri selon n&#39;importe quel champ](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md) | 15 mai 2023 |
 
 {style="table-layout:auto"}
 
@@ -34,7 +34,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Rapports : le tri par en-tête de colonne revient au tri précédent](known-issues-workfront/wf-reports-sorting-not-applied.md). | 11 mai 2023 |
+| [Rapports : Le rapport n’est pas correctement trié par champ personnalisé](known-issues-workfront/wf-reports-sorting-not-applied.md) | 11 mai 2023 |
 | [Tâches : Aucun message d’erreur lors de la réorganisation de la tâche dans [!UICONTROL En attente de validation] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 11 mai 2023 |
 | [Équilibreur de charge de travail : Les heures sont redistribuées de manière inattendue](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 11 mai 2023 |
 | [BAT : les validations de BAT verrouillées apparaissent toujours dans la liste de travail](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md). | 4 mai 2023 |

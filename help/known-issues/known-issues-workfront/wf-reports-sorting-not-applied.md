@@ -1,16 +1,16 @@
 ---
-title: "Rapports : Le rapport n’est pas correctement trié"
-description: «  »
+title: '"Rapports : Le rapport n’est pas correctement trié par champ personnalisé'
+description: '"Lorsqu’un utilisateur exécute un rapport de tâche, le rapport semble être trié correctement lors de son chargement, mais une fois le chargement terminé, l’utilisateur constate que le rapport n’est pas correctement trié. '
 hidefromtoc: true
-source-git-commit: 50664b35f7edcd9064f0055ea3988a41b00621d0
+source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 5%
+source-wordcount: '121'
+ht-degree: 3%
 
 ---
 
 
-# Rapports : Le rapport n’est pas correctement trié
+# Rapports : Le rapport n’est pas correctement trié par champ personnalisé
 
 Lorsqu’un utilisateur exécute un rapport de tâche, le rapport semble être trié correctement lors de son chargement, mais une fois qu’il a terminé, l’utilisateur constate que le rapport n’est pas correctement trié.
 
