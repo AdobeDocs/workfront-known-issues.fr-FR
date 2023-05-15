@@ -1,12 +1,12 @@
 ---
-title: '"Documents : Erreur 404 lors de l''accès au document lié à partir de SharePoint'''
-description: Lorsqu’un utilisateur tente d’accéder à un document lié via SharePoint, il est amené sur une page avec une erreur 404.
+title: '« Documents : erreur 404 lors de l’accès à un document lié par SharePoint »'
+description: Lorsqu’un utilisateur ou une utilisatrice tente d’accéder à un document lié par SharePoint, cette personne est redirigée vers une page contenant une erreur 404.
 hidefromtoc: true
 exl-id: b86ec92b-a27f-4ec3-acc2-0f0118014760
 source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
-ht-degree: 73%
+ht-degree: 100%
 
 ---
 
