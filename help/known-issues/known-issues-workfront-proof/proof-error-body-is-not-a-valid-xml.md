@@ -1,16 +1,16 @@
 ---
-title: '''Workfront Proof API : Corps n''est pas une erreur XML valide'''
-description: Un appel à l’API de Bon à tirer de Workfront renvoie une erreur.
+title: '« API Workfront Proof : erreur, car le corps n’est pas un XML valide »'
+description: Un appel à l’API Workfront Proof renvoie une erreur.
 hidefromtoc: true
 exl-id: f3bf3adb-5760-465d-a42a-dc6919d423d0
 source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '74'
+ht-degree: 100%
 
 ---
 
-# API [!DNL Workfront Proof] : erreur « [!UICONTROL Le corps n’est pas un XML valide.] »
+# API [!DNL Workfront Proof] : erreur, car « [!UICONTROL le corps n’est pas un XML valide] »
 
 <!--On WFP and WFF TOCs-->
 
