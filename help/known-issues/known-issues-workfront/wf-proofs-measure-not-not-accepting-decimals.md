@@ -1,12 +1,12 @@
 ---
-title: 'BAT : l’outil de mesure n’accepte pas les points décimaux'
-description: Lorsqu’un utilisateur ou une utilisatrice consulte un BAT, ouvre l’outil de mesure et tente d’insérer un nombre comportant un point décimal dans une zone, le point décimal n’apparaît pas. Si l’utilisateur saisit un point décimal avant de saisir des chiffres, la zone affiche NaN.
+title: '« BAT : l’outil de mesure n’accepte pas les points décimaux »'
+description: Lorsqu’un utilisateur ou une utilisatrice consulte un BAT, ouvre l’outil de mesure et tente d’insérer un nombre comportant un point décimal dans une zone, le point décimal n’apparaît pas. Si l’utilisateur ou l’utilisatrice saisit un point décimal avant de saisir des chiffres, la zone affiche NaN.
 hidefromtoc: true
 exl-id: 841658aa-2ff2-4c10-95b7-db3bb27c9809
 source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
