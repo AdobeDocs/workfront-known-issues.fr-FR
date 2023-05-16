@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
+source-git-commit: cc698b048b0e13e52fa5b0739a7354097018f011
 workflow-type: tm+mt
-source-wordcount: '3454'
-ht-degree: 97%
+source-wordcount: '3533'
+ht-degree: 95%
 
 ---
 
@@ -20,6 +20,22 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2023.
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
 
 ## Mises à jour de mai 2023
+
++++**Mise à jour de maintenance (prévue) le 18 mai 2023**
+
+
+**Le rapport n’est pas correctement trié par champ personnalisé**
+
+_Rapports_
+Lorsqu’un utilisateur exécute un rapport de tâche, le rapport semble être trié correctement lors de son chargement, mais une fois qu’il a terminé, l’utilisateur constate que le rapport n’est pas correctement trié.
+
+Cela semble se produire si toutes les conditions suivantes sont remplies :
+
+* Le rapport est un rapport de tâches
+* Le rapport est trié par un champ personnalisé.
+* Un groupement est appliqué au rapport.
+
++++
 
 +++**Mise à jour de maintenance le 11 mai 2023**
 
