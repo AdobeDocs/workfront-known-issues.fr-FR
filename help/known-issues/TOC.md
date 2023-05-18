@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
-source-git-commit: da7467950481dc880a88c2cc78df73bc7ded3a74
+source-git-commit: d781ab9f0204cf65f67583a90d9aaaa3bc9db303
 workflow-type: tm+mt
-source-wordcount: '1182'
-ht-degree: 98%
+source-wordcount: '1187'
+ht-degree: 97%
 
 ---
 
@@ -148,6 +148,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problèmes connus dans Workfront Fusion](workfrontfusion.md)
    + Problèmes actifs dans [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Workfront Fusion]: Les exécutions sont bloquées ou retardées.](known-issues-workfront-fusion/fusion-stuck-executions.md)
       + [[!DNL Workfront Fusion] : l’historique d’exécution d’un scénario ne s’affiche pas en entier](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
       + [[!DNL Adobe Workfront Fusion] : erreurs de délai d’expiration dans Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md)
       + [[!DNL Adobe Workfront Fusion] : erreurs 404 dans les modules Workfront](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
