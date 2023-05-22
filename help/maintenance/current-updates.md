@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: d781ab9f0204cf65f67583a90d9aaaa3bc9db303
+source-git-commit: d0c6f72269cb94bbe309b1bd3f323af83b79353d
 workflow-type: tm+mt
-source-wordcount: '3532'
-ht-degree: 95%
+source-wordcount: '3581'
+ht-degree: 94%
 
 ---
 
@@ -20,6 +20,16 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2023.
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
 
 ## Mises à jour de mai 2023
+
++++**Mise à jour de maintenance le 22 mai 2023**
+
+**Impossible d’ajuster la taille du texte descriptif**
+
+_Formulaires personnalisés_
+
+Lorsque le concepteur de formulaire personnalisé a été publié en version bêta, la fonctionnalité permettant d’ajuster la taille du texte descriptif n’était pas disponible. Ce problème a été corrigé et les utilisateurs peuvent désormais ajuster la taille du texte descriptif.
+
++++
 
 +++**Mise à jour de maintenance le 18 mai 2023**
 
