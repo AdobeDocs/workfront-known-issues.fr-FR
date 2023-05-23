@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: d0c6f72269cb94bbe309b1bd3f323af83b79353d
+source-git-commit: 844b6e4f47084992fd690ed2ea716b46a4e259dd
 workflow-type: tm+mt
-source-wordcount: '3581'
-ht-degree: 97%
+source-wordcount: '3646'
+ht-degree: 95%
 
 ---
 
@@ -20,6 +20,22 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2023.
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
 
 ## Mises à jour de mai 2023
+
++++**Mise à jour de maintenance (prévue) le 25 mai 2023**
+
+**[!UICONTROL Kanban] le panorama devient vide lors de la modification de cartes**
+
+_Agile_
+
+Lorsqu’un utilisateur modifie quelque chose à propos d’une carte sur la [!UICONTROL Kanban] panorama, [!UICONTROL Kanban] La carte est vide au lieu d’être actualisée avec la modification. Si l’utilisateur actualise manuellement la page, la variable [!UICONTROL Kanban] le panorama renvoie, indiquant la modification correcte.
+
+Cela a été signalé dans les cas suivants :
+
+* Modification d’une carte
+* Déplacement d’une carte
+
+
++++
 
 +++**Mise à jour de maintenance le 22 mai 2023**
 
