@@ -1,10 +1,10 @@
 ---
-title: 'Épreuves : l’épreuve n’est pas partagée avec les utilisateurs du workflow de l’épreuve'
-description: Lorsqu’une épreuve atteint une étape d’un workflow auquel un utilisateur a été ajouté lors de la création de l’épreuve, l’épreuve n’est pas partagée avec l’utilisateur et celui-ci ne peut pas accéder à l’épreuve.
+title: '« BAT : le BAT n’est pas partagé avec les utilisateurs et utilisatrices du workflow du BAT »'
+description: Lorsqu’un BAT atteint une étape d’un workflow auquel un utilisateur ou une utilisatrice a été ajouté(e) lors de la création de ce BAT, il n’est pas partagé avec l’utilisateur ou l’utilisatrice qui ne peut pas accéder à l’épreuve.
 hidefromtoc: true
 exl-id: c3b8cc45-5181-4335-8188-56ca942925f0
 source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '113'
 ht-degree: 100%
 
