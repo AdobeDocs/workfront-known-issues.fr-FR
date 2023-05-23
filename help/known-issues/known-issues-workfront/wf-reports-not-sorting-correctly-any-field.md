@@ -1,24 +1,24 @@
 ---
-title: "Rapports : Le tri des rapports n’est pas correct dans un champ."
+title: '« Rapports : le tri des rapports n’est pas correct lors du tri par n’importe quel champ. »'
 description: «  »
 hidefromtoc: true
 source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
 
-# Rapports : Le tri des rapports n&#39;est pas correct lors d&#39;un tri selon n&#39;importe quel champ
+# Rapports : le tri des rapports n’est pas correct lors du tri par n’importe quel champ.
 
 
-Lorsqu’un utilisateur exécute un rapport de tâche, le rapport semble être trié correctement lors de son chargement, mais une fois qu’il a terminé, l’utilisateur constate que le rapport n’est pas correctement trié.
+Lorsqu’une personne utilisatrice exécute un rapport de tâche, le tri des rapports semble correct lors du chargement des rapports, mais une fois celui-ci terminé, la personne constate le contraire.
 
 Ce problème de tri ne se limite pas à un type particulier de champ.
 
 **Solution de contournement**
 
-Affichez et triez le rapport dans un tableau de bord.
+Affichez et triez les rapports dans un tableau de bord.
 
 _Premier signalement le 1 juin 2023._
