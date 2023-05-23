@@ -1,10 +1,10 @@
 ---
-title: 'Tâches : les heures ne sont pas enregistrées lors de la saisie des heures dans le panneau [!UICONTROL Résumé de la tâche]'
+title: '« Tâches : les heures ne sont pas enregistrées lors de la saisie des heures dans le panneau [!UICONTROL Résumé de la tâche] »'
 description: « Lorsqu’un utilisateur tente de saisir des heures pour une tâche dans le panneau Résumé de cette tâche, les heures ne sont pas enregistrées. Cela se produit lorsque l’utilisateur laisse le curseur dans la zone où il a saisi les heures, et fait défiler le panneau [!UICONTROL Résumé]. »
 hidefromtoc: true
 exl-id: edf5ea1f-a75f-4df4-987a-53d2d3563579
 source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '153'
 ht-degree: 100%
 
