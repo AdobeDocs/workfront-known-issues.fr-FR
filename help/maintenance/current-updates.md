@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: d0c6f72269cb94bbe309b1bd3f323af83b79353d
 workflow-type: tm+mt
 source-wordcount: '3581'
-ht-degree: 94%
+ht-degree: 97%
 
 ---
 
@@ -38,11 +38,11 @@ Lorsque le concepteur de formulaire personnalisé a été publié en version bê
 _Rapports_
 Lorsqu’un utilisateur exécute un rapport de tâche, le rapport semble être trié correctement lors de son chargement, mais une fois qu’il a terminé, l’utilisateur constate que le rapport n’est pas correctement trié.
 
-Cela semble se produire si toutes les conditions suivantes sont remplies :
+Cela semble se produire si toutes les conditions suivantes sont réunies :
 
-* Le rapport est un rapport de tâches
-* Le rapport est trié par un champ personnalisé.
-* Un groupement est appliqué au rapport.
+* le rapport est un rapport de tâches
+* les rapports sont triés en fonction d’un champ personnalisé
+* un groupement est appliqué au rapport
 
 +++
 
@@ -54,7 +54,7 @@ _BAT_
 
 Lorsqu’un utilisateur ou une utilisatrice consulte un BAT dans le [!UICONTROL Lecteur de vérification] et passe à une autre version, la liste déroulante des versions est désactivée et il est impossible de revenir à la version originale que la personne visualisait ou à une autre version du BAT.
 
-**[!DNL Workfront]Délai d’expiration de recherche**
+La recherche **[!DNL Workfront]expire**
 
 _Rechercher_
 
@@ -64,15 +64,15 @@ Ce problème affecte également les fonctionnalités du module [!DNL Workfront F
 
 +++
 
-+++**[!DNL Adobe Workfront Fusion]Mise à jour de maintenance le 11 mai 2023**
++++Mise à jour de maintenance de **[!DNL Adobe Workfront Fusion]le 11 mai 2023**
 
-**Erreurs de dépassement de délai dans[!DNL Workfront Fusion]**
+**Erreurs de délai d’expiration dans[!DNL Workfront Fusion]**
 
-_Adobe Workfront Fusion_
+_Adobe Workfront Fusion_
 
 Lorsqu’un scénario est en cours d’exécution, une erreur de délai d’expiration peut survenir. Les informations du module concerné par l’erreur n’atteignent pas leur destination.
 
-**[!DNL Workfront]Délai d’expiration de recherche**
+La recherche **[!DNL Workfront]expire**
 
 _Rechercher_
 
@@ -88,7 +88,7 @@ Ce problème affecte également les fonctionnalités du module [!DNL Workfront F
 
 _Panoramas_
 
-Vous pouvez désormais utiliser des tâches Workfront existantes et émettre des filtres lors de la configuration de la colonne d’entrée pour un panorama. Toutefois, les filtres de colonnes d’ingestion existants sont désormais en lecture seule dans le panneau de configuration. Les filtres existants sont toujours appliqués à la colonne d&#39;admission, mais vous devez recréer les filtres si vous souhaitez les éditer.
+Vous pouvez désormais utiliser les filtres de tâches et de problèmes existants de Workfront lors de la configuration de la colonne d’entrée d’un panorama. Toutefois, les filtres de colonnes d’entrée existants sont maintenant en lecture seule dans le panneau de configuration. Les filtres existants sont toujours appliqués à la colonne d’entrée, mais vous devez recréer les filtres si vous souhaitez les modifier.
 
 +++
 

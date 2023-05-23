@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 22feb4a17cd2e371c752dc89ecd09cf63e8c7790
 workflow-type: tm+mt
 source-wordcount: '562'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -24,7 +24,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Rapports : Le tri des rapports n&#39;est pas correct lors d&#39;un tri selon n&#39;importe quel champ](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md) | 15 mai 2023 |
+| [Rapports : le tri des rapports n’est pas correct lors du tri par n’importe quel champ](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md) | 15 mai 2023 |
 
 {style="table-layout:auto"}
 
@@ -35,8 +35,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
 | [Agile : [!UICONTROL Kanban] le panorama devient vide lors de la modification de cartes](known-issues-workfront/wf-agile-blank-page-kanban-board.md) | 18 mai 2023 |
-| [Tâches : aucun message d’erreur lors de la réorganisation de la tâche au statut [!UICONTROL En attente de validation]](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 11 mai 2023 |
-| [Équilibreur de charge de travail : Les heures sont redistribuées de manière inattendue](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 11 mai 2023 |
+| [Tâches : aucun message d’erreur lors de la réorganisation de la tâche au statut [!UICONTROL En attente d’approbation]](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 11 mai 2023 |
+| [Équilibreur de charge de travail : les heures sont redistribuées de manière inattendue](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 11 mai 2023 |
 | [BAT : les validations de BAT verrouillées apparaissent toujours dans la liste de travail](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4 mai 2023 |
 | [Projets : les statuts personnalisés du [!UICONTROL Groupe résidentiel] ne sont pas disponibles lors de la création d’un projet à partir d’un modèle](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 mars 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Cas d’assistance sur Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 août 2022 |

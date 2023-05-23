@@ -4,7 +4,7 @@ user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
 source-git-commit: 22feb4a17cd2e371c752dc89ecd09cf63e8c7790
 workflow-type: tm+mt
 source-wordcount: '1195'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -17,8 +17,8 @@ ht-degree: 97%
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
       + [Agile : [!UICONTROL Kanban] le panorama devient vide lors de la modification de cartes](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
-      + [Rapports : Le tri des rapports n&#39;est pas correct lors d&#39;un tri selon n&#39;importe quel champ](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
-      + [Équilibreur de charge de travail : Les heures sont redistribuées de manière inattendue](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
+      + [Rapports : le tri des rapports n’est pas correct lors du tri par n’importe quel champ.](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
+      + [Équilibreur de charge de travail : les heures sont redistribuées de manière inattendue](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
       + [Formulaires personnalisés : erreur « [!UICONTROL Oups] » lors de la configuration d’un champ calculé](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
       + [Rapports : le tri par en-tête de colonne revient au tri précédent.](known-issues-workfront/wf-reports-sorting-not-applied.md)
       + [Projets : erreur lors de l’utilisation de la vue [!UICONTROL Jalon]](known-issues-workfront/wf-projects-error-in-milestone-view.md)
