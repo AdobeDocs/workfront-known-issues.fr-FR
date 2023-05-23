@@ -1,12 +1,12 @@
 ---
-title: '''Workfront Proof: Les listes ne sont pas triées correctement"'
-description: Lorsqu’un utilisateur affiche une liste dans le Bon à tirer Workfront pour laquelle un tri est appliqué (comme Nom), le tri n’est pas exact.
+title: '« Workfront Proof : les listes ne sont pas triées correctement. »'
+description: Lorsqu’une personne utilisatrice consulte une liste dans Workfront Proof pour laquelle un tri est appliqué (comme le nom), le tri n’est pas exact.
 hidefromtoc: true
 exl-id: 89dcfc45-0ea3-4ba6-8778-865adff9c456
 source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
