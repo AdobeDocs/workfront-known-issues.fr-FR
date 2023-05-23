@@ -1,12 +1,12 @@
 ---
-title: 'Bons à tirer : L’utilisateur est désactivé par le workflow de BAT et n’est pas autorisé lors de l’accès au BAT.'
-description: Lorsqu'un utilisateur tente d'accéder à un BAT sur lequel il est affecté à un workflow, un message Accès non autorisé s'affiche.
+title: '« BAT : la personne utilisatrice est désactivée du workflow de BAT et le message Accès non autorisé s’affiche lors de l’accès au BAT »'
+description: Lorsqu’une personne utilisatrice tente d’accéder à un BAT pour lequel elle est affectée à un workflow, le message Accès non autorisé s’affiche.
 hidefromtoc: true
 exl-id: af7d70af-3d4c-40a8-a8c4-429f38e62d34
 source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
-workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 65%
+workflow-type: ht
+source-wordcount: '125'
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 65%
 
 >[!NOTE]
 >
->Ce problème a été corrigé le 4 mai. 2023.
+>Ce problème a été résolu le 4 mai 2023.
 
 Lorsqu’une personne utilisatrice tente d’accéder à un BAT pour lequel elle est affectée à un workflow, le message suivant s’affiche :
 
