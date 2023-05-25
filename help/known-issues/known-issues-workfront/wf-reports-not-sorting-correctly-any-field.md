@@ -2,9 +2,9 @@
 title: '« Rapports : le tri des rapports n’est pas correct lors du tri par n’importe quel champ. »'
 description: «  »
 hidefromtoc: true
-source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
-workflow-type: ht
-source-wordcount: '77'
+source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
+workflow-type: tm+mt
+source-wordcount: '88'
 ht-degree: 100%
 
 ---
@@ -12,6 +12,9 @@ ht-degree: 100%
 
 # Rapports : le tri des rapports n’est pas correct lors du tri par n’importe quel champ.
 
+>[!NOTE]
+>
+>Ce problème a été clôturé, car il ne s’agit pas d’un problème.
 
 Lorsqu’une personne utilisatrice exécute un rapport de tâche, le tri des rapports semble correct lors du chargement des rapports, mais une fois celui-ci terminé, la personne constate le contraire.
 

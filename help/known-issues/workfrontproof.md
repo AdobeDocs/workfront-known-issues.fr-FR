@@ -3,7 +3,7 @@ title: Problèmes connus dans  [!DNL Adobe Workfront Proof]
 description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: da7467950481dc880a88c2cc78df73bc7ded3a74
+source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 98%
@@ -34,7 +34,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof] via l’API ou [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 15 mai 2023 |
 | [BAT : les validations de BAT verrouillées apparaissent toujours dans la liste de travail](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4 mai 2023 |
 
 {style="table-layout:auto"}
@@ -45,6 +44,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof] via l’API ou [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 25 mai 2023 |
 | [Documents : les options des [!UICONTROL Activités de relecture] débouchent sur la page de connexion](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 21 avril 2023 |
 | [BAT : l’outil de mesure n’accepte pas les points décimaux](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 27 mars 2023 |
 | [Documents : erreur 404 lors de l’accès au document lié par  [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 23 mars 2023 |
