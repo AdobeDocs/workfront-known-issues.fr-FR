@@ -3,10 +3,10 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 003db8164485be5a7542ca1f0814619121b5b8cb
+source-git-commit: 3fecf0bacca07ba0609e8018421385fff60d7e90
 workflow-type: tm+mt
-source-wordcount: '579'
-ht-degree: 95%
+source-wordcount: '570'
+ht-degree: 97%
 
 ---
 
@@ -35,7 +35,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
 | [Formulaires personnalisés : La logique d’affichage est perdue lorsque le formulaire personnalisé est modifié dans le nouveau concepteur de formulaire (version bêta)](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md) | 24 mai 2023 |
-| [Agile : [!UICONTROL Kanban] le panorama devient vide lors de la modification de cartes](known-issues-workfront/wf-agile-blank-page-kanban-board.md) | 18 mai 2023 |
 | [Tâches : aucun message d’erreur lors de la réorganisation de la tâche au statut [!UICONTROL En attente d’approbation]](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 11 mai 2023 |
 | [Équilibreur de charge de travail : les heures sont redistribuées de manière inattendue](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 11 mai 2023 |
 | [BAT : les validations de BAT verrouillées apparaissent toujours dans la liste de travail](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4 mai 2023 |
