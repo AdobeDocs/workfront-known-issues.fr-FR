@@ -3,7 +3,7 @@ title: '« Rapports : le tri des rapports n’est pas correct lors du tri par 
 description: « Lorsqu’une personne utilisatrice exécute un rapport de tâche, le tri des rapports semble correct lors du chargement des rapports, mais une fois celui-ci terminé, la personne constate que le tri des rapports n’est pas correct.
 hidefromtoc: true
 source-git-commit: d781ab9f0204cf65f67583a90d9aaaa3bc9db303
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '127'
 ht-degree: 100%
 
