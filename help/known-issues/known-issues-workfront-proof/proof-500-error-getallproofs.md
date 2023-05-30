@@ -1,16 +1,16 @@
 ---
-title: "Bon à tirer Workfront : Erreur 500 lors de l’accès au BAT Workfront via l’API ou Workfront Fusion"
-description: "Lorsqu’un utilisateur accède à l’action getAllProofs de l’API de BAT, le serveur de BAT Workfront renvoie le message : 500 Internal Server Error"
+title: '« Workfront Proof : erreur 500 lors de l’accès à Workfront Proof via l’API ou Workfront Fusion »'
+description: '« Lorsqu’un utilisateur ou une utilisatrice accède à l’action getAllProofs de l’API Proof, le serveur Workfront Proof renvoie le message : erreur interne du serveur 500 »'
 hidefromtoc: true
 source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
-ht-degree: 31%
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Workfront Proof]: Erreur 500 lors de l’accès [!DNL Workfront Proof] via l’API ou [!DNL Workfront Fusion]
+# [!DNL Workfront Proof] : erreur 500 lors de l’accès au [!DNL Workfront Proof] via l’API ou [!DNL Workfront Fusion]
 
 >[!NOTE]
 >
@@ -18,11 +18,11 @@ ht-degree: 31%
 
 <!--This article is on Proof and Fusion TOCs-->
 
-Lorsqu’un utilisateur accède à la variable [!DNL Workfront Proof] API [!UICONTROL `getAllProofs`] , le serveur renvoie le message suivant :
+Lorsqu’un utilisateur ou une utilisatrice accède à l’action [!UICONTROL `getAllProofs`] de l’API [!DNL Workfront Proof], le serveur renvoie le message suivant :
 
-[!UICONTROL Erreur interne 500 du serveur]
+[!UICONTROL Erreur interne du serveur 500]
 
-Parce que [!DNL Workfront Fusion] utilise la variable [!DNL Workfront Proof] API pour [!DNL Workfront Proof] , cette erreur peut être renvoyée à un module, arrêtant un scénario.
+[!DNL Workfront Fusion] utilise l’API [!DNL Workfront Proof] pour les modules [!DNL Workfront Proof], cette erreur peut donc être renvoyée à un module, arrêtant un scénario.
 
 _Premier signalement le 28 avril 2023._
 
