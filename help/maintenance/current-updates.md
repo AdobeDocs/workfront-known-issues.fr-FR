@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 844b6e4f47084992fd690ed2ea716b46a4e259dd
 workflow-type: tm+mt
 source-wordcount: '3646'
-ht-degree: 95%
+ht-degree: 99%
 
 ---
 
@@ -27,9 +27,9 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 _Agile_
 
-Lorsqu’un utilisateur modifie quelque chose à propos d’une carte sur la [!UICONTROL Kanban] panorama, [!UICONTROL Kanban] La carte est vide au lieu d’être actualisée avec la modification. Si l’utilisateur actualise manuellement la page, la variable [!UICONTROL Kanban] le panorama renvoie, indiquant la modification correcte.
+Lorsqu’un utilisateur ou une utilisatrice apporte une modification à une carte sur le panorama [!UICONTROL Kanban], le panorama [!UICONTROL Kanban] devient vide au lieu d’être actualisé avec la modification. Si l’utilisateur ou l’utilisatrice actualise manuellement la page, le panorama [!UICONTROL Kanban] réapparaît, indiquant la modification correcte.
 
-Cela a été signalé dans les cas suivants :
+Les situations suivantes sont concernées :
 
 * Modification d’une carte
 * Déplacement d’une carte
@@ -43,16 +43,16 @@ Cela a été signalé dans les cas suivants :
 
 _Formulaires personnalisés_
 
-Lorsque le concepteur de formulaire personnalisé a été publié en version bêta, la fonctionnalité permettant d’ajuster la taille du texte descriptif n’était pas disponible. Ce problème a été corrigé et les utilisateurs peuvent désormais ajuster la taille du texte descriptif.
+Lorsque le créateur de formulaire personnalisé a été publié en version Beta, la fonctionnalité permettant d’ajuster la taille du texte descriptif n’était pas disponible. Ce problème a été corrigé et les utilisateurs et utilisatrices peuvent désormais ajuster la taille du texte descriptif.
 
 +++
 
 +++**Mise à jour de maintenance le 18 mai 2023**
 
-**Le rapport n’est pas correctement trié par champ personnalisé**
+**Le rapport n’est pas trié correctement lors du tri par champ personnalisé**
 
 _Rapports_
-Lorsqu’un utilisateur exécute un rapport de tâche, le rapport semble être trié correctement lors de son chargement, mais une fois qu’il a terminé, l’utilisateur constate que le rapport n’est pas correctement trié.
+Lorsqu’un utilisateur ou une utilisatrice exécute un rapport de tâche, le tri du rapport semble correct lors du chargement du rapport, mais une fois celui-ci terminé, la personne constate que le tri du rapport n’est pas correct.
 
 Cela semble se produire si toutes les conditions suivantes sont réunies :
 
@@ -193,7 +193,7 @@ Désormais, lorsque quelqu’un publie un commentaire ou une réponse, ou suppri
 
 _Utilisateurs et utilisatrices_
 
-Le système peut modifier le niveau d’accès d’un utilisateur ou d’une utilisatrice de manière imprévisible. Dans ce cas, aucune mise à jour n’est visible et la modification n’apparaît pas dans le journal d’audit. »
+Le système peut modifier le niveau d’accès d’un utilisateur ou d’une utilisatrice de manière imprévisible. Dans ce cas, aucune mise à jour n’est visible et la modification n’apparaît pas dans le journal d’audit.
 
 +++
 
