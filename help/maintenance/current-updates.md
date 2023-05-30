@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 844b6e4f47084992fd690ed2ea716b46a4e259dd
+source-git-commit: 2919ae11be238227242de8a5863f19ebd6099f92
 workflow-type: tm+mt
-source-wordcount: '3646'
-ht-degree: 99%
+source-wordcount: '3821'
+ht-degree: 98%
 
 ---
 
@@ -19,9 +19,27 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2023.
 
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
 
+## Mises à jour de juin 2023
+
++++**Mise à jour de maintenance (prévue) le 1er juin 2023**
+
+**Aucun message d’erreur lors de la réorganisation de la tâche dans [!UICONTROL En attente de validation] status**
+
+_Tâches_
+
+Lorsqu’un utilisateur ou une utilisatrice tente de réorganiser une tâche dans une liste de tâches, et que la tâche a le statut [!UICONTROL En attente de validation], la tâche semble se déplacer dans la liste des tâches. Lors de l’actualisation, l’utilisateur ou l’utilisatrice voit que l’élément n’a pas été déplacé. L’élément ne peut pas être déplacé, car il se trouve au statut [!UICONTROL En attente de validation], mais aucun message n’indique à l’utilisateur ou à l’utilisatrice que l’élément ne peut pas être déplacé, ce qui peut entraîner une confusion.
+
+**Aucun message d’erreur lors du déplacement d’une tâche de prédécesseur sous une tâche dépendante**
+
+_Tâches_
+
+Lorsqu’un utilisateur ou une utilisatrice tente de réorganiser une tâche dans une liste de tâches, et que la tâche a le statut [!UICONTROL En attente de validation], la tâche semble se déplacer dans la liste des tâches. Lors de l’actualisation, l’utilisateur ou l’utilisatrice voit que l’élément n’a pas été déplacé. L’élément ne peut pas être déplacé, car une tâche de prédécesseur ne peut pas être déplacée sous une tâche pour laquelle il s’agit du prédécesseur, mais aucun message n’indique à l’utilisateur que l’élément ne peut pas être déplacé, ce qui peut prêter à confusion.
+
++++
+
 ## Mises à jour de mai 2023
 
-+++**Mise à jour de maintenance (prévue) le 25 mai 2023**
++++**Mise à jour de maintenance le 25 mai 2023**
 
 **[!UICONTROL Kanban] le panorama devient vide lors de la modification de cartes**
 
