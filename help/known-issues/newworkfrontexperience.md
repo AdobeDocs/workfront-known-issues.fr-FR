@@ -3,9 +3,9 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
+source-git-commit: 3c0433fb5c690346ccd474ec72c27ace056abd03
 workflow-type: tm+mt
-source-wordcount: '560'
+source-wordcount: '548'
 ht-degree: 97%
 
 ---
@@ -35,7 +35,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
 | [Formulaires personnalisés : La logique d’affichage est perdue lorsque le formulaire personnalisé est modifié dans le nouveau concepteur de formulaire (version bêta)](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md) | 24 mai 2023 |
-| [Tâches : aucun message d’erreur lors de la réorganisation de la tâche au statut [!UICONTROL En attente d’approbation]](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 11 mai 2023 |
 | [Équilibreur de charge de travail : les heures sont redistribuées de manière inattendue](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 11 mai 2023 |
 | [BAT : les validations de BAT verrouillées apparaissent toujours dans la liste de travail](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4 mai 2023 |
 | [Projets : les statuts personnalisés du [!UICONTROL Groupe résidentiel] ne sont pas disponibles lors de la création d’un projet à partir d’un modèle](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 mars 2023 |
