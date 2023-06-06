@@ -3,7 +3,7 @@ title: '« Agile : le panorama Kanban devient vide lors de la modification de 
 description: « Lorsqu’un utilisateur ou une utilisatrice apporte une modification à une carte du panorama [!UICONTROL Kanban], le panorama [!UICONTROL Kanban] devient vide au lieu d’être actualisé avec la modification. Si l’utilisateur ou l’utilisatrice actualise manuellement la page, le panorama [!UICONTROL Kanban] réapparaît, indiquant la modification correcte. »
 hidefromtoc: true
 source-git-commit: 3fecf0bacca07ba0609e8018421385fff60d7e90
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
 ht-degree: 100%
 
