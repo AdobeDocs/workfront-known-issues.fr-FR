@@ -41,7 +41,7 @@ Lorsqu’un utilisateur ou une utilisatrice tente de réorganiser une tâche dan
 
 +++**Mise à jour de maintenance le 25 mai 2023**
 
-**[!UICONTROL Kanban] le panorama devient vide lors de la modification de cartes**
+Le panorama **[!UICONTROL Kanban] devient vide lors de la modification de cartes.**
 
 _Agile_
 
