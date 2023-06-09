@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
-source-git-commit: bc59c3734bdb06698aa426dadd6671bc4d1739b2
+source-git-commit: c28d7e157d8abb140c79503c91ce2a049fa3c7b6
 workflow-type: tm+mt
-source-wordcount: '1246'
-ht-degree: 97%
+source-wordcount: '1255'
+ht-degree: 96%
 
 ---
 
@@ -128,6 +128,7 @@ ht-degree: 97%
 + [!DNL Workfront Proof] {#proof}
    + [Problèmes connus dans  [!DNL Workfront Proof]](workfrontproof.md)
    + Problèmes actifs dans [!DNL Workfront Proof] {#proof-current}
+      + [Bons à tirer : Les BAT sont créés lentement dans l&#39;environnement Aperçu](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
       + [[!DNL Workfront Proof] : erreur 500 lors de l’accès à [!DNL Workfront Proof] via l’API ou [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
       + [[!DNL Workfront Proof] : la recherche ne renvoie aucun résultat](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [BAT : la zone Options de texte affiche « textAnnotations »](known-issues-workfront-proof/proof-text-shows-textannotation.md)
