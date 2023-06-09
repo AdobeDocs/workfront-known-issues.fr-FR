@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: ac52149aa600405065d677c2b1f0e893844b3b46
 workflow-type: tm+mt
 source-wordcount: '3889'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -37,7 +37,7 @@ Cette mise à jour comprend uniquement des correctifs mineurs ou moins important
 
 +++**Mise à jour de maintenance le 1 juin 2023**
 
-**Aucun message d’erreur lors de la réorganisation de la tâche dans [!UICONTROL En attente de validation] status**
+**Aucun message d’erreur lors de la réorganisation de la tâche au** statut [!UICONTROL En attente d’approbation].
 
 _Tâches_
 
@@ -47,7 +47,7 @@ Lorsqu’un utilisateur ou une utilisatrice tente de réorganiser une tâche dan
 
 _Tâches_
 
-Lorsqu’un utilisateur ou une utilisatrice tente de réorganiser une tâche dans une liste de tâches, et que la tâche a le statut [!UICONTROL En attente de validation], la tâche semble se déplacer dans la liste des tâches. Lors de l’actualisation, l’utilisateur ou l’utilisatrice voit que l’élément n’a pas été déplacé. L’élément ne peut pas être déplacé, car une tâche de prédécesseur ne peut pas être déplacée sous une tâche pour laquelle il s’agit du prédécesseur, mais aucun message n’indique à l’utilisateur que l’élément ne peut pas être déplacé, ce qui peut prêter à confusion.
+Lorsqu’un utilisateur ou une utilisatrice tente de réorganiser une tâche dans une liste de tâches, et que la tâche a le statut [!UICONTROL En attente de validation], la tâche semble se déplacer dans la liste des tâches. Lors de l’actualisation, l’utilisateur ou l’utilisatrice voit que l’élément n’a pas été déplacé. L’élément ne peut pas être déplacé, car une tâche de prédécesseur ne peut pas être déplacée sous une tâche pour laquelle il s’agit du prédécesseur, mais aucun message n’indique à l’utilisateur ou à l’utilisatrice que l’élément ne peut pas être déplacé, ce qui peut prêter à confusion.
 
 +++
 
