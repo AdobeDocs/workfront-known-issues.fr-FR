@@ -3,10 +3,10 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 2ef839479364e7692f04ddcc84cbbc40466b2521
+source-git-commit: bc59c3734bdb06698aa426dadd6671bc4d1739b2
 workflow-type: tm+mt
-source-wordcount: '551'
-ht-degree: 98%
+source-wordcount: '568'
+ht-degree: 95%
 
 ---
 
@@ -24,7 +24,8 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| Aucun |  |
+| [Rapports : &quot;[!UICONTROL Oups]&quot; erreur lors de l’affichage du rapport de matrice](known-issues-workfront/wf-reports-error-matrix-report.md) | 9 juin 2023 |
+| [Bons à tirer : Les BAT sont créés lentement dans l&#39;environnement Aperçu](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md) | 9 juin 2023 |
 
 {style="table-layout:auto"}
 

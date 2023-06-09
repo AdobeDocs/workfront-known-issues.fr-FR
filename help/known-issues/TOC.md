@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
-source-git-commit: 2ef839479364e7692f04ddcc84cbbc40466b2521
+source-git-commit: bc59c3734bdb06698aa426dadd6671bc4d1739b2
 workflow-type: tm+mt
-source-wordcount: '1230'
-ht-degree: 98%
+source-wordcount: '1246'
+ht-degree: 97%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Rapports : &quot;[!UICONTROL Oups]&quot; erreur lors de l’affichage du rapport de matrice](known-issues-workfront/wf-reports-error-matrix-report.md)
+      + [Bons à tirer : Les BAT sont créés lentement dans l&#39;environnement Aperçu](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
       + [Bons à tirer : Les BAT sont créés lentement dans l&#39;environnement Aperçu](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
       + [Formulaires personnalisés : la logique d’affichage est perdue lorsque le formulaire personnalisé est modifié dans le nouveau créateur de formulaire (version Beta).](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md)
       + [Agile : le panorama [!UICONTROL Kanban] devient vide lors de la modification de cartes](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
