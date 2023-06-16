@@ -4,7 +4,7 @@ user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
 source-git-commit: e684a574f9db0ec511bbc323676e7b99650abca9
 workflow-type: tm+mt
 source-wordcount: '1264'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -18,8 +18,8 @@ ht-degree: 96%
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
       + [[!UICONTROL Accueil]: Les éléments n’apparaissent pas dans [!UICONTROL Liste de travail à domicile]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
       + [Rapports : &quot;[!UICONTROL Oups]&quot; erreur lors de l’affichage du rapport de matrice](known-issues-workfront/wf-reports-error-matrix-report.md)
-      + [Bons à tirer : Les BAT sont créés lentement dans l&#39;environnement Aperçu](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
-      + [Bons à tirer : Les BAT sont créés lentement dans l&#39;environnement Aperçu](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
+      + [Bons à tirer : les BAT sont créés lentement dans l’environnement Aperçu](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
+      + [Bons à tirer : les BAT sont créés lentement dans l’environnement Aperçu](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
       + [Formulaires personnalisés : la logique d’affichage est perdue lorsque le formulaire personnalisé est modifié dans le nouveau créateur de formulaire (version Beta).](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md)
       + [Agile : le panorama [!UICONTROL Kanban] devient vide lors de la modification de cartes](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
       + [Rapports : le tri des rapports n’est pas correct lors du tri par n’importe quel champ.](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
@@ -129,7 +129,7 @@ ht-degree: 96%
 + [!DNL Workfront Proof] {#proof}
    + [Problèmes connus dans  [!DNL Workfront Proof]](workfrontproof.md)
    + Problèmes actifs dans [!DNL Workfront Proof] {#proof-current}
-      + [Bons à tirer : Les BAT sont créés lentement dans l&#39;environnement Aperçu](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
+      + [Bons à tirer : les BAT sont créés lentement dans l’environnement Aperçu](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
       + [[!DNL Workfront Proof] : erreur 500 lors de l’accès à [!DNL Workfront Proof] via l’API ou [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
       + [[!DNL Workfront Proof] : la recherche ne renvoie aucun résultat](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [BAT : la zone Options de texte affiche « textAnnotations »](known-issues-workfront-proof/proof-text-shows-textannotation.md)
@@ -155,7 +155,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problèmes connus dans Workfront Fusion](workfrontfusion.md)
    + Problèmes actifs dans [!DNL Workfront Fusion] {#fusion-current}
-      + [[!DNL Workfront Fusion]: &quot;[!UICONTROL impossible d’exécuter UPDATE]&quot; erreur](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
+      + [[!DNL Workfront Fusion] : erreur « [!UICONTROL impossible d’exécuter la MISE À JOUR] »](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
       + [[!DNL Workfront Fusion] : les notifications par e-mail ne sont pas envoyées.](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
       + [[!DNL Workfront Fusion] : les exécutions sont bloquées ou retardées](known-issues-workfront-fusion/fusion-stuck-executions.md)
       + [[!DNL Workfront Fusion] : l’historique d’exécution d’un scénario ne s’affiche pas en entier](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)

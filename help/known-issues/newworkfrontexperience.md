@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: e684a574f9db0ec511bbc323676e7b99650abca9
 workflow-type: tm+mt
 source-wordcount: '578'
-ht-degree: 93%
+ht-degree: 97%
 
 ---
 
@@ -24,9 +24,9 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL Accueil]: Les éléments n’apparaissent pas dans [!UICONTROL Liste de travail à domicile]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 12 juin 2023 |
-| [Rapports : &quot;[!UICONTROL Oups]&quot; erreur lors de l’affichage du rapport de matrice](known-issues-workfront/wf-reports-error-matrix-report.md) | 9 juin 2023 |
-| [Bons à tirer : Les BAT sont créés lentement dans l&#39;environnement Aperçu](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md) | 9 juin 2023 |
+| [[!UICONTROL Accueil]: Les éléments n’apparaissent pas dans [!UICONTROL Liste de travail à domicile]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 12 juin 2023 |
+| [Rapports : &quot;[!UICONTROL Oups]&quot; erreur lors de l’affichage du rapport de matrice](known-issues-workfront/wf-reports-error-matrix-report.md) | 9 juin 2023 |
+| [Bons à tirer : les BAT sont créés lentement dans l’environnement Aperçu](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md) | 9 juin 2023 |
 
 {style="table-layout:auto"}
 
@@ -50,7 +50,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Bons à tirer : Les BAT sont créés lentement dans l&#39;environnement Aperçu](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 8 juin 2023 |
+| [Bons à tirer : les BAT sont créés lentement dans l’environnement Aperçu](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 8 juin 2023 |
 | [Formulaires personnalisés : erreur « [!UICONTROL Oups] » lors de la configuration d’un champ calculé](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 5 mai 2023 |
 | [Documents : les options des [!UICONTROL Activités de relecture] débouchent sur la page de connexion](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 21 avril 2023 |
 | [Filtres : impossible de partager un filtre d’un rapport sur un tableau de bord](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md) | 11 avril 2023 |
