@@ -1,18 +1,18 @@
 ---
-title: "Accueil : Les éléments n’apparaissent pas dans la liste des tâches domestiques"
-description: "Lorsqu’un utilisateur affiche sa liste de tâches personnelles, les éléments qui doivent apparaître dans la liste de tâches ne sont pas présents. Par exemple, un utilisateur peut se rendre à un projet et voir qu’il se voit attribuer des tâches dans le projet, mais ces tâches n’apparaissent pas dans la liste de tâches à domicile de l’utilisateur."
+title: '« Accueil : les éléments n’apparaissent pas dans la liste de travail de l’accueil »'
+description: « Lorsqu’un utilisateur ou une utilisatrice affiche sa liste de travail de l’accueil, les éléments qui doivent apparaître dans la liste de travail ne sont pas présents. Par exemple, un utilisateur ou une utilisatrice peut accéder à un projet et voir que des tâches lui ont été assignées dans le projet, mais ces tâches n’apparaissent pas dans la liste de travail de l’accueil de l’utilisateur ou utilisatrice. »
 hidefromtoc: true
 source-git-commit: e684a574f9db0ec511bbc323676e7b99650abca9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
-# [!UICONTROL Accueil]: Les éléments n’apparaissent pas dans [!UICONTROL Liste de travail à domicile]
+# [!UICONTROL Accueil] : les éléments n’apparaissent pas dans la [!UICONTROL Liste de travail de l’accueil]
 
-Lorsqu’un utilisateur affiche les [!UICONTROL Liste de travail à domicile], les éléments qui doivent apparaître dans la variable [!UICONTROL Liste de tâches] ne sont pas présentes. Par exemple, un utilisateur peut se rendre à un projet et voir qu’il se voit attribuer des tâches dans le projet, mais ces tâches n’apparaissent pas sur le [!UICONTROL Liste de travail à domicile].
+Lorsqu’un utilisateur ou une utilisatrice affiche sa [!UICONTROL liste de travail de l’accueil], les éléments qui doivent apparaître dans la [!UICONTROL liste de travail] ne sont pas présents. Par exemple, un utilisateur ou une utilisatrice peut accéder à un projet et voir que des tâches lui ont été assignées dans le projet, mais ces tâches n’apparaissent pas dans la [!UICONTROL liste de travail de l’accueil] de l’utilisateur ou utilisatrice.
 
 _Premier signalement le 31 mai 2023._
 
