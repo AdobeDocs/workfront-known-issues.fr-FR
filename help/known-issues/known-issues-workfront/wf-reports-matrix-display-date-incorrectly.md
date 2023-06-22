@@ -1,20 +1,20 @@
 ---
-title: "Rapports : Les dates s’affichent incorrectement dans les rapports de matrice"
-description: "Lorsqu'un rapport graphique ou matrice est regroupé par date, les dates proches des bords du groupement peuvent apparaître dans le bon groupement, dans le regroupement précédent/suivant ou dans les deux."
+title: '« Rapports : les dates ne s’affichent pas correctement dans les rapports de matrice »'
+description: « Lorsqu’un graphique ou rapport de matrice est regroupé par date, les dates proches des bords du regroupement peuvent apparaître dans le bon regroupement, dans le regroupement précédent/suivant ou dans les deux. »
 hidefromtoc: true
 source-git-commit: bc59c3734bdb06698aa426dadd6671bc4d1739b2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Rapports : Les dates s’affichent incorrectement dans les rapports de matrice
+# Rapports : les dates ne s’affichent pas correctement dans les rapports de matrice
 
-Lorsqu&#39;un rapport graphique ou matrice est regroupé par date, les dates proches des bords du groupement peuvent apparaître dans le bon groupement, dans le regroupement précédent/suivant ou dans les deux.
+Lorsqu’un graphique ou rapport de matrice est regroupé par date, les dates proches des bords du regroupement peuvent apparaître dans le bon regroupement, dans le regroupement précédent/suivant ou dans les deux.
 
-Le [!UICONTROL Détails] affiche correctement les regroupements de dates.
+L’onglet [!UICONTROL Détails] affiche correctement les regroupements par dates.
 
 _Premier signalement le 7 juin 2023._
 
