@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b8552cb4de3b5372b5b18d5891b490f22b9d803d
-workflow-type: ht
-source-wordcount: '3912'
-ht-degree: 100%
+source-git-commit: 4c62a437106b67c45b3bb0f8adcb41c7c50e5500
+workflow-type: tm+mt
+source-wordcount: '4010'
+ht-degree: 99%
 
 ---
 
@@ -20,6 +20,26 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2023.
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
 
 ## Mises à jour de juin 2023
+
++++**Mise à jour de maintenance le 22 juin 2023**
+
+**&quot;[!UICONTROL Oups]&quot; erreur lors de l’affichage du rapport de matrice**
+
+_Rapports_
+
+Lorsqu’un utilisateur ou une utilisatrice consulte un rapport de matrice, l’erreur suivante s’affiche :
+
+« [!UICONTROL Oups ! Un problème est survenu. Contactez Workfront pour nous aider à comprendre l’erreur et y remédier.] »
+
+Cela a été signalé lorsque le rapport est trié par date et que l’option « [!UICONTROL Afficher les semaines sans résultats] » est activée.
+
+**Les dates s’affichent incorrectement dans les rapports de matrice**
+
+_Rapports_
+
+Lorsqu’un graphique ou rapport de matrice est regroupé par date, les dates proches des bords du regroupement peuvent apparaître dans le bon regroupement, dans le regroupement précédent/suivant ou dans les deux.
+
++++
 
 +++**Mise à jour de maintenance le 15 juin 2023**
 
