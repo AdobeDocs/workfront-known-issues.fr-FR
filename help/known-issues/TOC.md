@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
-source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
+source-git-commit: 5b0020fd4acbd34dc179b8e80e27b1adac63a16e
 workflow-type: tm+mt
-source-wordcount: '1287'
-ht-degree: 98%
+source-wordcount: '1303'
+ht-degree: 97%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Projets / Tâches / Problèmes : La chronologie ne recalcule pas](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
+      + [Filtres : &quot;[!UICONTROL Activation à l’échelle du système]&quot; et &quot;[!UICONTROL Affichage à l’échelle du système]&quot; représentent différentes fonctionnalités ;](known-issues-workfront/wf-filters-enable-system-wide.md)
       + [Rapports : Le rapport d&#39;utilisation ne se charge pas](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
       + [Bons à tirer : Les options de validation n’apparaissent pas dans [!UICONTROL Visionneuse de vérification]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
       + [Feuilles de temps : Erreurs lors de la journalisation des heures sur une feuille de temps](known-issues-workfront/wf-timesheets-error-when-saving-hours.md)

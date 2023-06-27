@@ -3,10 +3,10 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
+source-git-commit: 5b0020fd4acbd34dc179b8e80e27b1adac63a16e
 workflow-type: tm+mt
-source-wordcount: '586'
-ht-degree: 96%
+source-wordcount: '604'
+ht-degree: 93%
 
 ---
 
@@ -24,6 +24,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Projets / Tâches / Problèmes : La chronologie ne recalcule pas](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md) | 27 juin 2023 |
 | [[!UICONTROL Accueil] : les éléments n’apparaissent pas dans la [!UICONTROL Liste de travail de l’accueil]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 12 juin 2023 |
 
 {style="table-layout:auto"}
@@ -34,6 +35,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Filtres : &quot;[!UICONTROL Activation à l’échelle du système]&quot; et &quot;[!UICONTROL Affichage à l’échelle du système]&quot; représentent différentes fonctionnalités ;](known-issues-workfront/wf-filters-enable-system-wide.md) | 27 juin 2023 |
 | [Rapports : Le rapport d&#39;utilisation ne se charge pas](known-issues-workfront/wf-reports-utilization-report-does-not-load.md) | 26 juin 2023 |
 | [Bons à tirer : Les options de validation n’apparaissent pas dans [!UICONTROL Visionneuse de vérification]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 26 juin 2023 |
 | [Feuilles de temps : Erreurs lors de la journalisation des heures sur une feuille de temps](known-issues-workfront/wf-timesheets-error-when-saving-hours.md) | 26 juin 2023 |
