@@ -3,10 +3,10 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 092056ca967a2fb28bbc80e61a44b83da9f705b4
+source-git-commit: 040d45f467161a5c6609b21da38094499bd7fec6
 workflow-type: tm+mt
-source-wordcount: '600'
-ht-degree: 93%
+source-wordcount: '607'
+ht-degree: 92%
 
 ---
 
@@ -24,6 +24,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Panoramas : La barre de défilement horizontale n’est pas présente](known-issues-workfront/wf-board-no-scrollbar.md) | 28 juin 2023 |
 | [Projets / Tâches / Problèmes : La chronologie ne recalcule pas](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md) | 27 juin 2023 |
 | [[!UICONTROL Accueil] : les éléments n’apparaissent pas dans la [!UICONTROL Liste de travail de l’accueil]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 12 juin 2023 |
 
