@@ -29,7 +29,7 @@ Cette mise à jour inclut uniquement des correctifs mineurs ou moins importants.
 
 +++**Mise à jour de maintenance le 22 juin 2023**
 
-**&quot;[!UICONTROL Oups]&quot; erreur lors de l’affichage du rapport de matrice**
+**Erreur [!UICONTROL « Oups ! »] lors de l’affichage du rapport de matrice**
 
 _Rapports_
 
@@ -39,7 +39,7 @@ Lorsqu’un utilisateur ou une utilisatrice consulte un rapport de matrice, l’
 
 Cela a été signalé lorsque le rapport est trié par date et que l’option « [!UICONTROL Afficher les semaines sans résultats] » est activée.
 
-**Les dates s’affichent incorrectement dans les rapports de matrice**
+**Les dates ne s’affichent pas correctement dans les rapports de matrice**
 
 _Rapports_
 
