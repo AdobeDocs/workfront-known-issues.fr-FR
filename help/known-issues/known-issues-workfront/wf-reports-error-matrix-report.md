@@ -3,9 +3,9 @@ title: '« Rapports : erreur Oups lors de l’affichage du rapport de matrice�
 description: « Lorsqu’un utilisateur ou une utilisatrice consulte un rapport de matrice, l’erreur Oups s’affiche. »
 hidefromtoc: true
 source-git-commit: 4c62a437106b67c45b3bb0f8adcb41c7c50e5500
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
-> Cet article a été corrigé le 22 juin 2023.
+> Cet article a été modifié le 22 juin 2023
 
 Lorsqu’un utilisateur ou une utilisatrice consulte un rapport de matrice, l’erreur suivante s’affiche :
 
