@@ -3,10 +3,10 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 040d45f467161a5c6609b21da38094499bd7fec6
+source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
 workflow-type: tm+mt
-source-wordcount: '607'
-ht-degree: 92%
+source-wordcount: '581'
+ht-degree: 93%
 
 ---
 
@@ -39,8 +39,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [Filtres : &quot;[!UICONTROL Activation à l’échelle du système]&quot; et &quot;[!UICONTROL Affichage à l’échelle du système]&quot; représentent différentes fonctionnalités ;](known-issues-workfront/wf-filters-enable-system-wide.md) | 27 juin 2023 |
 | [Rapports : Le rapport d&#39;utilisation ne se charge pas](known-issues-workfront/wf-reports-utilization-report-does-not-load.md) | 26 juin 2023 |
 | [Bons à tirer : Les options de validation n’apparaissent pas dans [!UICONTROL Visionneuse de vérification]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 26 juin 2023 |
-| [Feuilles de temps : Erreurs lors de la journalisation des heures sur une feuille de temps](known-issues-workfront/wf-timesheets-error-when-saving-hours.md) | 26 juin 2023 |
-| [Formulaires personnalisés : la logique d’affichage est perdue lorsque le formulaire personnalisé est modifié dans le nouveau créateur de formulaire (version Beta)](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md) | 24 mai 2023 |
 | [Équilibreur de charge de travail : les heures sont redistribuées de manière inattendue](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 11 mai 2023 |
 | [BAT : les validations de BAT verrouillées apparaissent toujours dans la liste de travail](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4 mai 2023 |
 | [Projets : les statuts personnalisés du [!UICONTROL Groupe résidentiel] ne sont pas disponibles lors de la création d’un projet à partir d’un modèle](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 mars 2023 |
