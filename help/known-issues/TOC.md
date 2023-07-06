@@ -2,9 +2,9 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
 source-git-commit: f15168bdb9a7ae0f3b675cf44cfe4cfbf47fd313
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1309'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -16,12 +16,12 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
-      + [Panoramas : La barre de défilement horizontale n’est pas présente](known-issues-workfront/wf-board-no-scrollbar.md)
-      + [Projets / Tâches / Problèmes : La chronologie ne recalcule pas](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
-      + [Filtres : &quot;[!UICONTROL Activation à l’échelle du système]&quot; et &quot;[!UICONTROL Affichage à l’échelle du système]&quot; représentent différentes fonctionnalités ;](known-issues-workfront/wf-filters-enable-system-wide.md)
-      + [Rapports : Le rapport d&#39;utilisation ne se charge pas](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
-      + [Bons à tirer : Les options de validation n’apparaissent pas dans [!UICONTROL Visionneuse de vérification]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
-      + [Feuilles de temps : Erreurs lors de la journalisation des heures sur une feuille de temps](known-issues-workfront/wf-timesheets-error-when-saving-hours.md)
+      + [Panoramas : la barre de défilement horizontale n’est pas présente.](known-issues-workfront/wf-board-no-scrollbar.md)
+      + [Projets/Tâches/Problèmes : la chronologie n’est pas recalculée.](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
+      + [Filtres : « [!UICONTROL Activer à l’échelle du système] » et « [!UICONTROL Afficher à l’échelle du système] » constituent des fonctionnalités différentes.](known-issues-workfront/wf-filters-enable-system-wide.md)
+      + [Rapports : impossible de charger le rapport d’utilisation](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
+      + [BAT : les options d’approbation n’apparaissent pas dans le [!UICONTROL Lecteur de vérification].](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
+      + [Feuilles de temps : erreurs lors de l’enregistrement des heures sur une feuille de temps](known-issues-workfront/wf-timesheets-error-when-saving-hours.md)
       + [[!UICONTROL Accueil] : les éléments n’apparaissent pas dans la [!UICONTROL Liste de travail de l’accueil]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
       + [Rapports : erreur « [!UICONTROL Oups] » lors de l’affichage du rapport de matrice](known-issues-workfront/wf-reports-error-matrix-report.md)
       + [Bons à tirer : les BAT sont créés lentement dans l’environnement Aperçu](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
@@ -47,7 +47,7 @@ ht-degree: 96%
       + [Projets : les statuts personnalisés du [!UICONTROL Groupe résidentiel] ne sont pas disponibles lors de la création d’un projet à partir d’un modèle](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
       + [BAT : impossible d’utiliser l’outil Polyligne lors de l’ajout d’un commentaire à un BAT](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)
       + [BAT : l’outil de mesure n’accepte pas les points décimaux](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
-      + [Recherche : la recherche  [!DNL Workfront]  expire](known-issues-workfront/wf-search-search-times-out.md)
+      + [Recherche : la recherche [!DNL Workfront] expire](known-issues-workfront/wf-search-search-times-out.md)
       + [BAT : impossible de changer de version de BAT lors de sa visualisation](known-issues-workfront/wf-proofs-cannot-switch-version.md)
       + [BAT : les menus déroulants ne s’ouvrent pas lorsqu’une personne utilisatrice est ajoutée à un BAT](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md)
       + [BAT : la personne utilisatrice est désactivée du workflow de BAT et le message « [!UICONTROL Accès non autorisé] » s’affiche lors de l’accès au BAT](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
