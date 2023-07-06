@@ -1,18 +1,18 @@
 ---
-title: 'Panoramas : La barre de défilement horizontale n’est pas présente"'
-description: "Lorsqu’un utilisateur consulte un panorama et tente de faire défiler horizontalement, la barre de défilement n’est pas présente et l’utilisateur ne peut pas faire défiler horizontalement."
+title: '« Panoramas : la barre de défilement horizontale n’est pas présente »'
+description: « Lorsqu’une personne utilisatrice consulte un panorama et tente de le faire défiler horizontalement, la barre de défilement n’est pas présente et le défilement horizontal n’est pas possible »
 hidefromtoc: true
 source-git-commit: f15168bdb9a7ae0f3b675cf44cfe4cfbf47fd313
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
 
-# Panoramas : La barre de défilement horizontale n’est pas présente
+# Panoramas : la barre de défilement horizontale n’est pas présente.
 
-Lorsqu’un utilisateur consulte un panorama et tente de faire défiler horizontalement, la barre de défilement n’est pas présente et il ne peut pas faire défiler horizontalement.
+Lorsqu’une personne utilisatrice consulte un panorama et tente de le faire défiler horizontalement, la barre de défilement n’est pas présente et le défilement horizontal n’est pas possible.
 
 **Solution de contournement**
 
