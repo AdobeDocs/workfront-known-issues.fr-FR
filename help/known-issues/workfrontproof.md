@@ -4,9 +4,9 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '304'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Bons à tirer : Les options de validation n’apparaissent pas dans [!UICONTROL Visionneuse de vérification]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 26 juin 2023 |
+| [BAT : les options d’approbation n’apparaissent pas dans le [!UICONTROL Lecteur de vérification]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md). | 26 juin 2023 |
 | [BAT : les validations de BAT verrouillées apparaissent toujours dans la liste de travail](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4 mai 2023 |
 
 {style="table-layout:auto"}
@@ -54,10 +54,10 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [Documents : problèmes liés à la liste de documents](known-issues-workfront/wf-documents-list-missing-elements.md) | 23 mars 2023 |
 | [[!DNL Workfront Proof] : les listes ne sont pas triées correctement](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 23 mars 2023 |
 | [Documents : lorsqu’un document est déplacé vers un nouveau projet, les autorisations ne sont pas héritées.](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 7 mars 2023 |
-| La zone [[!DNL Workfront Proof]: [!UICONTROL Reports]  n’est plus pris en charge](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 1 mars 2023 |
+| La zone [[!DNL Workfront Proof]: [!UICONTROL Reports] n’est plus pris en charge](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 1 mars 2023 |
 | [Épreuves : une nouvelle étape a été créée, car la date limite ne correspond pas à celle de l’étape existante.](known-issues-workfront-proof/proof-new-stage-created.md) | 2 février 2023 |
 | [[!UICONTROL Accueil] : les épreuves terminées sont bloquées dans la [!UICONTROL Liste de travail]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 janvier 2023 |
-| [Épreuves : le statut de l’épreuve n’est pas mis à jour dans les listes de [!UICONTROL documents]](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 décembre 2022 |
+| [Épreuves : le statut de l’épreuve n’est pas mis à jour dans les listes de [!UICONTROL documents] ](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 décembre 2022 |
 | [Épreuves : l’épreuve n’est pas partagée avec les utilisateurs du workflow de l’épreuve](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18 septembre 2022 |
 | [Épreuves : le champ [!UICONTROL Étapes d’épreuve actives] est vide](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 septembre 2022 |
 | [[!DNL Workfront Proof] : impossible d’ajouter un utilisateur à l’épreuve en l’identifiant dans un commentaire](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 23 mars 2022 |
