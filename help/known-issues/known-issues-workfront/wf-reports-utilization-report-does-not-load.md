@@ -1,18 +1,18 @@
 ---
-title: "Rapports : Le rapport d'utilisation ne se charge pas"
-description: "Lorsqu’un client tente d’afficher un rapport d’utilisation, il voit un indicateur de chargement en rotation, mais le rapport ne se charge pas. Le rapport a renvoyé une erreur 500, mais l’utilisateur ne voit aucune indication que le rapport a échoué."
+title: '« Rapports : impossible de charger le rapport d’utilisation »'
+description: « Lorsqu’un client ou une cliente tente d’afficher un rapport d’utilisation, il ou elle voit un indicateur de chargement en rotation, mais le rapport ne se charge pas. Le rapport a renvoyé une erreur 500, mais la personne utilisatrice ne voit aucune indication signalant que le rapport a rencontré une erreur. »
 hidefromtoc: true
 source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Rapports : Le rapport d&#39;utilisation ne se charge pas
+# Rapports : impossible de charger le rapport d’utilisation
 
-Lorsqu’un client tente d’afficher un rapport d’utilisation, il voit un indicateur de chargement en rotation, mais le rapport ne se charge pas. Le rapport a renvoyé une erreur 500, mais l’utilisateur ne voit aucune indication d’échec du rapport.
+Lorsqu’un client ou une cliente tente d’afficher un rapport d’utilisation, il ou elle voit un indicateur de chargement en rotation, mais le rapport ne se charge pas. Le rapport a renvoyé une erreur 500, mais la personne utilisatrice ne voit aucune indication que le rapport a rencontré une erreur.
 
 _Premier signalement le 1 mai 2023._
 
