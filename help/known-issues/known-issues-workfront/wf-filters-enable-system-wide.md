@@ -1,21 +1,21 @@
 ---
-title: "Filtres : Activez les fonctionnalités à l’échelle du système et affichez-les à l’échelle du système."
-description: "Si un utilisateur partage un filtre et active la variable [!UICONTROL Affichage à l’échelle du système] , le filtre est partagé avec chaque utilisateur du système. Cependant, si un administrateur affiche alors ce filtre dans [!UICONTROL Configuration], ce filtre s’affiche. [!UICONTROL false] dans le [!UICONTROL Visible à l’échelle du système] colonne . Pour que ce filtre devienne une valeur par défaut du système, l’administrateur doit activer la fonction [!UICONTROL Activation à l’échelle du système] dans Configuration. Cela peut prêter à confusion en raison de la similarité de la formulation."
+title: '« Filtres : activer à l’échelle du système et Afficher à l’échelle du système constituent des fonctionnalités différentes. »'
+description: « Si un utilisateur ou une utilisatrice partage un filtre et active l’option [!UICONTROL Afficher à l’échelle du système], le filtre est partagé avec chaque personne utilisatrice du système. Cependant, si l’administration consulte ensuite ce filtre dans la [!UICONTROL Configuration], ce dernier affiche [!UICONTROL false] dans la colonne [!UICONTROL Visible à l’échelle du système]. Pour que ce filtre devienne la valeur système par défaut, l’administration doit activer l’option [!UICONTROL Activer à l’échelle du système] dans la configuration. Cela peut prêter à confusion en raison de la formulation similaire. »
 hidefromtoc: true
 source-git-commit: 9ac3e334b0f29031bbf81763341c52b73dd762e6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '190'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 
-# Filtres : &quot;[!UICONTROL Activation à l’échelle du système]&quot; et &quot;[!UICONTROL Affichage à l’échelle du système]&quot; représentent différentes fonctionnalités ;
+# Filtres : « [!UICONTROL activer à l’échelle du système] » et « [!UICONTROL Afficher à l’échelle du système] » constituent des fonctionnalités différentes.
 
-Si un utilisateur partage un filtre et active le paramètre &quot;[!UICONTROL Affichage à l’échelle du système]&quot;, le filtre est partagé avec chaque utilisateur du système. Cependant, si un administrateur affiche alors ce filtre dans [!UICONTROL Configuration], il voit que ce filtre affiche &quot;[!UICONTROL false]&quot; dans le[!UICONTROL Visible à l’échelle du système]&quot;. Pour que ce filtre soit une valeur par défaut du système, l’administrateur doit activer le paramètre &quot;[!UICONTROL Activation à l’échelle du système]&quot; dans [!UICONTROL Configuration]. Cela peut prêter à confusion en raison de la similarité de la formulation.
+Si un utilisateur ou une utilisatrice partage un filtre et active l’option « [!UICONTROL Afficher à l’échelle du système] », le filtre est partagé avec chaque personne utilisatrice du système. Cependant, si l’administration consulte ensuite ce filtre dans la [!UICONTROL Configuration], ce dernier affiche « [!UICONTROL false] » dans la colonne « [!UICONTROL Visible à l’échelle du système] ». Pour que ce filtre devienne la valeur système par défaut, l’administration doit activer l’option « [!UICONTROL Activer à l’échelle du système] » dans la [!UICONTROL Configuration]. Cela peut prêter à confusion en raison de la formulation similaire.
 
-* [!UICONTROL Filtrer] > [!UICONTROL Partager] > [!UICONTROL Affichage à l’échelle du système] **actions** le filtre permet à tous les utilisateurs du système d’accéder à .
-* [!UICONTROL Configuration] > [!UICONTROL Filtres] > [!UICONTROL Activation à l’échelle du système] fait en sorte que le filtre **par défaut du système** filtre.
+* [!UICONTROL Filtre] > [!UICONTROL Partage] > [!UICONTROL Afficher à l’échelle du système] **partage** le filtre avec toutes les personnes utilisatrices du système.
+* [!UICONTROL Configuration] > [!UICONTROL Filtres] > [!UICONTROL Activer à l’échelle du système] transforme le filtre en filtre **par défaut du système**.
 
 _Premier signalement le 24 mai 2023._
 
