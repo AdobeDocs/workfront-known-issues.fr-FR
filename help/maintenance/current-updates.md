@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 3d5489cd6a5474d4a53800f7bea1475aa8ddc482
+source-git-commit: ddda3e0d0f00d935e8be5789b41f7e05b91299d6
 workflow-type: tm+mt
-source-wordcount: '4035'
-ht-degree: 100%
+source-wordcount: '4193'
+ht-degree: 98%
 
 ---
 
@@ -18,6 +18,38 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2023.
 >Ces mises à jour incluent également d’autres correctifs mineurs ou moins conséquents. L’assistance [!DNL Workfront] vous avertira lorsqu’un problème que vous avez soumis est résolu.
 
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
+
+## Mises à jour de juillet 2023
+
++++**Mise à jour de maintenance le 13 juillet 2023**
+
+**La chronologie ne recalcule pas**
+
+_Projets / Tâches / Problèmes_
+
+Lorsqu’un événement se produit qui doit déclencher un calcul de la chronologie, celle-ci n’est pas recalculée. Ceci affecte les nouveaux calculs effectués lors des modifications et les nouveaux calculs planifiés. La précision de l’équilibreur de charge de travail peut également être affectée.
+
+**Les validations de BAT verrouillées apparaissent toujours dans la liste de travail**
+
+_BAT_
+
+Les validations de BAT qui ont expiré et sont verrouillées apparaissent toujours sur la liste de travail à domicile de l’approbateur ou de l’approbatrice, au lieu de disparaître de la liste lorsque la date limite est passée.
+
+**Le rapport d&#39;utilisation ne se charge pas**
+
+_Rapports_
+
+Lorsqu’un client ou une cliente tente d’afficher un rapport d’utilisation, il ou elle voit un indicateur de chargement en rotation, mais le rapport ne se charge pas. Le rapport a renvoyé une erreur 500, mais la personne utilisatrice ne voit aucune indication que le rapport a rencontré une erreur.
+
+**La page Modifier l’utilisateur n’est pas renseignée**
+
+<!--no article-->
+
+_Utilisateurs et utilisatrices_
+
+Lorsqu’un utilisateur tente de modifier un autre utilisateur, la page Modifier l’utilisateur est vide et ne peut pas modifier l’autre utilisateur.
+
++++
 
 ## Mises à jour de juin 2023
 
