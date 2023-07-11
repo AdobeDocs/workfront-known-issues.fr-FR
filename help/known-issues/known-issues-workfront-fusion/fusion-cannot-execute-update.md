@@ -3,7 +3,7 @@ title: '« Workfront Fusion : impossible d’exécuter l’erreur de MISE À 
 description: « L’exécution d’un scénario échoue et l’erreur ne peut pas exécuter la MISE À JOUR dans une transaction en lecture seule. »
 hidefromtoc: true
 source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '60'
 ht-degree: 100%
 
