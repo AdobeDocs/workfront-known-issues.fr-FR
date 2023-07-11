@@ -4,9 +4,9 @@ description: 'Lorsqu’un module Workfront Fusion renvoie une erreur 404, aucun 
 hidefromtoc: true
 exl-id: 07a93454-2647-4c60-bdfd-3779e3c6f9b3
 source-git-commit: 207dd6e09e40f58ee13f790aa9ddcaf2277c93dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '148'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -20,4 +20,4 @@ Lorsqu’un module [!DNL Workfront Fusion] renvoie une erreur 404, aucun autre d
 
 Il s’agit d’un problème lié à l’application à laquelle Fusion tente de se connecter et qui doit être résolu dans cette application.
 
-_Premier signalement le 9 août 2022._
+_Premier signalement le 9 août 2022._
