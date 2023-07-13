@@ -2,9 +2,9 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 45e4dc8ef13db59dd9f578c63f190d0249bc7def
+source-git-commit: 7fd6a2604bf2e5b9e4bb69b1e3f242ebf761f180
 workflow-type: tm+mt
-source-wordcount: '4227'
+source-wordcount: '4193'
 ht-degree: 98%
 
 ---
@@ -48,12 +48,6 @@ Lorsqu’un client ou une cliente tente d’afficher un rapport d’utilisation,
 _Utilisateurs et utilisatrices_
 
 Lorsqu’un utilisateur tente de modifier un autre utilisateur, la page Modifier l’utilisateur est vide et ne peut pas modifier l’autre utilisateur.
-
-**Les heures sont redistribuées de manière inattendue**
-
-_Équilibreur de charge de travail_
-
-Lorsque des affectations d’heure sont effectuées sur des tâches spécifiques, ces heures peuvent être recalculées et redistribuées de manière inattendue. Cela peut se produire après le passage d’une date ou d’une page à l’autre, ou après l’actualisation de la page.
 
 +++
 
