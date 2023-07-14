@@ -1,26 +1,26 @@
 ---
-title: 'Configuration : Impossible de modifier le coût/l’heure du rôle de tâche ou la facturation/l’heure"'
-description: "Lorsqu’un utilisateur modifie un rôle de tâche et tente de modifier les champs Coût/heure ou Facturation/Heure, les champs sont vides et l’utilisateur ne peut pas les modifier."
+title: '« Configuration : impossible de modifier le Coût/heure ou la Facturation/heure de la fonction »'
+description: « Lorsqu’un utilisateur ou une utilisatrice change une fonction et tente de modifier les champs Coût/heure ou Facturation/heure, les champs sont vides et ne peuvent pas être modifiés. »
 hidefromtoc: true
 source-git-commit: f532612231727185f457a86250e1e80ce519cc63
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Configuration : Impossible de modifier le coût/l’heure du rôle de tâche ou la facturation/l’heure
+# Configuration : impossible de modifier le Coût/heure ou la Facturation/heure de la fonction
 
 >[!NOTE]
 >
->Ce problème se trouve uniquement dans l’environnement Aperçu .
+>Ce problème est uniquement présent dans l’environnement de prévisualisation.
 
-Lorsqu’un utilisateur modifie un rôle de tâche et tente de modifier les champs Coût/heure ou Facturation/Heure, les champs sont vides et l’utilisateur ne peut pas les modifier.
+Lorsqu’un utilisateur ou une utilisatrice change une fonction et tente de modifier les champs Coût/heure ou Facturation/heure, les champs sont vides et ne peuvent pas être modifiés.
 
 **Solution de contournement**
 
-Modifiez le champ intégré dans la liste des rôles de tâche.
+Modifiez le champ intégré dans la liste des fonctions.
 
 _Premier signalement le 29 juin 2023._
 
