@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 7fd6a2604bf2e5b9e4bb69b1e3f242ebf761f180
 workflow-type: tm+mt
 source-wordcount: '4193'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -23,31 +23,31 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 +++**Mise à jour de maintenance le 13 juillet 2023**
 
-**La chronologie ne recalcule pas**
+**Le journal ne recalcule pas**
 
-_Projets / Tâches / Problèmes_
+_Projets / Tâches / Événements_
 
 Lorsqu’un événement se produit qui doit déclencher un calcul de la chronologie, celle-ci n’est pas recalculée. Ceci affecte les nouveaux calculs effectués lors des modifications et les nouveaux calculs planifiés. La précision de l’équilibreur de charge de travail peut également être affectée.
 
-**Les validations de BAT verrouillées apparaissent toujours dans la liste de travail**
+**Les validations d’épreuves verrouillées apparaissent toujours dans la liste de travail**
 
-_BAT_
+_Épreuves_
 
-Les validations de BAT qui ont expiré et sont verrouillées apparaissent toujours sur la liste de travail à domicile de l’approbateur ou de l’approbatrice, au lieu de disparaître de la liste lorsque la date limite est passée.
+Les validations d’épreuves qui sont arrivées à expiration et qui sont verrouillées apparaissent toujours sur la liste de travail de l’accueil de l’approbateur ou de l’approbatrice, au lieu de disparaître de la liste lorsque la date limite est passée.
 
-**Le rapport d&#39;utilisation ne se charge pas**
+**Le rapport d’utilisation ne se charge pas**
 
 _Rapports_
 
 Lorsqu’un client ou une cliente tente d’afficher un rapport d’utilisation, il ou elle voit un indicateur de chargement en rotation, mais le rapport ne se charge pas. Le rapport a renvoyé une erreur 500, mais la personne utilisatrice ne voit aucune indication que le rapport a rencontré une erreur.
 
-**La page Modifier l’utilisateur n’est pas renseignée**
+**La page Modifier l’utilisateur est vide**
 
 <!--no article-->
 
 _Utilisateurs et utilisatrices_
 
-Lorsqu’un utilisateur tente de modifier un autre utilisateur, la page Modifier l’utilisateur est vide et ne peut pas modifier l’autre utilisateur.
+Lorsqu’un utilisateur ou une utilisatrice tente de modifier un autre utilisateur ou utilisatrice, la page Modifier l’utilisateur est vide et rend la modification impossible.
 
 +++
 
