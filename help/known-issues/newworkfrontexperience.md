@@ -4,9 +4,9 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 7fd6a2604bf2e5b9e4bb69b1e3f242ebf761f180
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '567'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Configuration : Impossible de modifier le coût/l’heure du rôle de tâche ou la facturation/l’heure](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 10 juillet 2023 |
+| [Configuration : impossible de modifier le Coût/heure ou la Facturation/heure de la fonction](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 10 juillet 2023 |
 | [Filtres : « [!UICONTROL Activer à l’échelle du système] » et « [!UICONTROL Afficher à l’échelle du système] » constituent des fonctionnalités différentes.](known-issues-workfront/wf-filters-enable-system-wide.md) | 27 juin 2023 |
 | [BAT : les options d’approbation n’apparaissent pas dans le [!UICONTROL Lecteur de vérification]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md). | 26 juin 2023 |
 | [Équilibreur de charge de travail : les heures sont redistribuées de manière inattendue](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 11 mai 2023 |
