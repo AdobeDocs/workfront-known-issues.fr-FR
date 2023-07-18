@@ -3,10 +3,10 @@ title: Problèmes connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL Adobe Workfront]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 7fd6a2604bf2e5b9e4bb69b1e3f242ebf761f180
+source-git-commit: 69a7b0a82ac5a13a851ed7f2b889ff0758d60e17
 workflow-type: tm+mt
-source-wordcount: '567'
-ht-degree: 100%
+source-wordcount: '577'
+ht-degree: 98%
 
 ---
 
@@ -24,6 +24,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Accueil]: [!UICONTROL Liste de travail à domicile] est vide / lent à charger](known-issues-workfront/wf-home-blank-slow-to-load.md) | 18 juillet 2023 |
 | [Panoramas : la barre de défilement horizontale n’est pas présente](known-issues-workfront/wf-board-no-scrollbar.md) | 28 juin 2023 |
 | [[!UICONTROL Accueil] : les éléments n’apparaissent pas dans la [!UICONTROL Liste de travail de l’accueil]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 12 juin 2023 |
 
