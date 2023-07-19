@@ -3,7 +3,7 @@ title: '« Projets/Tâches/ Problèmes : la chronologie n’est pas recalculé
 description: « Lorsqu’un événement se produit qui doit déclencher un calcul de la chronologie, celle-ci n’est pas recalculée. Ceci affecte les nouveaux calculs effectués lors des modifications et les nouveaux calculs planifiés. La précision de l’équilibreur de charge de travail peut également être affectée. »
 hidefromtoc: true
 source-git-commit: 7fd6a2604bf2e5b9e4bb69b1e3f242ebf761f180
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
 ht-degree: 100%
 
