@@ -2,10 +2,10 @@
 title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 69a7b0a82ac5a13a851ed7f2b889ff0758d60e17
+source-git-commit: 52db6449599843d31e6fcb6e0b664801fbf978a5
 workflow-type: tm+mt
-source-wordcount: '4219'
-ht-degree: 99%
+source-wordcount: '4259'
+ht-degree: 98%
 
 ---
 
@@ -23,7 +23,11 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 +++**Mise à jour de maintenance (prévue) le 20 juillet 2023**
 
-Cette mise à jour inclut uniquement des correctifs mineurs ou moins importants. L’assistance [!DNL Workfront] vous avertira lorsqu’un problème que vous avez soumis sera résolu.
+**Définition des heures planifiées sur les tâches récurrentes des enfants avec [!UICONTROL Simple] type de durée sans attributions**
+
+_Tâches_
+
+Maintenant, lorsque vous définissez Heures planifiées sur une nouvelle tâche récurrente parent avec un [!UICONTROL Simple] Type de durée et aucune affectation, les heures sont également ajoutées aux répétitions individuelles. Avant cette modification, les heures n’étaient pas enregistrées pour les récurrences lorsque les tâches parents n’étaient pas affectées.
 
 +++
 
