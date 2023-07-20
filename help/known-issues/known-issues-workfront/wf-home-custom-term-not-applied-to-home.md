@@ -3,8 +3,9 @@ title: "Accueil\_: la terminologie personnalisée n’est pas appliquée à la z
 description: La zone d’Accueil affiche les noms par défaut des objets au lieu de la terminologie définie par l’organisation. Ce problème semble concerner diverses zones.
 exl-id: d15afc61-25f7-4fd8-9f9a-db94ed392082
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: ht
+feature: Get Started with Workfront
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
+workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 100%
 

@@ -2,9 +2,10 @@
 title: '« Documents : lorsqu’un document est déplacé vers un nouveau projet, les autorisations ne sont pas héritées »'
 description: « Lorsqu’un utilisateur ou une utilisatrice déplace un document vers un autre projet, il n’hérite pas des autorisations de partage de ce dernier. Le document n’est pas partagé avec les utilisateurs et utilisatrices qui ont le projet partagé.  »
 hidefromtoc: true
+feature: Digital Content and Documents
 exl-id: 56dfaf55-7438-4569-b9a1-b62fbdd3f4d9
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 100%
 

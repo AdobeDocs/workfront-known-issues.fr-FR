@@ -3,8 +3,9 @@ title: 'Accueil : le clic près d’une miniature de la Liste de travail abouti
 description: Lorsqu’un utilisateur ou une utilisatrice tente de consulter un document ou un BAT en cliquant sur la miniature appropriée dans la Liste de travail du menu Accueil, cela mène à une page vierge. Le problème est dû au fait qu’une URL invisible se trouve juste en dessous de l’image miniature. Si l’utilisateur ou l’utilisatrice clique sur cette URL, cela mène à une page vierge.
 hidefromtoc: true
 exl-id: 7512869b-8efe-4806-abaf-6ee89be1a3de
-source-git-commit: a9e0c0cc9bd1d69b22fcf9ef755a715d37ba658d
-workflow-type: ht
+feature: Get Started with Workfront, Digital Content and Documents
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
+workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 100%
 

@@ -2,9 +2,10 @@
 title: "Agile\_: impossible de modifier les champs des formulaires personnalisés sur les cartes"
 description: Lorsque le champ d’une carte du tableau kanban extrait des données à partir d’un formulaire personnalisé, les utilisateurs ne sont pas en mesure de modifier ce champ directement à partir de la carte.
 exl-id: 3edad5bb-7deb-45ea-a89c-6587c34bea12
+feature: Agile
 hidefromtoc: true
-source-git-commit: c452fe0fe206a741dab40d6a121ebf6bace675fe
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 100%
 

@@ -3,8 +3,9 @@ title: "Accueil\_: les dates de délégation d’approbation changent après l�
 description: Lorsque l’utilisateur délègue des approbations à un utilisateur travaillant dans un fuseau horaire différent, la délégation semble s’enregistrer correctement et l’utilisateur délégué reçoit une notification par e-mail contenant les dates correctes. Toutefois, lorsque la page est actualisée, la date de début est avancée d’un jour et la date de fin est reportée d’un jour. L’utilisateur reçoit aussi une autre notification par e-mail contenant cette fois les dates décalées.
 exl-id: 0dc3bc4c-b6b3-489f-aa4b-c925009512db
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: ht
+feature: Approvals
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
+workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 100%
 

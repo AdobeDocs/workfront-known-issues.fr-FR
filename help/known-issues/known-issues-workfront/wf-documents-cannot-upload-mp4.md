@@ -1,9 +1,10 @@
 ---
 title: '« Documents : impossible de charger le fichier MP4 »'
 description: « Lorsqu’un utilisateur tente de charger un fichier MP4, le fichier ne charge pas et le message d’erreur « Échec de chargement du fichier » apparaît. »
+feature: Digital Content and Documents
 hidefromtoc: true
-source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 100%
 

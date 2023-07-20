@@ -2,9 +2,10 @@
 title: '« Formulaires personnalisés : la modification des champs des formulaires personnalisés interobjet exige un accès de niveau Gérer ou Modifier »'
 description: Lorsque l’utilisateur crée un formulaire interobjet qui autorise uniquement un accès de niveau Gérer ou Modifier, puis supprime ce type d’objet, le formulaire personnalisé continue d’exiger un accès de niveau Gérer ou Modifier pour modifier les champs. Rien n’indique que les champs exigent un accès de niveau Gérer ou Modifier, et il est impossible de réinitialiser le formulaire.
 hidefromtoc: true
+feature: Custom Forms
 exl-id: 3f7ad4f5-1480-4514-8543-7e699743a8ef
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 100%
 

@@ -2,9 +2,10 @@
 title: "Approbations\_: la délégation d’approbation est définie pour un nombre de jours incorrect"
 description: Lorsque l’utilisateur planifie un Temps de congé personnel et délègue son approbation pour sa période de congé, la délégation d’approbation peut inclure des jours avant ou après la période de congé prévue.
 exl-id: 8d978983-b663-442b-9935-75ecbd359a43
+feature: Approvals
 hidefromtoc: true
-source-git-commit: de7f66f7acba1a0ac32a1257b2e643a767eae7fb
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 100%
 

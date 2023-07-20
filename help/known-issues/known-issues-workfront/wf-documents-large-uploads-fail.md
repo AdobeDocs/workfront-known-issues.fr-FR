@@ -1,14 +1,15 @@
 ---
-title: '« Documents : erreur lors du téléchargement d’un fichier volumineux »'
-description: '« Lorsqu’un utilisateur ou une utilisatrice tente de télécharger un fichier volumineux (plus de 25 Mo), le fichier ne télécharge pas et l’erreur suivante s’affiche : échec du téléchargement du fichier. »'
+title: 'Documents : erreur lors du téléchargement d’un fichier volumineux'
+description: Lorsqu’un utilisateur tente de charger un fichier volumineux (plus de 25 Mo), il ne le charge pas et l’utilisateur voit l’erreur Échec du téléchargement du fichier.
 hidefromtoc: true
-source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
-workflow-type: ht
+feature: Digital Content and Documents
+exl-id: 6887a0a1-4f0b-4c91-b20f-664dd5f94470
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 100%
+ht-degree: 69%
 
 ---
-
 
 # Documents : erreur lors du téléchargement d’un fichier volumineux
 
@@ -25,4 +26,3 @@ Lorsqu’un utilisateur ou une utilisatrice tente de télécharger un fichier vo
 Téléchargez le document en tant que BAT.
 
 _Premier signalement le 14 novembre 2022._
-

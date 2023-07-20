@@ -2,7 +2,8 @@
 title: "Accueil : La liste de travail à domicile est vide / lente à se charger"
 description: "Lorsqu’un utilisateur tente d’afficher sa liste de tâches domestiques, la page est vierge pendant une longue période au fur et à mesure du chargement de la page. Le chargement peut prendre plusieurs minutes, pendant lesquelles la liste de travail est vide."
 hidefromtoc: true
-source-git-commit: 69a7b0a82ac5a13a851ed7f2b889ff0758d60e17
+feature: Get Started with Workfront
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 5%

@@ -2,9 +2,10 @@
 title: 'Documents : les options des Activités de relecture débouchent sur la page de connexion'
 description: Lorsqu’un utilisateur ou une utilisatrice consulte la page des Détails du document et clique sur une option du menu Activités de relecture, la personne est redirigée vers une page de connexion au lieu de la page de destination prévue.
 hidefromtoc: true
+feature: Digital Content and Documents
 exl-id: 637fa798-9d23-497c-a50b-e40deaa4fd61
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 100%
 
