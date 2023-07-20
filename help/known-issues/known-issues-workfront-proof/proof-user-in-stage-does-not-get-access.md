@@ -3,8 +3,9 @@ title: '« BAT : le BAT n’est pas partagé avec les utilisateurs et utilisat
 description: Lorsqu’un BAT atteint une étape d’un workflow auquel un utilisateur ou une utilisatrice a été ajouté(e) lors de la création de ce BAT, il n’est pas partagé avec l’utilisateur ou l’utilisatrice qui ne peut pas accéder à l’épreuve.
 hidefromtoc: true
 exl-id: c3b8cc45-5181-4335-8188-56ca942925f0
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: ht
+feature: Workfront Proof
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 100%
 

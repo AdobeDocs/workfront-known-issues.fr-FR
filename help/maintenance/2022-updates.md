@@ -1,8 +1,10 @@
 ---
 title: Mises à jour de maintenance pour Workfront  en 2022
 description: Mises à jour de maintenance 2022 pour [!DNL Adobe Workfront]
-source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
-workflow-type: ht
+exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
+feature: Get Started with Workfront
+source-git-commit: 6f245f70ca00bef3db833a891cc4c7d822761c37
+workflow-type: tm+mt
 source-wordcount: '16739'
 ht-degree: 100%
 
@@ -247,7 +249,7 @@ Les problèmes suivants ont été signalés concernant des événements ajoutés
 * Certaines sous-tâches d’une tâche ajoutée à une itération n’apparaissent pas sur la page [!UICONTROL Itération].
 * Lorsqu’un utilisateur tente d’ajouter une tâche manquante à l’itération, la tâche n’est pas ajoutée et l’utilisateur voit le message suivant :
 
-   « [!UICONTROL L’erreur suivante s’est produite : aucun des éléments suivants n’a pu être déplacé parce qu’ils ne sont pas affectés à une équipe Agile ou ne sont pas des éléments Agile.] »
+  « [!UICONTROL L’erreur suivante s’est produite : aucun des éléments suivants n’a pu être déplacé parce qu’ils ne sont pas affectés à une équipe Agile ou ne sont pas des éléments Agile.] »
 
 **Les tâches affectées au moyen de la modification en bloc n’apparaissent pas dans la liste d’attente de l’équipe.**
 
@@ -639,7 +641,7 @@ Lorsque l’utilisateur redimensionne la zone [!UICONTROL Description] dans la z
 
 *Tâches et événements*
 
-Lorsque l’utilisateur crée une tâche ou un événement dans un projet et clique en dehors de la fenêtre contextuelle de création, celle-ci se ferme sans avertissement et toutes les informations déjà saisies sont perdues.
+Lorsque l’utilisateur crée une tâche ou un événement dans un projet et clique en dehors du pop-up de création, celui-ci se ferme sans avertissement et toutes les informations déjà saisies sont perdues.
 
 **Suppression de la possibilité d’envoyer une épreuve par e-mail vers une zone de dépôt**
 

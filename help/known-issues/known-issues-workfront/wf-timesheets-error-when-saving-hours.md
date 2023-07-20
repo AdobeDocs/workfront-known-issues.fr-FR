@@ -2,8 +2,9 @@
 title: '« Feuilles de temps : erreurs lors de l’enregistrement des heures sur une feuille de temps »'
 description: « Lorsqu’une personne utilisatrice tente d’enregistrer des heures relatives à une tâche sur sa feuille de temps, celles-ci ne sont pas enregistrées et des messages d’erreur s’affichent. »
 hidefromtoc: true
-source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
-workflow-type: ht
+feature: Timesheets
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 100%
 

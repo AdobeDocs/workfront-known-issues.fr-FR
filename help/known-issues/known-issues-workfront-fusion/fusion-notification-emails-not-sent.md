@@ -2,7 +2,8 @@
 title: '« Workfront Fusion : les notifications par e-mail ne sont pas envoyées. »'
 description: « Lorsqu’un événement se produit dans Workfront Fusion qui devrait déclencher une notification par e-mail (en cas d’erreur, par exemple), l’e-mail n’est pas envoyé. »
 hidefromtoc: true
-source-git-commit: 69b4c330df59957b56a79f9e6aa1c02c60f45e23
+feature: Workfront Fusion
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 100%

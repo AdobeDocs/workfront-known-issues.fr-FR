@@ -1,14 +1,15 @@
 ---
-title: '« [!DNL Workfront Fusion] :  [!DNL Workfront]  > module d’[!UICONTROL appel d’API personnalisé] renvoie des erreurs 404 ou 422 »'
-description: « Le module Workfront > Appel d’API personnalisée renvoie une erreur. »
+title: '''[!DNL Workfront Fusion]: [!DNL Workfront] &gt; [!UICONTROL Appel API personnalisé] module renvoyant des erreurs 404 ou 422'
+description: Workfront &gt; Le module d’API personnalisé renvoie une erreur.
 hidefromtoc: true
-source-git-commit: f5a953dafaa758e941e56595e9b1cabd6dc87f15
-workflow-type: ht
-source-wordcount: '68'
-ht-degree: 100%
+exl-id: 6b9effaa-f35a-4bff-ad9c-750f836c2ef9
+feature: Workfront Fusion
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
+source-wordcount: '72'
+ht-degree: 73%
 
 ---
-
 
 # [!DNL Workfront Fusion] : [!DNL Workfront] > [!UICONTROL module d’appel d’API personnalisé] renvoie des erreurs 404 ou 422
 
@@ -22,4 +23,3 @@ Le module [!DNL Workfront] > [!UICONTROL Appel API personnalisé] renvoie l’u
 * [!UICONTROL RuntimeError [422] Paramètre non valide : valeur d’état de filtrage « CMS »]
 
 _Premier signalement le 28 septembre 2022._
-

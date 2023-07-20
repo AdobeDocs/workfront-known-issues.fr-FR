@@ -3,8 +3,9 @@ title: '« Configuration : les listes se chargent lentement dans Configuration
 description: « Lorsqu’un utilisateur ou une utilisatrice se trouve dans la zone Configuration et tente de charger une liste, la liste se charge très lentement. Ce problème semble concerner diverses zones dans Configuration.
 hidefromtoc: true
 exl-id: 4b48b101-9c38-416a-a45b-203cf8f6eefc
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: ht
+feature: System Setup and Administration
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 100%
 

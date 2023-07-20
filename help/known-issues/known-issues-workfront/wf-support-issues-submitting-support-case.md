@@ -3,8 +3,9 @@ title: '« [!DNL Workfront] : problèmes lors de la soumission d’un cas d’
 description: « Si vous êtes un Contact d’assistance  [!DNL Workfront]  autorisé et rencontrez des problèmes lors de la soumission d’un cas d’assistance, appelez les numéros ci-dessous pour recevoir de l’aide. »
 hidefromtoc: true
 exl-id: f19b3e67-d31d-48f8-b847-dd4d309e11fc
-source-git-commit: c619bd4970134541e5d9960cd140fdca13d33641
-workflow-type: ht
+feature: System Setup and Administration
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 100%
 

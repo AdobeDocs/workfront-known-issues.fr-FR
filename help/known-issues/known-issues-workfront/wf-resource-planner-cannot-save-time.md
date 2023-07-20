@@ -3,8 +3,9 @@ title: 'Planificateur de ressources  : impossible d’enregistrer après l’aj
 description: Lorsqu’un utilisateur ou une utilisatrice dans le [!UICONTROL Planificateur de ressources] ajoute du temps, puis tente d’effectuer un enregistrement, le bouton [!UICONTROL Enregistrer] ne répond pas. Si l’utilisateur ou l’utilisatrice clique sur [!UICONTROL Annuler], un message au sujet des modifications non enregistrées s’affiche.
 hidefromtoc: true
 exl-id: a5e2aefb-e1f6-48dc-9fe8-e03c0c157274
-source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
-workflow-type: ht
+feature: Resource Management
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 100%
 

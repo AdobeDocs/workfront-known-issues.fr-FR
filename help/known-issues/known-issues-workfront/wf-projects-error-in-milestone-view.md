@@ -2,8 +2,9 @@
 title: '« Projets : erreur lors de l’utilisation de la vue Jalon »'
 description: « Lorsqu’un utilisateur ou une utilisatrice consulte une liste de projets et tente d’utiliser la vue Jalon, la vue ne se charge pas et une erreur s’affiche. »
 hidefromtoc: true
-source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
-workflow-type: ht
+feature: Projects
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 100%
 

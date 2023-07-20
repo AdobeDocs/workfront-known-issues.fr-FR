@@ -3,8 +3,9 @@ title: 'BAT : l’onglet Activité du BAT ouvre l’onglet Détails du BAT.'
 description: Lorsqu’un utilisateur ou une utilisatrice consulte un BAT et clique sur l’onglet Activité du BAT, l’onglet Détails du BAT s’ouvre à la place. Cela se produit lorsqu’une étape de BAT a été ajoutée manuellement au workflow.
 hidefromtoc: true
 exl-id: 153a7289-d1e3-4894-bb0d-5baafebb7dac
-source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
-workflow-type: ht
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 100%
 

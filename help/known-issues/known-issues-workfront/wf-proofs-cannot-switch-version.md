@@ -3,8 +3,9 @@ title: '« BAT : impossible de changer de version de BAT lors de sa visualisat
 description: Lorsqu’un utilisateur ou une utilisatrice consulte un BAT dans la [!UICONTROL visionneuse de BAT] et passe à une autre version, la liste déroulante des versions est désactivée et il est impossible de revenir à la version originale que la personne visualisait ou à une autre version du BAT.
 hidefromtoc: true
 exl-id: 2ee55109-47c0-4e85-8b91-a56d677303ef
-source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
-workflow-type: ht
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 100%
 

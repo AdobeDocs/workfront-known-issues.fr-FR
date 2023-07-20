@@ -3,8 +3,9 @@ title: Les liens d’aide in-app de Fusion ne mènent pas à des pages d’aide 
 description: Pour le moment, les liens d’aide dans  [!DNL Workfront Fusion]  ne mènent pas aux pages d’aide attendues. À la place, tous les liens d’aide de Fusion mènent à la page d’accueil de la documentation de Workfront. Depuis cette page de destination, vous pouvez rechercher les informations dont vous avez besoin.
 hidefromtoc: true
 exl-id: 3775d0c6-6bca-4727-b03e-4a0659cb3267
-source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
-workflow-type: ht
+feature: Workfront Fusion
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 100%
 

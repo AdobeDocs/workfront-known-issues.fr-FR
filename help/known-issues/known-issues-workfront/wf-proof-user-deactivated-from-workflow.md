@@ -3,8 +3,9 @@ title: '« BAT : la personne utilisatrice est désactivée du workflow de BAT 
 description: Lorsqu’une personne utilisatrice tente d’accéder à un BAT pour lequel elle est affectée à un workflow, le message Accès non autorisé s’affiche.
 hidefromtoc: true
 exl-id: af7d70af-3d4c-40a8-a8c4-429f38e62d34
-source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
-workflow-type: ht
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 100%
 

@@ -1,14 +1,15 @@
 ---
-title: '« Épreuves : le [!UICONTROL résumé d’impression] n’affiche pas la miniature de l’image »'
-description: « Lorsque l’utilisateur consulte la page du [!UICONTROL résumé d’impression] pour une épreuve dans  [!DNL Workfront], la miniature de l’épreuve ne s’affiche pas. Une image de remplacement quelconque apparaît à la place. »
+title: 'Épreuves : le [!UICONTROL résumé d’impression] n’affiche pas la miniature de l’image'
+description: Lorsque l’utilisateur consulte la page du [!UICONTROL résumé d’impression] pour une épreuve dans  [!DNL Workfront], la miniature de l’épreuve ne s’affiche pas. Une image de remplacement quelconque apparaît à la place.
 hidefromtoc: true
-source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
-workflow-type: ht
+exl-id: e3ad759d-59a2-4c2b-b4a1-14a75c9d85d2
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 100%
 
 ---
-
 
 # Épreuves : le [!UICONTROL résumé d’impression] n’affiche pas la miniature de l’image
 
@@ -21,4 +22,3 @@ ht-degree: 100%
 Lorsque l’utilisateur consulte la page du [!UICONTROL résumé d’impression] pour une épreuve dans [!DNL Workfront], la miniature de l’épreuve ne s’affiche pas. Une image de remplacement quelconque apparaît à la place.
 
 _Premier signalement le 1 novembre 2022._
-

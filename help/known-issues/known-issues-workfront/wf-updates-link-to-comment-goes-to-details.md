@@ -1,14 +1,15 @@
 ---
-title: '« Mises à jour : le lien vers un commentaire redirige vers la page Détails. »'
-description: « Lorsqu’un utilisateur suit un lien vers un commentaire sur un objet dans Workfront, le flux de mise à jour se charge brièvement, puis l’utilisateur est redirigé vers la zone Détails de l’objet. Cela peut se produire si l’utilisateur clique sur le lien d’un e-mail ou s’il le colle dans son navigateur. »
+title: '''Mises à jour : Lien vers un commentaire redirige vers la page Détails'
+description: Lorsqu’un utilisateur suit un lien vers un commentaire sur un objet dans Workfront, le flux de mise à jour se charge brièvement, puis l’utilisateur est redirigé vers la zone Détails de l’objet. Cela peut se produire si l’utilisateur clique sur le lien d’un e-mail ou s’il le colle dans son navigateur.
 hidefromtoc: true
-source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
-workflow-type: ht
+exl-id: b53d1627-3935-44cf-aa82-91c9dd39aabc
+feature: Updates and Notifications
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
-
 
 # Mises à jour : le lien vers un commentaire redirige vers la page [!UICONTROL Détails].
 
@@ -21,4 +22,3 @@ Lorsqu’un utilisateur suit un lien vers un commentaire sur un objet dans Workf
 Actuellement, seuls les objets Document sont touchés par ce problème.
 
 _Premier signalement le 6 février 2023._
-

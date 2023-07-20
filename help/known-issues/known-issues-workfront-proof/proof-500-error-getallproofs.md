@@ -2,7 +2,8 @@
 title: '« Workfront Proof : erreur 500 lors de l’accès à Workfront Proof via l’API ou Workfront Fusion »'
 description: '« Lorsqu’un utilisateur ou une utilisatrice accède à l’action getAllProofs de l’API Proof, le serveur Workfront Proof renvoie le message : erreur interne du serveur 500 »'
 hidefromtoc: true
-source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
+feature: Workfront Proof
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 100%

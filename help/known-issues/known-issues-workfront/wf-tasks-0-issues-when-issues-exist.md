@@ -1,16 +1,17 @@
 ---
-title: '« Problèmes : La navigation de gauche affiche « (0) » problèmes alors que des problèmes existent »'
-description: « Lorsqu’un utilisateur consulte une tâche où des problèmes sont présents, le volet de navigation de gauche de la tâche affiche (0) dans la zone Problèmes, indiquant qu’il n’y a aucun problème. Si l’utilisateur consulte la zone Problèmes de la tâche, il voit les problèmes. »
+title: "Problèmes : La navigation de gauche affiche (0) des problèmes en cas de problème."
+description: Lorsqu’un utilisateur consulte une tâche pour laquelle des problèmes sont présents, le volet de navigation de gauche de la tâche s’affiche (0) dans la zone Problèmes, indiquant qu’il n’y a aucun problème. Si l’utilisateur consulte la zone Problèmes de la tâche, il voit les problèmes.
 hidefromtoc: true
-source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
-workflow-type: ht
+exl-id: 96fd8e29-3184-4423-bf6e-dbe2f9d8e154
+feature: Tasks
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 100%
+ht-degree: 72%
 
 ---
 
-
-# Problèmes : La navigation de gauche affiche « (0) » problèmes alors que des problèmes existent
+# Problèmes : la navigation de gauche affiche « (0) » problèmes alors que des problèmes existent
 
 >[!NOTE]
 >
@@ -19,4 +20,3 @@ ht-degree: 100%
 Lorsqu’un utilisateur consulte une tâche où des problèmes sont présents, le volet de navigation de gauche de la tâche affiche (0) dans la zone Problèmes, indiquant qu’il n’y a aucun problème. Si l’utilisateur consulte la zone Problèmes de la tâche, il voit les problèmes.
 
 _Premier signalement le 17 octobre 2022._
-

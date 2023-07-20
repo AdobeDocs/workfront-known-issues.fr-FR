@@ -3,8 +3,9 @@ title: "Rapports\_: impossible de faire défiler le rapport vers la droite ou la
 description: Si l’utilisateur consulte un rapport dans un tableau de bord et tente de le faire défiler vers la droite ou la gauche, cette action est impossible ou décale les en-têtes des colonnes par rapport au contenu des colonnes. Si le rapport comporte un grand nombre de colonnes, faire défiler la page vers la droite ou la gauche peut la bloquer.
 exl-id: d308ee88-9265-4fa7-8574-ec7d5eb9d306
 hidefromtoc: true
-source-git-commit: 73a7173c2d8a92d2a06285e99138a555e8687894
-workflow-type: ht
+feature: Reports and Dashboards
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 100%
 

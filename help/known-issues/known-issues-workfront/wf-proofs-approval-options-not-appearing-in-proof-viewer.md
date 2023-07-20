@@ -2,8 +2,9 @@
 title: '« BAT : les options d’approbation n’apparaissent pas dans le lecteur de vérification. »'
 description: « Lorsqu’une personne utilisatrice tente d’approuver un BAT dans le lecteur de vérification pour bureau, peu de temps après la demande d’approbation, les options d’approbation ne s’affichent pas et elle ne peut pas approuver le BAT. Les options d’approbation apparaissent plusieurs heures après la demande d’approbation. »
 hidefromtoc: true
-source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
-workflow-type: ht
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 100%
 
