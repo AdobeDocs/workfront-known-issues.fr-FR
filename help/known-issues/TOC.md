@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: a4840412420ca7987b68c73a5e876837267cc3ba
+source-git-commit: 3d2c392fdb9cdf2eb7ea46cd4444895bc45a5b7d
 workflow-type: tm+mt
-source-wordcount: '1357'
-ht-degree: 97%
+source-wordcount: '1370'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Documents : Erreur XML lors du téléchargement](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
+      + [Projets/problèmes : Le projet ne résout pas correctement le problème](known-issues-workfront/wf-projects-resolving-issue.md)
       + [[!UICONTROL Configuration]: Impossible d’exporter les journaux d’audit](known-issues-workfront/wf-setup-cannot-export-audit-logs.md)
       + [Bons à tirer : Les bons à tirer ne s’affichent pas dans les rapports comme approuvé](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
       + [Bons à tirer : Message &quot;Aucune image&quot; lorsque vous cliquez sur le BAT](known-issues-workfront/wf-proofs-no-image-on-comment.md)

@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: a4840412420ca7987b68c73a5e876837267cc3ba
+source-git-commit: 3d2c392fdb9cdf2eb7ea46cd4444895bc45a5b7d
 workflow-type: tm+mt
-source-wordcount: '610'
-ht-degree: 93%
+source-wordcount: '625'
+ht-degree: 91%
 
 ---
 
@@ -25,6 +25,8 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documents : Erreur XML lors du téléchargement](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 21 juillet 2023 |
+| [Projets/problèmes : Le projet ne résout pas correctement le problème](known-issues-workfront/wf-projects-resolving-issue.md) | 21 juillet 2023 |
 | [Bons à tirer : Les bons à tirer ne s’affichent pas dans les rapports comme approuvé](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 20 juillet 2023 |
 | [Bons à tirer : Message &quot;Aucune image&quot; lorsque vous cliquez sur le BAT](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 20 juillet 2023 |
 | [[!UICONTROL Accueil]: [!UICONTROL Liste de travail à domicile] est vide / lent à charger](known-issues-workfront/wf-home-blank-slow-to-load.md) | 18 juillet 2023 |
