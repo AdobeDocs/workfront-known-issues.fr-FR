@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
 workflow-type: tm+mt
 source-wordcount: '626'
-ht-degree: 92%
+ht-degree: 93%
 
 ---
 
@@ -57,7 +57,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | -----------------------------------------------------------------| ----------------- |
 | [Configuration : impossible de modifier le Coût/heure ou la Facturation/heure de la fonction](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 21 juillet 2023 |
 | [[!UICONTROL Configuration]: Impossible d’exporter les journaux d’audit](known-issues-workfront/wf-setup-cannot-export-audit-logs.md) | 20 juillet 2023 |
-| [Intégrations de document : Impossible d’afficher tous les dossiers dans [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md) | 18 juillet 2023 |
+| [Intégrations de document : impossible de voir tous les dossiers dans  [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md) | 18 juillet 2023 |
 | [Bons à tirer : les BAT sont créés lentement dans l’environnement Aperçu](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 8 juin 2023 |
 | [Formulaires personnalisés : erreur « [!UICONTROL Oups] » lors de la configuration d’un champ calculé](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 5 mai 2023 |
 | [Documents : les options des [!UICONTROL Activités de relecture] débouchent sur la page de connexion](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 21 avril 2023 |

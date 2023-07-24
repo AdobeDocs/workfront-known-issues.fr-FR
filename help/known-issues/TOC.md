@@ -5,7 +5,7 @@ role: User
 source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
 workflow-type: tm+mt
 source-wordcount: '1376'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -23,8 +23,8 @@ ht-degree: 95%
       + [[!UICONTROL Configuration]: Impossible d’exporter les journaux d’audit](known-issues-workfront/wf-setup-cannot-export-audit-logs.md)
       + [Bons à tirer : Les bons à tirer ne s’affichent pas dans les rapports comme approuvé](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
       + [Bons à tirer : Message &quot;Aucune image&quot; lorsque vous cliquez sur le BAT](known-issues-workfront/wf-proofs-no-image-on-comment.md)
-      + [Intégrations de document : Impossible d’afficher tous les dossiers dans [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
-      + [[!UICONTROL Accueil]: [!UICONTROL Liste de travail à domicile] est vide / lent à charger](known-issues-workfront/wf-home-blank-slow-to-load.md)
+      + [Intégrations de document : impossible de voir tous les dossiers dans  [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
+      + [[!UICONTROL Accueil] : la [!UICONTROL liste de travail de l’accueil] est vide ou lente à charger](known-issues-workfront/wf-home-blank-slow-to-load.md)
       + [Configuration : impossible de modifier le Coût/heure ou la Facturation/heure de la fonction](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md)
       + [Panoramas : la barre de défilement horizontale n’est pas présente.](known-issues-workfront/wf-board-no-scrollbar.md)
       + [Projets/Tâches/Problèmes : la chronologie n’est pas recalculée.](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
