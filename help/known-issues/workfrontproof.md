@@ -4,7 +4,7 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: eba288c8fdd9e08c29b419e7e76d85719ff732c3
+source-git-commit: 8cc9f5313f20b38afc618f2c657995715b4d4f09
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 89%
@@ -25,7 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documents : Les validations de document n’apparaissent pas dans la zone Validations](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 juillet 2023 |
+| [Documents : Les validations de document n’apparaissent pas dans [!UICONTROL Approbations] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 juillet 2023 |
 | [Documents : Erreur XML lors du téléchargement](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 21 juillet 2023 |
 | [Bons à tirer : Les bons à tirer ne s’affichent pas dans les rapports comme approuvé](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 20 juillet 2023 |
 | [Bons à tirer : Message &quot;Aucune image&quot; lorsque vous cliquez sur le BAT](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 20 juillet 2023 |

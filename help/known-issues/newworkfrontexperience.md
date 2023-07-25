@@ -4,7 +4,7 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: eba288c8fdd9e08c29b419e7e76d85719ff732c3
+source-git-commit: 8cc9f5313f20b38afc618f2c657995715b4d4f09
 workflow-type: tm+mt
 source-wordcount: '636'
 ht-degree: 92%
@@ -25,7 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documents : Les validations de document n’apparaissent pas dans la zone Validations](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 juillet 2023 |
+| [Documents : Les validations de document n’apparaissent pas dans [!UICONTROL Approbations] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 juillet 2023 |
 | [Documents : Erreur XML lors du téléchargement](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 21 juillet 2023 |
 | [Projets/problèmes : Le projet ne résout pas correctement le problème](known-issues-workfront/wf-projects-resolving-issue.md) | 21 juillet 2023 |
 | [Bons à tirer : Les bons à tirer ne s’affichent pas dans les rapports comme approuvé](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 20 juillet 2023 |
