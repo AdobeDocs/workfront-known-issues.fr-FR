@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3d2c392fdb9cdf2eb7ea46cd4444895bc45a5b7d
+source-git-commit: eba288c8fdd9e08c29b419e7e76d85719ff732c3
 workflow-type: tm+mt
-source-wordcount: '4218'
-ht-degree: 100%
+source-wordcount: '4304'
+ht-degree: 99%
 
 ---
 
@@ -21,6 +21,16 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2023.
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
 
 ## Mises à jour de juillet 2023
+
++++**(Prévue) Mise à jour de maintenance du 27 juillet 2023**
+
+**&quot;[!UICONTROL Activation à l’échelle du système]&quot; et &quot;[!UICONTROL Affichage à l’échelle du système]&quot; représentent différentes fonctionnalités ;**
+
+_Filtres_
+
+Si un utilisateur ou une utilisatrice partage un filtre et active l’option « [!UICONTROL Afficher à l’échelle du système] », le filtre est partagé avec chaque personne utilisatrice du système. Cependant, si l’administration consulte ensuite ce filtre dans la [!UICONTROL Configuration], ce dernier affiche « [!UICONTROL false] » dans la colonne « [!UICONTROL Visible à l’échelle du système] ». Pour que ce filtre devienne la valeur système par défaut, l’administration doit activer l’option « [!UICONTROL Activer à l’échelle du système] » dans la [!UICONTROL Configuration]. Cela peut prêter à confusion en raison de la formulation similaire.
+
++++
 
 +++**Mise à jour de maintenance le 20 juillet 2023**
 
