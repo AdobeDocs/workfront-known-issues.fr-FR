@@ -1,19 +1,23 @@
 ---
-title: "Documents : Erreur XML lors du téléchargement"
+title: "Documents : erreur XML lors du téléchargement"
 description: "Lorsqu’un utilisateur tente de télécharger un document, celui-ci ne le télécharge pas et voit une page avec un message suivi d’un texte XML."
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 3d2c392fdb9cdf2eb7ea46cd4444895bc45a5b7d
+source-git-commit: 882402acd54423e20d28c2294f5aeeae9fc8fa9a
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 4%
+source-wordcount: '100'
+ht-degree: 10%
 
 ---
 
 
-# Documents : Erreur XML lors du téléchargement
+# Documents : erreur XML lors du téléchargement
 
 <!--WF, WFP TOCs-->
+
+>[!NOTE]
+>
+>Ce problème a été résolu le 21 juillet 2023.
 
 Lorsqu’un utilisateur tente de télécharger un document, celui-ci ne le télécharge pas et voit une page contenant le message suivant, suivie du texte XML.
 
@@ -21,4 +25,4 @@ Lorsqu’un utilisateur tente de télécharger un document, celui-ci ne le tél�
 
 Ce problème a été signalé avec des fichiers de plus de 25 Mo.
 
-_Premier signalement le 20 juillet 2023._
+_Premier signalement le 20 juillet 2023._
