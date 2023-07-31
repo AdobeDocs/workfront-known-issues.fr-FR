@@ -1,13 +1,13 @@
 ---
-title: 'Rapports : Les rapports utilisent le créateur de rapports plutôt que le caractère générique $$USERID'''
-description: Lorsqu’un rapport est une diffusion renouvelée et qu’il contient le caractère générique $$USERID, il est exécuté à l’aide du créateur du rapport au lieu du caractère générique . Cela ne se produit qu’avec une diffusion renouvelée. Le rapport fonctionne normalement lors de l’exécution manuelle ou de l’utilisation de l’option « Envoyer immédiatement ».
+title: '« Rapports : les rapports utilisent le créateur de rapports plutôt que le caractère générique $$USERID »'
+description: Lorsqu’un rapport est une diffusion renouvelée et inclut le caractère générique $$USERID, le rapport est exécuté à l’aide du créateur de rapports au lieu du caractère générique. Cela ne se produit qu’avec une diffusion renouvelée. Le rapport fonctionne normalement lors de l’exécution manuelle ou de l’utilisation de l’option « Envoyer immédiatement ».
 hidefromtoc: true
 exl-id: d46cdb4a-5aba-4225-a440-30f45d59a7e4
 feature: Reports and Dashboards
 source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
