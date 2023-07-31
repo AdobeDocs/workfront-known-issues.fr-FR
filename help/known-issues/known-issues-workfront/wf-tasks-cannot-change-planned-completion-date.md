@@ -1,13 +1,13 @@
 ---
 title: 'Tâches : impossible de modifier la Date d’achèvement prévue d’une tâche'
-description: '"Lorsqu’un utilisateur tente de modifier la date d’achèvement planifiée d’une tâche, le champ ne répond pas.  »'
+description: « Lorsqu’un utilisateur ou une utilisatrice tente de modifier la date d’achèvement prévue d’une tâche, le champ ne répond pas. »  »
 hidefromtoc: true
 exl-id: a65d7c71-cc27-4f44-8f96-3c56b83910ac
 feature: Tasks
 source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '118'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
