@@ -1,17 +1,17 @@
 ---
-title: '''Mises à jour : Impossible de consigner l’heure du jour en cours dans la zone Mises à jour'
+title: '« Mises à jour : impossible de consigner l’heure du jour en cours dans la zone Mises à jour »'
 description: Lorsqu’un utilisateur ou une utilisatrice tente de consigner l’heure du jour en cours dans la zone Mises à jour, le jour en cours est grisé et l’utilisateur ou l’utilisatrice ne peut saisir aucune heure.
 hidefromtoc: true
 exl-id: 2cbdadb8-0ab1-4f94-bd1d-7f8151f865bc
 feature: Updates and Notifications
 source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL Mises à jour] : impossible de consigner l’heure du jour en cours dans la zone [!UICONTROL Mises à jour].
+# [!UICONTROL Mises à jour] : impossible de consigner l’heure du jour en cours dans la zone [!UICONTROL Mises à jour]
 
 >[!NOTE]
 >
