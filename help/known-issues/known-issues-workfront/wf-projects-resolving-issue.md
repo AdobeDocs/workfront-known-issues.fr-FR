@@ -1,22 +1,22 @@
 ---
-title: "Projets / problèmes : Le projet ne résout pas correctement le problème"
-description: "Lorsqu’un utilisateur modifie l’état d’un projet qui est l’objet de résolution d’un problème, l’état du problème est remplacé par un état qui ne correspond pas à la même clé que l’état du projet."
+title: '« Projets/Problèmes : le projet ne résoud pas correctement le problème »'
+description: « Lorsqu’un utilisateur ou une utilisatrice change le statut d’un projet qui est l’objet de résolution d’un problème, le statut du problème est remplacé par un statut qui ne correspond pas à la même clé que le statut du projet. »
 hidefromtoc: true
 feature: Projects
 source-git-commit: 3d2c392fdb9cdf2eb7ea46cd4444895bc45a5b7d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Projets/problèmes : Le projet ne résout pas correctement le problème
+# Projets/Problèmes : le projet ne résoud pas correctement le problème
 
-Lorsqu’un utilisateur modifie l’état d’un projet qui est l’objet de résolution d’un problème, celui-ci passe à un état qui ne correspond pas à la même clé que l’état du projet.
+Lorsqu’un utilisateur ou une utilisatrice change le statut d’un projet qui est l’objet de résolution d’un problème, le statut du problème est remplacé par un statut qui ne correspond pas à la même clé que le statut du projet.
 
 **Solution de contournement**
 
-Supprimez la relation de résolution et définissez les états indépendamment.
+Supprimez la relation de résolution et définissez les statuts indépendamment.
 
-_Premier signalement le 17 juillet 2023._
+_Premier signalement le 17 juillet 2023._
