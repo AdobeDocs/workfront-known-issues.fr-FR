@@ -1,17 +1,17 @@
 ---
-title: '"Documents : Les autorisations de document ne sont pas héritées lorsque le problème parent est converti en un projet.'
-description: Lorsque des documents sont joints à un problème et qu’un utilisateur convertit le problème en projet, les documents du nouveau projet ne disposent pas des autorisations héritées qu’ils devraient avoir.
+title: '« Documents : les autorisations de document ne sont pas héritées lorsque leur problème parent est converti en projet »'
+description: Lorsque des documents sont joints à un problème et qu’un utilisateur ou une utilisatrice convertit le problème en projet, les documents du nouveau projet ne disposent pas des autorisations héritées qu’ils devraient avoir.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 1ed99151-a492-4f5a-8c82-f8ad23c3db35
 source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
-# Documents : les autorisations de document ne sont pas héritées lorsque le problème parent est converti en projet.
+# Documents : les autorisations de document ne sont pas héritées lorsque le problème parent est converti en projet
 
 >[!NOTE]
 >
