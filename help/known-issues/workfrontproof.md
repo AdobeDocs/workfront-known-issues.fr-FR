@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: 882402acd54423e20d28c2294f5aeeae9fc8fa9a
 workflow-type: tm+mt
 source-wordcount: '332'
-ht-degree: 92%
+ht-degree: 97%
 
 ---
 
@@ -26,8 +26,8 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
 | [Documents : les documents approuvés n’apparaissent pas dans [!UICONTROL Approbations] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 juillet 2023 |
-| [Bons à tirer : les bons à tirer ne s’affichent pas dans les rapports comme approuvé](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 20 juillet 2023 |
-| [Bons à tirer : message &quot;Aucune image&quot; lorsque vous cliquez sur le BAT](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 20 juillet 2023 |
+| [BAT : les BAT n’apparaissent pas comme approuvés dans les rapports](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 20 juillet 2023 |
+| [BAT : message « Aucune image » lors d’un clic sur le BAT](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 20 juillet 2023 |
 
 {style="table-layout:auto"}
 

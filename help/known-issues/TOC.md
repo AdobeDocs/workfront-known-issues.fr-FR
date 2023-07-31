@@ -5,7 +5,7 @@ role: User
 source-git-commit: acb47f82aed4e45286be006d9106278802e38d6d
 workflow-type: tm+mt
 source-wordcount: '1001'
-ht-degree: 93%
+ht-degree: 97%
 
 ---
 
@@ -19,12 +19,12 @@ ht-degree: 93%
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
       + [Tâches/problèmes : l’utilisateur affecté ne reçoit pas d’accès à l’objet](known-issues-workfront/wf-access-assigned-user-not-getting-access.md)
       + [Documents : les documents approuvés n’apparaissent pas dans [!UICONTROL Approbations] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
-      + [Documents : fichiers EPS actuellement non pris en charge](known-issues-workfront/wf-documents-not-supporting-eps.md)
-      + [Documents : erreur XML lors du téléchargement](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
-      + [Projets / Problèmes : le projet ne résout pas correctement le problème](known-issues-workfront/wf-projects-resolving-issue.md)
-      + [[!UICONTROL Configuration]: impossible d’exporter les journaux d’audit](known-issues-workfront/wf-setup-cannot-export-audit-logs.md)
-      + [Bons à tirer : les bons à tirer ne s’affichent pas dans les rapports comme approuvé](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
-      + [Bons à tirer : message &quot;Aucune image&quot; lorsque vous cliquez sur le BAT](known-issues-workfront/wf-proofs-no-image-on-comment.md)
+      + [Documents : fichiers EPS actuellement non pris en charge](known-issues-workfront/wf-documents-not-supporting-eps.md)
+      + [Documents : erreur XML lors du téléchargement](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
+      + [Projets/Problèmes : le projet ne résoud pas correctement le problème](known-issues-workfront/wf-projects-resolving-issue.md)
+      + [[!UICONTROL Configuration] : impossible d’exporter les journaux d’audit](known-issues-workfront/wf-setup-cannot-export-audit-logs.md)
+      + [BAT : les BAT n’apparaissent pas comme approuvés dans les rapports](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
+      + [BAT : message « Aucune image » lors d’un clic sur le BAT](known-issues-workfront/wf-proofs-no-image-on-comment.md)
       + [Intégrations de document : impossible de voir tous les dossiers dans  [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
       + [[!UICONTROL Accueil] : la [!UICONTROL liste de travail de l’accueil] est vide ou lente à charger](known-issues-workfront/wf-home-blank-slow-to-load.md)
       + [Configuration : impossible de modifier le Coût/heure ou la Facturation/heure de la fonction](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md)
@@ -43,7 +43,7 @@ ht-degree: 93%
       + [Rapports : le tri des rapports n’est pas correct lors du tri par n’importe quel champ.](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
       + [Équilibreur de charge de travail : les heures sont redistribuées de manière inattendue](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
       + [Formulaires personnalisés : erreur « [!UICONTROL Oups] » lors de la configuration d’un champ calculé](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
-      + [Rapports : le tri par en-tête de colonne revient au tri précédent.](known-issues-workfront/wf-reports-sorting-not-applied.md)
+      + [Rapports : le tri par en-tête de colonne revient au tri précédent](known-issues-workfront/wf-reports-sorting-not-applied.md)
       + [Projets : erreur lors de l’utilisation de la vue [!UICONTROL Jalon]](known-issues-workfront/wf-projects-error-in-milestone-view.md)
       + [Tâches : aucun message d’erreur lors de la réorganisation de la tâche au statut [!UICONTROL En attente de validation]](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
       + [Feuilles de temps : le filtre n’est pas appliqué lors de l’actualisation de la page.](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
@@ -62,13 +62,13 @@ ht-degree: 93%
       + [Documents : les options des [!UICONTROL Activités de vérification] débouchent sur la page de connexion](known-issues-workfront/wf-documents-taken-to-login-screen.md)
       + [Filtres : le filtre n’est pas appliqué lors de l’actualisation de la page.](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md)
       + [[!UICONTROL Équilibreur de charge de travail] : les heures ne s’ajustent pas pour prendre en compte les congés de l’utilisateur ou de l’utilisatrice.](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
-      + [[!UICONTROL Mises à jour] : impossible de consigner l’heure du jour en cours dans la zone [!UICONTROL Mises à jour].](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
+      + [[!UICONTROL Mises à jour] : impossible de consigner l’heure du jour en cours dans la zone [!UICONTROL Mises à jour]](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
       + [Documents : lorsqu’un document est déplacé vers un nouveau projet, les autorisations ne sont pas héritées.](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
       + [Équilibreur de charge de travail : résultats inexacts si plusieurs filtres sont utilisés simultanément.](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
       + [Projets : un projet converti à partir d’un problème n’hérite pas des autorisations du portfolio ou du programme](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
       + [Documents : erreur lors du téléchargement d’un fichier volumineux](known-issues-workfront/wf-documents-large-uploads-fail.md)
       + [Documents : impossible d’ajouter des documents depuis  [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
-      + [Documents : les autorisations de document ne sont pas héritées lorsque le problème parent est converti en projet.](known-issues-workfront/wf-documents-permissions-not-inherited.md)
+      + [Documents : les autorisations de document ne sont pas héritées lorsque le problème parent est converti en projet](known-issues-workfront/wf-documents-permissions-not-inherited.md)
       + [Rapports : le rapport utilise le créateur de rapports plutôt que le caractère de remplacement « $$[!UICONTROL USERID] »](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
       + [Intégrations : impossible d’ouvrir  [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)
       + [Épreuves : le statut de l’épreuve n’est pas mis à jour dans les listes de [!UICONTROL documents]](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
