@@ -1,20 +1,20 @@
 ---
-title: "Bons à tirer : Aucun message image lorsque vous cliquez sur le BAT"
-description: "Lorsqu’un utilisateur de la visionneuse de vérification sur l’ordinateur clique sur un commentaire, l’image associée au commentaire ne s’ouvre pas et l’utilisateur voit un message."
+title: '« BAT : message Aucune image lors d’un clic sur le BAT »'
+description: « Lorsqu’un utilisateur ou une utilisatrice clique sur un commentaire dans le lecteur de vérification de bureau, l’image associée au commentaire ne s’ouvre pas et un message s’affiche. »
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Bons à tirer : Message &quot;Aucune image&quot; lorsque vous cliquez sur le BAT
+# BAT : message « Aucune image » lors d’un clic sur le BAT
 
-Lorsqu’un utilisateur de la visionneuse de vérification de l’appli de bureau clique sur un commentaire, l’image associée au commentaire ne s’ouvre pas et l’utilisateur voit le message suivant :
+Lorsqu’un utilisateur ou une utilisatrice clique sur un commentaire dans le lecteur de BAT du bureau, l’image associée au commentaire ne s’ouvre pas et le message suivant s’affiche :
 
-&quot;[!UICONTROL Aucune image n’est associée à ce commentaire.]&quot;
+« [!UICONTROL Aucune image n’est associée à ce commentaire.] »
 
 _Premier signalement le 29 mai 2023._
