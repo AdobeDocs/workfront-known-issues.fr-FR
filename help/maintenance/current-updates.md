@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: a87ecf052ae1949f636b43c5a84de20df430e0b3
+source-git-commit: e2c846da9bd52f1232b41c81c8876cbfc4060f4d
 workflow-type: tm+mt
-source-wordcount: '4303'
-ht-degree: 99%
+source-wordcount: '4410'
+ht-degree: 98%
 
 ---
 
@@ -19,6 +19,28 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2023.
 >Ces mises à jour incluent également d’autres correctifs mineurs ou moins conséquents. L’assistance [!DNL Workfront] vous avertira lorsqu’un problème que vous avez soumis est résolu.
 
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
+
+## Mises à jour de juillet 2023
+
++++**(Prévue) Mise à jour de maintenance du 27 juillet 2023**
+
+**Le projet ne résout pas correctement le problème**
+
+_Projets / Problèmes_
+
+Lorsqu’un utilisateur ou une utilisatrice change le statut d’un projet qui est l’objet de résolution d’un problème, le statut du problème est remplacé par un statut qui ne correspond pas à la même clé que le statut du projet.
+
+**Erreur &quot;Oups&quot; sur les rapports de matrice**
+
+_Rapports_
+
+Lorsqu’un utilisateur tente d’afficher un rapport de matrice, le rapport ne se charge pas et l’utilisateur voit l’erreur suivante :
+
+« [!UICONTROL Oups ! Un problème est survenu. Contactez Workfront pour nous aider à comprendre l’erreur et y remédier.] »
+
+Ceci a été signalé aux utilisateurs des zones EMEA.
+
++++
 
 ## Mises à jour de juillet 2023
 
