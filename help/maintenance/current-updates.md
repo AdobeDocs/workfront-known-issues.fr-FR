@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e2c846da9bd52f1232b41c81c8876cbfc4060f4d
+source-git-commit: 188e8a34947a51e62116e2a166aeeedaa5dc71c8
 workflow-type: tm+mt
-source-wordcount: '4410'
-ht-degree: 98%
+source-wordcount: '4451'
+ht-degree: 97%
 
 ---
 
@@ -20,9 +20,9 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2023.
 
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
 
-## Mises à jour de juillet 2023
+## Mises à jour d’août 2023
 
-+++**(Prévue) Mise à jour de maintenance du 27 juillet 2023**
++++**Mise à jour de maintenance (prévue) le 3 août 2023**
 
 **Le projet ne résout pas correctement le problème**
 
@@ -45,6 +45,12 @@ Ceci a été signalé aux utilisateurs des zones EMEA.
 ## Mises à jour de juillet 2023
 
 +++**Mise à jour de maintenance le 27 juillet 2023**
+
+**Les balises et les éléments de liste de contrôle ne fonctionnaient pas correctement dans l’affichage du panorama du projet.**
+
+_Panoramas_
+
+Les balises et les éléments de liste de contrôle ont été supprimés du panorama des projets, car ils ne font pas partie des tâches de Workfront et ne peuvent pas être partagés entre les utilisateurs.
 
 **&quot;[!UICONTROL Activation à l’échelle du système]&quot; et &quot;[!UICONTROL Affichage à l’échelle du système]&quot; représentent différentes fonctionnalités ;**
 
