@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 188e8a34947a51e62116e2a166aeeedaa5dc71c8
+source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
 workflow-type: tm+mt
-source-wordcount: '4451'
-ht-degree: 97%
+source-wordcount: '4509'
+ht-degree: 96%
 
 ---
 
@@ -23,6 +23,24 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 ## Mises à jour d’août 2023
 
 +++**Mise à jour de maintenance (prévue) le 3 août 2023**
+
+**Difficulté à localiser les éléments dans la colonne d’entrée**
+
+_Panoramas_
+
+La colonne d’ingestion d’un panorama a été triée par ordre de priorité défini sur les tâches et les problèmes, ce qui rendait difficile la localisation d’éléments spécifiques.
+
+L’ordre par défaut est désormais le suivant :
+
+Tâches:
+
+* Ordre Principal : nom du projet
+* Ordre Secondaire : structure de ventilation des tâches
+
+Événements
+
+* Ordre Principal : nom du projet
+* Ordre Secondaire : numéro de référence
 
 **Le projet ne résout pas correctement le problème**
 
