@@ -3,19 +3,15 @@ title: '« BAT : les BAT n’apparaissent pas comme approuvés dans les rappor
 description: « Lorsqu’un utilisateur ou une utilisatrice consulte un rapport qui inclut des décisions d’approbation de BAT, le rapport n’affiche pas la décision Approuvé pour tous les BAT approuvés. Lorsqu’une personne utilisatrice consulte le BAT, elle peut constater qu’il a été approuvé. »
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 9e9989098f6a67ebbc90de87d64219f71aba56ca
+source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '100'
 ht-degree: 100%
 
 ---
 
 
 # BAT : les BAT n’apparaissent pas comme approuvés dans les rapports
-
->[!NOTE]
->
->Ce problème a été résolu le 21 juillet 2023.
 
 Lorsqu’un utilisateur ou une utilisatrice consulte un rapport qui inclut des décisions d’approbation de BAT, le rapport n’affiche pas la décision [!UICONTROL Approuvé] pour tous les BAT approuvés. Lorsqu’une personne utilisatrice consulte le BAT, elle peut constater qu’il a été approuvé.
 
