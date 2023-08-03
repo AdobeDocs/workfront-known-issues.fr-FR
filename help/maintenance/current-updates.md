@@ -3,9 +3,9 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
+source-git-commit: f2ac5034ba97c996e84b94caac80d7686a924c36
 workflow-type: tm+mt
-source-wordcount: '4509'
+source-wordcount: '4508'
 ht-degree: 96%
 
 ---
@@ -22,7 +22,7 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 ## Mises à jour d’août 2023
 
-+++**Mise à jour de maintenance (prévue) le 3 août 2023**
++++**Mise à jour de maintenance le 3 août 2023**
 
 **Difficulté à localiser les éléments dans la colonne d’entrée**
 

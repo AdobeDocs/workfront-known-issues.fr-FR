@@ -3,15 +3,19 @@ title: '« Projets/Problèmes : le projet ne résoud pas correctement le probl
 description: « Lorsqu’un utilisateur ou une utilisatrice change le statut d’un projet qui est l’objet de résolution d’un problème, le statut du problème est remplacé par un statut qui ne correspond pas à la même clé que le statut du projet. »
 hidefromtoc: true
 feature: Projects
-source-git-commit: 3d2c392fdb9cdf2eb7ea46cd4444895bc45a5b7d
-workflow-type: ht
-source-wordcount: '106'
+source-git-commit: f2ac5034ba97c996e84b94caac80d7686a924c36
+workflow-type: tm+mt
+source-wordcount: '112'
 ht-degree: 100%
 
 ---
 
 
 # Projets/Problèmes : le projet ne résoud pas correctement le problème
+
+>[!NOTE]
+>
+>Ce problème a été résolu le 3 août 2023.
 
 Lorsqu’un utilisateur ou une utilisatrice change le statut d’un projet qui est l’objet de résolution d’un problème, le statut du problème est remplacé par un statut qui ne correspond pas à la même clé que le statut du projet.
 
