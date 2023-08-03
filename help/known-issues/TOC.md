@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
+source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
 workflow-type: tm+mt
-source-wordcount: '1046'
-ht-degree: 93%
+source-wordcount: '1068'
+ht-degree: 91%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [BAT : impossible d’ajuster les balises BAT](known-issues-workfront/wf-proof-markup-tools-not-working.md)
+      + [Bons à tirer : les bons à tirer ne parviennent pas à générer](known-issues-workfront/wf-proofs-fail-to-generate.md)
       + [Bons à tirer : la création d’une version de BAT supprime toutes les versions du BAT.](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md)
       + [Bons à tirer : le BAT approuvé reste sur le [!UICONTROL Liste de travail à domicile]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md)
       + [Bons à tirer : affichage du bon à tirer avec coupure supérieure](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md)
@@ -137,6 +139,8 @@ ht-degree: 93%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problèmes connus dans Workfront Fusion](workfrontfusion.md)
    + Problèmes actifs dans [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Workfront Fusion]: Module de veille provoquant le blocage de scénarios](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
+      + [[!DNL Workfront Fusion]: le scénario échoue avec &quot;[!UICONTROL lire ECONNRESET]&quot; erreur](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
       + [[!DNL Workfront Fusion]: impossible de saisir la valeur dans [!DNL Workfront] > [!UICONTROL Événements de contrôle] filter](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
       + [[!DNL Workfront Fusion] : erreur « [!UICONTROL impossible d’exécuter la MISE À JOUR] »](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
       + [[!DNL Workfront Fusion] : les notifications par e-mail ne sont pas envoyées.](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)

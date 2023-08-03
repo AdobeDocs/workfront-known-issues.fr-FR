@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f2ac5034ba97c996e84b94caac80d7686a924c36
+source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
 workflow-type: tm+mt
-source-wordcount: '656'
-ht-degree: 90%
+source-wordcount: '668'
+ht-degree: 88%
 
 ---
 
@@ -25,6 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bons à tirer : les bons à tirer ne parviennent pas à générer](known-issues-workfront/wf-proofs-fail-to-generate.md) | 3 août 2023 |
 | [Bons à tirer : le BAT approuvé reste sur le [!UICONTROL Liste de travail à domicile]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | 2 août 2023 |
 | [Bons à tirer : affichage du bon à tirer avec coupure supérieure](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2 août 2023 |
 | [Bons à tirer : impossible de sélectionner du texte dans des listes ou des puces](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2 août 2023 |
@@ -41,6 +42,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [BAT : impossible d’ajuster les balises BAT](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3 août 2023 |
 | [Bons à tirer : la création d’une version de BAT supprime toutes les versions du BAT.](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2 août 2023 |
 | [Accueil : impossible de supprimer [!UICONTROL Tâches] élément dans le nouveau [!UICONTROL Accueil] expérience](known-issues-workfront/wf-home-cannot-delete-todo.md) | 2 août 2023 |
 | [BAT : les validations de BAT verrouillées apparaissent toujours dans la liste de travail](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 21 juillet 2023 |
