@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
+source-git-commit: 2ef5603364a5c5789b1e85f48d065564a361a43a
 workflow-type: tm+mt
-source-wordcount: '650'
-ht-degree: 88%
+source-wordcount: '661'
+ht-degree: 86%
 
 ---
 
@@ -40,6 +40,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Projets : le projet épinglé n’affiche pas d’informations dans certaines colonnes.](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md) | 4 août 2023 |
 | [BAT : message « Aucune image » lors d’un clic sur le BAT](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 3 août 2023 |
 | [BAT : impossible d’ajuster les balises BAT](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3 août 2023 |
 | [Bons à tirer : la création d’une version de BAT supprime toutes les versions du BAT.](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2 août 2023 |

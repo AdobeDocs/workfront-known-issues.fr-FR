@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
+source-git-commit: 2ef5603364a5c5789b1e85f48d065564a361a43a
 workflow-type: tm+mt
-source-wordcount: '1068'
-ht-degree: 91%
+source-wordcount: '1078'
+ht-degree: 90%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 91%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Projets : le projet épinglé n’affiche pas d’informations dans certaines colonnes.](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)
       + [BAT : impossible d’ajuster les balises BAT](known-issues-workfront/wf-proof-markup-tools-not-working.md)
       + [Bons à tirer : les bons à tirer ne parviennent pas à générer](known-issues-workfront/wf-proofs-fail-to-generate.md)
       + [Bons à tirer : la création d’une version de BAT supprime toutes les versions du BAT.](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md)
