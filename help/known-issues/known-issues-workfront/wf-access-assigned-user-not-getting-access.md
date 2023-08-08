@@ -1,25 +1,25 @@
 ---
-title: "Tâches/problèmes : l’utilisateur affecté ne reçoit pas d’accès à l’objet"
-description: "Lorsqu’un utilisateur est affecté à un objet de travail, il ne peut pas recevoir d’accès à l’objet et ne peut pas terminer l’affectation. L’utilisateur peut demander l’accès, mais cela ajoute du temps et de la complexité à la fin de l’élément de travail."
+title: '« Tâches/problèmes : la personne utilisatrice affectée ne reçoit pas d’accès à l’objet »'
+description: « Lorsqu’une personne utilisatrice est affectée à un objet de travail, elle ne peut pas recevoir d’accès à l’objet et ne peut pas terminer l’affectation. La personne utilisatrice peut demander l’accès, mais cela ajoute du temps et de la complexité à l’exécution de l’élément de travail. »
 hidefromtoc: true
 feature: Tasks
 source-git-commit: a87ecf052ae1949f636b43c5a84de20df430e0b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Tâches/problèmes : l’utilisateur affecté ne reçoit pas d’accès à l’objet
+# Tâches/problèmes : la personne utilisatrice affectée ne reçoit pas d’accès à l’objet
 
-Lorsqu’un utilisateur est affecté à un objet de travail, il ne peut pas recevoir d’accès à l’objet et ne peut pas terminer l’affectation. L’utilisateur peut demander l’accès, mais cela ajoute du temps et de la complexité à la fin de l’élément de travail.
+Lorsqu’une personne utilisatrice est affectée à un objet de travail, elle ne peut pas recevoir d’accès à l’objet et ne peut pas terminer l’affectation. La personne utilisatrice peut demander l’accès, mais cela ajoute du temps et de la complexité à l’exécution de l’élément de travail.
 
 **Solution**
 
 Utilisez l’une des méthodes suivantes :
 
-* Annulation de l’affectation et de la réaffectation de l’utilisateur
-* Donnez manuellement l’accès à l’utilisateur
+* Annulez l’affectation et réaffectez la personne utilisatrice
+* Donnez manuellement l’accès à la personne utilisatrice
 
-_Premier article en date de juillet 2023._
+_Premier signalement en juillet 2023._
