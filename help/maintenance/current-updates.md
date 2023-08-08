@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f2ac5034ba97c996e84b94caac80d7686a924c36
+source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
 workflow-type: tm+mt
-source-wordcount: '4508'
-ht-degree: 96%
+source-wordcount: '4657'
+ht-degree: 94%
 
 ---
 
@@ -21,6 +21,32 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2023.
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
 
 ## Mises à jour d’août 2023
+
++++**Mise à jour de maintenance (planifiée) le 10 août 2023**
+
+**Impossible de supprimer [!UICONTROL Tâches] élément dans le nouveau [!UICONTROL Accueil] expérience**
+
+_Page d’accueil_
+
+Lorsqu’un utilisateur accède à la nouvelle [!UICONTROL Accueil] tente de supprimer un élément de la [!UICONTROL Tâches] , l’élément ne supprime pas et l’utilisateur voit l’erreur suivante :
+
+&quot;[!UICONTROL Un problème est survenu lors de la suppression de votre liste de tâches, veuillez réessayer ultérieurement.]&quot;
+
+Cela peut se produire lorsqu’il y a des heures connectées à la variable [!UICONTROL Tâches] élément .
+
+**Le projet épinglé n’affiche pas d’informations dans certaines colonnes.**
+
+_Projets_
+
+Lorsqu’un utilisateur accède à un projet épinglé à l’aide de l’épingle, les listes d’objets (comme la liste des tâches) peuvent afficher des colonnes vides. Par exemple, un [!UICONTROL Affectations] peut n’afficher aucune affectation, même si des affectations ont été effectuées.
+
+**Module de veille provoquant le blocage de scénarios**
+
+_[!DNL Workfront Fusion]_
+
+La variable [!UICONTROL Outils] > [!UICONTROL Dormir] dans un scénario peut entraîner le blocage de l’exécution d’un scénario. Ces exécutions affichent l’état En cours dans la variable [!UICONTROL Historique des scénarios]et ne terminez pas.
+
++++
 
 +++**Mise à jour de maintenance le 3 août 2023**
 
