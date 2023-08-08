@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
 workflow-type: tm+mt
 source-wordcount: '362'
-ht-degree: 86%
+ht-degree: 89%
 
 ---
 
@@ -29,7 +29,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 | [Bons à tirer : le BAT approuvé reste sur le [!UICONTROL Liste de travail à domicile]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | 2 août 2023 |
 | [Bons à tirer : affichage du bon à tirer avec coupure supérieure](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2 août 2023 |
 | [Bons à tirer : impossible de sélectionner du texte dans des listes ou des puces](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2 août 2023 |
-| [Documents : les documents approuvés n’apparaissent pas dans [!UICONTROL Approbations] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 juillet 2023 |
+| [Documents : les documents approuvés n’apparaissent pas dans la zone [!UICONTROL Approbations]](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 juillet 2023 |
 | [BAT : les BAT n’apparaissent pas comme approuvés dans les rapports](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 20 juillet 2023 |
 
 {style="table-layout:auto"}

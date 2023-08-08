@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 1f039e819f8a65af18d2dbc24b95b85607b947be
 workflow-type: tm+mt
 source-wordcount: '668'
-ht-degree: 85%
+ht-degree: 88%
 
 ---
 
@@ -30,8 +30,8 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 | [Bons à tirer : le BAT approuvé reste sur le [!UICONTROL Liste de travail à domicile]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | 2 août 2023 |
 | [Bons à tirer : affichage du bon à tirer avec coupure supérieure](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2 août 2023 |
 | [Bons à tirer : impossible de sélectionner du texte dans des listes ou des puces](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2 août 2023 |
-| [Tâches/problèmes : l’utilisateur affecté ne reçoit pas d’accès à l’objet](known-issues-workfront/wf-access-assigned-user-not-getting-access.md) | 27 juillet 2023 |
-| [Documents : les documents approuvés n’apparaissent pas dans [!UICONTROL Approbations] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 juillet 2023 |
+| [Tâches/problèmes : la personne utilisatrice affectée ne reçoit pas d’accès à l’objet](known-issues-workfront/wf-access-assigned-user-not-getting-access.md) | 27 juillet 2023 |
+| [Documents : les documents approuvés n’apparaissent pas dans la zone [!UICONTROL Approbations]](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 juillet 2023 |
 
 {style="table-layout:auto"}
 

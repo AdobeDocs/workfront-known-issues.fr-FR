@@ -5,7 +5,7 @@ role: User
 source-git-commit: 1f039e819f8a65af18d2dbc24b95b85607b947be
 workflow-type: tm+mt
 source-wordcount: '1084'
-ht-degree: 89%
+ht-degree: 92%
 
 ---
 
@@ -26,8 +26,8 @@ ht-degree: 89%
       + [Bons à tirer : affichage du bon à tirer avec coupure supérieure](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md)
       + [Accueil : impossible de supprimer [!UICONTROL Tâches] élément dans le nouveau [!UICONTROL Accueil] expérience](known-issues-workfront/wf-home-cannot-delete-todo.md)
       + [Bons à tirer : impossible de sélectionner du texte dans des listes ou des puces](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md)
-      + [Tâches/problèmes : l’utilisateur affecté ne reçoit pas d’accès à l’objet](known-issues-workfront/wf-access-assigned-user-not-getting-access.md)
-      + [Documents : les documents approuvés n’apparaissent pas dans [!UICONTROL Approbations] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
+      + [Tâches/problèmes : la personne utilisatrice affectée ne reçoit pas d’accès à l’objet](known-issues-workfront/wf-access-assigned-user-not-getting-access.md)
+      + [Documents : les documents approuvés n’apparaissent pas dans la zone [!UICONTROL Approbations]](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
       + [Documents : fichiers EPS actuellement non pris en charge](known-issues-workfront/wf-documents-not-supporting-eps.md)
       + [Documents : erreur XML lors du téléchargement](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
       + [Projets/Problèmes : le projet ne résoud pas correctement le problème](known-issues-workfront/wf-projects-resolving-issue.md)
@@ -39,7 +39,7 @@ ht-degree: 89%
       + [Configuration : impossible de modifier le Coût/heure ou la Facturation/heure de la fonction](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md)
       + [Panoramas : la barre de défilement horizontale n’est pas présente.](known-issues-workfront/wf-board-no-scrollbar.md)
       + [Projets/Tâches/Problèmes : la chronologie n’est pas recalculée.](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
-      + [Filtres : « [!UICONTROL Activer à l’échelle du système] » et « [!UICONTROL Afficher à l’échelle du système] » constituent des fonctionnalités différentes.](known-issues-workfront/wf-filters-enable-system-wide.md)
+      + [Filtres : « [!UICONTROL Activer à l’échelle du système] » et « [!UICONTROL Afficher à l’échelle du système] » constituent des fonctionnalités différentes](known-issues-workfront/wf-filters-enable-system-wide.md)
       + [Rapports : impossible de charger le rapport d’utilisation](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
       + [BAT : les options d’approbation n’apparaissent pas dans le [!UICONTROL Lecteur de vérification].](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
       + [Feuilles de temps : erreurs lors de l’enregistrement des heures sur une feuille de temps](known-issues-workfront/wf-timesheets-error-when-saving-hours.md)
@@ -122,7 +122,7 @@ ht-degree: 89%
       + [Bons à tirer : les BAT sont créés lentement dans l’environnement Aperçu](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
       + [[!DNL Workfront Proof] : erreur 500 lors de l’accès à [!DNL Workfront Proof] via l’API ou [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
       + [[!DNL Workfront Proof] : la recherche ne renvoie aucun résultat](known-issues-workfront-proof/proof-search-returns-no-results.md)
-      + [[!DNL Workfront Proof] : les listes ne sont pas triées correctement.](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
+      + [[!DNL Workfront Proof] : les listes ne sont pas triées correctement](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [[!DNL Workfront Proof] : la zone [!UICONTROL Rapports] n’est plus prise en charge](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + [BAT : l’utilisateur ou l’utilisatrice ne reçoit pas d’e-mail lorsqu’il ou elle est mentionné(e) dans un commentaire de BAT](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + [Épreuves : une nouvelle étape a été créée, car la date limite ne correspond pas à celle de l’étape existante.](known-issues-workfront-proof/proof-new-stage-created.md)
@@ -143,7 +143,7 @@ ht-degree: 89%
    + Problèmes actifs dans [!DNL Workfront Fusion] {#fusion-current}
       + [[!DNL Workfront Fusion]: Module de veille provoquant le blocage de scénarios](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
       + [[!DNL Workfront Fusion]: le scénario échoue avec &quot;[!UICONTROL lire ECONNRESET]&quot; erreur](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
-      + [[!DNL Workfront Fusion]: impossible de saisir la valeur dans [!DNL Workfront] > [!UICONTROL Événements de contrôle] filter](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
+      + [[!DNL Workfront Fusion] : impossible de saisir la valeur dans  [!DNL Workfront]  > Filtre [!UICONTROL Événements de contrôle]](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
       + [[!DNL Workfront Fusion] : erreur « [!UICONTROL impossible d’exécuter la MISE À JOUR] »](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
       + [[!DNL Workfront Fusion] : les notifications par e-mail ne sont pas envoyées.](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
       + [[!DNL Workfront Fusion] : les exécutions sont bloquées ou retardées](known-issues-workfront-fusion/fusion-stuck-executions.md)

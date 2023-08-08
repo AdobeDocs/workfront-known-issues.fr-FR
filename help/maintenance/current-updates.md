@@ -70,7 +70,7 @@ _Panoramas_
 
 Les balises et les éléments de liste de contrôle ont été supprimés du panorama des projets, car ils ne font pas partie des tâches de Workfront et ne peuvent pas être partagés entre les utilisateurs.
 
-**&quot;[!UICONTROL Activation à l’échelle du système]&quot; et &quot;[!UICONTROL Affichage à l’échelle du système]&quot; représentent différentes fonctionnalités ;**
+**« [!UICONTROL Activer à l’échelle du système] » et « [!UICONTROL Afficher à l’échelle du système] » constituent des fonctionnalités différentes**
 
 _Filtres_
 
