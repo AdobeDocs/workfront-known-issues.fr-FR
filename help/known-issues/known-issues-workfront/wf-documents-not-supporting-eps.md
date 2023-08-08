@@ -4,7 +4,7 @@ description: « Workfront ne prend actuellement pas en charge la création de B
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 882402acd54423e20d28c2294f5aeeae9fc8fa9a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
 ht-degree: 100%
 
