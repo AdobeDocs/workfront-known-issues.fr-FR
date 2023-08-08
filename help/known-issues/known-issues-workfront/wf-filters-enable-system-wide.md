@@ -4,14 +4,14 @@ description: « Si un utilisateur ou une utilisatrice partage un filtre et acti
 feature: System Setup and Administration
 hidefromtoc: true
 source-git-commit: 882402acd54423e20d28c2294f5aeeae9fc8fa9a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '196'
 ht-degree: 100%
 
 ---
 
 
-# Filtres : « [!UICONTROL activer à l’échelle du système] » et « [!UICONTROL Afficher à l’échelle du système] » constituent des fonctionnalités différentes.
+# Filtres : « [!UICONTROL activer à l’échelle du système] » et « [!UICONTROL Afficher à l’échelle du système] » constituent des fonctionnalités différentes
 
 >[!NOTE]
 >
