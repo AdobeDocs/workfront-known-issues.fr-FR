@@ -4,10 +4,10 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
+source-git-commit: 60bfb4f3d7183b2e5110d896a3668991718fbb01
 workflow-type: tm+mt
-source-wordcount: '362'
-ht-degree: 89%
+source-wordcount: '378'
+ht-degree: 85%
 
 ---
 
@@ -40,6 +40,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bons à tirer : superposition de texte sur un BAT](known-issues-workfront/wf-proofs-overlapping-text.md) | 8 août 2023 |
+| [Bons à tirer : &quot;[!UICONTROL Désactivation des notifications par email BAT]&quot; s’affiche incorrectement](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 8 août 2023 |
 | [BAT : message « Aucune image » lors d’un clic sur le BAT](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 3 août 2023 |
 | [BAT : impossible d’ajuster les balises BAT](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3 août 2023 |
 

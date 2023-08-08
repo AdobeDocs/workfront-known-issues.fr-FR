@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
+source-git-commit: 60bfb4f3d7183b2e5110d896a3668991718fbb01
 workflow-type: tm+mt
-source-wordcount: '680'
-ht-degree: 86%
+source-wordcount: '703'
+ht-degree: 84%
 
 ---
 
@@ -25,6 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Rapports : problèmes lors du chargement des rapports Matrice](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | 8 août 2023 |
 | [Panoramas : problèmes lors du chargement d’un panorama](known-issues-workfront/wf-boards-issues-with-loading.md) | 7 août 2023 |
 | [Bons à tirer : les bons à tirer ne parviennent pas à générer](known-issues-workfront/wf-proofs-fail-to-generate.md) | 3 août 2023 |
 | [Bons à tirer : le BAT approuvé reste sur le [!UICONTROL Liste de travail à domicile]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | 2 août 2023 |
@@ -41,6 +42,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bons à tirer : superposition de texte sur un BAT](known-issues-workfront/wf-proofs-overlapping-text.md) | 8 août 2023 |
+| [Bons à tirer : &quot;[!UICONTROL Désactivation des notifications par email BAT]&quot; s’affiche incorrectement](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 8 août 2023 |
 | [Projets : impossible d’accéder au projet avec une URL qui utilise [!UICONTROL ID de référence]](known-issues-workfront/wf-projects-unable-to-construct-url.md) | 8 août 2023 |
 | [Projets : le projet épinglé n’affiche pas d’informations dans certaines colonnes.](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md) | 4 août 2023 |
 | [BAT : message « Aucune image » lors d’un clic sur le BAT](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 3 août 2023 |

@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
+source-git-commit: 60bfb4f3d7183b2e5110d896a3668991718fbb01
 workflow-type: tm+mt
-source-wordcount: '1095'
-ht-degree: 91%
+source-wordcount: '1115'
+ht-degree: 89%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 91%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Rapports : problèmes lors du chargement des rapports Matrice](known-issues-workfront/wf-reports-matrix-report-not-loading.md)
+      + [Bons à tirer : superposition de texte sur un BAT](known-issues-workfront/wf-proofs-overlapping-text.md)
+      + [Bons à tirer : &quot;[!UICONTROL Désactivation des notifications par email BAT]&quot; s’affiche incorrectement](known-issues-workfront/wf-proofs-disable-email-inaccurate.md)
       + [Projets : impossible d’accéder au projet avec une URL qui utilise [!UICONTROL ID de référence]](known-issues-workfront/wf-projects-unable-to-construct-url.md)
       + [Panoramas : problèmes lors du chargement d’un panorama](known-issues-workfront/wf-boards-issues-with-loading.md)
       + [Projets : le projet épinglé n’affiche pas d’informations dans certaines colonnes.](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)
