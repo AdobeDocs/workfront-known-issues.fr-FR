@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 60bfb4f3d7183b2e5110d896a3668991718fbb01
+source-git-commit: d5388a80680879a2dbb6ae35625a18baa29c0a62
 workflow-type: tm+mt
-source-wordcount: '703'
-ht-degree: 84%
+source-wordcount: '716'
+ht-degree: 82%
 
 ---
 
@@ -25,6 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Équilibreur de charge de travail]: [!UICONTROL Nombre total d’heures] ne correspond pas à la somme de [!UICONTROL Heures planifiées]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 9 août 2023 |
 | [Rapports : problèmes lors du chargement des rapports Matrice](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | 8 août 2023 |
 | [Panoramas : problèmes lors du chargement d’un panorama](known-issues-workfront/wf-boards-issues-with-loading.md) | 7 août 2023 |
 | [Bons à tirer : les bons à tirer ne parviennent pas à générer](known-issues-workfront/wf-proofs-fail-to-generate.md) | 3 août 2023 |
