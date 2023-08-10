@@ -4,10 +4,10 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Fusion]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
+source-git-commit: 3676106501c4b2a54e1aa2716b8f68bb7977e27b
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 89%
+source-wordcount: '131'
+ht-degree: 94%
 
 ---
 
@@ -25,7 +25,6 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: Module de veille provoquant le blocage de scénarios](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md) | 3 août 2023 |
 | [[!DNL Workfront Fusion]: le scénario échoue avec &quot;[!UICONTROL lire ECONNRESET]&quot; erreur](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md) | 3 août 2023 |
 
 {style="table-layout:auto"}

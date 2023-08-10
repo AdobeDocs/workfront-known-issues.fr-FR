@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d5388a80680879a2dbb6ae35625a18baa29c0a62
+source-git-commit: 3676106501c4b2a54e1aa2716b8f68bb7977e27b
 workflow-type: tm+mt
-source-wordcount: '716'
-ht-degree: 82%
+source-wordcount: '695'
+ht-degree: 84%
 
 ---
 
@@ -46,11 +46,9 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [Bons à tirer : superposition de texte sur un BAT](known-issues-workfront/wf-proofs-overlapping-text.md) | 8 août 2023 |
 | [Bons à tirer : &quot;[!UICONTROL Désactivation des notifications par email BAT]&quot; s’affiche incorrectement](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 8 août 2023 |
 | [Projets : impossible d’accéder au projet avec une URL qui utilise [!UICONTROL ID de référence]](known-issues-workfront/wf-projects-unable-to-construct-url.md) | 8 août 2023 |
-| [Projets : le projet épinglé n’affiche pas d’informations dans certaines colonnes.](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md) | 4 août 2023 |
 | [BAT : message « Aucune image » lors d’un clic sur le BAT](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 3 août 2023 |
 | [BAT : impossible d’ajuster les balises BAT](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3 août 2023 |
 | [Bons à tirer : la création d’une version de BAT supprime toutes les versions du BAT.](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2 août 2023 |
-| [Accueil : impossible de supprimer [!UICONTROL Tâches] élément dans le nouveau [!UICONTROL Accueil] expérience](known-issues-workfront/wf-home-cannot-delete-todo.md) | 2 août 2023 |
 | [[!UICONTROL Accueil] : les éléments n’apparaissent pas dans la [!UICONTROL Liste de travail de l’accueil]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 21 juillet 2023 |
 | [Projets : les statuts personnalisés du [!UICONTROL Groupe résidentiel] ne sont pas disponibles lors de la création d’un projet à partir d’un modèle](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 mars 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Cas d’assistance sur Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 août 2022 |
