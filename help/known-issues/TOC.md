@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: d5388a80680879a2dbb6ae35625a18baa29c0a62
+source-git-commit: 8e69a8c5339012df5d7f83096476f6d4a45ae4e2
 workflow-type: tm+mt
-source-wordcount: '1127'
-ht-degree: 88%
+source-wordcount: '1147'
+ht-degree: 87%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 88%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Bons à tirer : les couleurs des BAT ne s’affichent pas correctement](known-issues-workfront/wf-proof-inaccurate-colors.md)
+      + [[!UICONTROL Accueil]: &quot;[!UICONTROL Mentions]&quot; widget dans le nouveau [!UICONTROL Accueil] ne se limite pas aux messages dans lesquels l’utilisateur est balisé.](known-issues-workfront/wf-home-mentions-widget-new-home.md)
       + [[!UICONTROL Équilibreur de charge de travail]: [!UICONTROL Nombre total d’heures] ne correspond pas à la somme de [!UICONTROL Heures planifiées]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
       + [Rapports : problèmes lors du chargement des rapports Matrice](known-issues-workfront/wf-reports-matrix-report-not-loading.md)
       + [Bons à tirer : superposition de texte sur un BAT](known-issues-workfront/wf-proofs-overlapping-text.md)

@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3676106501c4b2a54e1aa2716b8f68bb7977e27b
+source-git-commit: 8e69a8c5339012df5d7f83096476f6d4a45ae4e2
 workflow-type: tm+mt
-source-wordcount: '695'
-ht-degree: 84%
+source-wordcount: '717'
+ht-degree: 82%
 
 ---
 
@@ -25,6 +25,8 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bons à tirer : les couleurs des BAT ne s’affichent pas correctement](known-issues-workfront/wf-proof-inaccurate-colors.md) | 10 août 2023 |
+| [[!UICONTROL Accueil]: &quot;[!UICONTROL Mentions]&quot; widget dans le nouveau [!UICONTROL Accueil] ne se limite pas aux messages dans lesquels l’utilisateur est balisé.](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 10 août 2023 |
 | [[!UICONTROL Équilibreur de charge de travail]: [!UICONTROL Nombre total d’heures] ne correspond pas à la somme de [!UICONTROL Heures planifiées]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 9 août 2023 |
 | [Rapports : problèmes lors du chargement des rapports Matrice](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | 8 août 2023 |
 | [Panoramas : problèmes lors du chargement d’un panorama](known-issues-workfront/wf-boards-issues-with-loading.md) | 7 août 2023 |
