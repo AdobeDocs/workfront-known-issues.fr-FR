@@ -4,8 +4,8 @@ description: « Lorsqu’un utilisateur ou une utilisatrice consulte un rapport
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 8a9db3e9d8972497fa979cc8c2fb488d3a33118a
-workflow-type: tm+mt
-source-wordcount: '128'
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
