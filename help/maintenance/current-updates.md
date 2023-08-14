@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
 workflow-type: tm+mt
 source-wordcount: '4657'
-ht-degree: 94%
+ht-degree: 99%
 
 ---
 
@@ -28,23 +28,23 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 _Page d’accueil_
 
-Lorsqu’un utilisateur accède à la nouvelle [!UICONTROL Accueil] tente de supprimer un élément de la [!UICONTROL Tâches] , l’élément ne supprime pas et l’utilisateur voit l’erreur suivante :
+Lorsqu’une personne accède à la nouvelle expérience [!UICONTROL Accueil] et tente de supprimer un élément du widget [!UICONTROL Tâches], l’élément ne se supprime pas et affiche l’erreur suivante :
 
-&quot;[!UICONTROL Un problème est survenu lors de la suppression de votre liste de tâches, veuillez réessayer ultérieurement.]&quot;
+« [!UICONTROL Un problème est survenu lors de la suppression de votre liste de tâches, veuillez réessayer ultérieurement.] »
 
-Cela peut se produire lorsqu’il y a des heures connectées à la variable [!UICONTROL Tâches] élément .
+Cette situation peut se produire lorsqu’il existe des heures consignées dans l’élément [!UICONTROL Tâches].
 
 **Le projet épinglé n’affiche pas d’informations dans certaines colonnes.**
 
 _Projets_
 
-Lorsqu’un utilisateur accède à un projet épinglé à l’aide de l’épingle, les listes d’objets (comme la liste des tâches) peuvent afficher des colonnes vides. Par exemple, un [!UICONTROL Affectations] peut n’afficher aucune affectation, même si des affectations ont été effectuées.
+Lorsqu’une personne accède à un projet épinglé à l’aide de l’épingle, les listes d’objets (comme la liste des tâches) peuvent afficher des colonnes vides. Par exemple, une colonne [!UICONTROL Affectations] peut n’afficher aucune affectation, même si des affectations ont été effectuées.
 
 **Module de veille provoquant le blocage de scénarios**
 
 _[!DNL Workfront Fusion]_
 
-La variable [!UICONTROL Outils] > [!UICONTROL Dormir] dans un scénario peut entraîner le blocage de l’exécution d’un scénario. Ces exécutions affichent l’état En cours dans la variable [!UICONTROL Historique des scénarios]et ne terminez pas.
+Dans un scénario, le module [!UICONTROL Outils] > [!UICONTROL Veille] peut entraîner le blocage de l’exécution d’un scénario. Ces exécutions indiquent le statut En cours dans l’[!UICONTROL historique du scénario] et ne se terminent pas.
 
 +++
 
@@ -54,35 +54,35 @@ La variable [!UICONTROL Outils] > [!UICONTROL Dormir] dans un scénario peut ent
 
 _Panoramas_
 
-La colonne d’ingestion d’un panorama a été triée par ordre de priorité défini sur les tâches et les problèmes, ce qui rendait difficile la localisation d’éléments spécifiques.
+La colonne d’entrée d’un panneau était triée par ordre de priorité défini sur les tâches et les problèmes, ce qui rendait difficile la localisation d’éléments spécifiques.
 
-L’ordre par défaut est désormais le suivant :
+L’ordre par défaut est désormais le suivant :
 
-Tâches:
+Tâches :
 
-* Ordre Principal : nom du projet
-* Ordre Secondaire : structure de ventilation des tâches
+* Ordre principal : nom du projet
+* Ordre secondaire : structure de répartition du travail
 
-Événements
+Problèmes
 
-* Ordre Principal : nom du projet
-* Ordre Secondaire : numéro de référence
+* Ordre principal : nom du projet
+* Ordre secondaire : numéro de référence
 
 **Le projet ne résout pas correctement le problème**
 
-_Projets / Problèmes_
+_Projets/Problèmes_
 
 Lorsqu’un utilisateur ou une utilisatrice change le statut d’un projet qui est l’objet de résolution d’un problème, le statut du problème est remplacé par un statut qui ne correspond pas à la même clé que le statut du projet.
 
-**Erreur &quot;Oups&quot; sur les rapports de matrice**
+**Erreur « Oups » sur les rapports de matrice**
 
 _Rapports_
 
-Lorsqu’un utilisateur tente d’afficher un rapport de matrice, le rapport ne se charge pas et l’utilisateur voit l’erreur suivante :
+Lorsqu’une personne tente d’afficher un rapport de matrice, celui-ci ne se charge pas et le message d’erreur suivant apparaît :
 
 « [!UICONTROL Oups ! Un problème est survenu. Contactez Workfront pour nous aider à comprendre l’erreur et y remédier.] »
 
-Ceci a été signalé aux utilisateurs des zones EMEA.
+Ceci a été signalé aux utilisateurs et utilisatrices des zones EMEA.
 
 +++
 
@@ -90,11 +90,11 @@ Ceci a été signalé aux utilisateurs des zones EMEA.
 
 +++**Mise à jour de maintenance le 27 juillet 2023**
 
-**Les balises et les éléments de liste de contrôle ne fonctionnaient pas correctement dans l’affichage du panorama du projet.**
+**Les balises et les éléments de liste de contrôle ne fonctionnaient pas correctement dans l’affichage du panorama des projets**
 
 _Panoramas_
 
-Les balises et les éléments de liste de contrôle ont été supprimés du panorama des projets, car ils ne font pas partie des tâches de Workfront et ne peuvent pas être partagés entre les utilisateurs.
+Les balises et les éléments de liste de contrôle ont été supprimés du panorama des projets, car ils ne font pas partie des tâches de Workfront et ne peuvent pas être partagés entre les utilisateurs et utilisatrices.
 
 **« [!UICONTROL Activer à l’échelle du système] » et « [!UICONTROL Afficher à l’échelle du système] » constituent des fonctionnalités différentes**
 
