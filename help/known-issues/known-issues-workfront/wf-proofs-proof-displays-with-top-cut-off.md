@@ -1,21 +1,21 @@
 ---
-title: "Bons à tirer : affichage du bon à tirer avec coupure supérieure"
-description: '"Lorsqu’un utilisateur visionne un bon à tirer dans la visionneuse de vérification, il voit que la partie supérieure du bon à tirer semble être coupée. Lorsque l’utilisateur télécharge le BAT, il voit l’intégralité du BAT, sans coupure.  »'
+title: '« BAT : le bon à tirer affiche une coupure dans sa partie supérieure »'
+description: « Lorsqu’une personne visionne un BAT dans le lecteur de vérification, elle constate que la partie supérieure est coupée. Lorsque la personne télécharge le BAT, elle voit l’intégralité du BAT, sans la coupure.  »
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Bons à tirer : affichage du bon à tirer avec coupure supérieure
+# BAT : le bon à tirer affiche une coupure dans sa partie supérieure
 
 <!--WF and WFP TOCs-->
 
-Lorsqu’un utilisateur visionne un BAT dans la visionneuse de BAT, il voit que la partie supérieure du BAT semble être coupée. Lorsque l’utilisateur télécharge le BAT, il voit l’intégralité du BAT, sans coupure.
+Lorsqu’une personne visionne un BAT dans le lecteur de vérification, elle constate que la partie supérieure est coupée. Lorsque la personne télécharge le BAT, elle voit l’intégralité du BAT, sans la coupure.
 
 _Premier signalement le 28 juillet 2023._
 
