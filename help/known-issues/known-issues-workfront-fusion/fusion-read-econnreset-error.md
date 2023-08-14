@@ -1,22 +1,22 @@
 ---
-title: "Workfront Fusion : le scénario échoue avec la lecture de l’erreur ECONNREET"
-description: '"Un scénario peut échouer par intermittence. Lorsqu’un utilisateur visualise l’exécution du scénario d’échec, il voit des messages d’erreur mentionnant "ECONNREET".'
+title: '« Workfront Fusion : le scénario échoue en raison d’une erreur ’read ECONNREET’ »'
+description: « Un scénario peut échouer par intermittence. Lorsqu’une personne visualise l’exécution du scénario en échec, elle voit des messages d’erreur concernant read ECONNREET »
 hidefromtoc: true
 feature: Workfront Fusion
 source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Workfront Fusion]: le scénario échoue avec &quot;[!UICONTROL lire ECONNRESET]&quot; erreur
+# [!DNL Workfront Fusion] : le scénario échoue en raison d’une erreur« [!UICONTROL read ECONNREET] »
 
-Un scénario peut échouer par intermittence. Lorsqu’un utilisateur visualise l’exécution du scénario d’échec, il voit les messages suivants :
+Un scénario peut échouer par intermittence. Lorsqu’une personne visualise l’exécution du scénario en échec, elle voit les messages suivants :
 
-* [!UICONTROL Échec de l’initialisation du module avec une erreur. Error : Read ECONNRESE]T
-* [!UICONTROL Échec de l’initialisation du scénario avec une erreur. Erreur : impossible d’initialiser le scénario en raison de la raison &quot;Lire ECONNREET&quot;]
+* [!UICONTROL Échec de l’initialisation du module ayant entraîné une erreur. Erreur : read ECONNRESE]T
+* [!UICONTROL Échec de l’initialisation du scénario ayant entraîné une erreur. Erreur : impossible d’initialiser le scénario. Motif : « read ECONNREET ».]
 
 **Solution de contournement**
 
