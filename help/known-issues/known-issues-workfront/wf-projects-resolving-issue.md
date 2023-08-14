@@ -4,7 +4,7 @@ description: « Lorsqu’un utilisateur ou une utilisatrice change le statut d�
 hidefromtoc: true
 feature: Projects
 source-git-commit: f2ac5034ba97c996e84b94caac80d7686a924c36
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '112'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Ce problème a été résolu le 3 août 2023.
+>Ce problème a été résolu le 3 août 2023.
 
 Lorsqu’un utilisateur ou une utilisatrice change le statut d’un projet qui est l’objet de résolution d’un problème, le statut du problème est remplacé par un statut qui ne correspond pas à la même clé que le statut du projet.
 
