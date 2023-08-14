@@ -1,21 +1,21 @@
 ---
-title: "Bons à tirer : le BAT approuvé reste sur la liste de travail à domicile de l’approbateur"
-description: "Lorsqu’un utilisateur valide un BAT, cette approbation de BAT reste sur la liste de travail à domicile de l’utilisateur. Les bons à tirer approuvés doivent être automatiquement supprimés de la liste des tâches domestiques."
+title: '« BAT : le BAT approuvé reste sur la liste de travail de l’accueil de la personne approbatrice »'
+description: « Lorsqu’une personne approuve un BAT, cette approbation reste sur sa liste de travail de l’accueil. Les BAT approuvés doivent être automatiquement supprimés de la liste de travail de l’accueil. »
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# Bons à tirer : le BAT approuvé reste sur le [!UICONTROL Liste de travail à domicile]
+# BAT : le BAT approuvé reste sur la [!UICONTROL liste de travail de l’accueil]
 
 <!--WF and WFP TOCs-->
 
-Lorsqu’un utilisateur valide un BAT, cette approbation de BAT reste sur le [!UICONTROL Liste de travail à domicile]. Les bons à tirer approuvés doivent être automatiquement supprimés de la balise [!UICONTROL Liste de travail à domicile].
+Lorsqu’une personne approuve un BAT, cette approbation reste sur sa [!UICONTROL liste de travail de l’accueil]. Les BAT approuvés doivent être automatiquement supprimés de la [!UICONTROL liste de travail de l’accueil].
 
 _Premier signalement le 21 juillet 2023._
 
