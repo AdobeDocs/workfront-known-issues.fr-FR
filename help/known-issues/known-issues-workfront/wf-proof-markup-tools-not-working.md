@@ -1,28 +1,28 @@
 ---
-title: "Bons à tirer : impossible d’ajuster les balises de BAT"
-description: '"Lorsqu’un utilisateur fait un commentaire dans la visionneuse de vérification et ajoute une annotation au BAT, puis clique à l’extérieur, il ne peut plus ajuster les annotations.  »'
+title: '« BAT : impossible d’ajuster les annotations du BAT »'
+description: « Lorsqu’une personne fait un commentaire dans le lecteur de vérification, ajoute une annotation au BAT, puis clique à l’extérieur, elle ne peut plus ajuster l’annotation. »  »
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
 
-# BAT : impossible d’ajuster les balises BAT
+# BAT : impossible d’ajuster les annotations du BAT
 
 <!--WF and WFP TOCs-->
 
-Lorsqu’un utilisateur fait un commentaire dans la visionneuse de vérification et qu’il ajoute une annotation au BAT, puis clique à l’extérieur, il ne peut plus ajuster les annotations.
+Lorsqu’une personne fait un commentaire dans le lecteur de vérification, ajoute une annotation au BAT, puis clique à l’extérieur, elle ne peut plus ajuster l’annotation.
 
 **Solution de contournement**
 
 Utilisez l’une des méthodes suivantes :
 
-* Publiez le commentaire, puis modifiez-le. La modification des commentaires met l’accent sur les balises et permet de les ajuster.
-* Placez une autre marque associée au même commentaire, puis supprimez la seconde marque. Cela permet de se concentrer à nouveau sur la première balise.
+* Publiez le commentaire, puis modifiez-le. La modification du commentaire met l’accent sur les annotations et permet de les ajuster.
+* Placez une autre marque associée au même commentaire, puis supprimez la seconde marque. Vous placez ainsi de nouveau le focus sur la première annotation.
 
 _Premier signalement le 26 juillet 2023._
 
