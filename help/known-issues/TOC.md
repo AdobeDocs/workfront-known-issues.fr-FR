@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8d14d8195c42a226a454882e20d1ff7fabd91410
+source-git-commit: 045e2bd200aa2fffaf2e763a73eb8729517be197
 workflow-type: tm+mt
-source-wordcount: '1163'
-ht-degree: 98%
+source-wordcount: '1171'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Modèles de disposition : les modèles de mise en page provoquent des incohérences dans les rapports.](known-issues-workfront/wf-layout-templates-classic.md)
       + [Bons à tirer : impossible de créer un BAT à partir de PDF](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)
       + [[!UICONTROL Resource Planner]: le planificateur ne se charge pas lorsque le filtre est appliqué](known-issues-workfront/wf-resource-planning-cannot-load.md)
       + [BAT : les couleurs du BAT s’affichent de manière incorrecte](known-issues-workfront/wf-proof-inaccurate-colors.md)

@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8d14d8195c42a226a454882e20d1ff7fabd91410
+source-git-commit: 045e2bd200aa2fffaf2e763a73eb8729517be197
 workflow-type: tm+mt
-source-wordcount: '714'
-ht-degree: 97%
+source-wordcount: '723'
+ht-degree: 96%
 
 ---
 
@@ -62,6 +62,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Modèles de disposition : les modèles de mise en page provoquent des incohérences dans les rapports.](known-issues-workfront/wf-layout-templates-classic.md) | 21 août 2023 |
 | [BAT : les options d’approbation n’apparaissent pas dans le [!UICONTROL Lecteur de vérification]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md). | 10 août 2023 |
 | [BAT : les BAT n’apparaissent pas comme approuvés dans les rapports](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 3 août 2023 |
 | [Configuration : impossible de modifier le Coût/heure ou la Facturation/heure de la fonction](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 21 juillet 2023 |
