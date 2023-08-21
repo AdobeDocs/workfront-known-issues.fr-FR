@@ -4,10 +4,10 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 1c3330160603619726529e903e917653bda64f93
+source-git-commit: 6037b25a9882626499ff8abd5b4975e97c907dcb
 workflow-type: tm+mt
-source-wordcount: '387'
-ht-degree: 98%
+source-wordcount: '380'
+ht-degree: 100%
 
 ---
 
@@ -37,7 +37,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Bons à tirer : impossible de créer un BAT à partir de PDF](known-issues-workfront/wf-proofs-cannot-generate-from-PDF.md) | 21 août 2023 |
 | [BAT : le BAT est coupé dans sa partie supérieure](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 10 août 2023 |
 | [BAT : le BAT approuvé reste sur la [!UICONTROL liste de travail de l’accueil]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) de la personne | 10 août 2023 |
 | [BAT : la génération des BAT échoue](known-issues-workfront/wf-proofs-fail-to-generate.md) | 10 août 2023 |
