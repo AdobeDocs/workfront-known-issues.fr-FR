@@ -5,9 +5,9 @@ keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: 8a9db3e9d8972497fa979cc8c2fb488d3a33118a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '380'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Bons à tirer : les couleurs des BAT ne s’affichent pas correctement](known-issues-workfront/wf-proof-inaccurate-colors.md) | 10 août 2023 |
+| [BAT : les couleurs du BAT s’affichent de manière incorrecte](known-issues-workfront/wf-proof-inaccurate-colors.md) | 10 août 2023 |
 | [BAT : la génération des BAT échoue](known-issues-workfront/wf-proofs-fail-to-generate.md) | 3 août 2023 |
 | [Documents : les documents approuvés n’apparaissent pas dans la zone [!UICONTROL Approbations]](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 juillet 2023 |
 
@@ -38,11 +38,11 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
 | [BAT : le BAT est coupé dans sa partie supérieure](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 10 août 2023 |
-| [BAT : le BAT approuvé reste sur la [!UICONTROL liste de travail de l’accueil]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) de la personne approbatrice | 10 août 2023 |
+| [BAT : le BAT approuvé reste sur la [!UICONTROL liste de travail de l’accueil]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) de la personne | 10 août 2023 |
 | [BAT : la génération des BAT échoue](known-issues-workfront/wf-proofs-fail-to-generate.md) | 10 août 2023 |
 | [BAT : impossible de sélectionner du texte dans des listes ou des puces](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 10 août 2023 |
-| [Bons à tirer : superposition de texte sur un BAT](known-issues-workfront/wf-proofs-overlapping-text.md) | 8 août 2023 |
-| [Bons à tirer : &quot;[!UICONTROL Désactivation des notifications par email BAT]&quot; s’affiche incorrectement](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 8 août 2023 |
+| [BAT : chevauchement de texte sur un BAT](known-issues-workfront/wf-proofs-overlapping-text.md) | 8 août 2023 |
+| [BAT : le paramètre [!UICONTROL Désactiver les notifications par e-mail du BAT] s’affiche de manière incorrecte](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 8 août 2023 |
 | [BAT : message « Aucune image » lors d’un clic sur le BAT](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 3 août 2023 |
 | [BAT : impossible d’ajuster les annotations du BAT](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3 août 2023 |
 
