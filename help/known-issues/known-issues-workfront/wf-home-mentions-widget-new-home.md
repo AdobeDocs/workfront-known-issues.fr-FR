@@ -1,24 +1,24 @@
 ---
-title: "Accueil : le widget Mentions de la nouvelle page d’accueil ne se limite pas aux messages dans lesquels l’utilisateur est balisé."
-description: "Lorsqu’un utilisateur affiche le widget Mentions dans la nouvelle expérience d’accueil, il voit des commentaires qui ne sont pas balisés ni mentionnés dans."
+title: '« Accueil : le widget Mentions du nouvel Accueil ne se limite pas aux messages dans lesquels la personne est mentionnée. »'
+description: « Lorsqu’une personne affiche le widget Mentions dans la nouvelle expérience Accueil, des commentaires indiquent qu’elle n’y pas mentionnée. »
 hidefromtoc: true
 feature: Get Started with Workfront
 source-git-commit: 8e69a8c5339012df5d7f83096476f6d4a45ae4e2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
-# [!UICONTROL Accueil]: &quot;[!UICONTROL Mentions]&quot; widget dans le nouveau [!UICONTROL Accueil] ne se limite pas aux messages dans lesquels l’utilisateur est balisé.
+# [!UICONTROL Accueil] : le widget [!UICONTROL Mentions] du nouvel [!UICONTROL Accueil] ne se limite pas aux messages dans lesquels la personne est mentionnée
 
-Lorsqu’un utilisateur affiche le[!UICONTROL Mentions]&quot; dans le nouveau [!UICONTROL Accueil] expérience, ils voient des commentaires qui ne sont ni balisés ni mentionnés dans . Le widget comprend des commentaires dans lesquels :
+« Lorsqu’une personne affiche le widget [!UICONTROL Mentions] dans la nouvelle expérience [!UICONTROL Accueil], des commentaires indiquent qu’elle n’y est pas mentionnée. » Le widget comprend des commentaires dans lesquels :
 
-* L’utilisateur est affecté à la tâche ou au problème.
-* L’utilisateur a effectué l’affectation sur la tâche ou le problème
-* L’utilisateur a créé la tâche ou le problème
-* L’utilisateur est le Principal contact sur la tâche ou le problème.
+* La personne est affectée à la tâche ou au problème
+* La personne a procédé à l’affectation de la tâche ou du problème
+* La personne a créé la tâche ou le problème
+* La personne est le contact principal pour la tâche ou le problème
 
 _Premier signalement le 1 août 2023._
 
