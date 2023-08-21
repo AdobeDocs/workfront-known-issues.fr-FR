@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 3676106501c4b2a54e1aa2716b8f68bb7977e27b
 workflow-type: tm+mt
 source-wordcount: '107'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->Ce problème a été résolu le 10 août 2023.
+>Ce problème a été résolu le 10 août 2023.
 
 Lorsqu’une personne accède à la nouvelle expérience [!UICONTROL Accueil] et tente de supprimer un élément du widget [!UICONTROL Tâches], l’élément ne se supprime pas et affiche l’erreur suivante :
 

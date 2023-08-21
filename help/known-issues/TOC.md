@@ -5,7 +5,7 @@ role: User
 source-git-commit: 8e69a8c5339012df5d7f83096476f6d4a45ae4e2
 workflow-type: tm+mt
 source-wordcount: '1147'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
-      + [Bons à tirer : les couleurs des BAT ne s’affichent pas correctement](known-issues-workfront/wf-proof-inaccurate-colors.md)
-      + [[!UICONTROL Accueil]: &quot;[!UICONTROL Mentions]&quot; widget dans le nouveau [!UICONTROL Accueil] ne se limite pas aux messages dans lesquels l’utilisateur est balisé.](known-issues-workfront/wf-home-mentions-widget-new-home.md)
-      + [[!UICONTROL Équilibreur de charge de travail]: [!UICONTROL Nombre total d’heures] ne correspond pas à la somme de [!UICONTROL Heures planifiées]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
-      + [Rapports : problèmes lors du chargement des rapports Matrice](known-issues-workfront/wf-reports-matrix-report-not-loading.md)
-      + [Bons à tirer : superposition de texte sur un BAT](known-issues-workfront/wf-proofs-overlapping-text.md)
-      + [Bons à tirer : &quot;[!UICONTROL Désactivation des notifications par email BAT]&quot; s’affiche incorrectement](known-issues-workfront/wf-proofs-disable-email-inaccurate.md)
-      + [Projets : impossible d’accéder au projet avec une URL qui utilise [!UICONTROL ID de référence]](known-issues-workfront/wf-projects-unable-to-construct-url.md)
+      + [BAT : les couleurs du BAT s’affichent de manière incorrecte](known-issues-workfront/wf-proof-inaccurate-colors.md)
+      + [[!UICONTROL Accueil] : le widget [!UICONTROL Mentions] du nouvel [!UICONTROL Accueil] ne se limite pas aux messages dans lesquels la personne est mentionnée](known-issues-workfront/wf-home-mentions-widget-new-home.md)
+      + [[!UICONTROL Équilibreur de charge de travail] : le [!UICONTROL Nombre total d’heures] ne correspond pas à la somme du [!UICONTROL Nombre d’heures prévues]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
+      + [Rapports : erreurs lors du chargement des rapports de matrice](known-issues-workfront/wf-reports-matrix-report-not-loading.md)
+      + [BAT : chevauchement de texte sur un BAT](known-issues-workfront/wf-proofs-overlapping-text.md)
+      + [BAT : le paramètre [!UICONTROL Désactiver les notifications par e-mail du BAT] s’affiche de manière incorrecte](known-issues-workfront/wf-proofs-disable-email-inaccurate.md)
+      + [Projets : impossible d’accéder au projet avec une URL qui utilise l’[!UICONTROL ID de référence]](known-issues-workfront/wf-projects-unable-to-construct-url.md)
       + [Panoramas : problèmes lors du chargement d’un panorama](known-issues-workfront/wf-boards-issues-with-loading.md)
       + [Projets : le projet épinglé n’affiche pas les informations de certaines colonnes](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)
       + [BAT : impossible d’ajuster les annotations du BAT](known-issues-workfront/wf-proof-markup-tools-not-working.md)

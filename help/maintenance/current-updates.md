@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
 workflow-type: tm+mt
 source-wordcount: '4799'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -28,13 +28,13 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 _Projets_
 
-Lorsqu’un utilisateur tente d’accéder à un projet à l’aide d’une URL qui comprend une [!UICONTROL ID de référence] numéro, ils sont redirigés vers une page contenant un message d’erreur. Accès à une tâche à l’aide d’une URL avec une [!UICONTROL ID de référence] fonctionne comme prévu.
+Lorsqu’une personne tente d’accéder à un projet à l’aide d’une URL qui inclut un numéro d’[!UICONTROL ID de référence], elle est redirigée vers une page contenant un message d’erreur. La navigation vers une tâche à l’aide d’un URI contenant un [!UICONTROL ID de référence] fonctionne comme prévu. »
 
 **&quot;[!UICONTROL Désactivation des notifications par email BAT]&quot; s’affiche incorrectement**
 
 _Épreuves_
 
-Lorsqu’un utilisateur consulte les paramètres du BAT dans [!DNL Workfront], le &quot;[!UICONTROL Désactivation des notifications par email BAT]&quot; n’affiche pas correctement le paramètre actif correct. Lorsque la case est cochée, indiquant que les notifications électroniques de BAT sont désactivées, les notifications sont en fait activées. L&#39;inverse est également vrai.
+Lorsqu’une personne consulte les paramètres du BAT dans [!DNL Workfront], la case à cocher [!UICONTROL Désactiver les notifications par e-mail du BAT] n’affiche pas correctement le paramètre actuel. Lorsque la case est cochée, indiquant que les notifications par e-mail sont désactivées pour le BAT, les notifications sont en fait activées. Le contraire est également vrai.
 
 **Impossible d’ajuster les balises de BAT**
 
@@ -46,7 +46,7 @@ Lorsqu’une personne fait un commentaire dans le lecteur de vérification, ajou
 
 +++**Mise à jour de la maintenance le 10 août 2023**
 
-**Impossible de supprimer [!UICONTROL Tâches] élément dans le nouveau [!UICONTROL Accueil] expérience**
+**Impossible de supprimer l’élément [!UICONTROL Tâches] dans la nouvelle expérience [!UICONTROL Accueil]**
 
 _Page d’accueil_
 
@@ -56,7 +56,7 @@ Lorsqu’une personne accède à la nouvelle expérience [!UICONTROL Accueil] et
 
 Cette situation peut se produire lorsqu’il existe des heures consignées dans l’élément [!UICONTROL Tâches].
 
-**Le projet épinglé n’affiche pas d’informations dans certaines colonnes.**
+**Le projet épinglé n’affiche pas les informations de certaines colonnes**
 
 _Projets_
 
