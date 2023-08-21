@@ -4,7 +4,7 @@ description: « Lorsqu’une personne utilisatrice configure un module  [!DNL W
 hidefromtoc: true
 feature: Workfront Fusion
 source-git-commit: 8a9db3e9d8972497fa979cc8c2fb488d3a33118a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Ce problème a été résolu le 10 août 2023.
+>Ce problème a été résolu le 10 août 2023.
 
 Lorsqu’une personne utilisatrice configure un module [!DNL Workfront] > [!DNL Watch Events], et que l’opérateur est défini sur « [!UICONTROL Est égal à] », la zone de texte dans laquelle saisir une valeur est absente.
 
