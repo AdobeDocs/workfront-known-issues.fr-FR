@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8a9db3e9d8972497fa979cc8c2fb488d3a33118a
+source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
 workflow-type: tm+mt
-source-wordcount: '723'
-ht-degree: 91%
+source-wordcount: '696'
+ht-degree: 93%
 
 ---
 
@@ -47,10 +47,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [BAT : impossible de sélectionner du texte dans des listes ou des puces](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 10 août 2023 |
 | [Documents : les documents approuvés n’apparaissent pas dans la zone [!UICONTROL Approbations]](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 10 août 2023 |
 | [Bons à tirer : superposition de texte sur un BAT](known-issues-workfront/wf-proofs-overlapping-text.md) | 8 août 2023 |
-| [Bons à tirer : &quot;[!UICONTROL Désactivation des notifications par email BAT]&quot; s’affiche incorrectement](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 8 août 2023 |
-| [Projets : impossible d’accéder au projet avec une URL qui utilise [!UICONTROL ID de référence]](known-issues-workfront/wf-projects-unable-to-construct-url.md) | 8 août 2023 |
 | [BAT : message « Aucune image » lors d’un clic sur le BAT](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 3 août 2023 |
-| [BAT : impossible d’ajuster les annotations du BAT](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3 août 2023 |
 | [BAT : la création d’une nouvelle version du BAT supprime toutes les versions du BAT](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2 août 2023 |
 | [Projets : les statuts personnalisés du [!UICONTROL Groupe résidentiel] ne sont pas disponibles lors de la création d’un projet à partir d’un modèle](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 mars 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Cas d’assistance sur Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 août 2022 |

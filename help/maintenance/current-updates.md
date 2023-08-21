@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
+source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
 workflow-type: tm+mt
-source-wordcount: '4657'
-ht-degree: 99%
+source-wordcount: '4799'
+ht-degree: 97%
 
 ---
 
@@ -22,7 +22,29 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 ## Mises à jour d’août 2023
 
-+++**Mise à jour de maintenance (planifiée) le 10 août 2023**
++++**Mise à jour de la maintenance le 17 août 2023**
+
+**Impossible d’accéder au projet avec l’URL qui utilise [!UICONTROL ID de référence]**
+
+_Projets_
+
+Lorsqu’un utilisateur tente d’accéder à un projet à l’aide d’une URL qui comprend une [!UICONTROL ID de référence] numéro, ils sont redirigés vers une page contenant un message d’erreur. Accès à une tâche à l’aide d’une URL avec une [!UICONTROL ID de référence] fonctionne comme prévu.
+
+**&quot;[!UICONTROL Désactivation des notifications par email BAT]&quot; s’affiche incorrectement**
+
+_Épreuves_
+
+Lorsqu’un utilisateur consulte les paramètres du BAT dans [!DNL Workfront], le &quot;[!UICONTROL Désactivation des notifications par email BAT]&quot; n’affiche pas correctement le paramètre actif correct. Lorsque la case est cochée, indiquant que les notifications électroniques de BAT sont désactivées, les notifications sont en fait activées. L&#39;inverse est également vrai.
+
+**Impossible d’ajuster les balises de BAT**
+
+_Épreuves_
+
+Lorsqu’une personne fait un commentaire dans le lecteur de vérification, ajoute une annotation au BAT, puis clique à l’extérieur, elle ne peut plus ajuster l’annotation.
+
++++
+
++++**Mise à jour de la maintenance le 10 août 2023**
 
 **Impossible de supprimer [!UICONTROL Tâches] élément dans le nouveau [!UICONTROL Accueil] expérience**
 
