@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 6037b25a9882626499ff8abd5b4975e97c907dcb
+source-git-commit: 8d14d8195c42a226a454882e20d1ff7fabd91410
 workflow-type: tm+mt
-source-wordcount: '707'
-ht-degree: 98%
+source-wordcount: '714'
+ht-degree: 97%
 
 ---
 
@@ -41,6 +41,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bons à tirer : impossible de créer un BAT à partir de PDF](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | 21 août 2023 |
 | [[!UICONTROL Resource Planner]: le planificateur ne se charge pas lorsque le filtre est appliqué](known-issues-workfront/wf-resource-planning-cannot-load.md) | 21 août 2023 |
 | [BAT : le BAT est coupé dans sa partie supérieure](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 10 août 2023 |
 | [BAT : le BAT approuvé reste sur la [!UICONTROL liste de travail de l’accueil]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) de la personne | 10 août 2023 |
