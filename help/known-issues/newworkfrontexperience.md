@@ -5,9 +5,9 @@ keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '696'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -25,10 +25,10 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Bons à tirer : les couleurs des BAT ne s’affichent pas correctement](known-issues-workfront/wf-proof-inaccurate-colors.md) | 10 août 2023 |
-| [[!UICONTROL Accueil]: &quot;[!UICONTROL Mentions]&quot; widget dans le nouveau [!UICONTROL Accueil] ne se limite pas aux messages dans lesquels l’utilisateur est balisé.](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 10 août 2023 |
-| [[!UICONTROL Équilibreur de charge de travail]: [!UICONTROL Nombre total d’heures] ne correspond pas à la somme de [!UICONTROL Heures planifiées]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 9 août 2023 |
-| [Rapports : problèmes lors du chargement des rapports Matrice](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | 8 août 2023 |
+| [BAT : les couleurs du BAT s’affichent de manière incorrecte](known-issues-workfront/wf-proof-inaccurate-colors.md) | 10 août 2023 |
+| [[!UICONTROL Accueil] : le widget [!UICONTROL Mentions] du nouvel [!UICONTROL Accueil] ne se limite pas aux messages dans lesquels la personne est mentionnée](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 10 août 2023 |
+| [[!UICONTROL Équilibreur de charge de travail] : le [!UICONTROL Nombre total d’heures] ne correspond pas à la somme du [!UICONTROL Nombre d’heures prévues]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 9 août 2023 |
+| [Rapports : erreurs lors du chargement des rapports de matrice](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | 8 août 2023 |
 | [Panoramas : problèmes lors du chargement d’un panorama](known-issues-workfront/wf-boards-issues-with-loading.md) | 7 août 2023 |
 | [BAT : la génération des BAT échoue](known-issues-workfront/wf-proofs-fail-to-generate.md) | 3 août 2023 |
 | [Tâches/problèmes : la personne utilisatrice affectée ne reçoit pas d’accès à l’objet](known-issues-workfront/wf-access-assigned-user-not-getting-access.md) | 27 juillet 2023 |
@@ -42,11 +42,11 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
 | [BAT : le BAT est coupé dans sa partie supérieure](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 10 août 2023 |
-| [BAT : le BAT approuvé reste sur la [!UICONTROL liste de travail de l’accueil]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) de la personne approbatrice | 10 août 2023 |
+| [BAT : le BAT approuvé reste sur la [!UICONTROL liste de travail de l’accueil]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) de la personne | 10 août 2023 |
 | [BAT : la génération des BAT échoue](known-issues-workfront/wf-proofs-fail-to-generate.md) | 10 août 2023 |
 | [BAT : impossible de sélectionner du texte dans des listes ou des puces](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 10 août 2023 |
 | [Documents : les documents approuvés n’apparaissent pas dans la zone [!UICONTROL Approbations]](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 10 août 2023 |
-| [Bons à tirer : superposition de texte sur un BAT](known-issues-workfront/wf-proofs-overlapping-text.md) | 8 août 2023 |
+| [BAT : chevauchement de texte sur un BAT](known-issues-workfront/wf-proofs-overlapping-text.md) | 8 août 2023 |
 | [BAT : message « Aucune image » lors d’un clic sur le BAT](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 3 août 2023 |
 | [BAT : la création d’une nouvelle version du BAT supprime toutes les versions du BAT](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2 août 2023 |
 | [Projets : les statuts personnalisés du [!UICONTROL Groupe résidentiel] ne sont pas disponibles lors de la création d’un projet à partir d’un modèle](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 mars 2023 |
