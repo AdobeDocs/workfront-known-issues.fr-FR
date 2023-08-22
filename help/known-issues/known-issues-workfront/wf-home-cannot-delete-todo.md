@@ -3,9 +3,9 @@ title: '« Accueil : impossible de supprimer les tâches dans la nouvelle exp�
 description: « Lorsqu’une personne utilisant la nouvelle expérience Accueil tente de supprimer un élément du widget Tâches, le widget ne se supprime pas et affiche une erreur. »
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 3676106501c4b2a54e1aa2716b8f68bb7977e27b
+source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '101'
 ht-degree: 100%
 
 ---
@@ -13,9 +13,11 @@ ht-degree: 100%
 
 # Accueil : impossible de supprimer l’élément [!UICONTROL Tâches] dans la nouvelle expérience [!UICONTROL Accueil] 
 
+<!--
 >[!NOTE]
 >
->Ce problème a été résolu le 10 août 2023.
+>This issue was resolved on August 10, 2023.
+-->
 
 Lorsqu’une personne accède à la nouvelle expérience [!UICONTROL Accueil] et tente de supprimer un élément du widget [!UICONTROL Tâches], l’élément ne se supprime pas et affiche l’erreur suivante :
 

@@ -3,9 +3,9 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
+source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
 workflow-type: tm+mt
-source-wordcount: '4799'
+source-wordcount: '4918'
 ht-degree: 99%
 
 ---
@@ -21,6 +21,22 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2023.
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
 
 ## Mises à jour d’août 2023
+
++++**(Planifiée) Mise à jour de maintenance du 24 août 2023**
+
+**Impossible de sélectionner du texte dans les listes ou les puces**
+
+_Épreuves_
+
+Lorsqu’une personne consulte un BAT dans le lecteur de vérification et tente de sélectionner du texte qui se trouve dans une liste ou une puce, l’outil de sélection de texte est inefficace et le texte ne peut pas être sélectionné.
+
+**La création d’une version de BAT supprime toutes les versions du BAT.**
+
+_Épreuves_
+
+Lorsqu’une personne crée un BAT à partir d’un document, le BAT est créé. Cependant, si une personne crée une autre version du BAT, les anciennes et nouvelles versions sont supprimées. Il existe une option [!UICONTROL Créer un BAT] sur le document d’origine. Les versions du BAT se trouvent dans la zone [!UICONTROL Corbeille] de la zone [!UICONTROL Relecture], dans [!DNL Workfront].
+
++++
 
 +++**Mise à jour de la maintenance le 17 août 2023**
 
