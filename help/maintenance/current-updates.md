@@ -26,33 +26,33 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 **Impossible de sélectionner du texte dans les listes ou les puces**
 
-_Épreuves_
+_BAT_
 
 Lorsqu’une personne consulte un BAT dans le lecteur de vérification et tente de sélectionner du texte qui se trouve dans une liste ou une puce, l’outil de sélection de texte est inefficace et le texte ne peut pas être sélectionné.
 
 **La création d’une version de BAT supprime toutes les versions du BAT.**
 
-_Épreuves_
+_BAT_
 
 Lorsqu’une personne crée un BAT à partir d’un document, le BAT est créé. Cependant, si une personne crée une autre version du BAT, les anciennes et nouvelles versions sont supprimées. Il existe une option [!UICONTROL Créer un BAT] sur le document d’origine. Les versions du BAT se trouvent dans la zone [!UICONTROL Corbeille] de la zone [!UICONTROL Relecture], dans [!DNL Workfront].
 
 +++
 
-+++**Mise à jour de la maintenance le 17 août 2023**
++++**Mise à jour de maintenance le 17 août 2023**
 
-**Impossible d’accéder au projet avec l’URL qui utilise [!UICONTROL ID de référence]**
+**Impossible d’accéder au projet avec une URL qui utilise l’[!UICONTROL ID de référence]**
 
 _Projets_
 
 Lorsqu’une personne tente d’accéder à un projet à l’aide d’une URL qui inclut un numéro d’[!UICONTROL ID de référence], elle est redirigée vers une page contenant un message d’erreur. La navigation vers une tâche à l’aide d’un URI contenant un [!UICONTROL ID de référence] fonctionne comme prévu. »
 
-**&quot;[!UICONTROL Désactivation des notifications par email BAT]&quot; s’affiche incorrectement**
+**« [!UICONTROL BAT : le paramètre Désactiver les notifications par e-mail du BAT] » s’affiche de manière incorrecte**
 
-_Épreuves_
+_BAT_
 
 Lorsqu’une personne consulte les paramètres du BAT dans [!DNL Workfront], la case à cocher [!UICONTROL Désactiver les notifications par e-mail du BAT] n’affiche pas correctement le paramètre actuel. Lorsque la case est cochée, indiquant que les notifications par e-mail sont désactivées pour le BAT, les notifications sont en fait activées. Le contraire est également vrai.
 
-**Impossible d’ajuster les balises de BAT**
+**Impossible d’ajuster les annotations du BAT**
 
 _Épreuves_
 
@@ -60,7 +60,7 @@ Lorsqu’une personne fait un commentaire dans le lecteur de vérification, ajou
 
 +++
 
-+++**Mise à jour de la maintenance le 10 août 2023**
++++**Mise à jour de maintenance le 10 août 2023**
 
 **Impossible de supprimer l’élément [!UICONTROL Tâches] dans la nouvelle expérience [!UICONTROL Accueil]**
 
