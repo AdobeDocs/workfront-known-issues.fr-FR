@@ -4,7 +4,7 @@ description: « Lorsqu’une personne tente d’accéder à un projet à l’ai
 hidefromtoc: true
 feature: Projects
 source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '116'
 ht-degree: 100%
 
