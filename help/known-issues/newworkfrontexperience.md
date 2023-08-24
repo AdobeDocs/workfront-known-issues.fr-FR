@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
+source-git-commit: 5edee4bcf02453bdb4e84f24024ab87a6efe2f8b
 workflow-type: tm+mt
-source-wordcount: '714'
-ht-degree: 96%
+source-wordcount: '705'
+ht-degree: 94%
 
 ---
 
@@ -25,6 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Accueil]: les filtres ne s’appliquent pas aux widgets dans la nouvelle [!UICONTROL Accueil] expérience](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md) | 23 août 2023 |
 | [[!UICONTROL Accueil] : le widget [!UICONTROL Mentions] du nouvel [!UICONTROL Accueil] ne se limite pas aux messages dans lesquels la personne est mentionnée](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 10 août 2023 |
 | [Rapports : erreurs lors du chargement des rapports de matrice](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | 8 août 2023 |
 | [BAT : la génération des BAT échoue](known-issues-workfront/wf-proofs-fail-to-generate.md) | 3 août 2023 |
@@ -46,10 +47,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [[!UICONTROL Resource Planner]: le planificateur ne se charge pas lorsque le filtre est appliqué](known-issues-workfront/wf-resource-planning-cannot-load.md) | 21 août 2023 |
 | [BAT : le BAT est coupé dans sa partie supérieure](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 10 août 2023 |
 | [BAT : la génération des BAT échoue](known-issues-workfront/wf-proofs-fail-to-generate.md) | 10 août 2023 |
-| [BAT : impossible de sélectionner du texte dans des listes ou des puces](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 10 août 2023 |
 | [Documents : les documents approuvés n’apparaissent pas dans la zone [!UICONTROL Approbations]](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 10 août 2023 |
 | [BAT : chevauchement de texte sur un BAT](known-issues-workfront/wf-proofs-overlapping-text.md) | 8 août 2023 |
-| [BAT : la création d’une nouvelle version du BAT supprime toutes les versions du BAT](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2 août 2023 |
 | [Projets : les statuts personnalisés du [!UICONTROL Groupe résidentiel] ne sont pas disponibles lors de la création d’un projet à partir d’un modèle](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 mars 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Cas d’assistance sur Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 août 2022 |
 

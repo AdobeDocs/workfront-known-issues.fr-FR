@@ -4,9 +4,9 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
+source-git-commit: 5edee4bcf02453bdb4e84f24024ab87a6efe2f8b
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '358'
 ht-degree: 98%
 
 ---
@@ -40,7 +40,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [Bons à tirer : impossible de créer un BAT à partir de PDF](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | 21 août 2023 |
 | [BAT : le BAT est coupé dans sa partie supérieure](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 10 août 2023 |
 | [BAT : la génération des BAT échoue](known-issues-workfront/wf-proofs-fail-to-generate.md) | 10 août 2023 |
-| [BAT : impossible de sélectionner du texte dans des listes ou des puces](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 10 août 2023 |
 | [BAT : chevauchement de texte sur un BAT](known-issues-workfront/wf-proofs-overlapping-text.md) | 8 août 2023 |
 | [BAT : le paramètre [!UICONTROL Désactiver les notifications par e-mail du BAT] s’affiche de manière incorrecte](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 8 août 2023 |
 | [BAT : impossible d’ajuster les annotations du BAT](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3 août 2023 |
