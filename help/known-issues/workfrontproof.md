@@ -4,9 +4,9 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 5edee4bcf02453bdb4e84f24024ab87a6efe2f8b
+source-git-commit: 03ca95f99860333e125ed41a1c6853e48dd741e8
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '352'
 ht-degree: 98%
 
 ---
@@ -25,7 +25,6 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [BAT : la génération des BAT échoue](known-issues-workfront/wf-proofs-fail-to-generate.md) | 3 août 2023 |
 | [Documents : les documents approuvés n’apparaissent pas dans la zone [!UICONTROL Approbations]](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 juillet 2023 |
 
 {style="table-layout:auto"}
