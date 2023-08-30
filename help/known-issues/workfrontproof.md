@@ -5,9 +5,9 @@ keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: 03ca95f99860333e125ed41a1c6853e48dd741e8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '352'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
 | [BAT : les couleurs du BAT s’affichent de manière incorrecte](known-issues-workfront/wf-proof-inaccurate-colors.md) | 22 août 2023 |
-| [Bons à tirer : impossible de créer un BAT à partir de PDF](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | 21 août 2023 |
+| [BAT : impossible de créer le BAT à partir du PDF](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | 21 août 2023 |
 | [BAT : le BAT est coupé dans sa partie supérieure](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 10 août 2023 |
 | [BAT : la génération des BAT échoue](known-issues-workfront/wf-proofs-fail-to-generate.md) | 10 août 2023 |
 | [BAT : chevauchement de texte sur un BAT](known-issues-workfront/wf-proofs-overlapping-text.md) | 8 août 2023 |
