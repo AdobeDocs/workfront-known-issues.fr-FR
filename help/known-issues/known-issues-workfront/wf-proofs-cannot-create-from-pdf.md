@@ -1,20 +1,20 @@
 ---
-title: "Bons à tirer : impossible de créer un BAT à partir d’un PDF"
-description: "Lorsqu’un utilisateur tente de créer un BAT à partir d’un PDF, le BAT ne se génère pas, et l’utilisateur voit un message indiquant que la génération du BAT a échoué."
+title: '« BAT : impossible de créer le BAT à partir du PDF »'
+description: « Lorsqu’une personne tente de créer un BAT à partir d’un PDF, le BAT ne se génère pas et la personne voit un message indiquant que la génération du BAT a échoué. »
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 8d14d8195c42a226a454882e20d1ff7fabd91410
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# Bons à tirer : impossible de créer un BAT à partir de PDF
+# BAT : impossible de créer le BAT à partir du PDF
 
 <!--WF and WFP TOCs-->
 
-Lorsqu’un utilisateur tente de créer un BAT à partir d’un PDF, le BAT ne se génère pas et il voit un message indiquant que la génération du BAT a échoué.
+Lorsqu’une personne tente de créer un BAT à partir d’un PDF, le BAT ne se génère pas et la personne voit un message indiquant que la génération du BAT a échoué.
 
 _Premier signalement le 3 août 2023._
