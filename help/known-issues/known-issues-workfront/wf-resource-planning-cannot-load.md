@@ -1,21 +1,21 @@
 ---
-title: "Resource Planner : le planificateur ne se charge pas lorsque le filtre est appliqué"
-description: "Lorsqu’un utilisateur tente de charger le planificateur de ressources, celui-ci ne se charge pas et un message d’erreur s’affiche."
+title: '« Planificateur de ressources : le planificateur ne se charge pas lorsque le filtre est appliqué »'
+description: « Lorsqu’une personne tente de charger le planificateur de ressources, celui-ci ne se charge pas et un message d’erreur s’affiche. »
 hidefromtoc: true
 feature: Resource Management
 source-git-commit: 1c3330160603619726529e903e917653bda64f93
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# [!UICONTROL Resource Planner]: le planificateur ne se charge pas lorsque le filtre est appliqué
+# [!UICONTROL Planificateur de ressources] : le planificateur ne se charge pas lorsque le filtre est appliqué
 
-Lorsqu’un utilisateur tente de charger la variable [!UICONTROL Resource Planner], le planificateur ne charge pas et l’utilisateur voit le message d’erreur suivant :
+Lorsqu’une personne tente de charger le [!UICONTROL planificateur de ressources], celui-ci ne se charge pas et un message d’erreur s’affiche :
 
-&quot;[!UICONTROL L’erreur suivante s’est produite : un problème s’est produit lors de la connexion au service WorkPerDay]&quot;
+« [!UICONTROL L’erreur suivante s’est produite : un problème s’est produit lors de la connexion au service WorkPerDay] »
 
 _Premier signalement le 2 août 2023._
 
