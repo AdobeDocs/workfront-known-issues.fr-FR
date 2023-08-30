@@ -3,9 +3,9 @@ user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
 role: User
 source-git-commit: 97bb61f9fe3e5455e245a377bc805292b7fb6b21
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1183'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -17,10 +17,10 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
-      + [[!UICONTROL Accueil]: les filtres ne s’appliquent pas aux widgets dans la nouvelle [!UICONTROL Accueil] expérience](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md)
-      + [Modèles de disposition : les modèles de mise en page provoquent des incohérences dans les rapports.](known-issues-workfront/wf-layout-templates-classic.md)
-      + [Bons à tirer : impossible de créer un BAT à partir de PDF](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)
-      + [[!UICONTROL Resource Planner]: le planificateur ne se charge pas lorsque le filtre est appliqué](known-issues-workfront/wf-resource-planning-cannot-load.md)
+      + [[!UICONTROL Accueil] : les filtres ne s’appliquent pas aux widgets dans la nouvelle expérience [!UICONTROL Accueil]](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md)
+      + [Modèles de disposition : les modèles de disposition provoquent des incohérences dans les rapports](known-issues-workfront/wf-layout-templates-classic.md)
+      + [BAT : impossible de créer le BAT à partir du PDF](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)
+      + [[!UICONTROL Planificateur de ressources] : le planificateur ne se charge pas lorsque le filtre est appliqué](known-issues-workfront/wf-resource-planning-cannot-load.md)
       + [BAT : les couleurs du BAT s’affichent de manière incorrecte](known-issues-workfront/wf-proof-inaccurate-colors.md)
       + [[!UICONTROL Accueil] : le widget [!UICONTROL Mentions] du nouvel [!UICONTROL Accueil] ne se limite pas aux messages dans lesquels la personne est mentionnée](known-issues-workfront/wf-home-mentions-widget-new-home.md)
       + [[!UICONTROL Équilibreur de charge de travail] : le [!UICONTROL Nombre total d’heures] ne correspond pas à la somme du [!UICONTROL Nombre d’heures prévues]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
@@ -52,7 +52,7 @@ ht-degree: 96%
       + [Projets/Tâches/Problèmes : la chronologie n’est pas recalculée.](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
       + [Filtres : « [!UICONTROL Activer à l’échelle du système] » et « [!UICONTROL Afficher à l’échelle du système] » constituent des fonctionnalités différentes](known-issues-workfront/wf-filters-enable-system-wide.md)
       + [Rapports : impossible de charger le rapport d’utilisation](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
-      + [BAT : les options d’approbation n’apparaissent pas dans le [!UICONTROL Lecteur de vérification].](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
+      + [BAT : les options d’approbation n’apparaissent pas dans le [!UICONTROL Lecteur de vérification]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
       + [Feuilles de temps : erreurs lors de l’enregistrement des heures sur une feuille de temps](known-issues-workfront/wf-timesheets-error-when-saving-hours.md)
       + [[!UICONTROL Accueil] : les éléments n’apparaissent pas dans la [!UICONTROL Liste de travail de l’accueil]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
       + [Rapports : erreur « [!UICONTROL Oups] » lors de l’affichage du rapport de matrice](known-issues-workfront/wf-reports-error-matrix-report.md)
