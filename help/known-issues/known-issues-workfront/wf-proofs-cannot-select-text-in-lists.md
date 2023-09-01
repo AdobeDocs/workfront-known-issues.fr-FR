@@ -4,7 +4,7 @@ description: « Lorsqu’une personne consulte un BAT dans le lecteur de vérif
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 5edee4bcf02453bdb4e84f24024ab87a6efe2f8b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
 ht-degree: 100%
 
