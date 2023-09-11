@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 5edee4bcf02453bdb4e84f24024ab87a6efe2f8b
+source-git-commit: ea865862f3e81214f2ab27e0c651f30ceeb1f89f
 workflow-type: tm+mt
-source-wordcount: '4917'
-ht-degree: 99%
+source-wordcount: '5189'
+ht-degree: 98%
 
 ---
 
@@ -20,17 +20,72 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2023.
 
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
 
+## Mises à jour de septembre 2023
+
++++**Mise à jour de maintenance le 11 septembre 2023**&#39;
+
+**Les tâches personnelles ne s’affichent pas dans les feuilles de temps**
+
+_Feuilles de temps_
+
+Les tâches personnelles ne s’affichent plus par défaut sur la feuille de temps. Les tâches personnelles s’affichent sur la feuille de temps lorsqu’elles sont épinglées ou qu’elles comportent des heures consignées. Avant cette modification, les tâches personnelles s’affichaient par défaut sur les feuilles de temps.
+
++++
+
++++**Mise à jour de maintenance le 7 septembre 2023**
+
+**Le projet est vide lorsqu’il est chargé à partir de la nouvelle [!UICONTROL Accueil] expérience**
+
+_Projets_
+
+Lorsqu’un utilisateur clique sur un projet à partir de sa [!UICONTROL Accueil] dans la nouvelle expérience d’accueil, le chargement de la page du projet échoue.
+
+Cela se produit lorsque l’utilisateur s’est connecté en tant qu’autre utilisateur, puis s’est déconnecté en tant qu’autre utilisateur et est retourné à lui-même. [!UICONTROL Accueil] page.
+
++++
+
+**Les filtres ne s’appliquent pas aux widgets dans la nouvelle expérience [!UICONTROL Accueil]**
+
 ## Mises à jour d’août 2023
+
++++**Mise à jour de maintenance le 31 août 2023**
+
+**Les filtres ne s’appliquent pas aux widgets dans la nouvelle expérience [!UICONTROL Accueil]**
+
+_[!UICONTROL Accueil]_
+
+Lorsqu’une personne applique un filtre à un widget dans la nouvelle expérience [!UICONTROL Accueil], le widget affiche les éléments qui doivent être exclus par le filtre.
+
+Ce problème a été signalé dans l’environnement de sandbox personnalisée. Les mêmes widgets dans les environnements de prévisualisation et de production filtrent comme prévu.
+
+**Erreurs lors du chargement des rapports de matrice**
+
+_Rapports_
+
+Lorsqu’une personne tente de charger un rapport de matrice en tant que graphique, l’un des événements suivants peut se produire :
+
+* Certaines informations du rapport ne se chargent pas
+* Le rapport renvoie l’erreur « [!UICONTROL Impossible de charger le contenu depuis le serveur] »
+
+**Le planificateur ne se charge pas lorsque le filtre est appliqué**
+
+_[!UICONTROL Planificateur de ressources]_
+
+Lorsqu’une personne tente de charger le [!UICONTROL planificateur de ressources], celui-ci ne se charge pas et un message d’erreur s’affiche :
+
+« [!UICONTROL L’erreur suivante s’est produite : un problème s’est produit lors de la connexion au service WorkPerDay] »
+
++++
 
 +++**Mise à jour de maintenance le 24 août 2023**
 
-**Impossible de sélectionner du texte dans les listes ou les puces**
+**Impossible de sélectionner du texte dans des listes ou des puces**
 
 _BAT_
 
 Lorsqu’une personne consulte un BAT dans le lecteur de vérification et tente de sélectionner du texte qui se trouve dans une liste ou une puce, l’outil de sélection de texte est inefficace et le texte ne peut pas être sélectionné.
 
-**La création d’une version de BAT supprime toutes les versions du BAT.**
+**La création d’une nouvelle version du BAT supprime toutes les versions du BAT**
 
 _BAT_
 
