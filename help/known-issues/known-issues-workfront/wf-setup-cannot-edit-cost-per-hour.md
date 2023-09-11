@@ -3,9 +3,9 @@ title: '« Configuration : impossible de modifier le Coût/heure ou la Factura
 description: « Lorsqu’un utilisateur ou une utilisatrice change une fonction et tente de modifier les champs Coût/heure ou Facturation/heure, les champs sont vides et ne peuvent pas être modifiés. »
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
-workflow-type: ht
-source-wordcount: '121'
+source-git-commit: ae8e1dab69ba6ef16ea7dc056345f140b80ebc9e
+workflow-type: tm+mt
+source-wordcount: '99'
 ht-degree: 100%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->L’équipe produit évalue actuellement la résolution de ce problème, qui peut nécessiter des améliorations du produit. Les améliorations apportées aux produits sont communiquées dans les annonces de produit et non dans les mises à jour de maintenance.
+>Ce problème a été résolu le 24 août 2023
 
 Lorsqu’un utilisateur ou une utilisatrice change une fonction et tente de modifier les champs Coût/heure ou Facturation/heure, les champs sont vides et ne peuvent pas être modifiés.
 

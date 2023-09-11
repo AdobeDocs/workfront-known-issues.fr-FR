@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 03ca95f99860333e125ed41a1c6853e48dd741e8
+source-git-commit: 938d1692208c857b9e7e57666df9f95dd3e44559
 workflow-type: tm+mt
-source-wordcount: '673'
-ht-degree: 94%
+source-wordcount: '648'
+ht-degree: 91%
 
 ---
 
@@ -25,6 +25,10 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Accueil]: [!UICONTROL Demandes] le widget n’affiche pas toutes les équipes affectées.](known-issues-workfront/wf-home-request-shows-one-team.md) | 7 septembre 2023 |
+| [Documents : erreur XML lors du téléchargement](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 1er septembre 2023 |
+| [Bons à tirer : le formatage de texte dans le BAT statique ne correspond pas au formatage dans le site web](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 1er septembre 2023 |
+| [Projets : le projet est vide lorsqu’il est chargé à partir de nouvelles [!UICONTROL Accueil] expérience](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md) | 1er septembre 2023 |
 | [[!UICONTROL Accueil] : le widget [!UICONTROL Mentions] du nouvel [!UICONTROL Accueil] ne se limite pas aux messages dans lesquels la personne est mentionnée](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 10 août 2023 |
 
 {style="table-layout:auto"}
@@ -35,18 +39,10 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL Accueil]: les filtres ne s’appliquent pas aux widgets dans la nouvelle [!UICONTROL Accueil] expérience](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md) | 25 août 2023 |
-| [Rapports : erreurs lors du chargement des rapports de matrice](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | 25 août 2023 |
+| [[!UICONTROL Planificateur de ressources] : le planificateur ne se charge pas lorsque le filtre est appliqué](known-issues-workfront/wf-resource-planning-cannot-load.md) | 7 septembre 2023 |
+| [Formulaires personnalisés : impossible de supprimer un champ personnalisé](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md) | 1er septembre 2023 |
 | [[!UICONTROL Équilibreur de charge de travail] : le [!UICONTROL Nombre total d’heures] ne correspond pas à la somme du [!UICONTROL Nombre d’heures prévues]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 22 août 2023 |
-| [BAT : les couleurs du BAT s’affichent de manière incorrecte](known-issues-workfront/wf-proof-inaccurate-colors.md) | 23 août 2023 |
-| [Accueil : impossible de supprimer l’élément [!UICONTROL Tâches] dans la nouvelle expérience [!UICONTROL Accueil]](known-issues-workfront/wf-boards-issues-with-loading.md) | 22 août 2023 |
 | [Panoramas : problèmes lors du chargement d’un panorama](known-issues-workfront/wf-boards-issues-with-loading.md) | 22 août 2023 |
-| [Bons à tirer : impossible de créer un BAT à partir de PDF](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | 21 août 2023 |
-| [[!UICONTROL Resource Planner]: le planificateur ne se charge pas lorsque le filtre est appliqué](known-issues-workfront/wf-resource-planning-cannot-load.md) | 21 août 2023 |
-| [BAT : le BAT est coupé dans sa partie supérieure](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 10 août 2023 |
-| [BAT : la génération des BAT échoue](known-issues-workfront/wf-proofs-fail-to-generate.md) | 10 août 2023 |
-| [Documents : les documents approuvés n’apparaissent pas dans la zone [!UICONTROL Approbations]](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 10 août 2023 |
-| [BAT : chevauchement de texte sur un BAT](known-issues-workfront/wf-proofs-overlapping-text.md) | 8 août 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Cas d’assistance sur Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 août 2022 |
 
 {style="table-layout:auto"}
@@ -57,10 +53,10 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Modèles de disposition : les modèles de mise en page provoquent des incohérences dans les rapports.](known-issues-workfront/wf-layout-templates-classic.md) | 21 août 2023 |
-| [BAT : les options d’approbation n’apparaissent pas dans le [!UICONTROL Lecteur de vérification]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md). | 10 août 2023 |
+| [[!UICONTROL Accueil]: Nouveau [!UICONTROL Accueil] l’aperçu du widget n’affiche pas le nom correct de l’objet.](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 7 septembre 2023 |
+| [Modèles de disposition : les modèles de disposition provoquent des incohérences dans les rapports](known-issues-workfront/wf-layout-templates-classic.md) | 21 août 2023 |
+| [BAT : les options d’approbation n’apparaissent pas dans le [!UICONTROL Lecteur de vérification]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 10 août 2023 |
 | [BAT : les BAT n’apparaissent pas comme approuvés dans les rapports](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 3 août 2023 |
-| [Configuration : impossible de modifier le Coût/heure ou la Facturation/heure de la fonction](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 21 juillet 2023 |
 | [[!UICONTROL Configuration] : impossible d’exporter les journaux d’audit](known-issues-workfront/wf-setup-cannot-export-audit-logs.md) | 20 juillet 2023 |
 | [Intégrations de document : impossible de voir tous les dossiers dans  [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md) | 18 juillet 2023 |
 | [Bons à tirer : les BAT sont créés lentement dans l’environnement Aperçu](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 8 juin 2023 |

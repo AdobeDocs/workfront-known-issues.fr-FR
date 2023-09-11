@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 97bb61f9fe3e5455e245a377bc805292b7fb6b21
-workflow-type: ht
-source-wordcount: '1183'
-ht-degree: 100%
+source-git-commit: 938d1692208c857b9e7e57666df9f95dd3e44559
+workflow-type: tm+mt
+source-wordcount: '1242'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Accueil]: Nouveau [!UICONTROL Accueil] l’aperçu du widget n’affiche pas le nom correct de l’objet.](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
+      + [[!UICONTROL Accueil]: [!UICONTROL Demandes] le widget n’affiche pas toutes les équipes affectées.](known-issues-workfront/wf-home-request-shows-one-team.md)
+      + [Formulaires personnalisés : impossible de supprimer un champ personnalisé](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md)
+      + [[!UICONTROL Accueil]: la fonctionnalité de recherche ne fonctionne pas dans l’ancienne version [!UICONTROL Liste de travail à domicile]](known-issues-workfront/wf-home-search-not-working-legacy.md)
+      + [Bons à tirer : le formatage de texte dans le BAT statique ne correspond pas au formatage dans le site web](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md)
+      + [Projets : le projet est vide lorsqu’il est chargé à partir de nouvelles [!UICONTROL Accueil] expérience](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md)
       + [[!UICONTROL Accueil] : les filtres ne s’appliquent pas aux widgets dans la nouvelle expérience [!UICONTROL Accueil]](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md)
       + [Modèles de disposition : les modèles de disposition provoquent des incohérences dans les rapports](known-issues-workfront/wf-layout-templates-classic.md)
       + [BAT : impossible de créer le BAT à partir du PDF](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)
