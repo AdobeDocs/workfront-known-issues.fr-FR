@@ -3,17 +3,17 @@ title: '« Modèles de disposition : les modèles de disposition provoquent de
 description: « Les modèles de disposition de l’expérience Workfront classique ne sont plus disponibles dans l’interface Workfront, mais peuvent tout de même affecter les données Workfront. Cela peut entraîner des incohérences dans les champs affectés par les modèles de disposition (tels que Partagé avec) sur les rapports ou les tableaux de bord. »
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 045e2bd200aa2fffaf2e763a73eb8729517be197
-workflow-type: ht
-source-wordcount: '195'
-ht-degree: 100%
+source-git-commit: 3845794a0b1b610d821f5653c06d0cce77d58f2e
+workflow-type: tm+mt
+source-wordcount: '192'
+ht-degree: 81%
 
 ---
 
 
 # Modèles de disposition : les modèles de disposition provoquent des incohérences dans les rapports
 
-Les modèles de disposition de l’expérience Workfront classique ne sont plus disponibles dans l’interface Workfront, mais peuvent tout de même affecter les données Workfront. Cela peut entraîner des incohérences dans les champs affectés par les modèles de disposition (tels que Partagé avec) sur les rapports ou les tableaux de bord.
+Modèles de mise en page de Classic [!DNL Workfront] ne sont plus disponibles dans la variable [!DNL Workfront] mais peut encore affecter [!DNL Workfront] data. Cela peut entraîner des incohérences dans les champs affectés par les modèles de mise en page (tels que [!UICONTROL Partagé avec]) dans les rapports ou les tableaux de bord.
 
 **Solution de contournement**
 
