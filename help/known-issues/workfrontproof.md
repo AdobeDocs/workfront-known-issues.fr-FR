@@ -4,10 +4,10 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 84a71f664ead2441ee92118f4f7111e5b7ff8ed1
+source-git-commit: 9cc11511730a2088460274def57f5d54defa4579
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 95%
+source-wordcount: '328'
+ht-degree: 96%
 
 ---
 
@@ -25,8 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documents : erreur XML lors du téléchargement](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 1er septembre 2023 |
-| [Bons à tirer : le formatage de texte dans le BAT statique ne correspond pas au formatage dans le site web](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 1er septembre 2023 |
+| Aucun |  |
 
 {style="table-layout:auto"}
 
@@ -36,6 +35,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documents : erreur XML lors du téléchargement](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 14 septembre 2023 |
+| [Bons à tirer : le formatage de texte dans le BAT statique ne correspond pas au formatage dans le site web](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 14 septembre 2023 |
 | [BAT : le paramètre [!UICONTROL Désactiver les notifications par e-mail du BAT] s’affiche de manière incorrecte](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 8 août 2023 |
 | [BAT : impossible d’ajuster les annotations du BAT](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3 août 2023 |
 
