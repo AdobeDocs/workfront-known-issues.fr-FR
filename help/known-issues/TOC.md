@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 938d1692208c857b9e7e57666df9f95dd3e44559
+source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
 workflow-type: tm+mt
-source-wordcount: '1242'
-ht-degree: 95%
+source-wordcount: '1297'
+ht-degree: 91%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Documents : impossible de déplacer le document vers un autre dossier](known-issues-workfront/wf-documents-cannot-move-to-folder.md)
+      + [Bons à tirer : les bons à tirer semblent dénaturés ou recadrés.](known-issues-workfront/wf-proofs-desaturated-and-cropped.md)
+      + [Mises à jour : les commentaires effectués dans une nouvelle expérience de commentaire ne sont pas visibles dans l’expérience héritée.](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md)
+      + [Mises à jour : le commentaire s’affiche comme envoyé par un utilisateur incorrect.](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md)
+      + [Panoramas : impossible d’affecter un utilisateur à un panorama sur un workflow](known-issues-workfront/wf-boards-cannot-add-user-to-workstream-board.md)
+      + [Filtres : boutons intitulés &quot;[!UICONTROL OBSOLÈTE]&quot; lors du partage d’un filtre](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md)
       + [[!UICONTROL Accueil]: Nouveau [!UICONTROL Accueil] l’aperçu du widget n’affiche pas le nom correct de l’objet.](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
       + [[!UICONTROL Accueil]: [!UICONTROL Demandes] le widget n’affiche pas toutes les équipes affectées.](known-issues-workfront/wf-home-request-shows-one-team.md)
       + [Formulaires personnalisés : impossible de supprimer un champ personnalisé](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md)
