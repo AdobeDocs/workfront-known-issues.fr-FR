@@ -4,10 +4,10 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
+source-git-commit: d07a0053faaecd977c5a7a4ea19dc6bfdfaf7792
 workflow-type: tm+mt
-source-wordcount: '344'
-ht-degree: 91%
+source-wordcount: '352'
+ht-degree: 90%
 
 ---
 
@@ -35,6 +35,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bons à tirer : la génération des bons à tirer prend un temps excessif.](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md) | 18 septembre 2023 |
 | [Documents : impossible de déplacer le document vers un autre dossier](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | 15 septembre 2023 |
 | [Bons à tirer : les bons à tirer semblent dénaturés ou recadrés.](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | 15 septembre 2023 |
 | [Documents : erreur XML lors du téléchargement](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 14 septembre 2023 |
