@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 4adc896e53b46ea6dfcb99f3050c5bfe275de72c
+source-git-commit: 2abcb617a2462f5e2a3231b35b0153add23d6969
 workflow-type: tm+mt
-source-wordcount: '5289'
-ht-degree: 97%
+source-wordcount: '5601'
+ht-degree: 93%
 
 ---
 
@@ -21,6 +21,63 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2023.
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
 
 ## Mises à jour de septembre 2023
+
++++**Mise à jour de maintenance (prévue) le 21 septembre 2023**
+
+**Impossible d’affecter un utilisateur à un panorama sur un workflow**
+
+_Panoramas_
+
+Lorsqu’un utilisateur tente d’affecter un autre utilisateur à une tâche à partir d’un panorama qui fait partie d’un processus et commence à saisir son nom, il n’apparaît pas dans la liste déroulante des utilisateurs disponibles. Cela se produit même lorsque l’utilisateur est actif et membre du panorama et du processus.
+
+L’utilisateur peut également remarquer que les utilisateurs désactivés apparaissent dans la liste déroulante.
+
+**Les formulaires personnalisés se chargent lentement**
+
+_Formulaires personnalisés_
+
+Lorsqu’un utilisateur tente de charger un formulaire personnalisé, celui-ci se charge lentement.
+
+**Impossible de déplacer le document vers un autre dossier**
+
+_Documents_
+
+Lorsqu’un utilisateur déplace un document dans un dossier d’objets, il ne peut pas le déplacer vers un autre dossier.
+
+**Erreur XML lors du téléchargement**
+
+_Documents_
+
+Lorsqu’un utilisateur ou une utilisatrice tente de télécharger un document, celui-ci ne se télécharge pas et une page s’affiche avec ce message suivi d’un texte XML.
+
+« [!UICONTROL Le fichier XML ne semble pas être associé à des informations de style. L’arborescence du document se trouve ci-dessous.] »
+
+**Impossible de télécharger des documents à partir des environnements Preview/Sandbox**
+
+_Documents_
+
+Lorsqu’un utilisateur tente de télécharger un document à partir d’un environnement autre que la production, le document ne se télécharge pas et l’utilisateur voit l’erreur suivante :
+
+« [!UICONTROL Oups ! Un problème est survenu. Contactez Workfront pour nous aider à comprendre l’erreur et y remédier.] »
+
+**Les bons à tirer apparaissent dénaturés ou recadrés**
+
+_BAT_
+
+Les problèmes suivants ont été signalés lors de la création d’un BAT à partir d’une URL.
+
+* La preuve semble dénaturée ou lavée.
+* La preuve est recadrée.
+
+Cela peut rendre les décisions de BAT difficiles, car le BAT n’est pas représenté avec précision.
+
+**La génération des bons à tirer prend un temps excessif.**
+
+_BAT_
+
+Lorsqu’un utilisateur tente de générer un BAT, la génération du BAT prend un temps excessif. La génération du BAT peut prendre plusieurs jours.
+
++++
 
 +++**Mise à jour de maintenance le 14 septembre 2023**
 
