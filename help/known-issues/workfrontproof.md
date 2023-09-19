@@ -4,10 +4,10 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: d07a0053faaecd977c5a7a4ea19dc6bfdfaf7792
+source-git-commit: 69236df0167ef6eb14ee4e646a5e142533f13dfd
 workflow-type: tm+mt
-source-wordcount: '352'
-ht-degree: 90%
+source-wordcount: '368'
+ht-degree: 86%
 
 ---
 
@@ -51,6 +51,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bon à tirer Workfront : les données du tableau de bord ne sont pas toujours exactes](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 19 septembre 2023 |
+| [Bon à tirer Workfront : les données de recherche ne sont pas toujours précises](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md) | 19 septembre 2023 |
 | [BAT : les BAT n’apparaissent pas comme approuvés dans les rapports](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 3 août 2023 |
 | [Bons à tirer : les BAT sont créés lentement dans l’environnement Aperçu](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | 9 juin 2023 |
 | [Bons à tirer : les BAT sont créés lentement dans l’environnement Aperçu](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 8 juin 2023 |
