@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 69236df0167ef6eb14ee4e646a5e142533f13dfd
+source-git-commit: a9f4736853dbc1b6dcc03127998775f823429f1e
 workflow-type: tm+mt
-source-wordcount: '1326'
-ht-degree: 89%
+source-wordcount: '1337'
+ht-degree: 88%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 89%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Bon à tirer : commentaire vide supplémentaire lors de la formulation d’un commentaire sur un BAT](known-issues-workfront/wf-proofs-extra-blank-comment.md)
       + [Panoramas : les cartes sans titre s’affichent dans le journal](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md)
       + [Bons à tirer : la génération des bons à tirer prend un temps excessif.](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md)
       + [Documents : impossible de déplacer le document vers un autre dossier](known-issues-workfront/wf-documents-cannot-move-to-folder.md)
