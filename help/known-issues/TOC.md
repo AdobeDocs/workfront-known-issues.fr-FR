@@ -2,9 +2,9 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: a9f4736853dbc1b6dcc03127998775f823429f1e
+source-git-commit: 98ee543f0a4711a0361bcb4ffe1a664a64e4044d
 workflow-type: tm+mt
-source-wordcount: '1337'
+source-wordcount: '1342'
 ht-degree: 88%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 88%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [[!DNL Workfront]: la page d’objet contient des éléments manquants](known-issues-workfront/wf-workfront-work-item-missing-elements.md)
       + [Bon à tirer : commentaire vide supplémentaire lors de la formulation d’un commentaire sur un BAT](known-issues-workfront/wf-proofs-extra-blank-comment.md)
       + [Panoramas : les cartes sans titre s’affichent dans le journal](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md)
       + [Bons à tirer : la génération des bons à tirer prend un temps excessif.](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md)
