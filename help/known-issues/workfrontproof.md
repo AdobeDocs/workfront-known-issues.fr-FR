@@ -4,10 +4,10 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: a9f4736853dbc1b6dcc03127998775f823429f1e
+source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
 workflow-type: tm+mt
-source-wordcount: '379'
-ht-degree: 83%
+source-wordcount: '349'
+ht-degree: 88%
 
 ---
 
@@ -35,10 +35,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Bons à tirer : la génération des bons à tirer prend un temps excessif.](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md) | 18 septembre 2023 |
-| [Documents : impossible de déplacer le document vers un autre dossier](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | 15 septembre 2023 |
-| [Bons à tirer : les bons à tirer semblent dénaturés ou recadrés.](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | 15 septembre 2023 |
-| [Documents : erreur XML lors du téléchargement](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 14 septembre 2023 |
 | [Bons à tirer : le formatage de texte dans le BAT statique ne correspond pas au formatage dans le site web](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 14 septembre 2023 |
 | [BAT : le paramètre [!UICONTROL Désactiver les notifications par e-mail du BAT] s’affiche de manière incorrecte](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 8 août 2023 |
 | [BAT : impossible d’ajuster les annotations du BAT](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3 août 2023 |

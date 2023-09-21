@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 98ee543f0a4711a0361bcb4ffe1a664a64e4044d
+source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
 workflow-type: tm+mt
-source-wordcount: '744'
-ht-degree: 79%
+source-wordcount: '703'
+ht-degree: 83%
 
 ---
 
@@ -41,13 +41,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!DNL Workfront]: la page d’objet contient des éléments manquants](known-issues-workfront/wf-workfront-work-item-missing-elements.md) | 20 septembre 2023 |
-| [Bons à tirer : la génération des bons à tirer prend un temps excessif.](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md) | 18 septembre 2023 |
-| [Documents : impossible de déplacer le document vers un autre dossier](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | 15 septembre 2023 |
-| [Bons à tirer : les bons à tirer semblent dénaturés ou recadrés.](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | 15 septembre 2023 |
 | [Mises à jour : les commentaires effectués dans une nouvelle expérience de commentaire ne sont pas visibles dans l’expérience héritée.](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 15 septembre 2023 |
-| [Panoramas : impossible d’affecter un utilisateur à un panorama sur un workflow](known-issues-workfront/wf-boards-cannot-add-user-to-workstream-board.md) | 15 septembre 2023 |
 | [Mises à jour : le commentaire s’affiche comme envoyé par un utilisateur incorrect.](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md) | 15 septembre 2023 |
-| [Documents : erreur XML lors du téléchargement](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 14 septembre 2023 |
 | [Bons à tirer : le formatage de texte dans le BAT statique ne correspond pas au formatage dans le site web](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 14 septembre 2023 |
 | [[!UICONTROL Planificateur de ressources] : le planificateur ne se charge pas lorsque le filtre est appliqué](known-issues-workfront/wf-resource-planning-cannot-load.md) | 7 septembre 2023 |
 | [Formulaires personnalisés : impossible de supprimer un champ personnalisé](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md) | 1er septembre 2023 |

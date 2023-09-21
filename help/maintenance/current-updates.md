@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2abcb617a2462f5e2a3231b35b0153add23d6969
+source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
 workflow-type: tm+mt
-source-wordcount: '5601'
-ht-degree: 93%
+source-wordcount: '5631'
+ht-degree: 92%
 
 ---
 
@@ -22,7 +22,7 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 ## Mises à jour de septembre 2023
 
-+++**Mise à jour de maintenance (prévue) le 21 septembre 2023**
++++**Mise à jour de maintenance le 21 septembre 2023**
 
 **Impossible d’affecter un utilisateur à un panorama sur un workflow**
 
@@ -31,6 +31,12 @@ _Panoramas_
 Lorsqu’un utilisateur tente d’affecter un autre utilisateur à une tâche à partir d’un panorama qui fait partie d’un processus et commence à saisir son nom, il n’apparaît pas dans la liste déroulante des utilisateurs disponibles. Cela se produit même lorsque l’utilisateur est actif et membre du panorama et du processus.
 
 L’utilisateur peut également remarquer que les utilisateurs désactivés apparaissent dans la liste déroulante.
+
+**Impossible de supprimer l’élément de liste de contrôle**
+
+_Panoramas_
+
+Lorsqu’un utilisateur tente de supprimer un élément de liste de contrôle d’une carte sur un panorama, la variable [!UICONTROL Supprimer] ne répond pas et l’élément n’est pas supprimé.
 
 **Les formulaires personnalisés se chargent lentement**
 

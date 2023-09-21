@@ -3,15 +3,19 @@ title: "Documents : impossible de déplacer le document vers un autre dossier"
 description: "Lorsqu’un utilisateur déplace un document dans un dossier d’objets, il ne peut pas le déplacer vers un autre dossier."
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
+source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 6%
+source-wordcount: '87'
+ht-degree: 12%
 
 ---
 
 
 # Documents : impossible de déplacer le document vers un autre dossier
+
+>[!NOTE]
+>
+>Ce problème a été résolu le 30 septembre 2023.
 
 Lorsqu’un utilisateur déplace un document dans un dossier d’objets, il ne peut pas le déplacer vers un autre dossier.
 
