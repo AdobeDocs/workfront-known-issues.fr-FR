@@ -3,15 +3,19 @@ title: '« Équilibreur de charge de travail : le Nombre total d’heures ne c
 description: « Lorsqu’une personne utilisatrice consulte l’Équilibreur de charge de travail et additionne le Nombre d’heures prévues, le total ne correspond pas au Nombre total d’heures dans la ligne supérieure. Le recalcul de la chronologie ne résout pas le problème. »
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: d5388a80680879a2dbb6ae35625a18baa29c0a62
-workflow-type: ht
-source-wordcount: '98'
+source-git-commit: 534ea87f86e27f0211c8ce12e266dc1310af5501
+workflow-type: tm+mt
+source-wordcount: '109'
 ht-degree: 100%
 
 ---
 
 
 # [!UICONTROL Équilibreur de charge de travail] : le [!UICONTROL Nombre total d’heures] ne correspond pas à la somme du [!UICONTROL Nombre d’heures prévues]
+
+>[!NOTE]
+>
+>Ce problème a été clôturé, car la situation n’a pas pu être reproduite.
 
 Lorsqu’une personne consulte l’[!UICONTROL Équilibreur de charge de travail] et additionne le [!UICONTROL Nombre d’heures prévues], le total ne correspond pas au [!UICONTROL Nombre total d’heures] dans la ligne supérieure. Le recalcul de la chronologie ne résout pas le problème.
 

@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
+source-git-commit: 534ea87f86e27f0211c8ce12e266dc1310af5501
 workflow-type: tm+mt
-source-wordcount: '703'
-ht-degree: 83%
+source-wordcount: '669'
+ht-degree: 86%
 
 ---
 
@@ -25,9 +25,6 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Bon à tirer : commentaire vide supplémentaire lors de la formulation d’un commentaire sur un BAT](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 19 septembre 2023 |
-| [Panoramas : les cartes sans titre s’affichent dans le journal](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md) | 15 septembre 2023 |
-| [Filtres : boutons intitulés &quot;[!UICONTROL OBSOLÈTE]&quot; lors du partage d’un filtre](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md) | 15 septembre 2023 |
 | [[!UICONTROL Accueil]: [!UICONTROL Demandes] le widget n’affiche pas toutes les équipes affectées.](known-issues-workfront/wf-home-request-shows-one-team.md) | 7 septembre 2023 |
 | [Projets : le projet est vide lorsqu’il est chargé à partir de nouvelles [!UICONTROL Accueil] expérience](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md) | 1er septembre 2023 |
 | [[!UICONTROL Accueil] : le widget [!UICONTROL Mentions] du nouvel [!UICONTROL Accueil] ne se limite pas aux messages dans lesquels la personne est mentionnée](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 10 août 2023 |
@@ -40,11 +37,11 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bon à tirer : commentaire vide supplémentaire lors de la formulation d’un commentaire sur un BAT](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 19 septembre 2023 |
+| [Panoramas : les cartes sans titre s’affichent dans le journal](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md) | 21 septembre 2023 |
 | [[!DNL Workfront]: la page d’objet contient des éléments manquants](known-issues-workfront/wf-workfront-work-item-missing-elements.md) | 20 septembre 2023 |
 | [Mises à jour : les commentaires effectués dans une nouvelle expérience de commentaire ne sont pas visibles dans l’expérience héritée.](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 15 septembre 2023 |
 | [Mises à jour : le commentaire s’affiche comme envoyé par un utilisateur incorrect.](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md) | 15 septembre 2023 |
-| [Bons à tirer : le formatage de texte dans le BAT statique ne correspond pas au formatage dans le site web](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 14 septembre 2023 |
-| [[!UICONTROL Planificateur de ressources] : le planificateur ne se charge pas lorsque le filtre est appliqué](known-issues-workfront/wf-resource-planning-cannot-load.md) | 7 septembre 2023 |
 | [Formulaires personnalisés : impossible de supprimer un champ personnalisé](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md) | 1er septembre 2023 |
 | [[!UICONTROL Équilibreur de charge de travail] : le [!UICONTROL Nombre total d’heures] ne correspond pas à la somme du [!UICONTROL Nombre d’heures prévues]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 22 août 2023 |
 | [Panoramas : problèmes lors du chargement d’un panorama](known-issues-workfront/wf-boards-issues-with-loading.md) | 22 août 2023 |

@@ -3,15 +3,19 @@ title: "Mises à jour : le commentaire s’affiche comme envoyé par un utilisat
 description: "Lorsqu’un utilisateur fait un commentaire, le commentaire s’affiche comme publié par un autre utilisateur."
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
+source-git-commit: 534ea87f86e27f0211c8ce12e266dc1310af5501
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 7%
+source-wordcount: '71'
+ht-degree: 15%
 
 ---
 
 
 # Mises à jour : le commentaire s’affiche comme envoyé par un utilisateur incorrect.
+
+>[!NOTE]
+>
+>Ce problème a été résolu le 14 septembre 2023.
 
 Lorsqu’un utilisateur fait un commentaire, le commentaire s’affiche comme publié par un autre utilisateur.
 

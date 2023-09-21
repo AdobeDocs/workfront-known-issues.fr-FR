@@ -4,10 +4,10 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
+source-git-commit: 534ea87f86e27f0211c8ce12e266dc1310af5501
 workflow-type: tm+mt
-source-wordcount: '349'
-ht-degree: 88%
+source-wordcount: '337'
+ht-degree: 91%
 
 ---
 
@@ -25,7 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Bon à tirer : commentaire vide supplémentaire lors de la formulation d’un commentaire sur un BAT](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 19 septembre 2023 |
+| Aucun |  |
 
 {style="table-layout:auto"}
 
@@ -35,7 +35,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Bons à tirer : le formatage de texte dans le BAT statique ne correspond pas au formatage dans le site web](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 14 septembre 2023 |
+| [Bon à tirer : commentaire vide supplémentaire lors de la formulation d’un commentaire sur un BAT](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 19 septembre 2023 |
 | [BAT : le paramètre [!UICONTROL Désactiver les notifications par e-mail du BAT] s’affiche de manière incorrecte](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 8 août 2023 |
 | [BAT : impossible d’ajuster les annotations du BAT](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3 août 2023 |
 
