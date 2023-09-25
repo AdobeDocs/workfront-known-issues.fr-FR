@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
 workflow-type: tm+mt
 source-wordcount: '5631'
-ht-degree: 92%
+ht-degree: 93%
 
 ---
 
@@ -119,13 +119,13 @@ Les tâches personnelles ne s’affichent plus par défaut sur la feuille de tem
 
 +++**Mise à jour de maintenance le 7 septembre 2023**
 
-**Le projet est vide lorsqu’il est chargé à partir de la nouvelle [!UICONTROL Accueil] expérience**
+**Le projet est vide lorsqu’il est chargé à partir de la nouvelle expérience [!UICONTROL Accueil]**
 
 _Projets_
 
-Lorsqu’un utilisateur clique sur un projet à partir de sa [!UICONTROL Accueil] dans la nouvelle expérience d’accueil, le chargement de la page du projet échoue.
+Lorsqu’une personne clique sur un projet à partir de sa page [!UICONTROL Accueil] dans la nouvelle expérience d’accueil, le chargement de la page du projet échoue.
 
-Cela se produit lorsque l’utilisateur s’est connecté en tant qu’autre utilisateur, puis s’est déconnecté en tant qu’autre utilisateur et est retourné à lui-même. [!UICONTROL Accueil] page.
+Cela se produit lorsque la personne s’est connectée en tant qu’autre utilisateur/utilisatrice, puis s’est déconnectée en tant qu’autre utilisateur/utilisatrice et est revenue à sa propre page [!UICONTROL Accueil].
 
 +++
 

@@ -5,7 +5,7 @@ role: User
 source-git-commit: 98ee543f0a4711a0361bcb4ffe1a664a64e4044d
 workflow-type: tm+mt
 source-wordcount: '1342'
-ht-degree: 88%
+ht-degree: 92%
 
 ---
 
@@ -27,12 +27,12 @@ ht-degree: 88%
       + [Mises à jour : le commentaire s’affiche comme envoyé par un utilisateur incorrect.](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md)
       + [Panoramas : impossible d’affecter un utilisateur à un panorama sur un workflow](known-issues-workfront/wf-boards-cannot-add-user-to-workstream-board.md)
       + [Filtres : boutons intitulés &quot;[!UICONTROL OBSOLÈTE]&quot; lors du partage d’un filtre](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md)
-      + [[!UICONTROL Accueil]: Nouveau [!UICONTROL Accueil] l’aperçu du widget n’affiche pas le nom correct de l’objet.](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
-      + [[!UICONTROL Accueil]: [!UICONTROL Demandes] le widget n’affiche pas toutes les équipes affectées.](known-issues-workfront/wf-home-request-shows-one-team.md)
-      + [Formulaires personnalisés : impossible de supprimer un champ personnalisé](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md)
-      + [[!UICONTROL Accueil]: la fonctionnalité de recherche ne fonctionne pas dans l’ancienne version [!UICONTROL Liste de travail à domicile]](known-issues-workfront/wf-home-search-not-working-legacy.md)
-      + [Bons à tirer : le formatage de texte dans le BAT statique ne correspond pas au formatage dans le site web](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md)
-      + [Projets : le projet est vide lorsqu’il est chargé à partir de nouvelles [!UICONTROL Accueil] expérience](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md)
+      + [[!UICONTROL Accueil] : l’aperçu du nouveau widget [!UICONTROL Accueil] n’affiche pas le nom correct de l’objet](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
+      + [[!UICONTROL Accueil] : le widget [!UICONTROL Requêtes] n’affiche pas toutes les équipes affectées](known-issues-workfront/wf-home-request-shows-one-team.md)
+      + [Formulaires personnalisés : impossible de supprimer un champ personnalisé](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md)
+      + [[!UICONTROL Accueil] : la fonctionnalité de recherche ne fonctionne pas dans l’ancienne version de la [!UICONTROL Liste de travail de l’accueil]](known-issues-workfront/wf-home-search-not-working-legacy.md)
+      + [Bons à tirer : le formatage de texte dans le BAT statique ne correspond pas au formatage dans le site Web](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md)
+      + [Projets : le projet est vide lorsqu’il est chargé à partir de la nouvelle expérience [!UICONTROL Accueil]](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md)
       + [[!UICONTROL Accueil] : les filtres ne s’appliquent pas aux widgets dans la nouvelle expérience [!UICONTROL Accueil]](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md)
       + [Modèles de disposition : les modèles de disposition provoquent des incohérences dans les rapports](known-issues-workfront/wf-layout-templates-classic.md)
       + [BAT : impossible de créer le BAT à partir du PDF](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)
