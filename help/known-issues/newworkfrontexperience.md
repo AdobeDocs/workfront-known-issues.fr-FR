@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 534ea87f86e27f0211c8ce12e266dc1310af5501
+source-git-commit: aed1f7049a3b8e08327888f34c2cf682a9d598ba
 workflow-type: tm+mt
-source-wordcount: '669'
-ht-degree: 93%
+source-wordcount: '626'
+ht-degree: 95%
 
 ---
 
@@ -26,8 +26,6 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!UICONTROL Accueil] : le widget [!UICONTROL Requêtes] n’affiche pas toutes les équipes affectées](known-issues-workfront/wf-home-request-shows-one-team.md) | 7 septembre 2023 |
-| [Projets : le projet est vide lorsqu’il est chargé à partir de la nouvelle expérience [!UICONTROL Accueil]](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md) | 1 septembre 2023 |
-| [[!UICONTROL Accueil] : le widget [!UICONTROL Mentions] du nouvel [!UICONTROL Accueil] ne se limite pas aux messages dans lesquels la personne est mentionnée](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 10 août 2023 |
 
 {style="table-layout:auto"}
 
@@ -38,12 +36,9 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
 | [Bon à tirer : commentaire vide supplémentaire lors de la formulation d’un commentaire sur un BAT](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 19 septembre 2023 |
-| [Panoramas : les cartes sans titre s’affichent dans le journal](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md) | 21 septembre 2023 |
 | [[!DNL Workfront]: la page d’objet contient des éléments manquants](known-issues-workfront/wf-workfront-work-item-missing-elements.md) | 20 septembre 2023 |
 | [Mises à jour : les commentaires effectués dans une nouvelle expérience de commentaire ne sont pas visibles dans l’expérience héritée.](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 15 septembre 2023 |
-| [Mises à jour : le commentaire s’affiche comme envoyé par un utilisateur incorrect.](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md) | 15 septembre 2023 |
 | [Formulaires personnalisés : impossible de supprimer un champ personnalisé](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md) | 1 septembre 2023 |
-| [[!UICONTROL Équilibreur de charge de travail] : le [!UICONTROL Nombre total d’heures] ne correspond pas à la somme du [!UICONTROL Nombre d’heures prévues]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 22 août 2023 |
 | [Panoramas : problèmes lors du chargement d’un panorama](known-issues-workfront/wf-boards-issues-with-loading.md) | 22 août 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Cas d’assistance sur Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 août 2022 |
 
@@ -55,6 +50,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Accueil] : le widget [!UICONTROL Mentions] du nouvel [!UICONTROL Accueil] ne se limite pas aux messages dans lesquels la personne est mentionnée](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 25 septembre 2023 |
 | [[!UICONTROL Accueil] : l’aperçu du nouveau widget [!UICONTROL Accueil] n’affiche pas le nom correct de l’objet](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 7 septembre 2023 |
 | [Modèles de disposition : les modèles de disposition provoquent des incohérences dans les rapports](known-issues-workfront/wf-layout-templates-classic.md) | 21 août 2023 |
 | [BAT : les options d’approbation n’apparaissent pas dans le [!UICONTROL Lecteur de vérification]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 10 août 2023 |

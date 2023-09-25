@@ -3,15 +3,19 @@ title: "Panoramas : les cartes sans titre s’affichent dans le journal des trav
 description: "Lorsqu’un utilisateur tente d’ouvrir une carte, celle-ci s’affiche avec le nom Untitled et des champs vides. Au bout d’un certain temps, les détails de la carte souhaités peuvent être renseignés ou la carte peut rester vide. En outre, ces cartes sans titre peuvent être enregistrées dans le journal du panorama, ce qui peut prêter à confusion."
 hidefromtoc: true
 feature: Agile
-source-git-commit: d07a0053faaecd977c5a7a4ea19dc6bfdfaf7792
+source-git-commit: aed1f7049a3b8e08327888f34c2cf682a9d598ba
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 3%
+source-wordcount: '133'
+ht-degree: 8%
 
 ---
 
 
 # Panoramas : les cartes sans titre s’affichent dans le journal
+
+>[!NOTE]
+>
+>Ce problème a été résolu le 21 septembre 2023.
 
 Lorsqu’un utilisateur tente d’ouvrir une carte, celle-ci s’affiche avec le nom &quot;Sans titre&quot; et des champs vides. Au bout d’un certain temps, les détails de la carte souhaités peuvent être renseignés ou la carte peut rester vide.
 
