@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: aed1f7049a3b8e08327888f34c2cf682a9d598ba
+source-git-commit: 917038bf522f2115c1078a96206ed0a0554cdd6a
 workflow-type: tm+mt
-source-wordcount: '626'
-ht-degree: 95%
+source-wordcount: '644'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Panoramas : la barre de défilement horizontale n’est pas présente](known-issues-workfront/wf-board-no-scrollbar.md) | 26 septembre 2023 |
 | [[!UICONTROL Accueil] : le widget [!UICONTROL Requêtes] n’affiche pas toutes les équipes affectées](known-issues-workfront/wf-home-request-shows-one-team.md) | 7 septembre 2023 |
 
 {style="table-layout:auto"}
@@ -35,6 +36,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [équilibreur de charge de travail : l’utilisateur s’affiche en surcapacité en raison d’une capacité inexacte.](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 26 septembre 2023 |
 | [Bon à tirer : commentaire vide supplémentaire lors de la formulation d’un commentaire sur un BAT](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 19 septembre 2023 |
 | [[!DNL Workfront]: la page d’objet contient des éléments manquants](known-issues-workfront/wf-workfront-work-item-missing-elements.md) | 20 septembre 2023 |
 | [Mises à jour : les commentaires effectués dans une nouvelle expérience de commentaire ne sont pas visibles dans l’expérience héritée.](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 15 septembre 2023 |
