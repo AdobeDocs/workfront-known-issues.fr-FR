@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
+source-git-commit: f7d0e60769397fbd7e946476f3b84220720bb047
 workflow-type: tm+mt
-source-wordcount: '5631'
-ht-degree: 93%
+source-wordcount: '5776'
+ht-degree: 91%
 
 ---
 
@@ -21,6 +21,32 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2023.
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
 
 ## Mises à jour de septembre 2023
+
++++**Mise à jour de maintenance (prévue) le 28 septembre 2023**
+
+**Impossible de supprimer le champ personnalisé**
+
+_Formulaires personnalisés_
+
+Lorsqu’une personne tente de supprimer un champ personnalisé, elle ne peut pas le supprimer et le message « [!UICONTROL Erreur de base de données en raison d’une violation de contrainte] » s’affiche.
+
+**Les commentaires effectués dans une nouvelle expérience de commentaire ne sont pas visibles dans l’expérience héritée.**
+
+_Mises à jour_
+
+Lorsqu’un utilisateur fait un commentaire dans la nouvelle expérience de commentaire et que ce commentaire s’affiche dans la zone Commentaires de la nouvelle expérience, il se peut que le même commentaire ne s’affiche pas dans l’expérience de commentaire héritée. Cela peut entraîner l’absence de commentaires des utilisateurs qui utilisent l’expérience héritée.
+
+**La page Objet contient des éléments manquants**
+
+_Workfront_
+
+Lorsqu’un utilisateur accède à une section personnalisée d’un objet dans [!DNL Workfront], certains éléments peuvent manquer dans la page qui se charge. Ces éléments peuvent inclure :
+
+* Panneau de navigation de gauche
+* Nom de l’objet auquel la section personnalisée appartient
+* Champs et informations dans l’en-tête
+
++++
 
 +++**Mise à jour de maintenance le 21 septembre 2023**
 
