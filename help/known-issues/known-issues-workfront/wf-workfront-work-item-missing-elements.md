@@ -3,15 +3,19 @@ title: "[!DNL Workfront]: la page d’objet contient des éléments manquants"
 description: "Lorsqu’un utilisateur accède à une section personnalisée sur un objet dans [!DNL Workfront], il se peut que certains éléments soient absents de la page chargée."
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 402424b48ce4de8c6907803ede4c60fcf1014e53
+source-git-commit: e39436a5aad5dbfe58386dc770babc2ed39f678b
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 13%
+source-wordcount: '101'
+ht-degree: 18%
 
 ---
 
 
 # [!DNL Workfront]: la page d’objet contient des éléments manquants
+
+>[!NOTE]
+>
+>Ce problème a été résolu le 28 septembre 2023.
 
 Lorsqu’un utilisateur accède à une section personnalisée d’un objet dans [!DNL Workfront], certains éléments peuvent manquer dans la page qui se charge. Ces éléments peuvent inclure :
 

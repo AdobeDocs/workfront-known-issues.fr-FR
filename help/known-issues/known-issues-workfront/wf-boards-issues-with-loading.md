@@ -1,17 +1,21 @@
 ---
-title: '« Panoramas : problèmes lors du chargement d’un panorama »'
-description: « Lorsqu’une personne tente de charger un panorama, des problèmes peuvent se produire. »
+title: 'Panoramas : problèmes lors du chargement d’un panorama'
+description: Lorsqu’un utilisateur tente de charger un panorama, des problèmes peuvent se produire.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 98ee543f0a4711a0361bcb4ffe1a664a64e4044d
+exl-id: bc3f2614-3e06-41f5-8eb8-6e90184c3649
+source-git-commit: e39436a5aad5dbfe58386dc770babc2ed39f678b
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 61%
+source-wordcount: '100'
+ht-degree: 53%
 
 ---
 
-
 # Panoramas : problèmes lors du chargement d’un panorama
+
+>[!NOTE]
+>
+>Ce problème a été résolu le 28 septembre 2023.
 
 Lorsqu’une personne tente de charger un panorama, l’un des événements suivants peut se produire :
 
@@ -21,4 +25,3 @@ Lorsqu’une personne tente de charger un panorama, l’un des événements suiv
 Ce problème semble être limité aux panoramas des flux de travail.
 
 _Premier signalement le 28 juillet 2023._
-
