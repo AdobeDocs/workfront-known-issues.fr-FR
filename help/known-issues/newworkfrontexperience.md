@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ccf3009d99f381b6c0895bf3a209ab848c09aaa2
+source-git-commit: 6facca06aba9eeb16ecb2a79142c22265dbafea2
 workflow-type: tm+mt
-source-wordcount: '665'
-ht-degree: 90%
+source-wordcount: '676'
+ht-degree: 89%
 
 ---
 
@@ -25,6 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Panoramas : les cartes n’affichent pas le nombre correct d’éléments de liste de contrôle](known-issues-workfront/wf-boards-checklist-item-count.md) | 29 septembre 2023 |
 | [Notifications : les emails de rappel automatique ne sont pas envoyés](known-issues-workfront/wf-notifications-overdue-error.md) | 28 septembre 2023 |
 | [Intégrations de document : erreur lors du déplacement d’une ressource vers un dossier dans une intégration Experience Manager Assets](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md) | 28 septembre 2023 |
 | [Partage : erreur lors du partage d’un objet](known-issues-workfront/wf-sharing-user-cannot-share-object.md) | 27 septembre 2023 |
