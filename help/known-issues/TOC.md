@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus de  [!DNL Adobe Workfront]
 role: User
-source-git-commit: bd007abf526c98f00562e520afc34a17b1df653d
+source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
 workflow-type: tm+mt
-source-wordcount: '1410'
-ht-degree: 88%
+source-wordcount: '1452'
+ht-degree: 85%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 88%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Équilibreur de charge de travail : les modifications horaires manuelles ne sont pas précises après actualisation de la page.](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md)
+      + [Accueil : les tâches déléguées ne sont pas partagées et n’apparaissent pas dans la liste des tâches domestiques](known-issues-workfront/wf-home-delegated-tasks-not-shared.md)
+      + [Bons à tirer : erreur lors du partage du BAT à partir du lien de l&#39;email](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md)
+      + [Connexion : une erreur s’affiche lors de la réinitialisation du mot de passe alors que l’action a réussi.](known-issues-workfront/wf-login-whoops-resetting-password.md)
       + [Panoramas : le chargement des panoramas se fait lentement](known-issues-workfront/wf-boards-board-loads-slowly.md)
       + [Panoramas : impossible de déplacer les cartes](known-issues-workfront/wf-boards-can-not-move-cards.md)
       + [Panoramas : les cartes n’affichent pas le nombre correct d’éléments de liste de contrôle](known-issues-workfront/wf-boards-checklist-item-count.md)

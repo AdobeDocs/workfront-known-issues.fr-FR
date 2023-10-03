@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: bd007abf526c98f00562e520afc34a17b1df653d
+source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
 workflow-type: tm+mt
-source-wordcount: '686'
-ht-degree: 88%
+source-wordcount: '732'
+ht-degree: 82%
 
 ---
 
@@ -25,6 +25,8 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bons à tirer : erreur lors du partage du BAT à partir du lien de l&#39;email](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 3 octobre 2023 |
+| [Connexion : une erreur s’affiche lors de la réinitialisation du mot de passe alors que l’action a réussi.](known-issues-workfront/wf-login-whoops-resetting-password.md) | 3 octobre 2023 |
 | [Panoramas : les cartes n’affichent pas le nombre correct d’éléments de liste de contrôle](known-issues-workfront/wf-boards-checklist-item-count.md) | 29 septembre 2023 |
 | [Notifications : les emails de rappel automatique ne sont pas envoyés](known-issues-workfront/wf-notifications-overdue-error.md) | 28 septembre 2023 |
 | [Intégrations de document : erreur lors du déplacement d’une ressource vers un dossier dans une intégration Experience Manager Assets](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md) | 28 septembre 2023 |
@@ -40,6 +42,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Équilibreur de charge de travail : les modifications horaires manuelles ne sont pas précises après actualisation de la page.](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 3 octobre 2023 |
+| [Accueil : les tâches déléguées ne sont pas partagées et n’apparaissent pas dans la liste des tâches domestiques](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 3 octobre 2023 |
 | [Panoramas : le chargement des panoramas se fait lentement](known-issues-workfront/wf-boards-board-loads-slowly.md) | 2 octobre 2023 |
 | [Panoramas : impossible de déplacer les cartes](known-issues-workfront/wf-boards-can-not-move-cards.md) | 2 octobre 2023 |
 | [Utilisateurs : message d’erreur affiché incorrectement lors du rappel d’enregistrement de l’utilisateur](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md) | 28 septembre 2023 |
