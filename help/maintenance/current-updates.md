@@ -3,9 +3,9 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
+source-git-commit: bb14df1c2326830d02c7db71b5affeb92651fd19
 workflow-type: tm+mt
-source-wordcount: '5802'
+source-wordcount: '5791'
 ht-degree: 91%
 
 ---
@@ -166,8 +166,6 @@ Lorsqu’une personne clique sur un projet à partir de sa page [!UICONTROL Accu
 Cela se produit lorsque la personne s’est connectée en tant qu’autre utilisateur/utilisatrice, puis s’est déconnectée en tant qu’autre utilisateur/utilisatrice et est revenue à sa propre page [!UICONTROL Accueil].
 
 +++
-
-**Les filtres ne s’appliquent pas aux widgets dans la nouvelle expérience [!UICONTROL Accueil]**
 
 ## Mises à jour d’août 2023
 
