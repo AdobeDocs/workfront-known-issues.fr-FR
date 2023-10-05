@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: bb14df1c2326830d02c7db71b5affeb92651fd19
+source-git-commit: f55aca778701e1319eaa7a7eb6ce8f3d0cd2b8c5
 workflow-type: tm+mt
-source-wordcount: '5791'
-ht-degree: 91%
+source-wordcount: '5929'
+ht-degree: 89%
 
 ---
 
@@ -22,7 +22,37 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 ## Mises à jour d’octobre 2023
 
-+++**Mise à jour de maintenance (planifiée) le 5 octobre 2023**
++++**Mise à jour de maintenance le 5 octobre 2023**
+
+**Le chargement des panoramas se charge lentement**
+
+_Panoramas_
+
+Lorsqu’un utilisateur charge un panorama, celui-ci se charge extrêmement lentement. Cela peut se produire même si le panorama comporte un petit nombre de cartes.
+
+Les cartes archivées, même si elles ne s’affichaient pas, affectaient le temps de chargement du panorama.
+
+**Impossible de déplacer les cartes entre les colonnes**
+
+_Panoramas_
+
+Lorsqu’un utilisateur tente de déplacer une carte sur un panorama, celle-ci ne se déplace pas. Cela se produit dans les cas suivants :
+
+* Glisser-déposer
+* Option Déplacer sur la carte
+* Modification de la carte
+
+**Impossible de déplacer les cartes hors de la colonne d’ingestion**
+
+_Panoramas_
+
+L’utilisateur peut faire glisser une carte de la colonne d’entrée vers une autre colonne du panorama, mais les cartes suivantes ne peuvent pas être déplacées hors de la colonne d’entrée.
+
+**Regrouper par affecte les performances du panorama**
+
+_Panoramas_
+
+Lorsque l’utilisateur tente de regrouper les cartes par des personnes désignées ou des balises, les performances du panorama sont très lentes.
 
 **Les emails de rappel automatique ne sont pas envoyés**
 
