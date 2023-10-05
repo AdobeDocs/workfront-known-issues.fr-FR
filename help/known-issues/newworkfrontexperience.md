@@ -4,9 +4,9 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 79ffdc10539219598ce2cc888c319414806c1054
+source-git-commit: 3148dfe741ca27262b947e3123fd7fb2df1b3556
 workflow-type: tm+mt
-source-wordcount: '702'
+source-wordcount: '704'
 ht-degree: 84%
 
 ---
@@ -25,6 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] module](known-issues-workfront-fusion/fusion-send-invite-error.md) | 5 octobre 2023 |
 | [Bons à tirer : erreur lors du partage du BAT à partir du lien de l&#39;email](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 3 octobre 2023 |
 | [Connexion : une erreur s’affiche lors de la réinitialisation du mot de passe alors que l’action a réussi.](known-issues-workfront/wf-login-whoops-resetting-password.md) | 3 octobre 2023 |
 | [Panoramas : les cartes n’affichent pas le nombre correct d’éléments de liste de contrôle](known-issues-workfront/wf-boards-checklist-item-count.md) | 29 septembre 2023 |
