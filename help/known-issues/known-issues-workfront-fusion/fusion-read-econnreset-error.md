@@ -1,17 +1,21 @@
 ---
-title: '« Workfront Fusion : le scénario échoue en raison d’une erreur ’read ECONNREET’ »'
-description: « Un scénario peut échouer par intermittence. Lorsqu’une personne visualise l’exécution du scénario en échec, elle voit des messages d’erreur concernant read ECONNREET »
+title: "Workfront Fusion : le scénario échoue avec la lecture de l’erreur ECONNREET"
+description: Un scénario peut échouer par intermittence. Lorsqu’un utilisateur visualise l’exécution du scénario d’échec, il voit des messages d’erreur qui mentionnent ECONNREET
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
-workflow-type: ht
-source-wordcount: '94'
-ht-degree: 100%
+exl-id: e1140018-d308-422d-9019-ae5be7e147b2
+source-git-commit: 79ffdc10539219598ce2cc888c319414806c1054
+workflow-type: tm+mt
+source-wordcount: '100'
+ht-degree: 74%
 
 ---
 
+# [!DNL Workfront Fusion] : le scénario échoue en raison d’une erreur « [!UICONTROL read ECONNREET] »
 
-# [!DNL Workfront Fusion] : le scénario échoue en raison d’une erreur« [!UICONTROL read ECONNREET] »
+>[!NOTE]
+>
+>Ce problème a été résolu le 2 octobre 2023.
 
 Un scénario peut échouer par intermittence. Lorsqu’une personne visualise l’exécution du scénario en échec, elle voit les messages suivants :
 
@@ -23,4 +27,3 @@ Un scénario peut échouer par intermittence. Lorsqu’une personne visualise l�
 Essayez de relancer l’exécution.
 
 _Premier signalement le 31 juillet 2023._
-

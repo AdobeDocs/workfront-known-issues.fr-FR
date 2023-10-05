@@ -4,9 +4,9 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Fusion]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
-workflow-type: ht
-source-wordcount: '130'
+source-git-commit: 79ffdc10539219598ce2cc888c319414806c1054
+workflow-type: tm+mt
+source-wordcount: '124'
 ht-degree: 100%
 
 ---
@@ -36,7 +36,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion] : le scénario échoue en raison d’une erreur « [!UICONTROL read ECONNREET] »](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md) | 3 août 2023 |
+| Aucun |  |
 
 {style="table-layout:auto"}
 

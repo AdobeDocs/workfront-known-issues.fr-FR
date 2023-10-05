@@ -3,15 +3,19 @@ title: '« Planificateur de ressources : le planificateur ne se charge pas lor
 description: « Lorsqu’une personne tente de charger le planificateur de ressources, celui-ci ne se charge pas et un message d’erreur s’affiche. »
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: e39436a5aad5dbfe58386dc770babc2ed39f678b
+source-git-commit: 79ffdc10539219598ce2cc888c319414806c1054
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '85'
 ht-degree: 100%
 
 ---
 
 
 # [!UICONTROL Planificateur de ressources] : le planificateur ne se charge pas lorsque le filtre est appliqué
+
+>[!NOTE]
+>
+>Ce problème a été résolu le 21 septembre 2023.
 
 Lorsqu’une personne tente de charger le [!UICONTROL planificateur de ressources], celui-ci ne se charge pas et un message d’erreur s’affiche :
 

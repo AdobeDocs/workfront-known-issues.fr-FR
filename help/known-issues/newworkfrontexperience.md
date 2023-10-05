@@ -4,9 +4,9 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f55aca778701e1319eaa7a7eb6ce8f3d0cd2b8c5
+source-git-commit: 79ffdc10539219598ce2cc888c319414806c1054
 workflow-type: tm+mt
-source-wordcount: '713'
+source-wordcount: '702'
 ht-degree: 84%
 
 ---
@@ -44,7 +44,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [Équilibreur de charge de travail : les modifications horaires manuelles ne sont pas précises après actualisation de la page.](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 3 octobre 2023 |
 | [Accueil : les tâches déléguées ne sont pas partagées et n’apparaissent pas dans la liste des tâches domestiques](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 3 octobre 2023 |
 | [Utilisateurs : message d’erreur affiché incorrectement lors du rappel d’enregistrement de l’utilisateur](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md) | 28 septembre 2023 |
-| [[!UICONTROL Planificateur de ressources] : le planificateur ne se charge pas lorsque le filtre est appliqué](known-issues-workfront/wf-resource-planning-cannot-load.md) | 28 septembre 2023 |
 | [équilibreur de charge de travail : l’utilisateur s’affiche en surcapacité en raison d’une capacité inexacte.](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 26 septembre 2023 |
 | [Bon à tirer : commentaire vide supplémentaire lors de la formulation d’un commentaire sur un BAT](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 19 septembre 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Cas d’assistance sur Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 août 2022 |
