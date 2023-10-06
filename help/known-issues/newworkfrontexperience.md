@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3148dfe741ca27262b947e3123fd7fb2df1b3556
+source-git-commit: 60959758457f54f6120171639b0c6abcce581310
 workflow-type: tm+mt
-source-wordcount: '704'
-ht-degree: 84%
+source-wordcount: '712'
+ht-degree: 83%
 
 ---
 
@@ -25,6 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Rapports : les mises à jour privées s’affichent dans les champs d’expression de valeur](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 6 octobre 2023 |
 | [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] module](known-issues-workfront-fusion/fusion-send-invite-error.md) | 5 octobre 2023 |
 | [Bons à tirer : erreur lors du partage du BAT à partir du lien de l&#39;email](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 3 octobre 2023 |
 | [Connexion : une erreur s’affiche lors de la réinitialisation du mot de passe alors que l’action a réussi.](known-issues-workfront/wf-login-whoops-resetting-password.md) | 3 octobre 2023 |
