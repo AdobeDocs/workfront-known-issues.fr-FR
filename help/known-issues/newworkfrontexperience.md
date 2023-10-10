@@ -4,9 +4,9 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 23be4edfa0efdf1fb4f469f762723187f5e4c08d
+source-git-commit: 6d93e05a72b92c41865f14c0991938685c8d8d58
 workflow-type: tm+mt
-source-wordcount: '749'
+source-wordcount: '756'
 ht-degree: 80%
 
 ---
@@ -46,6 +46,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Fiches horaires : la tâche personnelle apparaît sur la feuille de temps](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 10 octobre 2023 |
 | [Bons à tirer : impossible de générer le BAT](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 9 octobre 2023 |
 | [Équilibreur de charge de travail : les modifications horaires manuelles ne sont pas précises après actualisation de la page.](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 3 octobre 2023 |
 | [Accueil : les tâches déléguées ne sont pas partagées et n’apparaissent pas dans la liste des tâches domestiques](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 3 octobre 2023 |

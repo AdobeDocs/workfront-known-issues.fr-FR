@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f55aca778701e1319eaa7a7eb6ce8f3d0cd2b8c5
+source-git-commit: 6d93e05a72b92c41865f14c0991938685c8d8d58
 workflow-type: tm+mt
-source-wordcount: '5929'
-ht-degree: 89%
+source-wordcount: '6044'
+ht-degree: 88%
 
 ---
 
@@ -21,6 +21,26 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2023.
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
 
 ## Mises à jour d’octobre 2023
+
++++**Mise à jour de maintenance (planifiée) le 12 octobre 2023**
+
+**Les champs calculés ne conservent pas de valeur lorsque le problème est converti en tâche**
+
+_Formulaires personnalisés_
+
+Les champs calculés qui se référencent ne conservent pas leurs valeurs lorsqu’un problème est converti en tâche.
+
+Lors de la conversion du problème en tâche, la valeur souhaitée s’affiche correctement dans la fenêtre d’édition. Cependant, une fois la conversion terminée, le champ calculé affiche un &quot;S/O&quot;.
+
+**Erreur lors du changement de filtres dans [!UICONTROL Accueil]**
+
+_Accueil_
+
+Lorsqu’un utilisateur modifie les filtres sur [!UICONTROL Accueil], la variable [!UICONTROL Accueil] ne se charge pas et l’utilisateur voit l’erreur suivante :
+
+« [!UICONTROL Une erreur s’est produite et nous nous efforçons de la résoudre. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.] »
+
++++
 
 +++**Mise à jour de maintenance le 5 octobre 2023**
 
