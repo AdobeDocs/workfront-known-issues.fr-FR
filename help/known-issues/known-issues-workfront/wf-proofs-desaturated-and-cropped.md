@@ -1,17 +1,17 @@
 ---
-title: "Bons à tirer : les bons à tirer semblent dénaturés ou recadrés"
-description: "Ces problèmes ont été signalés lors de la création d’un BAT à partir d’une URL."
+title: '« BAT : les bons à tirer semblent désaturés ou recadrés »'
+description: « Ces problèmes ont été signalés lors de la création d’un BAT à partir d’une URL. »
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '73'
-ht-degree: 13%
+ht-degree: 100%
 
 ---
 
 
-# Bons à tirer : les bons à tirer semblent dénaturés ou recadrés.
+# BAT : les BAT semblent désaturés ou recadrés
 
 >[!NOTE]
 >
@@ -19,9 +19,9 @@ ht-degree: 13%
 
 Les problèmes suivants ont été signalés lors de la création d’un BAT à partir d’une URL.
 
-* La preuve semble dénaturée ou lavée.
-* La preuve est recadrée.
+* Le BAT semble désaturé ou délavé.
+* Le BAT est recadré.
 
-Cela peut rendre les décisions de BAT difficiles, car le BAT n’est pas représenté avec précision.
+Cela peut rendre les décisions relatives aux BAT difficiles à prendre, car le BAT n’est pas représenté avec précision.
 
 _Premier signalement le 24 août 2023._
