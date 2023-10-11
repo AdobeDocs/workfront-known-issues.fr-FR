@@ -1,5 +1,5 @@
 ---
-title: '« Équilibreur de charge de travail : le Nombre total d’heures ne correspond pas à la somme du Nombre d’heures prévues »'
+title: '« Équilibreur de charge de travail : le Nombre total d’heures ne correspond pas à la somme du Nombre d’heures prévues ».'
 description: « Lorsqu’une personne utilisatrice consulte l’Équilibreur de charge de travail et additionne le Nombre d’heures prévues, le total ne correspond pas au Nombre total d’heures dans la ligne supérieure. Le recalcul de la chronologie ne résout pas le problème. »
 hidefromtoc: true
 feature: Resource Management

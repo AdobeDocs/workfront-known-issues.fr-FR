@@ -1,12 +1,12 @@
 ---
 title: Mises à jour de maintenance pour Workfront
-description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
+description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 6d93e05a72b92c41865f14c0991938685c8d8d58
 workflow-type: tm+mt
 source-wordcount: '6044'
-ht-degree: 88%
+ht-degree: 95%
 
 ---
 
@@ -18,7 +18,7 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2023.
 >
 >Ces mises à jour incluent également d’autres correctifs mineurs ou moins conséquents. L’assistance [!DNL Workfront] vous avertira lorsqu’un problème que vous avez soumis est résolu.
 
-Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates)
+Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates).
 
 ## Mises à jour d’octobre 2023
 
@@ -92,96 +92,96 @@ _Formulaires personnalisés_
 
 Lorsqu’une personne tente de supprimer un champ personnalisé, elle ne peut pas le supprimer et le message « [!UICONTROL Erreur de base de données en raison d’une violation de contrainte] » s’affiche.
 
-**Les commentaires effectués dans une nouvelle expérience de commentaire ne sont pas visibles dans l’expérience héritée.**
+**Les commentaires effectués dans une nouvelle expérience de commentaire ne sont pas visibles dans l’expérience héritée**
 
 _Mises à jour_
 
-Lorsqu’un utilisateur fait un commentaire dans la nouvelle expérience de commentaire et que ce commentaire s’affiche dans la zone Commentaires de la nouvelle expérience, il se peut que le même commentaire ne s’affiche pas dans l’expérience de commentaire héritée. Cela peut entraîner l’absence de commentaires des utilisateurs qui utilisent l’expérience héritée.
+Lorsqu’une personne fait un commentaire dans la nouvelle expérience de commentaire et que ce commentaire s’affiche dans la zone Commentaires de la nouvelle expérience, il se peut que le même commentaire ne s’affiche pas dans l’expérience de commentaire héritée. Cela peut entraîner l’absence de commentaires des personnes qui utilisent l’expérience héritée.
 
-**La page Objet contient des éléments manquants**
+**Des éléments sont manquants sur la page Objet**
 
 _Workfront_
 
-Lorsqu’un utilisateur accède à une section personnalisée d’un objet dans [!DNL Workfront], certains éléments peuvent manquer dans la page qui se charge. Ces éléments peuvent inclure :
+Lorsqu’une personne accède à une section personnalisée d’un objet dans [!DNL Workfront], certains éléments peuvent manquer sur la page qui se charge. Ces éléments peuvent inclure :
 
-* Panneau de navigation de gauche
-* Nom de l’objet auquel la section personnalisée appartient
-* Champs et informations dans l’en-tête
+* Le panneau de navigation de gauche
+* Le nom de l’objet auquel la section personnalisée appartient
+* Les champs et informations de l’en-tête
 
 +++
 
 +++**Mise à jour de maintenance le 21 septembre 2023**
 
-**Impossible d’affecter un utilisateur à un panorama sur un workflow**
+**Impossible d’affecter une personne à un panorama sur un flux de travail**
 
 _Panoramas_
 
-Lorsqu’un utilisateur tente d’affecter un autre utilisateur à une tâche à partir d’un panorama qui fait partie d’un processus et commence à saisir son nom, il n’apparaît pas dans la liste déroulante des utilisateurs disponibles. Cela se produit même lorsque l’utilisateur est actif et membre du panorama et du processus.
+Lorsqu’une personne tente d’affecter une autre personne à une tâche à partir d’un panorama qui fait partie d’un flux de travail en commençant à saisir son nom, cette dernière n’apparaît pas dans la liste déroulante des personnes disponibles. Cela se produit même lorsque la personne est active et est membre du panorama et du flux de travail.
 
-L’utilisateur peut également remarquer que les utilisateurs désactivés apparaissent dans la liste déroulante.
+La personne peut également remarquer que les personnes désactivées apparaissent dans la liste déroulante.
 
 **Impossible de supprimer l’élément de liste de contrôle**
 
 _Panoramas_
 
-Lorsqu’un utilisateur tente de supprimer un élément de liste de contrôle d’une carte sur un panorama, la variable [!UICONTROL Supprimer] ne répond pas et l’élément n’est pas supprimé.
+Lorsqu’une personne tente de supprimer un élément de liste de contrôle d’une carte sur un panorama, le bouton [!UICONTROL Supprimer] ne répond pas et l’élément n’est pas supprimé.
 
 **Les formulaires personnalisés se chargent lentement**
 
 _Formulaires personnalisés_
 
-Lorsqu’un utilisateur tente de charger un formulaire personnalisé, celui-ci se charge lentement.
+Lorsqu’une personne tente de charger un formulaire personnalisé, celui-ci se charge lentement.
 
 **Impossible de déplacer le document vers un autre dossier**
 
 _Documents_
 
-Lorsqu’un utilisateur déplace un document dans un dossier d’objets, il ne peut pas le déplacer vers un autre dossier.
+Lorsqu’une personne déplace un document vers un autre dossier d’objets, l’opération est impossible.
 
 **Erreur XML lors du téléchargement**
 
 _Documents_
 
-Lorsqu’un utilisateur ou une utilisatrice tente de télécharger un document, celui-ci ne se télécharge pas et une page s’affiche avec ce message suivi d’un texte XML.
+Lorsqu’une personne tente de télécharger un document, celui-ci ne se télécharge pas et une page s’affiche avec ce message suivi d’un texte XML.
 
 « [!UICONTROL Le fichier XML ne semble pas être associé à des informations de style. L’arborescence du document se trouve ci-dessous.] »
 
-**Impossible de télécharger des documents à partir des environnements Preview/Sandbox**
+**Impossible de télécharger des documents à partir des environnements Aperçu/Sandbox**
 
 _Documents_
 
-Lorsqu’un utilisateur tente de télécharger un document à partir d’un environnement autre que la production, le document ne se télécharge pas et l’utilisateur voit l’erreur suivante :
+Lorsqu’une personne tente de télécharger un document à partir d’un environnement autre que la production, le document ne se télécharge pas et la personne voit l’erreur suivante :
 
 « [!UICONTROL Oups ! Un problème est survenu. Contactez Workfront pour nous aider à comprendre l’erreur et y remédier.] »
 
-**Les bons à tirer apparaissent dénaturés ou recadrés**
+**Les BAT apparaissent dénaturés ou recadrés**
 
 _BAT_
 
 Les problèmes suivants ont été signalés lors de la création d’un BAT à partir d’une URL.
 
-* La preuve semble dénaturée ou lavée.
-* La preuve est recadrée.
+* Le BAT semble désaturé ou délavé.
+* Le BAT est recadré.
 
-Cela peut rendre les décisions de BAT difficiles, car le BAT n’est pas représenté avec précision.
+Cela peut rendre les décisions relatives aux BAT difficiles à prendre, car le BAT n’est pas représenté avec précision.
 
-**La génération des bons à tirer prend un temps excessif.**
+**La génération des BAT prend un temps excessif**
 
 _BAT_
 
-Lorsqu’un utilisateur tente de générer un BAT, la génération du BAT prend un temps excessif. La génération du BAT peut prendre plusieurs jours.
+Lorsqu’une personne tente de générer un BAT, la génération prend un temps excessif. La génération des BAT peut prendre plusieurs jours.
 
 +++
 
 +++**Mise à jour de maintenance le 14 septembre 2023**
 
-**&quot;[!UICONTROL Pas d&#39;usine]&quot; lors de l’ajout d’un document**
+**Erreur « [!UICONTROL Aucune usine] » lors de l’ajout d’un document**
 
 _Documents_
 
-Lorsqu’un utilisateur tente d’ajouter un document provenant d’une source externe, [!DNL Workfront] ne peut pas accéder à la source et l’utilisateur voit l’erreur suivante :
+Lorsqu’une personne tente d’ajouter un document provenant d’une source externe, [!DNL Workfront] ne peut pas accéder à la source et la personne voit l’erreur suivante :
 
-&quot;[!UICONTROL L’erreur suivante s’est produite : Aucune fabrique trouvée pour le type d’authentification null]&quot;
+« [!UICONTROL L’erreur suivante s’est produite : aucune usine trouvée pour le type d’authentification null] »
 
 **Erreur « Oups » sur les rapports de matrice**
 
@@ -227,7 +227,7 @@ _[!UICONTROL Accueil]_
 
 Lorsqu’une personne applique un filtre à un widget dans la nouvelle expérience [!UICONTROL Accueil], le widget affiche les éléments qui doivent être exclus par le filtre.
 
-Ce problème a été signalé dans l’environnement de sandbox personnalisée. Les mêmes widgets dans les environnements de prévisualisation et de production filtrent comme prévu.
+Ce problème a été signalé dans l’environnement de sandbox personnalisé. Les mêmes widgets dans les environnements de prévisualisation et de production filtrent comme prévu.
 
 **Erreurs lors du chargement des rapports de matrice**
 
@@ -272,7 +272,7 @@ _Projets_
 
 Lorsqu’une personne tente d’accéder à un projet à l’aide d’une URL qui inclut un numéro d’[!UICONTROL ID de référence], elle est redirigée vers une page contenant un message d’erreur. La navigation vers une tâche à l’aide d’un URI contenant un [!UICONTROL ID de référence] fonctionne comme prévu. »
 
-**« [!UICONTROL BAT : le paramètre Désactiver les notifications par e-mail du BAT] » s’affiche de manière incorrecte**
+**« Le paramètre [!UICONTROL Désactiver les notifications par e-mail du BAT] » s’affiche de manière incorrecte**
 
 _BAT_
 
@@ -280,7 +280,7 @@ Lorsqu’une personne consulte les paramètres du BAT dans [!DNL Workfront], la 
 
 **Impossible d’ajuster les annotations du BAT**
 
-_Épreuves_
+_BAT_
 
 Lorsqu’une personne fait un commentaire dans le lecteur de vérification, ajoute une annotation au BAT, puis clique à l’extérieur, elle ne peut plus ajuster l’annotation.
 
@@ -318,7 +318,7 @@ Dans un scénario, le module [!UICONTROL Outils] > [!UICONTROL Veille] peut ent
 
 _Panoramas_
 
-La colonne d’entrée d’un panneau était triée par ordre de priorité défini sur les tâches et les problèmes, ce qui rendait difficile la localisation d’éléments spécifiques.
+La colonne d’entrée d’un panorama était triée par ordre de priorité défini sur les tâches et les problèmes, ce qui rendait difficile la localisation d’éléments spécifiques.
 
 L’ordre par défaut est désormais le suivant :
 
@@ -336,7 +336,7 @@ Problèmes
 
 _Projets/Problèmes_
 
-Lorsqu’un utilisateur ou une utilisatrice change le statut d’un projet qui est l’objet de résolution d’un problème, le statut du problème est remplacé par un statut qui ne correspond pas à la même clé que le statut du projet.
+Lorsqu’une personne change le statut d’un projet qui est l’objet de résolution d’un problème, le statut du problème est remplacé par un statut qui ne correspond pas à la même clé que le statut du projet.
 
 **Erreur « Oups » sur les rapports de matrice**
 
@@ -364,7 +364,7 @@ Les balises et les éléments de liste de contrôle ont été supprimés du pano
 
 _Filtres_
 
-Si un utilisateur ou une utilisatrice partage un filtre et active l’option « [!UICONTROL Afficher à l’échelle du système] », le filtre est partagé avec chaque personne utilisatrice du système. Cependant, si l’administration consulte ensuite ce filtre dans la [!UICONTROL Configuration], ce dernier affiche « [!UICONTROL false] » dans la colonne « [!UICONTROL Visible à l’échelle du système] ». Pour que ce filtre devienne la valeur système par défaut, l’administration doit activer l’option « [!UICONTROL Activer à l’échelle du système] » dans la [!UICONTROL Configuration]. Cela peut prêter à confusion en raison de la formulation similaire.
+Si une personne partage un filtre et active l’option « [!UICONTROL Afficher à l’échelle du système] », le filtre est partagé avec chaque personne qui utilise le système. Cependant, si l’administration consulte ensuite ce filtre dans la [!UICONTROL Configuration], ce dernier affiche « [!UICONTROL false] » dans la colonne « [!UICONTROL Visible à l’échelle du système] ». Pour que ce filtre devienne la valeur système par défaut, l’administration doit activer l’option « [!UICONTROL Activer à l’échelle du système] » dans la [!UICONTROL Configuration]. Cela peut prêter à confusion en raison de la formulation similaire.
 
 +++
 
@@ -376,23 +376,23 @@ Cette mise à jour inclut uniquement des correctifs mineurs ou moins importants.
 
 +++**Mise à jour de maintenance le 13 juillet 2023**
 
-**Le journal ne recalcule pas**
+**Le journal n’est pas recalculé**
 
-_Projets / Tâches / Événements_
+_Projets/Tâches/Problèmes_
 
-Lorsqu’un événement se produit qui doit déclencher un calcul de la chronologie, celle-ci n’est pas recalculée. Ceci affecte les nouveaux calculs effectués lors des modifications et les nouveaux calculs planifiés. La précision de l’équilibreur de charge de travail peut également être affectée.
+Lorsqu’un événement se produit qui doit déclencher un calcul du journal, celui-ci n’est pas recalculé. Ceci affecte les nouveaux calculs effectués lors des modifications et les nouveaux calculs planifiés. La précision de l’équilibreur de charge de travail peut également être affectée.
 
-**Les validations d’épreuves verrouillées apparaissent toujours dans la liste de travail**
+**Les validations de BAT verrouillés apparaissent toujours dans la liste de travail**
 
-_Épreuves_
+_BAT_
 
-Les validations d’épreuves qui sont arrivées à expiration et qui sont verrouillées apparaissent toujours sur la liste de travail de l’accueil de l’approbateur ou de l’approbatrice, au lieu de disparaître de la liste lorsque la date limite est passée.
+Les validations de BAT qui sont arrivées à expiration et qui sont verrouillées apparaissent toujours sur la liste de travail de l’accueil de l’approbateur ou de l’approbatrice, au lieu de disparaître de la liste lorsque la date limite est passée.
 
 **Le rapport d’utilisation ne se charge pas**
 
 _Rapports_
 
-Lorsqu’un client ou une cliente tente d’afficher un rapport d’utilisation, il ou elle voit un indicateur de chargement en rotation, mais le rapport ne se charge pas. Le rapport a renvoyé une erreur 500, mais la personne utilisatrice ne voit aucune indication que le rapport a rencontré une erreur.
+Lorsqu’un client ou une cliente tente d’afficher un rapport d’utilisation, il ou elle voit un indicateur de chargement en rotation, mais le rapport ne se charge pas. Le rapport a renvoyé une erreur 500, mais la personne ne voit aucune indication que le rapport a rencontré une erreur.
 
 **La page Modifier l’utilisateur est vide**
 
@@ -400,7 +400,7 @@ Lorsqu’un client ou une cliente tente d’afficher un rapport d’utilisation,
 
 _Utilisateurs et utilisatrices_
 
-Lorsqu’un utilisateur ou une utilisatrice tente de modifier un autre utilisateur ou utilisatrice, la page Modifier l’utilisateur est vide et rend la modification impossible.
+Lorsqu’une personne tente de modifier un autre utilisateur ou une autre utilisatrice, la page Modifier l’utilisateur est vide et rend la modification impossible.
 
 +++
 
@@ -418,7 +418,7 @@ Cette mise à jour inclut uniquement des correctifs mineurs ou moins importants.
 
 _Rapports_
 
-Lorsqu’un utilisateur ou une utilisatrice consulte un rapport de matrice, l’erreur suivante s’affiche :
+Lorsqu’une personne consulte un rapport de matrice, l’erreur suivante s’affiche :
 
 « [!UICONTROL Oups ! Un problème est survenu. Contactez Workfront pour nous aider à comprendre l’erreur et y remédier.] »
 
@@ -446,7 +446,7 @@ Cette mise à jour inclut uniquement des correctifs mineurs ou moins importants.
 
 +++Mise à jour de maintenance d’**[!DNL Adobe Workfront Fusion]le 8 juin 2023**
 
-[!DNL Fusion] a déployé un correctif qui empêche la suppression des connexions d’un utilisateur ou d’une utilisatrices lorsque celui-ci ou celle-ci est supprimé(e) ou désactivé(e) dans [!UICONTROL Adobe Admin Console].
+[!DNL Fusion] a déployé un correctif qui empêche la suppression des connexions d’une personne lorsque celle-ci est supprimée ou désactivée dans [!UICONTROL Adobe Admin Console].
 
 Les administrateurs et administratrices d’équipe [!DNL Fusion] peuvent toujours supprimer les connexions inutiles de la page [!UICONTROL Connexions] dans [!DNL Fusion].
 
@@ -458,13 +458,13 @@ Les administrateurs et administratrices d’équipe [!DNL Fusion] peuvent toujou
 
 _Tâches_
 
-Lorsqu’un utilisateur ou une utilisatrice tente de réorganiser une tâche dans une liste de tâches, et que la tâche a le statut [!UICONTROL En attente de validation], la tâche semble se déplacer dans la liste des tâches. Lors de l’actualisation, l’utilisateur ou l’utilisatrice voit que l’élément n’a pas été déplacé. L’élément ne peut pas être déplacé, car il se trouve au statut [!UICONTROL En attente de validation], mais aucun message n’indique à l’utilisateur ou à l’utilisatrice que l’élément ne peut pas être déplacé, ce qui peut entraîner une confusion.
+Lorsqu’une personne tente de réorganiser une tâche dans une liste de tâches, et que la tâche a le statut [!UICONTROL En attente de validation], elle semble se déplacer dans la liste des tâches. Lors de l’actualisation, la personne voit que l’élément n’a pas été déplacé. L’élément ne peut pas être déplacé, car il se trouve au statut [!UICONTROL En attente de validation], mais aucun message n’indique à la personne que l’élément ne peut pas être déplacé, ce qui peut entraîner une confusion.
 
 **Aucun message d’erreur lors du déplacement d’une tâche de prédécesseur sous une tâche dépendante**
 
 _Tâches_
 
-Lorsqu’un utilisateur ou une utilisatrice tente de réorganiser une tâche dans une liste de tâches, et que la tâche a le statut [!UICONTROL En attente de validation], la tâche semble se déplacer dans la liste des tâches. Lors de l’actualisation, l’utilisateur ou l’utilisatrice voit que l’élément n’a pas été déplacé. L’élément ne peut pas être déplacé, car une tâche de prédécesseur ne peut pas être déplacée sous une tâche pour laquelle il s’agit du prédécesseur, mais aucun message n’indique à l’utilisateur ou à l’utilisatrice que l’élément ne peut pas être déplacé, ce qui peut prêter à confusion.
+Lorsqu’une personne tente de réorganiser une tâche dans une liste de tâches, et que la tâche a le statut [!UICONTROL En attente de validation], elle semble se déplacer dans la liste des tâches. Lors de l’actualisation, la personne voit que l’élément n’a pas été déplacé. L’élément ne peut pas être déplacé, car une tâche de prédécesseur ne peut pas être déplacée sous une tâche dont elle est le prédécesseur, mais aucun message n’indique à l’utilisateur ou à l’utilisatrice que l’élément ne peut pas être déplacé, ce qui peut prêter à confusion.
 
 +++
 
@@ -529,7 +529,7 @@ Ce problème affecte également les fonctionnalités du module [!DNL Workfront F
 
 +++
 
-+++Mise à jour de maintenance de **[!DNL Adobe Workfront Fusion]le 11 mai 2023**
++++Mise à jour de maintenance d’**[!DNL Adobe Workfront Fusion]le 11 mai 2023**
 
 **Erreurs de délai d’expiration dans[!DNL Workfront Fusion]**
 
@@ -559,7 +559,7 @@ Vous pouvez désormais utiliser les filtres de tâches et de problèmes existant
 
 +++**Mise à jour de maintenance le 4 mai 2023**
 
-**Modèles : impossible de sélectionner un modèle à partir des [!UICONTROL Modèles favoris]**
+**Impossible de sélectionner un modèle à partir des [!UICONTROL Modèles favoris]**
 
 _Modèles_
 
@@ -575,7 +575,7 @@ Lorsqu’un utilisateur ou une utilisatrice tente de sélectionner un modèle da
 
 _BAT_
 
-Lorsqu’un utilisateur ou une utilisatrice consulte un BAT dans la [!UICONTROL Visionneuse de BAT] et passe à un autre BAT, le bouton de changement de BAT ne répond plus. Il est impossible de revenir au BAT précédemment consulté ou à un autre BAT.
+Lorsqu’un utilisateur ou une utilisatrice consulte un BAT dans le [!UICONTROL lecteur de vérification] et passe à un autre BAT, le bouton de changement de BAT ne répond plus. Il est impossible de revenir au BAT précédemment consulté ou à un autre BAT.
 
 **Modifier les images jointes lors de la modification d’un commentaire**
 
@@ -585,13 +585,13 @@ Vous pouvez désormais modifier l’image jointe à un commentaire lorsque vous 
 
 +++
 
-+++Mise à jour de maintenance de **[!DNL Adobe Workfront Fusion]le 25 avril 2023**
++++Mise à jour de maintenance d’**[!DNL Adobe Workfront Fusion]le 25 avril 2023**
 
 Les liens d’aide in-app de **[!DNL Fusion]ne mènent pas à des pages d’aide spécifiques**.
 
 _[!DNL Workfront Fusion]_
 
-Lorsqu’un utilisateur ou une utilisatrice consulte un BAT dans la [!UICONTROL Visionneuse de BAT] et passe à un autre BAT, le bouton de changement de BAT ne répond plus. Il est impossible de revenir au BAT précédemment consulté ou à un autre BAT.
+Lorsqu’un utilisateur ou une utilisatrice consulte un BAT dans le [!UICONTROL lecteur de vérification] et passe à un autre BAT, le bouton de changement de BAT ne répond plus. Il est impossible de revenir au BAT précédemment consulté ou à un autre BAT.
 
 +++
 
@@ -610,7 +610,7 @@ Les champs déroulants personnalisés activés en tant que champs à sélection 
 
 _BAT_
 
-Lorsqu’un utilisateur ou utilisatrice consulte un BAT dans la visionneuse de relecture et tente d’ajouter un commentaire à l’aide de l’outil Polyligne, aucun commentaire n’est apporté au BAT.
+Lorsqu’un utilisateur ou utilisatrice consulte un BAT dans le lecteur de vérification et tente d’ajouter un commentaire à l’aide de l’outil Polyligne, aucun commentaire n’est apporté au BAT.
 
 **La zone Options de texte affiche « textAnnotations »**
 
@@ -622,7 +622,7 @@ Lorsqu’un utilisateur ou une utilisatrice consulte un BAT et souhaite apporter
 
 >[!NOTE]
 >
->Cette fonctionnalité a été présentée en aperçu le 19 avril 2023 et mise en production le 20 avril 2023.
+>Un aperçu de cette fonctionnalité a été présenté le 19 avril 2023 qui a été mise en production le 20 avril 2023.
 
 _Mises à jour_
 
@@ -632,11 +632,11 @@ Désormais, lorsque vous quittez la page Mises à jour alors que vous composez u
 
 >[!NOTE]
 >
->Cette fonctionnalité a été présentée en aperçu le 19 avril 2023 et mise en production le 20 avril 2023.
+>Un aperçu de cette fonctionnalité a été présenté le 19 avril 2023, laquelle a été mise en production le 20 avril 2023.
 
 _Mises à jour_
 
-Désormais, lorsque quelqu’un publie un commentaire ou une réponse, ou supprime un commentaire de la zone Mises à jour, le nouveau commentaire ou une indication que le commentaire a été supprimé s’affiche en temps réel, sans délai. Cette fonctionnalité est disponible dans la section Mises à jour pour les objectifs et les problèmes éventuels lors de l’activation de l’expérience bêta de commentaires.
+Désormais, lorsqu’une personne publie un commentaire ou une réponse, ou supprime un commentaire de la zone Mises à jour, le nouveau commentaire ou une indication que le commentaire a été supprimé s’affiche en temps réel, sans délai. Cette fonctionnalité est disponible dans la section Mises à jour pour les objectifs et les problèmes éventuels lors de l’activation de l’expérience bêta de commentaires.
 
 **Modification du niveau d’accès par le système sans enregistrement de la modification**
 
@@ -692,7 +692,7 @@ _BAT_
 
 Lorsqu’un utilisateur ou une utilisatrice consulte un BAT dans le [!UICONTROL Lecteur de vérification] et passe à une autre version, la liste déroulante des versions est désactivée et il est impossible de revenir à la version originale que la personne visualisait ou à une autre version du BAT.
 
-**Erreur 504 lors de l’exportation des rapports**
+**Erreur 504 lors de l’export des rapports**
 
 _Rapports_
 
@@ -755,9 +755,9 @@ Lorsqu’un utilisateur ou une utilisatrice partage un BAT et ajoute un message 
 
 **Le niveau d’accès n’est pas attribué lors de la réactivation d’un utilisateur ou d’une utilisatrice**
 
-_Utilisateurs_
+_Utilisateurs ou utilisatrices_
 
-Lorsqu’un utilisateur en réactive un autre et tente de lui attribuer un niveau d’accès dans la fenêtre [!UICONTROL Réactiver un utilisateur], le menu déroulant ne s’affiche pas lors de la saisie. Il est donc impossible de sélectionner un niveau d’accès. Si l’utilisateur saisit intégralement un niveau d’accès et enregistre, il n’est pas attribué à l’utilisateur réactivé.
+Lorsqu’un utilisateur ou une autilisatrice en réactive un ou une autre et tente de lui attribuer un niveau d’accès dans la fenêtre [!UICONTROL Réactiver un utilisateur], le menu déroulant ne s’affiche pas lors de la saisie. Il est donc impossible de sélectionner un niveau d’accès. Si l’utilisateur ou l’utilisatrice saisit intégralement un niveau d’accès et l’enregistre, il n’est pas attribué à l’utilisateur réactivé ou à l’utilisatrice réactivée.
 
 **Enregistrer le brouillon d’un commentaire dans la zone [!DNL Goals]**
 
@@ -788,7 +788,7 @@ Même si des politiques de colonne sont appliquées pour le statut, de nouvelles
 
 _Mises à jour_
 
-Lorsqu’un utilisateur suit un lien vers un commentaire sur un objet dans Workfront, le flux de mise à jour se charge brièvement, puis l’utilisateur est redirigé vers la zone [!UICONTROL Détails] de l’objet. Cela peut se produire si l’utilisateur clique sur le lien d’un e-mail ou s’il le colle dans son navigateur.
+Lorsqu’un utilisateur ou une utilisatrice suit un lien vers un commentaire sur un objet dans Workfront, le flux de mise à jour se charge brièvement, puis l’utilisateur ou l’utilisatice est redirigé vers la zone [!UICONTROL Détails] de l’objet. Cela peut se produire si l’utilisateur ou l’utilisatrice clique sur le lien d’un e-mail ou le colle dans son navigateur.
 
 Actuellement, seuls les objets Document sont touchés par ce problème.
 
@@ -808,7 +808,7 @@ Lorsqu’un utilisateur ou une utilisatrice tente de charger la page de résumé
 
 _Mises à jour_
 
-Lorsqu’un utilisateur suit un lien vers un commentaire sur un objet dans Workfront, le flux de mise à jour se charge brièvement, puis l’utilisateur est redirigé vers la zone [!UICONTROL Détails] de l’objet. Cela peut se produire si l’utilisateur clique sur le lien d’un e-mail ou s’il le colle dans son navigateur.
+Lorsqu’un utilisateur ou une utilisatrice suit un lien vers un commentaire sur un objet dans Workfront, le flux de mise à jour se charge brièvement, puis l’utilisateur ou l’utilisatice est redirigé vers la zone [!UICONTROL Détails] de l’objet. Cela peut se produire si l’utilisateur ou l’utilisatrice clique sur le lien d’un e-mail ou le colle dans son navigateur.
 
 Actuellement, seuls les objets Document sont touchés par ce problème.
 
@@ -834,11 +834,11 @@ _Panoramas_
 
 Le délai d’expiration des cartes passe de 4 semaines/30 jours à 8 semaines/60 jours.
 
-**La désactivation planifiée ne désactive pas l’utilisateur.**
+**La désactivation planifiée ne désactive pas l’utilisateur ou l’utilisatrice.**
 
 _Utilisateurs_
 
-Lorsque la désactivation d’un utilisateur est planifiée et que la date et l’heure programmées sont passées, il n’est pas désactivé.
+Lorsque la désactivation d’un utilisateur ou d’une utilisatrice est planifiée et que la date et l’heure programmées sont passées, il ou elle n’est pas désactivé.
 
 +++
 
@@ -868,7 +868,7 @@ Icône **[!UICONTROL Panoramas] dans le [!UICONTROL Menu principal] par défaut*
 
 _Panoramas_
 
-L’icône [!UICONTROL Panoramas] s’affiche maintenant dans le [!UICONTROL Menu principal] pour les utilisateurs qui ne disposent pas d’un modèle de disposition. Les panoramas sont également inclus par défaut dans le menu principal pour tous les nouveaux modèles de disposition créés. Les modèles existants n’ont pas été modifiés.
+L’icône [!UICONTROL Panoramas] s’affiche maintenant dans le [!UICONTROL Menu principal] pour les utilisateurs et les utilisatrices qui ne disposent pas d’un modèle de disposition. Les panoramas sont également inclus par défaut dans le menu principal pour tous les nouveaux modèles de disposition créés. Les modèles existants n’ont pas été modifiés.
 
 **Impossible d’enregistrer les modèles d’e-mail**
 
@@ -908,8 +908,8 @@ _Feuilles de temps_
 
 Nous avons ajouté plusieurs icônes d’informations pour les paramètres suivants :
 
-* La case « [!UICONTROL Peut modifier l’heure] » lors de la création ou de la modification d’une feuille de temps ou d’un profil de feuille de temps indique, lorsqu’elle est cochée, que les approbateurs peuvent également envoyer, rouvrir ou modifier la feuille de temps, sauf si votre administrateur restreint ces actions dans les [!UICONTROL Préférences de la feuille de temps] de la section [!UICONTROL Configuration].
-* L’option « [!UICONTROL Limiter la modification de la feuille de temps aux propriétaires et aux administrateurs] » dans la zone [!UICONTROL Préférences de la feuille de temps et d’heure] de la section [!UICONTROL Configuration] permet d’indiquer, lorsque cette case est décochée, que les utilisateurs suivants peuvent également modifier les feuilles de temps : les utilisateurs disposant d’un accès administratif aux feuilles de temps et d’heure, les approbateurs de feuilles de temps autorisés à modifier l’heure et les gestionnaires des propriétaires de feuilles de temps.
+* La case « [!UICONTROL Peut modifier l’heure] » lors de la création ou de la modification d’une feuille de temps ou d’un profil de feuille de temps indique, lorsqu’elle est cochée, que les approbateurs et les approbatrices peuvent également envoyer, rouvrir ou modifier la feuille de temps, sauf si l’administration restreint ces actions dans les [!UICONTROL Préférences de la feuille de temps] de la section [!UICONTROL Configuration].
+* L’option « [!UICONTROL Limiter la modification de la feuille de temps aux propriétaires et aux administrateurs] » dans la zone [!UICONTROL Préférences de la feuille de temps et d’heure] de la section [!UICONTROL Configuration] permet d’indiquer, lorsque cette case est décochée, que les utilisateurs suivants et les utilisatrices suivantes peuvent également modifier les feuilles de temps : les utilisateurs et les utilisatrices disposant d’un accès administratif aux feuilles de temps et d’heure, les approbateurs et les approbatrices de feuilles de temps autorisés à modifier l’heure et les gestionnaires des propriétaires de feuilles de temps.
 
 Notez que le fonctionnement de ces paramètres n’a pas été modifié et que seules des icônes d’informations ont été ajoutées pour clarifier leur utilisation.
 
@@ -921,7 +921,7 @@ Notez que le fonctionnement de ces paramètres n’a pas été modifié et que s
 
 _Intégrations_
 
-Lorsque l’utilisateur tente de soumettre une demande comprenant des pièces jointes dans un e-mail [!DNL Outlook], une ou plusieurs des pièces jointes ne se chargent pas et le message d’erreur suivant apparaît :
+Lorsque l’utilisateur ou l’utilisatrice tente de soumettre une demande comprenant des pièces jointes dans un e-mail [!DNL Outlook], une ou plusieurs des pièces jointes ne se chargent pas et le message d’erreur suivant apparaît :
 
 « [!UICONTROL L’erreur suivante s’est produite : Le fichier contenant l’identificateur xxxx n’existe pas.] »
 
@@ -938,7 +938,7 @@ Les utilisateurs ou utilisatrices peuvent également afficher manuellement la de
 * Version précédente : 2.1.19
 * Nouvelle version : 2.1.20
 
-**L’utilisateur ne peut pas modifier ses propres paramètres utilisateur**
+**L’utilisateur ou l’utilisatrice ne peut pas modifier ses propres paramètres utilisateur**
 
 _Utilisateurs_
 
@@ -978,7 +978,7 @@ L’**[!UICONTROL Équilibreur de charge de travail] affiche les heures non asso
 
 _[!UICONTROL Équilibreur de charge de travail]_
 
-Lorsqu’un utilisateur ou une utilisatrice consulte l’[!UICONTROL Équilibreur de charge de travail], il voit les heures enregistrées pour un utilisateur ou une utilisatrice qui ne sont associées à aucun projet, tâche ou problème, et qui ne sont pas non plus enregistrées en tant qu’heures [!UICONTROL Générales]. Ces heures peuvent s’afficher uniquement dans la vue 4 semaines ou 6 semaines.
+Lorsqu’un utilisateur ou une utilisatrice consulte l’[!UICONTROL Équilibreur de charge de travail], il ou elle voit les heures enregistrées pour un utilisateur ou une utilisatrice qui ne sont associées à aucun projet, tâche ou problème, et qui ne sont pas non plus enregistrées en tant qu’heures [!UICONTROL Générales]. Ces heures peuvent s’afficher uniquement dans la vue 4 semaines ou 6 semaines.
 
 +++
 
@@ -1002,11 +1002,11 @@ Les modules suivants sont concernés :
 
 _Formulaires personnalisés_
 
-Lorsqu’un utilisateur crée ou modifie le champ calculé d’un formulaire personnalisé et inclut un champ personnalisé dans l’expression du champ calculé, l’expression est considérée comme non valide. Le bouton [!UICONTROL Enregistrer] est désactivé et l’utilisateur ne peut pas quitter le champ personnalisé. De plus, l’utilisateur voit le message suivant sous le champ :
+Lorsqu’un utilisateur ou une utilisatrice crée ou modifie le champ calculé d’un formulaire personnalisé et inclut un champ personnalisé dans l’expression du champ calculé, l’expression est considérée comme non valide. Le bouton [!UICONTROL Enregistrer] est désactivé et l’utilisateur ou l’utilisatrice ne peut pas quitter le champ personnalisé. De plus, l’utilisateur ou l’utilisatrice voit le message suivant sous le champ :
 
 « [!UICONTROL Oups ! Un problème est survenu. Contactez Workfront pour nous aider à comprendre l’erreur et y remédier.] »
 
-La suppression du champ personnalisé de l’expression permet à l’utilisateur d’enregistrer et de quitter le champ.
+La suppression du champ personnalisé de l’expression permet à l’utilisateur ou à l’utilisatrice d’enregistrer et de quitter le champ.
 
 **Impossible de définir les niveaux d’accès**
 
@@ -1018,7 +1018,7 @@ Lorsqu’un utilisateur ou une utilisatrice tente de modifier le niveau d’acc�
 
 +++**Mise à jour de maintenance du 12 janvier 2023**
 
-**Formulaires Ctrl+F ou Cmd+F ne fonctionne pas comme prévu dans les champs de liste déroulante**
+**Ctrl+F ou Cmd+F ne fonctionne pas comme prévu dans les champs de liste déroulante**
 
 _Formulaires personnalisés_
 
@@ -1028,13 +1028,13 @@ L’écran « **[!UICONTROL Modifier le rapport] » est vide**
 
 _Rapports_
 
-Lorsqu’un utilisateur consulte un rapport et tente de le modifier, il est redirigé vers une page vide et ne peut pas le modifier.
+Lorsqu’un utilisateur ou une utilisatrice consulte un rapport et tente de le modifier, il ou elle est redirigé vers une page vide et ne peut pas le modifier.
 
 **Les tâches mises en avant ne restent pas mises en avant**
 
 _Tâches_
 
-Lorsqu’un utilisateur consulte une liste de tâches et met en avant une tâche, la tâche revient immédiatement à son état d’origine (mise en retrait).
+Lorsqu’un utilisateur ou une utilisatrice consulte une liste de tâches et met en avant une tâche, la tâche revient immédiatement à son état d’origine (mise en retrait).
 
 +++
 
@@ -1054,20 +1054,20 @@ Les fonctionnalités suivantes sont désormais disponibles dans le menu [!UICONT
 
 _Équipes_
 
-Nous avons supprimé la restriction qui obligeait les utilisateurs devant être ajoutés à une équipe de projet à faire partie du groupe associé au projet. Vous pouvez désormais ajouter n’importe quel utilisateur actif à une équipe de projet, quels que soient les groupes auxquels il appartient.
+Nous avons supprimé la restriction qui obligeait les utilisateurs et les utilisatrices devant être ajoutés à une équipe de projet à faire partie du groupe associé au projet. Vous pouvez désormais ajouter n’importe quel utilisateur actif ou utilisatrice active à une équipe de projet, quels que soient les groupes auxquels il ou elle appartient.
 
 **Nouvelles icônes d’informations pour les feuilles de temps, les profils de feuille de temps et les préférences de feuille de temps**
 
 >[!NOTE]
 >
->Cette mise à jour de est sortie dans l’environnement de prévisualisation le 3 novembre 2022 et passe désormais en production
+>Cette mise à jour est sortie dans l’environnement de prévisualisation le 3 novembre 2022 et passe désormais en production.
 
 _Workfront_
 
 Nous avons ajouté plusieurs icônes d’informations pour les paramètres suivants :
 
-* La case « Peut modifier l’heure » lors de la création ou de la modification d’une feuille de temps ou d’un profil de feuille de temps indique, lorsqu’elle est cochée, que les approbateurs peuvent également envoyer, rouvrir ou modifier la feuille de temps, sauf si votre administrateur restreint ces actions dans les « Préférences de la feuille de temps » de la section « Configuration ».
-* « Limiter la modification de la feuille de temps aux propriétaires et aux administrateurs » dans la zone « Préférences de la feuille de temps et d’heure » de la section « Configuration » pour indiquer que, lorsque cette case est décochée, les utilisateurs suivants peuvent également modifier les feuilles de temps : les utilisateurs disposant d’un accès administratif aux feuilles de temps et d’heure, les approbateurs de feuilles de temps autorisés à modifier l’heure et les gestionnaires des propriétaires de feuilles de temps.
+* La case « Peut modifier l’heure » lors de la création ou de la modification d’une feuille de temps ou d’un profil de feuille de temps indique, lorsqu’elle est cochée, que les approbateurs etles approbatrices peuvent également envoyer, rouvrir ou modifier la feuille de temps, sauf si votre administrateur ou administratrice restreint ces actions dans les « Préférences de la feuille de temps » de la section « Configuration ».
+* « Limiter la modification de la feuille de temps aux propriétaires et aux administrateurs » dans la zone « Préférences de la feuille de temps et d’heure » de la section « Configuration » pour indiquer que, lorsque cette case est décochée, les utilisateurs et utilisatrices suivants peuvent également modifier les feuilles de temps : les utilisateurs et utilisatrices disposant d’un accès administratif aux feuilles de temps et d’heure, les approbateurs et les approbatrices de feuilles de temps autorisés à modifier l’heure et les gestionnaires des propriétaires de feuilles de temps.
 
 Notez que le fonctionnement de ces paramètres n’a pas été modifié et que seules des icônes d’informations ont été ajoutées pour clarifier leur utilisation.
 
@@ -1077,5 +1077,5 @@ Notez que le fonctionnement de ces paramètres n’a pas été modifié et que s
 
 Les informations relatives aux mises à jour de maintenance précédentes sont disponibles ici :
 
-* [[!DNL Workfront] Archive des mises à jour de maintenance - 2022](2022-updates.md)
-* [[!DNL Workfront] Archive des mises à jour de maintenance - 2021](2021-updates.md)
+* [Archive des mises à jour de maintenance d’[!DNL Workfront] - 2022](2022-updates.md)
+* [Archive des mises à jour de maintenance de [!DNL Workfront] - 2021](2021-updates.md)
