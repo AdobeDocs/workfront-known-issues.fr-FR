@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 392bc185c5549300b05299751af260df1d161009
+source-git-commit: c4656bcfbaa69fffae814aa83c2212223f032778
 workflow-type: tm+mt
-source-wordcount: '1508'
-ht-degree: 89%
+source-wordcount: '1328'
+ht-degree: 88%
 
 ---
 
@@ -87,39 +87,23 @@ ht-degree: 89%
       + [Filtres : « [!UICONTROL Activer à l’échelle du système] » et « [!UICONTROL Afficher à l’échelle du système] » constituent des fonctionnalités différentes.](known-issues-workfront/wf-filters-enable-system-wide.md)
       + [Rapports : impossible de charger le rapport d’utilisation](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
       + [Épreuves : les options d’approbation n’apparaissent pas dans le [!UICONTROL Lecteur de vérification].](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
-      + [Feuilles de temps : erreurs lors de l’enregistrement des heures sur une feuille de temps](known-issues-workfront/wf-timesheets-error-when-saving-hours.md)
       + [[!UICONTROL Accueil] : les éléments n’apparaissent pas dans la [!UICONTROL Liste de travail de l’accueil].](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
-      + [Rapports : erreur « [!UICONTROL Oups] » lors de l’affichage du rapport de matrice](known-issues-workfront/wf-reports-error-matrix-report.md)
-      + [Épreuves : les épreuves sont créées lentement dans l’environnement Aperçu](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
       + [Épreuves : les épreuves sont créées lentement dans l’environnement Aperçu](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
-      + [Formulaires personnalisés : la logique d’affichage est perdue lorsque le formulaire personnalisé est modifié dans le nouveau créateur de formulaire (version Beta).](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md)
-      + [Agile : le panorama [!UICONTROL Kanban] devient vide lors de la modification de cartes.](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
       + [Rapports : le tri des rapports n’est pas correct lors du tri par n’importe quel champ.](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
       + [Équilibreur de charge de travail : les heures sont redistribuées de manière inattendue.](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
       + [Formulaires personnalisés : erreur « [!UICONTROL Oups] » lors de la configuration d’un champ calculé](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
-      + [Rapports : le tri par en-tête de colonne revient au tri précédent.](known-issues-workfront/wf-reports-sorting-not-applied.md)
-      + [Projets : erreur lors de l’utilisation de la vue [!UICONTROL Jalon]](known-issues-workfront/wf-projects-error-in-milestone-view.md)
-      + [Tâches : aucun message d’erreur lors de la réorganisation de la tâche au statut [!UICONTROL En attente de validation]](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
-      + [Feuilles de temps : le filtre n’est pas appliqué lors de l’actualisation de la page.](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
       + [Épreuves : les validations d’épreuves verrouillées apparaissent toujours dans la liste de travail.](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
       + [Épreuves : l’onglet [!UICONTROL Activité de l’épreuve] ouvre [!UICONTROL Détails de l’épreuve].](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
-      + [Modèles : impossible de sélectionner un modèle à partir des [!UICONTROL Modèles favoris]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [Filtres : impossible de partager un filtre d’un rapport sur un tableau de bord](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
       + [Projets : les statuts personnalisés du [!UICONTROL Groupe résidentiel] ne sont pas disponibles lors de la création d’un projet à partir d’un modèle.](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
       + [Épreuves : l’outil de mesure n’accepte pas les points décimaux.](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
-      + [Recherche : la recherche [!DNL Workfront] expire.](known-issues-workfront/wf-search-search-times-out.md)
-      + [Épreuves : impossible de changer de version d’épreuve lors de sa visualisation](known-issues-workfront/wf-proofs-cannot-switch-version.md)
-      + [Épreuves : la personne utilisatrice est désactivée du workflow de l’épreuve et le message « [!UICONTROL Accès non autorisé] » s’affiche lors de l’accès à l’épreuve.](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
       + [Documents : problèmes liés à la liste de documents](known-issues-workfront/wf-documents-list-missing-elements.md)
-      + [Épreuves : l’étape de l’épreuve ne se déclenche pas lorsque l’échéance de l’étape précédente est dépassée.](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)
       + [Documents : erreur 404 lors de l’accès au document lié par [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md)
       + [Documents : les options des [!UICONTROL Activités de vérification] débouchent sur la page de connexion.](known-issues-workfront/wf-documents-taken-to-login-screen.md)
-      + [Filtres : le filtre n’est pas appliqué lors de l’actualisation de la page.](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md)
       + [[!UICONTROL Équilibreur de charge de travail] : les heures ne s’ajustent pas pour prendre en compte les congés de l’utilisateur ou de l’utilisatrice.](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [[!UICONTROL Mises à jour] : impossible de consigner l’heure du jour en cours dans la zone [!UICONTROL Mises à jour]](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
       + [Documents : lorsqu’un document est déplacé vers un nouveau projet, les autorisations ne sont pas héritées.](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
       + [Équilibreur de charge de travail : résultats inexacts si plusieurs filtres sont utilisés simultanément.](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
-      + [Projets : un projet converti à partir d’un problème n’hérite pas des autorisations du portfolio ou du programme.](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
       + [Documents : erreur lors du chargement d’un fichier volumineux](known-issues-workfront/wf-documents-large-uploads-fail.md)
       + [Documents : impossible d’ajouter des documents depuis  [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
       + [Documents : les autorisations de document ne sont pas héritées lorsque le problème parent est converti en projet.](known-issues-workfront/wf-documents-permissions-not-inherited.md)
@@ -144,7 +128,6 @@ ht-degree: 89%
       + [[!UICONTROL Accueil] : problèmes au niveau du résumé de l’[!UICONTROL Accueil] dans des navigateurs autres que [!DNL Chrome]](known-issues-workfront/wf-home-summary-issues-when-not-using-chrome.md)
       + [[!UICONTROL Accueil] : l’option Nouvelle tâche indique des utilisateurs et des utilisatrices désactivés dans le champ [!UICONTROL Affecter à].](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md)
       + [Mises à jour : le nom de l’équipe n’apparaît pas dans @mention.](known-issues-workfront/wf-updates-team-name-not-in-mention.md)
-      + [Calendriers : problèmes liés au calendrier des [!UICONTROL Congés].](known-issues-workfront/wf-calendars-issue-time-off.md)
       + [Agile : incohérence dans les [!UICONTROL Points terminés] d’une itération](known-issues-workfront/wf-agile-discrepancy-in-completed-points.md)
       + [Notifications par e-mail : « [!UICONTROL Je suis affecté à un événement] » apparaît.](known-issues-workfront/wf-email-notif-im-assigned-to-issue-displaying.md)
       + [Notifications par e-mail : la personne utilisatrice n’est pas redirigée vers le fil de commentaires.](known-issues-workfront/wf-email-notif-user-not-directed-to-thread.md)
@@ -168,7 +151,6 @@ ht-degree: 89%
       + [Workfront Proof : les données de recherche ne sont pas toujours exactes](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
       + [Épreuves : les épreuves sont créées lentement dans l’environnement Aperçu](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
       + [[!DNL Workfront Proof] : erreur 500 lors de l’accès à [!DNL Workfront Proof] via l’API ou [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
-      + [[!DNL Workfront Proof] : la recherche ne renvoie aucun résultat.](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [[!DNL Workfront Proof] : les listes ne sont pas triées correctement.](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [[!DNL Workfront Proof] : la zone [!UICONTROL Rapports] n’est plus prise en charge.](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + [Épreuves : la personne utilisatrice ne reçoit pas d’e-mail lorsqu’elle est mentionnée dans un commentaire d’épreuve.](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
@@ -192,10 +174,6 @@ ht-degree: 89%
       + [[!DNL Workfront Fusion] : module de veille provoquant le blocage de scénarios](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
       + [[!DNL Workfront Fusion] : le scénario échoue en raison d’une erreur « [!UICONTROL read ECONNREET] ».](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
       + [[!DNL Workfront Fusion] : impossible de saisir la valeur dans  [!DNL Workfront]  > Filtre [!UICONTROL Événements de contrôle]](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
-      + [[!DNL Workfront Fusion] : erreur « [!UICONTROL impossible d’exécuter la MISE À JOUR] »](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
-      + [[!DNL Workfront Fusion] : les notifications par e-mail ne sont pas envoyées.](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
-      + [[!DNL Workfront Fusion] : les exécutions sont bloquées ou retardées.](known-issues-workfront-fusion/fusion-stuck-executions.md)
-      + [[!DNL Adobe Workfront Fusion] : erreurs de délai d’expiration dans Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md)
       + [[!DNL Workfront Fusion] : [!DNL Workfront] >[!UICONTROL Module d’appel d’API personnalisé] renvoyant des erreurs 404 ou 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion] : erreur « Échec de vérification de la connexion »](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion] : le module  [!DNL Fusion] renvoie une erreur 404 sans autre information.](known-issues-workfront-fusion/fusion-404-error-no-description.md)
