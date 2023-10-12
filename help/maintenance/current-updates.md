@@ -3,9 +3,9 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 6d93e05a72b92c41865f14c0991938685c8d8d58
+source-git-commit: e15a384697a60f4f6b909ebb44749cf554e6f9c4
 workflow-type: tm+mt
-source-wordcount: '6044'
+source-wordcount: '6083'
 ht-degree: 95%
 
 ---
@@ -22,7 +22,13 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 ## Mises à jour d’octobre 2023
 
-+++**Mise à jour de maintenance (planifiée) le 12 octobre 2023**
++++**Mise à jour de maintenance le 12 octobre 2023**
+
+**Workflows supprimés pour les comptes qui ne les utilisent pas**
+
+_Panoramas_
+
+Pour les comptes qui n’ont jamais créé de workflow dans l’application Panoramas, la zone Flux de travail a été supprimée du tableau de bord Panoramas. Les comptes qui utilisent des workflows y ont toujours accès.
 
 **Les champs calculés ne conservent pas de valeur lorsque le problème est converti en tâche**
 
