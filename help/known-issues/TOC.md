@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: c4656bcfbaa69fffae814aa83c2212223f032778
+source-git-commit: 7d6e95c610ea991695e553b065f3b0847f4125e0
 workflow-type: tm+mt
-source-wordcount: '1328'
-ht-degree: 88%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 88%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Bons à tirer : [!UICONTROL Activité BAT] n’ouvre pas](known-issues-workfront/wf-proof-activities-tab-not-working.md)
       + [Tâches : [!UICONTROL Heures planifiées] sont réaffectés lorsqu’un utilisateur supplémentaire est affecté à une tâche.](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md)
       + [Fiches horaires : la tâche personnelle apparaît sur la feuille de temps](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md)
       + [Bons à tirer : impossible de générer le BAT](known-issues-workfront/wf-proofs-cannot-generate-proof.md)
