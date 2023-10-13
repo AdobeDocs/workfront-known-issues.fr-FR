@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 392bc185c5549300b05299751af260df1d161009
+source-git-commit: f3b70e2fa79597e9d9c9dea463a7ca19af0a3020
 workflow-type: tm+mt
-source-wordcount: '731'
-ht-degree: 84%
+source-wordcount: '768'
+ht-degree: 80%
 
 ---
 
@@ -25,6 +25,8 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront]: la marque n’est pas appliquée](known-issues-workfront/wf-workfront-branding-not-applied.md) | 13 octobre 2023 |
+| [Panoramas : mode Panorama dans [!UICONTROL Tâche] la zone du projet ne se charge pas.](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md) | 13 octobre 2023 |
 | [Bons à tirer : les bons à tirer terminés restent sur [!UICONTROL En attente de mon approbation] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 9 octobre 2023 |
 | [Bons à tirer : impossible de créer une version d’un BAT](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 9 octobre 2023 |
 | [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] module](known-issues-workfront-fusion/fusion-send-invite-error.md) | 5 octobre 2023 |
@@ -41,6 +43,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Notifications : les utilisateurs ne sont pas informés des réponses sur un thread de commentaire](known-issues-workfront/wf-notifications-reply-notif-not-received.md) | 13 octobre 2023 |
+| [Bons à tirer : [!UICONTROL Activité BAT] n’ouvre pas](known-issues-workfront/wf-proof-activities-tab-not-working.md) | 13 octobre 2023 |
 | [Tâches : [!UICONTROL Heures planifiées] sont réaffectés lorsqu’un utilisateur supplémentaire est affecté à une tâche.](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md) | 12 octobre 2023 |
 | [[!UICONTROL Équilibreur de charge de travail] : le [!UICONTROL Nombre total d’heures] ne correspond pas à la somme du [!UICONTROL Nombre d’heures prévues]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md). | 12 octobre 2023 |
 | [Connexion : une erreur s’affiche lors de la réinitialisation du mot de passe alors que l’action a réussi.](known-issues-workfront/wf-login-whoops-resetting-password.md) | 12 octobre 2023 |

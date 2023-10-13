@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 7d6e95c610ea991695e553b065f3b0847f4125e0
+source-git-commit: f3b70e2fa79597e9d9c9dea463a7ca19af0a3020
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1361'
+ht-degree: 86%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Notifications : les utilisateurs ne sont pas informés des réponses sur un thread de commentaire](known-issues-workfront/wf-notifications-reply-notif-not-received.md)
+      + [[!DNL Workfront]: la marque n’est pas appliquée](known-issues-workfront/wf-workfront-branding-not-applied.md)
+      + [Panoramas : mode Panorama dans [!UICONTROL Tâche] la zone du projet ne se charge pas.](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md)
       + [Bons à tirer : [!UICONTROL Activité BAT] n’ouvre pas](known-issues-workfront/wf-proof-activities-tab-not-working.md)
       + [Tâches : [!UICONTROL Heures planifiées] sont réaffectés lorsqu’un utilisateur supplémentaire est affecté à une tâche.](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md)
       + [Fiches horaires : la tâche personnelle apparaît sur la feuille de temps](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md)
