@@ -4,22 +4,20 @@ description: Lorsqu’un utilisateur tente de générer un BAT, le BAT n’est p
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 9fcbbd6d-0f63-451f-ac5c-54eb7ce649b3
-source-git-commit: 392bc185c5549300b05299751af260df1d161009
+source-git-commit: bf9a5b15db59d8b9ed59fedc8233272c7385bb81
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 17%
+source-wordcount: '91'
+ht-degree: 8%
 
 ---
 
 # Bons à tirer : impossible de générer le BAT
 
->[!NOTE]
->
->Ce problème a été résolu le 12 octobre 2023.
-
 Lorsqu’un utilisateur tente de générer un BAT, le BAT n’est pas créé et l’utilisateur voit l’erreur suivante :
 
 &quot;[!UICONTROL Erreur lors de la création de l&#39;épreuve]&quot;
+
+Cela se produit lorsque le paramètre de niveau d’accès de l’utilisateur[!UICONTROL  Afficher les coordonnées] est défini sur Désactivé.
 
 **Solution de contournement**
 

@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f3b70e2fa79597e9d9c9dea463a7ca19af0a3020
+source-git-commit: bf9a5b15db59d8b9ed59fedc8233272c7385bb81
 workflow-type: tm+mt
-source-wordcount: '768'
-ht-degree: 80%
+source-wordcount: '773'
+ht-degree: 79%
 
 ---
 
@@ -25,6 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bons à tirer : impossible de générer le BAT](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 16 octobre 2023 |
 | [[!DNL Workfront]: la marque n’est pas appliquée](known-issues-workfront/wf-workfront-branding-not-applied.md) | 13 octobre 2023 |
 | [Panoramas : mode Panorama dans [!UICONTROL Tâche] la zone du projet ne se charge pas.](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md) | 13 octobre 2023 |
 | [Bons à tirer : les bons à tirer terminés restent sur [!UICONTROL En attente de mon approbation] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 9 octobre 2023 |
