@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e15a384697a60f4f6b909ebb44749cf554e6f9c4
+source-git-commit: c4f48d5eee70b0cdcd913466f4ca25b1bc75d5ae
 workflow-type: tm+mt
-source-wordcount: '6083'
-ht-degree: 95%
+source-wordcount: '6211'
+ht-degree: 93%
 
 ---
 
@@ -21,6 +21,30 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2023.
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates).
 
 ## Mises à jour d’octobre 2023
+
++++**Mise à jour de maintenance (planifiée) le 19 octobre 2023**
+
+Les utilisateurs ne sont pas informés des réponses sur un fil de commentaires
+
+_Notifications_
+
+Lorsqu’un utilisateur répond à un commentaire, les autres utilisateurs qui doivent recevoir des notifications pour la réponse ne les reçoivent pas. Certains utilisateurs peuvent recevoir la notification, contrairement à d’autres.
+
+**Un commentaire vide supplémentaire lors de l&#39;ajout d&#39;un commentaire sur un BAT**
+
+_BAT_
+
+Lorsqu’un utilisateur ou une utilisatrice fait un commentaire sur une épreuve, celle-ci produit également un autre commentaire, qui est vide.
+
+Cela a été signalé sur les épreuves de vidéos.
+
+**[!UICONTROL Heures planifiées] sont réaffectés lorsqu’un utilisateur supplémentaire est affecté à une tâche.**
+
+_Tâches_
+
+Lorsqu’un utilisateur est affecté à une tâche qui a [!UICONTROL Heures planifiées] affecté à d’autres personnes désignées sur la tâche, le [!UICONTROL Heures planifiées] sont distribués de manière égale à tous les affectés à la tâche.
+
++++
 
 +++**Mise à jour de maintenance le 12 octobre 2023**
 
