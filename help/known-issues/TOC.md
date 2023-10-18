@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: f3b70e2fa79597e9d9c9dea463a7ca19af0a3020
+source-git-commit: c176d4192b0248250cf1afa6e9c09ba88ac12942
 workflow-type: tm+mt
-source-wordcount: '1361'
-ht-degree: 86%
+source-wordcount: '1385'
+ht-degree: 84%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 86%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Mises à jour : &quot;[!UICONTROL Supprimé]&quot; s’affiche en tant que nom d’utilisateur dans les mises à jour système lorsque le problème est converti en tâche](known-issues-workfront/wf-updates-deleted-requested-team.md)
+      + [Connexion : la page de connexion redirige vers la page d’entrée de déconnexion.](known-issues-workfront/wf-login-redirects-to-logout-page.md)
       + [Notifications : les utilisateurs ne sont pas informés des réponses sur un thread de commentaire](known-issues-workfront/wf-notifications-reply-notif-not-received.md)
       + [[!DNL Workfront]: la marque n’est pas appliquée](known-issues-workfront/wf-workfront-branding-not-applied.md)
       + [Panoramas : mode Panorama dans [!UICONTROL Tâche] la zone du projet ne se charge pas.](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md)
