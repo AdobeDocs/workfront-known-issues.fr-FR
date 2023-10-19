@@ -4,9 +4,9 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: bbb284cd791d40f1e98ebd5827d3ee7abce261da
+source-git-commit: aabbd74ae558555e79a3cc1bc96583878cd413b3
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '360'
 ht-degree: 87%
 
 ---
@@ -27,9 +27,6 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 | -----------------------------------------------------------------| ----------------- |
 | [Documents : le bouton Partager ne fonctionne pas](known-issues-workfront/wf-documents-share-button-not-working.md) | 19 octobre 2023 |
 | [Documents : &quot;[!UICONTROL Envoyer à]L’option &quot; entraîne une page vierge et un message d’erreur.](known-issues-workfront/wf-documents-sent-to-goes-blank.md) | 19 octobre 2023 |
-| [Bons à tirer : les bons à tirer terminés restent sur [!UICONTROL En attente de mon approbation] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 9 octobre 2023 |
-| [Bons à tirer : impossible de créer une version d’un BAT](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 9 octobre 2023 |
-| [Bons à tirer : erreur lors du partage du BAT à partir du lien de l&#39;email](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 3 octobre 2023 |
 
 {style="table-layout:auto"}
 
@@ -39,7 +36,10 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| Aucun |  |
+| [Bons à tirer : les bons à tirer terminés restent sur [!UICONTROL En attente de mon approbation] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 19 octobre 2023 |
+| [Bons à tirer : impossible de générer le BAT](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19 octobre 2023 |
+| [Bons à tirer : erreur lors du partage du BAT à partir du lien de l&#39;email](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 19 octobre 2023 |
+| [Bons à tirer : impossible de créer une version d’un BAT](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 19 octobre 2023 |
 
 {style="table-layout:auto"}
 

@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: bbb284cd791d40f1e98ebd5827d3ee7abce261da
+source-git-commit: 43f1e13d83c1dd56f38e889679455d57677bcfb0
 workflow-type: tm+mt
-source-wordcount: '753'
-ht-degree: 80%
+source-wordcount: '717'
+ht-degree: 85%
 
 ---
 
@@ -27,14 +27,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 | -----------------------------------------------------------------| ----------------- |
 | [Documents : le bouton Partager ne fonctionne pas](known-issues-workfront/wf-documents-share-button-not-working.md) | 19 octobre 2023 |
 | [Documents : &quot;[!UICONTROL Envoyer à]L’option &quot; entraîne une page vierge et un message d’erreur.](known-issues-workfront/wf-documents-sent-to-goes-blank.md) | 19 octobre 2023 |
-| [Bons à tirer : impossible de générer le BAT](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 16 octobre 2023 |
 | [[!DNL Workfront]: la marque n’est pas appliquée](known-issues-workfront/wf-workfront-branding-not-applied.md) | 13 octobre 2023 |
-| [Panoramas : mode Panorama dans [!UICONTROL Tâche] la zone du projet ne se charge pas.](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md) | 13 octobre 2023 |
-| [Bons à tirer : les bons à tirer terminés restent sur [!UICONTROL En attente de mon approbation] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 9 octobre 2023 |
-| [Bons à tirer : impossible de créer une version d’un BAT](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 9 octobre 2023 |
-| [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] module](known-issues-workfront-fusion/fusion-send-invite-error.md) | 5 octobre 2023 |
-| [Bons à tirer : erreur lors du partage du BAT à partir du lien de l&#39;email](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 3 octobre 2023 |
-| [Panoramas : les cartes n’affichent pas le nombre correct d’éléments de liste de contrôle](known-issues-workfront/wf-boards-checklist-item-count.md) | 29 septembre 2023 |
 | [Partage : erreur lors du partage d’un objet](known-issues-workfront/wf-sharing-user-cannot-share-object.md) | 27 septembre 2023 |
 | [[!UICONTROL Accueil] : le widget [!UICONTROL Requêtes] n’affiche pas toutes les équipes affectées.](known-issues-workfront/wf-home-request-shows-one-team.md) | 7 septembre 2023 |
 
@@ -45,10 +38,13 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
-| -----------------------------------------------------------------| ----------------- |
+|----------------------------------| ----------------- |
+| [Bons à tirer : les bons à tirer terminés restent sur [!UICONTROL En attente de mon approbation] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 19 octobre 2023 |
+| [Bons à tirer : impossible de générer le BAT](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19 octobre 2023 |
+| [Bons à tirer : erreur lors du partage du BAT à partir du lien de l&#39;email](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 19 octobre 2023 |
+| [Bons à tirer : impossible de créer une version d’un BAT](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 19 octobre 2023 |
 | [Connexion : la page de connexion redirige vers la page d’entrée de déconnexion.](known-issues-workfront/wf-login-redirects-to-logout-page.md) | 18 octobre 2023 |
 | [[!UICONTROL Équilibreur de charge de travail] : le [!UICONTROL Nombre total d’heures] ne correspond pas à la somme du [!UICONTROL Nombre d’heures prévues]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md). | 12 octobre 2023 |
-| [Connexion : une erreur s’affiche lors de la réinitialisation du mot de passe alors que l’action a réussi.](known-issues-workfront/wf-login-whoops-resetting-password.md) | 12 octobre 2023 |
 | [Rapports : les mises à jour privées s’affichent dans les champs d’expression de valeur](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 12 octobre 2023 |
 | [Fiches horaires : la tâche personnelle apparaît sur la feuille de temps](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 10 octobre 2023 |
 | [Équilibreur de charge de travail : les modifications horaires manuelles ne sont pas précises après actualisation de la page.](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 3 octobre 2023 |

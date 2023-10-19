@@ -1,17 +1,21 @@
 ---
-title: "Fusion Workfront : erreur lors de l’envoi d’une invitation avec Workfront > module d’actions diverses"
-description: "Lorsqu’un scénario de fusion exécute une [!DNL Workfront] > [!UICONTROL Actions diverses] qui est défini sur l’action sendInvitationEmail, le module renvoie une erreur."
+title: "Fusion Workfront : erreur lors de l’envoi d’une invitation avec Workfront &gt; module d’actions diverses"
+description: Lorsqu’un scénario de fusion exécute une [!DNL Workfront] &gt; [!UICONTROL Actions diverses] qui est défini sur l’action sendInvitationEmail , le module renvoie une erreur.
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: 3148dfe741ca27262b947e3123fd7fb2df1b3556
+exl-id: 67147ca0-1f40-4688-9164-ba492aa78b13
+source-git-commit: aabbd74ae558555e79a3cc1bc96583878cd413b3
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 5%
+source-wordcount: '80'
+ht-degree: 11%
 
 ---
 
-
 # [!DNL Workfront Fusion]: erreur lors de l’envoi d’une invitation avec [!DNL Workfront] > [!UICONTROL Actions diverses] module
+
+>[!NOTE]
+>
+>Ce problème a été résolu.
 
 Lorsqu’une [!DNL Fusion] un scénario exécute une [!DNL Workfront] > [!UICONTROL Actions diverses] qui est défini sur la variable `[!UICONTROL sendInvitationEmail]` , le module renvoie l’erreur suivante :
 
