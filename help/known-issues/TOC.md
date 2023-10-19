@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: c176d4192b0248250cf1afa6e9c09ba88ac12942
+source-git-commit: bbb284cd791d40f1e98ebd5827d3ee7abce261da
 workflow-type: tm+mt
-source-wordcount: '1385'
-ht-degree: 84%
+source-wordcount: '1401'
+ht-degree: 83%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 84%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Documents : le bouton Partager ne fonctionne pas](known-issues-workfront/wf-documents-share-button-not-working.md)
+      + [Documents : &quot;[!UICONTROL Envoyer à]L’option &quot; entraîne une page vierge et un message d’erreur.](known-issues-workfront/wf-documents-sent-to-goes-blank.md)
       + [Mises à jour : &quot;[!UICONTROL Supprimé]&quot; s’affiche en tant que nom d’utilisateur dans les mises à jour système lorsque le problème est converti en tâche](known-issues-workfront/wf-updates-deleted-requested-team.md)
       + [Connexion : la page de connexion redirige vers la page d’entrée de déconnexion.](known-issues-workfront/wf-login-redirects-to-logout-page.md)
       + [Notifications : les utilisateurs ne sont pas informés des réponses sur un thread de commentaire](known-issues-workfront/wf-notifications-reply-notif-not-received.md)
