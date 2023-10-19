@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: c4f48d5eee70b0cdcd913466f4ca25b1bc75d5ae
+source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
 workflow-type: tm+mt
-source-wordcount: '6211'
-ht-degree: 93%
+source-wordcount: '6298'
+ht-degree: 92%
 
 ---
 
@@ -38,11 +38,23 @@ Lorsqu’un utilisateur ou une utilisatrice fait un commentaire sur une épreuve
 
 Cela a été signalé sur les épreuves de vidéos.
 
+**[!UICONTROL Activité BAT] n’ouvre pas**
+
+_BAT_
+
+Lorsqu’un utilisateur consulte un BAT et clique sur la variable [!UICONTROL Activité BAT] , l’onglet renvoie l’utilisateur à la fonction [!UICONTROL Détails du BAT] .
+
 **[!UICONTROL Heures planifiées] sont réaffectés lorsqu’un utilisateur supplémentaire est affecté à une tâche.**
 
 _Tâches_
 
 Lorsqu’un utilisateur est affecté à une tâche qui a [!UICONTROL Heures planifiées] affecté à d’autres personnes désignées sur la tâche, le [!UICONTROL Heures planifiées] sont distribués de manière égale à tous les affectés à la tâche.
+
+**&quot;[!UICONTROL Supprimé]&quot; s’affiche en tant que nom d’utilisateur dans les mises à jour système lorsque le problème est converti en tâche**
+
+_Mises à jour_
+
+Lorsqu’un utilisateur connecté en tant qu’autre utilisateur convertit un problème en une tâche et qu’il est assigné à une équipe, les mises à jour du système affichent &quot;[!UICONTROL Supprimé]&quot; comme utilisateur qui a demandé à l’équipe de travailler sur la tâche.
 
 +++
 
