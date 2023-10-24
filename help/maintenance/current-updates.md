@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
+source-git-commit: 19307601e90dec8fc442051f60b600e8e2f58ba1
 workflow-type: tm+mt
-source-wordcount: '6298'
-ht-degree: 92%
+source-wordcount: '6454'
+ht-degree: 90%
 
 ---
 
@@ -22,7 +22,34 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 ## Mises à jour d’octobre 2023
 
-+++**Mise à jour de maintenance (planifiée) le 19 octobre 2023**
++++**Mise à jour de maintenance (prévue) le 26 octobre 2023**
+
+**La recherche ne fonctionne pas**
+
+_Panoramas_
+
+Lorsqu’un utilisateur tente de rechercher des panoramas, la recherche ne renvoie pas toutes les cartes qui répondent aux critères de recherche.
+
+**Impossible d’afficher le BAT interactif dans la visionneuse web**
+
+_BAT_
+
+Lorsqu’un utilisateur tente d’afficher un BAT dans la visionneuse de BAT web, le BAT ne s’affiche pas, et l’utilisateur voit l’erreur suivante :
+
+&quot;[!UICONTROL Paramètre de requête ou valeur de cookie Key-Pair-Id manquant]&quot;
+
+
+**L’utilisateur est dupliqué lors du partage d’une requête**
+
+_Demandes_
+
+Lors du partage d’une requête, si le niveau d’accès d’un utilisateur avec lequel la requête est partagée est modifié, l’utilisateur situé juste au-dessus de cet utilisateur dans la liste devient cet utilisateur.
+
+Par exemple, si la requête est partagée avec l’utilisateur A et l’utilisateur B et que l’accès de l’utilisateur B est modifié, l’utilisateur A passe à l’utilisateur B et la liste contient désormais deux User B. En outre, seul l’accès de l’utilisateur B supérieur a été modifié.
+
++++
+
++++**Mise à jour de maintenance le 19 octobre 2023**
 
 Les utilisateurs ne sont pas informés des réponses sur un fil de commentaires
 
