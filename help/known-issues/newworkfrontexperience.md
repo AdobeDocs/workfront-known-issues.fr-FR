@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 4f6b2f8b2cd2bb5dee2197dc088b1e89f27fddd3
+source-git-commit: e6604e6f3c16a4d1fd5fcc207020c58752a966d3
 workflow-type: tm+mt
-source-wordcount: '749'
-ht-degree: 81%
+source-wordcount: '767'
+ht-degree: 79%
 
 ---
 
@@ -43,6 +43,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
+| [Tâches : &quot;[!UICONTROL Oups]&quot; erreur dans l’en-tête de la tâche](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 25 octobre 2023 |
+| [Connexion : message d’erreur lors de la connexion](known-issues-workfront/wf-login-error-when-logging-in.md) | 25 octobre 2023 |
 | [Bons à tirer : les bons à tirer terminés restent sur [!UICONTROL En attente de mon approbation] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 19 octobre 2023 |
 | [Bons à tirer : impossible de générer le BAT](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19 octobre 2023 |
 | [Bons à tirer : erreur lors du partage du BAT à partir du lien de l&#39;email](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 19 octobre 2023 |
@@ -64,6 +66,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Proof]: impossible de développer le workflow](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25 octobre 2023 |
 | [[!UICONTROL Accueil] : le widget [!UICONTROL Mentions] du nouvel [!UICONTROL Accueil] ne se limite pas aux messages dans lesquels la personne est mentionnée](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 25 septembre 2023 |
 | [[!UICONTROL Accueil] : l’aperçu du nouveau widget [!UICONTROL Accueil] n’affiche pas le nom correct de l’objet.](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 7 septembre 2023 |
 | [Modèles de disposition : les modèles de disposition provoquent des incohérences dans les rapports.](known-issues-workfront/wf-layout-templates-classic.md) | 21 août 2023 |

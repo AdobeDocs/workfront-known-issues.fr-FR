@@ -4,10 +4,10 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: aabbd74ae558555e79a3cc1bc96583878cd413b3
+source-git-commit: e6604e6f3c16a4d1fd5fcc207020c58752a966d3
 workflow-type: tm+mt
-source-wordcount: '360'
-ht-degree: 87%
+source-wordcount: '364'
+ht-degree: 86%
 
 ---
 
@@ -49,6 +49,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Proof]: impossible de développer le workflow](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25 octobre 2023 |
 | [BAT Workfront : les données du tableau de bord ne sont pas toujours exactes](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 19 septembre 2023 |
 | [BAT Workfront : les données de recherche ne sont pas toujours exactes](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md) | 19 septembre 2023 |
 | [Épreuves : les épreuves n’apparaissent pas comme approuvées dans les rapports.](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 3 août 2023 |

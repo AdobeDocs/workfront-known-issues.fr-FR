@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 4f6b2f8b2cd2bb5dee2197dc088b1e89f27fddd3
+source-git-commit: e6604e6f3c16a4d1fd5fcc207020c58752a966d3
 workflow-type: tm+mt
-source-wordcount: '1429'
-ht-degree: 82%
+source-wordcount: '1444'
+ht-degree: 81%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 82%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Tâches : &quot;[!UICONTROL Oups]&quot; erreur dans l’en-tête de la tâche](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md)
+      + [Connexion : message d’erreur lors de la connexion](known-issues-workfront/wf-login-error-when-logging-in.md)
       + [Panoramas : la recherche ne fonctionne pas](known-issues-workfront/wf-boards-search-not-working.md)
       + [Panoramas : les cartes attendues ne s’affichent pas sur le panorama](known-issues-workfront/wf-boards-expected-cards-not-displaying.md)
       + [Accueil : projets et tâches ne se chargeant pas dans Accueil](known-issues-workfront/wf-home-my-projects-tasks-widget.md)
@@ -158,6 +160,7 @@ ht-degree: 82%
 + [!DNL Workfront Proof] {#proof}
    + [Problèmes connus dans  [!DNL Workfront Proof]](workfrontproof.md)
    + Problèmes actifs dans [!DNL Workfront Proof] {#proof-current}
+      + [[!DNL Workfront Proof]: impossible de développer le workflow](known-issues-workfront-proof/proof-cannot-view-workflow.md)
       + [Workfront Proof : les données du tableau de bord ne sont pas toujours exactes](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
       + [Workfront Proof : les données de recherche ne sont pas toujours exactes](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
       + [Épreuves : les épreuves sont créées lentement dans l’environnement Aperçu](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
