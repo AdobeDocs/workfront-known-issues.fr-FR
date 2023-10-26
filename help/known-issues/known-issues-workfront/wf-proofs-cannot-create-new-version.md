@@ -1,17 +1,21 @@
 ---
-title: "Bons à tirer : impossible de créer une nouvelle version d’un BAT"
-description: "Lorsqu’un utilisateur tente de créer une version d’un BAT, la nouvelle version n’est pas créée et un message d’erreur s’affiche."
+title: '''Bons à tirer : impossible de créer une nouvelle version d''un BAT'''
+description: Lorsqu’un utilisateur tente de créer une version d’un BAT, la nouvelle version n’est pas créée et un message d’erreur s’affiche.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 23be4edfa0efdf1fb4f469f762723187f5e4c08d
+exl-id: 23b450da-f0ba-44da-8188-dfd76eb7a402
+source-git-commit: da113ea4babc7eaeadc80f73aabd45d9482ad620
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 9%
+source-wordcount: '91'
+ht-degree: 15%
 
 ---
 
-
 # Bons à tirer : impossible de créer une version d’un BAT
+
+>[!NOTE]
+>
+>Ce problème a été résolu le 26 octobre 2023.
 
 Lorsqu’un utilisateur tente de créer une nouvelle version d’un BAT, la nouvelle version n’est pas créée et l’utilisateur voit le message d’erreur suivant :
 

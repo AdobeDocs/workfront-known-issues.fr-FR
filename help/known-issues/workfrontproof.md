@@ -4,10 +4,10 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: e6604e6f3c16a4d1fd5fcc207020c58752a966d3
+source-git-commit: da113ea4babc7eaeadc80f73aabd45d9482ad620
 workflow-type: tm+mt
-source-wordcount: '364'
-ht-degree: 86%
+source-wordcount: '355'
+ht-degree: 88%
 
 ---
 
@@ -39,7 +39,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [Bons à tirer : les bons à tirer terminés restent sur [!UICONTROL En attente de mon approbation] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 19 octobre 2023 |
 | [Bons à tirer : impossible de générer le BAT](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19 octobre 2023 |
 | [Bons à tirer : erreur lors du partage du BAT à partir du lien de l&#39;email](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 19 octobre 2023 |
-| [Bons à tirer : impossible de créer une version d’un BAT](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 19 octobre 2023 |
 
 {style="table-layout:auto"}
 

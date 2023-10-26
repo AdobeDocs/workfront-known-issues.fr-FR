@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 19307601e90dec8fc442051f60b600e8e2f58ba1
+source-git-commit: da113ea4babc7eaeadc80f73aabd45d9482ad620
 workflow-type: tm+mt
-source-wordcount: '6454'
-ht-degree: 90%
+source-wordcount: '6537'
+ht-degree: 89%
 
 ---
 
@@ -38,6 +38,13 @@ Lorsqu’un utilisateur tente d’afficher un BAT dans la visionneuse de BAT web
 
 &quot;[!UICONTROL Paramètre de requête ou valeur de cookie Key-Pair-Id manquant]&quot;
 
+**Impossible de créer une version d’un BAT**
+
+_BAT_
+
+Lorsqu’un utilisateur tente de créer une nouvelle version d’un BAT, la nouvelle version n’est pas créée et l’utilisateur voit le message d’erreur suivant :
+
+&quot;[!UICONTROL Erreur lors de la création de l&#39;épreuve]&quot;
 
 **L’utilisateur est dupliqué lors du partage d’une requête**
 
@@ -46,6 +53,14 @@ _Demandes_
 Lors du partage d’une requête, si le niveau d’accès d’un utilisateur avec lequel la requête est partagée est modifié, l’utilisateur situé juste au-dessus de cet utilisateur dans la liste devient cet utilisateur.
 
 Par exemple, si la requête est partagée avec l’utilisateur A et l’utilisateur B et que l’accès de l’utilisateur B est modifié, l’utilisateur A passe à l’utilisateur B et la liste contient désormais deux User B. En outre, seul l’accès de l’utilisateur B supérieur a été modifié.
+
+**&quot;[!UICONTROL Oups]&quot; erreur dans l’en-tête de la tâche**
+
+_Tâches_
+
+Lorsqu’un utilisateur affiche une tâche, l’en-tête de la tâche ne contient aucune information. À la place, l’utilisateur voit le message d’erreur suivant :
+
+« [!UICONTROL Oups ! Un problème est survenu. Contactez Workfront pour nous aider à comprendre l’erreur et y remédier.] »
 
 +++
 
