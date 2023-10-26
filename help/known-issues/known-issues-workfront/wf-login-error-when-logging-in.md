@@ -3,15 +3,19 @@ title: "Connexion : message d’erreur lors de la connexion"
 description: "Lorsqu’un utilisateur tente de se connecter à [!DNL Workfront], un message d’erreur s’affiche."
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: e6604e6f3c16a4d1fd5fcc207020c58752a966d3
+source-git-commit: 97630935e3291c31114232cdd196ee0041a00609
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 5%
+source-wordcount: '76'
+ht-degree: 13%
 
 ---
 
 
 # Connexion : message d’erreur lors de la connexion
+
+>[!NOTE]
+>
+>Ce problème a été résolu le 26 octobre 2023.
 
 Lorsqu’un utilisateur tente de se connecter à [!DNL Workfront], le message d’erreur suivant s’affiche :
 
