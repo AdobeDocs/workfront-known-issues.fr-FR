@@ -2,9 +2,9 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: e24f394c40d48f2aa5b71c8f00c461a1537e4ebe
+source-git-commit: 9e32c28c4428077057a194a2015ea1613a9656a4
 workflow-type: tm+mt
-source-wordcount: '1450'
+source-wordcount: '1455'
 ht-degree: 80%
 
 ---
@@ -160,6 +160,7 @@ ht-degree: 80%
 + [!DNL Workfront Proof] {#proof}
    + [Problèmes connus dans  [!DNL Workfront Proof]](workfrontproof.md)
    + Problèmes actifs dans [!DNL Workfront Proof] {#proof-current}
+      + [[!DNL Workfront Proof]: horodatage incorrect activé [!UICONTROL Résumé du BAT]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!UICONTROL Bon à tirer Workfront]: emails et notifications retardés](known-issues-workfront-proof/proof-delayed-notification.md)
       + [[!DNL Workfront Proof]: impossible de développer le workflow](known-issues-workfront-proof/proof-cannot-view-workflow.md)
       + [Workfront Proof : les données du tableau de bord ne sont pas toujours exactes](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
