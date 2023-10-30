@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9e32c28c4428077057a194a2015ea1613a9656a4
+source-git-commit: d08d0daaf949f45c829d72811fa46535f1263638
 workflow-type: tm+mt
-source-wordcount: '1455'
-ht-degree: 80%
+source-wordcount: '1484'
+ht-degree: 78%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 80%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Requêtes : devise personnalisée incorrecte affichée sur la page Nouvelle requête](known-issues-workfront/wf-requests-custom-currency.md)
+      + [Rapports : les heures budgétisées dans le rapport d’utilisation ne correspondent pas aux heures budgétisées signalées par le biais de l’API](known-issues-workfront/wf-reports-incorrect-rpbghr.md)
+      + [Tableaux de bord : l’utilisateur ne peut pas accéder à [!UICONTROL Tableaux de bord de canevas]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md)
       + [Tâches : &quot;[!UICONTROL Oups]&quot; erreur dans l’en-tête de la tâche](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md)
       + [Connexion : message d’erreur lors de la connexion](known-issues-workfront/wf-login-error-when-logging-in.md)
       + [Panoramas : la recherche ne fonctionne pas](known-issues-workfront/wf-boards-search-not-working.md)

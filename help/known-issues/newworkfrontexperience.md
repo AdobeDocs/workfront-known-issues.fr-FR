@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9e32c28c4428077057a194a2015ea1613a9656a4
+source-git-commit: d08d0daaf949f45c829d72811fa46535f1263638
 workflow-type: tm+mt
-source-wordcount: '759'
-ht-degree: 80%
+source-wordcount: '791'
+ht-degree: 76%
 
 ---
 
@@ -39,6 +39,9 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
+| [Requêtes : devise personnalisée incorrecte affichée sur la page Nouvelle requête](known-issues-workfront/wf-requests-custom-currency.md) | 30 octobre 2023 |
+| [Rapports : les heures budgétisées dans le rapport d’utilisation ne correspondent pas aux heures budgétisées signalées par le biais de l’API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 30 octobre 2023 |
+| [Tableaux de bord : l’utilisateur ne peut pas accéder à [!UICONTROL Tableaux de bord de canevas]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md) | 30 octobre 2023 |
 | [[!DNL Workfront Proof]: horodatage incorrect activé [!UICONTROL Résumé du BAT]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 27 octobre 2023 |
 | [Bons à tirer : erreur lors du partage du BAT à partir du lien de l&#39;email](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 octobre 2023 |
 | [Documents : le bouton Partager ne fonctionne pas](known-issues-workfront/wf-documents-share-button-not-working.md) | 26 octobre 2023 |
