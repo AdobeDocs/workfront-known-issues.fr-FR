@@ -2,9 +2,9 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: d08d0daaf949f45c829d72811fa46535f1263638
+source-git-commit: fa4fbd97d128930cce0698f789538854a5f9a866
 workflow-type: tm+mt
-source-wordcount: '1484'
+source-wordcount: '1490'
 ht-degree: 78%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 78%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Équilibreur de charge de travail]: [!UICONTROL Équilibreur de charge de travail] charge lentement](known-issues-workfront/wf-workload-balancer-loads-slowly.md)
       + [Requêtes : devise personnalisée incorrecte affichée sur la page Nouvelle requête](known-issues-workfront/wf-requests-custom-currency.md)
       + [Rapports : les heures budgétisées dans le rapport d’utilisation ne correspondent pas aux heures budgétisées signalées par le biais de l’API](known-issues-workfront/wf-reports-incorrect-rpbghr.md)
       + [Tableaux de bord : l’utilisateur ne peut pas accéder à [!UICONTROL Tableaux de bord de canevas]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md)

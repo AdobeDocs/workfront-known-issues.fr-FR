@@ -4,9 +4,9 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d08d0daaf949f45c829d72811fa46535f1263638
+source-git-commit: fa4fbd97d128930cce0698f789538854a5f9a866
 workflow-type: tm+mt
-source-wordcount: '791'
+source-wordcount: '798'
 ht-degree: 76%
 
 ---
@@ -39,6 +39,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
+| [[!UICONTROL Équilibreur de charge de travail]: [!UICONTROL Équilibreur de charge de travail] charge lentement](known-issues-workfront/wf-workload-balancer-loads-slowly.md) | 31 octobre 2023 |
 | [Requêtes : devise personnalisée incorrecte affichée sur la page Nouvelle requête](known-issues-workfront/wf-requests-custom-currency.md) | 30 octobre 2023 |
 | [Rapports : les heures budgétisées dans le rapport d’utilisation ne correspondent pas aux heures budgétisées signalées par le biais de l’API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 30 octobre 2023 |
 | [Tableaux de bord : l’utilisateur ne peut pas accéder à [!UICONTROL Tableaux de bord de canevas]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md) | 30 octobre 2023 |
