@@ -3,7 +3,7 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 130c3555bab741a58b06c81a5324b0103756caab
+source-git-commit: 7f35ea55ec3088bc138da2615ebc61c658e1def7
 workflow-type: tm+mt
 source-wordcount: '6638'
 ht-degree: 89%
@@ -24,11 +24,11 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 +++**(Planifiée) Mise à jour de maintenance le 2 novembre 2023**
 
-**Les mises à jour privées s’affichent dans les champs d’expression valides **
+**Les mises à jour privées s’affichent dans les champs d’expression de valeur**
+
 _Rapports_
 
 Lorsqu’un champ de rapport contient une expression de valeur qui fait référence à une mise à jour privée, les utilisateurs qui ne sont pas inclus dans la mise à jour privée peuvent la voir dans le rapport.
-
 
 **L’utilisateur affiche une capacité surchargée en raison d’une capacité inexacte.**
 
