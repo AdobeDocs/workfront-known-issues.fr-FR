@@ -3,9 +3,9 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: da113ea4babc7eaeadc80f73aabd45d9482ad620
+source-git-commit: 130c3555bab741a58b06c81a5324b0103756caab
 workflow-type: tm+mt
-source-wordcount: '6537'
+source-wordcount: '6638'
 ht-degree: 89%
 
 ---
@@ -20,9 +20,29 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2023.
 
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates).
 
+## Mises à jour de novembre 2023
+
++++**(Planifiée) Mise à jour de maintenance le 2 novembre 2023**
+
+**Les mises à jour privées s’affichent dans les champs d’expression valides **
+_Rapports_
+
+Lorsqu’un champ de rapport contient une expression de valeur qui fait référence à une mise à jour privée, les utilisateurs qui ne sont pas inclus dans la mise à jour privée peuvent la voir dans le rapport.
+
+
+**L’utilisateur affiche une capacité surchargée en raison d’une capacité inexacte.**
+
+_Équilibreur de charge de travail_
+
+Un utilisateur ou une utilisatrice peut s’afficher en surcapacité dans l’équilibreur de charge de travail. Si un utilisateur ou un utilisatrice passe son curseur sur la surcapacité, on voit que la capacité de la personne est définie sur 0.
+
+Si l’utilisateur ou l’utilisatrice modifie la période, l’attribution est exacte. Cependant, si l’utilisateur ou l’utilisatrice actualise la page, la capacité peut à nouveau être inexacte.
+
++++
+
 ## Mises à jour d’octobre 2023
 
-+++**Mise à jour de maintenance (prévue) le 26 octobre 2023**
++++**Mise à jour de maintenance le 26 octobre 2023**
 
 **La recherche ne fonctionne pas**
 
