@@ -5,7 +5,7 @@ role: User
 source-git-commit: fa4fbd97d128930cce0698f789538854a5f9a866
 workflow-type: tm+mt
 source-wordcount: '1490'
-ht-degree: 78%
+ht-degree: 88%
 
 ---
 
@@ -35,22 +35,22 @@ ht-degree: 78%
       + [Panoramas : mode Panorama dans [!UICONTROL Tâche] la zone du projet ne se charge pas.](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md)
       + [Bons à tirer : [!UICONTROL Activité BAT] n’ouvre pas](known-issues-workfront/wf-proof-activities-tab-not-working.md)
       + [Tâches : [!UICONTROL Heures planifiées] sont réaffectés lorsqu’un utilisateur supplémentaire est affecté à une tâche.](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md)
-      + [Fiches horaires : la tâche personnelle apparaît sur la feuille de temps](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md)
-      + [Bons à tirer : impossible de générer le BAT](known-issues-workfront/wf-proofs-cannot-generate-proof.md)
-      + [Bons à tirer : les bons à tirer terminés restent sur [!UICONTROL En attente de mon approbation] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
-      + [Bons à tirer : impossible de créer une version d’un BAT](known-issues-workfront/wf-proofs-cannot-create-new-version.md)
-      + [Rapports : les mises à jour privées s’affichent dans les champs d’expression de valeur](known-issues-workfront/wf-reports-expression-displays-private-comment.md)
-      + [Équilibreur de charge de travail : les modifications horaires manuelles ne sont pas précises après actualisation de la page.](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md)
-      + [Accueil : les tâches déléguées ne sont pas partagées et n’apparaissent pas dans la liste des tâches domestiques](known-issues-workfront/wf-home-delegated-tasks-not-shared.md)
-      + [Bons à tirer : erreur lors du partage du BAT à partir du lien de l&#39;email](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md)
-      + [Connexion : une erreur s’affiche lors de la réinitialisation du mot de passe alors que l’action a réussi.](known-issues-workfront/wf-login-whoops-resetting-password.md)
-      + [Panoramas : le chargement des panoramas se fait lentement](known-issues-workfront/wf-boards-board-loads-slowly.md)
-      + [Panoramas : impossible de déplacer les cartes](known-issues-workfront/wf-boards-can-not-move-cards.md)
-      + [Panoramas : les cartes n’affichent pas le nombre correct d’éléments de liste de contrôle](known-issues-workfront/wf-boards-checklist-item-count.md)
-      + [Notifications : les emails de rappel automatique ne sont pas envoyés](known-issues-workfront/wf-notifications-overdue-error.md)
-      + [Intégrations de document : erreur lors du déplacement d’une ressource vers un dossier dans une intégration Experience Manager Assets](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md)
-      + [Utilisateurs : message d’erreur affiché incorrectement lors du rappel d’enregistrement de l’utilisateur](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md)
-      + [Partage : erreur lors du partage d’un objet](known-issues-workfront/wf-sharing-user-cannot-share-object.md)
+      + [Feuilles de temps : la tâche personnelle apparaît sur la feuille de temps](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md)
+      + [BAT : impossible de générer le BAT](known-issues-workfront/wf-proofs-cannot-generate-proof.md)
+      + [BAT : les BAT terminés restent [!UICONTROL En attente de mon approbation] sur le widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
+      + [BAT : impossible de créer une nouvelle version d’un BAT](known-issues-workfront/wf-proofs-cannot-create-new-version.md)
+      + [Rapports : les mises à jour privées s’affichent dans les champs d’expression de valeur](known-issues-workfront/wf-reports-expression-displays-private-comment.md)
+      + [Équilibreur de charge de travail : les modifications horaires manuelles ne sont pas exactes après l’actualisation de la page](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md)
+      + [Accueil : les tâches déléguées ne sont pas partagées et n’apparaissent pas dans la Liste de travail de l’accueil](known-issues-workfront/wf-home-delegated-tasks-not-shared.md)
+      + [BAT : erreur lors du partage du BAT à partir du lien dans l’e-mail](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md)
+      + [Connexion : une erreur s’affiche lors de la réinitialisation du mot de passe alors que l’action a réussi](known-issues-workfront/wf-login-whoops-resetting-password.md)
+      + [Panoramas : le chargement des panoramas est lent](known-issues-workfront/wf-boards-board-loads-slowly.md)
+      + [Panoramas : impossible de déplacer les cartes](known-issues-workfront/wf-boards-can-not-move-cards.md)
+      + [Panoramas : les cartes n’affichent pas le nombre correct d’éléments de la liste de contrôle](known-issues-workfront/wf-boards-checklist-item-count.md)
+      + [Notifications : les e-mails de rappel automatique ne sont pas envoyés](known-issues-workfront/wf-notifications-overdue-error.md)
+      + [Intégrations de document : erreur lors du déplacement d’une ressource vers un dossier dans une intégration Experience Manager Assets](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md)
+      + [Uilisateurs et utilisatrices : message d’erreur affiché incorrectement lors du rappel d’enregistrement de l’utilisateur ou de l’utilisatrice](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md)
+      + [Partage : erreur lors du partage d’un objet](known-issues-workfront/wf-sharing-user-cannot-share-object.md)
       + [Équilibreur de charge de travail : l’utilisateur ou l’utilisatrice s’affiche en surcapacité en raison d’une capacité inexacte](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md)
       + [[!DNL Workfront] : des éléments sont absents dans la page d’objet](known-issues-workfront/wf-workfront-work-item-missing-elements.md)
       + [Épreuve : commentaire vide supplémentaire lors de la formulation d’un commentaire sur une épreuve](known-issues-workfront/wf-proofs-extra-blank-comment.md)
@@ -191,7 +191,7 @@ ht-degree: 78%
    + [Problèmes connus dans Workfront Fusion](workfrontfusion.md)
    + Problèmes actifs dans [!DNL Workfront Fusion] {#fusion-current}
       + [Fusion Workfront : duplication de projets créés à partir d’un seul module](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]: erreur lors de l’envoi d’une invitation avec [!DNL Workfront] > [!UICONTROL Actions diverses] module](known-issues-workfront-fusion/fusion-send-invite-error.md)
+      + [[!DNL Workfront Fusion] : erreur lors de l’envoi d’une invitation avec le module  [!DNL Workfront]  > [!UICONTROL Actions diverses]](known-issues-workfront-fusion/fusion-send-invite-error.md)
       + [[!DNL Workfront Fusion] : module de veille provoquant le blocage de scénarios](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
       + [[!DNL Workfront Fusion] : le scénario échoue en raison d’une erreur « [!UICONTROL read ECONNREET] ».](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
       + [[!DNL Workfront Fusion] : impossible de saisir la valeur dans  [!DNL Workfront]  > Filtre [!UICONTROL Événements de contrôle]](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)

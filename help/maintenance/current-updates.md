@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 7f35ea55ec3088bc138da2615ebc61c658e1def7
 workflow-type: tm+mt
 source-wordcount: '6638'
-ht-degree: 89%
+ht-degree: 93%
 
 ---
 
@@ -28,7 +28,7 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 _Rapports_
 
-Lorsqu’un champ de rapport contient une expression de valeur qui fait référence à une mise à jour privée, les utilisateurs qui ne sont pas inclus dans la mise à jour privée peuvent la voir dans le rapport.
+Lorsqu’un champ de rapport contient une expression de valeur qui fait référence à une mise à jour privée, les utilisateurs et les utilisatrices qui ne sont pas dans la mise à jour privée peuvent la voir dans le rapport.
 
 **L’utilisateur affiche une capacité surchargée en raison d’une capacité inexacte.**
 
@@ -62,9 +62,9 @@ Lorsqu’un utilisateur tente d’afficher un BAT dans la visionneuse de BAT web
 
 _BAT_
 
-Lorsqu’un utilisateur tente de créer une nouvelle version d’un BAT, la nouvelle version n’est pas créée et l’utilisateur voit le message d’erreur suivant :
+Lorsque l’utilisateur ou l’utilisatrice tente de créer une nouvelle version d’un BAT, la nouvelle version n’est pas générée et le message d’erreur suivant apparaît :
 
-&quot;[!UICONTROL Erreur lors de la création de l&#39;épreuve]&quot;
+« [!UICONTROL Erreur lors de la création du BAT] »
 
 **L’utilisateur est dupliqué lors du partage d’une requête**
 
@@ -134,13 +134,13 @@ _Formulaires personnalisés_
 
 Les champs calculés qui se référencent ne conservent pas leurs valeurs lorsqu’un problème est converti en tâche.
 
-Lors de la conversion du problème en tâche, la valeur souhaitée s’affiche correctement dans la fenêtre d’édition. Cependant, une fois la conversion terminée, le champ calculé affiche un &quot;S/O&quot;.
+Lors de la conversion du problème en tâche, la valeur souhaitée s’affiche correctement dans la fenêtre d’édition. Cependant, une fois la conversion terminée, le champ calculé affiche « S/O ».
 
 **Erreur lors du changement de filtres dans [!UICONTROL Accueil]**
 
 _Accueil_
 
-Lorsqu’un utilisateur modifie les filtres sur [!UICONTROL Accueil], la variable [!UICONTROL Accueil] ne se charge pas et l’utilisateur voit l’erreur suivante :
+Lorsqu’un utilisateur ou une utilisatrice modifie les filtres sur [!UICONTROL Accueil], la zone [!UICONTROL Accueil] ne se charge pas et l’utilisateur ou l’utilisatrice voit l’erreur suivante :
 
 « [!UICONTROL Une erreur s’est produite et nous nous efforçons de la résoudre. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.] »
 
@@ -148,11 +148,11 @@ Lorsqu’un utilisateur modifie les filtres sur [!UICONTROL Accueil], la variabl
 
 +++**Mise à jour de maintenance le 5 octobre 2023**
 
-**Le chargement des panoramas se charge lentement**
+**Le chargement des panoramas est lent**
 
 _Panoramas_
 
-Lorsqu’un utilisateur charge un panorama, celui-ci se charge extrêmement lentement. Cela peut se produire même si le panorama comporte un petit nombre de cartes.
+Lorsqu’un utilisateur ou une utilisatrice charge un panorama, celui-ci se charge extrêmement lentement. Cela peut se produire même si le panorama comporte un petit nombre de cartes.
 
 Les cartes archivées, même si elles ne s’affichaient pas, affectaient le temps de chargement du panorama.
 
@@ -160,29 +160,29 @@ Les cartes archivées, même si elles ne s’affichaient pas, affectaient le tem
 
 _Panoramas_
 
-Lorsqu’un utilisateur tente de déplacer une carte sur un panorama, celle-ci ne se déplace pas. Cela se produit dans les cas suivants :
+Lorsqu’un utilisateur ou une utilisatrice tente de déplacer une carte sur un panorama, celle-ci ne se déplace pas. Cela se produit dans les cas suivants :
 
 * Glisser-déposer
 * Option Déplacer sur la carte
 * Modification de la carte
 
-**Impossible de déplacer les cartes hors de la colonne d’ingestion**
+**Impossible de déplacer les cartes hors de la colonne d’entrée**
 
 _Panoramas_
 
-L’utilisateur peut faire glisser une carte de la colonne d’entrée vers une autre colonne du panorama, mais les cartes suivantes ne peuvent pas être déplacées hors de la colonne d’entrée.
+L’utilisateur ou l’utilisatrice peut faire glisser une carte de la colonne d’entrée vers une autre colonne du panorama, mais les cartes suivantes ne peuvent pas être déplacées hors de la colonne d’entrée.
 
-**Regrouper par affecte les performances du panorama**
+**L’option Regrouper par affecte les performances du panorama**
 
 _Panoramas_
 
-Lorsque l’utilisateur tente de regrouper les cartes par des personnes désignées ou des balises, les performances du panorama sont très lentes.
+Lorsque l’utilisateur ou l’utilisatrice tente de regrouper les cartes par des personnes désignées ou des balises, les performances du panorama sont très lentes.
 
-**Les emails de rappel automatique ne sont pas envoyés**
+**Les e-mails de rappel automatique ne sont pas envoyés**
 
 _Notifications_
 
-Les rappels automatiques par email ne sont pas envoyés. Cela a commencé le 14 septembre 2023.
+Les rappels automatiques par e-mail ne sont pas envoyés. Cela a commencé le 14 septembre 2023.
 
 +++
 
