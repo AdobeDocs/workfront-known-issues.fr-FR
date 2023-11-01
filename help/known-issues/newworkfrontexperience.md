@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: fa4fbd97d128930cce0698f789538854a5f9a866
+source-git-commit: bf9935f1482712d2835e3e9e4a7a9b68275dcf1a
 workflow-type: tm+mt
-source-wordcount: '798'
-ht-degree: 87%
+source-wordcount: '817'
+ht-degree: 85%
 
 ---
 
@@ -25,6 +25,8 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Mises à jour : les commentaires associés aux mises à jour du système ne s’affichent pas.](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | 1 novembre 2023 |
+| [Panoramas : erreur dans la section Commentaires d’une carte](known-issues-workfront/wf-boards-comment-section-error.md) | 1 novembre 2023 |
 | [[!UICONTROL Bon à tirer Workfront]: emails et notifications retardés](known-issues-workfront-proof/proof-delayed-notification.md) | 26 octobre 2023 |
 | [Fusion Workfront : duplication de projets créés à partir d’un seul module](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 24 octobre 2023 |
 | [Panoramas : la recherche ne fonctionne pas](known-issues-workfront/wf-boards-search-not-working.md) | 20 octobre 2023 |

@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: fa4fbd97d128930cce0698f789538854a5f9a866
+source-git-commit: bf9935f1482712d2835e3e9e4a7a9b68275dcf1a
 workflow-type: tm+mt
-source-wordcount: '1490'
-ht-degree: 88%
+source-wordcount: '1507'
+ht-degree: 87%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 88%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Mises à jour : les commentaires associés aux mises à jour du système ne s’affichent pas.](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md)
+      + [Panoramas : erreur dans la section Commentaires d’une carte](known-issues-workfront/wf-boards-comment-section-error.md)
       + [[!UICONTROL Équilibreur de charge de travail]: [!UICONTROL Équilibreur de charge de travail] charge lentement](known-issues-workfront/wf-workload-balancer-loads-slowly.md)
       + [Requêtes : devise personnalisée incorrecte affichée sur la page Nouvelle requête](known-issues-workfront/wf-requests-custom-currency.md)
       + [Rapports : les heures budgétisées dans le rapport d’utilisation ne correspondent pas aux heures budgétisées signalées par le biais de l’API](known-issues-workfront/wf-reports-incorrect-rpbghr.md)
