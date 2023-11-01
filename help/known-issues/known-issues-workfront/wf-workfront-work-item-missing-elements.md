@@ -4,7 +4,7 @@ description: « Lorsqu’un utilisateur ou une utilisatrice accède à une sect
 hidefromtoc: true
 feature: Get Started with Workfront
 source-git-commit: e39436a5aad5dbfe58386dc770babc2ed39f678b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
 ht-degree: 100%
 
