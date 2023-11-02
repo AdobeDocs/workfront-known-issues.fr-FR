@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: bf9935f1482712d2835e3e9e4a7a9b68275dcf1a
+source-git-commit: 3a6d56930cb2861c68111c9c960963b71ec213d4
 workflow-type: tm+mt
-source-wordcount: '1507'
-ht-degree: 87%
+source-wordcount: '1516'
+ht-degree: 86%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 87%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Mises à jour : lignes supplémentaires en commentaire effectuées via l’API ou [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md)
       + [Mises à jour : les commentaires associés aux mises à jour du système ne s’affichent pas.](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md)
       + [Panoramas : erreur dans la section Commentaires d’une carte](known-issues-workfront/wf-boards-comment-section-error.md)
       + [[!UICONTROL Équilibreur de charge de travail]: [!UICONTROL Équilibreur de charge de travail] charge lentement](known-issues-workfront/wf-workload-balancer-loads-slowly.md)
