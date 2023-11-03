@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 3a6d56930cb2861c68111c9c960963b71ec213d4
+source-git-commit: a6d3a340e7452f45cb568ee4383ab7bfb55c5c34
 workflow-type: tm+mt
-source-wordcount: '1516'
-ht-degree: 86%
+source-wordcount: '1554'
+ht-degree: 84%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 86%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Accueil : approbation bloquée [!UICONTROL En attente de mon approbation] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)
+      + [Bons à tirer : problèmes liés à l’activation de l’étape](known-issues-workfront/wf-proofs-stage-activation-issues.md)
+      + [Bons à tirer : chemin de navigation manquant lors de l’accès au BAT à partir du lien de l’email](known-issues-workfront/wf-proofs-breadcrumb-missing.md)
+      + [Demandes : les champs sont clairs lorsqu’un document est ajouté à une demande.](known-issues-workfront/wf-requests-fields-blank-when-doc-added.md)
       + [Mises à jour : lignes supplémentaires en commentaire effectuées via l’API ou [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md)
       + [Mises à jour : les commentaires associés aux mises à jour du système ne s’affichent pas.](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md)
       + [Panoramas : erreur dans la section Commentaires d’une carte](known-issues-workfront/wf-boards-comment-section-error.md)
@@ -193,6 +197,7 @@ ht-degree: 86%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problèmes connus dans Workfront Fusion](workfrontfusion.md)
    + Problèmes actifs dans [!DNL Workfront Fusion] {#fusion-current}
+      + [Workfront Fusion : faible erreur de mémoire](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Fusion Workfront : duplication de projets créés à partir d’un seul module](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
       + [[!DNL Workfront Fusion] : erreur lors de l’envoi d’une invitation avec le module  [!DNL Workfront]  > [!UICONTROL Actions diverses]](known-issues-workfront-fusion/fusion-send-invite-error.md)
       + [[!DNL Workfront Fusion] : module de veille provoquant le blocage de scénarios](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
