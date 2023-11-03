@@ -4,10 +4,10 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 25dc6be9ec798c4d75916d093f8e80227c0e17cf
+source-git-commit: 4f656ad6456070d9faa691654386db936ea32362
 workflow-type: tm+mt
-source-wordcount: '372'
-ht-degree: 94%
+source-wordcount: '390'
+ht-degree: 90%
 
 ---
 
@@ -26,7 +26,6 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!UICONTROL Bon à tirer Workfront]: emails et notifications retardés](known-issues-workfront-proof/proof-delayed-notification.md) | 26 octobre 2023 |
-| [Documents : le bouton Partager ne fonctionne pas](known-issues-workfront/wf-documents-share-button-not-working.md) | 19 octobre 2023 |
 
 {style="table-layout:auto"}
 
@@ -36,6 +35,9 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Accueil : approbation bloquée [!UICONTROL En attente de mon approbation] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 3 novembre 2023 |
+| [Bons à tirer : problèmes liés à l’activation de l’étape](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 3 novembre 2023 |
+| [Bons à tirer : chemin de navigation manquant lors de l’accès au BAT à partir du lien de l’email](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 novembre 2023 |
 | [[!DNL Workfront Proof]: horodatage incorrect activé [!UICONTROL Résumé du BAT]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 27 octobre 2023 |
 | [BAT : erreur lors du partage du BAT à partir du lien dans l’e-mail](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 octobre 2023 |
 | [BAT : les BAT terminés restent [!UICONTROL En attente de mon approbation] sur le widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 19 octobre 2023 |

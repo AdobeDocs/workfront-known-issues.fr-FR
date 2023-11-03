@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3a6d56930cb2861c68111c9c960963b71ec213d4
+source-git-commit: 4f656ad6456070d9faa691654386db936ea32362
 workflow-type: tm+mt
-source-wordcount: '775'
-ht-degree: 85%
+source-wordcount: '805'
+ht-degree: 82%
 
 ---
 
@@ -25,6 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Demandes : les champs sont clairs lorsqu’un document est ajouté à une demande.](known-issues-workfront/wf-requests-fields-blank-when-doc-added.md) | 3 novembre 2023 |
 | [Mises à jour : les commentaires associés aux mises à jour du système ne s’affichent pas.](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | 1 novembre 2023 |
 | [Panoramas : erreur dans la section Commentaires d’une carte](known-issues-workfront/wf-boards-comment-section-error.md) | 1 novembre 2023 |
 | [[!UICONTROL Bon à tirer Workfront]: emails et notifications retardés](known-issues-workfront-proof/proof-delayed-notification.md) | 26 octobre 2023 |
@@ -39,13 +40,15 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
+| [Accueil : approbation bloquée [!UICONTROL En attente de mon approbation] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 3 novembre 2023 |
+| [Bons à tirer : problèmes liés à l’activation de l’étape](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 3 novembre 2023 |
+| [Bons à tirer : chemin de navigation manquant lors de l’accès au BAT à partir du lien de l’email](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 novembre 2023 |
 | [Mises à jour : lignes supplémentaires en commentaire effectuées via l’API ou [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md) | 2 novembre 2023 |
 | [Requêtes : devise personnalisée incorrecte affichée sur la page Nouvelle requête](known-issues-workfront/wf-requests-custom-currency.md) | 30 octobre 2023 |
 | [Rapports : les heures budgétisées dans le rapport d’utilisation ne correspondent pas aux heures budgétisées signalées par le biais de l’API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 30 octobre 2023 |
 | [Tableaux de bord : l’utilisateur ne peut pas accéder à [!UICONTROL Tableaux de bord de canevas]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md) | 30 octobre 2023 |
 | [[!DNL Workfront Proof]: horodatage incorrect activé [!UICONTROL Résumé du BAT]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 27 octobre 2023 |
 | [BAT : erreur lors du partage du BAT à partir du lien dans l’e-mail](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 octobre 2023 |
-| [Documents : le bouton Partager ne fonctionne pas](known-issues-workfront/wf-documents-share-button-not-working.md) | 26 octobre 2023 |
 | [Panoramas : les cartes attendues ne s’affichent pas sur le panorama](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 26 octobre 2023 |
 | [Tâches : &quot;[!UICONTROL Oups]&quot; erreur dans l’en-tête de la tâche](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 25 octobre 2023 |
 | [BAT : les BAT terminés restent [!UICONTROL En attente de mon approbation] sur le widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 19 octobre 2023 |
