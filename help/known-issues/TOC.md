@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: a6d3a340e7452f45cb568ee4383ab7bfb55c5c34
+source-git-commit: 9d06f5922711057d2075bef8653c7241e6464ac7
 workflow-type: tm+mt
-source-wordcount: '1554'
-ht-degree: 84%
+source-wordcount: '1566'
+ht-degree: 83%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 84%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Modèles : les tâches enfants apparaissent dans l’ordre lorsqu’elles sont déplacées sous la tâche parent.](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)
       + [Accueil : approbation bloquée [!UICONTROL En attente de mon approbation] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)
       + [Bons à tirer : problèmes liés à l’activation de l’étape](known-issues-workfront/wf-proofs-stage-activation-issues.md)
       + [Bons à tirer : chemin de navigation manquant lors de l’accès au BAT à partir du lien de l’email](known-issues-workfront/wf-proofs-breadcrumb-missing.md)

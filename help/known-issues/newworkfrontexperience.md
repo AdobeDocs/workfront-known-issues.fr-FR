@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 4f656ad6456070d9faa691654386db936ea32362
+source-git-commit: 9d06f5922711057d2075bef8653c7241e6464ac7
 workflow-type: tm+mt
-source-wordcount: '805'
-ht-degree: 82%
+source-wordcount: '818'
+ht-degree: 80%
 
 ---
 
@@ -40,6 +40,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
+| [Modèles : les tâches enfants apparaissent dans l’ordre lorsqu’elles sont déplacées sous la tâche parent.](known-issues-workfront/wf-templates-children-tasks-out-of-order.md) | 6 novembre 2023 |
 | [Accueil : approbation bloquée [!UICONTROL En attente de mon approbation] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 3 novembre 2023 |
 | [Bons à tirer : problèmes liés à l’activation de l’étape](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 3 novembre 2023 |
 | [Bons à tirer : chemin de navigation manquant lors de l’accès au BAT à partir du lien de l’email](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 novembre 2023 |
