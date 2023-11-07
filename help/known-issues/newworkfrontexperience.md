@@ -4,9 +4,9 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 54fda0aa30beb0bfcf9e6359e12f58d03dffac1e
+source-git-commit: 359264a4697b783f79ef8df000216d259106d96d
 workflow-type: tm+mt
-source-wordcount: '838'
+source-wordcount: '848'
 ht-degree: 78%
 
 ---
@@ -70,7 +70,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL Accueil] : le widget [!UICONTROL Requêtes] n’affiche pas toutes les équipes affectées](known-issues-workfront/wf-home-request-shows-one-team.md) | 26 octobre 2023 |
+| [Tableau de bord : grande marge vide lors de l’impression d’un tableau de bord vers PDF](known-issues-workfront/wf-dashboard-blank-area-when-printing.md) | 7 novembre 2023 |
+| [[!UICONTROL Accueil] : le widget [!UICONTROL Requêtes] n’affiche pas toutes les équipes affectées.](known-issues-workfront/wf-home-request-shows-one-team.md) | 26 octobre 2023 |
 | [[!DNL Workfront Proof]: impossible de développer le workflow](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25 octobre 2023 |
 | [[!UICONTROL Accueil] : le widget [!UICONTROL Mentions] du nouvel [!UICONTROL Accueil] ne se limite pas aux messages dans lesquels la personne est mentionnée](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 25 septembre 2023 |
 | [[!UICONTROL Accueil] : l’aperçu du nouveau widget [!UICONTROL Accueil] n’affiche pas le nom correct de l’objet.](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 7 septembre 2023 |
