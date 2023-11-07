@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3a6d56930cb2861c68111c9c960963b71ec213d4
+source-git-commit: 7a783d0c55d368c63e41d58a5343e44e54442e7d
 workflow-type: tm+mt
-source-wordcount: '6637'
-ht-degree: 93%
+source-wordcount: '6830'
+ht-degree: 92%
 
 ---
 
@@ -21,6 +21,38 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2023.
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates).
 
 ## Mises à jour de novembre 2023
+
++++**(Planifiée) Mise à jour de maintenance le 9 novembre 2023**
+
+**Objets manquants dans mon widget de travail lorsqu’ils ne figurent pas en haut de la page**
+
+_Accueil_
+
+Si le widget Mon travail se trouve en haut de la nouvelle page d’accueil, il extrait tous les objets attendus. Cependant, si ce widget se trouve sous tout autre widget de la page, il extrait uniquement 10 objets.
+
+**Impossible de générer le BAT**
+
+_BAT_
+
+Lorsque un utilisateur ou une utilisatrice tente de générer un BAT, celui-ci n’est pas créé et l’erreur suivante apparaît :
+
+« [!UICONTROL Erreur lors de la création du BAT] »
+
+Cela se produit lorsque le paramètre de niveau d’accès de l’utilisateur[!UICONTROL  Afficher les coordonnées] est défini sur Désactivé.
+
+**Champs clairs lorsqu’un document est ajouté à une requête**
+
+_Demandes_
+
+Lorsqu’un utilisateur crée une demande, remplit des champs dans un formulaire, puis ajoute ou supprime un document, certains champs du formulaire sont effacés des données et l’utilisateur doit les remplir à nouveau avant d’envoyer la demande.
+
+**La tâche personnelle apparaît sur la feuille de temps**
+
+_Feuilles de temps_
+
+Lorsqu’un utilisateur ou une utilisatrice crée une tâche sur le widget [!UICONTROL Todo] de la nouvelle expérience d’[!UICONTROL accueil], cette tâche s’affiche sur la feuille de temps de l’utilisateur ou de l’utilisatrice. Cela se produit même si la tâche n’a aucune heure enregistrée et que le projet personnel n’est pas épinglé.
+
++++
 
 +++**Mise à jour de maintenance le 2 novembre 2023**
 
