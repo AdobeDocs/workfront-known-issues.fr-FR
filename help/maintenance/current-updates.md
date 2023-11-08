@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 7a783d0c55d368c63e41d58a5343e44e54442e7d
+source-git-commit: 83c161ac5cc06b67a67464ab75be50903c379118
 workflow-type: tm+mt
-source-wordcount: '6830'
-ht-degree: 92%
+source-wordcount: '6904'
+ht-degree: 91%
 
 ---
 
@@ -51,6 +51,16 @@ Lorsqu’un utilisateur crée une demande, remplit des champs dans un formulaire
 _Feuilles de temps_
 
 Lorsqu’un utilisateur ou une utilisatrice crée une tâche sur le widget [!UICONTROL Todo] de la nouvelle expérience d’[!UICONTROL accueil], cette tâche s’affiche sur la feuille de temps de l’utilisateur ou de l’utilisatrice. Cela se produit même si la tâche n’a aucune heure enregistrée et que le projet personnel n’est pas épinglé.
+
++++
+
++++**Mise à jour de maintenance (correctif) le 3 novembre 2023**
+
+**Les tâches enfants apparaissent dans l’ordre lorsqu’elles sont déplacées sous la tâche parent.**
+
+_Modèles_
+
+Lorsqu’un utilisateur crée des tâches sur un modèle, puis déplace ces tâches sous une tâche parent, les nombres affectés aux tâches enfants n’apparaissent pas dans l’ordre attendu. Par conséquent, lorsque la page est actualisée, les tâches enfants sont triées selon les numéros de tâches inattendus, et les tâches enfants sont donc en panne.
 
 +++
 
