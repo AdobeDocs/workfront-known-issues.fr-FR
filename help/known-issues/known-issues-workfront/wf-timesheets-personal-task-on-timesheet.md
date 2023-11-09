@@ -1,17 +1,21 @@
 ---
-title: '« Feuilles de temps : la tâche personnelle apparaît sur la feuille de temps »'
-description: « Lorsqu’un utilisateur ou une utilisatrice crée une tâche sur le widget Todo de la nouvelle expérience d’accueil, cette tâche s’affiche sur la feuille de temps de l’utilisateur ou de l’utilisatrice. Cela se produit même si la tâche n’a aucune heure enregistrée et que le projet personnel n’est pas épinglé. »
+title: 'Feuilles de temps : la tâche personnelle apparaît sur la feuille de temps'
+description: Lorsqu’un utilisateur ou une utilisatrice crée une tâche sur le widget Todo de la nouvelle expérience d’accueil, cette tâche s’affiche sur la feuille de temps de l’utilisateur ou de l’utilisatrice. Cela se produit même si la tâche n’a aucune heure enregistrée et que le projet personnel n’est pas épinglé.
 hidefromtoc: true
 feature: Timesheets
-source-git-commit: 6d93e05a72b92c41865f14c0991938685c8d8d58
-workflow-type: ht
-source-wordcount: '94'
+exl-id: fd75ae65-726c-4301-bded-297cc82566b8
+source-git-commit: 6d6d3c180a739413f28f132a23b4d91ad1b80c72
+workflow-type: tm+mt
+source-wordcount: '100'
 ht-degree: 100%
 
 ---
 
-
 # Feuilles de temps : la tâche personnelle apparaît sur la feuille de temps
+
+>[!NOTE]
+>
+>Ce problème a été résolu le 9 novembre 2023.
 
 Lorsqu’un utilisateur ou une utilisatrice crée une tâche sur le widget [!UICONTROL Todo] de la nouvelle expérience d’[!UICONTROL accueil], cette tâche s’affiche sur la feuille de temps de l’utilisateur ou de l’utilisatrice. Cela se produit même si la tâche n’a aucune heure enregistrée et que le projet personnel n’est pas épinglé.
 
