@@ -3,15 +3,19 @@ title: "Panoramas : erreur dans la section Commentaires d’une carte"
 description: "Lorsqu’un utilisateur affiche une carte sur un panorama, la variable [!UICONTROL Commentaires] n’affiche pas de commentaires ou ne permet pas à l’utilisateur de faire un commentaire. À la place, la section affiche une erreur."
 hidefromtoc: true
 feature: Agile
-source-git-commit: bf9935f1482712d2835e3e9e4a7a9b68275dcf1a
+source-git-commit: 510d269306ca0619435caba2682fd4fdccc4e1f9
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 12%
+source-wordcount: '96'
+ht-degree: 17%
 
 ---
 
 
 # Panoramas : erreur dans la section Commentaires d’une carte
+
+>[!NOTE]
+>
+>Ce problème a été résolu le 2 novembre 2023.
 
 Lorsqu’un utilisateur affiche une carte sur un panorama, la variable [!UICONTROL Commentaires] n’affiche pas de commentaires ou ne permet pas à l’utilisateur de faire un commentaire. La section affiche plutôt l’erreur suivante :
 

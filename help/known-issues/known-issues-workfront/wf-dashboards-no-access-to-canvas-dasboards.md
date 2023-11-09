@@ -3,15 +3,19 @@ title: '« Tableaux de bord : la personne ne peut pas accéder aux [!UICONTROL
 description: « Lorsqu’une personne qui doit avoir accès à un [!UICONTROL Tableau de bord Zone de travail] tente d’accéder au [!UICONTROL Tableau de bord Zone de travail], le tableau de bord ne se charge pas et la personne voit un message s’afficher. »
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 03aece7b11369e50995a9dbfa39c3fdefd84b93c
-workflow-type: ht
-source-wordcount: '108'
+source-git-commit: 510d269306ca0619435caba2682fd4fdccc4e1f9
+workflow-type: tm+mt
+source-wordcount: '114'
 ht-degree: 100%
 
 ---
 
 
 # Tableaux de bord : la personne ne peut pas accéder aux [!UICONTROL Tableaux de bord Zone de travail]
+
+>[!NOTE]
+>
+>Ce problème a été résolu le 7 novembre 2023.
 
 Lorsqu’une personne qui doit avoir accès à un [!UICONTROL Tableau de bord Zone de travail] tente d’accéder au [!UICONTROL Tableau de bord Zone de travail], le tableau de bord ne se charge pas et la personne voit le message suivant :
 
