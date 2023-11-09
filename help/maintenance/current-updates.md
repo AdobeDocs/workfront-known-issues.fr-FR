@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 83c161ac5cc06b67a67464ab75be50903c379118
 workflow-type: tm+mt
 source-wordcount: '6904'
-ht-degree: 91%
+ht-degree: 97%
 
 ---
 
@@ -38,7 +38,7 @@ Lorsque un utilisateur ou une utilisatrice tente de générer un BAT, celui-ci n
 
 « [!UICONTROL Erreur lors de la création du BAT] »
 
-Cela se produit lorsque le paramètre de niveau d’accès de l’utilisateur[!UICONTROL  Afficher les coordonnées] est défini sur Désactivé.
+Cela se produit lorsque le paramètre de niveau d’accès [!UICONTROL Afficher les coordonnées] de la personne est défini sur Désactivé.
 
 **Champs clairs lorsqu’un document est ajouté à une requête**
 
@@ -72,7 +72,7 @@ _Rapports_
 
 Lorsqu’un champ de rapport contient une expression de valeur qui fait référence à une mise à jour privée, les utilisateurs et les utilisatrices qui ne sont pas dans la mise à jour privée peuvent la voir dans le rapport.
 
-**L’utilisateur affiche une capacité surchargée en raison d’une capacité inexacte.**
+**L’utilisateur ou l’utilisatrice s’affiche en surcapacité en raison d’une capacité inexacte**
 
 _Équilibreur de charge de travail_
 
@@ -90,17 +90,17 @@ Si l’utilisateur ou l’utilisatrice modifie la période, l’attribution est 
 
 _Panoramas_
 
-Lorsqu’un utilisateur tente de rechercher des panoramas, la recherche ne renvoie pas toutes les cartes qui répondent aux critères de recherche.
+Lorsqu’un utilisateur ou une utilisatrice tente de rechercher des panoramas, la recherche ne renvoie pas toutes les cartes qui répondent aux critères de recherche.
 
 **Impossible d’afficher le BAT interactif dans la visionneuse web**
 
 _BAT_
 
-Lorsqu’un utilisateur tente d’afficher un BAT dans la visionneuse de BAT web, le BAT ne s’affiche pas, et l’utilisateur voit l’erreur suivante :
+Lorsqu’un utilisateur ou une utilisatrice tente d’afficher un BAT dans la visionneuse de BAT web, le BAT ne s’affiche pas et l’erreur suivante s’affiche :
 
-&quot;[!UICONTROL Paramètre de requête ou valeur de cookie Key-Pair-Id manquant]&quot;
+« [!UICONTROL Valeur de cookie ou paramètre de requête Key-Pair-Id manquants] »
 
-**Impossible de créer une version d’un BAT**
+**Impossible de créer une nouvelle version de BAT**
 
 _BAT_
 
@@ -108,19 +108,19 @@ Lorsque l’utilisateur ou l’utilisatrice tente de créer une nouvelle version
 
 « [!UICONTROL Erreur lors de la création du BAT] »
 
-**L’utilisateur est dupliqué lors du partage d’une requête**
+**La personne est dupliquée lors du partage d’une demande**
 
 _Demandes_
 
-Lors du partage d’une requête, si le niveau d’accès d’un utilisateur avec lequel la requête est partagée est modifié, l’utilisateur situé juste au-dessus de cet utilisateur dans la liste devient cet utilisateur.
+Lors du partage d’une demande, si le niveau d’accès d’une personne avec laquelle la demande est partagée est modifié, la personne située juste au-dessus dans la liste devient cet utilisateur ou cette utilisatrice.
 
-Par exemple, si la requête est partagée avec l’utilisateur A et l’utilisateur B et que l’accès de l’utilisateur B est modifié, l’utilisateur A passe à l’utilisateur B et la liste contient désormais deux User B. En outre, seul l’accès de l’utilisateur B supérieur a été modifié.
+Par exemple, si la demande est partagée avec la personne A et la personne B et que l’accès de la personne B est modifié, la personne A devient la personne B et la liste contient alors deux personnes B. En outre, seul l’accès de la personne B du dessus est modifié.
 
-**&quot;[!UICONTROL Oups]&quot; erreur dans l’en-tête de la tâche**
+**Tâches : erreur [!UICONTROL « Oups »] dans l’en-tête de la tâche**
 
 _Tâches_
 
-Lorsqu’un utilisateur affiche une tâche, l’en-tête de la tâche ne contient aucune information. À la place, l’utilisateur voit le message d’erreur suivant :
+Lorsqu’une personne affiche une tâche, l’en-tête de la tâche ne contient aucune information. À la place, le message d’erreur suivant s’affiche :
 
 « [!UICONTROL Oups ! Un problème est survenu. Contactez Workfront pour nous aider à comprendre l’erreur et y remédier.] »
 
@@ -128,13 +128,13 @@ Lorsqu’un utilisateur affiche une tâche, l’en-tête de la tâche ne contien
 
 +++**Mise à jour de maintenance le 19 octobre 2023**
 
-Les utilisateurs ne sont pas informés des réponses sur un fil de commentaires
+Les personnes ne sont pas informées des réponses sur un fil de commentaires
 
 _Notifications_
 
-Lorsqu’un utilisateur répond à un commentaire, les autres utilisateurs qui doivent recevoir des notifications pour la réponse ne les reçoivent pas. Certains utilisateurs peuvent recevoir la notification, contrairement à d’autres.
+Lorsqu’une personne répond à un commentaire, celles qui doivent recevoir des notifications pour la réponse ne les reçoivent pas. Certaines personnes peuvent recevoir la notification, contrairement à d’autres.
 
-**Un commentaire vide supplémentaire lors de l&#39;ajout d&#39;un commentaire sur un BAT**
+**Commentaire vide supplémentaire lors de la formulation d’un commentaire sur un BAT**
 
 _BAT_
 
@@ -142,33 +142,33 @@ Lorsqu’un utilisateur ou une utilisatrice fait un commentaire sur une épreuve
 
 Cela a été signalé sur les épreuves de vidéos.
 
-**[!UICONTROL Activité BAT] n’ouvre pas**
+L’onglet **[!UICONTROL Activité du BAT] ne s’ouvre pas**
 
 _BAT_
 
-Lorsqu’un utilisateur consulte un BAT et clique sur la variable [!UICONTROL Activité BAT] , l’onglet renvoie l’utilisateur à la fonction [!UICONTROL Détails du BAT] .
+Lorsqu’une personne consulte un BAT et clique sur l’onglet [!UICONTROL Activité du BAT], l’onglet la renvoie à l’onglet [!UICONTROL Détails du BAT].
 
-**[!UICONTROL Heures planifiées] sont réaffectés lorsqu’un utilisateur supplémentaire est affecté à une tâche.**
+Le **[!UICONTROL nombre d’heures prévues] est réaffecté lorsqu’une personne supplémentaire est affectée à une tâche**
 
 _Tâches_
 
-Lorsqu’un utilisateur est affecté à une tâche qui a [!UICONTROL Heures planifiées] affecté à d’autres personnes désignées sur la tâche, le [!UICONTROL Heures planifiées] sont distribués de manière égale à tous les affectés à la tâche.
+Lorsqu’une personne est affectée à une tâche pour laquelle un [!UICONTROL nombre d’heures prévues] est affecté à d’autres personnes désignées sur la tâche, le [!UICONTROL nombre d’heures prévues] de la tâche est uniformément réparti entre toutes les personnes désignées sur la tâche.
 
-**&quot;[!UICONTROL Supprimé]&quot; s’affiche en tant que nom d’utilisateur dans les mises à jour système lorsque le problème est converti en tâche**
+**« [!UICONTROL Supprimé] » s’affiche en tant que nom d’utilisateur ou d’utilisatrice dans les mises à jour système lorsque le problème est converti en tâche**
 
 _Mises à jour_
 
-Lorsqu’un utilisateur connecté en tant qu’autre utilisateur convertit un problème en une tâche et qu’il est assigné à une équipe, les mises à jour du système affichent &quot;[!UICONTROL Supprimé]&quot; comme utilisateur qui a demandé à l’équipe de travailler sur la tâche.
+Lorsqu’une personne connectée en tant qu’une autre personne convertit un problème en une tâche et que cette dernière est affectée à une équipe, les mises à jour du système affichent « [!UICONTROL Supprimé] » pour la personne ayant demandé à l’équipe de travailler sur la tâche.
 
 +++
 
 +++**Mise à jour de maintenance le 12 octobre 2023**
 
-**Workflows supprimés pour les comptes qui ne les utilisent pas**
+**Flux de travail supprimés pour les comptes qui ne les utilisent pas**
 
 _Panoramas_
 
-Pour les comptes qui n’ont jamais créé de workflow dans l’application Panoramas, la zone Flux de travail a été supprimée du tableau de bord Panoramas. Les comptes qui utilisent des workflows y ont toujours accès.
+Pour les comptes qui n’ont jamais créé de flux de travail dans l’application Panoramas, la zone Flux de travail a été supprimée du tableau de bord Panoramas. Les comptes qui utilisent des flux de travail y ont toujours accès.
 
 **Les champs calculés ne conservent pas de valeur lorsque le problème est converti en tâche**
 

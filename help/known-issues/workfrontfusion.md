@@ -7,7 +7,7 @@ feature: Workfront Fusion
 source-git-commit: a6d3a340e7452f45cb568ee4383ab7bfb55c5c34
 workflow-type: tm+mt
 source-wordcount: '150'
-ht-degree: 84%
+ht-degree: 89%
 
 ---
 
@@ -26,7 +26,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
 | [Workfront Fusion : faible erreur de mémoire](known-issues-workfront-fusion/fusion-low-memory-error.md) | 3 novembre 2023 |
-| [Fusion Workfront : duplication de projets créés à partir d’un seul module](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 24 octobre 2023 |
+| [Workfront Fusion : duplication de projets créés à partir d’un seul module](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 24 octobre 2023 |
 
 {style="table-layout:auto"}
 
