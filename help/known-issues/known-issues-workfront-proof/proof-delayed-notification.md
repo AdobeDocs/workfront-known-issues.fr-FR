@@ -1,20 +1,20 @@
 ---
-title: "Bon à tirer Workfront : emails et notifications différés"
-description: "Lorsqu’un événement se produit dans le Bon à tirer Workfront et qu’il doit déclencher une notification ou un courrier électronique, l’utilisateur ne reçoit pas la notification ou le courrier électronique pendant plusieurs heures. Cela peut créer de la confusion ou des retards dans les processus de travail."
+title: '« Workfront Proof : notifications et e-mails retardés »'
+description: Lorsqu’un événement se produit dans Workfront Proof devant déclencher une notification ou un e-mail, la personne ne reçoit pas la notification ou l’e-mail pendant plusieurs heures. Cela peut entraîner une confusion ou des retards dans les processus de travail.
 hidefromtoc: true
 feature: Digital Content and Documents, Updates and Notifications
-source-git-commit: e24f394c40d48f2aa5b71c8f00c461a1537e4ebe
-workflow-type: tm+mt
+exl-id: ce44dca5-5bd8-4d05-9af5-a53be13dcd20
+source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
+workflow-type: ht
 source-wordcount: '86'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
-
-# [!UICONTROL Bon à tirer Workfront]: emails et notifications retardés
+# [!UICONTROL Workfront Proof] : notifications et e-mails retardés
 
 <!--WF and WFP TOCs-->
 
-Lorsqu’un événement se produit dans [!UICONTROL Bon à tirer Workfront] qui doit déclencher une notification ou un email, l&#39;utilisateur ne reçoit pas la notification ou l&#39;email pendant plusieurs heures. Cela peut entraîner une confusion ou des retards dans les processus de travail.
+Lorsqu’un événement se produit dans [!UICONTROL Workfront Proof] devant déclencher une notification ou un e-mail, la personne ne reçoit pas la notification ou l’e-mail pendant plusieurs heures. Cela peut entraîner une confusion ou des retards dans les processus de travail.
 
 _Premier signalement le 25 octobre 2023._

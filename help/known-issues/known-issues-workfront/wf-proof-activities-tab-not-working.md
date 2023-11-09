@@ -1,26 +1,26 @@
 ---
-title: "Bons à tirer : l'onglet Activité BAT ne s'ouvre pas"
-description: "Lorsqu’un utilisateur consulte un BAT et clique sur la variable [!UICONTROL Activité BAT] , l’onglet renvoie l’utilisateur à la fonction [!UICONTROL Détails du BAT] onglet."
+title: '« BAT : l’onglet Activité du BAT ne s’ouvre pas »'
+description: Lorsqu’une personne consulte un BAT et clique sur l’onglet [!UICONTROL Activité du BAT], l’onglet la renvoie à l’onglet [!UICONTROL Détails du BAT].
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
-workflow-type: tm+mt
+exl-id: 39c30f12-9170-4545-9b80-c040f138ed2a
+source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 14%
+ht-degree: 100%
 
 ---
 
-
-# Bons à tirer : [!UICONTROL Activité BAT] n’ouvre pas
+# BAT : l’onglet [!UICONTROL Activité du BAT] ne s’ouvre pas
 
 >[!NOTE]
 >
 >Ce problème a été résolu le 19 octobre 2023.
 
-Lorsqu’un utilisateur consulte un BAT et clique sur la variable [!UICONTROL Activité BAT] , l’onglet renvoie l’utilisateur à la fonction [!UICONTROL Détails du BAT] .
+Lorsqu’une personne consulte un BAT et clique sur l’onglet [!UICONTROL Activité du BAT], l’onglet la renvoie à l’onglet [!UICONTROL Détails du BAT].
 
 **Solution de contournement**
 
-Afficher le document dans [!DNL Workfront].
+Affichez le document dans [!DNL Workfront].
 
-_Premier signalement le 1 juin 2023._
+_Premier signalement le 1er juin 2023._

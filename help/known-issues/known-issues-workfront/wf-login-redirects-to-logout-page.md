@@ -1,22 +1,22 @@
 ---
-title: "Connexion : la page de connexion redirige vers la page d’entrée de déconnexion"
-description: "Lorsqu’un utilisateur tente de se connecter à Workfront, au lieu de la page de connexion, il est dirigé vers la page sur laquelle il accéderait s’il se déconnectait."
+title: '« Connexion : la page de connexion redirige vers la page de destination de déconnexion »'
+description: Lorsqu’une personne tente de se connecter à Workfront, au lieu de la page de connexion, elle est dirigée vers la page sur laquelle elle accéderait si elle voulait se déconnecter.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: c176d4192b0248250cf1afa6e9c09ba88ac12942
-workflow-type: tm+mt
+exl-id: 6f7550db-7e21-4bfa-9daa-0efeb9296a57
+source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
+workflow-type: ht
 source-wordcount: '88'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
+# Connexion : la page de connexion redirige vers la page de destination de déconnexion
 
-# Connexion : la page de connexion redirige vers la page d’entrée de déconnexion.
-
-Lorsqu’un utilisateur tente de se connecter à [!DNL Workfront], au lieu de la page de connexion, ils sont dirigés vers la page sur laquelle ils accéderaient s’ils devaient se déconnecter.
+Lorsqu’une personne tente de se connecter à [!DNL Workfront], au lieu de la page de connexion, elle est dirigée vers la page sur laquelle elle accéderait si elle voulait se déconnecter.
 
 **Solution de contournement**
 
-Saisissez votre [!DNL Workfront] URL et tentative de connexion à nouveau.
+Saisissez votre URL [!DNL Workfront] et retentez de vous connecter.
 
 _Premier signalement le 5 octobre 2023._

@@ -1,23 +1,23 @@
 ---
-title: "Tâches : [!UICONTROL Oups] error dans l’en-tête de la tâche"
-description: '"Lorsqu’un utilisateur affiche une tâche, l’en-tête de la tâche ne contient aucune information. À la place, l’utilisateur voit un message "Whoops".'
+title: '« Tâches : erreur [!UICONTROL « Oups »] dans l’en-tête de la tâche »'
+description: Lorsqu’une personne affiche une tâche, l’en-tête de la tâche ne contient aucune information. Un message « Oups » s’affiche à la place.
 hidefromtoc: true
 feature: Tasks
-source-git-commit: da113ea4babc7eaeadc80f73aabd45d9482ad620
-workflow-type: tm+mt
+exl-id: 2bcbceb4-0618-44d6-9855-8c084fb8abe9
+source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
+workflow-type: ht
 source-wordcount: '83'
-ht-degree: 33%
+ht-degree: 100%
 
 ---
 
-
-# Tâches : &quot;[!UICONTROL Oups]&quot; erreur dans l’en-tête de la tâche
+# Tâches : erreur [!UICONTROL « Oups »] dans l’en-tête de la tâche
 
 >[!NOTE]
 >
 >Ce problème a été résolu le 26 octobre 2023.
 
-Lorsqu’un utilisateur affiche une tâche, l’en-tête de la tâche ne contient aucune information. À la place, l’utilisateur voit le message d’erreur suivant :
+Lorsqu’une personne affiche une tâche, l’en-tête de la tâche ne contient aucune information. À la place, le message d’erreur suivant s’affiche :
 
 « [!UICONTROL Oups ! Un problème est survenu. Contactez Workfront pour nous aider à comprendre l’erreur et y remédier.] »
 

@@ -5,13 +5,13 @@ feature: Agile
 hidefromtoc: true
 exl-id: ab136be3-38a1-4078-859b-099a31fd93a1
 source-git-commit: 392bc185c5549300b05299751af260df1d161009
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
 ht-degree: 100%
 
 ---
 
-# Panoramas : la barre de défilement horizontale n’est pas présente.
+# Panoramas : la barre de défilement horizontale n’est pas présente
 
 >[!NOTE]
 >

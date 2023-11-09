@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Agile
 exl-id: 947b1d9b-1f09-4bd0-9bd9-bed352b85dcb
 source-git-commit: aabbd74ae558555e79a3cc1bc96583878cd413b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->Ce problème a été résolu le 19 octobre. 2023.
+>Ce problème a été résolu le 19 octobre. 2023.
 
 Lorsqu’un utilisateur ou une utilisatrice affiche une carte sur un panorama, le nombre de la liste de contrôle affiche 0/0. Lorsque la personne clique dans la carte, elle peut voir les éléments de liste de contrôle existants.
 

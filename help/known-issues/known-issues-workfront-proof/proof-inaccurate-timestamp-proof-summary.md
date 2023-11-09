@@ -1,18 +1,18 @@
 ---
-title: "Bon à tirer Workfront : horodatage incorrect sur le résumé du bon à tirer"
-description: "Lorsqu’un utilisateur clique sur l’option Imprimer le résumé pour les bons à tirer, l’horodatage qui s’affiche comporte 30 minutes supplémentaires."
+title: '« Workfront Proof : horodatage incorrect sur le Résumé du BAT »'
+description: Lorsqu’une personne clique sur l’option Imprimer le résumé pour les BAT, l’horodatage qui s’affiche comporte 30 minutes supplémentaires.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 9e32c28c4428077057a194a2015ea1613a9656a4
-workflow-type: tm+mt
+exl-id: 089b620b-55ce-4a35-88a7-0cb6fa0dfe82
+source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
+workflow-type: ht
 source-wordcount: '54'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
+# [!DNL Workfront Proof] : horodatage incorrect sur le [!UICONTROL Résumé du BAT]
 
-# [!DNL Workfront Proof]: horodatage incorrect activé [!UICONTROL Résumé du BAT]
-
-Lorsqu’un utilisateur clique sur la variable [!UICONTROL Résumé de l’impression] pour les bons à tirer, l’horodatage affiché comportait 30 minutes supplémentaires.
+Lorsqu’une personne clique sur l’option [!UICONTROL Imprimer le résumé] pour les BAT, l’horodatage qui s’affiche comporte 30 minutes supplémentaires.
 
 _Premier signalement le 14 septembre 2023._

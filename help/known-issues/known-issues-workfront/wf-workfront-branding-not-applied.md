@@ -1,17 +1,17 @@
 ---
-title: "Workfront : la valorisation de marque n’est pas appliquée"
-description: "Lorsqu’un utilisateur charge des fichiers dans la zone Valorisation de marque de la configuration, les fichiers semblent être chargés correctement. Cependant, si un utilisateur affiche le menu principal, il ne voit pas le logo. Au lieu de cela, ils voient un message d’erreur."
+title: '« Workfront : le branding n’est pas appliqué »'
+description: Lorsqu’une personne charge des fichiers dans la zone Branding de la configuration, les fichiers semblent être chargés correctement. Cependant, le menu principal n’affiche pas le logo. Au lieu de cela, un message d’erreur s’affiche.
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 97630935e3291c31114232cdd196ee0041a00609
-workflow-type: tm+mt
+exl-id: 0c7e5ebf-c09a-45fd-a017-c1607cef8b78
+source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
+workflow-type: ht
 source-wordcount: '138'
-ht-degree: 25%
+ht-degree: 100%
 
 ---
 
-
-# [!DNL Workfront]: la marque n’est pas appliquée
+# [!DNL Workfront] : le branding n’est pas appliqué
 
 >[!NOTE]
 >
@@ -19,9 +19,9 @@ ht-degree: 25%
 
 >[!IMPORTANT]
 >
->L’identité graphique n’est pas disponible si votre organisation a été migrée vers Adobe Admin Console ou Adobe Unified Shell.
+>Le branding n’est pas disponible si votre organisation a été migrée vers Adobe Admin Console ou Adobe Unified Shell.
 
-Lorsqu’un utilisateur charge des fichiers dans la variable [!UICONTROL Marques] dans la zone de configuration, les fichiers semblent charger correctement. Toutefois, si un utilisateur affiche la variable [!UICONTROL Menu Principal], il ne voit pas le logo. Au lieu de cela, le message suivant s’affiche :
+Lorsqu’une personne charge des fichiers dans la zone [!UICONTROL Branding] de la configuration, les fichiers semblent être chargés correctement. Cependant, le [!UICONTROL menu principal] n’affiche pas le logo. Au lieu de cela, l’erreur suivante s’affiche :
 
 &quot;[!UICONTROL Logo de la société indisponible. Nous n’avons pas pu charger le logo de votre société sur l’URL fournie. Veuillez contacter votre administrateur système.]&quot;
 
