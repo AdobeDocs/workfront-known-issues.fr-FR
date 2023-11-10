@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2b2b4e9162dea84170a7e6db049b8191fa69c58a
+source-git-commit: 0bec78610e0e035d89b60a53d08cf07ef80c0753
 workflow-type: tm+mt
-source-wordcount: '1612'
-ht-degree: 92%
+source-wordcount: '1628'
+ht-degree: 91%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 92%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Tâches : les dates des tâches sont grisées pendant une longue période lors du nouveau calcul de la chronologie](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)
+      + [Panoramas : impossible de modifier la couleur de la balise](known-issues-workfront/wf-boards-cannot-edit-tag-color.md)
       + [Notifications : notification par e-mail non reçue lorsque l’utilisateur est balisé dans un commentaire](known-issues-workfront/wf-notif-email-not-received.md)
       + [Panoramas : problèmes lors de l’affichage de l’état de sous-tâche](known-issues-workfront/wf-boards-issues-with-subtask-status.md)
       + [Tableau de bord : grande marge vide lors de l’impression d’un tableau de bord vers PDF](known-issues-workfront/wf-dashboard-blank-area-when-printing.md)
