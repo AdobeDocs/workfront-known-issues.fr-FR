@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Lorsqu’une personne tente de se connecter à [!DNL Workfront], le message d’erreur suivant s’affiche :
 
-[!UICONTROL Erreur : {&quot;err&quot;:{&quot;name&quot;:&quot;Validation Error&quot;,&quot;statusCode&quot;:400,&quot;message&quot;:&quot;Expect one user but found 0. dell preview (User&#39;s name)&quot;}]
+[!UICONTROL Erreur : {&quot;err&quot;:{&quot;name&quot;:&quot;Validation Error&quot;,&quot;statusCode&quot;:400,&quot;message&quot;:&quot;Expect one user but found 0. dell preview (User&#39;s name)&quot;}}]
 
 Cela a été signalé dans l’organisation qui a été intégrée à [!DNL Adobe Admin Consol]e.
 
