@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 1aa3bc3a748e6fbde7616dd5a0408dfd5fb1006e
 workflow-type: tm+mt
 source-wordcount: '7087'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -42,7 +42,7 @@ Lorsque la personne envoie sa demande, la devise s’affiche comme la devise per
 
 _Mises à jour_
 
-Lorsqu’un utilisateur envoie un commentaire via l’API ou via [!DNL Workfront Fusion], le commentaire affiché dans la zone Mises à jour affiche des lignes supplémentaires. Parfois, il y a tellement de lignes que l’utilisateur doit faire défiler la page vers le bas pour voir le contenu du commentaire.
+Lorsqu’un utilisateur ou une utilisatrice envoie un commentaire via l’API ou via [!DNL Workfront Fusion], le commentaire affiché dans la zone Mises à jour affiche des lignes supplémentaires. Parfois, il y a tellement de lignes que l’utilisateur ou l’utilisatricedoit faire défiler la page vers le bas pour voir le contenu du commentaire.
 
 Cela a été signalé dans la nouvelle expérience de commentaire.
 
@@ -50,11 +50,11 @@ Cela a été signalé dans la nouvelle expérience de commentaire.
 
 +++**Mise à jour de maintenance le 9 novembre 2023**
 
-**Objets manquants dans mon widget de travail lorsqu’ils ne figurent pas en haut de la page**
+**Objets manquants du widget Mon travail lorsqu’il ne se trouve pas en haut de la page**
 
 _Accueil_
 
-Si le widget Mon travail se trouve en haut de la nouvelle page d’accueil, il extrait tous les objets attendus. Cependant, si ce widget se trouve sous tout autre widget de la page, il extrait uniquement 10 objets.
+Si le widget Mon travail se trouve en haut de la nouvelle page d’accueil, il extrait tous les objets attendus. Cependant, si ce widget se trouve sous tout autre widget de la page, il extrait 10 objets uniquement.
 
 **Impossible de générer le BAT**
 
@@ -66,11 +66,11 @@ Lorsque un utilisateur ou une utilisatrice tente de générer un BAT, celui-ci n
 
 Cela se produit lorsque le paramètre de niveau d’accès [!UICONTROL Afficher les coordonnées] de la personne est défini sur Désactivé.
 
-**Champs clairs lorsqu’un document est ajouté à une requête**
+**Champs effacés lorsqu’un document est ajouté à une demande**
 
 _Demandes_
 
-Lorsqu’un utilisateur crée une demande, remplit des champs dans un formulaire, puis ajoute ou supprime un document, certains champs du formulaire sont effacés des données et l’utilisateur doit les remplir à nouveau avant d’envoyer la demande.
+Lorsqu’un utilisateur ou une utilisatrice crée une demande, remplit des champs dans un formulaire, puis ajoute ou supprime un document, les données de certains champs du formulaire sont effacées et l’utilisateur ou l’utilisatrrice doit les remplir à nouveau avant d’envoyer la demande.
 
 **La tâche personnelle apparaît sur la feuille de temps**
 
@@ -80,13 +80,13 @@ Lorsqu’un utilisateur ou une utilisatrice crée une tâche sur le widget [!UIC
 
 +++
 
-+++**Mise à jour de maintenance (correctif) le 3 novembre 2023**
++++**Mise à jour de maintenance (correctif) le 3 novembre 2023**
 
-**Les tâches enfants apparaissent dans l’ordre lorsqu’elles sont déplacées sous la tâche parent.**
+**Les tâches enfants apparaissent dans l’ordre lorsqu’elles sont déplacées sous la tâche parent**
 
 _Modèles_
 
-Lorsqu’un utilisateur crée des tâches sur un modèle, puis déplace ces tâches sous une tâche parent, les nombres affectés aux tâches enfants n’apparaissent pas dans l’ordre attendu. Par conséquent, lorsque la page est actualisée, les tâches enfants sont triées selon les numéros de tâches inattendus, et les tâches enfants sont donc en panne.
+Lorsqu’un utilisateur ou une utilisatrice crée des tâches sur un modèle, puis déplace ces tâches sous une tâche parent, les numéros affectés aux tâches enfants n’apparaissent pas dans l’ordre attendu. Par conséquent, lorsque la page est actualisée, les tâches enfants sont triées selon les numéros de tâches inattendus, et les tâches enfants ne sont donc pas dans l’ordre.
 
 +++
 

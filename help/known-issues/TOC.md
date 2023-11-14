@@ -5,7 +5,7 @@ role: User
 source-git-commit: e9ef61fab8a1c433ead6b9c49a6f60eb81bca628
 workflow-type: tm+mt
 source-wordcount: '1637'
-ht-degree: 91%
+ht-degree: 98%
 
 ---
 
@@ -20,18 +20,18 @@ ht-degree: 91%
       + [[!UICONTROL Accueil]: les tâches n’apparaissent pas dans [!UICONTROL Mon travail] widget](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md)
       + [Tâches : les dates des tâches sont grisées pendant une longue période lors du nouveau calcul de la chronologie](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)
       + [Panoramas : impossible de modifier la couleur de la balise](known-issues-workfront/wf-boards-cannot-edit-tag-color.md)
-      + [Notifications : notification par e-mail non reçue lorsque l’utilisateur est balisé dans un commentaire](known-issues-workfront/wf-notif-email-not-received.md)
-      + [Panoramas : problèmes lors de l’affichage de l’état de sous-tâche](known-issues-workfront/wf-boards-issues-with-subtask-status.md)
-      + [Tableau de bord : grande marge vide lors de l’impression d’un tableau de bord vers PDF](known-issues-workfront/wf-dashboard-blank-area-when-printing.md)
-      + [Accueil : les tâches des projets dont l’état est Approuvé ou Planification ne sont pas incluses dans Mes tâches ou la liste de tâches à domicile](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
-      + [Modèles : les tâches enfants apparaissent dans l’ordre lorsqu’elles sont déplacées sous la tâche parent.](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)
-      + [Accueil : approbation bloquée [!UICONTROL En attente de mon approbation] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)
-      + [Bons à tirer : problèmes liés à l’activation de l’étape](known-issues-workfront/wf-proofs-stage-activation-issues.md)
-      + [Bons à tirer : chemin de navigation manquant lors de l’accès au BAT à partir du lien de l’email](known-issues-workfront/wf-proofs-breadcrumb-missing.md)
-      + [Demandes : les champs sont clairs lorsqu’un document est ajouté à une demande.](known-issues-workfront/wf-requests-fields-blank-when-doc-added.md)
-      + [Mises à jour : lignes supplémentaires en commentaire effectuées via l’API ou [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md)
-      + [Mises à jour : les commentaires associés aux mises à jour du système ne s’affichent pas.](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md)
-      + [Panoramas : erreur dans la section Commentaires d’une carte](known-issues-workfront/wf-boards-comment-section-error.md)
+      + [Notifications : notification par e-mail non reçue lorsque l’utilisateur ou l’utilisatrice est balisé(e) dans un commentaire](known-issues-workfront/wf-notif-email-not-received.md)
+      + [Panoramas : problèmes lors de l’affichage du statut de sous-tâche](known-issues-workfront/wf-boards-issues-with-subtask-status.md)
+      + [Tableau de bord : grande marge vide lors de l’impression d’un tableau de bord en PDF](known-issues-workfront/wf-dashboard-blank-area-when-printing.md)
+      + [Accueil : les tâches des projets dont le statut est Approuvé ou Planification ne sont pas incluses dans Mes tâches ou la liste de travail dans Accueil](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
+      + [Modèles : les tâches enfants apparaissent dans l’ordre lorsqu’elles sont déplacées sous la tâche parent](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)
+      + [Accueil : approbation bloquée sur le widget [!UICONTROL En attente de mon approbation]](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)
+      + [Bons à tirer : problèmes liés à l’activation de l’étape](known-issues-workfront/wf-proofs-stage-activation-issues.md)
+      + [Bons à tirer : chemin de navigation manquant lors de l’accès au BAT à partir du lien de l’e-mail](known-issues-workfront/wf-proofs-breadcrumb-missing.md)
+      + [Demandes : les champs sont effacés lorsqu’un document est ajouté à une demande](known-issues-workfront/wf-requests-fields-blank-when-doc-added.md)
+      + [Mises à jour : lignes supplémentaires dans le commentaire effectué via l’API ou [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md)
+      + [Mises à jour : les commentaires associés aux mises à jour du système ne s’affichent pas](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md)
+      + [Panoramas : erreur dans la section Commentaires d’une carte](known-issues-workfront/wf-boards-comment-section-error.md)
       + [[!UICONTROL Équilibreur de charge de travail] : [!UICONTROL l’équilibreur de charge de travail] se charge lentement](known-issues-workfront/wf-workload-balancer-loads-slowly.md)
       + [Demandes : devise personnalisée incorrecte affichée sur la page Nouvelle demande](known-issues-workfront/wf-requests-custom-currency.md)
       + [Rapports : les heures budgétisées dans le rapport d’utilisation ne correspondent pas aux heures budgétisées signalées par le biais de l’API](known-issues-workfront/wf-reports-incorrect-rpbghr.md)
@@ -116,7 +116,7 @@ ht-degree: 91%
       + [Configuration : impossible de modifier le Coût/heure ou la Facturation/heure de la fonction](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md)
       + [Panoramas : la barre de défilement horizontale n’est pas présente](known-issues-workfront/wf-board-no-scrollbar.md)
       + [Projets/Tâches/Problèmes : la chronologie n’est pas recalculée.](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
-      + [Filtres : « [!UICONTROL Activer à l’échelle du système] » et « [!UICONTROL Afficher à l’échelle du système] » constituent des fonctionnalités différentes.](known-issues-workfront/wf-filters-enable-system-wide.md)
+      + [Filtres: « [!UICONTROL Activer à l’échelle du système] » et « [!UICONTROL Afficher à l’échelle du système] » constituent des fonctionnalités différentes.](known-issues-workfront/wf-filters-enable-system-wide.md)
       + [Rapports : impossible de charger le rapport d’utilisation](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
       + [Épreuves : les options d’approbation n’apparaissent pas dans le [!UICONTROL Lecteur de vérification].](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
       + [[!UICONTROL Accueil] : les éléments n’apparaissent pas dans la [!UICONTROL Liste de travail de l’accueil]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
@@ -205,7 +205,7 @@ ht-degree: 91%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problèmes connus dans Workfront Fusion](workfrontfusion.md)
    + Problèmes actifs dans [!DNL Workfront Fusion] {#fusion-current}
-      + [Workfront Fusion : faible erreur de mémoire](known-issues-workfront-fusion/fusion-low-memory-error.md)
+      + [Workfront Fusion : erreur de mémoire faible](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion : duplication de projets créés à partir d’un seul module](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
       + [[!DNL Workfront Fusion] : erreur lors de l’envoi d’une invitation avec le module  [!DNL Workfront]  > [!UICONTROL Actions diverses]](known-issues-workfront-fusion/fusion-send-invite-error.md)
       + [[!DNL Workfront Fusion] : module de veille provoquant le blocage de scénarios](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
