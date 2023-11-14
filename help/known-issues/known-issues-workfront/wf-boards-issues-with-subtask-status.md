@@ -1,22 +1,22 @@
 ---
-title: 'Panoramas : problèmes lors de l’affichage de l’état de sous-tâche'
-description: "Des problèmes ont été signalés concernant l’affichage de l’état de sous-tâche sur une carte dans les panoramas."
+title: '« Panoramas : problèmes lors de l’affichage du statut de sous-tâche »'
+description: « Des problèmes ont été signalés concernant l’affichage du statut de sous-tâche sur une carte dans Panoramas. »
 hidefromtoc: true
 feature: Agile
 source-git-commit: 2fa805dcacc58ce19ddacd32dc51c3139a9432e4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# Panoramas : problèmes lors de l’affichage de l’état de sous-tâche
+# Panoramas : problèmes lors de l’affichage du statut de sous-tâche
 
-Les problèmes suivants ont été signalés concernant l’affichage de l’état de sous-tâche sur une carte dans les panoramas :
+Les problèmes suivants ont été signalés concernant l’affichage du statut de sous-tâche sur une carte dans Panoramas :
 
-* L’état s’affiche sous la forme &quot;Sélectionner l’état&quot; même si la tâche a déjà un état. Cet état est visible lorsque vous affichez directement la tâche.
-* Si l’utilisateur tente de sélectionner un état, l’écran devient vide et doit être actualisé.
+* Le statut s’affiche sous la forme « Sélectionner le statut » même si la tâche a déjà un statut. Ce statut est visible lorsque vous affichez directement la tâche.
+* Si l’utilisateur ou l’utilisatrice tente de sélectionner un statut, l’écran devient vide et doit être actualisé.
 
 **Solution de contournement**
 
