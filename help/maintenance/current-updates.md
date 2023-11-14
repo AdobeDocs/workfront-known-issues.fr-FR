@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 6d6d3c180a739413f28f132a23b4d91ad1b80c72
+source-git-commit: 1aa3bc3a748e6fbde7616dd5a0408dfd5fb1006e
 workflow-type: tm+mt
-source-wordcount: '6903'
-ht-degree: 97%
+source-wordcount: '7087'
+ht-degree: 96%
 
 ---
 
@@ -21,6 +21,32 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2023.
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates).
 
 ## Mises à jour de novembre 2023
+
++++**(Planifiée) Mise à jour de maintenance le 16 novembre 2023**
+
+**Le rapport sur les heures budgétisées dans l’utilisation ne correspond pas aux heures budgétées consignées dans l’API**
+
+_Rapports_
+
+Lorsqu’une personne effectue un appel API vers l’objet RPBGHR pour un projet donné et compare les résultats de cet appel au rapport d’utilisation pour ce projet, les résultats ne correspondent pas.
+
+**Monnaie personnalisée incorrecte affichée sur la page Nouvelle requête**
+
+_Demandes_
+
+Lorsqu’une personne envoie une demande et fait une sélection qui modifie la logique d’affichage dans le formulaire de demande, la devise affichée revient à la devise par défaut plutôt qu’à la devise personnalisée définie dans le projet représenté par la file d’attente des demandes.
+
+Lorsque la personne envoie sa demande, la devise s’affiche comme la devise personnalisée appropriée du projet que représente la file d’attente des demandes
+
+**Lignes supplémentaires en commentaire effectuées via l’API ou[!DNL Workfront Fusion]**
+
+_Mises à jour_
+
+Lorsqu’un utilisateur envoie un commentaire via l’API ou via [!DNL Workfront Fusion], le commentaire affiché dans la zone Mises à jour affiche des lignes supplémentaires. Parfois, il y a tellement de lignes que l’utilisateur doit faire défiler la page vers le bas pour voir le contenu du commentaire.
+
+Cela a été signalé dans la nouvelle expérience de commentaire.
+
++++
 
 +++**Mise à jour de maintenance le 9 novembre 2023**
 
