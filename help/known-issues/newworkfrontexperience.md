@@ -4,9 +4,9 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
+source-git-commit: 80cd493b72fb2732234e78b683afe071f8bd9545
 workflow-type: tm+mt
-source-wordcount: '803'
+source-wordcount: '778'
 ht-degree: 96%
 
 ---
@@ -28,7 +28,6 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 | [[!UICONTROL Accueil]: les tâches n’apparaissent pas dans [!UICONTROL Mon travail] widget](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md) | 13 novembre 2023 |
 | [Panoramas : impossible de modifier la couleur de la balise](known-issues-workfront/wf-boards-cannot-edit-tag-color.md) | 10 novembre 2023 |
 | [Panoramas : problèmes lors de l’affichage du statut de sous-tâche](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 8 novembre 2023 |
-| [Mises à jour : les commentaires associés aux mises à jour du système ne s’affichent pas](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | 1er novembre 2023 |
 | [[!UICONTROL Workfront Proof] : notifications et e-mails retardés](known-issues-workfront-proof/proof-delayed-notification.md) | 26 octobre 2023 |
 | [Panoramas : la recherche ne fonctionne pas](known-issues-workfront/wf-boards-search-not-working.md) | 20 octobre 2023 |
 
@@ -46,9 +45,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [Accueil : approbation bloquée sur le widget [!UICONTROL En attente de mon approbation] ](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 3 novembre 2023 |
 | [Bons à tirer : problèmes liés à l’activation de l’étape](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 3 novembre 2023 |
 | [Bons à tirer : chemin de navigation manquant lors de l’accès au BAT à partir du lien de l’e-mail](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 novembre 2023 |
-| [[!DNL Workfront Proof] : horodatage incorrect sur le [!UICONTROL Résumé du BAT]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 27 octobre 2023 |
-| [BAT : erreur lors du partage du BAT à partir du lien dans l’e-mail](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 octobre 2023 |
-| [Panoramas : les cartes attendues ne s’affichent pas sur le panorama](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 26 octobre 2023 |
 | [Tâches : erreur [!UICONTROL « Oups »] dans l’en-tête de la tâche](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 25 octobre 2023 |
 | [BAT : impossible de générer le BAT](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19 octobre 2023 |
 | [BAT : impossible de créer une version de BAT](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 19 octobre 2023 |
@@ -65,6 +61,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [BAT : erreur lors du partage du BAT à partir du lien dans l’e-mail](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 16 novembre 2023 |
 | [Workfront Fusion : duplication de projets créés à partir d’un seul module](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 9 novembre 2023 |
 | [Tableau de bord : grande marge vide lors de l’impression d’un tableau de bord en PDF](known-issues-workfront/wf-dashboard-blank-area-when-printing.md) | 7 novembre 2023 |
 | [[!UICONTROL Accueil] : le widget [!UICONTROL Requêtes] n’affiche pas toutes les équipes affectées.](known-issues-workfront/wf-home-request-shows-one-team.md) | 26 octobre 2023 |
