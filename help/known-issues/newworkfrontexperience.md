@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e9ef61fab8a1c433ead6b9c49a6f60eb81bca628
+source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
 workflow-type: tm+mt
-source-wordcount: '838'
-ht-degree: 97%
+source-wordcount: '803'
+ht-degree: 96%
 
 ---
 
@@ -46,9 +46,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [Accueil : approbation bloquée sur le widget [!UICONTROL En attente de mon approbation] ](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 3 novembre 2023 |
 | [Bons à tirer : problèmes liés à l’activation de l’étape](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 3 novembre 2023 |
 | [Bons à tirer : chemin de navigation manquant lors de l’accès au BAT à partir du lien de l’e-mail](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 novembre 2023 |
-| [Mises à jour : lignes supplémentaires dans le commentaire effectué via l’API ou [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md) | 2 novembre 2023 |
-| [Demandes : devise personnalisée incorrecte affichée sur la page Nouvelle demande](known-issues-workfront/wf-requests-custom-currency.md) | 30 octobre 2023 |
-| [Rapports : les heures budgétisées dans le rapport d’utilisation ne correspondent pas aux heures budgétisées signalées par le biais de l’API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 30 octobre 2023 |
 | [[!DNL Workfront Proof] : horodatage incorrect sur le [!UICONTROL Résumé du BAT]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 27 octobre 2023 |
 | [BAT : erreur lors du partage du BAT à partir du lien dans l’e-mail](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 octobre 2023 |
 | [Panoramas : les cartes attendues ne s’affichent pas sur le panorama](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 26 octobre 2023 |

@@ -3,9 +3,9 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 1aa3bc3a748e6fbde7616dd5a0408dfd5fb1006e
+source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
 workflow-type: tm+mt
-source-wordcount: '7087'
+source-wordcount: '7086'
 ht-degree: 99%
 
 ---
@@ -22,7 +22,7 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 ## Mises à jour de novembre 2023
 
-+++**(Planifiée) Mise à jour de maintenance le 16 novembre 2023**
++++**Mise à jour de maintenance le 16 novembre 2023**
 
 **Le rapport sur les heures budgétisées dans l’utilisation ne correspond pas aux heures budgétées consignées dans l’API**
 
@@ -48,7 +48,7 @@ Cela a été signalé dans la nouvelle expérience de commentaire.
 
 +++
 
-+++**Mise à jour de maintenance le 9 novembre 2023**
+    +++**Mise à jour de maintenance le 9 novembre 2023**
 
 **Objets manquants du widget Mon travail lorsqu’il ne se trouve pas en haut de la page**
 
