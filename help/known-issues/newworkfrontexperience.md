@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 6a29302c5a3b9e593f9cc9adf2948a6928bfd291
+source-git-commit: 8fcd13b3586664d7540e64fb855f7f84e6e7cdc7
 workflow-type: tm+mt
-source-wordcount: '786'
-ht-degree: 99%
+source-wordcount: '793'
+ht-degree: 98%
 
 ---
 
@@ -40,6 +40,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
+| [Rapports : erreur 500 lors de l&#39;export d&#39;un rapport](known-issues-workfront/wf-reports-500-error-when-exporting.md) | 20 novembre 2023 |
 | [Tâches : les dates des tâches sont grisées pendant une longue période lors du recalcul de la chronologie](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md). | 10 novembre 2023 |
 | [Notifications : notification par e-mail non reçue lorsque l’utilisateur ou l’utilisatrice est balisé(e) dans un commentaire](known-issues-workfront/wf-notif-email-not-received.md) | 8 novembre 2023 |
 | [Accueil : les tâches des projets dont le statut est Approuvé ou Planification ne sont pas incluses dans Mes tâches ou la liste de travail dans Accueil](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 6 novembre 2023 |
