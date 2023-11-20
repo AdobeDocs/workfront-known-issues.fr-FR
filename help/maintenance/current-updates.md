@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
 workflow-type: tm+mt
 source-wordcount: '7086'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -24,13 +24,13 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 +++**Mise à jour de maintenance le 16 novembre 2023**
 
-**Le rapport sur les heures budgétisées dans l’utilisation ne correspond pas aux heures budgétées consignées dans l’API**
+**Les heures budgétisées dans le rapport d’utilisation ne correspondent pas aux heures budgétisées signalées par le biais de l’API**
 
 _Rapports_
 
 Lorsqu’une personne effectue un appel API vers l’objet RPBGHR pour un projet donné et compare les résultats de cet appel au rapport d’utilisation pour ce projet, les résultats ne correspondent pas.
 
-**Monnaie personnalisée incorrecte affichée sur la page Nouvelle requête**
+**Devise personnalisée incorrecte affichée sur la page Nouvelle demande**
 
 _Demandes_
 
@@ -38,7 +38,7 @@ Lorsqu’une personne envoie une demande et fait une sélection qui modifie la l
 
 Lorsque la personne envoie sa demande, la devise s’affiche comme la devise personnalisée appropriée du projet que représente la file d’attente des demandes
 
-**Lignes supplémentaires en commentaire effectuées via l’API ou[!DNL Workfront Fusion]**
+**Lignes supplémentaires dans le commentaire effectué via l’API ou[!DNL Workfront Fusion]**
 
 _Mises à jour_
 
