@@ -4,7 +4,7 @@ description: « Lorsqu’une personne envoie une demande et fait une sélection
 hidefromtoc: true
 feature: Requests
 source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
 ht-degree: 100%
 
