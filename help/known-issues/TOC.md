@@ -2,9 +2,9 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8f575eb5ae601f5adc6f4c454ca0a8807c2ab6ef
+source-git-commit: 1ccf659018a55914f8d8842f497d2a12599ead67
 workflow-type: tm+mt
-source-wordcount: '1669'
+source-wordcount: '1672'
 ht-degree: 98%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Documents : impossible d’accéder [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md)
       + [Formulaires personnalisés : impossible d’ajouter ou de supprimer des formulaires personnalisés en masse sur des tâches de modèle](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md)
       + [Panoramas : la carte apparaît sur plusieurs sprints](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md)
       + [Rapports : erreur 500 lors de l&#39;export d&#39;un rapport](known-issues-workfront/wf-reports-500-error-when-exporting.md)
