@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 1ccf659018a55914f8d8842f497d2a12599ead67
 workflow-type: tm+mt
 source-wordcount: '818'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -26,7 +26,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
 | [Documents : impossible d’accéder [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27 novembre 2023 |
-| [Panoramas : la carte apparaît sur plusieurs sprints](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 21 novembre 2023 |
+| [Panoramas : la carte apparaît sur plusieurs sprints](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 21 novembre 2023 |
 | [Modèles : impossible de sélectionner un modèle dans la liste [!UICONTROL Favoris]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 16 novembre 2023 |
 | [[!UICONTROL Accueil] : les tâches n’apparaissent pas dans le widget [!UICONTROL Mon travail].](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md) | 13 novembre 2023 |
 | [Panoramas : impossible de modifier la couleur de la balise](known-issues-workfront/wf-boards-cannot-edit-tag-color.md) | 10 novembre 2023 |
@@ -42,8 +42,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
-| [Formulaires personnalisés : impossible d’ajouter ou de supprimer des formulaires personnalisés en masse sur des tâches de modèle](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 21 novembre 2023 |
-| [Rapports : erreur 500 lors de l&#39;export d&#39;un rapport](known-issues-workfront/wf-reports-500-error-when-exporting.md) | 20 novembre 2023 |
+| [Formulaires personnalisés : impossible d’ajouter ou de supprimer des formulaires personnalisés en bloc sur des tâches de modèle](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 21 novembre 2023 |
+| [Rapports : erreur 500 lors de l’export d’un rapport](known-issues-workfront/wf-reports-500-error-when-exporting.md) | 20 novembre 2023 |
 | [Tâches : les dates des tâches sont grisées pendant une longue période lors du recalcul de la chronologie](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md). | 10 novembre 2023 |
 | [Notifications : notification par e-mail non reçue lorsque l’utilisateur ou l’utilisatrice est balisé(e) dans un commentaire](known-issues-workfront/wf-notif-email-not-received.md) | 8 novembre 2023 |
 | [Accueil : les tâches des projets dont le statut est Approuvé ou Planification ne sont pas incluses dans Mes tâches ou la liste de travail dans Accueil](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 6 novembre 2023 |
