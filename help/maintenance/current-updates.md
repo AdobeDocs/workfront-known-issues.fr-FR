@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
-workflow-type: ht
-source-wordcount: '7086'
-ht-degree: 100%
+source-git-commit: 93ea563ee9bae7911c043e4ac94bf12cc8cffbbd
+workflow-type: tm+mt
+source-wordcount: '7227'
+ht-degree: 99%
 
 ---
 
@@ -21,6 +21,34 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2023.
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates).
 
 ## Mises à jour de novembre 2023
+
++++**(Planifiée) Mise à jour de maintenance le 30 novembre 2023**
+
+**Les tâches n’apparaissent pas dans [!UICONTROL Mon travail] widget**
+
+_[!UICONTROL Accueil]_
+
+Lorsqu’une personne affiche le widget [!UICONTROL Mon travail] dans l’[!UICONTROL Accueil], certaines des tâches qui lui sont affectées ne sont pas affichées dans le widget. Par exemple, une personne peut accéder à un projet et voir que des tâches lui ont été assignées dans le projet, mais ces tâches n’apparaissent pas dans le widget [!UICONTROL Mon travail de l’accueil] de la personne.
+
+**La page de connexion redirige vers la page d’entrée de déconnexion.**
+
+_Connexion_
+
+Lorsqu’une personne tente de se connecter à [!DNL Workfront], au lieu de la page de connexion, elle est dirigée vers la page sur laquelle elle accéderait si elle voulait se déconnecter.
+
+**Erreur 500 lors de l&#39;export d&#39;un rapport**
+
+_Rapports_
+
+Lors de la tentative d’export d’un rapport, l’export échoue et renvoie l’erreur suivante :
+
+```
+500: Cannot invoke "Object.getClass()" because "parentObj" is null /attask/api-internal/report/export
+```
+
+Ce problème a été signalé dans les rapports qui utilisent une `valueexpression` pour référencer le texte de la note `lastNote`.
+
++++
 
 +++**Mise à jour de maintenance le 16 novembre 2023**
 
@@ -48,7 +76,7 @@ Cela a été signalé dans la nouvelle expérience de commentaire.
 
 +++
 
-    +++**Mise à jour de maintenance le 9 novembre 2023**
++++**Mise à jour de maintenance le 9 novembre 2023**
 
 **Objets manquants du widget Mon travail lorsqu’il ne se trouve pas en haut de la page**
 
