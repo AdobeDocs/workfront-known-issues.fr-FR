@@ -1,18 +1,18 @@
 ---
-title: "Panoramas : la carte apparaît sur plusieurs empreintes"
-description: "Lorsqu’un utilisateur consulte un sprint sur les panoramas, des cartes qui se trouvent dans différentes empreintes apparaissent sur le panorama. Ce problème est intermittent."
+title: '« Panoramas : la carte apparaît sur plusieurs sprints »'
+description: Lorsqu’une personne consulte un sprint sur les panoramas, les cartes qui se trouvent dans différents sprints apparaissent sur le panorama. Ce problème est intermittent.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 41df80641db82b225753338d8564e12b90566c40
-workflow-type: tm+mt
+exl-id: 660cb70d-a513-4176-a205-ca54e02aac71
+source-git-commit: 45cea090d9e54514be9983b5443e7ee54b1f2d94
+workflow-type: ht
 source-wordcount: '62'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
+# Panoramas : la carte apparaît sur plusieurs sprints
 
-# Panoramas : la carte apparaît sur plusieurs sprints
-
-Lorsqu’un utilisateur consulte un sprint sur les panoramas, des cartes qui se trouvent dans différentes empreintes apparaissent sur le panorama. Ce problème est intermittent.
+Lorsqu’une personne consulte un sprint sur les panoramas, les cartes qui se trouvent dans différents sprints apparaissent sur le panorama. Ce problème est intermittent.
 
 _Premier signalement le 1 novembre 2023._
