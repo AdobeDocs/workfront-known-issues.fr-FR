@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 93ea563ee9bae7911c043e4ac94bf12cc8cffbbd
+source-git-commit: 8ccc1d7bc0d1d4fabc7e775713d44f5b5db43867
 workflow-type: tm+mt
-source-wordcount: '829'
-ht-degree: 98%
+source-wordcount: '841'
+ht-degree: 97%
 
 ---
 
@@ -43,6 +43,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
+| [Bons à tirer : les bons à tirer en attente de validation n’apparaissent pas dans les rapports](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md) | 29 novembre 2023 |
 | [Formulaires personnalisés : impossible d’ajouter ou de supprimer des formulaires personnalisés en bloc sur des tâches de modèle](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 21 novembre 2023 |
 | [Rapports : erreur 500 lors de l’export d’un rapport](known-issues-workfront/wf-reports-500-error-when-exporting.md) | 20 novembre 2023 |
 | [Tâches : les dates des tâches sont grisées pendant une longue période lors du recalcul de la chronologie](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md). | 10 novembre 2023 |

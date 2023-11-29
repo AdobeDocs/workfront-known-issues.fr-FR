@@ -4,10 +4,10 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 1ccf659018a55914f8d8842f497d2a12599ead67
+source-git-commit: 8ccc1d7bc0d1d4fabc7e775713d44f5b5db43867
 workflow-type: tm+mt
-source-wordcount: '378'
-ht-degree: 99%
+source-wordcount: '390'
+ht-degree: 96%
 
 ---
 
@@ -36,6 +36,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bons à tirer : les bons à tirer en attente de validation n’apparaissent pas dans les rapports](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md) | 29 novembre 2023 |
 | [Accueil : approbation bloquée sur le widget [!UICONTROL En attente de mon approbation] ](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 3 novembre 2023 |
 | [Bons à tirer : problèmes liés à l’activation de l’étape](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 3 novembre 2023 |
 | [Bons à tirer : chemin de navigation manquant lors de l’accès au BAT à partir du lien de l’e-mail](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 novembre 2023 |

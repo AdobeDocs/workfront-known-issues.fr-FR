@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 93ea563ee9bae7911c043e4ac94bf12cc8cffbbd
+source-git-commit: 8ccc1d7bc0d1d4fabc7e775713d44f5b5db43867
 workflow-type: tm+mt
-source-wordcount: '1682'
-ht-degree: 99%
+source-wordcount: '1693'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Bons à tirer : les bons à tirer en attente de validation n’apparaissent pas dans les rapports](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md)
       + [Tâches : la duplication de tâches entraîne l’affichage des tâches dans un mauvais ordre.](known-issues-workfront/wf-tasks-duplicating-wrong-order.md)
       + [Documents : impossible d’accéder [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md)
       + [Formulaires personnalisés : impossible d’ajouter ou de supprimer des formulaires personnalisés en bloc sur des tâches de modèle](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md)
