@@ -4,14 +4,18 @@ description: Lors de la tentative d’export d’un rapport, l’export échoue 
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 5275a4f4-4786-4a87-970f-774dcd526a39
-source-git-commit: 45cea090d9e54514be9983b5443e7ee54b1f2d94
-workflow-type: ht
-source-wordcount: '59'
+source-git-commit: 88126bda7f7c51895ae512bb5f7686119febd32f
+workflow-type: tm+mt
+source-wordcount: '65'
 ht-degree: 100%
 
 ---
 
 # Rapports : erreur 500 lors de l’export d’un rapport
+
+>[!NOTE]
+>
+>Ce problème a été résolu le 30 novembre 2023.
 
 Lors de la tentative d’export d’un rapport, l’export échoue et renvoie l’erreur suivante :
 
