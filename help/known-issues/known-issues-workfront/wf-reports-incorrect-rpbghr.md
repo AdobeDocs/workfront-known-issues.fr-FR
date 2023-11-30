@@ -3,19 +3,15 @@ title: '« Rapports : les heures budgétisées dans le rapport d’utilisation
 description: « Lorsqu’une personne effectue un appel API vers l’objet RPBGHR pour un projet donné et compare les résultats de cet appel au rapport d’utilisation pour ce projet, les résultats ne correspondent pas.  »
 hidefromtoc: true
 feature: Reports and Dashboards, Workfront API
-source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
-workflow-type: ht
-source-wordcount: '106'
+source-git-commit: 7023e66db369b0281df644fae9cf9902ffd59c3b
+workflow-type: tm+mt
+source-wordcount: '100'
 ht-degree: 100%
 
 ---
 
 
 # Rapports : les heures budgétisées dans le rapport d’utilisation ne correspondent pas aux heures budgétisées signalées par le biais de l’API
-
->[!NOTE]
->
->Ce problème a été résolu le 16 novembre 2023.
 
 Lorsqu’une personne effectue un appel API vers l’objet RPBGHR pour un projet donné et compare les résultats de cet appel au rapport d’utilisation pour ce projet, les résultats ne correspondent pas.
 
