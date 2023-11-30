@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: d68bec64be9bd02478787a52c28dba14502d6635
 workflow-type: tm+mt
 source-wordcount: '854'
-ht-degree: 95%
+ht-degree: 96%
 
 ---
 
@@ -27,7 +27,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 | -----------------------------------------------------------------| ----------------- |
 | [Panoramas : les cartes déplacées dans une colonne reviennent à la colonne d’origine après actualisation.](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md) | 29 novembre 2023 |
 | [Tâches : la duplication de tâches entraîne l’affichage des tâches dans un mauvais ordre.](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 28 novembre 2023 |
-| [Documents : impossible d’accéder [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27 novembre 2023 |
+| [Documents : impossible d’accéder à  [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27 novembre 2023 |
 | [Panoramas : la carte apparaît sur plusieurs sprints](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 21 novembre 2023 |
 | [Modèles : impossible de sélectionner un modèle dans la liste [!UICONTROL Favoris]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 16 novembre 2023 |
 | [[!UICONTROL Accueil] : les tâches n’apparaissent pas dans le widget [!UICONTROL Mon travail].](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md) | 13 novembre 2023 |

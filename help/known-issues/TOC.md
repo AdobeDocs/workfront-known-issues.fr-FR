@@ -5,7 +5,7 @@ role: User
 source-git-commit: d68bec64be9bd02478787a52c28dba14502d6635
 workflow-type: tm+mt
 source-wordcount: '1705'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 97%
       + [Panoramas : les cartes déplacées dans une colonne reviennent à la colonne d’origine après actualisation.](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md)
       + [Bons à tirer : les bons à tirer en attente de validation n’apparaissent pas dans les rapports](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md)
       + [Tâches : la duplication de tâches entraîne l’affichage des tâches dans un mauvais ordre.](known-issues-workfront/wf-tasks-duplicating-wrong-order.md)
-      + [Documents : impossible d’accéder [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md)
+      + [Documents : impossible d’accéder à  [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md)
       + [Formulaires personnalisés : impossible d’ajouter ou de supprimer des formulaires personnalisés en bloc sur des tâches de modèle](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md)
       + [Panoramas : la carte apparaît sur plusieurs sprints](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md)
       + [Rapports : erreur 500 lors de l’export d’un rapport](known-issues-workfront/wf-reports-500-error-when-exporting.md)
