@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 88126bda7f7c51895ae512bb5f7686119febd32f
+source-git-commit: eac66ce9ed7466d6fafd1075cf306825bbf7c07f
 workflow-type: tm+mt
-source-wordcount: '7245'
-ht-degree: 99%
+source-wordcount: '7401'
+ht-degree: 98%
 
 ---
 
@@ -19,6 +19,29 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2023.
 >Ces mises à jour incluent également d’autres correctifs mineurs ou moins conséquents. L’assistance [!DNL Workfront] vous avertira lorsqu’un problème que vous avez soumis est résolu.
 
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates).
+
+## Mises à jour de décembre 2023
+
++++**Mise à jour de maintenance le vendredi 7 décembre 2023**
+
+**Validation bloquée [!UICONTROL En attente de mon approbation] widget**
+
+_Accueil_
+
+Lorsqu’une nouvelle version d’un document est chargée et qu’une approbation de la version précédente n’est pas terminée, l’ancienne version du document est bloquée sur le widget [!UICONTROL En attente de mon approbation] de l’approbateur ou de l’approbatrice. L’approbation ne peut pas être approuvée puisqu’il existe une nouvelle version et elle ne peut pas être supprimée du widget.
+
+**Problèmes lors de l’ajout de tâches en mode Panorama**
+
+_Tâches / Problèmes_
+
+Lorsqu’un utilisateur consulte la vue Panorama de la zone Tâches ou Problèmes dans un projet et tente d’ajouter une tâche ou un problème, les événements suivants peuvent se produire :
+
+* La fenêtre contextuelle bascule entre deux styles de fenêtre différents
+* L’utilisateur ne peut pas fermer la fenêtre contextuelle
+
+Cela se produit lorsqu’un utilisateur sélectionne une zone dans le volet de navigation de gauche de la fenêtre contextuelle avant de saisir des informations.
+
++++
 
 ## Mises à jour de novembre 2023
 
