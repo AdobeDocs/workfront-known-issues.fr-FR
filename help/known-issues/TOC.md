@@ -4,8 +4,8 @@ user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
 source-git-commit: c32c77dd7adb55d2eb44520539ca375c577032ed
 workflow-type: tm+mt
-source-wordcount: '1734'
-ht-degree: 96%
+source-wordcount: '1743'
+ht-degree: 98%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 96%
       + [Tâches/problèmes : problèmes lors de l’ajout de tâches en vue de tâches ou de problèmes dans le panorama](known-issues-workfront/wf-tasks-issues-board-view.md)
       + [Panoramas : erreur dans [!UICONTROL Commentaires] section de cartes](known-issues-workfront/wf-boards-comments-section-error.md)
       + [Configuration : impossible d’utiliser [!UICONTROL Démarrages] pour configurer des regroupements](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md)
-      + [Panoramas : les cartes déplacées dans une colonne reviennent à la colonne d’origine après actualisation.](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md)
-      + [Bons à tirer : les bons à tirer en attente de validation n’apparaissent pas dans les rapports](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md)
-      + [Tâches : la duplication de tâches entraîne l’affichage des tâches dans un mauvais ordre.](known-issues-workfront/wf-tasks-duplicating-wrong-order.md)
+      + [Panoramas : les cartes déplacées dans une colonne reviennent à la colonne d’origine après actualisation](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md)
+      + [BAT : les BAT en attente d’approbation n’apparaissent pas dans les rapports](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md)
+      + [Tâches : la duplication de tâches entraîne l’affichage des tâches dans un ordre incorrect](known-issues-workfront/wf-tasks-duplicating-wrong-order.md)
       + [Documents : impossible d’accéder à  [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md)
       + [Formulaires personnalisés : impossible d’ajouter ou de supprimer des formulaires personnalisés en bloc sur des tâches de modèle](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md)
       + [Panoramas : la carte apparaît sur plusieurs sprints](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md)

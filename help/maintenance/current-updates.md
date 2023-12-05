@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 88126bda7f7c51895ae512bb5f7686119febd32f
 workflow-type: tm+mt
-source-wordcount: '7226'
+source-wordcount: '7245'
 ht-degree: 99%
 
 ---
@@ -22,21 +22,21 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 ## Mises à jour de novembre 2023
 
-+++**Mise à jour de maintenance le 30 novembre 2023**
++++**Mise à jour de maintenance le vendredi 30 novembre 2023**
 
-**Les tâches n’apparaissent pas dans [!UICONTROL Mon travail] widget**
+**Les tâches n’apparaissent pas dans le widget [!UICONTROL Mon travail]**
 
 _[!UICONTROL Accueil]_
 
 Lorsqu’une personne affiche le widget [!UICONTROL Mon travail] dans l’[!UICONTROL Accueil], certaines des tâches qui lui sont affectées ne sont pas affichées dans le widget. Par exemple, une personne peut accéder à un projet et voir que des tâches lui ont été assignées dans le projet, mais ces tâches n’apparaissent pas dans le widget [!UICONTROL Mon travail de l’accueil] de la personne.
 
-**La page de connexion redirige vers la page d’entrée de déconnexion.**
+**La page de connexion redirige vers la page de destination de déconnexion**
 
 _Connexion_
 
 Lorsqu’une personne tente de se connecter à [!DNL Workfront], au lieu de la page de connexion, elle est dirigée vers la page sur laquelle elle accéderait si elle voulait se déconnecter.
 
-**Erreur 500 lors de l&#39;export d&#39;un rapport**
+**Erreur 500 lors de l’export des rapports**
 
 _Rapports_
 
@@ -238,7 +238,7 @@ _Accueil_
 
 Lorsqu’un utilisateur ou une utilisatrice modifie les filtres sur [!UICONTROL Accueil], la zone [!UICONTROL Accueil] ne se charge pas et l’utilisateur ou l’utilisatrice voit l’erreur suivante :
 
-« [!UICONTROL Une erreur s’est produite et nous nous efforçons de la résoudre. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.] »
+&quot;[!UICONTROL Une erreur s’est produite et nous travaillons à résoudre le problème. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.] »
 
 +++
 
