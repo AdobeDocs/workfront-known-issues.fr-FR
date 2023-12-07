@@ -2,9 +2,9 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: a15e739c797f3b0c4e01db4396509979e19babc3
+source-git-commit: 3696ef02bf7a80584e0d927b348e11d0b98d9991
 workflow-type: tm+mt
-source-wordcount: '1753'
+source-wordcount: '1759'
 ht-degree: 97%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [État : [!UICONTROL Oups] erreur lors du masquage de l’état](known-issues-workfront/wf-setup-whoops-when-hiding-status.md)
       + [Mises à jour : il manque certaines mises à jour dans la nouvelle expérience de commentaire.](known-issues-workfront/wf-updates-not-visible-in-new-experience.md)
       + [Tâches/problèmes : problèmes lors de l’ajout de tâches en vue de tâches ou de problèmes dans le panorama](known-issues-workfront/wf-tasks-issues-board-view.md)
       + [Panoramas : erreur dans [!UICONTROL Commentaires] section de cartes](known-issues-workfront/wf-boards-comments-section-error.md)

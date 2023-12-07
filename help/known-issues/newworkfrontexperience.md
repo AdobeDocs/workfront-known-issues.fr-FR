@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: a15e739c797f3b0c4e01db4396509979e19babc3
+source-git-commit: ca99d991b9b27b1149c15145786d5f773451c7d7
 workflow-type: tm+mt
-source-wordcount: '882'
-ht-degree: 95%
+source-wordcount: '889'
+ht-degree: 94%
 
 ---
 
@@ -41,6 +41,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
+| [État : [!UICONTROL Oups] erreur lors du masquage de l’état](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | jeudi 6 décembre 2023 |
 | [Mises à jour : il manque certaines mises à jour dans la nouvelle expérience de commentaire.](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | jeudi 6 décembre 2023 |
 | [Tâches/problèmes : problèmes lors de l’ajout de tâches en vue de tâches ou de problèmes dans le panorama](known-issues-workfront/wf-tasks-issues-board-view.md) | samedi 1 décembre 2023 |
 | [Feuilles de temps : la tâche personnelle apparaît sur la feuille de temps](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | vendredi 30 novembre 2023 |
