@@ -5,7 +5,7 @@ role: User
 source-git-commit: b7f1508544cfd7e9613474c946e05d58d38fa5dc
 workflow-type: tm+mt
 source-wordcount: '1792'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -22,9 +22,9 @@ ht-degree: 95%
       + [Accueil : les widgets Mes projets et Mes tâches affichent uniquement 25 éléments](known-issues-workfront/wf-home-widgets-show-25-items.md)
       + [État : [!UICONTROL Oups] erreur lors du masquage de l’état](known-issues-workfront/wf-setup-whoops-when-hiding-status.md)
       + [Mises à jour : il manque certaines mises à jour dans la nouvelle expérience de commentaire.](known-issues-workfront/wf-updates-not-visible-in-new-experience.md)
-      + [Tâches/problèmes : problèmes lors de l’ajout de tâches en vue de tâches ou de problèmes dans le panorama](known-issues-workfront/wf-tasks-issues-board-view.md)
-      + [Panoramas : erreur dans [!UICONTROL Commentaires] section de cartes](known-issues-workfront/wf-boards-comments-section-error.md)
-      + [Configuration : impossible d’utiliser [!UICONTROL Démarrages] pour configurer des regroupements](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md)
+      + [Tâches/Problèmes : problèmes lors de l’ajout d’éléments de travail dans la vue Tableau des tâches ou des problèmes](known-issues-workfront/wf-tasks-issues-board-view.md)
+      + [Panoramas : erreur dans la section [!UICONTROL Commentaires] des cartes](known-issues-workfront/wf-boards-comments-section-error.md)
+      + [Configuration : impossible d’utiliser les [!UICONTROL Démarrages] pour créer des regroupements](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md)
       + [Panoramas : les cartes déplacées dans une colonne reviennent à la colonne d’origine après actualisation](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md)
       + [BAT : les BAT en attente d’approbation n’apparaissent pas dans les rapports](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md)
       + [Tâches : la duplication de tâches entraîne l’affichage des tâches dans un ordre incorrect](known-issues-workfront/wf-tasks-duplicating-wrong-order.md)
