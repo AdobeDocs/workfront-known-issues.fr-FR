@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: eac66ce9ed7466d6fafd1075cf306825bbf7c07f
+source-git-commit: 26c2a3cb7fad72442064ded1bc368967e89176b0
 workflow-type: tm+mt
-source-wordcount: '7401'
-ht-degree: 98%
+source-wordcount: '7435'
+ht-degree: 99%
 
 ---
 
@@ -22,6 +22,15 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 ## Mises à jour de décembre 2023
 
++++**Mise à jour de maintenance le vendredi 14 décembre 2023**
+
+**Les bons à tirer en attente d’approbation n’apparaissent pas dans les rapports**
+
+_BAT_
+
+Lorsqu’un utilisateur ou une utilisatrice consulte un rapport pour les approbations de BAT en attente, certaines approbations en attente n’apparaissent pas dans le rapport.
++++
+
 +++**Mise à jour de maintenance le vendredi 7 décembre 2023**
 
 **Validation bloquée [!UICONTROL En attente de mon approbation] widget**
@@ -34,12 +43,12 @@ Lorsqu’une nouvelle version d’un document est chargée et qu’une approbati
 
 _Tâches / Problèmes_
 
-Lorsqu’un utilisateur consulte la vue Panorama de la zone Tâches ou Problèmes dans un projet et tente d’ajouter une tâche ou un problème, les événements suivants peuvent se produire :
+Lorsqu’une personne affiche la vue Tableau de la zone Tâches ou Problèmes d’un projet et qu’elle tente d’ajouter une tâche ou un problème, les problèmes suivants peuvent se produire :
 
-* La fenêtre contextuelle bascule entre deux styles de fenêtre différents
-* L’utilisateur ne peut pas fermer la fenêtre contextuelle
+* La fenêtre contextuelle passe d’un style de fenêtre à l’autre.
+* L&#39;utilisateur ou l’utilisatrice ne peut pas fermer la fenêtre contextuelle.
 
-Cela se produit lorsqu’un utilisateur sélectionne une zone dans le volet de navigation de gauche de la fenêtre contextuelle avant de saisir des informations.
+Ce problème se produit lorsqu’un utilisateur ou une utilisatrice sélectionne une zone dans la navigation gauche de la fenêtre contextuelle avant de saisir la moindre information.
 
 +++
 
