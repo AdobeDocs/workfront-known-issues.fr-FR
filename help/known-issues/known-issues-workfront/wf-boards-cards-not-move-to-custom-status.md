@@ -1,17 +1,21 @@
 ---
-title: '« Panoramas : les cartes déplacées dans une colonne reviennent à la colonne d’origine après actualisation »'
-description: « Lorsqu’un utilisateur ou une utilisatrice déplace une carte vers une autre colonne, puis l’actualise ou revient sur le panorama, la carte revient à sa colonne d’origine. »
+title: "Panoramas : les cartes déplacées dans une colonne reviennent à la colonne d’origine après actualisation"
+description: Lorsqu’un utilisateur ou une utilisatrice déplace une carte vers une autre colonne, puis l’actualise ou revient sur le panorama, la carte revient à sa colonne d’origine.
 hidefromtoc: true
 feature: Agile
-source-git-commit: d68bec64be9bd02478787a52c28dba14502d6635
-workflow-type: ht
-source-wordcount: '106'
-ht-degree: 100%
+exl-id: fd92be4b-a87b-4b99-9d19-fd69c4fa5afb
+source-git-commit: 85bb62f8752bba167a6633af8d9e58ff25283573
+workflow-type: tm+mt
+source-wordcount: '117'
+ht-degree: 89%
 
 ---
 
-
 # Panoramas : les cartes déplacées dans une colonne reviennent à la colonne d’origine après actualisation
+
+>[!NOTE]
+>
+>Ce problème a été résolu, car tout fonctionne comme prévu.
 
 Lorsqu’un utilisateur ou une utilisatrice déplace une carte vers une autre colonne, puis l’actualise ou revient sur le panorama, la carte revient à sa colonne d’origine.
 

@@ -4,9 +4,9 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 796999dfce705a18d07ee126e2fb072d706c0df7
+source-git-commit: 85bb62f8752bba167a6633af8d9e58ff25283573
 workflow-type: tm+mt
-source-wordcount: '864'
+source-wordcount: '838'
 ht-degree: 98%
 
 ---
@@ -26,9 +26,6 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
 | [Rapports : le rapport Heure planifiée ne se met pas à jour toutes les heures comme prévu](known-issues-workfront/wf-reports-report-not-updating.md) | vendredi 14 décembre 2023 |
-| [Panoramas : les cartes ne se déplacent pas vers la colonne appropriée lorsque le statut est modifié](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | vendredi 7 décembre 2023 |
-| [Panoramas : erreur dans la section [!UICONTROL Commentaires] des cartes](known-issues-workfront/wf-boards-comments-section-error.md) | samedi 1 décembre 2023 |
-| [Panoramas : les cartes déplacées dans une colonne reviennent à la colonne d’origine après actualisation](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md) | 29 novembre 2023 |
 | [Documents : impossible d’accéder à  [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27 novembre 2023 |
 | [Panoramas : la carte apparaît sur plusieurs sprints](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 21 novembre 2023 |
 | [Modèles : impossible de sélectionner un modèle dans la liste [!UICONTROL Favoris]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 16 novembre 2023 |
@@ -43,12 +40,13 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
+| [Panoramas : erreur dans la section [!UICONTROL Commentaires] des cartes](known-issues-workfront/wf-boards-comments-section-error.md) | vendredi 14 décembre 2023 |
+| [Rapports : les heures budgétisées dans le rapport d’utilisation ne correspondent pas aux heures budgétisées signalées par le biais de l’API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | vendredi 14 décembre 2023 |
+| [Panoramas : les cartes ne se déplacent pas vers la colonne appropriée lorsque le statut est modifié](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | vendredi 14 décembre 2023 |
 | [Mises à jour : les commentaires effectués dans une nouvelle expérience de commentaire ne sont pas visibles dans l’expérience héritée](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | vendredi 14 décembre 2023 |
 | [Configuration : les statuts des problèmes par défaut ne figurent pas dans certains types de problèmes dans la Configuration.](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | vendredi 7 décembre 2023 |
-| [Accueil : les widgets Mes projets et Mes tâches n’affichent que 25 éléments](known-issues-workfront/wf-home-widgets-show-25-items.md) | vendredi 7 décembre 2023 |
 | [Statut : erreur [!UICONTROL Oups] lors du masquage du statut](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | jeudi 6 décembre 2023 |
 | [Mises à jour : certaines mises à jour sont manquantes dans la nouvelle expérience de commentaire](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | jeudi 6 décembre 2023 |
-| [Feuilles de temps : la tâche personnelle apparaît sur la feuille de temps](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | vendredi 30 novembre 2023 |
 | [Tâches : la duplication de tâches entraîne l’affichage des tâches dans un ordre incorrect](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | vendredi 30 novembre 2023 |
 | [Formulaires personnalisés : impossible d’ajouter ou de supprimer des formulaires personnalisés en bloc sur des tâches de modèle](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 21 novembre 2023 |
 | [Tâches : les dates des tâches sont grisées pendant une longue période lors du recalcul de la chronologie](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md). | 10 novembre 2023 |
@@ -56,7 +54,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [Tâches : erreur [!UICONTROL « Oups »] dans l’en-tête de la tâche](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 25 octobre 2023 |
 | [BAT : impossible de générer le BAT](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19 octobre 2023 |
 | [BAT : impossible de créer une version de BAT](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 19 octobre 2023 |
-| [Connexion : la page de connexion redirige vers la page de destination de déconnexion](known-issues-workfront/wf-login-redirects-to-logout-page.md) | 18 octobre 2023 |
 | [[!UICONTROL Équilibreur de charge de travail] : le [!UICONTROL Nombre total d’heures] ne correspond pas à la somme du [!UICONTROL Nombre d’heures prévues]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 12 octobre 2023 |
 | [[!DNL Workfront] : problèmes lors de la soumission d’un cas d’assistance [!DNL Workfront] sur Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 août 2022 |
 
