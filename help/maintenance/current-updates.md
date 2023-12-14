@@ -33,15 +33,15 @@ Lorsqu’un utilisateur ou une utilisatrice consulte un rapport pour les approba
 
 +++**Mise à jour de maintenance le vendredi 7 décembre 2023**
 
-**Validation bloquée [!UICONTROL En attente de mon approbation] widget**
+**Approbation bloquée sur le widget [!UICONTROL En attente de mon approbation]**
 
 _Accueil_
 
 Lorsqu’une nouvelle version d’un document est chargée et qu’une approbation de la version précédente n’est pas terminée, l’ancienne version du document est bloquée sur le widget [!UICONTROL En attente de mon approbation] de l’approbateur ou de l’approbatrice. L’approbation ne peut pas être approuvée puisqu’il existe une nouvelle version et elle ne peut pas être supprimée du widget.
 
-**Problèmes lors de l’ajout de tâches en mode Panorama**
+**Problèmes lors de l’ajout d’éléments de travail dans la vue Panorama des tâches ou des problèmes**
 
-_Tâches / Problèmes_
+_Tâches/Problèmes_
 
 Lorsqu’une personne affiche la vue Tableau de la zone Tâches ou Problèmes d’un projet et qu’elle tente d’ajouter une tâche ou un problème, les problèmes suivants peuvent se produire :
 
@@ -270,7 +270,7 @@ _Accueil_
 
 Lorsqu’un utilisateur ou une utilisatrice modifie les filtres sur [!UICONTROL Accueil], la zone [!UICONTROL Accueil] ne se charge pas et l’utilisateur ou l’utilisatrice voit l’erreur suivante :
 
-&quot;[!UICONTROL Une erreur s’est produite et nous travaillons à résoudre le problème. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.] »
+« [!UICONTROL Une erreur s’est produite et nous travaillons à résoudre le problème. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.] »
 
 +++
 
