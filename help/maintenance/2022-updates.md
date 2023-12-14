@@ -1,11 +1,11 @@
 ---
-title: Mises à jour de maintenance pour Workfront  en 2022
+title: Mises à jour de maintenance Workfront en 2022
 description: Mises à jour de maintenance 2022 pour [!DNL Adobe Workfront]
 exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
 feature: Get Started with Workfront
 source-git-commit: 6f245f70ca00bef3db833a891cc4c7d822761c37
 workflow-type: ht
-source-wordcount: '16739'
+source-wordcount: '16795'
 ht-degree: 100%
 
 ---
@@ -280,7 +280,7 @@ Ce comportement a été signalé lorsque l’utilisateur accède au rapport des 
 
 L’accès aux rapports via un tableau de bord met à jour les informations relatives à la dernière consultation.
 
-**[!DNL Workfront] : Erreur 500 lors de la modification d’un objet [!DNL Workfront]**+
+**[!DNL Workfront] : erreur 500 lors de la modification d’un [!DNL Workfront]objet**+
 
 *[!DNL Workfront]*
 
@@ -347,8 +347,8 @@ Les zones suivantes sont concernées :
 
 Nous avons ajouté plusieurs icônes d’informations pour les paramètres suivants :
 
-* La case « Peut modifier l’heure » lors de la création ou de la modification d’une feuille de temps ou d’un profil de feuille de temps indique, lorsqu’elle est cochée, que les approbateurs peuvent également envoyer, rouvrir ou modifier la feuille de temps, sauf si votre administrateur restreint ces actions dans les « Préférences de la feuille de temps » de la section « Configuration ».
-* « Limiter la modification de la feuille de temps aux propriétaires et aux administrateurs » dans la zone « Préférences de la feuille de temps et d’heure » de la section « Configuration » pour indiquer que, lorsque cette case est décochée, les utilisateurs suivants peuvent également modifier les feuilles de temps : les utilisateurs disposant d’un accès administratif aux feuilles de temps et d’heure, les approbateurs de feuilles de temps autorisés à modifier l’heure et les gestionnaires des propriétaires de feuilles de temps.
+* La case « Peut modifier l’heure » lors de la création ou de la modification d’une feuille de temps ou d’un profil de feuille de temps indique, lorsqu’elle est cochée, que les approbateurs etles approbatrices peuvent également envoyer, rouvrir ou modifier la feuille de temps, sauf si votre administrateur ou administratrice restreint ces actions dans les « Préférences de la feuille de temps » de la section « Configuration ».
+* « Limiter la modification de la feuille de temps aux propriétaires et aux administrateurs » dans la zone « Préférences de la feuille de temps et d’heure » de la section « Configuration » pour indiquer que, lorsque cette case est décochée, les utilisateurs et utilisatrices suivants peuvent également modifier les feuilles de temps : les utilisateurs et utilisatrices disposant d’un accès administratif aux feuilles de temps et d’heure, les approbateurs et les approbatrices de feuilles de temps autorisés à modifier l’heure et les gestionnaires des propriétaires de feuilles de temps.
 
 Notez que la fonctionnalité de ces paramètres n’a pas été modifiée et que seules des icônes d’informations ont été ajoutées pour clarifier la fonction des paramètres.
 
@@ -511,7 +511,7 @@ Lorsqu’un utilisateur affecte plusieurs équipes à une tâche ou à un évén
 
 Lorsque l’utilisateur tente d’apporter une modification à une feuille de temps qui déclencherait son enregistrement automatique, la modification n’est pas enregistrée et le message suivant apparaît :
 
-« [!UICONTROL Vos dernières modifications n’ont pas été enregistrées. Actualisez la page pour les voir]. »
+« [!UICONTROL Vos modifications récentes n’ont pas été enregistrées. Actualisez la page que vous souhaitez afficher.] »
 
 Ce problème a été signalé lors de la modification des éléments suivants :
 
@@ -586,7 +586,7 @@ Lorsque l’utilisateur consulte les mises à jour et survole un nom, une carte 
 
 Lorsque l’utilisateur tente de consigner des heures pour une tâche sur sa feuille de temps, les heures ne s’ajoutent pas et le message d’erreur suivant apparaît :
 
-« [!UICONTROL Nous sommes désolés, mais votre enregistrement a échoué, une autre personne ayant tenté d’enregistrer ce projet au même moment. Veuillez tenter d’enregistrer à nouveau.] »
+«[!UICONTROL  Votre enregistrement a échoué, car une autre personne a tenté d’enregistrer ce projet au même moment. Veuillez réessayer de l’enregistrer plus tard.] »
 
 **Impossible de fermer la carte d’utilisateur dans le flux de mise à jour**
 
@@ -886,7 +886,7 @@ Toutes les fonctionnalités de [!DNL Workfront Classic] ont été supprimées le
 
 Lorsque l’utilisateur tente d’ouvrir un élément de sa [!UICONTROL Liste de travail de l’accueil], l’élément ne s’ouvre pas et le message suivant apparaît :
 
-« [!UICONTROL Une erreur s’est produite et nous nous efforçons de la résoudre. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.] »
+« [!UICONTROL Une erreur s’est produite et nous travaillons à résoudre le problème. Pour continuer votre travail, essayez d’actualiser cette page de navigateur. ]»
 
 **Les tâches et les événements délégués à l’utilisateur n’apparaissent pas dans sa Liste de travail de l’accueil**
 
@@ -1177,7 +1177,7 @@ Lorsque l’utilisateur consulte le tableau de bord d’un projet et tente d’a
 
 Lorsque l’utilisateur consulte sa [!UICONTROL Liste de travail de l’accueil] et clique sur un élément de la section [!UICONTROL Mes approbations soumises], la page affiche le message d’erreur suivant :
 
-« [!UICONTROL Une erreur s’est produite et nous nous efforçons de la résoudre. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.] »
+« [!UICONTROL Une erreur s’est produite et nous travaillons à résoudre le problème. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.] »
 
 Si l’utilisateur actualise la page, puis clique sur n’importe quel élément de la [!UICONTROL Liste de travail], le message d’erreur apparaît. Le problème ne concerne plus uniquement les éléments de la section [!UICONTROL Mes approbations soumises].
 
@@ -1508,7 +1508,7 @@ Lorsque l’utilisateur se trouve dans la zone [!UICONTROL Enregistrements de fa
 
 Lorsque l’utilisateur tente une affectation dans l’[!DNL Workload Balancer] d’un projet, il est redirigé vers une page affichant le message suivant :
 
-« [!UICONTROL Une erreur s’est produite et nous nous efforçons de la résoudre. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.] »
+« [!UICONTROL Une erreur s’est produite et nous travaillons à résoudre le problème. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.] »
 
 L’utilisateur ne peut pas quitter cette page tant qu’il ne l’actualise pas.
 

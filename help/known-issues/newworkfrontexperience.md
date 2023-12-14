@@ -5,9 +5,9 @@ keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 83cd4de3865bc0c1d2f462571ecccb7c13a257a6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '852'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -25,8 +25,8 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Panoramas : les cartes ne se déplacent pas vers la colonne appropriée lorsque l’état est modifié](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | vendredi 7 décembre 2023 |
-| [Panoramas : erreur dans [!UICONTROL Commentaires] section de cartes](known-issues-workfront/wf-boards-comments-section-error.md) | samedi 1 décembre 2023 |
+| [Panoramas : les cartes ne se déplacent pas vers la colonne appropriée lorsque le statut est modifié](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | vendredi 7 décembre 2023 |
+| [Panoramas : erreur dans la section [!UICONTROL Commentaires] des cartes](known-issues-workfront/wf-boards-comments-section-error.md) | samedi 1 décembre 2023 |
 | [Panoramas : les cartes déplacées dans une colonne reviennent à la colonne d’origine après actualisation](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md) | 29 novembre 2023 |
 | [Documents : impossible d’accéder à  [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27 novembre 2023 |
 | [Panoramas : la carte apparaît sur plusieurs sprints](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 21 novembre 2023 |
@@ -42,10 +42,10 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
-| [Configuration : les états de problème par défaut ne figurent pas dans certains types de problèmes dans Configuration.](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | vendredi 7 décembre 2023 |
-| [Accueil : les widgets Mes projets et Mes tâches affichent uniquement 25 éléments](known-issues-workfront/wf-home-widgets-show-25-items.md) | vendredi 7 décembre 2023 |
-| [État : [!UICONTROL Oups] erreur lors du masquage de l’état](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | jeudi 6 décembre 2023 |
-| [Mises à jour : il manque certaines mises à jour dans la nouvelle expérience de commentaire.](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | jeudi 6 décembre 2023 |
+| [Configuration : les statuts des problèmes par défaut ne figurent pas dans certains types de problèmes dans la Configuration.](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | vendredi 7 décembre 2023 |
+| [Accueil : les widgets Mes projets et Mes tâches n’affichent que 25 éléments](known-issues-workfront/wf-home-widgets-show-25-items.md) | vendredi 7 décembre 2023 |
+| [Statut : erreur [!UICONTROL Oups] lors du masquage du statut](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | jeudi 6 décembre 2023 |
+| [Mises à jour : certaines mises à jour sont manquantes dans la nouvelle expérience de commentaire](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | jeudi 6 décembre 2023 |
 | [Feuilles de temps : la tâche personnelle apparaît sur la feuille de temps](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | vendredi 30 novembre 2023 |
 | [Tâches : la duplication de tâches entraîne l’affichage des tâches dans un ordre incorrect](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | vendredi 30 novembre 2023 |
 | [BAT : les BAT en attente d’approbation n’apparaissent pas dans les rapports](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md) | 29 novembre 2023 |
@@ -67,7 +67,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Configuration : impossible d’utiliser [!UICONTROL Démarrages] pour configurer des regroupements](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md) | vendredi 30 novembre 2023 |
+| [Configuration : impossible d’utiliser les [!UICONTROL Démarrages rapides] pour créer des regroupements](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md) | vendredi 30 novembre 2023 |
 | [BAT : erreur lors du partage du BAT à partir du lien dans l’e-mail](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 16 novembre 2023 |
 | [Workfront Fusion : duplication de projets créés à partir d’un seul module](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 9 novembre 2023 |
 | [Tableau de bord : grande marge vide lors de l’impression d’un tableau de bord en PDF](known-issues-workfront/wf-dashboard-blank-area-when-printing.md) | 7 novembre 2023 |

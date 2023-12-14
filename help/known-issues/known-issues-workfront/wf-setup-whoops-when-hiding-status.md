@@ -1,19 +1,19 @@
 ---
-title: "État : vide l’erreur lors du masquage de l’état"
-description: "Lorsqu’un utilisateur tente de masquer un état, celui-ci n’est pas masqué et l’utilisateur voit l’erreur de suppression."
+title: '« Statut : erreur Oups lors du masquage du statut »'
+description: « Lorsqu’une personne tente de masquer un statut, celui-ci ne se charge pas et une erreur de type Oups apparaît. »
 hidefromtoc: true
 feature: System Setup and Administration
 source-git-commit: ca99d991b9b27b1149c15145786d5f773451c7d7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 24%
+ht-degree: 100%
 
 ---
 
 
-# État : [!UICONTROL Oups] erreur lors du masquage de l’état
+# Statut : erreur [!UICONTROL Oups] lors du masquage du statut
 
-Lorsqu’un utilisateur tente de masquer un état, celui-ci n’est pas masqué et l’utilisateur affiche l’erreur suivante :
+Lorsqu’une personne tente de masquer un statut, celui-ci ne se masque pas et la personne voit l’erreur suivante s’afficher :
 
-« [!UICONTROL Oups ! Un problème est survenu. Contactez Workfront pour nous aider à comprendre l’erreur et y remédier.]&quot;
-_Premier article du 30 novembre 2023._
+« [!UICONTROL Oups ! Un problème est survenu. Contactez Workfront pour nous aider à comprendre l’erreur et y remédier.]«
+_Premier signalement le 30 novembre 2023._

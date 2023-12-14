@@ -1,18 +1,18 @@
 ---
-title: "Configuration : états de problème par défaut manquants dans certains types de problèmes dans Configuration"
-description: "Lorsqu’un utilisateur consulte les états de problème dans Configuration, il constate que les états par défaut des problèmes (nouveaux, en cours et terminés) sont absents de certains types de problèmes. Les états par défaut n’ont pas la possibilité de modifier le type de problème. L’utilisateur ne peut donc pas reconfigurer les états à afficher pour les types de problèmes concernés."
+title: '« Configuration : les statuts des problèmes par défaut ne figurent pas dans certains types de problèmes dans la Configuration »'
+description: « Lorsqu’une personne consulte les statuts des problèmes dans la Configuration, elle constate que les statuts par défaut (nouveaux, en cours et terminés) sont absents de certains types de problèmes. Les statuts par défaut ne proposent pas l’option de modifier le type de problème. La personne ne peut donc pas reconfigurer les statuts à afficher pour les types de problèmes concernés. »
 hidefromtoc: true
 feature: System Setup and Administration
 source-git-commit: a30ff5443dfb9f3f71a08de28670f44990899863
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 
-# Configuration : les états de problème par défaut ne figurent pas dans certains types de problèmes dans Configuration.
+# Configuration : les statuts des problèmes par défaut ne figurent pas dans certains types de problèmes dans la Configuration.
 
-Lorsqu’un utilisateur consulte les états de problème dans la configuration, il constate que les états par défaut des problèmes (nouveaux, en cours et terminés) sont absents de certains types de problèmes. Les états par défaut n’ont pas la possibilité de modifier le type de problème. L’utilisateur ne peut donc pas reconfigurer les états à afficher pour les types de problèmes concernés.
+Lorsqu’une personne consulte les statuts des problèmes dans la Configuration, elle constate que les statuts par défaut (nouveaux, en cours et terminés) sont absents de certains types de problèmes. Les statuts par défaut ne proposent pas l’option de modifier le type de problème. La personne ne peut donc pas reconfigurer les statuts à afficher pour les types de problèmes concernés.
 
 _Premier signalement le vendredi 30 novembre 2023._

@@ -5,7 +5,7 @@ exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
 feature: Get Started with Workfront
 source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
 workflow-type: ht
-source-wordcount: '10019'
+source-wordcount: '10060'
 ht-degree: 100%
 
 ---
@@ -160,7 +160,7 @@ _[!DNL Workfront]_
 
 Lorsque l’utilisateur travaille sur les pages [!DNL Workfront], elles ne se chargent pas et le message d’erreur suivant apparaît :
 
-« [!UICONTROL Une erreur s’est produite et nous nous efforçons de la résoudre. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.] »
+« [!UICONTROL Une erreur s’est produite et nous travaillons à résoudre le problème. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.] »
 
 Cela a été signalé dans
 
@@ -214,7 +214,7 @@ _[!DNL Workfront]_
 
 Lorsque l’utilisateur travaille sur les pages [!DNL Workfront], elles ne se chargent pas et le message d’erreur suivant apparaît :
 
-« [!UICONTROL Une erreur s’est produite et nous nous efforçons de la résoudre. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.] »
+« [!UICONTROL Une erreur s’est produite et nous travaillons à résoudre le problème. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.] »
 
 Cela a été signalé dans
 
@@ -294,7 +294,7 @@ _[!DNL Workfront]_
 
 Lorsque l’utilisateur travaille dans [!DNL Workfront] à l’aide du navigateur [!DNL Firefox], les pages ne se chargent pas et le message d’erreur suivant apparaît :
 
-« [!UICONTROL Une erreur s’est produite et nous nous efforçons de la résoudre. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.] »
+« [!UICONTROL Une erreur s’est produite et nous travaillons à résoudre le problème. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.] »
 
 Cette erreur se produit de manière aléatoire et peut affecter n’importe quelle zone de [!DNL Workfront].
 
@@ -494,7 +494,7 @@ _[!UICONTROL Équilbreur de charge de travail]_
 
 Lorsque l’utilisateur tente une affectation dans l’[!UICONTROL Équilibreur de charge de travail], la tâche n’est pas affectée et le message d’erreur suivant apparaît :
 
-« [!UICONTROL Une erreur s’est produite et nous nous efforçons de la résoudre. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.] »
+« [!UICONTROL Une erreur s’est produite et nous travaillons à résoudre le problème. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.] »
 
 +++
 
@@ -509,7 +509,7 @@ _Page d’accueil_
 
 Lorsque l’utilisateur navigue rapidement à ou depuis l’[!UICONTROL Accueil], la page ne se charge pas et le message d’erreur suivant apparaît :
 
-« [!UICONTROL Une erreur s’est produite et nous nous efforçons de la résoudre. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.] »
+« [!UICONTROL Une erreur s’est produite et nous travaillons à résoudre le problème. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.] »
 
 Cela peut également se produire en naviguant vers l’[!UICONTROL Accueil] depuis une épingle.
 
@@ -815,7 +815,7 @@ _[!UICONTROL Équilbreur de charge de travail]_
 
 Lorsque l’utilisateur sélectionne l’option [!UICONTROL Pourcentage] pour les [!UICONTROL Heures affectées] et que des tâches sont répertoriées dans la section [!UICONTROL Tâches non affectées], le message d’erreur suivant apparaît :
 
-« [!UICONTROL Une erreur s’est produite et nous nous efforçons de la résoudre. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.] »
+« [!UICONTROL Une erreur s’est produite et nous travaillons à résoudre le problème. Pour continuer votre travail, essayez d’actualiser cette page de navigateur.] »
 
 +++
 
@@ -1507,7 +1507,7 @@ _Notifications par e-mail_
 
 Lorsque l’utilisateur clique sur le lien « [!UICONTROL Voir toutes les notifications] » dans une notification envoyée par e-mail, il est dirigé vers une page contenant le message suivant :
 
-« [!UICONTROL L’utilisateur n’existe plus. L’adresse Web est peut-être mal orthographiée. Vérifiez-la, puis tentez d’y accéder à nouveau.] »
+« [!UICONTROL L’utilisateur n’existe plus. Il se peut que vous ayez mal saisi l’adresse web. Vérifiez à nouveau et réessayez.] »
 
 **L’utilisateur n’est pas redirigé vers le commentaire de l’épreuve dans lequel il est identifié.**
 

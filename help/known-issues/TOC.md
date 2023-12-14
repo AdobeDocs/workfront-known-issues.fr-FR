@@ -3,9 +3,9 @@ user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
 source-git-commit: b7f1508544cfd7e9613474c946e05d58d38fa5dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1792'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
-      + [Configuration : les états de problème par défaut ne figurent pas dans certains types de problèmes dans Configuration.](known-issues-workfront/wf-setup-status-missing-from-issue-types.md)
-      + [Panoramas : les cartes ne se déplacent pas vers la colonne appropriée lorsque l’état est modifié](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md)
-      + [Accueil : les widgets Mes projets et Mes tâches affichent uniquement 25 éléments](known-issues-workfront/wf-home-widgets-show-25-items.md)
-      + [État : [!UICONTROL Oups] erreur lors du masquage de l’état](known-issues-workfront/wf-setup-whoops-when-hiding-status.md)
-      + [Mises à jour : il manque certaines mises à jour dans la nouvelle expérience de commentaire.](known-issues-workfront/wf-updates-not-visible-in-new-experience.md)
+      + [Configuration : les statuts des problèmes par défaut ne figurent pas dans certains types de problèmes dans la Configuration.](known-issues-workfront/wf-setup-status-missing-from-issue-types.md)
+      + [Panoramas : les cartes ne se déplacent pas vers la colonne appropriée lorsque le statut est modifié](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md)
+      + [Accueil : les widgets Mes projets et Mes tâches n’affichent que 25 éléments](known-issues-workfront/wf-home-widgets-show-25-items.md)
+      + [Statut : erreur [!UICONTROL Oups] lors du masquage du statut](known-issues-workfront/wf-setup-whoops-when-hiding-status.md)
+      + [Mises à jour : certaines mises à jour sont manquantes dans la nouvelle expérience de commentaire](known-issues-workfront/wf-updates-not-visible-in-new-experience.md)
       + [Tâches/Problèmes : problèmes lors de l’ajout d’éléments de travail dans la vue Tableau des tâches ou des problèmes](known-issues-workfront/wf-tasks-issues-board-view.md)
       + [Panoramas : erreur dans la section [!UICONTROL Commentaires] des cartes](known-issues-workfront/wf-boards-comments-section-error.md)
       + [Configuration : impossible d’utiliser les [!UICONTROL Démarrages] pour créer des regroupements](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md)
