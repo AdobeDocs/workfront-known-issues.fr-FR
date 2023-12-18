@@ -4,10 +4,10 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 408d70917eff153f014c3884780b6edf2b660a4c
+source-git-commit: ab89dd0dc09dd4c465e2e0f7b83a90686df123c4
 workflow-type: tm+mt
-source-wordcount: '364'
-ht-degree: 98%
+source-wordcount: '373'
+ht-degree: 96%
 
 ---
 
@@ -35,6 +35,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Panoramas : impossible de joindre un document à une carte](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md) | mardi 18 décembre 2023 |
 | [BAT : problèmes liés au traitement des fichiers statiques](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | samedi 15 décembre 2023 |
 | [Bons à tirer : chemin de navigation manquant lors de l’accès au BAT à partir du lien de l’e-mail](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 novembre 2023 |
 | [BAT : erreur lors du partage du BAT à partir du lien dans l’e-mail](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 octobre 2023 |

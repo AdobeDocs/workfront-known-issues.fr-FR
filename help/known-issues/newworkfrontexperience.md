@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 408d70917eff153f014c3884780b6edf2b660a4c
+source-git-commit: ab89dd0dc09dd4c465e2e0f7b83a90686df123c4
 workflow-type: tm+mt
-source-wordcount: '852'
-ht-degree: 97%
+source-wordcount: '871'
+ht-degree: 95%
 
 ---
 
@@ -41,6 +41,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
+| [Tâches : l’utilisateur n’est pas affecté à une ou plusieurs tâches](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | mardi 18 décembre 2023 |
+| [Panoramas : impossible de joindre un document à une carte](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md) | mardi 18 décembre 2023 |
 | [BAT : problèmes liés au traitement des fichiers statiques](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | samedi 15 décembre 2023 |
 | [Panoramas : erreur dans la section [!UICONTROL Commentaires] des cartes](known-issues-workfront/wf-boards-comments-section-error.md) | vendredi 14 décembre 2023 |
 | [Rapports : les heures budgétisées dans le rapport d’utilisation ne correspondent pas aux heures budgétisées signalées par le biais de l’API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | vendredi 14 décembre 2023 |
