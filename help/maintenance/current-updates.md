@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 26c2a3cb7fad72442064ded1bc368967e89176b0
+source-git-commit: 39b1716195e2081597970b9d1e7091013e959416
 workflow-type: tm+mt
-source-wordcount: '7435'
-ht-degree: 99%
+source-wordcount: '7699'
+ht-degree: 98%
 
 ---
 
@@ -21,6 +21,51 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2023.
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates).
 
 ## Mises à jour de décembre 2023
+
++++**(Planifiée) Mise à jour de maintenance le vendredi 21 décembre 2023**
+
+**Problèmes lors de l’affichage de l’état d’une sous-tâche**
+
+_Panoramas_
+
+Les problèmes suivants ont été signalés concernant l’affichage du statut de sous-tâche sur une carte dans Panoramas :
+
+* Le statut s’affiche sous la forme « Sélectionner le statut » même si la tâche a déjà un statut. Ce statut est visible lorsque vous affichez directement la tâche.
+* Si l’utilisateur ou l’utilisatrice tente de sélectionner un statut, l’écran devient vide et doit être actualisé.
+
+**Impossible de joindre un document à une carte**
+
+_Panoramas_
+
+Lorsqu’un utilisateur tente de joindre un document à une carte connectée, il peut sélectionner le document à joindre, mais le document n’apparaît pas dans la zone de document de la carte et le document n’est pas joint à l’objet auquel la carte est connectée.
+
+Cela a été signalé dans les cartes liées aux problèmes.
+
+**Impossible de sélectionner le modèle depuis [!UICONTROL Favoris] list**
+
+_Modèles_
+
+Lorsqu’un utilisateur ou une utilisatrice tente de sélectionner un modèle dans la liste [!UICONTROL Favoris], la liste disparaît lors du déplacement de la souris vers la liste et il est impossible de sélectionner un modèle.
+
+**Certaines mises à jour sont manquantes dans la nouvelle expérience de commentaires**
+
+_Mises à jour_
+
+Lorsqu’une personne consulte les mises à jour de la nouvelle expérience de commentaire, certains des commentaires qui doivent être affichés ne s’affichent pas. Si la personne bascule vers l’expérience de commentaire héritée, tous les commentaires s’affichent.
+
++++
+
++++**(Planifié) [!DNL Adobe Workfront Fusion] Mise à jour de maintenance le 21 décembre 2023**
+
+L’ouverture du champ du module prend trop de temps.
+
+_[!DNL Workfront Fusion]_
+
+<!--no article-->
+
+Lorsqu’un utilisateur configure un module et que ce dernier nécessite des données du compte connecté (pour sélectionner un enregistrement, par exemple), le module ne peut pas récupérer les données et la demande de données expire.
+
++++
 
 +++**Mise à jour de maintenance le vendredi 14 décembre 2023**
 
