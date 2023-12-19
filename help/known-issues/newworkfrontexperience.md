@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ab89dd0dc09dd4c465e2e0f7b83a90686df123c4
+source-git-commit: be8a81c0d5b1735c2e8a8c8fb2cd2629202875f6
 workflow-type: tm+mt
-source-wordcount: '871'
-ht-degree: 95%
+source-wordcount: '892'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,8 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bons à tirer : les bons à tirer créés à partir de documents Word n’incluent pas de commentaires ni de balises.](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | mercredi 19 décembre 2023 |
+| [Tâches : la fenêtre se ferme lors de la création d’une nouvelle tâche](known-issues-workfront/wf-tasks-new-window-closes.md) | mercredi 19 décembre 2023 |
 | [Modèles : erreur lors de l’association d’un modèle à un projet](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | samedi 15 décembre 2023 |
 | [Rapports : le rapport Heure planifiée ne se met pas à jour toutes les heures comme prévu](known-issues-workfront/wf-reports-report-not-updating.md) | vendredi 14 décembre 2023 |
 | [Documents : impossible d’accéder à  [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27 novembre 2023 |
