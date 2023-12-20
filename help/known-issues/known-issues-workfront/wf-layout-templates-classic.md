@@ -1,19 +1,19 @@
 ---
-title: '« Modèles de disposition : les modèles de disposition provoquent des incohérences dans les rapports »'
-description: « Les modèles de disposition de l’expérience Workfront classique ne sont plus disponibles dans l’interface Workfront, mais peuvent tout de même affecter les données Workfront. Cela peut entraîner des incohérences dans les champs affectés par les modèles de disposition (tels que Partagé avec) sur les rapports ou les tableaux de bord. »
+title: "Modèles de mise en page : les modèles de mise en page provoquent des incohérences dans les rapports"
+description: Les modèles de disposition de l’expérience Workfront classique ne sont plus disponibles dans l’interface Workfront, mais peuvent tout de même affecter les données Workfront. Cela peut entraîner des incohérences dans les champs affectés par les modèles de disposition (tels que Partagé avec) sur les rapports ou les tableaux de bord.
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 3845794a0b1b610d821f5653c06d0cce77d58f2e
-workflow-type: ht
-source-wordcount: '192'
-ht-degree: 100%
+exl-id: 1542291f-4797-477e-83b8-0706ac6801ae
+source-git-commit: 10507904c2e6d6a8adc182551f6425b78aab4fce
+workflow-type: tm+mt
+source-wordcount: '193'
+ht-degree: 86%
 
 ---
 
+# Modèles de disposition : les modèles de disposition provoquent des incohérences dans les rapports.
 
-# Modèles de disposition : les modèles de disposition provoquent des incohérences dans les rapports
-
-Les modèles de disposition de l’expérience [!DNL Workfront] classique ne sont plus disponibles dans l’interface [!DNL Workfront], mais peuvent tout de même affecter les données [!DNL Workfront]. Cela peut entraîner des incohérences dans les champs affectés par les modèles de disposition (tels que [!UICONTROL Partagé avec]) sur les rapports ou les tableaux de bord.
+Modèles de mise en page de Classic [!DNL Workfront] ne sont plus disponibles dans la variable [!DNL Workfront] mais peut encore affecter [!DNL Workfront] data. Cela peut entraîner des incohérences dans les champs affectés par les modèles de disposition (tels que [!UICONTROL Partagé avec]) sur les rapports ou les tableaux de bord.
 
 **Solution de contournement**
 
@@ -38,4 +38,3 @@ Supprimez les modèles de disposition classiques à l’aide d’un appel API. V
 1. Collez l’appel API de l’étape 4 dans la barre d’URL de votre navigateur et appuyez sur Entrée.
 
    Le modèle de disposition est ainsi supprimé.
-
