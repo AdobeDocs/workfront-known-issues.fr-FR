@@ -69,7 +69,7 @@ Lorsqu’un utilisateur configure un module et que ce dernier nécessite des don
 
 +++**Mise à jour de maintenance le vendredi 14 décembre 2023**
 
-**Les bons à tirer en attente d’approbation n’apparaissent pas dans les rapports**
+**Les BAT en attente d’approbation n’apparaissent pas dans les rapports**
 
 _BAT_
 
