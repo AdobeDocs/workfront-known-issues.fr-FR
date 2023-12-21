@@ -3,9 +3,9 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 39b1716195e2081597970b9d1e7091013e959416
+source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
 workflow-type: tm+mt
-source-wordcount: '7699'
+source-wordcount: '7697'
 ht-degree: 98%
 
 ---
@@ -22,7 +22,7 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 ## Mises à jour de décembre 2023
 
-+++**(Planifiée) Mise à jour de maintenance le vendredi 21 décembre 2023**
++++**Mise à jour de maintenance le vendredi 21 décembre 2023**
 
 **Problèmes lors de l’affichage de l’état d’une sous-tâche**
 
@@ -55,7 +55,7 @@ Lorsqu’une personne consulte les mises à jour de la nouvelle expérience de c
 
 +++
 
-+++**(Planifié) [!DNL Adobe Workfront Fusion] Mise à jour de maintenance le 21 décembre 2023**
++++**[!DNL Adobe Workfront Fusion]Mise à jour de maintenance le 21 décembre 2023**
 
 L’ouverture du champ du module prend trop de temps.
 
