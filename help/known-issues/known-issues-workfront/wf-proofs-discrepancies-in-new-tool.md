@@ -1,23 +1,23 @@
 ---
-title: "Bons à tirer : problèmes de traitement des fichiers statiques"
-description: '"Workfront a récemment changé son outil de traitement des BAT d’un fournisseur tiers en solution interne et a découvert des incohérences entre les capacités des deux systèmes. Ces incohérences peuvent entraîner des problèmes lors du traitement des fichiers statiques, en particulier des fichiers PDF, Word et PPT. Une solution de contournement est disponible. »'
+title: '« BAT : problèmes de traitement des fichiers statiques »'
+description: « Workfront a récemment changé son outil de traitement des BAT d’un fournisseur tiers en solution interne et a découvert des incohérences entre les fonctionnalités des deux systèmes. Ces incohérences peuvent entraîner des problèmes lors du traitement des fichiers statiques, en particulier des fichiers PDF, Word et PPT. Une solution de contournement est disponible. »
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: d07005982af8484714e574ee54034f438def6cc7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '151'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# BAT : problèmes liés au traitement des fichiers statiques
+# BAT : problèmes de traitement des fichiers statiques
 
 <!--WF and WFP TOCs-->
 
-Workfront a récemment changé son outil de traitement des BAT d’un fournisseur tiers en solution interne et a découvert des incohérences entre les capacités des deux systèmes. Ces incohérences peuvent entraîner des problèmes lors du traitement des fichiers statiques, en particulier des fichiers PDF, Word et PPT.
+Workfront a récemment changé son outil de traitement des BAT d’un fournisseur tiers en solution interne et a découvert des incohérences entre les fonctionnalités des deux systèmes. Ces incohérences peuvent entraîner des problèmes lors du traitement des fichiers statiques, en particulier des fichiers PDF, Word et PPT.
 
-Workfront s’efforce de mettre à niveau ses bibliothèques pour qu’elles correspondent à l’outil hérité et vous informe des modifications apportées aux pages de mise à jour de Workfront.
+Workfront s’efforce de mettre à niveau ses bibliothèques pour qu’elles correspondent à l’outil hérité et vous informe des modifications apportées aux pages des versions de Workfront.
 
 **Solution de contournement**
 

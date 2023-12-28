@@ -3,9 +3,9 @@ user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
 source-git-commit: be8a81c0d5b1735c2e8a8c8fb2cd2629202875f6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1849'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
-      + [Bons à tirer : les bons à tirer créés à partir de documents Word n’incluent pas de commentaires ni de balises.](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md)
-      + [Tâches : la fenêtre se ferme lors de la création d’une nouvelle tâche](known-issues-workfront/wf-tasks-new-window-closes.md)
-      + [Tâches : l’utilisateur n’est pas affecté à une ou plusieurs tâches](known-issues-workfront/wf-tasks-user-unassigned-without-record.md)
-      + [Panoramas : impossible de joindre un document à une carte](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md)
-      + [BAT : problèmes liés au traitement des fichiers statiques](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md)
-      + [Modèles : erreur lors de l’association d’un modèle à un projet](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md)
-      + [Rapports : le rapport Heure planifiée ne se met pas à jour toutes les heures comme prévu](known-issues-workfront/wf-reports-report-not-updating.md)
+      + [BAT : les BAT créés à partir de documents Word n’incluent pas de commentaires ni de balises](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md)
+      + [Tâches : la fenêtre se ferme lors de la création d’une nouvelle tâche](known-issues-workfront/wf-tasks-new-window-closes.md)
+      + [Tâches : une ou plusieurs tâches ne sont plus affectées à la personne](known-issues-workfront/wf-tasks-user-unassigned-without-record.md)
+      + [Panoramas : impossible de joindre un document à une carte](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md)
+      + [BAT : problèmes de traitement des fichiers statiques](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md)
+      + [Modèles : erreur lorsqu’un modèle est joint à un projet](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md)
+      + [Rapports : le rapport Heure budgétée ne se met pas à jour toutes les heures comme prévu](known-issues-workfront/wf-reports-report-not-updating.md)
       + [Configuration : les statuts des problèmes par défaut ne figurent pas dans certains types de problèmes dans la Configuration.](known-issues-workfront/wf-setup-status-missing-from-issue-types.md)
       + [Panoramas : les cartes ne se déplacent pas vers la colonne appropriée lorsque le statut est modifié](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md)
       + [Accueil : les widgets Mes projets et Mes tâches n’affichent que 25 éléments](known-issues-workfront/wf-home-widgets-show-25-items.md)
