@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
 workflow-type: tm+mt
 source-wordcount: '7697'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -24,7 +24,7 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 +++**Mise à jour de maintenance le vendredi 21 décembre 2023**
 
-**Problèmes lors de l’affichage de l’état d’une sous-tâche**
+**Problèmes lors de l’affichage du statut de sous-tâche**
 
 _Panoramas_
 
@@ -37,17 +37,17 @@ Les problèmes suivants ont été signalés concernant l’affichage du statut d
 
 _Panoramas_
 
-Lorsqu’un utilisateur tente de joindre un document à une carte connectée, il peut sélectionner le document à joindre, mais le document n’apparaît pas dans la zone de document de la carte et le document n’est pas joint à l’objet auquel la carte est connectée.
+Lorsqu’une personne tente de joindre un document à une carte connectée, elle peut sélectionner le document à joindre, mais ce dernier n’apparaît pas dans la zone de document de la carte et le document n’est pas joint à l’objet auquel la carte est connectée.
 
-Cela a été signalé dans les cartes liées aux problèmes.
+Ce fait a été signalé dans les cartes liées aux problèmes.
 
-**Impossible de sélectionner le modèle depuis [!UICONTROL Favoris] list**
+**Impossible de sélectionner un modèle dans la liste [!UICONTROL Favoris]**
 
 _Modèles_
 
 Lorsqu’un utilisateur ou une utilisatrice tente de sélectionner un modèle dans la liste [!UICONTROL Favoris], la liste disparaît lors du déplacement de la souris vers la liste et il est impossible de sélectionner un modèle.
 
-**Certaines mises à jour sont manquantes dans la nouvelle expérience de commentaires**
+**Certaines mises à jour sont manquantes dans la nouvelle expérience de commentaire**
 
 _Mises à jour_
 
@@ -57,13 +57,13 @@ Lorsqu’une personne consulte les mises à jour de la nouvelle expérience de c
 
 +++**[!DNL Adobe Workfront Fusion]Mise à jour de maintenance le 21 décembre 2023**
 
-L’ouverture du champ du module prend trop de temps.
+L’ouverture du champ du module prend trop de temps
 
 _[!DNL Workfront Fusion]_
 
 <!--no article-->
 
-Lorsqu’un utilisateur configure un module et que ce dernier nécessite des données du compte connecté (pour sélectionner un enregistrement, par exemple), le module ne peut pas récupérer les données et la demande de données expire.
+Lorsqu’une personne configure un module et que ce dernier nécessite des données du compte connecté (pour sélectionner un enregistrement, par exemple), le module ne peut pas récupérer les données et la demande de données expire.
 
 +++
 
