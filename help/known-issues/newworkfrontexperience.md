@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
+source-git-commit: 1b5ee2639b89e920b961b8ed7166b7a1475c3e0e
 workflow-type: tm+mt
-source-wordcount: '857'
-ht-degree: 100%
+source-wordcount: '879'
+ht-degree: 97%
 
 ---
 
@@ -41,6 +41,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
+| [Panoramas : &quot;[!UICONTROL Vous n’avez aucun accès]&quot; lors de l’affichage de commentaires sur une carte ;](known-issues-workfront/wf-boards-no-access-to-view-comments.md) | mercredi 2 janvier 2024 |
+| [Équipes : problèmes liés à la définition des états de l’équipe pour [!UICONTROL Terminé] button](known-issues-workfront/wf-teams-statuses-missing.md) | mercredi 2 janvier 2024 |
 | [Tâches : une ou plusieurs tâches ne sont pas affectées à la personne](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | mardi 18 décembre 2023 |
 | [BAT : problèmes de traitement des fichiers statiques](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | samedi 15 décembre 2023 |
 | [Panoramas : erreur dans la section [!UICONTROL Commentaires] des cartes](known-issues-workfront/wf-boards-comments-section-error.md) | vendredi 14 décembre 2023 |

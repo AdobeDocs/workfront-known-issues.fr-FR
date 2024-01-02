@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: be8a81c0d5b1735c2e8a8c8fb2cd2629202875f6
-workflow-type: ht
-source-wordcount: '1849'
-ht-degree: 100%
+source-git-commit: 1b5ee2639b89e920b961b8ed7166b7a1475c3e0e
+workflow-type: tm+mt
+source-wordcount: '1869'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Panoramas : &quot;[!UICONTROL Vous n’avez aucun accès]&quot; lors de l’affichage de commentaires sur une carte ;](known-issues-workfront/wf-boards-no-access-to-view-comments.md)
+      + [Équipes : problèmes liés à la définition des états de l’équipe pour [!UICONTROL Terminé] button](known-issues-workfront/wf-teams-statuses-missing.md)
       + [BAT : les BAT créés à partir de documents Word n’incluent pas de commentaires ni de balises](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md)
       + [Tâches : la fenêtre se ferme lors de la création d’une nouvelle tâche](known-issues-workfront/wf-tasks-new-window-closes.md)
       + [Tâches : une ou plusieurs tâches ne sont plus affectées à la personne](known-issues-workfront/wf-tasks-user-unassigned-without-record.md)
