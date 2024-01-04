@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 1b5ee2639b89e920b961b8ed7166b7a1475c3e0e
+source-git-commit: f6c0defc4fbc54687057558c5debf9ed80fa7908
 workflow-type: tm+mt
-source-wordcount: '879'
-ht-degree: 97%
+source-wordcount: '899'
+ht-degree: 95%
 
 ---
 
@@ -41,6 +41,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
+| [Nouveau [!UICONTROL Accueil]: les valeurs par défaut des filtres de widgets et des regroupements ne suivent pas le modèle de mise en page](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | vendredi 4 janvier 2024 |
+| [Panoramas : les cartes persistent lors du changement d’itération](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | vendredi 4 janvier 2024 |
 | [Panoramas : &quot;[!UICONTROL Vous n’avez aucun accès]&quot; lors de l’affichage de commentaires sur une carte ;](known-issues-workfront/wf-boards-no-access-to-view-comments.md) | mercredi 2 janvier 2024 |
 | [Équipes : problèmes liés à la définition des états de l’équipe pour [!UICONTROL Terminé] button](known-issues-workfront/wf-teams-statuses-missing.md) | mercredi 2 janvier 2024 |
 | [Tâches : une ou plusieurs tâches ne sont pas affectées à la personne](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | mardi 18 décembre 2023 |
