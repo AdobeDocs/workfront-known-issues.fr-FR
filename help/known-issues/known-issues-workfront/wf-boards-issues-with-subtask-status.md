@@ -1,13 +1,13 @@
 ---
-title: 'Panoramas : problèmes lors de l’affichage de l’état de sous-tâche'
-description: Des problèmes ont été signalés concernant l’affichage de l’état des sous-tâches sur une carte dans les panoramas.
+title: '« Panoramas : problèmes lors de l’affichage du statut de sous-tâche »'
+description: Des problèmes ont été signalés concernant l’affichage du statut de sous-tâche sur une carte dans Panoramas.
 hidefromtoc: true
 feature: Agile
 exl-id: e7ae6c43-57b5-4ed5-bd61-3c1dc4c6784c
 source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
