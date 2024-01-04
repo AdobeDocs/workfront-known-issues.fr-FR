@@ -4,18 +4,15 @@ description: Des problèmes ont été signalés concernant l’affichage du stat
 hidefromtoc: true
 feature: Agile
 exl-id: e7ae6c43-57b5-4ed5-bd61-3c1dc4c6784c
-source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
-workflow-type: ht
-source-wordcount: '100'
+source-git-commit: 0cf5c033463ac76999a18d97fbea54af8033c238
+workflow-type: tm+mt
+source-wordcount: '94'
 ht-degree: 100%
 
 ---
 
 # Panoramas : problèmes lors de l’affichage du statut de sous-tâche
 
->[!NOTE]
->
->Ce problème a été résolu le vendredi 21 décembre 2023.
 
 Les problèmes suivants ont été signalés concernant l’affichage du statut de sous-tâche sur une carte dans Panoramas :
 
