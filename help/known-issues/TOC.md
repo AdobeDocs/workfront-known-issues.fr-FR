@@ -2,9 +2,9 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: f6c0defc4fbc54687057558c5debf9ed80fa7908
+source-git-commit: 2d0e05921904f246c13cfa341e1039c85f1f2b1f
 workflow-type: tm+mt
-source-wordcount: '1887'
+source-wordcount: '1897'
 ht-degree: 97%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Problèmes : les champs de temps gagnent un temps incorrect en cas de problèmes de modification en masse.](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md)
       + [Nouveau [!UICONTROL Accueil]: les valeurs par défaut des filtres de widgets et des regroupements ne suivent pas le modèle de mise en page](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
       + [Panoramas : les cartes persistent lors du changement d’itération](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md)
       + [Panoramas : &quot;[!UICONTROL Vous n’avez aucun accès]&quot; lors de l’affichage de commentaires sur une carte ;](known-issues-workfront/wf-boards-no-access-to-view-comments.md)
