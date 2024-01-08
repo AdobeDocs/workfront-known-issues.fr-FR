@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2d0e05921904f246c13cfa341e1039c85f1f2b1f
+source-git-commit: 39ffb4c5e61019b444eb0bdc13b57c75da9e876d
 workflow-type: tm+mt
-source-wordcount: '880'
-ht-degree: 94%
+source-wordcount: '892'
+ht-degree: 93%
 
 ---
 
@@ -36,6 +36,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
+| [Panoramas : la carte ne se ferme pas lors de l’utilisation de la vue Panoramas dans un projet](known-issues-workfront/wf-boards-cannot-close-card-on-project-board.md) | mardi 8 janvier 2024 |
 | [Problèmes : les champs de temps gagnent un temps incorrect en cas de problèmes de modification en masse.](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | samedi 5 janvier 2024 |
 | [BAT : les BAT créés à partir de documents Word n’incluent pas de commentaires ni de balises](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | vendredi 4 janvier 2024 |
 | [Modèles : erreur lorsqu’un modèle est joint à un projet](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | vendredi 4 janvier 2024 |

@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2d0e05921904f246c13cfa341e1039c85f1f2b1f
+source-git-commit: 39ffb4c5e61019b444eb0bdc13b57c75da9e876d
 workflow-type: tm+mt
-source-wordcount: '1897'
-ht-degree: 97%
+source-wordcount: '1908'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Panoramas : la carte ne se ferme pas lors de l’utilisation de la vue Panoramas dans un projet](known-issues-workfront/wf-boards-cannot-close-card-on-project-board.md)
       + [Problèmes : les champs de temps gagnent un temps incorrect en cas de problèmes de modification en masse.](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md)
       + [Nouveau [!UICONTROL Accueil]: les valeurs par défaut des filtres de widgets et des regroupements ne suivent pas le modèle de mise en page](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
       + [Panoramas : les cartes persistent lors du changement d’itération](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md)
