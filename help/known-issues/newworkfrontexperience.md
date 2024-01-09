@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 39ffb4c5e61019b444eb0bdc13b57c75da9e876d
+source-git-commit: a7d41227b34544889c2af1704d492a68967fab24
 workflow-type: tm+mt
-source-wordcount: '892'
-ht-degree: 93%
+source-wordcount: '899'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bons à tirer : les bons à tirer ignorés ne parviennent pas à générer](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | mardi 9 janvier 2023 |
 | [Panoramas : la carte apparaît sur plusieurs sprints](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 21 novembre 2023 |
 | [Panoramas : la recherche ne fonctionne pas](known-issues-workfront/wf-boards-search-not-working.md) | 20 octobre 2023 |
 
