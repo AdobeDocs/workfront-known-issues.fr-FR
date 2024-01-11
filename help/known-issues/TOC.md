@@ -5,7 +5,7 @@ role: User
 source-git-commit: a7d41227b34544889c2af1704d492a68967fab24
 workflow-type: tm+mt
 source-wordcount: '1914'
-ht-degree: 96%
+ht-degree: 97%
 
 ---
 
@@ -22,8 +22,8 @@ ht-degree: 96%
       + [Problèmes : les champs de temps gagnent un temps incorrect en cas de problèmes de modification en masse.](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md)
       + [Nouveau [!UICONTROL Accueil]: les valeurs par défaut des filtres de widgets et des regroupements ne suivent pas le modèle de mise en page](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
       + [Panoramas : les cartes persistent lors du changement d’itération](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md)
-      + [Panoramas : &quot;[!UICONTROL Vous n’avez aucun accès]&quot; lors de l’affichage de commentaires sur une carte ;](known-issues-workfront/wf-boards-no-access-to-view-comments.md)
-      + [Équipes : problèmes liés à la définition des états de l’équipe pour [!UICONTROL Terminé] button](known-issues-workfront/wf-teams-statuses-missing.md)
+      + [Panoramas : « [!UICONTROL Vous n’avez aucun accès] » lors de l’affichage de commentaires sur une carte.](known-issues-workfront/wf-boards-no-access-to-view-comments.md)
+      + [Équipes : problèmes liés à la définition des statuts de l’équipe pour le bouton [!UICONTROL Terminé].](known-issues-workfront/wf-teams-statuses-missing.md)
       + [BAT : les BAT créés à partir de documents Word n’incluent pas de commentaires ni de balises](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md)
       + [Tâches : la fenêtre se ferme lors de la création d’une nouvelle tâche](known-issues-workfront/wf-tasks-new-window-closes.md)
       + [Tâches : une ou plusieurs tâches ne sont plus affectées à la personne](known-issues-workfront/wf-tasks-user-unassigned-without-record.md)
