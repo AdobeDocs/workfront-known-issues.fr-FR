@@ -3,19 +3,20 @@ title: "Panoramas : la carte ne se ferme pas lors de l’utilisation de la vue P
 description: "Lorsqu’un utilisateur consulte la vue Panoramas sur une liste de tâches d’un projet et crée une carte, la carte ne se ferme pas ou n’est pas enregistrée. Cela empêche l’utilisateur de revenir au projet."
 hidefromtoc: true
 feature: Agile, Tasks, Projects
-source-git-commit: 8dc177a194ae32bcb135910badc7fdb2c42e530d
+source-git-commit: 3a5bf0ed6b1a7a6d61c9f3f074c551bf6e3b2d44
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 8%
+source-wordcount: '116'
+ht-degree: 3%
 
 ---
 
 
 # Panoramas : la carte ne se ferme pas lors de l’utilisation de la vue Panoramas dans un projet
 
+<!--
 >[!NOTE]
 >
->Ce problème a été résolu le samedi 12 janvier 2024.
+>This issue was fixed on January 12, 2024.-->
 
 Lorsqu’un utilisateur consulte la vue Panoramas sur une liste de tâches d’un projet et crée une carte, celle-ci ne se ferme pas et n’est pas enregistrée. Cela empêche l’utilisateur de revenir au projet.
 

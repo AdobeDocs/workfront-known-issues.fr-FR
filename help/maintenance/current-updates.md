@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
+source-git-commit: 9a5ef8462f839ebd4bfaafb65a0b5cd2bffbedcf
 workflow-type: tm+mt
-source-wordcount: '530'
-ht-degree: 58%
+source-wordcount: '172'
+ht-degree: 47%
 
 ---
 
@@ -22,54 +22,58 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 ## Mises à jour de janvier 2024
 
-+++**Mise à jour de maintenance du samedi 12 janvier 2024**
+<!--
 
-### Mise à jour de maintenance le 12 janvier 2024
++++**Maintenance Update on January 12, 2024**
 
-#### Panneaux
+### Maintenance Update on January 12, 2024
 
-**Impossible de joindre un document à une carte**
+#### Boards
 
-Lorsqu’une personne tente de joindre un document à une carte connectée, elle peut sélectionner le document à joindre, mais ce dernier n’apparaît pas dans la zone de document de la carte et le document n’est pas joint à l’objet auquel la carte est connectée.
+**Cannot attach a document to a card**
 
-Ce fait a été signalé dans les cartes liées aux problèmes.
+When a user attempts to attach a document to a connected card, the user can select the document to attach, but the document does not appear in the document area of the card, and the document is not attached to the object that the card is connected to.
 
-**La carte s’affiche sur plusieurs empreintes**
+This has been reported in cards connected to issues.
 
-Lorsqu’une personne consulte un sprint sur les panoramas, les cartes qui se trouvent dans différents sprints apparaissent sur le panorama. Ce problème est intermittent.
+**Card appears on multiple sprints**
 
-**La carte ne se ferme pas lors de l’utilisation de la vue Panoramas dans un projet**
+When a user is viewing a sprint on Boards, cards that are in different sprints appear on the board. This issue is intermittent.
 
-Lorsqu’un utilisateur consulte la vue Panoramas sur une liste de tâches d’un projet et crée une carte, celle-ci ne se ferme pas et n’est pas enregistrée. Cela empêche l’utilisateur de revenir au projet.
+**Card doesn't close when using Boards view in a Project**
 
-Pour fermer la carte, l’utilisateur doit modifier l’URL afin de supprimer le &quot;panorama&quot; et tout ce qui se trouve à droite du &quot;panorama&quot;.
+When a user is viewing the Boards view on a task list in a project, and creates a card, the card does not close or save. This prevents the user from returning to the project.
 
-**Les cartes persistent lors du changement d’itération**
+To close the card, the user must edit the URL to remove "board" and anything to the right of "board."
 
-Lorsqu’un utilisateur consulte une itération sur un panorama, puis modifie l’itération, les cartes qui s’affichent pour la nouvelle itération sont celles d’une itération précédemment consultée par l’utilisateur.
+**Cards persist when changing iteration**
 
-**Erreur dans [!UICONTROL Commentaires] section de cartes**
+When a user is viewing an iteration on a board and then changes the iteration, the cards displaying for the new iteration are the cards from an iteration the user was viewing previously. 
 
-Lorsqu’un utilisateur ou une utilisatrice consulte une carte et se rend à la section [!UICONTROL Commentaires], les commentaires ne s’affichent pas et un message d’erreur apparaît :
+**Error in [!UICONTROL Comments] section of cards**
 
-&quot;[!UICONTROL Un problème est survenu. Veuillez réessayer plus tard.]&quot;
+When a user is viewing a card and scrolls to the [!UICONTROL Comments], section, comments are not displayed, and the user sees the following error:
 
-**Problèmes lors de l’affichage du statut de sous-tâche**
+"[!UICONTROL Something went wrong. Please try again later.]"
 
-Les problèmes suivants ont été signalés concernant l’affichage du statut de sous-tâche sur une carte dans Panoramas :
+**Issues when viewing subtask status**
 
-* Le statut s’affiche sous la forme « Sélectionner le statut » même si la tâche a déjà un statut. Ce statut est visible lorsque vous affichez directement la tâche.
-* Si l’utilisateur ou l’utilisatrice tente de sélectionner un statut, l’écran devient vide et doit être actualisé.
+The following issues have been reported regarding viewing subtask status on a card in Boards:
 
-**&quot;[!UICONTROL Vous n’avez aucun accès]&quot; lors de l’affichage de commentaires sur une carte ;**
+* The status is shown as "Select status" even when the task already has a status. This status can be seen when viewing the task directly.
+* If the user attempts to select a status, the screen goes blank and must be refreshed.
 
-Lorsqu’un utilisateur ou une utilisatrice tente d’afficher des commentaires sur une carte qui n’est pas connectée à un objet [!DNL Workfront], le message suivant s’affiche.
+**"[!UICONTROL You have no access]" when viewing comments on a card**
 
-« [!UICONTROL Vous n’avez pas accès à l’affichage des commentaires sur cet objet.] »
+When a user attempts to view comments on a card that is not connected to a [!DNL Workfront] object, they see the following message: 
 
-Cela peut se produire même si l’utilisateur ou l’utilisatrice pouvait auparavant voir des commentaires sur la carte.
+"[!UICONTROL You have no access to view comments on this object]"
+
+This may occur even when the user could previously see comments on the card.
 
 +++
+
+-->
 
 +++**Mise à jour de maintenance du jeudi 11 janvier 2023**
 
