@@ -3,15 +3,19 @@ title: '« Panoramas : vous n’avez aucun accès lors de l’affichage de com
 description: « Lorsqu’un utilisateur ou une utilisatrice tente d’afficher des commentaires sur une carte qui n’est pas connectée à un objet Workfront, un message d’erreur s’affiche. »
 hidefromtoc: true
 feature: Agile
-source-git-commit: 1b5ee2639b89e920b961b8ed7166b7a1475c3e0e
-workflow-type: ht
-source-wordcount: '95'
+source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
+workflow-type: tm+mt
+source-wordcount: '101'
 ht-degree: 100%
 
 ---
 
 
 # Panoramas : « [!UICONTROL Vous n’avez aucun accès] » lors de l’affichage de commentaires sur une carte.
+
+>[!NOTE]
+>
+>Ce problème a été résolu le samedi 12 janvier 2024.
 
 Lorsqu’un utilisateur ou une utilisatrice tente d’afficher des commentaires sur une carte qui n’est pas connectée à un objet [!DNL Workfront], le message suivant s’affiche.
 

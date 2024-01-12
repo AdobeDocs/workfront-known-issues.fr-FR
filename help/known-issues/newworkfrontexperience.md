@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: a7d41227b34544889c2af1704d492a68967fab24
+source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
 workflow-type: tm+mt
-source-wordcount: '899'
-ht-degree: 94%
+source-wordcount: '825'
+ht-degree: 96%
 
 ---
 
@@ -26,7 +26,6 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
 | [Bons à tirer : les bons à tirer ignorés ne parviennent pas à générer](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | mardi 9 janvier 2023 |
-| [Panoramas : la carte apparaît sur plusieurs sprints](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 21 novembre 2023 |
 | [Panoramas : la recherche ne fonctionne pas](known-issues-workfront/wf-boards-search-not-working.md) | 20 octobre 2023 |
 
 {style="table-layout:auto"}
@@ -37,27 +36,20 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
-| [Panoramas : la carte ne se ferme pas lors de l’utilisation de la vue Panoramas dans un projet](known-issues-workfront/wf-boards-cannot-close-card-on-project-board.md) | mardi 8 janvier 2024 |
 | [Problèmes : les champs de temps gagnent un temps incorrect en cas de problèmes de modification en masse.](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | samedi 5 janvier 2024 |
 | [BAT : les BAT créés à partir de documents Word n’incluent pas de commentaires ni de balises](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | vendredi 4 janvier 2024 |
 | [Modèles : erreur lorsqu’un modèle est joint à un projet](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | vendredi 4 janvier 2024 |
 | [Tâches : la fenêtre se ferme lors de la création d’une nouvelle tâche](known-issues-workfront/wf-tasks-new-window-closes.md) | vendredi 4 janvier 2024 |
 | [Modèles : impossible de sélectionner un modèle dans la liste [!UICONTROL Favoris]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | vendredi 4 janvier 2024 |
-| [Panoramas : impossible de joindre un document à une carte](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md) | vendredi 4 janvier 2024 |
-| [Panoramas : problèmes lors de l’affichage du statut de sous-tâche](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | vendredi 4 janvier 2024 |
 | [Accueil : approbation bloquée sur le widget [!UICONTROL En attente de mon approbation] ](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | vendredi 4 janvier 2024 |
 | [Nouveau [!UICONTROL Accueil]: les valeurs par défaut des filtres de widgets et des regroupements ne suivent pas le modèle de mise en page](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | vendredi 4 janvier 2024 |
-| [Panoramas : les cartes persistent lors du changement d’itération](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | vendredi 4 janvier 2024 |
-| [Panoramas : « [!UICONTROL Vous n’avez aucun accès] » lors de l’affichage de commentaires sur une carte.](known-issues-workfront/wf-boards-no-access-to-view-comments.md) | mercredi 2 janvier 2024 |
 | [Équipes : problèmes liés à la définition des statuts de l’équipe pour le bouton [!UICONTROL Terminé]](known-issues-workfront/wf-teams-statuses-missing.md). | mercredi 2 janvier 2024 |
 | [Tâches : une ou plusieurs tâches ne sont pas affectées à la personne](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | mardi 18 décembre 2023 |
 | [BAT : problèmes de traitement des fichiers statiques](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | samedi 15 décembre 2023 |
-| [Panoramas : erreur dans la section [!UICONTROL Commentaires] des cartes](known-issues-workfront/wf-boards-comments-section-error.md) | vendredi 14 décembre 2023 |
 | [Panoramas : les cartes ne se déplacent pas vers la colonne appropriée lorsque le statut est modifié](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | vendredi 14 décembre 2023 |
 | [Configuration : les statuts des problèmes par défaut ne figurent pas dans certains types de problèmes dans la Configuration.](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | vendredi 7 décembre 2023 |
 | [Tâches : la duplication de tâches entraîne l’affichage des tâches dans un ordre incorrect](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | vendredi 30 novembre 2023 |
 | [Formulaires personnalisés : impossible d’ajouter ou de supprimer des formulaires personnalisés en bloc sur des tâches de modèle](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 21 novembre 2023 |
-| [Tâches : les dates des tâches sont grisées pendant une longue période lors du recalcul de la chronologie](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md). | 10 novembre 2023 |
 | [Accueil : les tâches des projets dont le statut est Approuvé ou Planification ne sont pas incluses dans Mes tâches ou la liste de travail dans Accueil](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 6 novembre 2023 |
 | [Tâches : erreur [!UICONTROL « Oups »] dans l’en-tête de la tâche](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 25 octobre 2023 |
 | [BAT : impossible de générer le BAT](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19 octobre 2023 |

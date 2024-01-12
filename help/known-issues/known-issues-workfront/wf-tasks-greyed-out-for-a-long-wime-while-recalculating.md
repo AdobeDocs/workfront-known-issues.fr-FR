@@ -3,15 +3,19 @@ title: '« Tâches : les dates des tâches sont grisées pendant une longue p�
 description: « Lorsqu’une personne modifie une liste de tâches qui déclenche un recalcul d’une chronologie, d’autres tâches affectées par cette chronologie sont également recalculées. Pendant ce temps, les dates affectées dans ces autres tâches sont grisées. Dans ce cas, les tâches restent grisées pendant de longues périodes.  »
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 0bec78610e0e035d89b60a53d08cf07ef80c0753
-workflow-type: ht
-source-wordcount: '149'
+source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
+workflow-type: tm+mt
+source-wordcount: '155'
 ht-degree: 100%
 
 ---
 
 
 # Tâches : les dates des tâches sont grisées pendant une longue période lors du nouveau calcul de la chronologie.
+
+>[!NOTE]
+>
+>Ce problème a été résolu le vendredi 21 décembre 2023.
 
 Lorsqu’une personne modifie une liste de tâches qui déclenche un recalcul d’une chronologie, d’autres tâches affectées par cette chronologie sont également recalculées. Pendant ce temps, les dates affectées dans ces autres tâches sont grisées. Dans ce cas, les tâches restent grisées pendant de longues périodes.
 
