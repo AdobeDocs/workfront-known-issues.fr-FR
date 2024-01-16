@@ -4,7 +4,7 @@ description: « Lorsqu’un utilisateur ou une utilisatrice tente de sélection
 hidefromtoc: true
 feature: Projects
 source-git-commit: 008f8efcf3a21211f0e058051a56dd619e88eb31
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '118'
 ht-degree: 100%
 

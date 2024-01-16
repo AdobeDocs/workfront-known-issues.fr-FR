@@ -3,9 +3,9 @@ user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
 source-git-commit: a7d41227b34544889c2af1704d492a68967fab24
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1914'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
-      + [Bons à tirer : les bons à tirer ignorés ne parviennent pas à générer](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
-      + [Panoramas : la carte ne se ferme pas lors de l’utilisation de la vue Panoramas dans un projet](known-issues-workfront/wf-boards-cannot-close-card-on-project-board.md)
-      + [Problèmes : les champs de temps gagnent un temps incorrect en cas de problèmes de modification en masse.](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md)
-      + [Nouveau [!UICONTROL Accueil]: les valeurs par défaut des filtres de widgets et des regroupements ne suivent pas le modèle de mise en page](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
-      + [Panoramas : les cartes persistent lors du changement d’itération](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md)
+      + [Épreuve : échec de la génération d’épreuves compressées.](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
+      + [Panoramas : la carte ne se ferme pas lors de l’utilisation de la vue Panoramas dans un projet.](known-issues-workfront/wf-boards-cannot-close-card-on-project-board.md)
+      + [Problèmes : les champs d’heure enregistrent une heure incorrecte en cas de modification de problèmes en masse.](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md)
+      + [Nouvelle [!UICONTROL page d’accueil] : les valeurs par défaut des filtres de widgets et des regroupements ne respectent pas le modèle de mise en page.](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
+      + [Panoramas : les cartes persistent lors d’un changement d’itération](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md)
       + [Panoramas : « [!UICONTROL Vous n’avez aucun accès] » lors de l’affichage de commentaires sur une carte.](known-issues-workfront/wf-boards-no-access-to-view-comments.md)
       + [Équipes : problèmes liés à la définition des statuts de l’équipe pour le bouton [!UICONTROL Terminé].](known-issues-workfront/wf-teams-statuses-missing.md)
       + [BAT : les BAT créés à partir de documents Word n’incluent pas de commentaires ni de balises](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md)
