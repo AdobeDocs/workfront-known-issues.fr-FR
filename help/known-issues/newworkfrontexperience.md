@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
 workflow-type: tm+mt
 source-wordcount: '825'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Bons à tirer : les bons à tirer ignorés ne parviennent pas à générer](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | mardi 9 janvier 2023 |
+| [Épreuve : échec de la génération des épreuves compressées.](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | mardi 9 janvier 2023 |
 | [Panoramas : la recherche ne fonctionne pas](known-issues-workfront/wf-boards-search-not-working.md) | 20 octobre 2023 |
 
 {style="table-layout:auto"}
@@ -36,13 +36,13 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
-| [Problèmes : les champs de temps gagnent un temps incorrect en cas de problèmes de modification en masse.](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | samedi 5 janvier 2024 |
+| [Problèmes : les champs d’heure enregistrent une heure incorrecte en cas de modification de problèmes en masse.](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | samedi 5 janvier 2024 |
 | [BAT : les BAT créés à partir de documents Word n’incluent pas de commentaires ni de balises](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | vendredi 4 janvier 2024 |
 | [Modèles : erreur lorsqu’un modèle est joint à un projet](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | vendredi 4 janvier 2024 |
 | [Tâches : la fenêtre se ferme lors de la création d’une nouvelle tâche](known-issues-workfront/wf-tasks-new-window-closes.md) | vendredi 4 janvier 2024 |
 | [Modèles : impossible de sélectionner un modèle dans la liste [!UICONTROL Favoris]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | vendredi 4 janvier 2024 |
 | [Accueil : approbation bloquée sur le widget [!UICONTROL En attente de mon approbation] ](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | vendredi 4 janvier 2024 |
-| [Nouveau [!UICONTROL Accueil]: les valeurs par défaut des filtres de widgets et des regroupements ne suivent pas le modèle de mise en page](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | vendredi 4 janvier 2024 |
+| [Nouvelle [!UICONTROL page d’accueil] : les valeurs par défaut des filtres de widgets et des regroupements ne respectent pas le modèle de mise en page.](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | vendredi 4 janvier 2024 |
 | [Équipes : problèmes liés à la définition des statuts de l’équipe pour le bouton [!UICONTROL Terminé]](known-issues-workfront/wf-teams-statuses-missing.md). | mercredi 2 janvier 2024 |
 | [Tâches : une ou plusieurs tâches ne sont pas affectées à la personne](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | mardi 18 décembre 2023 |
 | [BAT : problèmes de traitement des fichiers statiques](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | samedi 15 décembre 2023 |
