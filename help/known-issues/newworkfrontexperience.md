@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
+source-git-commit: 6fd1ee82b2b9f2cb4ee88d8cd2b769114cec1524
 workflow-type: tm+mt
-source-wordcount: '825'
-ht-degree: 100%
+source-wordcount: '838'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documents : Problèmes lors de l’affichage de listes de documents](known-issues-workfront/wf-documents-list-not-loading.md) | mercredi 16 janvier 2024 |
 | [Épreuve : échec de la génération des épreuves compressées.](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | mardi 9 janvier 2023 |
 | [Panoramas : la recherche ne fonctionne pas](known-issues-workfront/wf-boards-search-not-working.md) | 20 octobre 2023 |
 
@@ -36,6 +37,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
+| [[!UICONTROL Configuration]: impossible de masquer les états facultatifs](known-issues-workfront/wf-setup-cannot-hide-optional-statuses.md) | jeudi 10 janvier 2024 |
 | [Problèmes : les champs d’heure enregistrent une heure incorrecte en cas de modification de problèmes en masse.](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | samedi 5 janvier 2024 |
 | [BAT : les BAT créés à partir de documents Word n’incluent pas de commentaires ni de balises](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | vendredi 4 janvier 2024 |
 | [Modèles : erreur lorsqu’un modèle est joint à un projet](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | vendredi 4 janvier 2024 |

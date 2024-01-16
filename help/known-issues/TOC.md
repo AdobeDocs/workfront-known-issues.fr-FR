@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: a7d41227b34544889c2af1704d492a68967fab24
-workflow-type: ht
-source-wordcount: '1914'
-ht-degree: 100%
+source-git-commit: 6fd1ee82b2b9f2cb4ee88d8cd2b769114cec1524
+workflow-type: tm+mt
+source-wordcount: '1925'
+ht-degree: 99%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Configuration]: impossible de masquer les états facultatifs](known-issues-workfront/wf-setup-cannot-hide-optional-statuses.md)
+      + [Documents : Problèmes lors de l’affichage de listes de documents](known-issues-workfront/wf-documents-list-not-loading.md)
       + [Épreuve : échec de la génération d’épreuves compressées.](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
       + [Panoramas : la carte ne se ferme pas lors de l’utilisation de la vue Panoramas dans un projet.](known-issues-workfront/wf-boards-cannot-close-card-on-project-board.md)
       + [Problèmes : les champs d’heure enregistrent une heure incorrecte en cas de modification de problèmes en masse.](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md)
