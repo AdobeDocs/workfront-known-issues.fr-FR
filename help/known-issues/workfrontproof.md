@@ -4,10 +4,10 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 6fd1ee82b2b9f2cb4ee88d8cd2b769114cec1524
+source-git-commit: 9226f53a5dfc29f1c2cf719d10b80028f05b394d
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 98%
+source-wordcount: '406'
+ht-degree: 96%
 
 ---
 
@@ -25,6 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Bon à tirer Workfront]: impossible de réorganiser les ressources lors de la création d’un BAT](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md) | jeudi 17 janvier 2024 |
 | [Documents : Problèmes lors de l’affichage de listes de documents](known-issues-workfront/wf-documents-list-not-loading.md) | mercredi 16 janvier 2024 |
 | [Épreuve : échec de la génération des épreuves compressées.](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | mardi 9 janvier 2023 |
 

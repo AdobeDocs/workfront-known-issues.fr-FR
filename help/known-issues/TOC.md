@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 6fd1ee82b2b9f2cb4ee88d8cd2b769114cec1524
+source-git-commit: 9226f53a5dfc29f1c2cf719d10b80028f05b394d
 workflow-type: tm+mt
-source-wordcount: '1925'
-ht-degree: 99%
+source-wordcount: '1934'
+ht-degree: 98%
 
 ---
 
@@ -211,6 +211,7 @@ ht-degree: 99%
 + [!DNL Workfront Proof] {#proof}
    + [Problèmes connus dans  [!DNL Workfront Proof]](workfrontproof.md)
    + Problèmes actifs dans [!DNL Workfront Proof] {#proof-current}
+      + [[!UICONTROL Bon à tirer Workfront]: impossible de réorganiser les ressources lors de la création d’un BAT](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof] : horodatage incorrect sur le [!UICONTROL Résumé du BAT]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!UICONTROL Workfront Proof] : notifications et e-mails retardés](known-issues-workfront-proof/proof-delayed-notification.md)
       + [[!DNL Workfront Proof] : impossible de développer le workflow](known-issues-workfront-proof/proof-cannot-view-workflow.md)
