@@ -4,9 +4,9 @@ description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 9a5ef8462f839ebd4bfaafb65a0b5cd2bffbedcf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '172'
-ht-degree: 47%
+ht-degree: 100%
 
 ---
 
@@ -77,15 +77,15 @@ This may occur even when the user could previously see comments on the card.
 
 +++**Mise à jour de maintenance du jeudi 11 janvier 2023**
 
-### Mise à jour de maintenance le 11 janvier 2023
+### Mise à jour de maintenance du 11 janvier 2023
 
 #### Panneaux
 
 **Les cartes terminées ne se chargent pas correctement sur les panoramas dynamiques**
 
-Auparavant, le seul moyen d’inclure les tâches terminées sur un panorama dynamique était de charger les cartes en tant que cartes archivées. Sinon, les cartes terminées n’étaient pas du tout chargées sur le panorama. Cela provoquait des problèmes lors de la recherche de cartes.
+Auparavant, le seul moyen d’inclure le travail terminée sur un panorama dynamique était de charger les cartes en tant que cartes archivées. Sinon, les cartes terminées n’étaient pas du tout chargées sur le panorama. Des problèmes se produisaient alors lors de la recherche de cartes.
 
-Désormais, lors de la création d’un panorama dynamique, les cartes terminées sont chargées par défaut sous forme de cartes archivées. Vous pouvez toutefois sélectionner Ne pas archiver les cartes terminées pour charger toutes les cartes terminées du panorama en tant que cartes visibles dans la colonne Terminé .
+Désormais, lors de la création d’un panorama dynamique, les cartes terminées sont chargées par défaut sous forme de cartes archivées. Vous pouvez toutefois sélectionner Ne pas archiver les cartes terminées pour charger toutes les cartes terminées du panorama en tant que cartes visibles dans la colonne Terminé.
 
 +++
 
