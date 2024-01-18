@@ -4,19 +4,18 @@ description: Lorsqu’un utilisateur ou une utilisatrice consulte une carte et s
 hidefromtoc: true
 feature: Agile
 exl-id: deca4ad7-429e-4f63-827d-b6a1bef4df7f
-source-git-commit: 3a5bf0ed6b1a7a6d61c9f3f074c551bf6e3b2d44
-workflow-type: ht
-source-wordcount: '72'
+source-git-commit: d3d6529fea8f2d020f4920ee5b2bda723f348cc2
+workflow-type: tm+mt
+source-wordcount: '78'
 ht-degree: 100%
 
 ---
 
 # Panoramas : erreur dans la section [!UICONTROL Commentaires] des cartes
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on January 12, 2024.-->
+>Ce problème a été résolu le vendredi 18 janvier 2024.
 
 Lorsqu’un utilisateur ou une utilisatrice consulte une carte et se rend à la section [!UICONTROL Commentaires], les commentaires ne s’affichent pas et un message d’erreur apparaît :
 

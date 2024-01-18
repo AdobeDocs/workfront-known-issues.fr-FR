@@ -3,15 +3,19 @@ title: '« Équipes : problèmes liés à la définition des statuts de l’é
 description: « Des problèmes ont été signalés concernant les statuts pour le bouton [!UICONTROL Terminé] lors de l’édition ou de la création d’une équipe. Une solution de contournement est disponible. »
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 1b5ee2639b89e920b961b8ed7166b7a1475c3e0e
-workflow-type: ht
-source-wordcount: '123'
+source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
+workflow-type: tm+mt
+source-wordcount: '129'
 ht-degree: 100%
 
 ---
 
 
 # Équipes : problèmes liés à la définition des statuts de l’équipe pour le bouton [!UICONTROL Terminé].
+
+>[!NOTE]
+>
+>Ce problème a été résolu le vendredi 18 janvier 2024.
 
 Les problèmes suivants ont été signalés concernant les statuts pour le bouton [!UICONTROL Terminé] lors de l’édition ou de la création d’une équipe :
 

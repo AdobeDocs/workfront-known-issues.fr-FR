@@ -3,15 +3,19 @@ title: '« Modèles : erreur lorsqu’un modèle est joint à un projet »'
 description: « Lorsqu’une personne tente de joindre un modèle à un projet, une erreur est renvoyée. Une solution de contournement est disponible. »
 hidefromtoc: true
 feature: Projects
-source-git-commit: b415cf67a97c873d41d0693e9baa8c73390443ea
-workflow-type: ht
-source-wordcount: '104'
+source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
+workflow-type: tm+mt
+source-wordcount: '110'
 ht-degree: 100%
 
 ---
 
 
 # Modèles : erreur lorsqu’un modèle est joint à un projet
+
+>[!NOTE]
+>
+>Ce problème a été résolu le vendredi 18 janvier 2024.
 
 Lorsqu’une personne tente de joindre un modèle à un projet, l’erreur suivante est renvoyée :
 

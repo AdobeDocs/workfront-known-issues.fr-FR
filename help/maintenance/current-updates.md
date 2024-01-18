@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 9a5ef8462f839ebd4bfaafb65a0b5cd2bffbedcf
-workflow-type: ht
-source-wordcount: '172'
-ht-degree: 100%
+source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
+workflow-type: tm+mt
+source-wordcount: '945'
+ht-degree: 81%
 
 ---
 
@@ -22,58 +22,107 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 ## Mises à jour de janvier 2024
 
-<!--
++++**Mise à jour de maintenance du vendredi 18 janvier 2024**
 
-+++**Maintenance Update on January 12, 2024**
+### Mise à jour de maintenance du vendredi 18 janvier 2024
 
-### Maintenance Update on January 12, 2024
+#### Panneaux
 
-#### Boards
+**Impossible de joindre un document à une carte**
 
-**Cannot attach a document to a card**
+Lorsqu’une personne tente de joindre un document à une carte connectée, elle peut sélectionner le document à joindre, mais ce dernier n’apparaît pas dans la zone de document de la carte et le document n’est pas joint à l’objet auquel la carte est connectée.
 
-When a user attempts to attach a document to a connected card, the user can select the document to attach, but the document does not appear in the document area of the card, and the document is not attached to the object that the card is connected to.
+Ce fait a été signalé dans les cartes liées aux problèmes.
 
-This has been reported in cards connected to issues.
+**La carte s’affiche sur plusieurs empreintes**
 
-**Card appears on multiple sprints**
+Lorsqu’une personne consulte un sprint sur les panoramas, les cartes qui se trouvent dans différents sprints apparaissent sur le panorama. Ce problème est intermittent.
 
-When a user is viewing a sprint on Boards, cards that are in different sprints appear on the board. This issue is intermittent.
+**La carte ne se ferme pas lors de l’utilisation de la vue Panoramas dans un projet**
 
-**Card doesn't close when using Boards view in a Project**
+Lorsqu’un utilisateur ou une utilisatrice utilise la vue Panoramas sur une liste de tâches d’un projet et crée une carte, celle-ci ne se ferme pas et n’est pas enregistrée. Cela empêche l’utilisateur ou l’utilisatrice de revenir au projet.
 
-When a user is viewing the Boards view on a task list in a project, and creates a card, the card does not close or save. This prevents the user from returning to the project.
+Pour fermer la carte, l’utilisateur ou l’utilisatrice doit modifier l’URL afin de supprimer le mot « board » et tout ce qui se trouve à droite du mot « board ».
 
-To close the card, the user must edit the URL to remove "board" and anything to the right of "board."
+**Les cartes persistent lors du changement d’itération**
 
-**Cards persist when changing iteration**
+Lorsqu’un utilisateur ou une utilisatrice consulte une itération sur un panorama, puis modifie l’itération, les cartes qui s’affichent pour la nouvelle itération sont celles d’une itération précédemment consultée par l’utilisateur ou l’utilisatrice.
 
-When a user is viewing an iteration on a board and then changes the iteration, the cards displaying for the new iteration are the cards from an iteration the user was viewing previously. 
+**Erreur dans [!UICONTROL Commentaires] section de cartes**
 
-**Error in [!UICONTROL Comments] section of cards**
+Lorsqu’un utilisateur ou une utilisatrice consulte une carte et se rend à la section [!UICONTROL Commentaires], les commentaires ne s’affichent pas et un message d’erreur apparaît :
 
-When a user is viewing a card and scrolls to the [!UICONTROL Comments], section, comments are not displayed, and the user sees the following error:
+&quot;[!UICONTROL Un problème est survenu. Veuillez réessayer plus tard.]&quot;
 
-"[!UICONTROL Something went wrong. Please try again later.]"
+**Problèmes lors de l’affichage du statut de sous-tâche**
 
-**Issues when viewing subtask status**
+Les problèmes suivants ont été signalés concernant l’affichage du statut de sous-tâche sur une carte dans Panoramas :
 
-The following issues have been reported regarding viewing subtask status on a card in Boards:
+* Le statut s’affiche sous la forme « Sélectionner le statut » même si la tâche a déjà un statut. Ce statut est visible lorsque vous affichez directement la tâche.
+* Si l’utilisateur ou l’utilisatrice tente de sélectionner un statut, l’écran devient vide et doit être actualisé.
 
-* The status is shown as "Select status" even when the task already has a status. This status can be seen when viewing the task directly.
-* If the user attempts to select a status, the screen goes blank and must be refreshed.
+**&quot;[!UICONTROL Vous n’avez aucun accès]&quot; lors de l’affichage de commentaires sur une carte ;**
 
-**"[!UICONTROL You have no access]" when viewing comments on a card**
+Lorsqu’un utilisateur ou une utilisatrice tente d’afficher des commentaires sur une carte qui n’est pas connectée à un objet [!DNL Workfront], le message suivant s’affiche.
 
-When a user attempts to view comments on a card that is not connected to a [!DNL Workfront] object, they see the following message: 
+« [!UICONTROL Vous n’avez pas accès à l’affichage des commentaires sur cet objet.] »
 
-"[!UICONTROL You have no access to view comments on this object]"
+Cela peut se produire même si l’utilisateur ou l’utilisatrice pouvait auparavant voir des commentaires sur la carte.
 
-This may occur even when the user could previously see comments on the card.
+#### Formulaires personnalisés dans mon groupe
+
+**Impossible d’ajouter ou de supprimer en masse des formulaires personnalisés pour les tâches de modèle**
+
+Si une personne tente d’ajouter ou de supprimer un formulaire personnalisé en bloc sur une tâche de modèle, ce dernier n’est pas ajouté ni supprimé et l’erreur suivante s’affiche :
+
+[!UICONTROL Réessayons. Paramètre non valide : valeur templateID « XXXXXXXXXXXXXXXX »]
+
+Si la personne localise le modèle avec le GUID spécifié, puis tente d’ajouter ou de supprimer des formulaires personnalisés sur le reste des tâches du modèle, l’erreur se produit avec un autre templateID.
+
+Les formulaires personnalisés peuvent être ajoutés ou supprimés sur une seule tâche de modèle. Cette erreur s’applique uniquement à l’ajout ou à la suppression en bloc.
+
+#### Portefeuilles
+
+**La terminologie personnalisée ne s’applique pas à la page de groupe.**
+
+Lorsqu’un utilisateur définit une terminologie personnalisée au niveau du Portfolio, la terminologie ne s’applique pas à la page au niveau du groupe.
+
+#### Configuration
+
+**Impossible de masquer les états facultatifs**
+
+Lorsqu’un utilisateur tente de masquer les états facultatifs au niveau du système et du groupe, l’état n’est pas masqué. Si l’utilisateur affiche l’état, l’option de masquage de l’état n’est pas activée, même si l’utilisateur l’a activé et enregistré les modifications.
+
+**États de problème par défaut manquants dans certains types de problèmes dans la configuration**
+
+Lorsqu’une personne consulte les statuts des problèmes dans la Configuration, elle constate que les statuts par défaut (nouveaux, en cours et terminés) sont absents de certains types de problèmes. Les statuts par défaut ne proposent pas l’option de modifier le type de problème. La personne ne peut donc pas reconfigurer les statuts à afficher pour les types de problèmes concernés.
+
+#### Équipes
+
+**Problèmes liés à la définition des états de l’équipe pour [!UICONTROL Terminé] button**
+
+Les problèmes suivants ont été signalés concernant les statuts pour le bouton [!UICONTROL Terminé] lors de l’édition ou de la création d’une équipe :
+
+* Certains statuts peuvent ne pas figurer dans la zone du bouton Terminé dans la fenêtre [!UICONTROL Nouvelle équipe] ou dans la section [!UICONTROL Paramètres de l’équipe] d’une équipe existante.
+* Si l’utilisateur ou l’utilisatrice tente d’enregistrer l’équipe, le message d’erreur « Vous devez sélectionner au moins un statut dans chaque catégorie. » peut s’afficher.
+
+#### Modèles
+
+**Erreur lors de l’association d’un modèle au projet**
+
+Lorsqu’une personne tente de joindre un modèle à un projet, l’erreur suivante est renvoyée :
+
+« Oups ! Un problème est survenu. Contactez Workfront pour nous aider à comprendre l’erreur et y remédier. »
+
+Cela se produit lorsque la personne ne dispose pas de l’autorisation Afficher pour un formulaire personnalisé associé au modèle.
+
+#### Mises à jour
+
+**Les commentaires ne sont pas transférés entre l’ancienne et la nouvelle expérience.**
+
+Un commentaire effectué dans l’expérience de commentaire héritée peut ne pas être visible dans la nouvelle expérience de commentaire. L’inverse peut également se produire.
 
 +++
-
--->
 
 +++**Mise à jour de maintenance du jeudi 11 janvier 2023**
 
