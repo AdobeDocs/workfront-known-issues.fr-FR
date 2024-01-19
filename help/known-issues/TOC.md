@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9226f53a5dfc29f1c2cf719d10b80028f05b394d
+source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
 workflow-type: tm+mt
-source-wordcount: '1934'
-ht-degree: 98%
+source-wordcount: '1959'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Intégrations : impossible de consigner l’heure à partir de Workfront pour l’intégration Jira](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md)
+      + [Mises à jour : impossible d’afficher ou de télécharger des images dans les commentaires](known-issues-workfront/wf-updates-cannot-view-or-download-images.md)
+      + [Notifications : le marquage des notifications comme indiqué ne persiste pas](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md)
       + [[!UICONTROL Configuration]: impossible de masquer les états facultatifs](known-issues-workfront/wf-setup-cannot-hide-optional-statuses.md)
       + [Documents : Problèmes lors de l’affichage de listes de documents](known-issues-workfront/wf-documents-list-not-loading.md)
       + [Épreuve : échec de la génération d’épreuves compressées.](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
