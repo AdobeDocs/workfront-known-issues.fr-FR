@@ -5,7 +5,7 @@ role: User
 source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
 workflow-type: tm+mt
 source-wordcount: '1959'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -20,8 +20,8 @@ ht-degree: 97%
       + [Intégrations : impossible de consigner l’heure à partir de Workfront pour l’intégration Jira](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md)
       + [Mises à jour : impossible d’afficher ou de télécharger des images dans les commentaires](known-issues-workfront/wf-updates-cannot-view-or-download-images.md)
       + [Notifications : le marquage des notifications comme indiqué ne persiste pas](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md)
-      + [[!UICONTROL Configuration]: impossible de masquer les états facultatifs](known-issues-workfront/wf-setup-cannot-hide-optional-statuses.md)
-      + [Documents : Problèmes lors de l’affichage de listes de documents](known-issues-workfront/wf-documents-list-not-loading.md)
+      + [[!UICONTROL Configuration] : impossible de masquer les statuts facultatifs](known-issues-workfront/wf-setup-cannot-hide-optional-statuses.md)
+      + [Documents : problèmes lors de l’affichage des listes de documents](known-issues-workfront/wf-documents-list-not-loading.md)
       + [Épreuve : échec de la génération d’épreuves compressées.](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
       + [Panoramas : la carte ne se ferme pas lors de l’utilisation de la vue Panoramas dans un projet.](known-issues-workfront/wf-boards-cannot-close-card-on-project-board.md)
       + [Problèmes : les champs d’heure enregistrent une heure incorrecte en cas de modification de problèmes en masse.](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md)
@@ -214,7 +214,7 @@ ht-degree: 97%
 + [!DNL Workfront Proof] {#proof}
    + [Problèmes connus dans  [!DNL Workfront Proof]](workfrontproof.md)
    + Problèmes actifs dans [!DNL Workfront Proof] {#proof-current}
-      + [[!UICONTROL Bon à tirer Workfront]: impossible de réorganiser les ressources lors de la création d’un BAT](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
+      + [[!UICONTROL Workfront Proof] : impossible de réorganiser les ressources lors de la création d’un BAT](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof] : horodatage incorrect sur le [!UICONTROL Résumé du BAT]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!UICONTROL Workfront Proof] : notifications et e-mails retardés](known-issues-workfront-proof/proof-delayed-notification.md)
       + [[!DNL Workfront Proof] : impossible de développer le workflow](known-issues-workfront-proof/proof-cannot-view-workflow.md)
