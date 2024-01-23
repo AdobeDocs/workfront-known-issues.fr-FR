@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
+source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
 workflow-type: tm+mt
-source-wordcount: '794'
-ht-degree: 96%
+source-wordcount: '821'
+ht-degree: 94%
 
 ---
 
@@ -25,9 +25,12 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Notifications : le marquage des notifications comme indiqué ne persiste pas](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md) | vendredi 19 janvier 2023 |
-| [Épreuve : échec de la génération des épreuves compressées.](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | mardi 9 janvier 2023 |
-| [Panoramas : la recherche ne fonctionne pas](known-issues-workfront/wf-boards-search-not-working.md) | 20 octobre 2023 |
+| [Documents : impossible de déplacer le document du dossier à la racine](known-issues-workfront/wf-documents-cannot-move-to-root.md) | mercredi 23 janvier 2024 |
+| [Bons à tirer : le rendu des GIFs est un BAT statique](known-issues-workfront/wf-proofs-gif-static-image.md) | mercredi 23 janvier 2024 |
+| [Gestion des ressources : calculs financiers incorrects en raison de problèmes liés au rôle de tâche](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | mercredi 23 janvier 2024 |
+| [Notifications : le marquage des notifications comme indiqué ne persiste pas](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md) | samedi 19 janvier 2024 |
+| [Épreuve : échec de la génération des épreuves compressées.](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | mercredi 9 janvier 2024 |
+| [Panoramas : la recherche ne fonctionne pas](known-issues-workfront/wf-boards-search-not-working.md) | lundi 20 octobre 2024 |
 
 {style="table-layout:auto"}
 
