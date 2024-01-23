@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
+source-git-commit: 67155ccf8996661fb9429c6174a7f5d0cf4a6d8a
 workflow-type: tm+mt
-source-wordcount: '945'
-ht-degree: 81%
+source-wordcount: '1085'
+ht-degree: 80%
 
 ---
 
@@ -21,6 +21,24 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2024.
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates).
 
 ## Mises à jour de janvier 2024
+
++++**Mise à jour de maintenance du vendredi 25 janvier 2024**
+
+### Mise à jour de maintenance du vendredi 25 janvier 2024
+
+#### Panneaux
+
+**Les cartes ne se déplacent pas vers la colonne appropriée lorsque l’état est modifié**
+
+Lorsque le statut de l’objet lié d’une carte connectée est modifié directement sur l’objet, la carte ne passe pas à la colonne appropriée. Si le statut de l’objet est modifié sur la carte ou si la carte est glissée vers la nouvelle colonne, la carte se comporte comme prévu.
+
+#### Notifications
+
+**Le marquage des notifications comme indiqué ne persiste pas**
+
+Lorsqu’un utilisateur marque ses notifications comme affichées, puis accède à une autre page dans [!DNL Workfront], l’icône de notifications indique toujours le nombre de notifications non lues qui existaient avant que l’utilisateur ne les marque comme visibles, et les notifications s’affichent toujours lorsque l’utilisateur clique sur l’icône. Cela se poursuit si l’utilisateur les marque comme vus et accède à une autre page ou revient à la page d’origine.
+
++++
 
 +++**Mise à jour de maintenance du vendredi 18 janvier 2024**
 
@@ -91,7 +109,7 @@ Lorsqu’un utilisateur définit une terminologie personnalisée au niveau du Po
 
 **Impossible de masquer les états facultatifs**
 
-Lorsqu’un utilisateur tente de masquer les états facultatifs au niveau du système et du groupe, l’état n’est pas masqué. Si l’utilisateur affiche l’état, l’option de masquage de l’état n’est pas activée, même si l’utilisateur l’a activé et enregistré les modifications.
+Lorsqu’un utilisateur ou une utilisatrice tente de masquer les statuts facultatifs au niveau du système et du groupe, ces derniers ne sont pas masqués. Si la personne affiche le statut, l’option de masquage n’est pas activée, même si elle l’a activée puis a enregistré les modifications.
 
 **États de problème par défaut manquants dans certains types de problèmes dans la configuration**
 
