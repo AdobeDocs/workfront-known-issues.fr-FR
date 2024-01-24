@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
+source-git-commit: 29c3a3fd335527e4695b2361a19278d751797cbf
 workflow-type: tm+mt
-source-wordcount: '1983'
-ht-degree: 97%
+source-wordcount: '2004'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Mises à jour : les commentaires effectués dans l’expérience de commentaire héritée ne sont pas visibles dans la nouvelle expérience.](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
+      + [Mises à jour : problèmes de balisage dans l’expérience héritée de commentaires](known-issues-workfront/wf-updates-showing-first-name.md)
       + [Documents : impossible de déplacer le document du dossier à la racine](known-issues-workfront/wf-documents-cannot-move-to-root.md)
       + [Bons à tirer : le rendu des GIFs est un BAT statique](known-issues-workfront/wf-proofs-gif-static-image.md)
       + [Gestion des ressources : calculs financiers incorrects en raison de problèmes liés au rôle de tâche](known-issues-workfront/wf-resource-mgmt-job-role-rates.md)
