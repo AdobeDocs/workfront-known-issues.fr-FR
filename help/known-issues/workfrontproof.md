@@ -4,9 +4,9 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
+source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '390'
 ht-degree: 96%
 
 ---
@@ -27,7 +27,6 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 | -----------------------------------------------------------------| ----------------- |
 | [Documents : impossible de déplacer le document du dossier à la racine](known-issues-workfront/wf-documents-cannot-move-to-root.md) | mercredi 23 janvier 2024 |
 | [Bons à tirer : le rendu des GIFs est un BAT statique](known-issues-workfront/wf-proofs-gif-static-image.md) | mercredi 23 janvier 2024 |
-| [[!UICONTROL Workfront Proof] : impossible de réorganiser les ressources lors de la création d’un BAT](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md) | jeudi 17 janvier 2024 |
 | [Épreuve : échec de la génération des épreuves compressées.](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | mercredi 9 janvier 2024 |
 
 {style="table-layout:auto"}

@@ -3,15 +3,19 @@ title: "Intégrations : impossible de consigner l’heure à partir de Workfront
 description: "Lorsqu’un utilisateur tente de se connecter à l’heure dans l’intégration Workfront For Jira, l’heure ne se connecte pas et l’utilisateur détecte une erreur."
 hidefromtoc: true
 feature: Workfront Integrations and Apps
-source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
+source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 5%
+source-wordcount: '86'
+ht-degree: 4%
 
 ---
 
 
 # Intégrations : impossible de consigner l’heure à partir de Workfront pour l’intégration Jira
+
+>[!NOTE]
+>
+>Ce problème a été résolu le 19 janvier. 2024.
 
 Lorsqu’un utilisateur tente de se connecter à l’heure dans l’intégration Workfront For Jira, l’heure ne se connecte pas et l’utilisateur voit l’erreur suivante :
 
