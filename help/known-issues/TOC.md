@@ -2,9 +2,9 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 29c3a3fd335527e4695b2361a19278d751797cbf
+source-git-commit: 80bee7bc272f90f1cadd28972ee2421f213ec5be
 workflow-type: tm+mt
-source-wordcount: '2004'
+source-wordcount: '2012'
 ht-degree: 96%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Gestion des ressources]: impossible de modifier la date dans [!UICONTROL Utilisation] area](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
       + [Mises à jour : les commentaires effectués dans l’expérience de commentaire héritée ne sont pas visibles dans la nouvelle expérience.](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
       + [Mises à jour : problèmes de balisage dans l’expérience héritée de commentaires](known-issues-workfront/wf-updates-showing-first-name.md)
       + [Documents : impossible de déplacer le document du dossier à la racine](known-issues-workfront/wf-documents-cannot-move-to-root.md)
