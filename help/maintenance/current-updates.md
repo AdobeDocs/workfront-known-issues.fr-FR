@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 67155ccf8996661fb9429c6174a7f5d0cf4a6d8a
+source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
 workflow-type: tm+mt
-source-wordcount: '1085'
-ht-degree: 80%
+source-wordcount: '1158'
+ht-degree: 75%
 
 ---
 
@@ -37,6 +37,19 @@ Lorsque le statut de l’objet lié d’une carte connectée est modifié direct
 **Le marquage des notifications comme indiqué ne persiste pas**
 
 Lorsqu’un utilisateur marque ses notifications comme affichées, puis accède à une autre page dans [!DNL Workfront], l’icône de notifications indique toujours le nombre de notifications non lues qui existaient avant que l’utilisateur ne les marque comme visibles, et les notifications s’affichent toujours lorsque l’utilisateur clique sur l’icône. Cela se poursuit si l’utilisateur les marque comme vus et accède à une autre page ou revient à la page d’origine.
+
+#### Mises à jour
+
+**Problèmes liés au balisage dans les commentaires hérités**
+
+Lorsqu’un utilisateur est balisé dans un commentaire dans l’expérience de commentaire héritée, les problèmes suivants se produisent :
+
+* Seul le prénom de l’utilisateur est présent dans le commentaire
+* Le nom de l’utilisateur n’est pas marqué d’un symbole @
+* Le nom de l’utilisateur n’est pas bleu
+* Le nom de l’utilisateur n’est pas un lien vers son profil.
+
+L’utilisateur reçoit une notification par courrier électronique concernant la balise, comme prévu.
 
 +++
 
@@ -142,9 +155,9 @@ Un commentaire effectué dans l’expérience de commentaire héritée peut ne p
 
 +++
 
-+++**Mise à jour de maintenance du jeudi 11 janvier 2023**
++++**Mise à jour de maintenance du vendredi 11 janvier 2024**
 
-### Mise à jour de maintenance du 11 janvier 2023
+### Mise à jour de maintenance du vendredi 11 janvier 2024
 
 #### Panneaux
 

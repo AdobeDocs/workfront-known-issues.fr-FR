@@ -4,14 +4,18 @@ description: Lorsque le statut de l’objet lié d’une carte connectée est mo
 hidefromtoc: true
 feature: Agile
 exl-id: b8c087a4-0424-411c-b18a-0ee53a7807e9
-source-git-commit: 2bc104395dab85085371f7f2230a7325fb50e94a
-workflow-type: ht
-source-wordcount: '120'
+source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
+workflow-type: tm+mt
+source-wordcount: '126'
 ht-degree: 100%
 
 ---
 
 # Panoramas : les cartes ne se déplacent pas vers la colonne appropriée lorsque le statut est modifié
+
+>[!NOTE]
+>
+>Ce problème a été résolu le vendredi 25 janvier 2024.
 
 Lorsque le statut de l’objet lié d’une carte connectée est modifié directement sur l’objet, la carte ne passe pas à la colonne appropriée. Si le statut de l’objet est modifié sur la carte ou si la carte est glissée vers la nouvelle colonne, la carte se comporte comme prévu.
 
