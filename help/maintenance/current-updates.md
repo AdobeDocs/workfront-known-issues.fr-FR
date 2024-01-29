@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
 workflow-type: tm+mt
 source-wordcount: '1158'
-ht-degree: 75%
+ht-degree: 92%
 
 ---
 
@@ -36,7 +36,7 @@ Lorsque le statut de l’objet lié d’une carte connectée est modifié direct
 
 **Le marquage des notifications comme indiqué ne persiste pas**
 
-Lorsqu’un utilisateur marque ses notifications comme affichées, puis accède à une autre page dans [!DNL Workfront], l’icône de notifications indique toujours le nombre de notifications non lues qui existaient avant que l’utilisateur ne les marque comme visibles, et les notifications s’affichent toujours lorsque l’utilisateur clique sur l’icône. Cela se poursuit si l’utilisateur les marque comme vus et accède à une autre page ou revient à la page d’origine.
+Lorsqu’un utilisateur ou une utilisatrice marque ses notifications comme lues, puis accède à une autre page dans [!DNL Workfront], l’icône de notifications affiche toujours le nombre de notifications non lues qui existaient avant que la personne les marque comme lues et elles apparaissent toujours lorsque cette dernière clique sur l’icône. Cela se poursuit si l’utilisateur ou l’utilisatrice les marque comme lues et accède à une autre page ou revient à la page d’origine.
 
 #### Mises à jour
 
@@ -65,21 +65,21 @@ Lorsqu’une personne tente de joindre un document à une carte connectée, elle
 
 Ce fait a été signalé dans les cartes liées aux problèmes.
 
-**La carte s’affiche sur plusieurs empreintes**
+**La carte apparaît sur plusieurs sprints**.
 
 Lorsqu’une personne consulte un sprint sur les panoramas, les cartes qui se trouvent dans différents sprints apparaissent sur le panorama. Ce problème est intermittent.
 
-**La carte ne se ferme pas lors de l’utilisation de la vue Panoramas dans un projet**
+**La carte ne se ferme pas lors de l’utilisation de la vue Panoramas dans un projet**.
 
 Lorsqu’un utilisateur ou une utilisatrice utilise la vue Panoramas sur une liste de tâches d’un projet et crée une carte, celle-ci ne se ferme pas et n’est pas enregistrée. Cela empêche l’utilisateur ou l’utilisatrice de revenir au projet.
 
 Pour fermer la carte, l’utilisateur ou l’utilisatrice doit modifier l’URL afin de supprimer le mot « board » et tout ce qui se trouve à droite du mot « board ».
 
-**Les cartes persistent lors du changement d’itération**
+**Les cartes persistent lors d’un changement d’itération.**
 
 Lorsqu’un utilisateur ou une utilisatrice consulte une itération sur un panorama, puis modifie l’itération, les cartes qui s’affichent pour la nouvelle itération sont celles d’une itération précédemment consultée par l’utilisateur ou l’utilisatrice.
 
-**Erreur dans [!UICONTROL Commentaires] section de cartes**
+**Erreur dans la section [!UICONTROL Commentaires] des cartes**
 
 Lorsqu’un utilisateur ou une utilisatrice consulte une carte et se rend à la section [!UICONTROL Commentaires], les commentaires ne s’affichent pas et un message d’erreur apparaît :
 
@@ -92,7 +92,7 @@ Les problèmes suivants ont été signalés concernant l’affichage du statut d
 * Le statut s’affiche sous la forme « Sélectionner le statut » même si la tâche a déjà un statut. Ce statut est visible lorsque vous affichez directement la tâche.
 * Si l’utilisateur ou l’utilisatrice tente de sélectionner un statut, l’écran devient vide et doit être actualisé.
 
-**&quot;[!UICONTROL Vous n’avez aucun accès]&quot; lors de l’affichage de commentaires sur une carte ;**
+**« [!UICONTROL Vous n’avez aucun accès] » lors de l’affichage de commentaires sur une carte**.
 
 Lorsqu’un utilisateur ou une utilisatrice tente d’afficher des commentaires sur une carte qui n’est pas connectée à un objet [!DNL Workfront], le message suivant s’affiche.
 
@@ -102,7 +102,7 @@ Cela peut se produire même si l’utilisateur ou l’utilisatrice pouvait aupar
 
 #### Formulaires personnalisés dans mon groupe
 
-**Impossible d’ajouter ou de supprimer en masse des formulaires personnalisés pour les tâches de modèle**
+**Impossible d’ajouter ou de supprimer des formulaires personnalisés en bloc sur des tâches de modèle**
 
 Si une personne tente d’ajouter ou de supprimer un formulaire personnalisé en bloc sur une tâche de modèle, ce dernier n’est pas ajouté ni supprimé et l’erreur suivante s’affiche :
 
@@ -114,23 +114,23 @@ Les formulaires personnalisés peuvent être ajoutés ou supprimés sur une seul
 
 #### Portefeuilles
 
-**La terminologie personnalisée ne s’applique pas à la page de groupe.**
+**La terminologie personnalisée ne s’applique pas à la page de groupe**.
 
-Lorsqu’un utilisateur définit une terminologie personnalisée au niveau du Portfolio, la terminologie ne s’applique pas à la page au niveau du groupe.
+Lorsqu’un utilisateur ou une utilisatrice définit une terminologie personnalisée au niveau du Portfolio, la terminologie ne s’applique pas à la page au niveau du groupe.
 
 #### Configuration
 
-**Impossible de masquer les états facultatifs**
+**Impossible de masquer les statuts facultatifs**
 
 Lorsqu’un utilisateur ou une utilisatrice tente de masquer les statuts facultatifs au niveau du système et du groupe, ces derniers ne sont pas masqués. Si la personne affiche le statut, l’option de masquage n’est pas activée, même si elle l’a activée puis a enregistré les modifications.
 
-**États de problème par défaut manquants dans certains types de problèmes dans la configuration**
+**Les statuts des problèmes par défaut ne figurent pas dans certains types de problèmes dans la Configuration**
 
 Lorsqu’une personne consulte les statuts des problèmes dans la Configuration, elle constate que les statuts par défaut (nouveaux, en cours et terminés) sont absents de certains types de problèmes. Les statuts par défaut ne proposent pas l’option de modifier le type de problème. La personne ne peut donc pas reconfigurer les statuts à afficher pour les types de problèmes concernés.
 
 #### Équipes
 
-**Problèmes liés à la définition des états de l’équipe pour [!UICONTROL Terminé] button**
+**Problèmes liés à la définition des statuts de l’équipe pour le bouton [!UICONTROL Terminé]**
 
 Les problèmes suivants ont été signalés concernant les statuts pour le bouton [!UICONTROL Terminé] lors de l’édition ou de la création d’une équipe :
 
@@ -139,7 +139,7 @@ Les problèmes suivants ont été signalés concernant les statuts pour le bouto
 
 #### Modèles
 
-**Erreur lors de l’association d’un modèle au projet**
+**Erreur lorsqu’un modèle est joint à un projet**.
 
 Lorsqu’une personne tente de joindre un modèle à un projet, l’erreur suivante est renvoyée :
 
@@ -149,7 +149,7 @@ Cela se produit lorsque la personne ne dispose pas de l’autorisation Afficher 
 
 #### Mises à jour
 
-**Les commentaires ne sont pas transférés entre l’ancienne et la nouvelle expérience.**
+**Les commentaires ne sont pas transférés entre l’ancienne et la nouvelle expérience**.
 
 Un commentaire effectué dans l’expérience de commentaire héritée peut ne pas être visible dans la nouvelle expérience de commentaire. L’inverse peut également se produire.
 

@@ -1,24 +1,24 @@
 ---
-title: "Intégrations : impossible de consigner l’heure à partir de Workfront pour l’intégration Jira"
-description: "Lorsqu’un utilisateur tente de se connecter à l’heure dans l’intégration Workfront For Jira, l’heure ne se connecte pas et l’utilisateur détecte une erreur."
+title: '« Intégrations : impossible de consigner le temps de l’intégration Workfront pour Jira »'
+description: « Lors de la tentative de consignation du temps dans l’intégration Workfront pour Jira, le temps ne se consigne pas et un message d’erreur s’affiche. »
 hidefromtoc: true
 feature: Workfront Integrations and Apps
 source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
 workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 4%
+ht-degree: 90%
 
 ---
 
 
-# Intégrations : impossible de consigner l’heure à partir de Workfront pour l’intégration Jira
+# Intégrations : impossible de consigner le temps pour l’intégration Workfront pour Jira
 
 >[!NOTE]
 >
 >Ce problème a été résolu le 19 janvier. 2024.
 
-Lorsqu’un utilisateur tente de se connecter à l’heure dans l’intégration Workfront For Jira, l’heure ne se connecte pas et l’utilisateur voit l’erreur suivante :
+Lors de la tentative de consignation du temps dans l’intégration Workfront pour Jira, le temps ne se consigne pas et un message d’erreur s’affiche :
 
-&quot;[!UICONTROL Impossible de lire les propriétés d’undefined (lecture de &quot;split&quot;)]&quot;
+« [!UICONTROL Impossible de lire les propriétés de l’objet non défini (lecture de la propriété split)] »
 
 _Premier signalement le mardi 7 août 2023._

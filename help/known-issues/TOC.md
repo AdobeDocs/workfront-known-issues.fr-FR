@@ -5,7 +5,7 @@ role: User
 source-git-commit: 032a05ba535624c37c160675ac748c40ebd96477
 workflow-type: tm+mt
 source-wordcount: '1473'
-ht-degree: 94%
+ht-degree: 96%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 94%
       + [Documents : impossible de déplacer le document du dossier à la racine](known-issues-workfront/wf-documents-cannot-move-to-root.md)
       + [Bons à tirer : le rendu des GIFs est un BAT statique](known-issues-workfront/wf-proofs-gif-static-image.md)
       + [Gestion des ressources : calculs financiers incorrects en raison de problèmes liés au rôle de tâche](known-issues-workfront/wf-resource-mgmt-job-role-rates.md)
-      + [Intégrations : impossible de consigner l’heure à partir de Workfront pour l’intégration Jira](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md)
-      + [Mises à jour : impossible d’afficher ou de télécharger des images dans les commentaires](known-issues-workfront/wf-updates-cannot-view-or-download-images.md)
-      + [Notifications : le marquage des notifications comme indiqué ne persiste pas](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md)
+      + [Intégrations : impossible de consigner le temps pour l’intégration Workfront pour Jira](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md)
+      + [Mises à jour : impossible d’afficher ou de télécharger des images dans les commentaires](known-issues-workfront/wf-updates-cannot-view-or-download-images.md)
+      + [Notifications : le marquage des notifications comme lues ne persiste pas](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md)
       + [[!UICONTROL Configuration] : impossible de masquer les statuts facultatifs](known-issues-workfront/wf-setup-cannot-hide-optional-statuses.md)
       + [Documents : problèmes lors de l’affichage des listes de documents](known-issues-workfront/wf-documents-list-not-loading.md)
       + [Épreuve : échec de la génération d’épreuves compressées.](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
