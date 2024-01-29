@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 032a05ba535624c37c160675ac748c40ebd96477
+source-git-commit: 92749c76da53c07ebd17acc9683557f6da4e1e37
 workflow-type: tm+mt
-source-wordcount: '1473'
-ht-degree: 96%
+source-wordcount: '1482'
+ht-degree: 95%
 
 ---
 
@@ -186,6 +186,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problèmes connus dans Workfront Fusion](workfrontfusion.md)
    + Problèmes actifs dans [!DNL Workfront Fusion] {#fusion-current}
+      + [Fusion Workfront : RuntimeError avec réponse 200 du module Workfront](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)
       + [Workfront Fusion : erreur de mémoire faible](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion : duplication de projets créés à partir d’un seul module](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
       + [[!DNL Workfront Fusion] : [!DNL Workfront] >[!UICONTROL Module d’appel d’API personnalisé] renvoyant des erreurs 404 ou 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)

@@ -4,10 +4,10 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Fusion]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 80cd493b72fb2732234e78b683afe071f8bd9545
-workflow-type: ht
-source-wordcount: '143'
-ht-degree: 100%
+source-git-commit: 92749c76da53c07ebd17acc9683557f6da4e1e37
+workflow-type: tm+mt
+source-wordcount: '152'
+ht-degree: 94%
 
 ---
 
@@ -36,7 +36,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| Aucun |  |
+| [Fusion Workfront : RuntimeError avec réponse 200 du module Workfront](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md) | mardi 29 janvier 2024 |
 
 {style="table-layout:auto"}
 
