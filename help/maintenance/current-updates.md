@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
+source-git-commit: b5a918850060b8fc02b8a9c978c4e2a4bc7a8dc4
 workflow-type: tm+mt
-source-wordcount: '1158'
-ht-degree: 92%
+source-wordcount: '1333'
+ht-degree: 81%
 
 ---
 
@@ -20,7 +20,43 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2024.
 
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates).
 
+## Mises à jour de février 2024
+
++++**(Planifiée) Mise à jour de maintenance du vendredi 1 février 2024**
+
+### Mise à jour de maintenance (planifiée) le 1er février 2024
+
+#### Connexion
+
+**Les utilisateurs utilisant la fonction SSO ne sont pas redirigés vers l’emplacement d’origine lors de la connexion**
+
+Lorsqu’un utilisateur se trouve sur une page de [!DNL Workfront] et se connecte avec SSO, une fois la connexion terminée, ils sont redirigés vers [!UICONTROL Accueil] au lieu de la page sur laquelle ils se trouvaient avant de se connecter.
+
+#### Modèles
+
+**Erreur lors de la copie de modèles**
+
+Lorsqu’un utilisateur tente de copier un modèle nouveau ou existant, le modèle ne le copie pas et l’utilisateur voit l’erreur suivante :
+
+&quot;[!UICONTROL ID ne peut pas être nul]&quot;
+
++++
+
 ## Mises à jour de janvier 2024
+
++++**Mise à jour de maintenance (correctif) le mercredi 30 janvier 2024**
+
+### Mise à jour de maintenance (correctif) le 30 janvier 2024
+
+#### Rapports
+
+**Le champ API externe n’affiche pas toutes les valeurs disponibles dans les listes et les rapports.**
+
+Auparavant, les utilisateurs pouvaient voir la valeur sélectionnée (et la modifier) pour un champ de recherche externe dans les listes et les rapports, mais ne voyaient pas la liste déroulante avec les options provenant de l’API.
+
+Désormais, lorsqu’un champ personnalisé de recherche externe est utilisé dans une liste ou un rapport, la liste déroulante contenant toutes les options de l’API externe est disponible.
+
++++
 
 +++**Mise à jour de maintenance du vendredi 25 janvier 2024**
 
