@@ -4,10 +4,10 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Fusion]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 92749c76da53c07ebd17acc9683557f6da4e1e37
+source-git-commit: 32196793e652b6b498e623ba8857039d6311c796
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 94%
+source-wordcount: '159'
+ht-degree: 90%
 
 ---
 
@@ -46,6 +46,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Fusion Workfront : formatage des valeurs de sortie pour les dates](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | jeudi 31 janvier 2024 |
 | [Workfront Fusion : erreur de mémoire faible](known-issues-workfront-fusion/fusion-low-memory-error.md) | 16 novembre 2023 |
 | [Workfront Fusion : duplication de projets créés à partir d’un seul module](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 24 octobre 2023 |
 | [[!DNL Workfront Proof] : erreur 500 lors de l’accès à [!DNL Workfront Proof] via l’API ou [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 25 mai 2023 |
