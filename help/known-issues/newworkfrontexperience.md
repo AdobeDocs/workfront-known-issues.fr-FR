@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 04719e36f29982d13e2f032e4d987238df2d2a1f
+source-git-commit: 3b05b44c752775e891d2bc3feafd9a4479ab8414
 workflow-type: tm+mt
-source-wordcount: '807'
-ht-degree: 93%
+source-wordcount: '838'
+ht-degree: 90%
 
 ---
 
@@ -25,6 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Panoramas : impossible de déplacer une carte dans une colonne à l’aide de [!UICONTROL Déplacer] options](known-issues-workfront/wf-boards-top-of-column-ineffective.md) | samedi 26 janvier 2024 |
 | [Documents : impossible de déplacer le document du dossier à la racine](known-issues-workfront/wf-documents-cannot-move-to-root.md) | mercredi 23 janvier 2024 |
 | [Bons à tirer : le rendu des GIFs est un BAT statique](known-issues-workfront/wf-proofs-gif-static-image.md) | mercredi 23 janvier 2024 |
 | [Épreuve : échec de la génération des épreuves compressées.](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | mercredi 9 janvier 2024 |
@@ -37,6 +38,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
+| [Problèmes : statut du problème non dans la liste déroulante](known-issues-workfront/wf-issues-status-not-available.md) | jeudi 31 janvier 2024 |
+| [Mises à jour : l’option Image désactivée est disponible lors de la modification d’un commentaire.](known-issues-workfront/wf-updates-image-enabled-when-editing.md) | jeudi 31 janvier 2024 |
 | [Modèles : erreur lors de la copie de modèles](known-issues-workfront/wf-templates-cannot-copy-template.md) | samedi 26 janvier 2024 |
 | [[!UICONTROL Gestion des ressources]: impossible de modifier la date dans [!UICONTROL Utilisation] area](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md) | vendredi 25 janvier 2024 |
 | [Équipes : problèmes liés à la définition des statuts de l’équipe pour le bouton [!UICONTROL Terminé]](known-issues-workfront/wf-teams-statuses-missing.md). | vendredi 25 janvier 2024 |

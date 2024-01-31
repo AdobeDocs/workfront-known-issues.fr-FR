@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 92749c76da53c07ebd17acc9683557f6da4e1e37
+source-git-commit: 3b05b44c752775e891d2bc3feafd9a4479ab8414
 workflow-type: tm+mt
-source-wordcount: '1482'
-ht-degree: 95%
+source-wordcount: '1510'
+ht-degree: 93%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Problèmes : statut du problème non dans la liste déroulante](known-issues-workfront/wf-issues-status-not-available.md)
+      + [Mises à jour : l’option Image désactivée est disponible lors de la modification d’un commentaire.](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
+      + [Panoramas : impossible de déplacer une carte dans une colonne à l’aide de [!UICONTROL Déplacer] options](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
       + [Modèles : erreur lors de la copie de modèles](known-issues-workfront/wf-templates-cannot-copy-template.md)
       + [[!UICONTROL Gestion des ressources]: impossible de modifier la date dans [!UICONTROL Utilisation] area](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
       + [Mises à jour : les commentaires effectués dans l’expérience de commentaire héritée ne sont pas visibles dans la nouvelle expérience.](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
