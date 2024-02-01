@@ -3,15 +3,19 @@ title: '« Modèles : impossible de sélectionner un modèle dans la liste [!U
 description: « Lorsqu’un utilisateur ou une utilisatrice tente de sélectionner un modèle dans la liste [!UICONTROL Favoris], la liste disparaît lors du déplacement de la souris vers la liste et il est impossible de sélectionner un modèle. »
 hidefromtoc: true
 feature: Projects
-source-git-commit: 008f8efcf3a21211f0e058051a56dd619e88eb31
-workflow-type: ht
-source-wordcount: '118'
+source-git-commit: b9cc44f0daffeec11b8b8b7e6239cf050faa047a
+workflow-type: tm+mt
+source-wordcount: '124'
 ht-degree: 100%
 
 ---
 
 
 # Modèles : impossible de sélectionner un modèle dans la liste [!UICONTROL Favoris]
+
+>[!NOTE]
+>
+>Ce problème a été résolu le vendredi 25 janvier 2024.
 
 Lorsqu’un utilisateur ou une utilisatrice tente de sélectionner un modèle dans la liste [!UICONTROL Favoris], la liste disparaît lors du déplacement de la souris vers la liste et il est impossible de sélectionner un modèle.
 
