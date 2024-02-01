@@ -3,15 +3,19 @@ title: "Modèles : erreur lors de la copie des modèles"
 description: "Lorsqu’un utilisateur tente de copier un modèle nouveau ou existant, il ne le copie pas et affiche une erreur."
 hidefromtoc: true
 feature: Projects
-source-git-commit: 85c5e92c4a434c39b2f238a5917f0e409493ec5e
+source-git-commit: 17e60b281dc05073247083257121d8809a271722
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 6%
+source-wordcount: '69'
+ht-degree: 14%
 
 ---
 
 
 # Modèles : erreur lors de la copie de modèles
+
+>[!NOTE]
+>
+>Ce problème a été résolu le vendredi 1 février 2024.
 
 Lorsqu’un utilisateur tente de copier un modèle nouveau ou existant, le modèle ne le copie pas et l’utilisateur voit l’erreur suivante :
 
