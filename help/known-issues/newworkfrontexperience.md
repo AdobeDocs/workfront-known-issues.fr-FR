@@ -4,9 +4,9 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b6271df75cce6d725f6d27b479b0eb31b8991acb
+source-git-commit: 513b1efc9deffe0a1d8024e95e5aa88e14dd8e41
 workflow-type: tm+mt
-source-wordcount: '806'
+source-wordcount: '793'
 ht-degree: 96%
 
 ---
@@ -51,7 +51,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [BAT : problèmes de traitement des fichiers statiques](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | samedi 15 décembre 2023 |
 | [Tâches : la duplication de tâches entraîne l’affichage des tâches dans un ordre incorrect](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | vendredi 30 novembre 2023 |
 | [Accueil : les tâches des projets dont le statut est Approuvé ou Planification ne sont pas incluses dans Mes tâches ou la liste de travail dans Accueil](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 6 novembre 2023 |
-| [BAT : impossible de générer le BAT](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19 octobre 2023 |
 | [[!DNL Workfront] : problèmes lors de la soumission d’un cas d’assistance [!DNL Workfront] sur Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 août 2022 |
 
 {style="table-layout:auto"}
@@ -74,7 +73,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [Épreuves : les options d’approbation n’apparaissent pas dans le [!UICONTROL Lecteur de vérification.]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 10 août 2023 |
 | [Épreuves : les épreuves n’apparaissent pas comme approuvées dans les rapports.](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 3 août 2023 |
 | [[!UICONTROL Configuration] : impossible d’exporter les journaux d’audit](known-issues-workfront/wf-setup-cannot-export-audit-logs.md) | 20 juillet 2023 |
-| [Intégrations de document : impossible de voir tous les dossiers dans  [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md) | 18 juillet 2023 |
 | [Épreuves : les épreuves sont créées lentement dans l’environnement Aperçu](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 8 juin 2023 |
 | [Formulaires personnalisés : erreur « [!UICONTROL Oups] » lors de la configuration d’un champ calculé](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 5 mai 2023 |
 | [Documents : les options des [!UICONTROL Activités de vérification] débouchent sur la page de connexion.](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 21 avril 2023 |

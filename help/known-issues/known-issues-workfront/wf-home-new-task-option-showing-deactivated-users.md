@@ -4,14 +4,16 @@ description: Lorsque l’utilisateur dans la nouvelle expérience  [!DNL Adobe W
 exl-id: 32257ac1-9804-4793-9c37-62ca5608df3d
 feature: Get Started with Workfront, Tasks
 hidefromtoc: true
-source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
-workflow-type: ht
+source-git-commit: 513b1efc9deffe0a1d8024e95e5aa88e14dd8e41
+workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 100%
 
 ---
 
 # [!UICONTROL Accueil] : l’option [!UICONTROL Nouvelle tâche] indique des utilisateurs désactivés dans le champ [!UICONTROL Affecter à]
+
+<!--Valid issue, won't fix-->
 
 Lorsque l’utilisateur dans la nouvelle expérience [!DNL Adobe Workfront] crée une nouvelle tâche ou un nouvel événement dans la zone d’[!UICONTROL Accueil] et tente d’y affecter un utilisateur, des utilisateurs désactivés peuvent être sélectionnés dans la liste déroulante de saisie semi-automatique.
 
