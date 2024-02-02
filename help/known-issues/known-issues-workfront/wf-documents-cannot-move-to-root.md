@@ -1,29 +1,29 @@
 ---
-title: "Documents : impossible de déplacer le document d’un dossier à la racine"
-description: "Lorsqu’un utilisateur tente de déplacer un dossier d’un dossier créé par l’utilisateur vers le dossier racine Documents du projet, le document ne se déplace pas et l’utilisateur voit une erreur."
+title: '« Documents : impossible de déplacer le document du dossier vers la racine »'
+description: « Lorsqu’une personne tente de déplacer un dossier d’un dossier créé par l’utilisateur ou l’utilisatrice vers le dossier racine Documents du projet, le document ne se déplace pas et une erreur s’affiche. »
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '121'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Documents : impossible de déplacer le document du dossier à la racine
+# Documents : impossible de déplacer le document du dossier vers la racine
 
-Lorsqu’un utilisateur tente de déplacer un dossier d’un dossier créé par l’utilisateur vers le dossier racine Documents du projet, le document ne se déplace pas et l’utilisateur voit l’erreur suivante :
+Lorsqu’une personne tente de déplacer un dossier d’un dossier créé par l’utilisateur ou l’utilisatrice vers le dossier racine Documents du projet, le document ne se déplace pas et une erreur s’affiche.
 
-&quot;[!UICONTROL destinationFolderD ne peut pas être null]&quot;
+« [!UICONTROL destinationFolderlD ne peut pas être nul] »
 
 **Solution de contournement**
 
-Utilisez la variable **Déplacer** .
+Utilisez l’option **Déplacer**.
 
-1. Sélectionnez les documents que vous souhaitez déplacer vers le dossier racine.
-1. Cliquez sur le bouton **Déplacer** Icône
-1. Sélectionner **Projet**.
+1. Sélectionnez les documents à déplacer vers le dossier racine.
+1. Cliquez sur l&#39;icône **Déplacer**.
+1. Sélectionnez un **projet**.
 1. Commencez à saisir le nom du projet, puis sélectionnez-le dans la liste.
 1. Cliquez sur **Terminer**.
 

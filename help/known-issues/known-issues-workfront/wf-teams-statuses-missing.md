@@ -4,7 +4,7 @@ description: « Des problèmes ont été signalés concernant les statuts pour 
 hidefromtoc: true
 feature: People Teams and Groups
 source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
 ht-degree: 100%
 
