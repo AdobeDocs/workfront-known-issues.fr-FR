@@ -5,7 +5,7 @@ role: User
 source-git-commit: 32196793e652b6b498e623ba8857039d6311c796
 workflow-type: tm+mt
 source-wordcount: '1516'
-ht-degree: 93%
+ht-degree: 97%
 
 ---
 
@@ -20,13 +20,13 @@ ht-degree: 93%
       + [Problèmes : statut du problème non dans la liste déroulante](known-issues-workfront/wf-issues-status-not-available.md)
       + [Mises à jour : l’option Image désactivée est disponible lors de la modification d’un commentaire.](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
       + [Panoramas : impossible de déplacer une carte dans une colonne à l’aide de [!UICONTROL Déplacer] options](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
-      + [Modèles : erreur lors de la copie de modèles](known-issues-workfront/wf-templates-cannot-copy-template.md)
-      + [[!UICONTROL Gestion des ressources]: impossible de modifier la date dans [!UICONTROL Utilisation] area](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
-      + [Mises à jour : les commentaires effectués dans l’expérience de commentaire héritée ne sont pas visibles dans la nouvelle expérience.](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
-      + [Mises à jour : problèmes de balisage dans l’expérience héritée de commentaires](known-issues-workfront/wf-updates-showing-first-name.md)
-      + [Documents : impossible de déplacer le document du dossier à la racine](known-issues-workfront/wf-documents-cannot-move-to-root.md)
-      + [Bons à tirer : le rendu des GIFs est un BAT statique](known-issues-workfront/wf-proofs-gif-static-image.md)
-      + [Gestion des ressources : calculs financiers incorrects en raison de problèmes liés au rôle de tâche](known-issues-workfront/wf-resource-mgmt-job-role-rates.md)
+      + [Modèles : erreur lors de la copie de modèles](known-issues-workfront/wf-templates-cannot-copy-template.md)
+      + [[!UICONTROL Gestion des ressources] : impossible de modifier la date dans la zone [!UICONTROL Utilisation]](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
+      + [Mises à jour : les commentaires effectués dans l’expérience de commentaire héritée ne sont pas visibles dans la nouvelle expérience](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
+      + [Mises à jour : problèmes de balisage dans l’expérience de commentaire héritée](known-issues-workfront/wf-updates-showing-first-name.md)
+      + [Documents : impossible de déplacer le document du dossier vers la racine](known-issues-workfront/wf-documents-cannot-move-to-root.md)
+      + [Épreuves : rendu des GIF en épreuves statiques](known-issues-workfront/wf-proofs-gif-static-image.md)
+      + [Gestion des ressources : calculs financiers incorrects en raison de problèmes liés à la fonction](known-issues-workfront/wf-resource-mgmt-job-role-rates.md)
       + [Intégrations : impossible de consigner le temps pour l’intégration Workfront pour Jira](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md)
       + [Mises à jour : impossible d’afficher ou de télécharger des images dans les commentaires](known-issues-workfront/wf-updates-cannot-view-or-download-images.md)
       + [Notifications : le marquage des notifications comme lues ne persiste pas](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md)

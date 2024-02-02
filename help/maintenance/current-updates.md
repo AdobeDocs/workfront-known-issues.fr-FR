@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 17e60b281dc05073247083257121d8809a271722
 workflow-type: tm+mt
 source-wordcount: '1332'
-ht-degree: 81%
+ht-degree: 90%
 
 ---
 
@@ -36,9 +36,9 @@ Lorsqu’un utilisateur se trouve sur une page de [!DNL Workfront] et se connect
 
 **Erreur lors de la copie de modèles**
 
-Lorsqu’un utilisateur tente de copier un modèle nouveau ou existant, le modèle ne le copie pas et l’utilisateur voit l’erreur suivante :
+Lorsqu’une personne tente de copier un modèle nouveau ou existant, celui-ci n’est pas copié et le message d’erreur suivant s’affiche :
 
-&quot;[!UICONTROL ID ne peut pas être nul]&quot;
+« [!UICONTROL L’ID ne peut pas être nul] »
 
 +++
 
@@ -64,28 +64,28 @@ Désormais, lorsqu’un champ personnalisé de recherche externe est utilisé da
 
 #### Panneaux
 
-**Les cartes ne se déplacent pas vers la colonne appropriée lorsque l’état est modifié**
+**Les cartes ne se déplacent pas vers la colonne appropriée lorsque le statut est modifié**
 
 Lorsque le statut de l’objet lié d’une carte connectée est modifié directement sur l’objet, la carte ne passe pas à la colonne appropriée. Si le statut de l’objet est modifié sur la carte ou si la carte est glissée vers la nouvelle colonne, la carte se comporte comme prévu.
 
 #### Notifications
 
-**Le marquage des notifications comme indiqué ne persiste pas**
+**Le marquage des notifications comme lues ne persiste pas**
 
 Lorsqu’un utilisateur ou une utilisatrice marque ses notifications comme lues, puis accède à une autre page dans [!DNL Workfront], l’icône de notifications affiche toujours le nombre de notifications non lues qui existaient avant que la personne les marque comme lues et elles apparaissent toujours lorsque cette dernière clique sur l’icône. Cela se poursuit si l’utilisateur ou l’utilisatrice les marque comme lues et accède à une autre page ou revient à la page d’origine.
 
 #### Mises à jour
 
-**Problèmes liés au balisage dans les commentaires hérités**
+**Problèmes de balisage dans l’expérience de commentaire héritée**
 
-Lorsqu’un utilisateur est balisé dans un commentaire dans l’expérience de commentaire héritée, les problèmes suivants se produisent :
+Lorsqu’une personne est identifiée dans un commentaire de l’expérience de commentaire héritée, les problèmes suivants se produisent :
 
-* Seul le prénom de l’utilisateur est présent dans le commentaire
-* Le nom de l’utilisateur n’est pas marqué d’un symbole @
-* Le nom de l’utilisateur n’est pas bleu
-* Le nom de l’utilisateur n’est pas un lien vers son profil.
+* Seul son prénom apparaît dans le commentaire
+* Son nom n’est pas marqué d’un symbole @
+* Son nom n’est pas bleu
+* Son nom ne s’affiche pas sous forme de lien vers son profil
 
-L’utilisateur reçoit une notification par courrier électronique concernant la balise, comme prévu.
+La personne reçoit une notification par e-mail concernant la balise, comme prévu.
 
 +++
 
