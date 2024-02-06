@@ -2,9 +2,9 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: aad77d690cef72beb1543c442ee557e768777150
+source-git-commit: 4f66611a781f5793d397e28911e308d46bd1de02
 workflow-type: tm+mt
-source-wordcount: '1523'
+source-wordcount: '1532'
 ht-degree: 96%
 
 ---
@@ -189,6 +189,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problèmes connus dans Workfront Fusion](workfrontfusion.md)
    + Problèmes actifs dans [!DNL Workfront Fusion] {#fusion-current}
+      + [Fusion Workfront : BAT Workfront > délai d’expiration du module BAT Watch](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md)
       + [Fusion Workfront : le champ est absent du module](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
       + [Fusion Workfront : formatage des valeurs de sortie pour les dates](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Fusion Workfront : RuntimeError avec réponse 200 du module Workfront](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)

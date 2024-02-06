@@ -4,10 +4,10 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Fusion]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: aad77d690cef72beb1543c442ee557e768777150
+source-git-commit: ee15f19ffd6010f637582fa484721596a25f0653
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 86%
+source-wordcount: '177'
+ht-degree: 82%
 
 ---
 
@@ -36,6 +36,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Fusion Workfront : BAT Workfront > délai d’expiration du module BAT Watch](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md) | mercredi 6 février 2024 |
 | [Fusion Workfront : RuntimeError avec réponse 200 du module Workfront](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md) | mardi 29 janvier 2024 |
 
 {style="table-layout:auto"}
