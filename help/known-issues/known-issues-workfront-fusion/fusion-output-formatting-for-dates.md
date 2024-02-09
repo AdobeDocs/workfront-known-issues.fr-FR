@@ -1,21 +1,21 @@
 ---
-title: "Workfront Fusion : Formatage des valeurs de sortie pour les dates"
-description: "Lorsque les dates sont générées sous forme de chaînes, la date peut être générée sous la forme d’une chaîne UTC ou ISO. Cela dépend de la logique dans un panneau de mappage."
+title: '« Workfront Fusion : formatage des sorties pour les dates »'
+description: « Lorsque les dates sont générées sous forme de chaînes, le format peut être UTC ou ISO. Cela dépend de la logique dans un panneau de mappage. »
 hidefromtoc: true
 feature: Workfront Fusion
 source-git-commit: 32196793e652b6b498e623ba8857039d6311c796
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Fusion Workfront : formatage des valeurs de sortie pour les dates
+# Workfront Fusion : formatage des sorties pour les dates
 
-Lorsque les dates sont générées sous la forme de chaînes, la date peut être générée sous la forme d’une chaîne UTC ou ISO. Cela dépend de la logique dans un panneau de mappage :
+Lorsque les dates sont générées sous forme de chaînes, le format peut être UTC ou ISO. Cela dépend de la logique dans un panneau de mappage :
 
-* Si une date d’une fonction est associée à une chaîne, la chaîne est générée dans la variable **UTC** format.
-* Si la date n’est pas associée à une fonction, elle est générée en tant que **Chaîne ISO**.
+* si une date d’une fonction est associée à une chaîne, la chaîne est générée au format **UTC** ;
+* si la date n’est pas associée à une fonction, elle est générée en tant que **chaîne ISO**.
 
-Les clients doivent utiliser la variable `toString` (pour ISO) ou `formatDate` pour s’assurer que les sorties sont dans le format dont elles ont besoin.
+Les clientes et clients doivent utiliser les fonctions `toString` (pour ISO) ou `formatDate` pour s’assurer que les sorties sont dans le format correct.

@@ -1,20 +1,20 @@
 ---
-title: "Problèmes : statut du problème non dans la liste déroulante"
-description: "Lorsqu’un utilisateur tente de modifier l’état d’un problème dans l’en-tête du problème, tous les états de problème disponibles ne s’affichent pas dans la liste déroulante."
+title: '« Problèmes : statut du problème non présent dans la liste déroulante »'
+description: « Lorsqu’une personne tente de modifier le statut d’un problème dans son en-tête, tous les statuts disponibles ne s’affichent pas dans la liste déroulante. »
 hidefromtoc: true
 feature: Work Management
 source-git-commit: 3b05b44c752775e891d2bc3feafd9a4479ab8414
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# Problèmes : statut du problème non dans la liste déroulante
+# Problèmes : statut du problème non présent dans la liste déroulante
 
-Lorsqu’un utilisateur tente de modifier l’état d’un problème dans l’en-tête du problème, tous les états de problème disponibles ne s’affichent pas dans la liste déroulante.
+Lorsqu’une personne tente de modifier le statut d’un problème dans son en-tête, tous les statuts disponibles ne s’affichent pas dans la liste déroulante.
 
-Ce problème a été signalé pour le[!UICONTROL En cours]&quot;.
+Ce problème a été signalé pour le statut « [!UICONTROL En cours] ».
 
 _Premier signalement le 6 novembre 2023._
