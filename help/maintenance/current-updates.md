@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: ee15f19ffd6010f637582fa484721596a25f0653
+source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
 workflow-type: tm+mt
-source-wordcount: '1447'
-ht-degree: 86%
+source-wordcount: '1518'
+ht-degree: 96%
 
 ---
 
@@ -22,15 +22,15 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 ## Mises à jour de février 2024
 
-+++**(Planifiée) Mise à jour de maintenance du vendredi 8 février 2024**
++++**Mise à jour de maintenance du vendredi 8 février 2024**
 
-### Mise à jour de maintenance (planifiée) le 8 février 2024
+### Mise à jour de maintenance le 8 février 2024
 
 #### Panneaux
 
 **Impossible de déplacer une carte dans une colonne à l’aide de [!UICONTROL Déplacer] options**
 
-Lorsqu’un utilisateur tente de déplacer une carte dans une colonne en utilisant le[!UICONTROL Haut de la colonne]&quot; ou &quot;[!UICONTROL Bas de colonne]&quot; dans le menu à trois points, la carte ne se déplace pas.
+Lorsqu’un utilisateur ou une utilisatrice tente de déplacer une carte dans une colonne à l’aide des options [!UICONTROL Haut de la colonne] ou [!UICONTROL Bas de la colonne] du menu à trois points, la carte ne se déplace pas.
 
 **Les cartes persistent lors d’un changement d’itération.**
 
@@ -42,6 +42,14 @@ Lorsqu’un utilisateur ou une utilisatrice consulte une itération sur un panor
 
 Lorsqu’un rapport de graphique comporte un[!DNL No value]&quot;, la colonne n’affiche aucune donnée, même si les données doivent être présentes.
 
+#### Gestion des ressources
+
+**Mauvais calculs financiers en raison de problèmes liés au rôle de tâche**
+
+Les heures et les calculs financiers peuvent être incorrects, affichant un coût de 0, même si les heures sont enregistrées dans une fonction avec un taux de dépenses.
+
+Cela est dû au fait que les fonctions créent automatiquement des taux en double sans date de début ou de fin. Comme elles n’ont pas de date de début ou de fin, elles sont traitées comme une valeur de 0 lorsque les calculs financiers sont exécutés.
+
 +++
 
 +++**Mise à jour de maintenance du vendredi 1 février 2024**
@@ -50,9 +58,9 @@ Lorsqu’un rapport de graphique comporte un[!DNL No value]&quot;, la colonne n�
 
 #### Connexion
 
-**Les utilisateurs utilisant la fonction SSO ne sont pas redirigés vers l’emplacement d’origine lors de la connexion**
+**Les personnes utilisant la fonction SSO ne sont pas redirigées vers l’emplacement d’origine lors de la connexion**
 
-Lorsqu’un utilisateur se trouve sur une page de [!DNL Workfront] et se connecte avec SSO, une fois la connexion terminée, ils sont redirigés vers [!UICONTROL Accueil] au lieu de la page sur laquelle ils se trouvaient avant de se connecter.
+Lorsqu’une personne se trouve sur une page de [!DNL Workfront] et se connecte avec l’option SSO, une fois la connexion terminée, elle est redirigée vers la page d’[!UICONTROL accueil] au lieu de la page sur laquelle elle se trouvait avant de se connecter.
 
 #### Modèles
 
@@ -68,13 +76,13 @@ Lorsqu’une personne tente de copier un modèle nouveau ou existant, celui-ci n
 
 +++**Mise à jour de maintenance (correctif) le mercredi 30 janvier 2024**
 
-### Mise à jour de maintenance (correctif) le 30 janvier 2024
+### Mise à jour de maintenance (correctif) le 30 janvier 2024
 
 #### Rapports
 
-**Le champ API externe n’affiche pas toutes les valeurs disponibles dans les listes et les rapports.**
+**Le champ d’API externe n’affiche pas toutes les valeurs disponibles dans les listes et les rapports**
 
-Auparavant, les utilisateurs pouvaient voir la valeur sélectionnée (et la modifier) pour un champ de recherche externe dans les listes et les rapports, mais ne voyaient pas la liste déroulante avec les options provenant de l’API.
+Auparavant, les utilisateurs et utilisatrices pouvaient voir et modifier la valeur sélectionnée d’un champ de recherche externe dans les listes et dans les rapports, mais ne voyaient pas la liste déroulante avec les options provenant de l’API.
 
 Désormais, lorsqu’un champ personnalisé de recherche externe est utilisé dans une liste ou un rapport, la liste déroulante contenant toutes les options de l’API externe est disponible.
 

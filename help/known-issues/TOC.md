@@ -5,7 +5,7 @@ role: User
 source-git-commit: b3b415f939a1d83da47de4bf960f5a504b59b3fa
 workflow-type: tm+mt
 source-wordcount: '1542'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 95%
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
       + [Utilisateurs : niveaux d’accès inférieurs non disponibles lors de la création d’un utilisateur](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
-      + [Problèmes : statut du problème non dans la liste déroulante](known-issues-workfront/wf-issues-status-not-available.md)
-      + [Mises à jour : l’option Image désactivée est disponible lors de la modification d’un commentaire.](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
-      + [Panoramas : impossible de déplacer une carte dans une colonne à l’aide de [!UICONTROL Déplacer] options](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
+      + [Problèmes : statut du problème non présent dans la liste déroulante](known-issues-workfront/wf-issues-status-not-available.md)
+      + [Mises à jour : l’option Image désactivée est disponible lors de la modification d’un commentaire](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
+      + [Panoramas : impossible de déplacer une carte dans une colonne à l’aide des options [!UICONTROL Déplacer]](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
       + [Modèles : erreur lors de la copie de modèles](known-issues-workfront/wf-templates-cannot-copy-template.md)
       + [[!UICONTROL Gestion des ressources] : impossible de modifier la date dans la zone [!UICONTROL Utilisation]](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
       + [Mises à jour : les commentaires effectués dans l’expérience de commentaire héritée ne sont pas visibles dans la nouvelle expérience](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
@@ -192,8 +192,8 @@ ht-degree: 95%
    + Problèmes actifs dans [!DNL Workfront Fusion] {#fusion-current}
       + [Fusion Workfront : BAT Workfront > délai d’expiration du module BAT Watch](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md)
       + [Fusion Workfront : le champ est absent du module](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
-      + [Fusion Workfront : formatage des valeurs de sortie pour les dates](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
-      + [Fusion Workfront : RuntimeError avec réponse 200 du module Workfront](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)
+      + [Workfront Fusion : formatage des sorties pour les dates](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
+      + [Workfront Fusion : RuntimeError avec réponse 200 du module Workfront](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)
       + [Workfront Fusion : erreur de mémoire faible](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion : duplication de projets créés à partir d’un seul module](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
       + [[!DNL Workfront Fusion] : [!DNL Workfront] >[!UICONTROL Module d’appel d’API personnalisé] renvoyant des erreurs 404 ou 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
