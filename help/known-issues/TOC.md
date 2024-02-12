@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: b3b415f939a1d83da47de4bf960f5a504b59b3fa
+source-git-commit: 276180358efb2a394ca58c51fd73b834f48874e9
 workflow-type: tm+mt
-source-wordcount: '1542'
-ht-degree: 98%
+source-wordcount: '1564'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Mises à jour : un écran s’affiche lorsque vous répondez à un utilisateur d’une autre société.](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md)
+      + [Panoramas : le filtrage pour plusieurs utilisateurs ne renvoie pas tous les résultats](known-issues-workfront/wf-boards-filter-not-pulling-users.md)
       + [Utilisateurs : niveaux d’accès inférieurs non disponibles lors de la création d’un utilisateur](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
       + [Problèmes : statut du problème non présent dans la liste déroulante](known-issues-workfront/wf-issues-status-not-available.md)
       + [Mises à jour : l’option Image désactivée est disponible lors de la modification d’un commentaire](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
