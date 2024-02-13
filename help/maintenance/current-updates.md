@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
+source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
 workflow-type: tm+mt
-source-wordcount: '1518'
-ht-degree: 96%
+source-wordcount: '1690'
+ht-degree: 95%
 
 ---
 
@@ -21,6 +21,30 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2024.
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates).
 
 ## Mises à jour de février 2024
+
++++**(Planifiée) Mise à jour de maintenance du vendredi 15 février 2024**
+
+### Mise à jour de maintenance (planifiée) le 15 février 2024
+
+#### Problèmes
+
+**Les champs de temps gagnent du temps lorsque des problèmes de modification en masse surviennent**
+
+Lorsqu’un utilisateur ou une utilisatrice modifie des problèmes en masse et sélectionne une date et une heure pour un champ de date et les enregistre, l’heure enregistrée dans ce champ dans le problème n’est pas l’heure sélectionnée par l’utilisateur ou l’utilisatrice. Au lieu de cela, l’heure semble être convertie au fuseau horaire UTC au moment de l’enregistrement par l’utilisateur ou l’utilisatrice.
+
+#### Tâches
+
+**L’utilisateur n’est pas affecté à une ou plusieurs tâches**
+
+Une tâche peut automatiquement ne plus être affectée à une personne à laquelle elle était affectée. Cela peut se produire pour une ou plusieurs tâches. La fin de cette affectation ne s’affiche pas dans la zone Mises à jour système des tâches, mais dans la section Mise à jour des flux du menu de Configuration.
+
+#### Mises à jour
+
+**L’option Image désactivée est disponible lors de la modification d’un commentaire**
+
+Quand un administrateur ou une administratrice [!DNL Workfront] désactive l’option permettant d’ajouter des images aux commentaires, cette dernière n’est pas disponible lors de la création d’un commentaire. Cependant, si un utilisateur ou une utilisatrice modifie un commentaire existant, l’option d’image est disponible.
+
++++
 
 +++**Mise à jour de maintenance du vendredi 8 février 2024**
 
