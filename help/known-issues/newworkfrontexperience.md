@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
+source-git-commit: fbcd3495cff923fc181419e89182e079c35dd053
 workflow-type: tm+mt
-source-wordcount: '821'
-ht-degree: 92%
+source-wordcount: '827'
+ht-degree: 93%
 
 ---
 
@@ -25,11 +25,12 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Panoramas : problèmes liés aux cartes en double](known-issues-workfront/wf-boards-some-cards-duplicated.md) | jeudi 14 février 2024 |
 | [Intégrations : documents non joints lors de la création d’une requête à partir de [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | mercredi 13 février 2024 |
 | [Bons à tirer : impossible de créer un BAT avec [!UICONTROL Processus avancé] d’un [!DNL SharePoint] document](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | mercredi 13 février 2024 |
 | [Panoramas : erreur 400 lors de l’ajout d’une tâche à un panorama](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | mercredi 13 février 2024 |
 | [Panoramas : le filtrage pour plusieurs utilisateurs ne renvoie pas tous les résultats](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | mardi 12 février 2024 |
-| [Utilisateurs : niveaux d’accès inférieurs non disponibles lors de la création d’un utilisateur](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | vendredi 8 février 2024 |
+| [Utilisateurs et utilisatrices : niveaux d’accès inférieurs non disponibles lors de la création d’un utilisateur ou d’une utilisatrice](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | vendredi 8 février 2024 |
 | [Épreuves : rendus des GIF en épreuves statiques](known-issues-workfront/wf-proofs-gif-static-image.md) | mercredi 23 janvier 2024 |
 | [Épreuve : échec de la génération des épreuves compressées.](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | mercredi 9 janvier 2024 |
 

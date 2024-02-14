@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 82f7b2f94e9df2f3e1707946f802720fc2ff8c16
+source-git-commit: fbcd3495cff923fc181419e89182e079c35dd053
 workflow-type: tm+mt
-source-wordcount: '1594'
-ht-degree: 95%
+source-wordcount: '1599'
+ht-degree: 96%
 
 ---
 
@@ -17,12 +17,13 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Panoramas : problèmes liés aux cartes en double](known-issues-workfront/wf-boards-some-cards-duplicated.md)
       + [Intégrations : documents non joints lors de la création d’une requête à partir de [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
       + [Bons à tirer : impossible de créer un BAT avec [!UICONTROL Processus avancé] d’un [!DNL SharePoint] document](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)
       + [Panoramas : erreur 400 lors de l’ajout d’une tâche à un panorama](known-issues-workfront/wf-boards-400-when-add-to-boards.md)
       + [Mises à jour : un écran s’affiche lorsque vous répondez à un utilisateur d’une autre société.](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md)
       + [Panoramas : le filtrage pour plusieurs utilisateurs ne renvoie pas tous les résultats](known-issues-workfront/wf-boards-filter-not-pulling-users.md)
-      + [Utilisateurs : niveaux d’accès inférieurs non disponibles lors de la création d’un utilisateur](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
+      + [Utilisateurs et utilisatrices : niveaux d’accès inférieurs non disponibles lors de la création d’un utilisateur ou d’une utilisatrice](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
       + [Problèmes : statut du problème non présent dans la liste déroulante](known-issues-workfront/wf-issues-status-not-available.md)
       + [Mises à jour : l’option Image désactivée est disponible lors de la modification d’un commentaire](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
       + [Panoramas : impossible de déplacer une carte dans une colonne à l’aide des options [!UICONTROL Déplacer]](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
@@ -195,8 +196,8 @@ ht-degree: 95%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problèmes connus dans Workfront Fusion](workfrontfusion.md)
    + Problèmes actifs dans [!DNL Workfront Fusion] {#fusion-current}
-      + [Fusion Workfront : BAT Workfront > délai d’expiration du module BAT Watch](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md)
-      + [Fusion Workfront : le champ est absent du module](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
+      + [Workfront Fusion : Workfront Proof > Le module de surveillance des BAT expire](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md)
+      + [Workfront Fusion : le champ est absent du module](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
       + [Workfront Fusion : formatage des sorties pour les dates](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion : RuntimeError avec réponse 200 du module Workfront](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)
       + [Workfront Fusion : erreur de mémoire faible](known-issues-workfront-fusion/fusion-low-memory-error.md)
