@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b10e7b2e10151a40fc4e9f762b8688114c248e27
+source-git-commit: 08c7ff0024b0e0bc8f735c388d4b82eaf5a42610
 workflow-type: tm+mt
-source-wordcount: '795'
-ht-degree: 92%
+source-wordcount: '794'
+ht-degree: 91%
 
 ---
 
@@ -25,9 +25,9 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Accueil : l’espace de travail et les broches ne se chargent pas](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md) | vendredi 15 février 2024 |
 | [Panoramas : problèmes liés aux cartes en double](known-issues-workfront/wf-boards-some-cards-duplicated.md) | jeudi 14 février 2024 |
 | [Intégrations : documents non joints lors de la création d’une requête à partir de [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | mercredi 13 février 2024 |
-| [Bons à tirer : impossible de créer un BAT avec [!UICONTROL Processus avancé] d’un [!DNL SharePoint] document](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | mercredi 13 février 2024 |
 | [Panoramas : erreur 400 lors de l’ajout d’une tâche à un panorama](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | mercredi 13 février 2024 |
 | [Panoramas : le filtrage pour plusieurs utilisateurs ne renvoie pas tous les résultats](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | mardi 12 février 2024 |
 | [Utilisateurs et utilisatrices : niveaux d’accès inférieurs non disponibles lors de la création d’un utilisateur ou d’une utilisatrice](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | vendredi 8 février 2024 |
@@ -42,8 +42,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
+| [Bons à tirer : impossible de créer un BAT avec [!UICONTROL Processus avancé] d’un [!DNL SharePoint] document](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | vendredi 15 février 2024 |
 | [Mises à jour : un écran s’affiche lorsque vous répondez à un utilisateur d’une autre société.](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | mardi 12 février 2024 |
-| [Documents : impossible de déplacer le document du dossier vers la racine](known-issues-workfront/wf-documents-cannot-move-to-root.md) | vendredi 1 février 2024 |
 | [Panoramas : les cartes ne se déplacent pas vers la colonne appropriée lorsque le statut est modifié](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | vendredi 1 février 2024 |
 | [Problèmes : statut du problème non présent dans la liste déroulante](known-issues-workfront/wf-issues-status-not-available.md) | jeudi 31 janvier 2024 |
 | [Équipes : problèmes liés à la définition des statuts de l’équipe pour le bouton [!UICONTROL Terminé]](known-issues-workfront/wf-teams-statuses-missing.md). | vendredi 25 janvier 2024 |

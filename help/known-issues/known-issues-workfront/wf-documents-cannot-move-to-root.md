@@ -3,15 +3,19 @@ title: '« Documents : impossible de déplacer le document du dossier vers la 
 description: « Lorsqu’une personne tente de déplacer un dossier d’un dossier créé par l’utilisateur ou l’utilisatrice vers le dossier racine Documents du projet, le document ne se déplace pas et une erreur s’affiche. »
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
-workflow-type: ht
-source-wordcount: '121'
+source-git-commit: 08c7ff0024b0e0bc8f735c388d4b82eaf5a42610
+workflow-type: tm+mt
+source-wordcount: '127'
 ht-degree: 100%
 
 ---
 
 
 # Documents : impossible de déplacer le document du dossier vers la racine
+
+>[!NOTE]
+>
+>Ce problème a été résolu le jeudi 24 janvier 2024.
 
 Lorsqu’une personne tente de déplacer un dossier d’un dossier créé par l’utilisateur ou l’utilisatrice vers le dossier racine Documents du projet, le document ne se déplace pas et une erreur s’affiche.
 
