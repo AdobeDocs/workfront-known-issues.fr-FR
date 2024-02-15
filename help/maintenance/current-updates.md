@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
 workflow-type: tm+mt
 source-wordcount: '1690'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -48,11 +48,11 @@ Quand un administrateur ou une administratrice [!DNL Workfront] désactive l’o
 
 +++**Mise à jour de maintenance du vendredi 8 février 2024**
 
-### Mise à jour de maintenance le 8 février 2024
+### Mise à jour de maintenance du 8 février 2024
 
 #### Panneaux
 
-**Impossible de déplacer une carte dans une colonne à l’aide de [!UICONTROL Déplacer] options**
+**Impossible de déplacer une carte dans une colonne à l’aide des options [!UICONTROL Déplacer]**
 
 Lorsqu’un utilisateur ou une utilisatrice tente de déplacer une carte dans une colonne à l’aide des options [!UICONTROL Haut de la colonne] ou [!UICONTROL Bas de la colonne] du menu à trois points, la carte ne se déplace pas.
 
@@ -62,13 +62,13 @@ Lorsqu’un utilisateur ou une utilisatrice consulte une itération sur un panor
 
 #### Rapports
 
-**La colonne &quot;Aucune valeur&quot; n’affiche aucun résultat**
+**La colonne « Aucune valeur » n’affiche aucun résultat**
 
-Lorsqu’un rapport de graphique comporte un[!DNL No value]&quot;, la colonne n’affiche aucune donnée, même si les données doivent être présentes.
+Lorsqu’un rapport de graphique comporte un colonne « [!DNL No value] », la colonne n’affiche aucune donnée, même si elle doit en contenir.
 
 #### Gestion des ressources
 
-**Mauvais calculs financiers en raison de problèmes liés au rôle de tâche**
+**Calculs financiers incorrects en raison de problèmes liés à la fonction**
 
 Les heures et les calculs financiers peuvent être incorrects, affichant un coût de 0, même si les heures sont enregistrées dans une fonction avec un taux de dépenses.
 
@@ -78,7 +78,7 @@ Cela est dû au fait que les fonctions créent automatiquement des taux en doubl
 
 +++**Mise à jour de maintenance du vendredi 1 février 2024**
 
-### Mise à jour de maintenance le 1er février 2024
+### Mise à jour de maintenance le 1er février 2024
 
 #### Connexion
 
