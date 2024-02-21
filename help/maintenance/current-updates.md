@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
+source-git-commit: d8ff109f371c9169487f0643fcf20bb73dcf91c6
 workflow-type: tm+mt
-source-wordcount: '1690'
-ht-degree: 98%
+source-wordcount: '1825'
+ht-degree: 92%
 
 ---
 
@@ -22,9 +22,35 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 ## Mises à jour de février 2024
 
-+++**(Planifiée) Mise à jour de maintenance du vendredi 15 février 2024**
++++**(Planifiée) Mise à jour de maintenance du vendredi 22 février 2024**
 
-### Mise à jour de maintenance (planifiée) le 15 février 2024
+### Mise à jour de maintenance (planifiée) le 22 février 2024
+
+#### Page d’accueil
+
+**[!UICONTROL Accueil]: [!UICONTROL Workspace] et les pin&#39;s ne se chargent pas**
+
+Lorsqu’un utilisateur se connecte, les événements suivants peuvent se produire :
+
+* Le nouveau de l’utilisateur [!UICONTROL Espace de travail] ne charge pas et affiche l’erreur &quot;[!UICONTROL Nous ne pouvons pas charger vos informations Workspace. Contactez Workfront pour nous aider à comprendre l’erreur et y remédier.] »
+* Les pin’s de l’utilisateur ne se chargent pas et l’erreur &quot;[!UICONTROL Vos pin&#39;s ne sont pas disponibles en raison d’une erreur système. Essayez d’actualiser votre navigateur pour résoudre le problème.]&quot;
+
+#### Utilisateurs
+
+**L’administrateur de groupe ne peut pas définir ni modifier le niveau d’accès d’un utilisateur.**
+
+<!--no article-->
+
+Lorsqu’un administrateur de groupe tente de modifier le niveau d’accès d’un utilisateur, l’un des événements suivants peut se produire :
+
+* Le champ Niveau d&#39;accès est désactivé.
+* L&#39;administrateur de groupe ne peut pas choisir un niveau d&#39;accès inférieur.
+
++++
+
++++**Mise à jour de maintenance du vendredi 15 février 2024**
+
+### Mise à jour de maintenance du vendredi 15 février 2024
 
 #### Problèmes
 
