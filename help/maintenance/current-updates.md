@@ -3,9 +3,9 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: d8ff109f371c9169487f0643fcf20bb73dcf91c6
+source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
 workflow-type: tm+mt
-source-wordcount: '1825'
+source-wordcount: '1860'
 ht-degree: 92%
 
 ---
@@ -24,7 +24,7 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 +++**(Planifiée) Mise à jour de maintenance du vendredi 22 février 2024**
 
-### Mise à jour de maintenance (planifiée) le 22 février 2024
+### Mise à jour de maintenance (planifiée) pour le vendredi 22 février 2024.
 
 #### Page d’accueil
 
@@ -46,6 +46,12 @@ Lorsqu’un administrateur de groupe tente de modifier le niveau d’accès d’
 * Le champ Niveau d&#39;accès est désactivé.
 * L&#39;administrateur de groupe ne peut pas choisir un niveau d&#39;accès inférieur.
 
+#### Équilibreur de charge de travail
+
+**Étiquette pour les heures non ouvrées**
+
+L’équilibreur de charge de travail et le calendrier des temps de congé personnel affichent désormais &quot;[!UICONTROL Heures sans travail]&quot; pendant le temps qu’un utilisateur décolle. Auparavant, l’affichage affichait &quot;[!UICONTROL Heures de travail]&quot; pour les heures de travail non effectuées.
+
 +++
 
 +++**Mise à jour de maintenance du vendredi 15 février 2024**
@@ -54,19 +60,19 @@ Lorsqu’un administrateur de groupe tente de modifier le niveau d’accès d’
 
 #### Problèmes
 
-**Les champs de temps gagnent du temps lorsque des problèmes de modification en masse surviennent**
+**Les champs d’heure enregistrent une heure incorrecte en cas de modification de problèmes en masse**.
 
 Lorsqu’un utilisateur ou une utilisatrice modifie des problèmes en masse et sélectionne une date et une heure pour un champ de date et les enregistre, l’heure enregistrée dans ce champ dans le problème n’est pas l’heure sélectionnée par l’utilisateur ou l’utilisatrice. Au lieu de cela, l’heure semble être convertie au fuseau horaire UTC au moment de l’enregistrement par l’utilisateur ou l’utilisatrice.
 
 #### Tâches
 
-**L’utilisateur n’est pas affecté à une ou plusieurs tâches**
+**L’affectation d’une personne à une ou plusieurs tâches est annulée**.
 
 Une tâche peut automatiquement ne plus être affectée à une personne à laquelle elle était affectée. Cela peut se produire pour une ou plusieurs tâches. La fin de cette affectation ne s’affiche pas dans la zone Mises à jour système des tâches, mais dans la section Mise à jour des flux du menu de Configuration.
 
 #### Mises à jour
 
-**L’option Image désactivée est disponible lors de la modification d’un commentaire**
+**L’option Image désactivée est disponible lors de la modification d’un commentaire**.
 
 Quand un administrateur ou une administratrice [!DNL Workfront] désactive l’option permettant d’ajouter des images aux commentaires, cette dernière n’est pas disponible lors de la création d’un commentaire. Cependant, si un utilisateur ou une utilisatrice modifie un commentaire existant, l’option d’image est disponible.
 

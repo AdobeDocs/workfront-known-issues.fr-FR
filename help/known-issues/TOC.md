@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: d089651c04d4cedb069276d677b2a978c03038fb
+source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
 workflow-type: tm+mt
-source-wordcount: '1624'
-ht-degree: 94%
+source-wordcount: '1647'
+ht-degree: 97%
 
 ---
 
@@ -17,16 +17,18 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Formulaires personnalisés : erreur lors du collage de texte dans un champ de texte enrichi](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md)
+      + [Projets : la chronologie est recalculée très lentement lors de la modification d’une date sur une tâche.](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
       + [Panoramas : la carte n’inclut pas de sous-tâches](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
       + [Panoramas : cartes non triées](known-issues-workfront/wf-boards-not-sorting.md)
       + [Panoramas : un écran devient vide lors de l’affichage des détails de la carte](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)
       + [Accueil : l’espace de travail et les broches ne se chargent pas](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md)
-      + [Panoramas : problèmes liés aux cartes en double](known-issues-workfront/wf-boards-some-cards-duplicated.md)
-      + [Intégrations : documents non joints lors de la création d’une requête à partir de [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
-      + [Bons à tirer : impossible de créer un BAT avec [!UICONTROL Processus avancé] d’un [!DNL SharePoint] document](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)
-      + [Panoramas : erreur 400 lors de l’ajout d’une tâche à un panorama](known-issues-workfront/wf-boards-400-when-add-to-boards.md)
-      + [Mises à jour : un écran s’affiche lorsque vous répondez à un utilisateur d’une autre société.](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md)
-      + [Panoramas : le filtrage pour plusieurs utilisateurs ne renvoie pas tous les résultats](known-issues-workfront/wf-boards-filter-not-pulling-users.md)
+      + [Panoramas : problèmes liés aux cartes en double.](known-issues-workfront/wf-boards-some-cards-duplicated.md)
+      + [Intégrations : documents non joints lors de la création d’une requête à partir d’ [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
+      + [BAT : impossible de créer un BAT avec un [!UICONTROL workflow avancé] à partir d’un document  [!DNL SharePoint] ](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)
+      + [Panoramas : erreur 400 lors de l’ajout d’une tâche à un panorama](known-issues-workfront/wf-boards-400-when-add-to-boards.md)
+      + [Mises à jour : l’écran devient vide lorsque vous répondez à un utilisateur ou une utilisatrice d’une autre société](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md)
+      + [Panoramas : le filtrage pour plusieurs utilisateurs et utilisatrices ne renvoie pas tous les résultats](known-issues-workfront/wf-boards-filter-not-pulling-users.md)
       + [Utilisateurs et utilisatrices : niveaux d’accès inférieurs non disponibles lors de la création d’un utilisateur ou d’une utilisatrice](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
       + [Problèmes : statut du problème non présent dans la liste déroulante](known-issues-workfront/wf-issues-status-not-available.md)
       + [Mises à jour : l’option Image désactivée est disponible lors de la modification d’un commentaire](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
