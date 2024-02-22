@@ -3,15 +3,19 @@ title: "Accueil : l’espace de travail et les pin's ne chargent pas"
 description: "Lorsqu’un utilisateur se connecte, son espace de travail d’accueil et ses ordinateurs ne se chargent pas, et des messages d’erreur s’affichent."
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: b10e7b2e10151a40fc4e9f762b8688114c248e27
+source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 16%
+source-wordcount: '114'
+ht-degree: 21%
 
 ---
 
 
 # [!UICONTROL Accueil]: [!UICONTROL Workspace] et les pin&#39;s ne se chargent pas
+
+>[!NOTE]
+>
+>Ce problème a été résolu le vendredi 22 février 2024.
 
 Lorsqu’un utilisateur se connecte, les événements suivants peuvent se produire :
 

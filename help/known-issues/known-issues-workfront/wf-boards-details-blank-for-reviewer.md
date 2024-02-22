@@ -3,15 +3,19 @@ title: "Panoramas : l’écran devient vide lors de l’affichage des détails d
 description: "Lorsqu’un utilisateur clique sur une carte dans les panoramas, les détails de la carte s’affichent brièvement avant que l’écran ne soit vide."
 hidefromtoc: true
 feature: Agile
-source-git-commit: d089651c04d4cedb069276d677b2a978c03038fb
+source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 5%
+source-wordcount: '75'
+ht-degree: 13%
 
 ---
 
 
 # Panoramas : un écran devient vide lors de l’affichage des détails de la carte
+
+>[!NOTE]
+>
+>Ce problème a été résolu le vendredi 22 février 2024.
 
 Lorsqu’un utilisateur clique sur une carte d’un panorama, les détails de la carte s’affichent brièvement avant que l’écran ne soit vide.
 
