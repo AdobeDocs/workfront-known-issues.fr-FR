@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
+source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
 workflow-type: tm+mt
-source-wordcount: '1647'
-ht-degree: 97%
+source-wordcount: '1686'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,11 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Équilibreur de charge de travail : les heures planifiées ne sont pas mises à jour dans l’équilibreur de charge de travail.](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md)
+      + [Panoramas : les documents chargés sur les cartes affichent un horodatage incorrect](known-issues-workfront/wf-boards-timestamp-in-gmt.md)
+      + [Fiches horaires : erreur lors de l’affichage du panneau de résumé](known-issues-workfront/wf-timesheets-summary-panel-not-working.md)
+      + [Panoramas : les totaux des listes de contrôle ne sont pas précis](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md)
+      + [Projets : erreur lors de l’utilisation de filtres sur une liste de produits](known-issues-workfront/wf-projects-error-using-filter-in-list.md)
       + [Formulaires personnalisés : erreur lors du collage de texte dans un champ de texte enrichi](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md)
       + [Projets : la chronologie est recalculée très lentement lors de la modification d’une date sur une tâche.](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
       + [Panoramas : la carte n’inclut pas de sous-tâches](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
