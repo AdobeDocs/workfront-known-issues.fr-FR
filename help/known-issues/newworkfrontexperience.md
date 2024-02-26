@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
+source-git-commit: 2dc8cabb4977908846b62f4b9f43b75fd348776f
 workflow-type: tm+mt
-source-wordcount: '832'
-ht-degree: 92%
+source-wordcount: '860'
+ht-degree: 89%
 
 ---
 
@@ -25,6 +25,8 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Tâches : la création ou la duplication de tâches entraîne l’affichage de la liste des tâches dans un mauvais ordre.](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | mardi 26 février 2024 |
+| [Rapports : les modifications effectuées en mode texte ne sont pas appliquées aux rapports ou aux vues.](known-issues-workfront/wf-reports-text-mode-not-saving.md) | mardi 26 février 2024 |
 | [Projets : erreur lors de l’utilisation de filtres sur une liste de produits](known-issues-workfront/wf-projects-error-using-filter-in-list.md) | vendredi 22 février 2024 |
 | [Panoramas : erreur 400 lors de l’ajout d’une tâche à un panorama](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | mercredi 13 février 2024 |
 | [Épreuves : rendus des GIF en épreuves statiques](known-issues-workfront/wf-proofs-gif-static-image.md) | mercredi 23 janvier 2024 |
