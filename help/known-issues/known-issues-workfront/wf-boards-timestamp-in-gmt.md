@@ -3,15 +3,19 @@ title: "Panoramas : les documents chargés sur les cartes affichent un horodatag
 description: « »
 hidefromtoc: true
 feature: Agile
-source-git-commit: 890a920dec3062afa8c2e77091f36449efe59ac2
+source-git-commit: c609910c69f6339c57afec09c42529cfbd3e486b
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 6%
+source-wordcount: '67'
+ht-degree: 14%
 
 ---
 
 
 # Panoramas : les documents chargés sur les cartes affichent un horodatage incorrect
+
+>[!NOTE]
+>
+>Ce problème a été résolu le mardi 26 février 2024.
 
 Lorsqu’un utilisateur charge un document sur une carte, l’horodatage se trouve au format GMT (UTC) au lieu du fuseau horaire de l’utilisateur. Les heures relatives telles que &quot;2 heures auparavant&quot; sont exactes, mais lorsque la carte affiche l’heure réelle, elles sont inexactes.
 
