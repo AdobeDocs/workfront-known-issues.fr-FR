@@ -3,15 +3,19 @@ title: '« Panoramas : le filtrage pour plusieurs utilisateurs et utilisatrice
 description: « Lorsqu’une personne filtre pour plusieurs utilisateurs et utilisatrices dans l’affectation, le filtre des panoramas ne renvoie pas tous les résultats attendus. »
 hidefromtoc: true
 feature: Agile
-source-git-commit: 276180358efb2a394ca58c51fd73b834f48874e9
-workflow-type: ht
-source-wordcount: '74'
-ht-degree: 100%
+source-git-commit: 073f63610623276f978d15b22cf4a8f294fab44f
+workflow-type: tm+mt
+source-wordcount: '82'
+ht-degree: 91%
 
 ---
 
 
 # Panoramas : le filtrage pour plusieurs utilisateurs et utilisatrices ne renvoie pas tous les résultats
+
+>[!NOTE]
+>
+>Ce problème a été corrigé le 29 février. 2024.
 
 Lorsqu’une personne filtre pour plusieurs utilisateurs et utilisatrices dans l’affectation, le filtre des panoramas ne renvoie pas tous les résultats attendus.
 

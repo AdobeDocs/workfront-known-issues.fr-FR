@@ -3,15 +3,19 @@ title: '« Mises à jour : l’écran devient vide lorsque vous répondez à u
 description: « Lorsqu’un utilisateur ou une utilisatrice tente de répondre à un commentaire d’un utilisateur ou d’une utilisatrice d’une autre société, l’écran devient vide. »
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 276180358efb2a394ca58c51fd73b834f48874e9
-workflow-type: ht
-source-wordcount: '81'
+source-git-commit: f596539d9dd297f63463a50d9dde2ffd73f81470
+workflow-type: tm+mt
+source-wordcount: '87'
 ht-degree: 100%
 
 ---
 
 
 # Mises à jour : l’écran devient vide lorsque vous répondez à un utilisateur ou une utilisatrice d’une autre société
+
+>[!NOTE]
+>
+>Ce problème a été résolu le vendredi 29 février 2024.
 
 Lorsqu’un utilisateur ou une utilisatrice tente de répondre à un commentaire d’un utilisateur ou d’une utilisatrice d’une autre société, l’écran devient vide.
 

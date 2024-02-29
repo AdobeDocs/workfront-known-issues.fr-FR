@@ -3,15 +3,19 @@ title: "Projets : erreur lors de l’utilisation de filtres sur une liste de pro
 description: "Si un utilisateur consulte une liste de projets et applique un filtre, la liste disparaît et un message d’erreur s’affiche."
 hidefromtoc: true
 feature: Projects
-source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
+source-git-commit: 073f63610623276f978d15b22cf4a8f294fab44f
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 14%
+source-wordcount: '104'
+ht-degree: 19%
 
 ---
 
 
 # Projets : erreur lors de l’utilisation de filtres sur une liste de produits
+
+>[!NOTE]
+>
+>Ce problème a été résolu le samedi 23 février 2024.
 
 Si un utilisateur consulte une liste de projets et applique un filtre, la liste disparaît et le message suivant s’affiche :
 
