@@ -5,7 +5,7 @@ role: User
 source-git-commit: 2dc8cabb4977908846b62f4b9f43b75fd348776f
 workflow-type: tm+mt
 source-wordcount: '1699'
-ht-degree: 94%
+ht-degree: 95%
 
 ---
 
@@ -25,10 +25,10 @@ ht-degree: 94%
       + [Projets : erreur lors de l’utilisation de filtres sur une liste de produits](known-issues-workfront/wf-projects-error-using-filter-in-list.md)
       + [Formulaires personnalisés : erreur lors du collage de texte dans un champ de texte enrichi](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md)
       + [Projets : la chronologie est recalculée très lentement lors de la modification d’une date sur une tâche.](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
-      + [Panoramas : la carte n’inclut pas de sous-tâches](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
-      + [Panoramas : cartes non triées](known-issues-workfront/wf-boards-not-sorting.md)
-      + [Panoramas : un écran devient vide lors de l’affichage des détails de la carte](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)
-      + [Accueil : l’espace de travail et les broches ne se chargent pas](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md)
+      + [Panoramas : la carte n’inclut pas de sous-tâches](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
+      + [Panoramas : cartes non triées](known-issues-workfront/wf-boards-not-sorting.md)
+      + [Panoramas : un écran devient vide lors de l’affichage des détails de la carte](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)
+      + [Accueil : l’espace de travail et les épingles ne se chargent pas](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md)
       + [Panoramas : problèmes liés aux cartes en double.](known-issues-workfront/wf-boards-some-cards-duplicated.md)
       + [Intégrations : documents non joints lors de la création d’une requête à partir d’ [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
       + [BAT : impossible de créer un BAT avec un [!UICONTROL workflow avancé] à partir d’un document  [!DNL SharePoint] ](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)
