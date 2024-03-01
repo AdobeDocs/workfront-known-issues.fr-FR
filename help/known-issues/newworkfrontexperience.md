@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 073f63610623276f978d15b22cf4a8f294fab44f
+source-git-commit: d4a2754abb7ff184a9924b228ef1fb4702856a32
 workflow-type: tm+mt
-source-wordcount: '810'
-ht-degree: 93%
+source-wordcount: '823'
+ht-degree: 91%
 
 ---
 
@@ -39,6 +39,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
+| [Bons à tirer : les BAT créés à partir de documents liés n’ont pas de modèle de BAT appliqué](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | samedi 1 mars 2024 |
 | [Équilibreur de charge de travail : les heures planifiées ne sont pas mises à jour dans l’équilibreur de charge de travail.](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md) | samedi 23 février 2024 |
 | [Panoramas : les totaux des listes de contrôle ne sont pas précis](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | samedi 23 février 2024 |
 | [Intégrations : documents non joints lors de la création d’une requête à partir d’ [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | vendredi 22 février 2024 |

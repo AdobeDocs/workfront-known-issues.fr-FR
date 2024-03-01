@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2dc8cabb4977908846b62f4b9f43b75fd348776f
+source-git-commit: d4a2754abb7ff184a9924b228ef1fb4702856a32
 workflow-type: tm+mt
-source-wordcount: '1699'
-ht-degree: 95%
+source-wordcount: '1711'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Bons à tirer : les BAT créés à partir de documents liés n’ont pas de modèle de BAT appliqué](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md)
       + [Rapports : les modifications effectuées en mode texte ne sont pas appliquées aux rapports ou aux vues.](known-issues-workfront/wf-reports-text-mode-not-saving.md)
       + [Équilibreur de charge de travail : les heures planifiées ne sont pas mises à jour dans l’équilibreur de charge de travail.](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md)
       + [Panoramas : les documents chargés sur les cartes affichent un horodatage incorrect](known-issues-workfront/wf-boards-timestamp-in-gmt.md)
