@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: c609910c69f6339c57afec09c42529cfbd3e486b
 workflow-type: tm+mt
 source-wordcount: '1913'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -55,16 +55,16 @@ Lorsqu’un utilisateur ou une utilisatrice se connecte, les événements suivan
 
 <!--no article-->
 
-Lorsqu’un administrateur de groupe tente de modifier le niveau d’accès d’un utilisateur, l’un des événements suivants peut se produire :
+Lorsqu’un administrateur ou une administratrice de groupes tente de modifier le niveau d’accès d’un utilisateur ou d’une utilisatrice, l’un des événements suivants peut se produire :
 
 * Le champ Niveau d’accès est désactivé.
 * L’administrateur ou l’administratrice de groupes ne peut pas choisir un niveau d’accès inférieur.
 
 #### Équilibreur de charge de travail
 
-**Étiquette pour les heures non ouvrées**
+**Libellé pour les heures non travaillées**
 
-L’équilibreur de charge de travail et le calendrier des temps de congé personnel affichent désormais &quot;[!UICONTROL Heures sans travail]&quot; pendant le temps qu’un utilisateur décolle. Auparavant, l’affichage affichait &quot;[!UICONTROL Heures de travail]&quot; pour les heures de travail non effectuées.
+L’équilibreur de charge de travail et le calendrier des congés affichent désormais « [!UICONTROL Heures non travaillées] » pendant le congé d’un utilisateur ou d’une utilisatrice. Auparavant, ils affichaient « [!UICONTROL Heures travaillées] » pour les heures non travaillées.
 
 +++
 
