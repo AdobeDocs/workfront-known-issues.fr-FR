@@ -4,7 +4,7 @@ description: « Lorsqu’un utilisateur ou une utilisatrice tente de créer un 
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
 ht-degree: 100%
 
