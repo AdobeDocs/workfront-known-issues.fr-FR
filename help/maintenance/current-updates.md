@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: c609910c69f6339c57afec09c42529cfbd3e486b
+source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
 workflow-type: tm+mt
-source-wordcount: '1913'
-ht-degree: 100%
+source-wordcount: '2093'
+ht-degree: 96%
 
 ---
 
@@ -19,6 +19,45 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2024.
 >Ces mises à jour incluent également d’autres correctifs mineurs ou moins conséquents. L’assistance [!DNL Workfront] vous avertira lorsqu’un problème que vous avez soumis est résolu.
 
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates).
+
+## Mises à jour de mars 2024
+
++++**Mise à jour de maintenance le vendredi 7 mars 2024**
+
+### Mise à jour de maintenance le 7 mars 2024
+
+#### Panneaux
+
+**Erreur 400 lors de l’ajout d’une tâche à un panorama**
+
+Lorsqu’un utilisateur ou utilisatrice consulte un projet et tente d’ajouter une tâche à un panorama, la tâche n’est pas ajoutée et l’utilisateur ou l’utilisatrice voit s’afficher l’erreur suivante :
+
+Erreur : &quot;400 : undefined /Panneaux-service/graphql&quot;
+
+#### Page d’accueil
+
+**Erreur lors de la modification en ligne d’une tâche dans le widget Ma tâche**
+
+Lorsqu’un utilisateur tente de modifier en ligne une tâche dans le widget Mes tâches, l’erreur suivante s’affiche :
+
+&quot;Une erreur s&#39;est produite et nous travaillons à résoudre le problème. Pour continuer votre travail, essayez d’actualiser cette page du navigateur. »
+
+
+#### Équilibreur de charge de travail
+
+**Les heures planifiées ne sont pas mises à jour dans l’équilibreur de charge**
+
+Lorsque le nombre d’heures prévues d’un projet est mis à jour, il n’est pas mis à jour dans l’équilibreur de charge de travail. Cela peut se produire même si la modification est reflétée correctement dans le projet.
+
++++
+
+Mise à jour de maintenance de la fusion Workfront le 7 mars 2024
+
+**Bon à tirer Workfront > délai d’expiration du module BAT**
+
+Les scénarios qui utilisent le module Workfront Proof > Module de surveillance des BAT peuvent se désactiver en raison de l’expiration du module de surveillance des BAT.
+
++++
 
 ## Mises à jour de février 2024
 

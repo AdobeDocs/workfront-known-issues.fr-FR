@@ -3,15 +3,19 @@ title: '« Équilibreur de charge de travail : le nombre d’heures prévues n
 description: « Lorsque le nombre d’heures prévues d’un projet est mis à jour, il n’est pas mis à jour dans l’équilibreur de charge de travail. Cela peut se produire même si la modification est reflétée correctement dans le projet. »
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
-workflow-type: ht
-source-wordcount: '84'
+source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
+workflow-type: tm+mt
+source-wordcount: '90'
 ht-degree: 100%
 
 ---
 
 
 # Équilibreur de charge de travail : le nombre d’heures prévues n’est pas mis à jour dans l’équilibreur de charge de travail.
+
+>[!NOTE]
+>
+>Ce problème a été résolu le vendredi 7 mars 2024.
 
 Lorsque le nombre d’heures prévues d’un projet est mis à jour, il n’est pas mis à jour dans l’équilibreur de charge de travail. Cela peut se produire même si la modification est reflétée correctement dans le projet.
 
