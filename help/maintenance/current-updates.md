@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
+source-git-commit: caf54488e247a820fbbb623937a9ec9c4560300b
 workflow-type: tm+mt
-source-wordcount: '2093'
-ht-degree: 96%
+source-wordcount: '2235'
+ht-degree: 95%
 
 ---
 
@@ -21,6 +21,32 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2024.
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates).
 
 ## Mises à jour de mars 2024
+
++++**(Planifiée) Mise à jour de maintenance du vendredi 14 mars 2024**
+
+### Mise à jour de maintenance (planifiée) pour le vendredi 14 mars 2024.
+
+#### Intégrations
+
+**Documents non joints lors de la création d’une requête à partir de[!DNL Outlook]**
+
+Lorsqu’un utilisateur ou une utilisatrice crée une requête à partir d’[!DNL Outlook], les documents joints à l’e-mail ne sont pas joints à la requête.
+
+#### Épreuves
+
+**Les BAT créés à partir de documents liés n’ont pas de modèle de BAT appliqué**
+
+Lorsqu’une personne crée une épreuve à partir d’un document lié, le modèle d’épreuve n’est pas correctement appliqué, et des informations peuvent manquer, comme le workflow, par exemple.
+
+Cela s’applique également aux épreuves créées par le biais de l’API et de Workfront Fusion.
+
+#### Utilisateurs
+
+**Niveaux d’accès inférieurs non disponibles lors de la création d’un utilisateur**
+
+Lorsqu’un utilisateur ou une utilisatrice crée une autre personne, seul son premier niveau d’accès est disponible pour le nouvel utilisateur ou la nouvelle utilisatrice. Tous les niveaux d’accès avec des autorisations inférieures à celles de la personne à l’origine de la création doivent être disponibles pour être affectés au nouvel utilisateur ou à la nouvelle utilisatrice.
+
++++
 
 +++**Mise à jour de maintenance le vendredi 7 mars 2024**
 
