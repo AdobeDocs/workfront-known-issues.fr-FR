@@ -4,9 +4,9 @@ description: « Lorsqu’une personne filtre pour plusieurs utilisateurs et uti
 hidefromtoc: true
 feature: Agile
 source-git-commit: 073f63610623276f978d15b22cf4a8f294fab44f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 91%
 
 >[!NOTE]
 >
->Ce problème a été corrigé le 29 février. 2024.
+>Ce problème a été résolu le 29 février. 2024.
 
 Lorsqu’une personne filtre pour plusieurs utilisateurs et utilisatrices dans l’affectation, le filtre des panoramas ne renvoie pas tous les résultats attendus.
 
