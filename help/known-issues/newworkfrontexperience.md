@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: f91e947afbd2ef5cec4f5bac7273276b842e172e
 workflow-type: tm+mt
 source-wordcount: '831'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -41,7 +41,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [Rapports : les modifications effectuées en mode texte ne sont pas appliquées aux rapports ou aux vues.](known-issues-workfront/wf-reports-text-mode-not-saving.md) | mardi 26 février 2024 |
 | [Tâches : la création ou la duplication de tâches entraîne l’affichage de la liste de tâches dans un ordre incorrect.](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | samedi 8 mars 2024 |
 | [Mises à jour : espaces importants entre les lignes](known-issues-workfront/wf-updates-large-spacing-between-lines.md) | samedi 8 mars 2024 |
-| [Bons à tirer : les BAT créés à partir de documents liés n’ont pas de modèle de BAT appliqué](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | samedi 1 mars 2024 |
+| [Épreuves : les épreuves créées à partir de documents liés n’ont pas de modèle d’épreuve appliqué](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | samedi 1 mars 2024 |
 | [Panoramas : les totaux des listes de contrôle ne sont pas exacts.](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | samedi 23 février 2024 |
 | [Intégrations : documents non joints lors de la création d’une requête à partir d’ [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | vendredi 22 février 2024 |
 | [Panoramas : problèmes liés aux cartes en double](known-issues-workfront/wf-boards-some-cards-duplicated.md) | vendredi 22 février 2024 |
