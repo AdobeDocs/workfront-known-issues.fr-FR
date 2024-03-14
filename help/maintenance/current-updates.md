@@ -3,9 +3,9 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: caf54488e247a820fbbb623937a9ec9c4560300b
+source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
 workflow-type: tm+mt
-source-wordcount: '2235'
+source-wordcount: '2205'
 ht-degree: 95%
 
 ---
@@ -22,15 +22,9 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 ## Mises à jour de mars 2024
 
-+++**(Planifiée) Mise à jour de maintenance du vendredi 14 mars 2024**
++++**Mise à jour de maintenance le vendredi 14 mars 2024**
 
-### Mise à jour de maintenance (planifiée) pour le vendredi 14 mars 2024.
-
-#### Intégrations
-
-**Documents non joints lors de la création d’une requête à partir de[!DNL Outlook]**
-
-Lorsqu’un utilisateur ou une utilisatrice crée une requête à partir d’[!DNL Outlook], les documents joints à l’e-mail ne sont pas joints à la requête.
+### Mise à jour de maintenance le 14 mars 2024
 
 #### Épreuves
 

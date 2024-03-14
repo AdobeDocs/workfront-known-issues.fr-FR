@@ -3,19 +3,15 @@ title: '« Panoramas : erreur 400 lors de l’ajout d’une tâche à un pano
 description: « Lorsqu’un utilisateur ou une utilisatrice consulte un projet et tente d’ajouter une tâche à un panorama, la tâche n’est pas ajoutée et l’utilisateur ou l’utilisatrice voit s’afficher une erreur. » Une solution de contournement est disponible. »
 hidefromtoc: true
 feature: Agile
-source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
+source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '103'
 ht-degree: 95%
 
 ---
 
 
 # Panoramas : erreur 400 lors de l’ajout d’une tâche à un panorama
-
->[!NOTE]
->
->Ce problème a été résolu le vendredi 7 mars 2024.
 
 Lorsqu’un utilisateur ou utilisatrice consulte un projet et tente d’ajouter une tâche à un panorama, la tâche n’est pas ajoutée et l’utilisateur ou l’utilisatrice voit s’afficher l’erreur suivante :
 
