@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
 workflow-type: tm+mt
 source-wordcount: '818'
-ht-degree: 93%
+ht-degree: 95%
 
 ---
 
@@ -43,9 +43,9 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [Mises à jour : balisage d’un utilisateur en cas d’inefficacité](known-issues-workfront/wf-updates-not-notified-when-tagged.md) | vendredi 14 mars 2024 |
 | [Heure de connexion : l’utilisateur ne peut pas consigner l’heure du jour en cours.](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md) | vendredi 14 mars 2024 |
 | [Panoramas : erreur 400 lors de l’ajout d’une tâche à un panorama](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | vendredi 14 mars 2024 |
-| [Mises à jour : les utilisateurs du demandeur ne peuvent pas ajouter d’images aux mises à jour.](known-issues-workfront/wf-updates-requestors-not-add-image.md) | samedi 8 mars 2024 |
+| [Mises à jour : les utilisateurs Demandeur et utilisatrices Demandeuse ne peuvent pas ajouter d’images aux mises à jour.](known-issues-workfront/wf-updates-requestors-not-add-image.md) | samedi 8 mars 2024 |
 | [Rapports : les modifications effectuées en mode texte ne sont pas appliquées aux rapports ou aux vues.](known-issues-workfront/wf-reports-text-mode-not-saving.md) | mardi 26 février 2024 |
-| [Mises à jour : espaces importants entre les lignes](known-issues-workfront/wf-updates-large-spacing-between-lines.md) | samedi 8 mars 2024 |
+| [Mises à jour : espaces importants entre les lignes](known-issues-workfront/wf-updates-large-spacing-between-lines.md) | samedi 8 mars 2024 |
 | [Panoramas : les totaux des listes de contrôle ne sont pas exacts.](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | samedi 23 février 2024 |
 | [Intégrations : documents non joints lors de la création d’une requête à partir d’ [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | vendredi 22 février 2024 |
 | [Panoramas : problèmes liés aux cartes en double](known-issues-workfront/wf-boards-some-cards-duplicated.md) | vendredi 22 février 2024 |

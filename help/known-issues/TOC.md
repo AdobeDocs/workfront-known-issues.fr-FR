@@ -5,7 +5,7 @@ role: User
 source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
 workflow-type: tm+mt
 source-wordcount: '1764'
-ht-degree: 96%
+ht-degree: 97%
 
 ---
 
@@ -22,8 +22,8 @@ ht-degree: 96%
       + [Mises à jour : le balisage d’un utilisateur est inefficace](known-issues-workfront/wf-updates-not-notified-when-tagged.md)
       + [Heure de connexion : l’utilisateur ne peut pas consigner l’heure du jour en cours.](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md)
       + [Mises à jour : les commentaires de document n’apparaissent pas dans les mises à jour de l’objet parent](known-issues-workfront/wf-updates-document-comments-not-visible.md)
-      + [Mises à jour : les utilisateurs du demandeur ne peuvent pas ajouter d’images aux mises à jour.](known-issues-workfront/wf-updates-requestors-not-add-image.md)
-      + [Mises à jour : espaces importants entre les lignes](known-issues-workfront/wf-updates-large-spacing-between-lines.md)
+      + [Mises à jour : les utilisateurs Demandeur et utilisatrices Demandeuse ne peuvent pas ajouter d’images aux mises à jour.](known-issues-workfront/wf-updates-requestors-not-add-image.md)
+      + [Mises à jour : espaces importants entre les lignes](known-issues-workfront/wf-updates-large-spacing-between-lines.md)
       + [Épreuves : les épreuves créées à partir de documents liés n’ont pas de modèle d’épreuve appliqué](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md)
       + [Rapports : les modifications effectuées en mode texte ne sont pas appliquées aux rapports ou aux vues.](known-issues-workfront/wf-reports-text-mode-not-saving.md)
       + [Équilibreur de charge de travail : le nombre d’heures prévues n’est pas mis à jour dans l’équilibreur de charge de travail.](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md)

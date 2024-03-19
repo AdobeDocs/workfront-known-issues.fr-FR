@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
 workflow-type: tm+mt
 source-wordcount: '2205'
-ht-degree: 95%
+ht-degree: 99%
 
 ---
 
@@ -24,7 +24,7 @@ Pour connaître les mises à jour de maintenance antérieures à 2023, consultez
 
 +++**Mise à jour de maintenance le vendredi 14 mars 2024**
 
-### Mise à jour de maintenance le 14 mars 2024
+### Mise à jour de maintenance le vendredi 14 mars 2024
 
 #### Épreuves
 
@@ -44,36 +44,36 @@ Lorsqu’un utilisateur ou une utilisatrice crée une autre personne, seul son p
 
 +++**Mise à jour de maintenance le vendredi 7 mars 2024**
 
-### Mise à jour de maintenance le 7 mars 2024
+### Mise à jour de maintenance le 7 mars 2024
 
 #### Panneaux
 
-**Erreur 400 lors de l’ajout d’une tâche à un panorama**
+**Erreur 400 lors de l’ajout d’une tâche à un panorama**
 
 Lorsqu’un utilisateur ou utilisatrice consulte un projet et tente d’ajouter une tâche à un panorama, la tâche n’est pas ajoutée et l’utilisateur ou l’utilisatrice voit s’afficher l’erreur suivante :
 
-Erreur : &quot;400 : undefined /Panneaux-service/graphql&quot;
+Erreur : « 400 : /boards-service/graphql non défini ».
 
 #### Page d’accueil
 
 **Erreur lors de la modification en ligne d’une tâche dans le widget Ma tâche**
 
-Lorsqu’un utilisateur tente de modifier en ligne une tâche dans le widget Mes tâches, l’erreur suivante s’affiche :
+Lorsqu’un utilisateur ou une utilisatrice tente de modifier en ligne une tâche dans le widget Mes tâches, l’erreur suivante s’affiche :
 
-&quot;Une erreur s&#39;est produite et nous travaillons à résoudre le problème. Pour continuer votre travail, essayez d’actualiser cette page du navigateur. »
+« Une erreur s’est produite et nous travaillons à résoudre le problème. Pour continuer votre travail, essayez d’actualiser cette page du navigateur. »
 
 
 #### Équilibreur de charge de travail
 
-**Les heures planifiées ne sont pas mises à jour dans l’équilibreur de charge**
+**Le nombre d’heures prévues n’est pas mis à jour dans l’équilibreur de charge de travail.**
 
 Lorsque le nombre d’heures prévues d’un projet est mis à jour, il n’est pas mis à jour dans l’équilibreur de charge de travail. Cela peut se produire même si la modification est reflétée correctement dans le projet.
 
 +++
 
-Mise à jour de maintenance de la fusion Workfront le 7 mars 2024
++++**Mise à jour de maintenance de Workfront Fusion le 7 mars 2024
 
-**Bon à tirer Workfront > délai d’expiration du module BAT**
+**Workfront Proof > Le module de surveillance des épreuves expire.**
 
 Les scénarios qui utilisent le module Workfront Proof > Module de surveillance des BAT peuvent se désactiver en raison de l’expiration du module de surveillance des BAT.
 

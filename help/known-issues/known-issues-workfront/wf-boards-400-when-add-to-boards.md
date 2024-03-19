@@ -6,7 +6,7 @@ feature: Agile
 source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 95%
 
 Lorsqu’un utilisateur ou utilisatrice consulte un projet et tente d’ajouter une tâche à un panorama, la tâche n’est pas ajoutée et l’utilisateur ou l’utilisatrice voit s’afficher l’erreur suivante :
 
-Erreur : &quot;400 : undefined /Panneaux-service/graphql&quot;
+Erreur : « 400 : /boards-service/graphql non défini ».
 
 **Solution de contournement**
 
