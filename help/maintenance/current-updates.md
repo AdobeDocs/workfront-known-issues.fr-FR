@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
+source-git-commit: 62e129903ba48689aa8acf5d22a52bed2d88ab2a
 workflow-type: tm+mt
-source-wordcount: '2205'
-ht-degree: 99%
+source-wordcount: '2318'
+ht-degree: 97%
 
 ---
 
@@ -21,6 +21,26 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2024.
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates).
 
 ## Mises à jour de mars 2024
+
++++**(Planifiée) Mise à jour de maintenance du vendredi 21 mars 2024**
+
+### Mise à jour de maintenance (planifiée) pour le vendredi 21 mars 2024.
+
+#### Mises à jour
+
+**Espaces larges entre les lignes**
+
+Lorsqu’un utilisateur ou une utilisatrice saisit une mise à jour avec plusieurs lignes à l’aide des touches Retour ou Entrée, ou colle plusieurs lignes dans une mise à jour, la mise à jour s’affiche comme prévu. Cependant, si un utilisateur ou une utilisatrice affiche ensuite cette mise à jour dans un rapport, il y a de grands espaces entre les lignes.
+
+Cela a été signalé dans la nouvelle expérience de commentaire.
+
+**Le balisage d’un utilisateur avec @ est inefficace**
+
+Lorsqu’un utilisateur balise un autre utilisateur avec le caractère @ dans un commentaire, il n’est pas ajouté à la zone des utilisateurs balisés et ne reçoit pas de notification concernant le commentaire.
+
+Ce correctif s’applique uniquement à la nouvelle expérience de commentaire.
+
++++
 
 +++**Mise à jour de maintenance le vendredi 14 mars 2024**
 
