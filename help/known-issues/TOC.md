@@ -3,9 +3,9 @@ user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
 source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1764'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
-      + [BAT : impossible de générer un BAT à partir d’un site web](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md)
-      + [Recherche : impossible de modifier à partir de la recherche](known-issues-workfront/wf-search-cannot-edit-from-search.md)
-      + [Mises à jour : le balisage d’un utilisateur est inefficace](known-issues-workfront/wf-updates-not-notified-when-tagged.md)
-      + [Heure de connexion : l’utilisateur ne peut pas consigner l’heure du jour en cours.](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md)
-      + [Mises à jour : les commentaires de document n’apparaissent pas dans les mises à jour de l’objet parent](known-issues-workfront/wf-updates-document-comments-not-visible.md)
+      + [Épreuves : impossible de générer une épreuve à partir d’un site web](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md)
+      + [Recherche : impossible de modifier à partir de la recherche](known-issues-workfront/wf-search-cannot-edit-from-search.md)
+      + [Mises à jour : baliser une personne ne fonctionne pas](known-issues-workfront/wf-updates-not-notified-when-tagged.md)
+      + [Consignation de temps : la personne ne peut pas consigner les heures pour le jour en cours](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md)
+      + [Mises à jour : les commentaires de document n’apparaissent pas dans les mises à jour de l’objet parent](known-issues-workfront/wf-updates-document-comments-not-visible.md)
       + [Mises à jour : les utilisateurs Demandeur et utilisatrices Demandeuse ne peuvent pas ajouter d’images aux mises à jour.](known-issues-workfront/wf-updates-requestors-not-add-image.md)
       + [Mises à jour : espaces importants entre les lignes](known-issues-workfront/wf-updates-large-spacing-between-lines.md)
       + [Épreuves : les épreuves créées à partir de documents liés n’ont pas de modèle d’épreuve appliqué](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md)
