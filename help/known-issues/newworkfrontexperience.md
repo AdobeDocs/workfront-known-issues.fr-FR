@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
+source-git-commit: 7418ab025de4ececb47309b3112b17ecdbac9d09
 workflow-type: tm+mt
-source-wordcount: '796'
-ht-degree: 100%
+source-wordcount: '869'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,9 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Agile : les cartes Kanban n’affichent pas de champs personnalisés](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | samedi 22 mars 2024 |
+| [Tâches : l’info-bulle du prédécesseur n’affiche pas le nom de la tâche](known-issues-workfront/wf-tasks-predecessor-name-not-in-tooltip.md) | samedi 22 mars 2024 |
+| [Panoramas : erreur 400 lors de l’ajout d’une tâche à un panorama à partir d’un panorama Kanban](known-issues-workfront/wf-boards-400-when-adding-from-team.md) | samedi 22 mars 2024 |
 | [Tâches : la création ou la duplication de tâches entraîne l’affichage de la liste de tâches dans un ordre incorrect.](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | mardi 26 février 2024 |
 | [Épreuves : rendus des GIF en épreuves statiques](known-issues-workfront/wf-proofs-gif-static-image.md) | mercredi 23 janvier 2024 |
 | [Épreuve : échec de la génération des épreuves compressées.](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | mercredi 9 janvier 2024 |
@@ -37,6 +40,10 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
+| [Bons à tirer : les bons à tirer restent sur le widget Mes approbations](known-issues-workfront/wf-proofs-stuck-on-widget.md) | samedi 22 mars 2024 |
+| [Projet : impossible de convertir le problème en projet si le BAT web est joint](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | samedi 22 mars 2024 |
+| [Gestion des ressources : Incohérence dans les heures budgétaires](known-issues-workfront/wf-resource-management-budgeted-hours-discrepancy.md) | samedi 22 mars 2024 |
+| [Bons à tirer : BAT simple de la nouvelle version de document comprend un workflow de la version précédente](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md) | samedi 22 mars 2024 |
 | [Mises à jour : les commentaires de document n’apparaissent pas dans les mises à jour de l’objet parent](known-issues-workfront/wf-updates-document-comments-not-visible.md) | vendredi 21 mars 2024 |
 | [Épreuves : impossible de générer une épreuve à partir d’un site web](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | vendredi 14 mars 2024 |
 | [Recherche : impossible de modifier à partir de la recherche](known-issues-workfront/wf-search-cannot-edit-from-search.md) | vendredi 14 mars 2024 |
