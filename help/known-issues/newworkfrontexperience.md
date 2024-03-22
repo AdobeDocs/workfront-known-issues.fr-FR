@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
 workflow-type: tm+mt
 source-wordcount: '796'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -37,11 +37,11 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
-| [Mises à jour : les commentaires de document n’apparaissent pas dans les mises à jour de l’objet parent](known-issues-workfront/wf-updates-document-comments-not-visible.md) | vendredi 21 mars 2024 |
-| [BAT : impossible de générer un BAT à partir d’un site web](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | vendredi 14 mars 2024 |
-| [Recherche : impossible de modifier à partir de la recherche](known-issues-workfront/wf-search-cannot-edit-from-search.md) | vendredi 14 mars 2024 |
-| [Mises à jour : balisage d’un utilisateur en cas d’inefficacité](known-issues-workfront/wf-updates-not-notified-when-tagged.md) | vendredi 14 mars 2024 |
-| [Heure de connexion : l’utilisateur ne peut pas consigner l’heure du jour en cours.](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md) | vendredi 14 mars 2024 |
+| [Mises à jour : les commentaires de document n’apparaissent pas dans les mises à jour de l’objet parent](known-issues-workfront/wf-updates-document-comments-not-visible.md) | vendredi 21 mars 2024 |
+| [Épreuves : impossible de générer une épreuve à partir d’un site web](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | vendredi 14 mars 2024 |
+| [Recherche : impossible de modifier à partir de la recherche](known-issues-workfront/wf-search-cannot-edit-from-search.md) | vendredi 14 mars 2024 |
+| [Mises à jour : baliser une personne ne fonctionne pas](known-issues-workfront/wf-updates-not-notified-when-tagged.md) | vendredi 14 mars 2024 |
+| [Consignation de temps : la personne ne peut pas consigner les heures pour le jour en cours.](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md) | vendredi 14 mars 2024 |
 | [Mises à jour : les utilisateurs Demandeur et utilisatrices Demandeuse ne peuvent pas ajouter d’images aux mises à jour.](known-issues-workfront/wf-updates-requestors-not-add-image.md) | samedi 8 mars 2024 |
 | [Rapports : les modifications effectuées en mode texte ne sont pas appliquées aux rapports ou aux vues.](known-issues-workfront/wf-reports-text-mode-not-saving.md) | mardi 26 février 2024 |
 | [Panoramas : les totaux des listes de contrôle ne sont pas exacts.](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | samedi 23 février 2024 |

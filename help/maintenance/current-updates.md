@@ -48,7 +48,7 @@ Ce correctif s’applique uniquement à la nouvelle expérience de commentaire.
 
 #### Épreuves
 
-**Les BAT créés à partir de documents liés n’ont pas de modèle de BAT appliqué**
+**Les épreuves créées à partir de documents liés n’ont pas de modèle d’épreuve appliqué.**
 
 Lorsqu’une personne crée une épreuve à partir d’un document lié, le modèle d’épreuve n’est pas correctement appliqué, et des informations peuvent manquer, comme le workflow, par exemple.
 
@@ -56,7 +56,7 @@ Cela s’applique également aux épreuves créées par le biais de l’API et d
 
 #### Utilisateurs
 
-**Niveaux d’accès inférieurs non disponibles lors de la création d’un utilisateur**
+**Niveaux d’accès inférieurs non disponibles lors de la création d’un utilisateur ou d’une utilisatrice**
 
 Lorsqu’un utilisateur ou une utilisatrice crée une autre personne, seul son premier niveau d’accès est disponible pour le nouvel utilisateur ou la nouvelle utilisatrice. Tous les niveaux d’accès avec des autorisations inférieures à celles de la personne à l’origine de la création doivent être disponibles pour être affectés au nouvel utilisateur ou à la nouvelle utilisatrice.
 
