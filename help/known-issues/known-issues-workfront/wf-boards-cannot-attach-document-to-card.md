@@ -1,15 +1,15 @@
 ---
-title: '« Panoramas : impossible de joindre un document à une carte »'
-description: « Lorsqu’une personne tente de joindre un document à une carte connectée, elle peut sélectionner le document à joindre, mais ce dernier n’apparaît pas dans la zone de document de la carte et le document n’est pas joint à l’objet auquel la carte est connectée. »
+title: 'Panoramas : impossible de joindre un document à une carte'
+description: Lorsqu’une personne tente de joindre un document à une carte connectée, elle peut sélectionner le document à joindre, mais ce dernier n’apparaît pas dans la zone de document de la carte et le document n’est pas joint à l’objet auquel la carte est connectée.
 hidefromtoc: true
 feature: Agile
-source-git-commit: d3d6529fea8f2d020f4920ee5b2bda723f348cc2
-workflow-type: ht
-source-wordcount: '155'
-ht-degree: 100%
+exl-id: 3f204bb2-52b7-4b4f-ba3b-469059a809cd
+source-git-commit: 688d728782638489aacc76a1a12c38ab12215f8e
+workflow-type: tm+mt
+source-wordcount: '149'
+ht-degree: 94%
 
 ---
-
 
 # Panoramas : impossible de joindre un document à une carte
 
@@ -18,8 +18,6 @@ ht-degree: 100%
 >Ce problème a été résolu le vendredi 18 janvier 2024.
 
 <!--WF and WFP TOCs-->
-
->Ce problème a été résolu le vendredi 21 décembre 2023.
 
 Lorsqu’une personne tente de joindre un document à une carte connectée, elle peut sélectionner le document à joindre, mais ce dernier n’apparaît pas dans la zone de document de la carte et le document n’est pas joint à l’objet auquel la carte est connectée.
 
