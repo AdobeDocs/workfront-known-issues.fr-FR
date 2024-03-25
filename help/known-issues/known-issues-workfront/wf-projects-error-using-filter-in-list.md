@@ -1,17 +1,19 @@
 ---
-title: '« Projets : erreur lors de l’utilisation de filtres sur une liste de produits »'
+title: "Projets : erreur lors de l’utilisation de filtres sur une liste de projets"
 description: « Lorsqu’un utilisateur ou une utilisatrice consulte une liste de projets et applique un filtre, la liste disparaît et l’utilisateur ou l’utilisatrice voit un message d’erreur. »
 hidefromtoc: true
 feature: Projects
-source-git-commit: 073f63610623276f978d15b22cf4a8f294fab44f
-workflow-type: ht
+exl-id: e7619967-e68a-42ae-a8a9-656446e619a9
+source-git-commit: e5bc1a7458c6a28b1628fdb6602e4afea522cd5a
+workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 100%
+ht-degree: 82%
 
 ---
 
 
-# Projets : erreur lors de l’utilisation de filtres sur une liste de produits
+# Projets : erreur lors de l’utilisation de filtres sur une liste de projets
+
 
 >[!NOTE]
 >
