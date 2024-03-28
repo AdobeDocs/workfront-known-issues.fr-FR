@@ -4,7 +4,7 @@ description: « Lorsqu’un utilisateur ou une utilisatrice tente de trier une 
 hidefromtoc: true
 feature: Agile
 source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
 ht-degree: 100%
 

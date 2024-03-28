@@ -4,9 +4,9 @@ description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2316'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -28,15 +28,15 @@ Pour connaître les mises à jour de maintenance antérieures à 2024, consultez
 
 #### Mises à jour
 
-**Espaces larges entre les lignes**
+**Espaces importants entre les lignes**
 
 Lorsqu’un utilisateur ou une utilisatrice saisit une mise à jour avec plusieurs lignes à l’aide des touches Retour ou Entrée, ou colle plusieurs lignes dans une mise à jour, la mise à jour s’affiche comme prévu. Cependant, si un utilisateur ou une utilisatrice affiche ensuite cette mise à jour dans un rapport, il y a de grands espaces entre les lignes.
 
 Cela a été signalé dans la nouvelle expérience de commentaire.
 
-**Le balisage d’un utilisateur avec @ est inefficace**
+**Taguer une personne avec @ ne fonctionne pas**
 
-Lorsqu’un utilisateur balise un autre utilisateur avec le caractère @ dans un commentaire, il n’est pas ajouté à la zone des utilisateurs balisés et ne reçoit pas de notification concernant le commentaire.
+Lorsqu’une personne en tague une autre avec le caractère @ dans un commentaire, elle n’est pas ajoutée à la zone des utilisateurs et utilisatrices tagués et ne reçoit pas de notification concernant le commentaire.
 
 Ce correctif s’applique uniquement à la nouvelle expérience de commentaire.
 

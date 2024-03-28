@@ -4,7 +4,7 @@ description: « Lorsqu’un utilisateur ou une utilisatrice saisit une mise à 
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '119'
 ht-degree: 100%
 
