@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 432e47846b2ac2599ffe4625ab7388465194e48c
+source-git-commit: e28899711b95aea10ef43c45498db7aa73f7a784
 workflow-type: tm+mt
-source-wordcount: '787'
-ht-degree: 94%
+source-wordcount: '796'
+ht-degree: 93%
 
 ---
 
@@ -61,6 +61,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Rapports : le filtre de rapport ne renvoie pas les résultats attendus](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md) | mardi 1 avril 2024 |
 | [Configuration : impossible d’utiliser les [!UICONTROL Démarrages rapides] pour créer des regroupements](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md) | vendredi 30 novembre 2023 |
 | [BAT : erreur lors du partage du BAT à partir du lien dans l’e-mail](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 16 novembre 2023 |
 | [Workfront Fusion : duplication de projets créés à partir d’un seul module](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 9 novembre 2023 |
