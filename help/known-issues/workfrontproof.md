@@ -4,10 +4,10 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
+source-git-commit: 432e47846b2ac2599ffe4625ab7388465194e48c
 workflow-type: tm+mt
-source-wordcount: '412'
-ht-degree: 92%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Mises à jour : les commentaires de document n’apparaissent pas dans les mises à jour de l’objet parent](known-issues-workfront/wf-updates-document-comments-not-visible.md) | vendredi 14 mars 2024 |
+| [Épreuves : les épreuves créées à partir de documents liés n’ont pas de modèle d’épreuve appliqué](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | jeudi 27 mars 2024 |
 | [Épreuve : échec de la génération des épreuves compressées.](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | mercredi 9 janvier 2024 |
 
 {style="table-layout:auto"}
@@ -36,13 +36,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Bons à tirer : les bons à tirer restent sur le widget Mes approbations](known-issues-workfront/wf-proofs-stuck-on-widget.md) | samedi 22 mars 2024 |
 | [Projet : impossible de convertir le problème en projet si le BAT web est joint](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | samedi 22 mars 2024 |
-| [Bons à tirer : BAT simple de la nouvelle version de document comprend un workflow de la version précédente](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md) | samedi 22 mars 2024 |
-| [BAT : problèmes de traitement des fichiers statiques](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | samedi 15 décembre 2023 |
 | [Bons à tirer : chemin de navigation manquant lors de l’accès au BAT à partir du lien de l’e-mail](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 novembre 2023 |
-| [BAT : erreur lors du partage du BAT à partir du lien dans l’e-mail](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 octobre 2023 |
-| [BAT : impossible de générer le BAT](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19 octobre 2023 |
 
 {style="table-layout:auto"}
 
@@ -52,16 +47,16 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [BAT : erreur lors du partage du BAT à partir du lien dans l’e-mail](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 16 novembre 2023 |
+| [BAT : erreur lors du partage du BAT à partir du lien dans l’e-mail](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 16 novembre 2023 |
 | [[!DNL Workfront Proof] : impossible de développer le workflow](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25 octobre 2023 |
 | [BAT Workfront : les données du tableau de bord ne sont pas toujours exactes](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 19 septembre 2023 |
 | [BAT Workfront : les données de recherche ne sont pas toujours exactes](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md) | 19 septembre 2023 |
-| [Épreuves : les épreuves n’apparaissent pas comme approuvées dans les rapports.](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 3 août 2023 |
+| [Épreuves : les épreuves n’apparaissent pas comme approuvées dans les rapports.](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 3 août 2023 |
 | [Bons à tirer : les BAT sont créés lentement dans l’environnement Aperçu](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | 9 juin 2023 |
-| [Épreuves : les épreuves sont créées lentement dans l’environnement Aperçu](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 8 juin 2023 |
+| [Épreuves : les épreuves sont créées lentement dans l’environnement Aperçu](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 8 juin 2023 |
 | [[!DNL Workfront Proof] : erreur 500 lors de l’accès à [!DNL Workfront Proof] via l’API ou [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 25 mai 2023 |
 | [Documents : les options des [!UICONTROL Activités de vérification] débouchent sur la page de connexion](known-issues-workfront/inactive/wf-documents-taken-to-login-screen.md). | 21 avril 2023 |
-| [Épreuves : l’outil de mesure n’accepte pas les points décimaux.](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 27 mars 2023 |
+| [Épreuves : l’outil de mesure n’accepte pas les points décimaux.](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | 27 mars 2023 |
 | [Documents : erreur 404 lors de l’accès au document lié par [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md) | 23 mars 2023 |
 | [Documents : problèmes liés à la liste de documents](known-issues-workfront/inactive/wf-documents-list-missing-elements.md) | 23 mars 2023 |
 | [[!DNL Workfront Proof] : les listes ne sont pas triées correctement.](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 23 mars 2023 |

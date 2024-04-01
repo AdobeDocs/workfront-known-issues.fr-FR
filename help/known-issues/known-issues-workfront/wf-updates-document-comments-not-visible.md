@@ -3,15 +3,19 @@ title: '« Mises à jour : les commentaires de document n’apparaissent pas d
 description: « Lorsqu’une personne fait un commentaire sur un document, ce commentaire n’apparaît pas immédiatement dans la zone Mises à jour de l’objet parent du document. »
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
-workflow-type: ht
-source-wordcount: '93'
-ht-degree: 100%
+source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # Mises à jour : les commentaires de document n’apparaissent pas dans les mises à jour de l’objet parent
+
+>[!NOTE]
+>
+>Ce problème a été résolu le vendredi 28 mars 2024.
 
 <!--WF, WFP-->
 

@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
-workflow-type: ht
-source-wordcount: '2316'
-ht-degree: 100%
+source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,6 +21,71 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2024.
 Pour connaître les mises à jour de maintenance antérieures à 2024, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates).
 
 ## Mises à jour de mars 2024
+
++++**Mise à jour de maintenance le vendredi 28 mars 2024**
+
+### Mise à jour de maintenance le vendredi 28 mars 2024
+
+#### Intégrations
+
+**Documents non joints lors de la création d’une requête à partir de[!DNL Outlook]**
+
+Lorsqu’un utilisateur ou une utilisatrice crée une requête à partir d’[!DNL Outlook], les documents joints à l’e-mail ne sont pas joints à la requête.
+
+Ceci a été signalé pour les types de pièces jointes suivants :
+
+XLS
+PDF
+
+#### Épreuves
+
+**Les bons à tirer restent sur le widget Mes approbations**
+
+Un bon à tirer qui doit disparaître du widget Mes approbations reste sur le widget. Cela peut se produire lorsque plusieurs utilisateurs prennent des décisions sur un BAT en même temps, ou qu’un utilisateur prend une décision et la modifie rapidement.
+
+#### Gestion des ressources
+
+**Incohérence dans les heures budgétaires**
+
+Les heures budgétisées affichées dans l&#39;une des zones suivantes peuvent ne pas correspondre à celles affichées dans une autre zone :
+
+* Business case
+* Rapports
+* Outil Budget des ressources
+
+#### Tâches
+
+**L’info-bulle du prédécesseur n’affiche pas le nom de la tâche**
+
+Lorsqu’un utilisateur consulte une liste de tâches et passe la souris sur l’icône d’un prédécesseur pour obtenir plus d’informations, l’info-bulle qui s’affiche n’affiche pas le nom de la tâche du prédécesseur.
+
+#### Mises à jour
+
+**Les commentaires de document n’apparaissent pas dans les mises à jour de l’objet parent**
+
+Lorsqu’une personne fait un commentaire sur un document, ce commentaire n’apparaît pas immédiatement dans la zone Mises à jour de l’objet parent du document.
+
+Le problème a été signalé dans la nouvelle expérience de commentaire. Les commentaires s’affichent dans l’expérience de commentaire héritée comme prévu.
+
+**Le balisage d’un utilisateur est inefficace**
+
+Lorsqu’une personne est balisée dans un commentaire, ce dernier n’est pas visible par la personne. De plus, la personne balisée n’est pas informée du commentaire, que ce soit par e-mail ou par le biais d’une notification in-app.
+
+Ce problème a été signalé dans la nouvelle expérience de commentaire.
+
++++
+
++++**Mise à jour de maintenance de Workfront Fusion le vendredi 28 mars 2024**
+
+### Mise à jour de la maintenance de la fusion Workfront le 28 mars 2024
+
+**RuntimeError avec réponse 200 du module Workfront**
+
+Un module Workfront peut renvoyer une réponse `RuntimeError [200]`. La réponse 200 implique une réponse réussie, mais l’erreur indique que la requête a échoué.
+
+Cela peut se produire si la réponse est extrêmement longue. Les données sont renvoyées à Fusion, mais ne peuvent pas être traitées par Fusion.
+
++++
 
 +++**Mise à jour de maintenance le vendredi 21 mars 2024**
 
