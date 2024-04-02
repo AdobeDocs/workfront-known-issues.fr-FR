@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e28899711b95aea10ef43c45498db7aa73f7a784
+source-git-commit: fade8ee6637e6cfc49f6d13fb675c91cf527fa30
 workflow-type: tm+mt
-source-wordcount: '796'
-ht-degree: 93%
+source-wordcount: '805'
+ht-degree: 92%
 
 ---
 
@@ -40,6 +40,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
+| [Mises à jour : l’aperçu de l’image dans les mises à jour est flou.](known-issues-workfront/wf-updates-images-blurred.md) | mercredi 2 avril 2024 |
 | [Agile : les cartes Kanban n’affichent pas de champs personnalisés](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | vendredi 28 mars 2024 |
 | [Projet : impossible de convertir le problème en projet si le BAT web est joint](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | samedi 22 mars 2024 |
 | [Épreuves : impossible de générer une épreuve à partir d’un site web](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | vendredi 14 mars 2024 |

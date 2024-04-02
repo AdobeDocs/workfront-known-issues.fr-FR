@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: e28899711b95aea10ef43c45498db7aa73f7a784
+source-git-commit: fade8ee6637e6cfc49f6d13fb675c91cf527fa30
 workflow-type: tm+mt
-source-wordcount: '1502'
-ht-degree: 94%
+source-wordcount: '1510'
+ht-degree: 93%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Mises à jour : l’aperçu de l’image dans les mises à jour est flou.](known-issues-workfront/wf-updates-images-blurred.md)
       + [Rapports : le filtre de rapport ne renvoie pas les résultats attendus](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [Panoramas : l’utilisateur ne peut pas voir le panorama lorsque l’équipe de l’utilisateur est ajoutée au panorama.](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md)
       + [Agile : les cartes Kanban n’affichent pas de champs personnalisés](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
