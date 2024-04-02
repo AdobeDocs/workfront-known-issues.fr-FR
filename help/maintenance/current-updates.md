@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
+source-git-commit: 735095abc95d64e8737c2ffa5aabdd4922be1e1b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '2736'
+ht-degree: 92%
 
 ---
 
@@ -19,6 +19,32 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2024.
 >Ces mises à jour incluent également d’autres correctifs mineurs ou moins conséquents. L’assistance [!DNL Workfront] vous avertira lorsqu’un problème que vous avez soumis est résolu.
 
 Pour connaître les mises à jour de maintenance antérieures à 2024, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates).
+
+## Mises à jour d’avril 2024
+
++++**(Planifiée) Mise à jour de maintenance du vendredi 4 avril 2024**
+
+### Mise à jour de maintenance (planifiée) pour le vendredi 4 avril 2024.
+
+#### Heure de connexion
+
+**L’utilisateur ne peut pas consigner l’heure du jour en cours.**
+
+Lorsqu’une personne tente de consigner les heures dans la zone Mises à jour, le jour en cours est grisé et l’action est impossible.
+
+#### Mises à jour
+
+<!--no article-->
+
+**Erreur lors de l’affichage des commentaires**
+
+Lorsqu’un utilisateur tente d’afficher des commentaires dans la nouvelle expérience de commentaire, il ne peut pas voir les commentaires, mais plutôt voir l’erreur suivante :
+
+&quot;Quelque chose s&#39;est mal passé. Veuillez réessayer plus tard.&quot;
+
+L’expérience de commentaire héritée fonctionne comme prévu.
+
++++
 
 ## Mises à jour de mars 2024
 
