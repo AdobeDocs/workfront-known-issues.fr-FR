@@ -4,10 +4,10 @@ description: Lorsqu’une personne crée une épreuve à partir d’un document 
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 62554ced-5262-45d0-9c6b-54eb3689b9dd
-source-git-commit: 65490f20efd723dfbb0492b57456c21c727848e5
+source-git-commit: 50f79121e0b027c3f0283cd43d19c885dde8268b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '103'
+ht-degree: 88%
 
 ---
 
@@ -15,13 +15,9 @@ ht-degree: 0%
 
 <!--On WF, WFF, WFP TOCs-->
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on March 14, 2024.
-
--->
+>Ce problème a été résolu le vendredi 14 mars 2024.
 
 Lorsqu’une personne crée une épreuve à partir d’un document lié, le modèle d’épreuve n’est pas correctement appliqué, et des informations peuvent manquer, comme le workflow, par exemple.
 
