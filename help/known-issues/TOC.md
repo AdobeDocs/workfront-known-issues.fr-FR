@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: fade8ee6637e6cfc49f6d13fb675c91cf527fa30
+source-git-commit: 023b8ed4fe38b3c43c3d78c2ba5c11e965a5c5d0
 workflow-type: tm+mt
-source-wordcount: '1510'
-ht-degree: 93%
+source-wordcount: '1591'
+ht-degree: 89%
 
 ---
 
@@ -17,6 +17,16 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Mises à jour : &quot;[!UICONTROL Nous ne pouvons pas publier votre commentaire.]Message lors de la réponse](known-issues-workfront/wf-updates-were-unable-to-post.md)
+      + [Mises à jour : les commentaires n’affichent pas &quot;[!UICONTROL au nom de]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md)
+      + [Calendriers : erreur lors de l’actualisation du calendrier](known-issues-workfront/wf-calendar-error-when-refresh.md)
+      + [Mises à jour : le texte n’est pas conservé lorsque vous quittez le site pour revenir en commentaire.](known-issues-workfront/wf-updates-text-missing-after-mention.md)
+      + [Tâches : erreur Bizcontext lors de l’ajout ou de la suppression d’une tâche](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
+      + [Tâches : les informations du prédécesseur n’incluent pas de lien](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md)
+      + [Bon à tirer Workfront : les signatures électroniques ne fonctionnent pas](known-issues-workfront-proof/proof-esignatures-not-working.md)
+      + [Modèle de mise en page : la landing page est incorrecte](known-issues-workfront/wf-layout-template-set-to-home-not-request.md)
+      + [Durée de journalisation : impossible de modifier les heures sur les tâches ou les problèmes.](known-issues-workfront/wf-logging-time-cannot-edit-hours.md)
+      + [Formulaires personnalisés : les champs de recherche externes ne renvoient pas de résultats](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md)
       + [Mises à jour : l’aperçu de l’image dans les mises à jour est flou.](known-issues-workfront/wf-updates-images-blurred.md)
       + [Rapports : le filtre de rapport ne renvoie pas les résultats attendus](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [Panoramas : l’utilisateur ne peut pas voir le panorama lorsque l’équipe de l’utilisateur est ajoutée au panorama.](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md)

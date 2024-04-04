@@ -4,10 +4,10 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 50f79121e0b027c3f0283cd43d19c885dde8268b
+source-git-commit: f7cc59883c8d45aa8a59e7c4b48f85ce64054c82
 workflow-type: tm+mt
-source-wordcount: '359'
-ht-degree: 96%
+source-wordcount: '366'
+ht-degree: 95%
 
 ---
 
@@ -35,6 +35,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bon à tirer Workfront : les signatures électroniques ne fonctionnent pas](known-issues-workfront-proof/proof-esignatures-not-working.md) | vendredi 4 avril 2024 |
 | [Projet : impossible de convertir le problème en projet si le BAT web est joint](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | samedi 22 mars 2024 |
 | [Bons à tirer : chemin de navigation manquant lors de l’accès au BAT à partir du lien de l’e-mail](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 novembre 2023 |
 
