@@ -1,17 +1,21 @@
 ---
-title: '« Consignation de temps : la personne ne peut pas consigner les heures pour le jour en cours »'
-description: « Lorsqu’une personne tente de consigner les heures dans la zone Mises à jour, le jour en cours est grisé et l’action est impossible. »
+title: "Heure de journalisation : l’utilisateur ne peut pas consigner l’heure du jour actuel"
+description: Lorsqu’une personne tente de consigner les heures dans la zone Mises à jour, le jour en cours est grisé et l’action est impossible.
 hidefromtoc: true
 feature: People Teams and Groups, Timesheets
-source-git-commit: c0f69dae7ce1586f6b7e7b34f520f262389e2081
-workflow-type: ht
-source-wordcount: '76'
-ht-degree: 100%
+exl-id: 882aba6e-519f-4c48-94ee-469f13ed7e92
+source-git-commit: 01a30a5a94fa733b24bf78fc425f72ac92f5aeea
+workflow-type: tm+mt
+source-wordcount: '82'
+ht-degree: 89%
 
 ---
 
-
 # Consignation de temps : la personne ne peut pas consigner les heures pour le jour en cours
+
+>[!NOTE]
+>
+>Ce problème a été résolu le vendredi 4 avril 2024.
 
 Lorsqu’une personne tente de consigner les heures dans la zone Mises à jour, le jour en cours est grisé et l’action est impossible.
 

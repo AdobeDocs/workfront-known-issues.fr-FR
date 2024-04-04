@@ -4,9 +4,9 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: fade8ee6637e6cfc49f6d13fb675c91cf527fa30
+source-git-commit: 01a30a5a94fa733b24bf78fc425f72ac92f5aeea
 workflow-type: tm+mt
-source-wordcount: '805'
+source-wordcount: '795'
 ht-degree: 92%
 
 ---
@@ -45,7 +45,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [Projet : impossible de convertir le problème en projet si le BAT web est joint](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | samedi 22 mars 2024 |
 | [Épreuves : impossible de générer une épreuve à partir d’un site web](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | vendredi 14 mars 2024 |
 | [Recherche : impossible de modifier à partir de la recherche](known-issues-workfront/wf-search-cannot-edit-from-search.md) | vendredi 14 mars 2024 |
-| [Consignation de temps : la personne ne peut pas consigner les heures pour le jour en cours.](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md) | vendredi 14 mars 2024 |
 | [Mises à jour : les utilisateurs Demandeur et utilisatrices Demandeuse ne peuvent pas ajouter d’images aux mises à jour.](known-issues-workfront/wf-updates-requestors-not-add-image.md) | samedi 8 mars 2024 |
 | [Panoramas : les totaux des listes de contrôle ne sont pas exacts.](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | samedi 23 février 2024 |
 | [Panoramas : problèmes liés aux cartes en double](known-issues-workfront/wf-boards-some-cards-duplicated.md) | vendredi 22 février 2024 |
