@@ -4,9 +4,9 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f7cc59883c8d45aa8a59e7c4b48f85ce64054c82
+source-git-commit: 1f516bdbea40c2946dec1935b7ada63b28b3451c
 workflow-type: tm+mt
-source-wordcount: '836'
+source-wordcount: '844'
 ht-degree: 86%
 
 ---
@@ -38,6 +38,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
+| [Rapports : erreur 500 lors de l’export d’un rapport](known-issues-workfront/wf-reports-500-error-exporting.md) | samedi 5 avril 2024 |
 | [Mises à jour : les commentaires n’affichent pas &quot;[!UICONTROL au nom de]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | vendredi 4 avril 2024 |
 | [Calendriers : erreur lors de l’actualisation du calendrier](known-issues-workfront/wf-calendar-error-when-refresh.md) | vendredi 4 avril 2024 |
 | [Mises à jour : le texte n’est pas conservé lorsque vous quittez le site pour revenir en commentaire.](known-issues-workfront/wf-updates-text-missing-after-mention.md) | vendredi 4 avril 2024 |
