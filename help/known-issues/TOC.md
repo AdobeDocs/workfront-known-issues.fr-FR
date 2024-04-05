@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 1f516bdbea40c2946dec1935b7ada63b28b3451c
+source-git-commit: 8d9d463f5b6974dbbba95b7d8457760cbdfeb13e
 workflow-type: tm+mt
-source-wordcount: '1598'
-ht-degree: 89%
+source-wordcount: '1608'
+ht-degree: 88%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 89%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Bons à tirer : BAT empêche la conversion de la tâche ou du problème en projet.](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
       + [Rapports : erreur 500 lors de l’export d’un rapport](known-issues-workfront/wf-reports-500-error-exporting.md)
       + [Mises à jour : &quot;[!UICONTROL Nous ne pouvons pas publier votre commentaire.]Message lors de la réponse](known-issues-workfront/wf-updates-were-unable-to-post.md)
       + [Mises à jour : les commentaires n’affichent pas &quot;[!UICONTROL au nom de]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md)
