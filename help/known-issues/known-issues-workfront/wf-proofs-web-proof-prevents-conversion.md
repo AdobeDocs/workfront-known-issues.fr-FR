@@ -3,7 +3,7 @@ title: "Bons à tirer : BAT empêche la conversion d’une tâche ou d’un prob
 description: '"Lorsqu’un utilisateur tente de convertir une tâche ou un problème qui inclut un BAT généré par le web en un projet, le projet n’est pas créé et l’utilisateur voit un message. Une solution de contournement est disponible. »'
 hidefromtoc: true
 feature: Digital Content and Documents, Projects, Tasks, Work Management
-source-git-commit: d45d86590821d5a6b7b6856afe2e65b2ff2c3da5
+source-git-commit: b761e7feeba027348224e5d0e996fb65bd8cdecc
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 5%
@@ -26,3 +26,4 @@ Procédez comme suit :
 3. Utilisez la fonction Déplacer le document pour déplacer le BAT vers le nouveau projet.
 
 _Premier signalement le vendredi 28 mars 2024._
+
