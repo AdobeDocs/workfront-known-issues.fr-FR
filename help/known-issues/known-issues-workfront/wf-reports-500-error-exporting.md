@@ -3,7 +3,7 @@ title: "Rapports : erreur 500 lors de l'export d'un rapport"
 description: '"Lorsqu’un utilisateur tente d’exporter un rapport, celui-ci n’est pas exporté et une erreur s’affiche. Une solution de contournement est disponible. »'
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 1f516bdbea40c2946dec1935b7ada63b28b3451c
+source-git-commit: 0dbb29f11088b5c963f7972f3ec9e64ee55d6263
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 16%
@@ -24,3 +24,4 @@ Cela se produit lorsque le rapport fait référence à un champ de devise person
 Supprimez la colonne qui référence le champ de devise personnalisée et exportez à nouveau le rapport.
 
 _Premier signalement le vendredi 4 avril 2024._
+
