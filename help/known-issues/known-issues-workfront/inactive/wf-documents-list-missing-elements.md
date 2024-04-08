@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 39bc9972-7c9a-4a00-8b00-9670e502fed1
 source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 75%
 Les problèmes suivants liés à la liste de documents ont été signalés :
 
 * Les miniatures ne s’affichent pas.
-* Si un utilisateur change de dossier sélectionné en mode Liste, les options Filtre, Vue et Groupement ne fonctionnent plus.
+* Si un utilisateur ou une utilisatrice change de dossier sélectionné dans la vue Liste, les options Filtrer, Afficher et Regroupement ne fonctionnent plus.
 
 **Solution de contournement**
 

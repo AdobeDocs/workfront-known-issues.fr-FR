@@ -1,19 +1,18 @@
 ---
-title: "Agile : les cartes Kanban n’affichent pas de champs personnalisés"
-description: "Lorsqu’un utilisateur consulte un panorama Kanban configuré pour inclure des champs personnalisés, ces champs personnalisés peuvent ne pas s’afficher."
+title: '« Agile : les cartes Kanban n’affichent pas de champs personnalisés »'
+description: Lorsqu’un utilisateur ou une utilisatrice consulte un panorama Kanban configuré pour inclure des champs personnalisés, ces champs personnalisés peuvent ne pas s’afficher.
 hidefromtoc: true
 feature: Agile
-source-git-commit: f6b027f26edafe69474d0d1d551f6b9909b3342c
-workflow-type: tm+mt
+exl-id: b1f94663-78ee-4e1d-bc14-9453cbde4753
+source-git-commit: 7aba3a4ce3e0436a8fd9850197bc44da9dafe347
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
+# Agile : les cartes Kanban n’affichent pas les champs personnalisés
 
-# Agile : les cartes Kanban n’affichent pas de champs personnalisés
-
-Lorsqu’un utilisateur consulte un panorama Kanban configuré pour inclure des champs personnalisés, ces champs personnalisés peuvent ne pas s’afficher.
+Lorsqu’un utilisateur ou une utilisatrice consulte un panorama Kanban configuré pour inclure des champs personnalisés, ces champs personnalisés peuvent ne pas s’afficher.
 
 _Premier signalement le jeudi 6 mars 2024._
-

@@ -1,13 +1,13 @@
 ---
-title: 'Accueil : le widget Mentions dans la nouvelle page d’accueil ne se limite pas aux messages dans lesquels l’utilisateur est balisé.'
-description: Lorsqu’un utilisateur affiche le widget Mentions dans la nouvelle expérience Accueil, il voit des commentaires qui ne sont pas balisés ni mentionnés dans .
+title: '« Accueil : le widget Mentions du nouvel Accueil ne se limite pas aux messages dans lesquels la personne est taguée ».'
+description: Lorsqu’une personne affiche le widget Mentions dans la nouvelle expérience Accueil, elle voit des commentaires dans lesquels elle n’est ni taguée ni mentionnée.
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 8df8a84b-6a1c-4142-affe-5d83ff9a939b
 source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '133'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
