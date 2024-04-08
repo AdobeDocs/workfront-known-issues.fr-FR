@@ -5,7 +5,7 @@ role: User
 source-git-commit: 8d9d463f5b6974dbbba95b7d8457760cbdfeb13e
 workflow-type: tm+mt
 source-wordcount: '1608'
-ht-degree: 88%
+ht-degree: 92%
 
 ---
 
@@ -32,13 +32,13 @@ ht-degree: 88%
       + [Mises à jour : l’aperçu de l’image dans les mises à jour est flou.](known-issues-workfront/wf-updates-images-blurred.md)
       + [Rapports : le filtre de rapport ne renvoie pas les résultats attendus](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [Panoramas : l’utilisateur ne peut pas voir le panorama lorsque l’équipe de l’utilisateur est ajoutée au panorama.](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md)
-      + [Agile : les cartes Kanban n’affichent pas de champs personnalisés](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
-      + [Bons à tirer : les bons à tirer restent sur le widget Mes approbations](known-issues-workfront/wf-proofs-stuck-on-widget.md)
-      + [Projet : impossible de convertir le problème en projet si le BAT web est joint](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
-      + [Gestion des ressources : Incohérence dans les heures budgétaires](known-issues-workfront/wf-resource-management-budgeted-hours-discrepancy.md)
-      + [Bons à tirer : BAT simple de la nouvelle version de document comprend un workflow de la version précédente](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md)
-      + [Tâches : l’info-bulle du prédécesseur n’affiche pas le nom de la tâche](known-issues-workfront/wf-tasks-predecessor-name-not-in-tooltip.md)
-      + [Panoramas : erreur 400 lors de l’ajout d’une tâche à un panorama à partir d’un panorama Kanban](known-issues-workfront/wf-boards-400-when-adding-from-team.md)
+      + [Agile : les cartes Kanban n’affichent pas les champs personnalisés](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
+      + [Épreuves : les épreuves restent sur le widget Mes approbations](known-issues-workfront/wf-proofs-stuck-on-widget.md)
+      + [Projet : impossible de convertir le problème en projet si l’épreuve web est jointe](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
+      + [Gestion des ressources : incohérence dans les heures budgétées](known-issues-workfront/wf-resource-management-budgeted-hours-discrepancy.md)
+      + [Épreuves : l’épreuve simple de la nouvelle version de document comprend un workflow de la version précédente](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md)
+      + [Tâches : l’info-bulle de la tâche antérieure n’affiche pas le nom de la tâche](known-issues-workfront/wf-tasks-predecessor-name-not-in-tooltip.md)
+      + [Panoramas : erreur 400 lors de l’ajout d’une tâche à un panorama à partir d’une carte Kanban](known-issues-workfront/wf-boards-400-when-adding-from-team.md)
       + [Épreuves : impossible de générer une épreuve à partir d’un site web](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md)
       + [Recherche : impossible de modifier à partir de la recherche](known-issues-workfront/wf-search-cannot-edit-from-search.md)
       + [Mises à jour : baliser une personne ne fonctionne pas](known-issues-workfront/wf-updates-not-notified-when-tagged.md)

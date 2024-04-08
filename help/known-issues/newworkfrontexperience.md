@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 8d9d463f5b6974dbbba95b7d8457760cbdfeb13e
 workflow-type: tm+mt
 source-wordcount: '855'
-ht-degree: 85%
+ht-degree: 87%
 
 ---
 
@@ -50,8 +50,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [Durée de journalisation : impossible de modifier les heures sur les tâches ou les problèmes.](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | vendredi 4 avril 2024 |
 | [Formulaires personnalisés : les champs de recherche externes ne renvoient pas de résultats](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md) | vendredi 4 avril 2024 |
 | [Mises à jour : l’aperçu de l’image dans les mises à jour est flou.](known-issues-workfront/wf-updates-images-blurred.md) | mercredi 2 avril 2024 |
-| [Agile : les cartes Kanban n’affichent pas de champs personnalisés](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | vendredi 28 mars 2024 |
-| [Projet : impossible de convertir le problème en projet si le BAT web est joint](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | samedi 22 mars 2024 |
+| [Agile : les cartes Kanban n’affichent pas les champs personnalisés](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | vendredi 28 mars 2024 |
+| [Projet : impossible de convertir le problème en projet si l’épreuve web est jointe](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | samedi 22 mars 2024 |
 | [Recherche : impossible de modifier à partir de la recherche](known-issues-workfront/wf-search-cannot-edit-from-search.md) | vendredi 14 mars 2024 |
 | [Mises à jour : les utilisateurs Demandeur et utilisatrices Demandeuse ne peuvent pas ajouter d’images aux mises à jour.](known-issues-workfront/wf-updates-requestors-not-add-image.md) | samedi 8 mars 2024 |
 | [Panoramas : les totaux des listes de contrôle ne sont pas exacts.](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | samedi 23 février 2024 |
