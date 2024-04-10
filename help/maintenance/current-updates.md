@@ -3,9 +3,9 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: fda4921dbfc56b7a58e8cb783af2ebaceb38db9e
+source-git-commit: cc9c9acc9d4ce6543f827e1c8d08a64775e32ecc
 workflow-type: tm+mt
-source-wordcount: '2773'
+source-wordcount: '2905'
 ht-degree: 92%
 
 ---
@@ -26,9 +26,35 @@ Pour connaître les mises à jour de maintenance antérieures à 2024, consultez
 
 ### Mise à jour de maintenance le 4 avril 2024
 
+#### Recherche
+
+**Modification impossible à partir de la recherche**
+
+Lorsqu’une personne utilise la recherche avancée et tente de modifier ou de modifier en masse les résultats de la recherche, l’icône Modifier ne répond pas.
+
+#### Mises à jour
+
+**L’aperçu de l’image dans les mises à jour est flou**
+
+Lorsque l’utilisateur consulte les mises à jour et clique sur la loupe d’une image pour la prévisualiser, l’aperçu qui s’ouvre est extrêmement flou pixellisé.
+
+Si l’utilisateur télécharge l’image, celle-ci s’affiche à la résolution attendue.
+
+**«[!UICONTROL Impossible de publier votre commentaire] » lors de la réponse**
+
+Lorsque l’utilisateur tente de répondre à un message dans la nouvelle expérience de commentaire, la réponse n’est pas enregistrée et le message suivant apparaît :
+
+«[!UICONTROL Nous ne pouvons pas publier votre commentaire pour l&#39;instant. Veuillez patienter un moment, puis réessayer.]«
+
++++
+
++++**Mise à jour de maintenance le vendredi 4 avril 2024**
+
+### Mise à jour de maintenance le 4 avril 2024
+
 #### Intégrations
 
-**Documents non joints lors de la création d’une requête à partir de[!DNL Outlook]**
+**Documents non joints lors de la création d&#39;une demande depuis[!DNL Outlook]**
 
 Lorsqu’un utilisateur ou une utilisatrice crée une requête à partir d’[!DNL Outlook], les documents joints à l’e-mail ne sont pas joints à la requête.
 
@@ -39,7 +65,7 @@ PDF
 
 #### Heure de connexion
 
-**L’utilisateur ne peut pas consigner l’heure du jour en cours.**
+**Impossible de saisir l’heure du jour en cours**
 
 Lorsqu’une personne tente de consigner les heures dans la zone Mises à jour, le jour en cours est grisé et l’action est impossible.
 
@@ -49,11 +75,11 @@ Lorsqu’une personne tente de consigner les heures dans la zone Mises à jour, 
 
 **Erreur lors de l’affichage des commentaires**
 
-Lorsqu’un utilisateur tente d’afficher des commentaires dans la nouvelle expérience de commentaire, il ne peut pas voir les commentaires, mais plutôt voir l’erreur suivante :
+Lorsque l’utilisateur tente d’afficher des commentaires dans la nouvelle expérience de commentaires, il ne parvient pas à voir les commentaires et le message d’erreur suivant apparaît à la place :
 
-&quot;Quelque chose s&#39;est mal passé. Veuillez réessayer plus tard.&quot;
+« Un problème est survenu. Réessayez plus tard. »
 
-L’expérience de commentaire héritée fonctionne comme prévu.
+L’expérience de commentaires héritée fonctionne comme prévu.
 
 +++
 
@@ -65,7 +91,7 @@ L’expérience de commentaire héritée fonctionne comme prévu.
 
 #### Intégrations
 
-**Documents non joints lors de la création d’une requête à partir de[!DNL Outlook]**
+**Documents non joints lors de la création d&#39;une demande depuis[!DNL Outlook]**
 
 Lorsqu’un utilisateur ou une utilisatrice crée une requête à partir d’[!DNL Outlook], les documents joints à l’e-mail ne sont pas joints à la requête.
 
@@ -76,29 +102,29 @@ PDF
 
 #### Épreuves
 
-**Les bons à tirer restent sur le widget Mes approbations**
+**Les épreuves restent dans le widget Mes approbations**
 
-Un bon à tirer qui doit disparaître du widget Mes approbations reste sur le widget. Cela peut se produire lorsque plusieurs utilisateurs prennent des décisions sur un BAT en même temps, ou qu’un utilisateur prend une décision et la modifie rapidement.
+Une épreuve qui doit disparaître du widget Mes approbations reste sur le widget. Cela peut se produire lorsque plusieurs utilisateurs et utilisatrices prennent des décisions sur une épreuve en même temps, ou qu’un utilisateur ou une utilisatrice prend une décision et la modifie rapidement.
 
 #### Gestion des ressources
 
-**Incohérence dans les heures budgétaires**
+**Incohérence dans les heures budgétées**
 
-Les heures budgétisées affichées dans l&#39;une des zones suivantes peuvent ne pas correspondre à celles affichées dans une autre zone :
+Les heures budgétées affichées dans l’une des zones suivantes peuvent ne pas correspondre à celles affichées dans une autre de ces zones :
 
 * Business case
 * Rapports
-* Outil Budget des ressources
+* Outil de budgétisation des ressources
 
 #### Tâches
 
 **L’info-bulle du prédécesseur n’affiche pas le nom de la tâche**
 
-Lorsqu’un utilisateur consulte une liste de tâches et passe la souris sur l’icône d’un prédécesseur pour obtenir plus d’informations, l’info-bulle qui s’affiche n’affiche pas le nom de la tâche du prédécesseur.
+Lorsqu’un utilisateur ou une utilisatrice consulte une liste de tâches et passe la souris sur l’icône d’une tâche antérieure pour obtenir davantage d’informations, l’info-bulle qui s’affiche n’affiche pas le nom de la tâche antérieure.
 
 #### Mises à jour
 
-**Les commentaires de document n’apparaissent pas dans les mises à jour de l’objet parent**
+**Les commentaires du document n’apparaissent pas dans les mises à jour de l’objet parent**
 
 Lorsqu’une personne fait un commentaire sur un document, ce commentaire n’apparaît pas immédiatement dans la zone Mises à jour de l’objet parent du document.
 
@@ -114,7 +140,7 @@ Ce problème a été signalé dans la nouvelle expérience de commentaire.
 
 +++**Mise à jour de maintenance de Workfront Fusion le vendredi 28 mars 2024**
 
-### Mise à jour de la maintenance de la fusion Workfront le 28 mars 2024
+### Mise à jour de maintenance de Workfront Fusion le 28 mars 2024
 
 **RuntimeError avec réponse 200 du module Workfront**
 
