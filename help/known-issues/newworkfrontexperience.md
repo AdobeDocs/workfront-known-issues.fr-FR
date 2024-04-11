@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
+source-git-commit: 60412f6dae3a9688504e6041c6033dfaad861c37
 workflow-type: tm+mt
-source-wordcount: '817'
-ht-degree: 88%
+source-wordcount: '826'
+ht-degree: 87%
 
 ---
 
@@ -37,6 +37,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
+| [Équipes : impossible d’afficher le propriétaire de l’équipe ou de supprimer l’équipe](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | vendredi 11 avril 2024 |
 | [Requêtes : le champ calculé ne se met pas à jour lors du remplissage de la requête.](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | mercredi 9 avril 2024 |
 | [Bons à tirer : BAT empêche la conversion de la tâche ou du problème en projet.](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | samedi 5 avril 2024 |
 | [Mises à jour : les commentaires n’affichent pas &quot;[!UICONTROL au nom de]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | vendredi 4 avril 2024 |
