@@ -1,17 +1,21 @@
 ---
-title: '« Panoramas : les totaux des listes de contrôle ne sont pas exacts. »'
-description: « Lorsqu’un utilisateur ou une utilisatrice consulte une carte qui comporte des éléments de liste de contrôle et apporte une modification de sorte que le total de la liste de contrôle soit modifié, le total ne change pas. »
+title: "Panoramas : les totaux de la liste de contrôle ne sont pas précis"
+description: Lorsqu’un utilisateur ou une utilisatrice consulte une carte qui comporte des éléments de liste de contrôle et apporte une modification de sorte que le total de la liste de contrôle soit modifié, le total ne change pas.
 hidefromtoc: true
 feature: Agile
-source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
-workflow-type: ht
-source-wordcount: '88'
-ht-degree: 100%
+exl-id: 548066f3-1afe-4073-b0a1-48a749e313ff
+source-git-commit: ca62d3bfb098acfd71517427ccd32dd3ee7754bc
+workflow-type: tm+mt
+source-wordcount: '94'
+ht-degree: 93%
 
 ---
 
-
 # Panoramas : les totaux des listes de contrôle ne sont pas exacts.
+
+>[!NOTE]
+>
+>Ce problème a été résolu le vendredi 11 avril 2024.
 
 Lorsqu’un utilisateur ou une utilisatrice consulte une carte qui comporte des éléments de liste de contrôle et apporte une modification de sorte que le total de la liste de contrôle soit modifié, le total ne change pas.
 
