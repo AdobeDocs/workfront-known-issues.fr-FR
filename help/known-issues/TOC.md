@@ -2,9 +2,9 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 72527be73ba4948e8ddb6da61cc61575766d9ee0
+source-git-commit: 60e9862aba0f65c1cef053823d3778d3c925c23e
 workflow-type: tm+mt
-source-wordcount: '1659'
+source-wordcount: '1670'
 ht-degree: 89%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 89%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Mises à jour : les commentaires effectués par le biais de l’API ne sont pas visibles dans l’environnement Sandbox.](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
       + [Mises à jour : les listes numérotées ne sont pas numérotées correctement](known-issues-workfront/wf-updates-not-numbering-correctly.md)
       + [Bons à tirer : les bons à tirer créés à partir de ressources d’intégration ne sont pas correctement appliqués aux modèles et aux workflows](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
       + [Demandes : erreur lors de l’ouverture d’un brouillon](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
