@@ -3,7 +3,7 @@ title: "Bons à tirer : les bons à tirer créés à partir de ressources d’in
 description: « »
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 9ba06d760825cca476e2384bd68c284c52217e0d
+source-git-commit: 770c89523348785ad9cbdef87ddf6ac75a7d001a
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 4%
@@ -22,3 +22,4 @@ Les éléments suivants ont été signalés comme incorrects dans les bons à ti
 * Notifications électroniques (non envoyées)
 
 _Premier signalement le jeudi 28 février 2024._
+
