@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 0b418e51614c912db17289ee82bcc916e0e0b3e8
+source-git-commit: 72527be73ba4948e8ddb6da61cc61575766d9ee0
 workflow-type: tm+mt
-source-wordcount: '833'
-ht-degree: 85%
+source-wordcount: '856'
+ht-degree: 83%
 
 ---
 
@@ -37,6 +37,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
+| [Mises à jour : les listes numérotées ne sont pas numérotées correctement](known-issues-workfront/wf-updates-not-numbering-correctly.md) | mardi 15 avril 2024 |
+| [Bons à tirer : les bons à tirer créés à partir de ressources d’intégration ne sont pas correctement appliqués aux modèles et aux workflows](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md) | mardi 15 avril 2024 |
 | [Demandes : erreur lors de l’ouverture d’un brouillon](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | samedi 12 avril 2024 |
 | [Listes : la liste n’affiche pas tous les éléments](known-issues-workfront/wf-lists-does-not-display-all.md) | samedi 12 avril 2024 |
 | [Workfront Proof : les signatures électroniques ne fonctionnent pas](known-issues-workfront-proof/proof-esignatures-not-working.md) | samedi 12 avril 2024 |
