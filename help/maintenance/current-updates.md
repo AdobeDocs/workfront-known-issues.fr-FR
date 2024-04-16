@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
+source-git-commit: 2656fd578ee38e6dcdd9e8de9e83f5472656bf78
 workflow-type: tm+mt
-source-wordcount: '3037'
-ht-degree: 98%
+source-wordcount: '3258'
+ht-degree: 97%
 
 ---
 
@@ -21,6 +21,40 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2024.
 Pour connaître les mises à jour de maintenance antérieures à 2024, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates).
 
 ## Mises à jour d’avril 2024
+
++++**Mise à jour de maintenance le vendredi 18 avril 2024**
+
+### Mise à jour de maintenance le vendredi 18 avril 2024
+
+#### Agile
+
+**Les cartes Kanban n’affichent pas de champs personnalisés**
+
+Lorsqu’un utilisateur ou une utilisatrice consulte un panorama Kanban configuré pour inclure des champs personnalisés, ces champs personnalisés peuvent ne pas s’afficher.
+
+#### Calendriers
+
+**Erreur lors de l’actualisation du calendrier**
+
+Lorsqu’un utilisateur ou une utilisatrice affiche un calendrier et actualise la page, une erreur « Oups » s’affiche. Les données du calendrier s’affichent comme prévu, mais peuvent être masquées par le message d’erreur.
+
+#### Formulaires personnalisés dans mon groupe
+
+**Les champs de recherche externes ne renvoient pas de résultats**
+
+Lorsqu’un champ de recherche externe fait référence à un champ à sélection multiple pour lequel une seule valeur est sélectionnée, le champ ne renvoie pas la valeur.
+
+Par exemple, si un champ de recherche externe fait référence à un champ à sélection multiple pour lequel les valeurs « rouge » et « bleu » sont sélectionnées, le champ fonctionne comme prévu. Si seule la valeur « rouge » du champ est sélectionnée, le champ de recherche externe ne renvoie aucune valeur.
+
+#### Projets
+
+**Impossible de convertir le problème en projet si le BAT web est joint**
+
+Lorsqu’un problème est associé à une épreuve web (une épreuve d’URL utilisant un lien d’un fournisseur de documents externe tel que SharePoint) et qu’un utilisateur ou une utilisatrice tente de convertir ce problème en projet, la conversion échoue et le projet n’est pas créé. L’utilisateur ou l’utilisatrice voit l’erreur suivante :
+
+« Un problème est survenu lors de la copie du fichier (GUID du fichier). Supprimez le fichier ou contactez l’assistance et réessayez. »
+
++++
 
 +++**Mise à jour de maintenance le vendredi 11 avril 2024**
 
