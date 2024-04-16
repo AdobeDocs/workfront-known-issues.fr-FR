@@ -1,29 +1,29 @@
 ---
-title: 'Bons à tirer : BAT empêche la conversion de la tâche ou du problème en projet'
-description: Lorsqu’un utilisateur tente de convertir une tâche ou un problème qui inclut un BAT généré par le web en un projet, le projet n’est pas créé et l’utilisateur voit un message. Une solution de contournement est disponible.
+title: '« Épreuves : l’épreuve empêche la conversion de la tâche ou du problème en projet. »'
+description: Lorsqu’un utilisateur ou une utilisatrice tente de convertir une tâche ou un problème qui inclut une épreuve générée sur le web en projet, le projet n’est pas créé et un message s’affiche. Une solution de contournement est disponible.
 hidefromtoc: true
 feature: Digital Content and Documents, Projects, Tasks, Work Management
 exl-id: 0022db1d-7ad3-4229-96a8-fb3823e89d9f
 source-git-commit: 170d07d1223b1077e904ea848eeb894b120a974a
 workflow-type: tm+mt
 source-wordcount: '152'
-ht-degree: 5%
+ht-degree: 98%
 
 ---
 
-# Bons à tirer : BAT empêche la conversion de la tâche ou du problème en projet.
+# Épreuves : l’épreuve empêche la conversion de la tâche ou du problème en projet.
 
-Lorsqu’un utilisateur tente de convertir une tâche ou un problème qui inclut un BAT généré par le web en un projet, le projet n’est pas créé et l’utilisateur voit le message suivant :
+Lorsqu’un utilisateur ou une utilisatrice tente de convertir une tâche ou un problème qui inclut une épreuve générée sur le web en projet, le projet n’est pas créé et le message suivant s’affiche :
 
-&quot;[!UICONTROL Un problème s’est produit lors de la copie du fichier] \xxxxxxxxstrong>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\u003C\/strong>. [!UICONTROL Supprimez le fichier ou contactez l’assistance et réessayez.]&quot;
+« [!UICONTROL Un problème s’est produit lors de la copie du fichier] \xxxxxxxxstrong>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\u003C\/strong>. [!UICONTROL Supprimez le fichier ou contactez l’assistance et réessayez.] »
 
 **Solution** s
 
-Procédez comme suit :
+Procédez comme suit :
 
-1. Utilisez la fonction Déplacer le document pour déplacer le BAT vers une autre tâche, problème ou projet.
+1. Utilisez la fonctionnalité Déplacer document pour redéfinir l’emplacement de l’épreuve sur une autre tâche, un autre problème ou projet.
 2. Convertissez la tâche ou le problème en projet.
-3. Utilisez la fonction Déplacer le document pour déplacer le BAT vers le nouveau projet.
+3. Utilisez la fonctionnalité Déplacer document pour déplacer l’épreuve vers le nouveau projet.
 
 _Premier signalement le vendredi 28 mars 2024._
 

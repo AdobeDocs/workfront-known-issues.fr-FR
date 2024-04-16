@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
 workflow-type: tm+mt
 source-wordcount: '3037'
-ht-degree: 89%
+ht-degree: 98%
 
 ---
 
@@ -24,7 +24,7 @@ Pour connaître les mises à jour de maintenance antérieures à 2024, consultez
 
 +++**Mise à jour de maintenance le vendredi 11 avril 2024**
 
-### Mise à jour de maintenance le 11 avril 2024
+### Mise à jour de maintenance le vendredi 11 avril 2024
 
 #### Recherche
 
@@ -36,21 +36,21 @@ Lorsqu’une personne utilise la recherche avancée et tente de modifier ou de m
 
 **L’aperçu de l’image dans les mises à jour est flou**
 
-Lorsqu’un utilisateur consulte les mises à jour et clique sur la loupe d’une image pour prévisualiser l’image, l’aperçu qui s’ouvre est extrêmement flou pixellisé.
+Lorsqu’un utilisateur ou une utilisatrice affiche les mises à jour et clique sur la loupe d’une image pour la prévisualiser, la prévisualisation qui s’ouvre est extrêmement floue et pixellisée.
 
-Si l’utilisateur télécharge l’image, celle-ci s’affiche à la résolution attendue.
+Si l’utilisateur ou l’utilisatrice télécharge l’image, celle-ci s’affiche à la résolution attendue.
 
 **&quot;[!UICONTROL Nous ne pouvons pas publier votre commentaire.]Message lors de la réponse**
 
-Lorsqu’un utilisateur tente de répondre à un message dans la nouvelle expérience de commentaire, la réponse n’est pas enregistrée et l’utilisateur voit le message suivant :
+Lorsqu’un utilisateur ou une utilisatrice tente de répondre à un message dans la nouvelle expérience de commentaire, la réponse n’est pas enregistrée et le message suivant s’affiche :
 
-&quot;[!UICONTROL Nous ne pouvons pas publier votre commentaire maintenant. Veuillez patienter un instant, puis réessayer.]&quot;
+« [!UICONTROL Nous ne pouvons pas publier votre commentaire maintenant. Patientez un instant, puis réessayez.] »
 
 +++
 
 +++**Mise à jour de maintenance le vendredi 4 avril 2024**
 
-### Mise à jour de maintenance le 4 avril 2024
+### Mise à jour de maintenance le 4 avril 2024
 
 #### Recherche
 
@@ -62,25 +62,25 @@ Lorsqu’une personne utilise la recherche avancée et tente de modifier ou de m
 
 **L’aperçu de l’image dans les mises à jour est flou**
 
-Lorsqu’un utilisateur consulte les mises à jour et clique sur la loupe d’une image pour prévisualiser l’image, l’aperçu qui s’ouvre est extrêmement flou pixellisé.
+Lorsqu’un utilisateur ou une utilisatrice affiche les mises à jour et clique sur la loupe d’une image pour la prévisualiser, la prévisualisation qui s’ouvre est extrêmement floue et pixellisée.
 
-Si l’utilisateur télécharge l’image, celle-ci s’affiche à la résolution attendue.
+Si l’utilisateur ou l’utilisatrice télécharge l’image, celle-ci s’affiche à la résolution attendue.
 
 **&quot;[!UICONTROL Nous ne pouvons pas publier votre commentaire.]Message lors de la réponse**
 
-Lorsqu’un utilisateur tente de répondre à un message dans la nouvelle expérience de commentaire, la réponse n’est pas enregistrée et l’utilisateur voit le message suivant :
+Lorsqu’un utilisateur ou une utilisatrice tente de répondre à un message dans la nouvelle expérience de commentaire, la réponse n’est pas enregistrée et le message suivant s’affiche :
 
-&quot;[!UICONTROL Nous ne pouvons pas publier votre commentaire maintenant. Veuillez patienter un instant, puis réessayer.]&quot;
+« [!UICONTROL Nous ne pouvons pas publier votre commentaire maintenant. Patientez un instant, puis réessayez.] »
 
 +++
 
 +++**Mise à jour de maintenance le vendredi 4 avril 2024**
 
-### Mise à jour de maintenance le 4 avril 2024
+### Mise à jour de maintenance le 4 avril 2024
 
 #### Intégrations
 
-**Documents non joints lors de la création d’une requête à partir de[!DNL Outlook]**
+**Documents non joints lors de la création d’une requête à partir d’[!DNL Outlook]**
 
 Lorsqu’un utilisateur ou une utilisatrice crée une requête à partir d’[!DNL Outlook], les documents joints à l’e-mail ne sont pas joints à la requête.
 
@@ -91,7 +91,7 @@ PDF
 
 #### Heure de connexion
 
-**L’utilisateur ne peut pas consigner l’heure du jour en cours.**
+**La personne ne peut pas consigner les heures pour le jour en cours.**
 
 Lorsqu’une personne tente de consigner les heures dans la zone Mises à jour, le jour en cours est grisé et l’action est impossible.
 
@@ -101,9 +101,9 @@ Lorsqu’une personne tente de consigner les heures dans la zone Mises à jour, 
 
 **Erreur lors de l’affichage des commentaires**
 
-Lorsqu’un utilisateur tente d’afficher des commentaires dans la nouvelle expérience de commentaire, il ne peut pas voir les commentaires, mais plutôt voir l’erreur suivante :
+Lorsqu’une personne tente d’afficher des commentaires dans la nouvelle expérience de commentaire, elle ne peut pas voir les commentaires, mais voit plutôt l’erreur suivante :
 
-&quot;Quelque chose s&#39;est mal passé. Veuillez réessayer plus tard.&quot;
+« Un problème est survenu. Réessayez plus tard. »
 
 L’expérience de commentaire héritée fonctionne comme prévu.
 
@@ -117,7 +117,7 @@ L’expérience de commentaire héritée fonctionne comme prévu.
 
 #### Intégrations
 
-**Documents non joints lors de la création d’une requête à partir de[!DNL Outlook]**
+**Documents non joints lors de la création d’une requête à partir d’[!DNL Outlook]**
 
 Lorsqu’un utilisateur ou une utilisatrice crée une requête à partir d’[!DNL Outlook], les documents joints à l’e-mail ne sont pas joints à la requête.
 
@@ -128,13 +128,13 @@ PDF
 
 #### Épreuves
 
-**Les bons à tirer restent sur le widget Mes approbations**
+**Les épreuves restent sur le widget Mes approbations.**
 
 Une épreuve qui doit disparaître du widget Mes approbations reste sur le widget. Cela peut se produire lorsque plusieurs utilisateurs et utilisatrices prennent des décisions sur une épreuve en même temps, ou qu’un utilisateur ou une utilisatrice prend une décision et la modifie rapidement.
 
 #### Gestion des ressources
 
-**Incohérence dans les heures budgétaires**
+**Incohérence dans les heures budgétées**
 
 Les heures budgétées affichées dans l’une des zones suivantes peuvent ne pas correspondre à celles affichées dans une autre de ces zones :
 
@@ -144,19 +144,19 @@ Les heures budgétées affichées dans l’une des zones suivantes peuvent ne pa
 
 #### Tâches
 
-**L’info-bulle du prédécesseur n’affiche pas le nom de la tâche**
+**L’info-bulle de la tâche antérieure n’affiche pas le nom de la tâche.**
 
 Lorsqu’un utilisateur ou une utilisatrice consulte une liste de tâches et passe la souris sur l’icône d’une tâche antérieure pour obtenir davantage d’informations, l’info-bulle qui s’affiche n’affiche pas le nom de la tâche antérieure.
 
 #### Mises à jour
 
-**Les commentaires de document n’apparaissent pas dans les mises à jour de l’objet parent**
+**Les commentaires de document n’apparaissent pas dans les mises à jour de l’objet parent.**
 
 Lorsqu’une personne fait un commentaire sur un document, ce commentaire n’apparaît pas immédiatement dans la zone Mises à jour de l’objet parent du document.
 
 Le problème a été signalé dans la nouvelle expérience de commentaire. Les commentaires s’affichent dans l’expérience de commentaire héritée comme prévu.
 
-**Le balisage d’un utilisateur est inefficace**
+**Taguer une personne ne fonctionne pas**
 
 Lorsqu’une personne est balisée dans un commentaire, ce dernier n’est pas visible par la personne. De plus, la personne balisée n’est pas informée du commentaire, que ce soit par e-mail ou par le biais d’une notification in-app.
 
@@ -166,9 +166,9 @@ Ce problème a été signalé dans la nouvelle expérience de commentaire.
 
 +++**Mise à jour de maintenance de Workfront Fusion le vendredi 28 mars 2024**
 
-### Mise à jour de la maintenance de la fusion Workfront le 28 mars 2024
+### Mise à jour de maintenance de Workfront Fusion le 28 mars 2024
 
-**RuntimeError avec réponse 200 du module Workfront**
+**RuntimeError avec réponse 200 du module Workfront**
 
 Un module Workfront peut renvoyer une réponse `RuntimeError [200]`. La réponse 200 implique une réponse réussie, mais l’erreur indique que la requête a échoué.
 

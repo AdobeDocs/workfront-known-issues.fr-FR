@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 60e9862aba0f65c1cef053823d3778d3c925c23e
 workflow-type: tm+mt
 source-wordcount: '868'
-ht-degree: 82%
+ht-degree: 91%
 
 ---
 
@@ -42,17 +42,17 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [Bons à tirer : les bons à tirer créés à partir de ressources d’intégration ne sont pas correctement appliqués aux modèles et aux workflows](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md) | mardi 15 avril 2024 |
 | [Demandes : erreur lors de l’ouverture d’un brouillon](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | samedi 12 avril 2024 |
 | [Listes : la liste n’affiche pas tous les éléments](known-issues-workfront/wf-lists-does-not-display-all.md) | samedi 12 avril 2024 |
-| [Workfront Proof : les signatures électroniques ne fonctionnent pas](known-issues-workfront-proof/proof-esignatures-not-working.md) | samedi 12 avril 2024 |
+| [Workfront Proof : les signatures électroniques ne fonctionnent pas.](known-issues-workfront-proof/proof-esignatures-not-working.md) | samedi 12 avril 2024 |
 | [Équipes : impossible d’afficher le propriétaire de l’équipe ou de supprimer l’équipe](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | vendredi 11 avril 2024 |
 | [Requêtes : le champ calculé ne se met pas à jour lors du remplissage de la requête.](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | mercredi 9 avril 2024 |
-| [Bons à tirer : BAT empêche la conversion de la tâche ou du problème en projet.](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | samedi 5 avril 2024 |
-| [Mises à jour : les commentaires n’affichent pas &quot;[!UICONTROL au nom de]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | vendredi 4 avril 2024 |
-| [Calendriers : erreur lors de l’actualisation du calendrier](known-issues-workfront/wf-calendar-error-when-refresh.md) | vendredi 4 avril 2024 |
-| [Mises à jour : le texte n’est pas conservé lorsque vous quittez le site pour revenir en commentaire.](known-issues-workfront/wf-updates-text-missing-after-mention.md) | vendredi 4 avril 2024 |
-| [Tâches : erreur Bizcontext lors de l’ajout ou de la suppression d’une tâche](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | vendredi 4 avril 2024 |
-| [Tâches : les informations du prédécesseur n’incluent pas de lien](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | vendredi 4 avril 2024 |
-| [Durée de journalisation : impossible de modifier les heures sur les tâches ou les problèmes.](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | vendredi 4 avril 2024 |
-| [Formulaires personnalisés : les champs de recherche externes ne renvoient pas de résultats](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md) | vendredi 4 avril 2024 |
+| [Épreuves : l’épreuve empêche la conversion de la tâche ou du problème en projet.](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | samedi 5 avril 2024 |
+| [Mises à jour : les commentaires n’affichent pas « [!UICONTROL Pour le compte de] ».](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | vendredi 4 avril 2024 |
+| [Calendriers : erreur lors de l’actualisation du calendrier](known-issues-workfront/wf-calendar-error-when-refresh.md) | vendredi 4 avril 2024 |
+| [Mises à jour : le texte n’est pas conservé lorsque vous quittez le site et y revenez pour commenter.](known-issues-workfront/wf-updates-text-missing-after-mention.md) | vendredi 4 avril 2024 |
+| [Tâches : erreur bizContext lors de l’ajout ou de la suppression d’une tâche](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | vendredi 4 avril 2024 |
+| [Tâches : les informations sur la tâche antérieure n’incluent pas de lien.](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | vendredi 4 avril 2024 |
+| [Consignation de temps : impossible de modifier les heures sur les tâches ou les problèmes](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | vendredi 4 avril 2024 |
+| [Formulaires personnalisés : les champs de recherche externes ne renvoient pas de résultats.](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md) | vendredi 4 avril 2024 |
 | [Agile : les cartes Kanban n’affichent pas les champs personnalisés](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | vendredi 28 mars 2024 |
 | [Projet : impossible de convertir le problème en projet si l’épreuve web est jointe](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | samedi 22 mars 2024 |
 | [Mises à jour : les utilisateurs du demandeur ne peuvent pas ajouter d’images aux mises à jour.](known-issues-workfront/wf-updates-requestors-not-add-image.md) | samedi 8 mars 2024 |
@@ -69,7 +69,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Rapports : le filtre de rapport ne renvoie pas les résultats attendus](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md) | mardi 1 avril 2024 |
+| [Rapports : le filtre de rapports ne renvoie pas les résultats attendus.](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md) | mardi 1 avril 2024 |
 | [Configuration : impossible d’utiliser les [!UICONTROL Démarrages rapides] pour créer des regroupements](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md) | vendredi 30 novembre 2023 |
 | [BAT : erreur lors du partage du BAT à partir du lien dans l’e-mail](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 16 novembre 2023 |
 | [Workfront Fusion : duplication de projets créés à partir d’un seul module](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 9 novembre 2023 |

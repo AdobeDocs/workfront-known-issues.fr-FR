@@ -5,7 +5,7 @@ role: User
 source-git-commit: 60e9862aba0f65c1cef053823d3778d3c925c23e
 workflow-type: tm+mt
 source-wordcount: '1670'
-ht-degree: 89%
+ht-degree: 96%
 
 ---
 
@@ -24,21 +24,21 @@ ht-degree: 89%
       + [Listes : la liste n’affiche pas tous les éléments](known-issues-workfront/wf-lists-does-not-display-all.md)
       + [Équipes : impossible d’afficher le propriétaire de l’équipe ou de supprimer l’équipe](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [Requêtes : le champ calculé ne se met pas à jour lors du remplissage de la requête.](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
-      + [Bons à tirer : BAT empêche la conversion de la tâche ou du problème en projet.](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
+      + [Épreuves : l’épreuve empêche la conversion de la tâche ou du problème en projet.](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
       + [Rapports : erreur 500 lors de l’export d’un rapport](known-issues-workfront/wf-reports-500-error-exporting.md)
-      + [Mises à jour : &quot;[!UICONTROL Nous ne pouvons pas publier votre commentaire.]Message lors de la réponse](known-issues-workfront/wf-updates-were-unable-to-post.md)
-      + [Mises à jour : les commentaires n’affichent pas &quot;[!UICONTROL au nom de]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md)
-      + [Calendriers : erreur lors de l’actualisation du calendrier](known-issues-workfront/wf-calendar-error-when-refresh.md)
-      + [Mises à jour : le texte n’est pas conservé lorsque vous quittez le site pour revenir en commentaire.](known-issues-workfront/wf-updates-text-missing-after-mention.md)
-      + [Tâches : erreur Bizcontext lors de l’ajout ou de la suppression d’une tâche](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
-      + [Tâches : les informations du prédécesseur n’incluent pas de lien](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md)
-      + [Workfront Proof : les signatures électroniques ne fonctionnent pas](known-issues-workfront-proof/proof-esignatures-not-working.md)
-      + [Modèle de mise en page : la landing page est incorrecte](known-issues-workfront/wf-layout-template-set-to-home-not-request.md)
-      + [Durée de journalisation : impossible de modifier les heures sur les tâches ou les problèmes.](known-issues-workfront/wf-logging-time-cannot-edit-hours.md)
-      + [Formulaires personnalisés : les champs de recherche externes ne renvoient pas de résultats](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md)
-      + [Mises à jour : l’aperçu de l’image dans les mises à jour est flou.](known-issues-workfront/wf-updates-images-blurred.md)
-      + [Rapports : le filtre de rapport ne renvoie pas les résultats attendus](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
-      + [Panoramas : l’utilisateur ne peut pas voir le panorama lorsque l’équipe de l’utilisateur est ajoutée au panorama.](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md)
+      + [Mises à jour : message « [!UICONTROL Nous ne pouvons pas publier votre commentaire.] » lors de la réponse](known-issues-workfront/wf-updates-were-unable-to-post.md)
+      + [Mises à jour : les commentaires n’affichent pas « [!UICONTROL Pour le compte de] »](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md)
+      + [Calendriers : erreur lors de l’actualisation du calendrier](known-issues-workfront/wf-calendar-error-when-refresh.md)
+      + [Mises à jour : le texte n’est pas conservé lorsque vous quittez le site et y revenez pour commenter.](known-issues-workfront/wf-updates-text-missing-after-mention.md)
+      + [Tâches : erreur bizContext lors de l’ajout ou de la suppression d’une tâche](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
+      + [Tâches : les informations sur la tâche antérieure n’incluent pas de lien.](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md)
+      + [Workfront Proof : les signatures électroniques ne fonctionnent pas.](known-issues-workfront-proof/proof-esignatures-not-working.md)
+      + [Modèle de disposition : la page de destination est incorrecte.](known-issues-workfront/wf-layout-template-set-to-home-not-request.md)
+      + [Consignation de temps : impossible de modifier les heures sur les tâches ou les problèmes](known-issues-workfront/wf-logging-time-cannot-edit-hours.md)
+      + [Formulaires personnalisés : les champs de recherche externes ne renvoient pas de résultats.](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md)
+      + [Mises à jour : la prévisualisation de l’image dans les mises à jour est floue.](known-issues-workfront/wf-updates-images-blurred.md)
+      + [Rapports : le filtre de rapports ne renvoie pas les résultats attendus.](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
+      + [Panoramas : l’utilisateur ou l’utilisatrice ne peut pas voir le panorama lorsque l’équipe de l’utilisateur ou de l’utilisatrice est ajoutée au panorama.](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md)
       + [Agile : les cartes Kanban n’affichent pas les champs personnalisés](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
       + [Épreuves : les épreuves restent sur le widget Mes approbations](known-issues-workfront/wf-proofs-stuck-on-widget.md)
       + [Projet : impossible de convertir le problème en projet si l’épreuve web est jointe](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
