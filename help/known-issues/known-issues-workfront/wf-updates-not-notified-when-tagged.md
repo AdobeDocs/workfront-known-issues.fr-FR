@@ -4,9 +4,9 @@ description: « Lorsqu’une personne est balisée dans un commentaire, ce dern
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '101'
+ht-degree: 100%
 
 ---
 

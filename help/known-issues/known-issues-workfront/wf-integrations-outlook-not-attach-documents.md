@@ -1,13 +1,13 @@
 ---
-title: "Intégrations : documents non joints lors de la création d’une demande d’Outlook"
-description: Lorsqu’un utilisateur crée une requête à partir d’Outlook, les documents joints au courrier électronique ne sont pas joints à la requête.
+title: '« Intégrations : documents non joints lors de la création d’une requête à partir d’Outlook »'
+description: Lorsqu’un utilisateur ou une utilisatrice crée une requête à partir d’Outlook, les documents joints à l’e-mail ne sont pas joints à la requête.
 hidefromtoc: true
 feature: Workfront Integrations and Apps
 exl-id: 2b09df99-7ba0-4e08-a3c7-a472e12c5970
 source-git-commit: 01a30a5a94fa733b24bf78fc425f72ac92f5aeea
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 

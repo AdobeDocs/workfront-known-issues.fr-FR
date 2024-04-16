@@ -1,13 +1,13 @@
 ---
-title: "Bons à tirer : les options de validation n’apparaissent pas dans la visionneuse de BAT"
-description: Lorsqu’un utilisateur tente d’approuver un BAT dans la visionneuse de BAT, peu après que la validation a été demandée, les options de validation ne sont pas visibles et l’utilisateur ne peut pas approuver le BAT. Les options d’approbation apparaissent plusieurs heures après la demande d’approbation.
+title: '« Épreuves : les options d’approbation n’apparaissent pas dans la visionneuse de relecture. »'
+description: Lorsqu’un utilisateur ou une utilisatrice tente d’approuver une épreuve dans la visionneuse de relecture de bureau peu de temps après la demande d’approbation, les options d’approbation ne s’affichent pas et l’utilisateur ou l’utilisatrice ne peut pas approuver l’épreuve. Les options d’approbation apparaissent plusieurs heures après la demande d’approbation.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 17e0aa9a-d7f6-490a-b491-ef74371b787e
 source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '146'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 

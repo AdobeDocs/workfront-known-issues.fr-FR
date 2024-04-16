@@ -1,13 +1,13 @@
 ---
-title: 'Bons à tirer : problèmes de traitement des fichiers statiques'
+title: '« Épreuves : problèmes de traitement des fichiers statiques »'
 description: Workfront a récemment changé son outil de traitement des BAT d’un fournisseur tiers en solution interne et a découvert des incohérences entre les fonctionnalités des deux systèmes. Ces incohérences peuvent entraîner des problèmes lors du traitement des fichiers statiques, en particulier des fichiers PDF, Word et PPT. Une solution de contournement est disponible.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: b2b6ba28-6bc3-4a74-9b25-74cc77659631
 source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '151'
+ht-degree: 100%
 
 ---
 

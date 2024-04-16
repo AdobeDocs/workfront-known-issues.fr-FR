@@ -1,19 +1,18 @@
 ---
-title: "Tâches : erreur Bizcontext lors de l’ajout ou de la suppression d’une tâche"
-description: "Lorsqu’un utilisateur tente d’ajouter ou de supprimer une tâche, celle-ci n’est ni ajoutée ni supprimée, et l’utilisateur voit une erreur Bizcontext."
+title: '« Tâches : erreur bizContext lors de l’ajout ou de la suppression d’une tâche »'
+description: Lorsqu’un utilisateur ou une utilisatrice tente d’ajouter ou de supprimer une tâche, celle-ci n’est pas ajoutée ou supprimée, et une erreur bizContext s’affiche.
 hidefromtoc: true
 feature: Tasks
-source-git-commit: ba35f0961af20753c8b902a46d47dbe45ad3262b
-workflow-type: tm+mt
+exl-id: 581a73c4-2743-473b-9c42-84591e5800a1
+source-git-commit: 0427b092610f78a7d33fd2b2606ac2b5e9f5f270
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
+# Tâches : erreur bizContext lors de l’ajout ou de la suppression d’une tâche
 
-# Tâches : erreur Bizcontext lors de l’ajout ou de la suppression d’une tâche
-
-Lorsqu’un utilisateur tente d’ajouter ou de supprimer une tâche, celle-ci n’est pas ajoutée ni supprimée, et l’utilisateur voit une erreur Bizcontext.
+Lorsqu’un utilisateur ou une utilisatrice tente d’ajouter ou de supprimer une tâche, celle-ci n’est pas ajoutée ou supprimée, et une erreur bizContext s’affiche.
 
 _Premier signalement le vendredi 7 mars 2024._
-

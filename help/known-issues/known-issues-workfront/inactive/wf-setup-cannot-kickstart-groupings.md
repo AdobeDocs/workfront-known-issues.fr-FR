@@ -1,15 +1,15 @@
 ---
-title: '« Configuration : impossible d’utiliser les [!UICONTROL Démarrages] pour configurer des regroupements »'
-description: « Lorsqu’un utilisateur ou une utilisatrice tente de [!UICONTROL Démarrer] un regroupement, l’import échoue et un message d’erreur s’affiche. »
+title: '« Configuration : impossible d’utiliser [!UICONTROL Kickstarts] pour configurer des regroupements »'
+description: Lorsqu’un utilisateur ou une utilisatrice tente un [!UICONTROL Kickstart] sur un regroupement, l’import échoue et un message d’erreur s’affiche.
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 52b204d63eda7752c90a4481aa2050e695cd4cc7
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+exl-id: e1b0ba88-0af7-432f-89db-de4f50b20ff6
+source-git-commit: 9457b520c469c729f8727b1efd21bbde117b9546
+workflow-type: ht
+source-wordcount: '164'
+ht-degree: 100%
 
 ---
-
 
 # Configuration : impossible d’utiliser les [!UICONTROL Démarrages] pour configurer des regroupements
 

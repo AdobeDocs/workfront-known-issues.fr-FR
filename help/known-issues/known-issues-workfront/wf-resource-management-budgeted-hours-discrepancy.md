@@ -1,13 +1,13 @@
 ---
-title: "Gestion des ressources : décalage dans les heures budgétaires"
+title: '« Gestion des ressources : incohérence dans les heures budgétées »'
 description: Les heures budgétées affichées dans une zone de Workfront peuvent ne pas correspondre à celles affichées dans une autre zone.
 hidefromtoc: true
 feature: Resource Management
 exl-id: 67d7f36e-f40c-4eee-92a0-fe1625c9b486
 source-git-commit: 9457b520c469c729f8727b1efd21bbde117b9546
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
-title: '''Bons à tirer : les BAT créés à partir de documents liés n''ont pas de modèle de BAT appliqué'''
+title: '« Épreuves : les épreuves créées à partir de documents liés n’ont pas de modèle d’épreuve appliqué. »'
 description: Lorsqu’une personne crée une épreuve à partir d’un document lié, le modèle d’épreuve n’est pas correctement appliqué, et des informations peuvent manquer, comme le workflow, par exemple.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 62554ced-5262-45d0-9c6b-54eb3689b9dd
 source-git-commit: 50f79121e0b027c3f0283cd43d19c885dde8268b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
