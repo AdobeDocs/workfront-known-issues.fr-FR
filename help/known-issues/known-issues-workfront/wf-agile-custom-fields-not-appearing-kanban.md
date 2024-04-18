@@ -4,14 +4,18 @@ description: Lorsqu’un utilisateur ou une utilisatrice consulte un panorama Ka
 hidefromtoc: true
 feature: Agile
 exl-id: b1f94663-78ee-4e1d-bc14-9453cbde4753
-source-git-commit: 7aba3a4ce3e0436a8fd9850197bc44da9dafe347
-workflow-type: ht
-source-wordcount: '64'
+source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
+workflow-type: tm+mt
+source-wordcount: '70'
 ht-degree: 100%
 
 ---
 
 # Agile : les cartes Kanban n’affichent pas les champs personnalisés
+
+>[!NOTE]
+>
+>Ce problème a été résolu le vendredi 18 avril 2024.
 
 Lorsqu’un utilisateur ou une utilisatrice consulte un panorama Kanban configuré pour inclure des champs personnalisés, ces champs personnalisés peuvent ne pas s’afficher.
 
