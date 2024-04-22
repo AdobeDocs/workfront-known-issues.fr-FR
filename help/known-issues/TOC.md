@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: f74b96cf43d997780cccbacb7606583dae7bf9a1
+source-git-commit: 4a2f09f2f116dfdb2a91f61d83422dc54158f4fd
 workflow-type: tm+mt
-source-wordcount: '1697'
-ht-degree: 94%
+source-wordcount: '1719'
+ht-degree: 93%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Notifications : les notifications de la version bêta des approbations de documents ne sont pas correctement formatées.](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md)
+      + [Panoramas : la carte revient brièvement à la colonne d’origine](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md)
+      + [Accueil : le widget Validations n’est pas exact](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
       + [Projets, tâches et problèmes : les autorisations héritées ne s’affichent pas.](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md)
       + [Mises à jour : le lien dans le commentaire est envoyé à l’écran vide.](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
       + [Demandes : impossible de partager le chemin d’accès à la file d’attente des demandes](known-issues-workfront/wf-requests-cannot-share-path.md)

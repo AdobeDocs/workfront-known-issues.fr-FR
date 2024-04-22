@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f74b96cf43d997780cccbacb7606583dae7bf9a1
+source-git-commit: 4a2f09f2f116dfdb2a91f61d83422dc54158f4fd
 workflow-type: tm+mt
-source-wordcount: '867'
-ht-degree: 90%
+source-wordcount: '855'
+ht-degree: 89%
 
 ---
 
@@ -25,6 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Notifications : les notifications de la version bêta des approbations de documents ne sont pas correctement formatées.](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | mardi 22 avril 2024 |
 | [Mises à jour : le lien dans le commentaire est envoyé à l’écran vide.](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | vendredi 18 avril 2024 |
 | [Mises à jour : les commentaires effectués par le biais de l’API ne sont pas visibles dans l’environnement Sandbox.](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md) | mardi 15 avril 2024 |
 | [Tâches : la création ou la duplication de tâches entraîne l’affichage de la liste de tâches dans un ordre incorrect.](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | mardi 26 février 2024 |
@@ -39,11 +40,9 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
-| [Projets, tâches et problèmes : les autorisations héritées ne s’affichent pas.](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md) | samedi 19 avril 2024 |
-| [Demandes : impossible de partager le chemin d’accès à la file d’attente des demandes](known-issues-workfront/wf-requests-cannot-share-path.md) | vendredi 18 avril 2024 |
+| [Panoramas : la carte revient brièvement à la colonne d’origine](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md) | mardi 22 avril 2024 |
+| [Accueil : le widget Validations n’est pas exact](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | mardi 22 avril 2024 |
 | [Utilisateurs : impossible de supprimer des utilisateurs](known-issues-workfront/wf-users-unable-to-delete-users.md) | vendredi 18 avril 2024 |
-| [Mises à jour : message « [!UICONTROL Nous ne pouvons pas publier votre commentaire.] » lors de la réponse](known-issues-workfront/wf-updates-were-unable-to-post.md) | vendredi 18 avril 2024 |
-| [Mises à jour : la prévisualisation de l’image dans les mises à jour est floue.](known-issues-workfront/wf-updates-images-blurred.md) | vendredi 18 avril 2024 |
 | [Panoramas : les totaux des listes de contrôle ne sont pas exacts.](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | vendredi 18 avril 2024 |
 | [Mises à jour : les listes numérotées ne sont pas numérotées correctement](known-issues-workfront/wf-updates-not-numbering-correctly.md) | mardi 15 avril 2024 |
 | [Demandes : erreur lors de l’ouverture d’un brouillon](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | samedi 12 avril 2024 |
