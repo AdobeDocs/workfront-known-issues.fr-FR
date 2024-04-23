@@ -5,7 +5,7 @@ role: User
 source-git-commit: 4a2f09f2f116dfdb2a91f61d83422dc54158f4fd
 workflow-type: tm+mt
 source-wordcount: '1719'
-ht-degree: 93%
+ht-degree: 97%
 
 ---
 
@@ -24,13 +24,13 @@ ht-degree: 93%
       + [Mises à jour : le lien dans le commentaire est envoyé à l’écran vide.](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
       + [Demandes : impossible de partager le chemin d’accès à la file d’attente des demandes](known-issues-workfront/wf-requests-cannot-share-path.md)
       + [Utilisateurs : impossible de supprimer des utilisateurs](known-issues-workfront/wf-users-unable-to-delete-users.md)
-      + [Mises à jour : les commentaires effectués par le biais de l’API ne sont pas visibles dans l’environnement Sandbox.](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
-      + [Mises à jour : les listes numérotées ne sont pas numérotées correctement](known-issues-workfront/wf-updates-not-numbering-correctly.md)
-      + [Bons à tirer : les bons à tirer créés à partir de ressources d’intégration ne sont pas correctement appliqués aux modèles et aux workflows](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
-      + [Demandes : erreur lors de l’ouverture d’un brouillon](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
-      + [Listes : la liste n’affiche pas tous les éléments](known-issues-workfront/wf-lists-does-not-display-all.md)
-      + [Équipes : impossible d’afficher le propriétaire de l’équipe ou de supprimer l’équipe](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
-      + [Requêtes : le champ calculé ne se met pas à jour lors du remplissage de la requête.](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
+      + [Mises à jour : les commentaires effectués par le biais de l’API ne sont pas visibles dans l’environnement Sandbox.](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
+      + [Mises à jour : les listes numérotées ne sont pas numérotées correctement.](known-issues-workfront/wf-updates-not-numbering-correctly.md)
+      + [Les épreuves créées à partir des ressources d’intégration n’ont pas les modèles et workflows correctement appliqués.](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
+      + [Demandes : erreur lors de l’ouverture du brouillon](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
+      + [Listes : la liste n’affiche pas tous les éléments.](known-issues-workfront/wf-lists-does-not-display-all.md)
+      + [Équipes : impossible d’afficher la personne propriétaire de l’équipe ou de supprimer l’équipe](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
+      + [Demandes : le champ calculé ne se met pas à jour lors du remplissage de la demande.](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
       + [Épreuves : l’épreuve empêche la conversion de la tâche ou du problème en projet.](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
       + [Rapports : erreur 500 lors de l’export d’un rapport](known-issues-workfront/wf-reports-500-error-exporting.md)
       + [Mises à jour : message « [!UICONTROL Nous ne pouvons pas publier votre commentaire.] » lors de la réponse](known-issues-workfront/wf-updates-were-unable-to-post.md)

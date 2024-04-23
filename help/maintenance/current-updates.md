@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 2656fd578ee38e6dcdd9e8de9e83f5472656bf78
 workflow-type: tm+mt
 source-wordcount: '3258'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -68,13 +68,13 @@ Lorsqu’une personne utilise la recherche avancée et tente de modifier ou de m
 
 #### Mises à jour
 
-**L’aperçu de l’image dans les mises à jour est flou**
+**La prévisualisation de l’image dans les mises à jour est floue.**
 
 Lorsqu’un utilisateur ou une utilisatrice affiche les mises à jour et clique sur la loupe d’une image pour la prévisualiser, la prévisualisation qui s’ouvre est extrêmement floue et pixellisée.
 
 Si l’utilisateur ou l’utilisatrice télécharge l’image, celle-ci s’affiche à la résolution attendue.
 
-**&quot;[!UICONTROL Nous ne pouvons pas publier votre commentaire.]Message lors de la réponse**
+**Message « [!UICONTROL Nous ne pouvons pas publier votre commentaire.] » lors de la réponse**
 
 Lorsqu’un utilisateur ou une utilisatrice tente de répondre à un message dans la nouvelle expérience de commentaire, la réponse n’est pas enregistrée et le message suivant s’affiche :
 
@@ -94,13 +94,13 @@ Lorsqu’une personne utilise la recherche avancée et tente de modifier ou de m
 
 #### Mises à jour
 
-**L’aperçu de l’image dans les mises à jour est flou**
+**La prévisualisation de l’image dans les mises à jour est floue.**
 
 Lorsqu’un utilisateur ou une utilisatrice affiche les mises à jour et clique sur la loupe d’une image pour la prévisualiser, la prévisualisation qui s’ouvre est extrêmement floue et pixellisée.
 
 Si l’utilisateur ou l’utilisatrice télécharge l’image, celle-ci s’affiche à la résolution attendue.
 
-**&quot;[!UICONTROL Nous ne pouvons pas publier votre commentaire.]Message lors de la réponse**
+**Message « [!UICONTROL Nous ne pouvons pas publier votre commentaire.] » lors de la réponse**
 
 Lorsqu’un utilisateur ou une utilisatrice tente de répondre à un message dans la nouvelle expérience de commentaire, la réponse n’est pas enregistrée et le message suivant s’affiche :
 
