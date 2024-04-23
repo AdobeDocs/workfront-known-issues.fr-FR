@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2e1c28291232d0401c2c01568b10efa23db88996
+source-git-commit: 043a5f09a50fa2d4e8c1f0a6448101269df73368
 workflow-type: tm+mt
-source-wordcount: '867'
-ht-degree: 96%
+source-wordcount: '869'
+ht-degree: 95%
 
 ---
 
@@ -40,6 +40,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
+| [Panoramas : les champs natifs de Workfront ne s’affichent pas sur les cartes](known-issues-workfront/wf-boards-native-fields-not-display.md) | mercredi 23 avril 2024 |
 | [Projet : impossible de convertir le problème en projet si l’épreuve web est jointe](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | mercredi 23 avril 2024 |
 | [Panoramas : la carte revient brièvement à la colonne d’origine](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md) | mardi 22 avril 2024 |
 | [Accueil : le widget Validations n’est pas exact](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | mardi 22 avril 2024 |
@@ -54,7 +55,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [Mises à jour : les commentaires n’affichent pas « [!UICONTROL Pour le compte de] ».](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | vendredi 4 avril 2024 |
 | [Mises à jour : le texte n’est pas conservé lorsque vous quittez le site et y revenez pour commenter.](known-issues-workfront/wf-updates-text-missing-after-mention.md) | vendredi 4 avril 2024 |
 | [Tâches : erreur bizContext lors de l’ajout ou de la suppression d’une tâche](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | vendredi 4 avril 2024 |
-| [Tâches : les informations sur la tâche antérieure n’incluent pas de lien.](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | vendredi 4 avril 2024 |
 | [Consignation de temps : impossible de modifier les heures sur les tâches ou les problèmes](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | vendredi 4 avril 2024 |
 | [Mises à jour : les utilisateurs Demandeur et utilisatrices Demandeuse ne peuvent pas ajouter d’images aux mises à jour.](known-issues-workfront/wf-updates-requestors-not-add-image.md) | samedi 8 mars 2024 |
 | [Panoramas : problèmes liés aux cartes en double](known-issues-workfront/wf-boards-some-cards-duplicated.md) | vendredi 22 février 2024 |
