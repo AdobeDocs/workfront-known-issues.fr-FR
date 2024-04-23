@@ -1,13 +1,13 @@
 ---
-title: "Recherche : impossible de modifier à partir de la recherche"
+title: '« Recherche : impossible de modifier à partir de la recherche »'
 description: Lorsqu’une personne utilise la recherche avancée et tente de modifier ou de modifier en masse les résultats de la recherche, l’icône Modifier ne répond pas.
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: af302be1-91d1-4f42-8d7d-0d9f85d29131
 source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
