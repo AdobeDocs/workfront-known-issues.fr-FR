@@ -1,15 +1,15 @@
 ---
 title: "Intégrations : le nom de fichier est nul lorsqu’il est envoyé à AEM via l’intégration"
-description: '"Lorsqu’un fichier volumineux (plus de 100 Mo) est envoyé à Adobe Experience Manager via l’intégration Workfront, le nom de fichier dans AEM est nul.  »'
+description: '''Lorsqu’un fichier volumineux (plus de 100 Mo) est envoyé à Adobe Experience Manager via l’intégration Workfront, le nom de fichier dans AEM est nul.  »'
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents
-source-git-commit: 06a9c8dbbf73b6ee39e529c21248a3fc372cb252
+exl-id: c2d15424-ae04-414f-9384-a7b083212313
+source-git-commit: 2110bda5b8f0bec53c0503ce6b3f8da6fce693ca
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 10%
 
 ---
-
 
 # Intégrations : le nom de fichier est &quot;nul&quot; lorsqu’il est envoyé à AEM via l’intégration
 
@@ -25,3 +25,4 @@ Utilisez l’une des méthodes suivantes :
 * Saisissez le nom du fichier directement dans AEM.
 
 _Premier signalement le mercredi 23 avril 2024._
+
