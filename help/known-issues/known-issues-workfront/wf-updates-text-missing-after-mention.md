@@ -3,15 +3,19 @@ title: '« Mises à jour : le texte n’est pas conservé lorsque vous quittez
 description: « Lorsqu’une personne écrit un commentaire qui comprend une @mention, qu’elle quitte puis revient au commentaire avant de l’envoyer, tout le texte saisi après @mention est absent du brouillon du commentaire. »
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: ba35f0961af20753c8b902a46d47dbe45ad3262b
-workflow-type: ht
-source-wordcount: '111'
+source-git-commit: c22214e36abeed0657e1bc74c9da9f7afd376819
+workflow-type: tm+mt
+source-wordcount: '117'
 ht-degree: 100%
 
 ---
 
 
 # Mises à jour : le texte n’est pas conservé lorsque vous quittez le site et y revenez pour commenter.
+
+>[!NOTE]
+>
+>Ce problème a été résolu le vendredi 25 avril 2024.
 
 Lorsqu’une personne écrit un commentaire qui comprend une @mention, qu’elle quitte puis revient au commentaire avant de l’envoyer, tout le texte saisi après @mention est absent du brouillon du commentaire.
 
