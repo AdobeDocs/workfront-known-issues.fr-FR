@@ -3,15 +3,19 @@ title: "Mises à jour : le lien dans le commentaire passe à l’écran vide"
 description: '"Lorsqu’un utilisateur clique sur un lien qui se trouve dans un commentaire, le lien dirige l’utilisateur vers un écran vide. Une solution de contournement est disponible. »'
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 38057e2464aa980e2c315a5ebb4b114fab529ced
+source-git-commit: 10d252df70fcbc0a5cd7903112c61272db9f12ae
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 11%
+source-wordcount: '87'
+ht-degree: 17%
 
 ---
 
 
 # Mises à jour : le lien dans le commentaire est envoyé à l’écran vide.
+
+>[!NOTE]
+>
+>Ce problème a été résolu le vendredi 25 avril 2024.
 
 Lorsqu’un utilisateur clique sur un lien contenu dans un commentaire, le lien le dirige vers un écran vide.
 
