@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: f0156064570a3b68fd9cbec2eed46c489f628ff1
 workflow-type: tm+mt
 source-wordcount: '841'
-ht-degree: 93%
+ht-degree: 96%
 
 ---
 
@@ -27,7 +27,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 | -----------------------------------------------------------------| ----------------- |
 | [Intégrations : le nom de fichier est &quot;nul&quot; lorsqu’il est envoyé à AEM via l’intégration](known-issues-workfront/wf-integrations-aem-filename-null.md) | jeudi 24 avril 2024 |
 | [Utilisateurs : impossible de modifier le niveau d’accès de l’utilisateur.](known-issues-workfront/wf-users-cannot-modify-access-level.md) | jeudi 24 avril 2024 |
-| [Notifications : les notifications de la version bêta des approbations de documents ne sont pas correctement formatées.](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | mardi 22 avril 2024 |
+| [Notifications : les notifications de la version bêta des approbations de documents ne sont pas correctement formatées.](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | mardi 22 avril 2024 |
 | [Tâches : la création ou la duplication de tâches entraîne l’affichage de la liste de tâches dans un ordre incorrect.](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | mardi 26 février 2024 |
 | [Épreuves : rendus des GIF en épreuves statiques](known-issues-workfront/wf-proofs-gif-static-image.md) | mercredi 23 janvier 2024 |
 | [Épreuve : échec de la génération des épreuves compressées.](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | mercredi 9 janvier 2024 |
@@ -43,9 +43,9 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [[!DNL Workfront Goals]: impossible de supprimer l’objectif](known-issues-workfront/wf-goals-cannot-delete-goal.md) | mardi 29 avril 2024 |
 | [Panoramas : les champs natifs de Workfront ne s’affichent pas sur les cartes](known-issues-workfront/wf-boards-native-fields-not-display.md) | mercredi 23 avril 2024 |
 | [Projet : impossible de convertir le problème en projet si l’épreuve web est jointe](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | mercredi 23 avril 2024 |
-| [Panoramas : la carte revient brièvement à la colonne d’origine](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md) | mardi 22 avril 2024 |
-| [Accueil : le widget Validations n’est pas exact](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | mardi 22 avril 2024 |
-| [Utilisateurs : impossible de supprimer des utilisateurs](known-issues-workfront/wf-users-unable-to-delete-users.md) | vendredi 18 avril 2024 |
+| [Panoramas : la carte revient brièvement à la colonne d’origine.](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md) | mardi 22 avril 2024 |
+| [Page d’accueil : le widget Approbations n’est pas exact.](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | mardi 22 avril 2024 |
+| [Utilisateurs et utilisatrices : impossible de supprimer des utilisateurs et utilisatrices](known-issues-workfront/wf-users-unable-to-delete-users.md) | vendredi 18 avril 2024 |
 | [Panoramas : les totaux des listes de contrôle ne sont pas exacts.](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | vendredi 18 avril 2024 |
 | [Demandes : erreur lors de l’ouverture du brouillon](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | samedi 12 avril 2024 |
 | [Équipes : impossible d’afficher la personne propriétaire de l’équipe ou de supprimer l’équipe](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | vendredi 11 avril 2024 |

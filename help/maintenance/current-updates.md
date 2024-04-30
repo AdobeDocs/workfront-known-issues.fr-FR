@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: b35ae8f1cff22e1cae974adc33c32e578d671dee
 workflow-type: tm+mt
 source-wordcount: '3396'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -62,7 +62,7 @@ Cela a été signalé dans la nouvelle expérience de commentaire.
 
 #### Agile
 
-**Les cartes Kanban n’affichent pas de champs personnalisés**
+**Les cartes Kanban n’affichent pas les champs personnalisés.**
 
 Lorsqu’un utilisateur ou une utilisatrice consulte un panorama Kanban configuré pour inclure des champs personnalisés, ces champs personnalisés peuvent ne pas s’afficher.
 
@@ -74,7 +74,7 @@ Lorsqu’un utilisateur ou une utilisatrice affiche un calendrier et actualise l
 
 #### Formulaires personnalisés dans mon groupe
 
-**Les champs de recherche externes ne renvoient pas de résultats**
+**Les champs de recherche externes ne renvoient pas de résultats.**
 
 Lorsqu’un champ de recherche externe fait référence à un champ à sélection multiple pour lequel une seule valeur est sélectionnée, le champ ne renvoie pas la valeur.
 
@@ -82,7 +82,7 @@ Par exemple, si un champ de recherche externe fait référence à un champ à s�
 
 #### Projets
 
-**Impossible de convertir le problème en projet si le BAT web est joint**
+**Impossible de convertir le problème en projet si l’épreuve web est jointe.**
 
 Lorsqu’un problème est associé à une épreuve web (une épreuve d’URL utilisant un lien d’un fournisseur de documents externe tel que SharePoint) et qu’un utilisateur ou une utilisatrice tente de convertir ce problème en projet, la conversion échoue et le projet n’est pas créé. L’utilisateur ou l’utilisatrice voit l’erreur suivante :
 

@@ -5,7 +5,7 @@ role: User
 source-git-commit: f0156064570a3b68fd9cbec2eed46c489f628ff1
 workflow-type: tm+mt
 source-wordcount: '1747'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -21,13 +21,13 @@ ht-degree: 95%
       + [Intégrations : le nom de fichier est &quot;nul&quot; lorsqu’il est envoyé à AEM via l’intégration](known-issues-workfront/wf-integrations-aem-filename-null.md)
       + [Utilisateurs : impossible de modifier le niveau d’accès de l’utilisateur.](known-issues-workfront/wf-users-cannot-modify-access-level.md)
       + [Panoramas : les champs natifs de Workfront ne s’affichent pas sur les cartes](known-issues-workfront/wf-boards-native-fields-not-display.md)
-      + [Notifications : les notifications de la version bêta des approbations de documents ne sont pas correctement formatées.](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md)
-      + [Panoramas : la carte revient brièvement à la colonne d’origine](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md)
-      + [Accueil : le widget Validations n’est pas exact](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
-      + [Projets, tâches et problèmes : les autorisations héritées ne s’affichent pas.](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md)
-      + [Mises à jour : le lien dans le commentaire est envoyé à l’écran vide.](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
-      + [Demandes : impossible de partager le chemin d’accès à la file d’attente des demandes](known-issues-workfront/wf-requests-cannot-share-path.md)
-      + [Utilisateurs : impossible de supprimer des utilisateurs](known-issues-workfront/wf-users-unable-to-delete-users.md)
+      + [Notifications : les notifications de la version bêta des approbations de documents ne sont pas correctement formatées.](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md)
+      + [Panoramas : la carte revient brièvement à la colonne d’origine.](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md)
+      + [Page d’accueil : le widget Approbations n’est pas exact.](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
+      + [Projets, tâches et problèmes : les autorisations héritées ne s’affichent pas.](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md)
+      + [Mises à jour : le lien dans le commentaire renvoie à un écran vide.](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
+      + [Demandes : impossible de partager le chemin d’accès à la file d’attente des demandes.](known-issues-workfront/wf-requests-cannot-share-path.md)
+      + [Utilisateurs et utilisatrices : impossible de supprimer des utilisateurs et utilisatrices](known-issues-workfront/wf-users-unable-to-delete-users.md)
       + [Mises à jour : les commentaires effectués par le biais de l’API ne sont pas visibles dans l’environnement Sandbox.](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
       + [Mises à jour : les listes numérotées ne sont pas numérotées correctement.](known-issues-workfront/wf-updates-not-numbering-correctly.md)
       + [Les épreuves créées à partir des ressources d’intégration n’ont pas les modèles et workflows correctement appliqués.](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
