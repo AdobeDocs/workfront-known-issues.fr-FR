@@ -3,7 +3,7 @@ title: "Bons à tirer : impossible de prendre des décisions sur l’étape de w
 description: '"Lorsqu’une étape de workflow automatisée est privée, les utilisateurs ne peuvent pas prendre de décisions de BAT à partir de l’étape Détails du document > Processus de BAT . Une solution de contournement est disponible. »'
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 051c814c32a75b6f2b51011166a78048d2cd5c2d
+source-git-commit: 1a27716e0c4b5b4bbbb838bd9e032ad33c84f62d
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 10%
@@ -22,3 +22,5 @@ Les décisions de BAT dans la visionneuse de BAT fonctionnent comme prévu.
 Utilisez la visionneuse de vérification pour prendre la décision.
 
 _Premier signalement le mercredi 23 avril 2024._
+
+
