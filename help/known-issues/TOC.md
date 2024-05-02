@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: a1347b75359d14302b377153570b0f9107d1eb87
+source-git-commit: 2a6c894c29a9dabddd40623fa23f24a72d883120
 workflow-type: tm+mt
-source-wordcount: '1768'
-ht-degree: 97%
+source-wordcount: '1788'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Mises à jour : le balisage d’un utilisateur avec @ dans le panneau Résumé est inefficace.](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md)
+      + [Projets : le projet créé avec le modèle ne correspond pas à la priorité du modèle.](known-issues-workfront/wf-projects-priority-does-not-match-template.md)
       + [Panoramas : l’élément Liste de contrôle ne reste pas coché](known-issues-workfront/wf-boards-checklist-item-unchecks.md)
       + [Projets : erreur lors du partage d’un projet](known-issues-workfront/wf-projects-error-when-sharing-project.md)
       + [Bons à tirer : ne peut pas prendre de décisions sur l’étape de workflow privée](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)
