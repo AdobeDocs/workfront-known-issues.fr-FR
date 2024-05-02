@@ -4,14 +4,18 @@ description: Lorsqu’un utilisateur ou une utilisatrice tente de modifier les h
 hidefromtoc: true
 feature: Work Management, Tasks, Timesheets
 exl-id: dc4021c0-0862-464e-8c0e-44b0fe229240
-source-git-commit: 0427b092610f78a7d33fd2b2606ac2b5e9f5f270
-workflow-type: ht
-source-wordcount: '56'
+source-git-commit: a1347b75359d14302b377153570b0f9107d1eb87
+workflow-type: tm+mt
+source-wordcount: '62'
 ht-degree: 100%
 
 ---
 
 # Consignation de temps : impossible de modifier les heures sur les tâches ou les problèmes
+
+>[!NOTE]
+>
+>Ce problème a été résolu le vendredi 2 mai 2024.
 
 Lorsqu’un utilisateur ou une utilisatrice tente de modifier les heures sur une tâche ou un problème, les modifications ne sont pas enregistrées.
 

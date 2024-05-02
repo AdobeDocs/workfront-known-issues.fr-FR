@@ -1,17 +1,21 @@
 ---
 title: 'Panoramas : les champs natifs de Workfront ne s’affichent pas sur la carte'
-description: "Lorsqu’un utilisateur consulte une carte configurée pour afficher des champs natifs (non personnalisés), ces champs ne sont pas visibles sur la carte."
+description: Lorsqu’un utilisateur consulte une carte configurée pour afficher des champs natifs (non personnalisés), ces champs ne sont pas visibles sur la carte.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 043a5f09a50fa2d4e8c1f0a6448101269df73368
+exl-id: 49adcc1d-1ad0-4d22-b910-2f7ddc768f45
+source-git-commit: a1347b75359d14302b377153570b0f9107d1eb87
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 6%
+source-wordcount: '86'
+ht-degree: 12%
 
 ---
 
-
 # Panoramas : les champs natifs de Workfront ne s’affichent pas sur les cartes
+
+>[!NOTE]
+>
+>Ce problème a été résolu le vendredi 2 mai 2024.
 
 Lorsqu’un utilisateur consulte une carte configurée pour afficher des champs natifs (non personnalisés), ces champs ne sont pas visibles sur la carte.
 
