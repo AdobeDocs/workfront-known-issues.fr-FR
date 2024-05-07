@@ -5,9 +5,9 @@ keywords: nouveau fichier, ajouter un fichier
 exl-id: 00d781d5-7394-46dc-b6e7-446323b10118
 feature: Workfront Goals
 source-git-commit: f0156064570a3b68fd9cbec2eed46c489f628ff1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
-| [[!DNL Workfront Goals]: impossible de supprimer l’objectif](known-issues-workfront/wf-goals-cannot-delete-goal.md) | mardi 29 avril 2024 |
+| [[!DNL Workfront Goals] : impossible de supprimer l’objectif](known-issues-workfront/wf-goals-cannot-delete-goal.md) | mardi 29 avril 2024 |
 
 <!--
 
