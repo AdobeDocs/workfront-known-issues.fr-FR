@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: b35ae8f1cff22e1cae974adc33c32e578d671dee
+source-git-commit: 3ca57c76dc50a348cf6d85d4d3e7366834a5e791
 workflow-type: tm+mt
-source-wordcount: '3396'
-ht-degree: 99%
+source-wordcount: '3427'
+ht-degree: 100%
 
 ---
 
@@ -22,9 +22,18 @@ Pour connaître les mises à jour de maintenance antérieures à 2024, consultez
 
 ## Mises à jour de mai 2024
 
++++**(Planifiée) Mise à jour de maintenance du vendredi 9 mai 2024**
+
+### Mise à jour de maintenance (planifiée) pour le vendredi 9 mai 2024.
+
+Cette mise à jour inclut uniquement des correctifs mineurs ou moins importants. L’assistance [!DNL Workfront] vous avertira lorsqu’un problème que vous avez soumis sera résolu.
+
+
++++
+
 +++**Mise à jour de maintenance le vendredi 2 mai 2024**
 
-### Mise à jour de maintenance le 2 mai 2024
+### Mise à jour de maintenance le 2 mai 2024
 
 #### Heure de connexion
 
@@ -42,13 +51,13 @@ Lorsqu’un utilisateur ou une utilisatrice tente de modifier les heures sur une
 
 #### Mises à jour
 
-**Les listes numérotées ne sont pas correctement numérotées**
+**Les listes numérotées ne sont pas numérotées correctement.**
 
 Lorsqu’un utilisateur ou une utilisatrice envoie un commentaire contenant une liste numérotée, cette liste affiche une numérotation incorrecte dans la mise à jour.
 
 Cela a été signalé dans la nouvelle expérience de commentaire.
 
-**Le texte n’est pas conservé lorsque vous quittez le site pour revenir en commentaire.**
+**Le texte n’est pas conservé lorsque vous quittez le site et y revenez pour commenter.**
 
 Lorsqu’une personne écrit un commentaire qui comprend une @mention, qu’elle quitte puis revient au commentaire avant de l’envoyer, tout le texte saisi après @mention est absent du brouillon du commentaire.
 

@@ -2,9 +2,9 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2a6c894c29a9dabddd40623fa23f24a72d883120
+source-git-commit: 2917cd873a518ae2ecee2e49341e79dacec2c8da
 workflow-type: tm+mt
-source-wordcount: '1788'
+source-wordcount: '1812'
 ht-degree: 96%
 
 ---
@@ -17,15 +17,18 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Panoramas : le filtre avancé ne renvoie pas les cartes attendues](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
+      + [Configuration : la bannière &quot;Connecté en tant que&quot; ne s’affiche pas lorsque vous êtes connecté en tant qu’autre utilisateur.](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
+      + [Les modérateurs de BAT ne peuvent pas modifier les autorisations](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
+      + [Panoramas : l’utilisateur ne peut pas voir le panorama auquel cette équipe est affectée](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md)
       + [Mises à jour : le balisage d’un utilisateur avec @ dans le panneau Résumé est inefficace.](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md)
-      + [Projets : le projet créé avec le modèle ne correspond pas à la priorité du modèle.](known-issues-workfront/wf-projects-priority-does-not-match-template.md)
       + [Panoramas : l’élément Liste de contrôle ne reste pas coché](known-issues-workfront/wf-boards-checklist-item-unchecks.md)
       + [Projets : erreur lors du partage d’un projet](known-issues-workfront/wf-projects-error-when-sharing-project.md)
       + [Bons à tirer : ne peut pas prendre de décisions sur l’étape de workflow privée](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)
-      + [[!DNL Workfront Goals]: impossible de supprimer l’objectif](known-issues-workfront/wf-goals-cannot-delete-goal.md)
-      + [Intégrations : le nom de fichier est &quot;nul&quot; lorsqu’il est envoyé à AEM via l’intégration](known-issues-workfront/wf-integrations-aem-filename-null.md)
-      + [Utilisateurs : impossible de modifier le niveau d’accès de l’utilisateur.](known-issues-workfront/wf-users-cannot-modify-access-level.md)
-      + [Panoramas : les champs natifs de Workfront ne s’affichent pas sur les cartes](known-issues-workfront/wf-boards-native-fields-not-display.md)
+      + [[!DNL Workfront Goals] : impossible de supprimer l’objectif](known-issues-workfront/wf-goals-cannot-delete-goal.md)
+      + [Intégrations : le nom de fichier est « null » lorsqu’il est envoyé à AEM via l’intégration.](known-issues-workfront/wf-integrations-aem-filename-null.md)
+      + [Utilisateurs et utilisatrices : impossible de modifier le niveau d’accès de l’utilisateur ou de l’utilisatrice](known-issues-workfront/wf-users-cannot-modify-access-level.md)
+      + [Panoramas : les champs natifs de Workfront ne s’affichent pas sur la carte.](known-issues-workfront/wf-boards-native-fields-not-display.md)
       + [Notifications : les notifications de la version bêta des approbations de documents ne sont pas correctement formatées.](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md)
       + [Panoramas : la carte revient brièvement à la colonne d’origine.](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md)
       + [Page d’accueil : le widget Approbations n’est pas exact.](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
@@ -36,7 +39,6 @@ ht-degree: 96%
       + [Mises à jour : les commentaires effectués par le biais de l’API ne sont pas visibles dans l’environnement Sandbox.](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
       + [Mises à jour : les listes numérotées ne sont pas numérotées correctement.](known-issues-workfront/wf-updates-not-numbering-correctly.md)
       + [Les épreuves créées à partir des ressources d’intégration n’ont pas les modèles et workflows correctement appliqués.](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
-      + [Demandes : erreur lors de l’ouverture du brouillon](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
       + [Listes : la liste n’affiche pas tous les éléments.](known-issues-workfront/wf-lists-does-not-display-all.md)
       + [Équipes : impossible d’afficher la personne propriétaire de l’équipe ou de supprimer l’équipe](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [Demandes : le champ calculé ne se met pas à jour lors du remplissage de la demande.](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
