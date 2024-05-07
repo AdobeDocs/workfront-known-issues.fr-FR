@@ -3,7 +3,7 @@ title: "Fiches horaires : la feuille de temps épinglée est placée sur une pag
 description: '"Lorsqu’un utilisateur clique sur une épingle de Workfront destinée à atteindre sa feuille de temps, elle accède plutôt à une page vierge. Une solution de contournement est disponible. »'
 hidefromtoc: true
 feature: Timesheets
-source-git-commit: d3068f21ba6e1a9a1dd4a9ed78da43cef88f4fde
+source-git-commit: 229d3accabec51a7c559279b680336ca096c0e70
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 7%
@@ -24,3 +24,4 @@ En effet, l’URL de la feuille de temps a changé. la valeur `/own` à la fin d
 1. Réépinglez la feuille de temps.
 
 _Premier signalement le mercredi 7 mai 2024._
+
