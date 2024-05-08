@@ -3,7 +3,7 @@ title: "Fiches horaires : la feuille de temps épinglée est placée sur une pag
 description: '"Lorsqu’un utilisateur clique sur une épingle de Workfront destinée à atteindre sa feuille de temps, elle accède plutôt à une page vierge. Une solution de contournement est disponible. »'
 hidefromtoc: true
 feature: Timesheets
-source-git-commit: 229d3accabec51a7c559279b680336ca096c0e70
+source-git-commit: 89eb14bfaccb517764af1711ca31e2926de63795
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 7%
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 Lorsqu’un utilisateur clique sur une épingle de Workfront destinée à atteindre sa feuille de temps, elle accède plutôt à une page vierge.
 
-En effet, l’URL de la feuille de temps a changé. la valeur `/own` à la fin de l’URL n’est plus l’URL correcte. Si l’utilisateur a épinglé une URL qui inclut `/own`, cette épingle mène à une page vierge.
+En effet, l’URL de la feuille de temps a changé. La variable `/own` à la fin de l’URL n’est plus l’URL correcte. Si l’utilisateur a épinglé une URL qui inclut `/own`, cette épingle mène à une page vierge.
 
 **Solution de contournement**
 

@@ -4,20 +4,22 @@ description: Le widget En attente de mes approbations de la nouvelle expérience
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 3b96bccc-8e2c-47f5-8639-10e870953bb4
-source-git-commit: f171e93a7f10360d0e504e028e512d5023591693
+source-git-commit: 89eb14bfaccb517764af1711ca31e2926de63795
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '69'
 ht-degree: 100%
 
 ---
 
 # Page d’accueil : le widget Approbations n’est pas exact.
 
+<!--
+
 >[!NOTE]
 >
->Ce problème a été résolu le vendredi 2 mai 2024.
+>This issue was fixed on May 2, 2024.
 
-<!-- WF, WFP-->
+ WF, WFP-->
 
 Le widget En attente de mes approbations de la nouvelle expérience de la page d’accueil n’affiche pas correctement les approbations.
 
