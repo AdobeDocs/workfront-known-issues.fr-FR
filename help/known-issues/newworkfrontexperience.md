@@ -4,9 +4,9 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e24d266002a913e5c6e2d5e40e9dad36deff541a
+source-git-commit: 7a375d51fd250449c950e5c9fdca0ed259e4a231
 workflow-type: tm+mt
-source-wordcount: '871'
+source-wordcount: '864'
 ht-degree: 90%
 
 ---
@@ -47,7 +47,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [Les modérateurs de BAT ne peuvent pas modifier les autorisations](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | mercredi 7 mai 2024 |
 | [Panoramas : l’utilisateur ne peut pas voir le panorama auquel cette équipe est affectée](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md) | mercredi 7 mai 2024 |
 | [Mises à jour : le balisage d’un utilisateur avec @ dans le panneau Résumé est inefficace.](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | vendredi 2 mai 2024 |
-| [Utilisateurs et utilisatrices : impossible de modifier le niveau d’accès de l’utilisateur ou de l’utilisatrice](known-issues-workfront/wf-users-cannot-modify-access-level.md) | vendredi 2 mai 2024 |
 | [[!DNL Workfront Goals] : impossible de supprimer l’objectif](known-issues-workfront/wf-goals-cannot-delete-goal.md) | mardi 29 avril 2024 |
 | [Projet : impossible de convertir le problème en projet si l’épreuve web est jointe](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | mercredi 23 avril 2024 |
 | [Utilisateurs et utilisatrices : impossible de supprimer des utilisateurs et utilisatrices](known-issues-workfront/wf-users-unable-to-delete-users.md) | vendredi 18 avril 2024 |
