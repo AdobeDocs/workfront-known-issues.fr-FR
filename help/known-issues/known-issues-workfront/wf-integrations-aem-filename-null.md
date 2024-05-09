@@ -4,14 +4,18 @@ description: « Lorsqu’un fichier volumineux (plus de 100 Mo) est envoyé à
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents
 exl-id: c2d15424-ae04-414f-9384-a7b083212313
-source-git-commit: 3ca57c76dc50a348cf6d85d4d3e7366834a5e791
+source-git-commit: e24d266002a913e5c6e2d5e40e9dad36deff541a
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 50%
+source-wordcount: '110'
+ht-degree: 52%
 
 ---
 
 # Intégrations : le nom de fichier est &quot;null&quot; lorsqu’il est envoyé à l’intégration de document
+
+>[!NOTE]
+>
+>Ce problème a été résolu le jeudi 8 mai 2024.
 
 Lorsqu’un fichier volumineux (plus de 100 Mo) est envoyé à un fournisseur de documents via une intégration Workfront, le nom de fichier dans le fournisseur de documents est &quot;null&quot;.
 

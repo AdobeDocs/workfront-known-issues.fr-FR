@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 89eb14bfaccb517764af1711ca31e2926de63795
+source-git-commit: e24d266002a913e5c6e2d5e40e9dad36deff541a
 workflow-type: tm+mt
-source-wordcount: '883'
-ht-degree: 88%
+source-wordcount: '871'
+ht-degree: 90%
 
 ---
 
@@ -26,13 +26,10 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
 | [Page d’accueil : le widget Approbations n’est pas exact.](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | jeudi 8 mai 2024 |
-| [Projets : les projets créés à partir d’un problème utilisant un modèle ne reflètent pas l’ensemble de priorités défini dans le modèle.](known-issues-workfront/wf-projects-priority-not-transfer.md) | jeudi 8 mai 2024 |
 | [Configuration : la bannière &quot;Connecté en tant que&quot; ne s’affiche pas lorsque vous êtes connecté en tant qu’autre utilisateur.](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | mercredi 7 mai 2024 |
 | [Panoramas : le filtre avancé ne renvoie pas les cartes attendues](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md) | mercredi 7 mai 2024 |
 | [Notifications : les notifications de la version bêta des approbations de documents ne sont pas correctement formatées.](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | vendredi 2 mai 2024 |
 | [Panoramas : l’élément Liste de contrôle ne reste pas coché](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | vendredi 2 mai 2024 |
-| [Bons à tirer : ne peut pas prendre de décisions sur l’étape de workflow privée](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | jeudi 1 mai 2024 |
-| [Intégrations : le nom de fichier est &quot;nul&quot; lorsqu’il est envoyé au fournisseur de documents via l’intégration](known-issues-workfront/wf-integrations-aem-filename-null.md) | jeudi 24 avril 2024 |
 | [Tâches : la création ou la duplication de tâches entraîne l’affichage de la liste de tâches dans un ordre incorrect.](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | mardi 26 février 2024 |
 | [Épreuves : rendus des GIF en épreuves statiques](known-issues-workfront/wf-proofs-gif-static-image.md) | mercredi 23 janvier 2024 |
 | [Épreuve : échec de la génération des épreuves compressées.](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | mercredi 9 janvier 2024 |
@@ -45,6 +42,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
+| [Mises à jour : le lien dans le commentaire renvoie à un écran vide.](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | vendredi 9 mai 2024 |
+| [Projets : les projets créés à partir d’un problème utilisant un modèle ne reflètent pas l’ensemble de priorités défini dans le modèle.](known-issues-workfront/wf-projects-priority-not-transfer.md) | vendredi 9 mai 2024 |
 | [Les modérateurs de BAT ne peuvent pas modifier les autorisations](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | mercredi 7 mai 2024 |
 | [Panoramas : l’utilisateur ne peut pas voir le panorama auquel cette équipe est affectée](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md) | mercredi 7 mai 2024 |
 | [Mises à jour : le balisage d’un utilisateur avec @ dans le panneau Résumé est inefficace.](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | vendredi 2 mai 2024 |
