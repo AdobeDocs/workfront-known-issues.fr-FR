@@ -1,18 +1,24 @@
 ---
 title: "Projets : les projets créés à partir d’un problème utilisant un modèle ne reflètent pas l’ensemble de priorités défini dans le modèle"
-description: "Lorsqu’un utilisateur convertit un problème en projet à l’aide d’un modèle, la priorité du projet nouvellement créé ne correspond pas à celle du modèle."
+description: Lorsqu’un utilisateur convertit un problème en projet à l’aide d’un modèle, la priorité du projet nouvellement créé ne correspond pas à celle du modèle.
 hidefromtoc: true
 feature: Projects
-source-git-commit: b1fb7eba69bde986d2dfc041cb7f47f19b57b360
+exl-id: 431a94ee-c73f-4536-b7ff-33f5b3870892
+source-git-commit: d023663855896059777698e470ed3e786fab0ce7
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 4%
+source-wordcount: '130'
+ht-degree: 11%
 
 ---
 
-
 # Projets : les projets créés à partir d’un problème utilisant un modèle ne reflètent pas l’ensemble de priorités défini dans le modèle.
 
+>[!NOTE]
+>
+>Ce problème a été résolu, car tout fonctionne comme prévu.
+
 Lorsqu’un utilisateur convertit un problème en projet à l’aide d’un modèle, la priorité du projet nouvellement créé ne correspond pas à celle du modèle.
+
+Cela fonctionne comme prévu. Lors de la conversion d’un problème en projet avec ou sans modèle, la priorité du problème est transférée au projet créé.
 
 _Premier signalement le vendredi 2 mai 2024._
