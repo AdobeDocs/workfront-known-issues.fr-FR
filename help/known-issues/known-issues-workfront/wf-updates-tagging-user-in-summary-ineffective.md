@@ -1,27 +1,27 @@
 ---
-title: "Mises à jour : le balisage d’un utilisateur avec @ dans le panneau Résumé est inefficace"
-description: "Lorsqu’un utilisateur tente de baliser un autre utilisateur à l’aide du caractère @ dans la zone Mises à jour d’un panneau Résumé, cliquer sur le nom de l’utilisateur dans la liste déroulante n’est pas efficace. Tenter de marquer l’utilisateur une seconde fois fonctionne comme prévu."
+title: '« Mises à jour : taguer une personne avec @ dans le panneau Résumé ne fonctionne pas. »'
+description: « Lorsqu’une personne tente de taguer une autre personne à l’aide de @ dans la zone Mises à jour d’un panneau Résumé, cliquer sur le nom de la personne dans la liste déroulante ne fonctionne pas. » La deuxième tentative fonctionne toutefois comme prévu. »
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 3ca57c76dc50a348cf6d85d4d3e7366834a5e791
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Mises à jour : le balisage d’un utilisateur avec @ dans le panneau Résumé est inefficace.
+# Mises à jour : taguer une personne avec @ dans le panneau Résumé ne fonctionne pas.
 
-Lorsqu’un utilisateur tente de baliser un autre utilisateur à l’aide du caractère @ dans la zone Mises à jour d’un panneau Résumé, cliquer sur le nom de l’utilisateur dans la liste déroulante n’est pas efficace. Tenter de marquer l’utilisateur une seconde fois fonctionne comme prévu.
+Lorsqu’une personne tente de taguer une autre personne à l’aide de @ dans la zone Mises à jour d’un panneau Résumé, cliquer sur le nom de la personne dans la liste déroulante ne fonctionne pas. La deuxième tentative fonctionne toutefois comme prévu.
 
 **Solution de contournement**
 
-Marquez à nouveau l’utilisateur. La deuxième tentative fonctionne comme prévu.
+Taguez à nouveau la personne. La deuxième tentative fonctionne comme prévu.
 
 Ou
 
-Sélectionnez l’utilisateur à l’aide de la touche Entrée/Retour .
+Sélectionnez la personne à l’aide de la touche Entrée/Retour.
 
 _Premier signalement le mardi 18 mars 2024._
 

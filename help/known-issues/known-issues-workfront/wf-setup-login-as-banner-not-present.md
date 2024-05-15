@@ -1,19 +1,19 @@
 ---
-title: "Configuration : la connexion en tant que bannière n’apparaît pas lorsqu’elle est connectée en tant qu’autre utilisateur."
-description: "Lorsqu’un administrateur est connecté en tant qu’autre utilisateur, la bannière Connecté en tant que n’apparaît pas. L’utilisateur n’est pas rappelé qu’il est connecté en tant qu’autre utilisateur et qu’il ne peut pas se déconnecter de son compte."
+title: '« Configuration : la bannière Connecté en tant que n’apparaît pas en cas de connexion en tant qu’autre personne. »'
+description: Lorsqu’un administrateur ou une administratrice se connecte en tant qu’autre personne, la bannière Connecté en tant que n’apparaît pas. La personne ne reçoit pas de rappel selon lequel elle est connectée en tant qu’autre personne et ne peut pas se déconnecter du compte de l’autre personne.
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 3ca57c76dc50a348cf6d85d4d3e7366834a5e791
-workflow-type: tm+mt
+exl-id: fc90bd88-933d-480b-a8c0-b653e6070625
+source-git-commit: 0f3f85c81a9ab2a185977757031e44040ea074d3
+workflow-type: ht
 source-wordcount: '112'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
+# Configuration : la bannière Connecté en tant que n’apparaît pas en cas de connexion en tant qu’autre personne.
 
-# Configuration : la bannière &quot;Connecté en tant que&quot; ne s’affiche pas lorsque vous êtes connecté en tant qu’autre utilisateur.
-
-Lorsqu’un administrateur est connecté en tant qu’autre utilisateur, la bannière &quot;Connecté en tant qu’utilisateur&quot; n’apparaît pas. L’utilisateur n’est pas rappelé qu’il est connecté en tant qu’autre utilisateur et qu’il ne peut pas se déconnecter de son compte.
+Lorsqu’un administrateur ou une administratrice se connecte en tant qu’autre personne, la bannière Connecté en tant que n’apparaît pas. La personne ne reçoit pas de rappel selon lequel elle est connectée en tant qu’autre personne et ne peut pas se déconnecter du compte de l’autre personne.
 
 **Solution**
 

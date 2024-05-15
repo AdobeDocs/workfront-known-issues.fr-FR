@@ -1,18 +1,18 @@
 ---
-title: "Panoramas : le filtre avancé ne renvoie pas les cartes attendues"
-description: "Lorsqu’un utilisateur tente d’utiliser un filtre avancé sur un panorama, le filtre ne renvoie pas tous les résultats qu’il doit obtenir."
+title: '« Panoramas : le filtre avancé ne renvoie pas les cartes attendues. »'
+description: Lorsqu’une personne tente d’utiliser un filtre avancé sur un panorama, celui-ci ne renvoie pas tous les résultats attendus.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 3ca57c76dc50a348cf6d85d4d3e7366834a5e791
-workflow-type: tm+mt
+exl-id: d2c98b56-c52e-4e45-84b4-c9f0716c2182
+source-git-commit: 0f3f85c81a9ab2a185977757031e44040ea074d3
+workflow-type: ht
 source-wordcount: '68'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
+# Panoramas : le filtre avancé ne renvoie pas les cartes attendues.
 
-# Panoramas : le filtre avancé ne renvoie pas les cartes attendues
-
-Lorsqu’un utilisateur tente d’utiliser un filtre avancé sur un panorama, celui-ci ne renvoie pas tous les résultats qu’il doit obtenir.
+Lorsqu’une personne tente d’utiliser un filtre avancé sur un panorama, celui-ci ne renvoie pas tous les résultats attendus.
 
 _Premier signalement le jeudi 24 avril 2024._

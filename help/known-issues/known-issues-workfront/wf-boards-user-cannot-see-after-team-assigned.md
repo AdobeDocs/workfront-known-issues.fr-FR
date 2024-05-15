@@ -1,22 +1,22 @@
 ---
-title: "Panoramas : l’utilisateur ne peut pas voir le panorama auquel cette équipe est affectée"
-description: "Lorsqu’un utilisateur tente d’afficher un panorama auquel l’équipe est affectée, il ne peut pas l’afficher. Cela se produit si l’utilisateur est ajouté à l’équipe une fois que l’équipe a été affectée au panorama."
+title: '« Panoramas : l’utilisateur ou l’utilisatrice ne peut pas voir le panorama auquel cette équipe est affectée. »'
+description: La personne ne peut pas afficher un panorama auquel l’équipe est affectée. Cela se produit si la personne est ajoutée à l’équipe une fois que l’équipe a été affectée au panorama.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 3ca57c76dc50a348cf6d85d4d3e7366834a5e791
-workflow-type: tm+mt
+exl-id: 01c93110-407a-4559-bdc1-3fe04d94a8a1
+source-git-commit: 0f3f85c81a9ab2a185977757031e44040ea074d3
+workflow-type: ht
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# Panoramas : l’utilisateur ou l’utilisatrice ne peut pas voir le panorama auquel cette équipe est affectée.
 
-# Panoramas : l’utilisateur ne peut pas voir le panorama auquel cette équipe est affectée
-
-Lorsqu’un utilisateur tente d’afficher un panorama auquel l’équipe est affectée, il ne peut pas l’afficher. Cela se produit si l’utilisateur est ajouté à l’équipe une fois que l’équipe a été affectée au panorama.
+La personne ne peut pas afficher un panorama auquel l’équipe est affectée. Cela se produit si la personne est ajoutée à l’équipe une fois que l’équipe a été affectée au panorama.
 
 **Solution de contournement**
 
-Ajoutez directement l’utilisateur au panorama.
+Ajoutez l’utilisateur ou l’utilisatrice au panorama directement.
 
-_Premier article du 15 avril 2024, 2024._
+_Premier signalement le 15 avril 2024._
