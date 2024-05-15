@@ -5,7 +5,7 @@ role: User
 source-git-commit: d023663855896059777698e470ed3e786fab0ce7
 workflow-type: tm+mt
 source-wordcount: '1862'
-ht-degree: 93%
+ht-degree: 98%
 
 ---
 
@@ -19,16 +19,16 @@ ht-degree: 93%
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
       + [Mises à jour : la copie et le collage d’une mention ne notifient pas l’utilisateur mentionné.](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
       + [Projets : les projets créés à partir d’un problème utilisant un modèle ne reflètent pas l’ensemble de priorités défini dans le modèle.](known-issues-workfront/wf-projects-priority-not-transfer.md)
-      + [Panoramas : le filtre avancé ne renvoie pas les cartes attendues](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
+      + [Panoramas : le filtre avancé ne renvoie pas les cartes attendues.](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
       + [Feuilles de temps : la feuille de temps épinglée est placée sur une page vierge.](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
-      + [Configuration : la bannière &quot;Connecté en tant que&quot; ne s’affiche pas lorsque vous êtes connecté en tant qu’autre utilisateur.](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
-      + [Les modérateurs de BAT ne peuvent pas modifier les autorisations](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
-      + [Panoramas : l’utilisateur ne peut pas voir le panorama auquel cette équipe est affectée](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md)
-      + [Mises à jour : le balisage d’un utilisateur avec @ dans le panneau Résumé est inefficace.](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md)
-      + [Projets : le projet créé avec le modèle ne correspond pas à la priorité du modèle.](known-issues-workfront/wf-projects-priority-does-not-match-template.md)
-      + [Panoramas : l’élément Liste de contrôle ne reste pas coché](known-issues-workfront/wf-boards-checklist-item-unchecks.md)
-      + [Projets : erreur lors du partage d’un projet](known-issues-workfront/wf-projects-error-when-sharing-project.md)
-      + [Bons à tirer : ne peut pas prendre de décisions sur l’étape de workflow privée](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)
+      + [Configuration : la bannière Connecté en tant que n’apparaît pas en cas de connexion en tant qu’autre personne.](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
+      + [Les modérateurs et modératrices des épreuves ne peuvent pas modifier les autorisations.](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
+      + [Panoramas : l’utilisateur ou l’utilisatrice ne peut pas voir le panorama auquel cette équipe est affectée.](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md)
+      + [Mises à jour : taguer une personne avec @ dans le panneau Résumé ne fonctionne pas.](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md)
+      + [Projets : le projet créé avec le modèle ne correspond pas à la priorité du modèle.](known-issues-workfront/wf-projects-priority-does-not-match-template.md)
+      + [Panoramas : l’élément de la liste de contrôle ne reste pas coché.](known-issues-workfront/wf-boards-checklist-item-unchecks.md)
+      + [Projets : erreur lors du partage d’un projet](known-issues-workfront/wf-projects-error-when-sharing-project.md)
+      + [Épreuves : impossible de prendre des décisions sur l’étape privée d’un workflow](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)
       + [[!DNL Workfront Goals] : impossible de supprimer l’objectif](known-issues-workfront/wf-goals-cannot-delete-goal.md)
       + [Intégrations : le nom de fichier est « null » lorsqu’il est envoyé à AEM via l’intégration.](known-issues-workfront/wf-integrations-aem-filename-null.md)
       + [Utilisateurs et utilisatrices : impossible de modifier le niveau d’accès de l’utilisateur ou de l’utilisatrice](known-issues-workfront/wf-users-cannot-modify-access-level.md)
