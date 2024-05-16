@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 5abc91229bcfbeef1a08ffd3db103de4978c3111
+source-git-commit: 10057189c213e5b2993c58b89116cedcd2d7d6f4
 workflow-type: tm+mt
-source-wordcount: '3425'
-ht-degree: 100%
+source-wordcount: '3529'
+ht-degree: 99%
 
 ---
 
@@ -21,6 +21,24 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2024.
 Pour connaître les mises à jour de maintenance antérieures à 2024, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates).
 
 ## Mises à jour de mai 2024
+
++++**Mise à jour de maintenance le vendredi 16 mai 2024**
+
+### Mise à jour de maintenance le vendredi 16 mai 2024
+
+#### Configuration
+
+**Les statuts des problèmes par défaut ne figurent pas dans certains types de problèmes dans la Configuration**
+
+Lorsqu’une personne consulte les statuts des problèmes dans la Configuration, elle constate que les statuts par défaut (nouveaux, en cours et terminés) sont absents de certains types de problèmes. Les statuts par défaut ne proposent pas l’option de modifier le type de problème. La personne ne peut donc pas reconfigurer les statuts à afficher pour les types de problèmes concernés.
+
+#### Utilisateurs
+
+**Impossible de supprimer les utilisateurs**
+
+Il est impossible de supprimer des utilisateurs et utilisatrices. Ce problème a été signalé dans les organisations qui ont migré vers Adobe Admin Console.
+
++++
 
 +++**Mise à jour de maintenance le vendredi 9 mai 2024**
 
