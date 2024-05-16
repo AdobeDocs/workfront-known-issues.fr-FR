@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: dbc353adbacd58cb8b88e340d6c2337cf48b46cd
+source-git-commit: 850294cf3e6fecfa0018e3dafc2e9fd1f8ee95ef
 workflow-type: tm+mt
-source-wordcount: '865'
-ht-degree: 94%
+source-wordcount: '875'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Demandes : impossible d’accéder aux tableaux de bord sur la page de demande (&quot;../submit&quot; URL)](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md) | vendredi 16 mai 2024 |
 | [Intégrations : les utilisateurs obtiennent une erreur de requête incorrecte lors de l’utilisation de SSO](known-issues-workfront/wf-outlook-wrong-request.md) | mercredi 14 mai 2024 |
 | [Page d’accueil : le widget Approbations n’est pas exact.](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | jeudi 8 mai 2024 |
 | [Configuration : la bannière &quot;Connecté en tant que&quot; ne s’affiche pas lorsque vous êtes connecté en tant qu’autre utilisateur.](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | mercredi 7 mai 2024 |

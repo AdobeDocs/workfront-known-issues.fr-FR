@@ -2,9 +2,9 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: d1d7562fc57da5ea06c7bf9f47d4a5d4d0169a5e
+source-git-commit: a24eb4021300c88b90eb4aa6a77faa1e94fac321
 workflow-type: tm+mt
-source-wordcount: '1871'
+source-wordcount: '1880'
 ht-degree: 97%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Demandes : impossible d’accéder aux tableaux de bord sur la page de demande (&quot;../submit&quot; URL)](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md)
       + [Intégrations : les utilisateurs obtiennent une erreur de requête incorrecte lors de l’utilisation de SSO](known-issues-workfront/wf-outlook-wrong-request.md)
       + [Mises à jour : la copie et le collage d’une mention ne notifient pas l’utilisateur mentionné.](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
       + [Projets : les projets créés à partir d’un problème utilisant un modèle ne reflètent pas l’ensemble de priorités défini dans le modèle.](known-issues-workfront/wf-projects-priority-not-transfer.md)
