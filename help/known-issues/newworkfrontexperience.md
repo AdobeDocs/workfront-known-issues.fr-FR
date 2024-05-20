@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 850294cf3e6fecfa0018e3dafc2e9fd1f8ee95ef
+source-git-commit: 4acd3830c34139d8d54e614bb5197f00fa63613f
 workflow-type: tm+mt
-source-wordcount: '875'
-ht-degree: 93%
+source-wordcount: '827'
+ht-degree: 94%
 
 ---
 
@@ -25,13 +25,8 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Demandes : impossible d’accéder aux tableaux de bord sur la page de demande (&quot;../submit&quot; URL)](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md) | vendredi 16 mai 2024 |
 | [Intégrations : les utilisateurs obtiennent une erreur de requête incorrecte lors de l’utilisation de SSO](known-issues-workfront/wf-outlook-wrong-request.md) | mercredi 14 mai 2024 |
-| [Page d’accueil : le widget Approbations n’est pas exact.](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | jeudi 8 mai 2024 |
 | [Configuration : la bannière &quot;Connecté en tant que&quot; ne s’affiche pas lorsque vous êtes connecté en tant qu’autre utilisateur.](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | mercredi 7 mai 2024 |
-| [Rapports : le filtre avancé ne renvoie pas les cartes attendues.](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md) | mercredi 7 mai 2024 |
-| [Notifications : les notifications de la version bêta des approbations de documents ne sont pas correctement formatées.](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | vendredi 2 mai 2024 |
-| [Panoramas : l’élément de la liste de contrôle ne reste pas coché.](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | vendredi 2 mai 2024 |
 | [Tâches : la création ou la duplication de tâches entraîne l’affichage de la liste de tâches dans un ordre incorrect.](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | mardi 26 février 2024 |
 | [Épreuves : rendus des GIF en épreuves statiques](known-issues-workfront/wf-proofs-gif-static-image.md) | mercredi 23 janvier 2024 |
 | [Épreuve : échec de la génération des épreuves compressées.](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | mercredi 9 janvier 2024 |
@@ -47,7 +42,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [Mises à jour : la copie et le collage d’une mention ne notifient pas l’utilisateur mentionné.](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | samedi 10 mai 2024 |
 | [Mises à jour : le lien dans le commentaire renvoie à un écran vide.](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | vendredi 9 mai 2024 |
 | [Les modérateurs et modératrices des épreuves ne peuvent pas modifier les autorisations.](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | mercredi 7 mai 2024 |
-| [Panoramas : l’utilisateur ou l’utilisatrice ne peut pas voir le panorama auquel cette équipe est affectée.](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md) | mercredi 7 mai 2024 |
 | [Mises à jour : taguer une personne avec @ dans le panneau Résumé ne fonctionne pas.](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | vendredi 2 mai 2024 |
 | [[!DNL Workfront Goals] : impossible de supprimer l’objectif](known-issues-workfront/wf-goals-cannot-delete-goal.md) | mardi 29 avril 2024 |
 | [Projet : impossible de convertir le problème en projet si l’épreuve web est jointe](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | mercredi 23 avril 2024 |
@@ -68,6 +62,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Page d’accueil : le widget Approbations n’est pas exact.](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | mardi 20 mai 2024 |
 | [Feuilles de temps : la feuille de temps épinglée est placée sur une page vierge.](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md) | 7 mai 2024, 2024 |
 | [Rapports : le filtre de rapports ne renvoie pas les résultats attendus.](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md) | mardi 1 avril 2024 |
 | [Configuration : impossible d’utiliser les [!UICONTROL Démarrages rapides] pour créer des regroupements](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md) | vendredi 30 novembre 2023 |
