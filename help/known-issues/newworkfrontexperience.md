@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 4acd3830c34139d8d54e614bb5197f00fa63613f
+source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
 workflow-type: tm+mt
-source-wordcount: '827'
-ht-degree: 94%
+source-wordcount: '877'
+ht-degree: 90%
 
 ---
 
@@ -25,6 +25,8 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Programmes : tout accès au programme est perdu lorsque l’accès utilisateur au programme est mis à jour.](known-issues-workfront/wf-programs-permissions-not-inherited.md) | mardi 20 mai 2024 |
+| [Documents : extension de fichier UNK lors de la liaison de documents à partir de l’intégration](known-issues-workfront/wf-documents-unk-file-extension.md) | mardi 20 mai 2024 |
 | [Intégrations : les utilisateurs obtiennent une erreur de requête incorrecte lors de l’utilisation de SSO](known-issues-workfront/wf-outlook-wrong-request.md) | mercredi 14 mai 2024 |
 | [Configuration : la bannière &quot;Connecté en tant que&quot; ne s’affiche pas lorsque vous êtes connecté en tant qu’autre utilisateur.](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | mercredi 7 mai 2024 |
 | [Tâches : la création ou la duplication de tâches entraîne l’affichage de la liste de tâches dans un ordre incorrect.](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | mardi 26 février 2024 |
@@ -39,6 +41,9 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
+| [Documents : écran d’erreur lors du téléchargement ou de la prévisualisation d’une ressource](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | mardi 20 mai 2024 |
+| [Utilisateurs : les attributs utilisateur ne sont pas mappés à partir de l’authentification unique](known-issues-workfront/wf-users-sso-attributes-not-mapped.md) | mardi 20 mai 2024 |
+| [Utilisateurs et utilisatrices : impossible de modifier le niveau d’accès de l’utilisateur ou de l’utilisatrice](known-issues-workfront/wf-users-cannot-modify-access-level.md) | mardi 20 mai 2024 |
 | [Mises à jour : la copie et le collage d’une mention ne notifient pas l’utilisateur mentionné.](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | samedi 10 mai 2024 |
 | [Mises à jour : le lien dans le commentaire renvoie à un écran vide.](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | vendredi 9 mai 2024 |
 | [Les modérateurs et modératrices des épreuves ne peuvent pas modifier les autorisations.](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | mercredi 7 mai 2024 |

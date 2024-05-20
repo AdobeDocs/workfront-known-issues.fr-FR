@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: a24eb4021300c88b90eb4aa6a77faa1e94fac321
+source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
 workflow-type: tm+mt
-source-wordcount: '1880'
-ht-degree: 97%
+source-wordcount: '1919'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Documents : écran d’erreur lors du téléchargement ou de la prévisualisation d’une ressource](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
+      + [Utilisateurs : les attributs utilisateur ne sont pas mappés à partir de l’authentification unique](known-issues-workfront/wf-users-sso-attributes-not-mapped.md)
+      + [Programmes : tout accès au programme est perdu lorsque l’accès utilisateur au programme est mis à jour.](known-issues-workfront/wf-programs-permissions-not-inherited.md)
+      + [Documents : extension de fichier UNK lors de la liaison de documents à partir de l’intégration](known-issues-workfront/wf-documents-unk-file-extension.md)
       + [Demandes : impossible d’accéder aux tableaux de bord sur la page de demande (&quot;../submit&quot; URL)](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md)
       + [Intégrations : les utilisateurs obtiennent une erreur de requête incorrecte lors de l’utilisation de SSO](known-issues-workfront/wf-outlook-wrong-request.md)
       + [Mises à jour : la copie et le collage d’une mention ne notifient pas l’utilisateur mentionné.](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
