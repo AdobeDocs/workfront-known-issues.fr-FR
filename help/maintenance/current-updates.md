@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 10057189c213e5b2993c58b89116cedcd2d7d6f4
+source-git-commit: cf1c7d7bc95f9a88b07f624f3152ba9c1148ac58
 workflow-type: tm+mt
-source-wordcount: '3529'
-ht-degree: 99%
+source-wordcount: '3628'
+ht-degree: 98%
 
 ---
 
@@ -21,6 +21,22 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2024.
 Pour connaître les mises à jour de maintenance antérieures à 2024, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates).
 
 ## Mises à jour de mai 2024
+
++++ **(Planifiée) Mise à jour de maintenance du vendredi 23 mai 2024**
+
+### Mise à jour de maintenance (planifiée) pour le vendredi 23 mai 2024.
+
+#### Mises à jour
+
+**L’utilisateur balisé ne peut pas voir qui les a balisés.**
+
+Lorsqu’un utilisateur est balisé dans une mise à jour, il ne peut pas voir qui l’a balisé. Cela se produit lorsque le paramètre &quot;Les personnes dans d’autres entreprises ne doivent afficher que les utilisateurs de...&quot; est défini sur &quot;Leur société&quot;.
+
+**Le balisage d’un utilisateur avec @ dans le panneau Résumé est inefficace**
+
+Lorsqu’une personne tente de taguer une autre personne à l’aide de @ dans la zone Mises à jour d’un panneau Résumé, cliquer sur le nom de la personne dans la liste déroulante ne fonctionne pas. La deuxième tentative fonctionne toutefois comme prévu.
+
++++
 
 +++**Mise à jour de maintenance le vendredi 16 mai 2024**
 
