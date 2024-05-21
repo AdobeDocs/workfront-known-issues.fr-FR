@@ -3,7 +3,7 @@ title: "Mises à jour : l’utilisateur balisé ne peut pas voir qui les a balis
 description: "Lorsqu’un utilisateur est balisé dans une mise à jour, il ne peut pas voir qui l’a balisé. Cela se produit lorsque le paramètre Les personnes dans d’autres entreprises ne doivent afficher que les utilisateurs de ... est défini sur Leur société."
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 6de2e70344be38b92d44c2ec90c6380a8ccc3140
+source-git-commit: 405d0861af7f68a5c93b5be76d6b2f6f7e731615
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 5%
@@ -20,3 +20,4 @@ Lorsqu’un utilisateur est balisé dans une mise à jour, il ne peut pas voir q
 Utilise la notification in-app pour le commentaire afin de voir qui les a balisés.
 
 _Premier signalement le mercredi 23 avril 2024._
+
