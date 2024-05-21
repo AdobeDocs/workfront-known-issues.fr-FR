@@ -5,7 +5,7 @@ role: User
 source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
 workflow-type: tm+mt
 source-wordcount: '1919'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -23,10 +23,10 @@ ht-degree: 95%
       + [Documents : extension de fichier UNK lors de la liaison de documents à partir de l’intégration](known-issues-workfront/wf-documents-unk-file-extension.md)
       + [Demandes : impossible d’accéder aux tableaux de bord sur la page de demande (&quot;../submit&quot; URL)](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md)
       + [Intégrations : les utilisateurs obtiennent une erreur de requête incorrecte lors de l’utilisation de SSO](known-issues-workfront/wf-outlook-wrong-request.md)
-      + [Mises à jour : la copie et le collage d’une mention ne notifient pas l’utilisateur mentionné.](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
-      + [Projets : les projets créés à partir d’un problème utilisant un modèle ne reflètent pas l’ensemble de priorités défini dans le modèle.](known-issues-workfront/wf-projects-priority-not-transfer.md)
+      + [Mises à jour : la copie et le collage d’une mention ne notifient pas la personne mentionnée.](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
+      + [Projets : les projets créés à partir d’un problème utilisant un modèle ne reflètent pas la priorité définie dans le modèle.](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [Panoramas : le filtre avancé ne renvoie pas les cartes attendues.](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
-      + [Feuilles de temps : la feuille de temps épinglée est placée sur une page vierge.](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
+      + [Feuilles de temps : la feuille de temps épinglée est placée sur une page vierge.](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
       + [Configuration : la bannière Connecté en tant que n’apparaît pas en cas de connexion en tant qu’autre personne.](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
       + [Les modérateurs et modératrices des épreuves ne peuvent pas modifier les autorisations.](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
       + [Panoramas : l’utilisateur ou l’utilisatrice ne peut pas voir le panorama auquel cette équipe est affectée.](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md)
