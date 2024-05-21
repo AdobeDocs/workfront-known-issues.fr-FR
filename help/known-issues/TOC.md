@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
+source-git-commit: 6de2e70344be38b92d44c2ec90c6380a8ccc3140
 workflow-type: tm+mt
-source-wordcount: '1919'
-ht-degree: 97%
+source-wordcount: '1933'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Mises à jour : l’utilisateur balisé ne peut pas voir qui les a balisées.](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
+      + [Accueil : nombre d’heures planifiées affichées en minutes](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md)
       + [Documents : écran d’erreur lors du téléchargement ou de la prévisualisation d’une ressource](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
       + [Utilisateurs : les attributs utilisateur ne sont pas mappés à partir de l’authentification unique](known-issues-workfront/wf-users-sso-attributes-not-mapped.md)
       + [Programmes : tout accès au programme est perdu lorsque l’accès utilisateur au programme est mis à jour.](known-issues-workfront/wf-programs-permissions-not-inherited.md)
