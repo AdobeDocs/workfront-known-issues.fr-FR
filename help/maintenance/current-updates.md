@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: cf1c7d7bc95f9a88b07f624f3152ba9c1148ac58
+source-git-commit: 838970835779e238e1739d50ed7d78bdd01069c7
 workflow-type: tm+mt
-source-wordcount: '3628'
-ht-degree: 98%
+source-wordcount: '3680'
+ht-degree: 97%
 
 ---
 
@@ -25,6 +25,16 @@ Pour connaître les mises à jour de maintenance antérieures à 2024, consultez
 +++ **(Planifiée) Mise à jour de maintenance du vendredi 23 mai 2024**
 
 ### Mise à jour de maintenance (planifiée) pour le vendredi 23 mai 2024.
+
+#### Rapports
+
+Lorsqu’un utilisateur consulte un rapport et clique sur le bouton Précédent du navigateur, l’un des événements suivants peut se produire :
+
+* L’utilisateur reste sur la page Rapport.
+* L’utilisateur est dirigé vers la page d’entrée du navigateur.
+* L’utilisateur est dirigé vers la page de connexion.
+
+Cela a été signalé avec le navigateur Chrome.
 
 #### Mises à jour
 
