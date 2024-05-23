@@ -4,10 +4,10 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
+source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
 workflow-type: tm+mt
-source-wordcount: '395'
-ht-degree: 95%
+source-wordcount: '385'
+ht-degree: 97%
 
 ---
 
@@ -25,7 +25,6 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documents : extension de fichier UNK lors de la liaison de documents à partir de l’intégration](known-issues-workfront/wf-documents-unk-file-extension.md) | mardi 20 mai 2024 |
 | [Notifications : les notifications de la version bêta des approbations de documents ne sont pas correctement formatées.](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | mardi 22 avril 2024 |
 
 {style="table-layout:auto"}
