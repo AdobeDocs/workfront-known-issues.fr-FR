@@ -60,7 +60,7 @@ Lorsqu’une personne consulte les statuts des problèmes dans la Configuration,
 
 #### Utilisateurs
 
-**Impossible de supprimer les utilisateurs**
+**Impossible de supprimer des utilisateurs et utilisatrices.**
 
 Il est impossible de supprimer des utilisateurs et utilisatrices. Ce problème a été signalé dans les organisations qui ont migré vers Adobe Admin Console.
 

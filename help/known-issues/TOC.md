@@ -5,7 +5,7 @@ role: User
 source-git-commit: 2969b042d5328f11800b6f77e5d07dae5001068e
 workflow-type: tm+mt
 source-wordcount: '1937'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -20,12 +20,12 @@ ht-degree: 96%
       + [Groupes : impossible d’ajouter un sous-groupe](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
       + [Mises à jour : l’utilisateur balisé ne peut pas voir qui les a balisées.](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
       + [Accueil : nombre d’heures planifiées affichées en minutes](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md)
-      + [Documents : écran d’erreur lors du téléchargement ou de la prévisualisation d’une ressource](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
-      + [Utilisateurs : les attributs utilisateur ne sont pas mappés à partir de l’authentification unique](known-issues-workfront/wf-users-sso-attributes-not-mapped.md)
-      + [Programmes : tout accès au programme est perdu lorsque l’accès utilisateur au programme est mis à jour.](known-issues-workfront/wf-programs-permissions-not-inherited.md)
-      + [Documents : extension de fichier UNK lors de la liaison de documents à partir de l’intégration](known-issues-workfront/wf-documents-unk-file-extension.md)
-      + [Demandes : impossible d’accéder aux tableaux de bord sur la page de demande (&quot;../submit&quot; URL)](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md)
-      + [Intégrations : les utilisateurs obtiennent une erreur de requête incorrecte lors de l’utilisation de SSO](known-issues-workfront/wf-outlook-wrong-request.md)
+      + [Documents : écran d’erreur lors du téléchargement ou de la prévisualisation d’une ressource.](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
+      + [Utilisateurs ou utilisatrices : les attributs utilisateur et utilisatrice ne sont pas mappés à partir de l’authentification unique.](known-issues-workfront/wf-users-sso-attributes-not-mapped.md)
+      + [Programmes : tout accès au programme est perdu lorsque l’accès utilisateur ou utilisatrice au programme est mis à jour.](known-issues-workfront/wf-programs-permissions-not-inherited.md)
+      + [Documents : extension de fichier UNK lors de la liaison de documents à partir de l’intégration.](known-issues-workfront/wf-documents-unk-file-extension.md)
+      + [Demandes : impossible d’accéder aux tableaux de bord sur la page de la demande (URL &quot;../submitted&quot;).](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md)
+      + [Intégrations : les utilisateurs et utilisatrices obtiennent une erreur de demande incorrecte lors de l’utilisation de l’authentification unique.](known-issues-workfront/wf-outlook-wrong-request.md)
       + [Mises à jour : la copie et le collage d’une mention ne notifient pas la personne mentionnée.](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
       + [Projets : les projets créés à partir d’un problème utilisant un modèle ne reflètent pas la priorité définie dans le modèle.](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [Panoramas : le filtre avancé ne renvoie pas les cartes attendues.](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
