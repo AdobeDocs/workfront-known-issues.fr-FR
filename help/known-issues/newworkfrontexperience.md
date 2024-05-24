@@ -4,9 +4,9 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: a956e48c90eb41cd37bb6dc8e263083037d53691
+source-git-commit: 8e019afd934a4a5339a9623c4fa2f4a880326bd9
 workflow-type: tm+mt
-source-wordcount: '841'
+source-wordcount: '845'
 ht-degree: 98%
 
 ---
@@ -40,6 +40,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
+| [Configuration : la bannière « Connexion en tant que » n’apparaît pas en cas de connexion en tant qu’autre personne.](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | samedi 24 mai 2024 |
 | [Formulaires personnalisés : erreur lors de la modification de champs de texte descriptif](known-issues-workfront/wf-custom-forms-cannot-edit-description.md) | samedi 24 mai 2024 |
 | [Groupes : impossible d’ajouter un sous-groupe](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | vendredi 23 mai 2024 |
 | [Documents : écran d’erreur lors du téléchargement ou de la prévisualisation d’une ressource.](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | mardi 20 mai 2024 |
@@ -48,7 +49,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [Mises à jour : le lien dans le commentaire renvoie à un écran vide.](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | vendredi 9 mai 2024 |
 | [[!DNL Workfront Goals] : impossible de supprimer l’objectif](known-issues-workfront/wf-goals-cannot-delete-goal.md) | mardi 29 avril 2024 |
 | [Équipes : impossible d’afficher la personne propriétaire de l’équipe ou de supprimer l’équipe](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | vendredi 11 avril 2024 |
-| [Demandes : le champ calculé ne se met pas à jour lors du remplissage de la demande.](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | mercredi 9 avril 2024 |
 | [Épreuves : l’épreuve empêche la conversion de la tâche ou du problème en projet.](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | samedi 5 avril 2024 |
 | [Tâches : erreur bizContext lors de l’ajout ou de la suppression d’une tâche](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | vendredi 4 avril 2024 |
 | [Mises à jour : les utilisateurs Demandeur et utilisatrices Demandeuse ne peuvent pas ajouter d’images aux mises à jour.](known-issues-workfront/wf-updates-requestors-not-add-image.md) | samedi 8 mars 2024 |
