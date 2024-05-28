@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
+source-git-commit: c3e3297bd52a4189321102e75cd952ac5162f1fa
 workflow-type: tm+mt
-source-wordcount: '3678'
-ht-degree: 97%
+source-wordcount: '3781'
+ht-degree: 95%
 
 ---
 
@@ -21,6 +21,28 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2024.
 Pour connaître les mises à jour de maintenance antérieures à 2024, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates).
 
 ## Mises à jour de mai 2024
+
++++ **(Planifiée) Mise à jour de maintenance du vendredi 30 mai 2024**
+
+### Mise à jour de maintenance (planifiée) pour le vendredi 30 mai 2024.
+
+#### Formulaires personnalisés dans mon groupe
+
+Erreur lors de la modification des champs de texte descriptif
+
+Lorsqu’un utilisateur tente de modifier le texte descriptif sur un formulaire personnalisé, le texte n’est pas enregistré et l’utilisateur voit l’erreur suivante :
+
+&quot;La valeur de clé en double viole une contrainte unique&quot;
+
+Cela a été signalé dans l’ancien créateur de formulaires.
+
+#### Mises à jour
+
+**La copie et le collage d’une mention ne notifient pas l’utilisateur mentionné**
+
+Lorsqu’une personne copie un commentaire qui comprend une mention au format @, puis colle ce commentaire dans la zone Mises à jour d’un autre objet, la personne mentionnée n’est pas informée du commentaire collé.
+
++++
 
 +++ **Mise à jour de maintenance le vendredi 23 mai 2024**
 
