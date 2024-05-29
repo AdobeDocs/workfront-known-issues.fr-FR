@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: c3e3297bd52a4189321102e75cd952ac5162f1fa
+source-git-commit: d23c66b7f7002647dc4ebb2adc02a6a75130515b
 workflow-type: tm+mt
-source-wordcount: '1952'
-ht-degree: 98%
+source-wordcount: '1966'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Tâches : le rôle de tâche ne disparaît pas de la liste lorsque l’utilisateur est affecté à une tâche](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
       + [Utilisateurs : utilisateurs manquants lors d’affectations en bloc](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
       + [Formulaires personnalisés : erreur lors de la modification de champs de texte descriptif](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
       + [Groupes : impossible d’ajouter un sous-groupe](known-issues-workfront/wf-groups-cannot-add-subgroup.md)

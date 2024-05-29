@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c3e3297bd52a4189321102e75cd952ac5162f1fa
+source-git-commit: d23c66b7f7002647dc4ebb2adc02a6a75130515b
 workflow-type: tm+mt
-source-wordcount: '843'
-ht-degree: 97%
+source-wordcount: '869'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Tâches : le rôle de tâche ne disparaît pas de la liste lorsque l’utilisateur est affecté à une tâche](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | jeudi 29 mai 2024 |
 | [Programmes : tout accès au programme est perdu lorsque l’accès utilisateur ou utilisatrice au programme est mis à jour.](known-issues-workfront/wf-programs-permissions-not-inherited.md) | mardi 20 mai 2024 |
 | [Configuration : la bannière « Connexion en tant que » n’apparaît pas en cas de connexion en tant qu’autre personne.](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | mercredi 7 mai 2024 |
 | [Tâches : la création ou la duplication de tâches entraîne l’affichage de la liste de tâches dans un ordre incorrect.](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | mardi 26 février 2024 |
@@ -39,6 +40,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
+| [Projet : impossible de convertir le problème en projet si le document est joint.](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | jeudi 29 mai 2024 |
 | [Utilisateurs : utilisateurs manquants lors d’affectations en bloc](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | mercredi 28 mai 2024 |
 | [Configuration : la bannière « Connexion en tant que » n’apparaît pas en cas de connexion en tant qu’autre personne.](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | samedi 24 mai 2024 |
 | [Formulaires personnalisés : erreur lors de la modification de champs de texte descriptif](known-issues-workfront/wf-custom-forms-cannot-edit-description.md) | samedi 24 mai 2024 |
