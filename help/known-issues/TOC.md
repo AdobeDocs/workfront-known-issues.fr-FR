@@ -5,7 +5,7 @@ role: User
 source-git-commit: d23c66b7f7002647dc4ebb2adc02a6a75130515b
 workflow-type: tm+mt
 source-wordcount: '1966'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 97%
       + [Tâches : le rôle de tâche ne disparaît pas de la liste lorsque l’utilisateur est affecté à une tâche](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
       + [Utilisateurs : utilisateurs manquants lors d’affectations en bloc](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
       + [Formulaires personnalisés : erreur lors de la modification de champs de texte descriptif](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
-      + [Groupes : impossible d’ajouter un sous-groupe](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
-      + [Mises à jour : l’utilisateur balisé ne peut pas voir qui les a balisées.](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
-      + [Accueil : nombre d’heures planifiées affichées en minutes](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md)
+      + [Groupes : impossible d’ajouter un sous-groupe](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
+      + [Mises à jour : la personne taguée ne peut pas voir qui l’a taguée.](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
+      + [Accueil : les heures prévues s’affichent en minutes.](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md)
       + [Documents : écran d’erreur lors du téléchargement ou de la prévisualisation d’une ressource.](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
       + [Utilisateurs ou utilisatrices : les attributs utilisateur et utilisatrice ne sont pas mappés à partir de l’authentification unique.](known-issues-workfront/wf-users-sso-attributes-not-mapped.md)
       + [Programmes : tout accès au programme est perdu lorsque l’accès utilisateur ou utilisatrice au programme est mis à jour.](known-issues-workfront/wf-programs-permissions-not-inherited.md)

@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: bca3fbea3084dbb9fd763bee9f333b37a47bb90a
 workflow-type: tm+mt
 source-wordcount: '3779'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -50,21 +50,21 @@ Lorsqu’une personne copie un commentaire qui comprend une mention au format @,
 
 #### Rapports
 
-Lorsqu’un utilisateur consulte un rapport et clique sur le bouton Précédent du navigateur, l’un des événements suivants peut se produire :
+Lorsqu’une personne consulte un rapport et clique sur le bouton Précédent du navigateur, l’un des événements suivants peut se produire :
 
-* L’utilisateur reste sur la page Rapport.
-* L’utilisateur est dirigé vers la page d’entrée du navigateur.
-* L’utilisateur est dirigé vers la page de connexion.
+* La personne reste sur la page Rapport.
+* La personne est dirigée vers la page de destination du navigateur.
+* La personne est dirigée vers la page de connexion.
 
-Cela a été signalé avec le navigateur Chrome.
+Cela concerne le navigateur Chrome :
 
 #### Mises à jour
 
-**L’utilisateur balisé ne peut pas voir qui les a balisés.**
+**La personne taguée ne peut pas voir qui l’a taguée.**
 
-Lorsqu’un utilisateur est balisé dans une mise à jour, il ne peut pas voir qui l’a balisé. Cela se produit lorsque le paramètre &quot;Les personnes dans d’autres entreprises ne doivent afficher que les utilisateurs de...&quot; est défini sur &quot;Leur société&quot;.
+Lorsqu’une personne est taguée dans une mise à jour, elle ne peut pas voir qui l’a taguée. Cela se produit lorsque le paramètre « Les personnes d’autres entreprises ne devraient pouvoir visualiser que les utilisateurs de... » est défini sur « Leur entreprise ».
 
-**Le balisage d’un utilisateur avec @ dans le panneau Résumé est inefficace**
+**Mises à jour : taguer une personne avec @ dans le panneau Résumé ne fonctionne pas.**
 
 Lorsqu’une personne tente de taguer une autre personne à l’aide de @ dans la zone Mises à jour d’un panneau Résumé, cliquer sur le nom de la personne dans la liste déroulante ne fonctionne pas. La deuxième tentative fonctionne toutefois comme prévu.
 
