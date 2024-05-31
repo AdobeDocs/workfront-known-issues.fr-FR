@@ -4,7 +4,7 @@ description: « Les attributs d’authentification unique n’apparaissent pas 
 hidefromtoc: true
 feature: People Teams and Groups, System Setup and Administration
 source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
 ht-degree: 100%
 

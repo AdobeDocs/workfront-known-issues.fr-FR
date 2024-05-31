@@ -1,18 +1,18 @@
 ---
-title: "Groupes : impossible d’ajouter un sous-groupe"
-description: "Lorsqu’un utilisateur tente d’ajouter un sous-groupe existant à un groupe, le bouton Enregistrer est inefficace et le sous-groupe n’est pas ajouté."
+title: '« Groupes : impossible d’ajouter un sous-groupe. »'
+description: Lorsqu’une personne tente d’ajouter un sous-groupe existant à un groupe, le bouton Enregistrer ne fonctionne pas et le sous-groupe n’est pas ajouté.
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 2969b042d5328f11800b6f77e5d07dae5001068e
-workflow-type: tm+mt
+exl-id: c29668b9-46c3-432c-8773-2573de606b99
+source-git-commit: 103e1a2cd108ea21ea7c0c1d3c043a522aaefb43
+workflow-type: ht
 source-wordcount: '58'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
+# Groupes : impossible d’ajouter un sous-groupe
 
-# Groupes : impossible d’ajouter un sous-groupe
-
-Lorsqu’un utilisateur tente d’ajouter un sous-groupe existant à un groupe, le bouton Enregistrer est inefficace et le sous-groupe n’est pas ajouté.
+Lorsqu’une personne tente d’ajouter un sous-groupe existant à un groupe, le bouton Enregistrer ne fonctionne pas et le sous-groupe n’est pas ajouté.
 
 _Premier signalement le jeudi 1 mai 2024._
