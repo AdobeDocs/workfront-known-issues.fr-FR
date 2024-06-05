@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
+source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
 workflow-type: tm+mt
-source-wordcount: '1987'
-ht-degree: 97%
+source-wordcount: '2008'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Documents : erreur lors de l’utilisation d’un lien public vers un document](known-issues-workfront/wf-documents-public-link-not-working.md)
+      + [BAT : impossible de fermer la visionneuse de BAT](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
+      + [Projets : le menu Partage ne se charge pas](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
       + [Rapports : les liens publics vers un rapport ne fonctionnent pas](known-issues-workfront/wf-reports-public-link-not-working.md)
       + [[!UICONTROL Resource Planner]: impossible de partager le filtre](known-issues-workfront/wf-resource-planner-cannot-share-filter.md)
       + [La date d’achèvement réelle s’affiche sous la forme S.O.](known-issues-workfront/wf-projects-completion-date-is-na.md)

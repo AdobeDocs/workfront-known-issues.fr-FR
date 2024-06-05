@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
+source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
 workflow-type: tm+mt
-source-wordcount: '865'
-ht-degree: 93%
+source-wordcount: '880'
+ht-degree: 91%
 
 ---
 
@@ -41,9 +41,11 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
+| [Documents : erreur lors de l’utilisation d’un lien public vers un document](known-issues-workfront/wf-documents-public-link-not-working.md) | jeudi 5 juin 2024 |
+| [BAT : impossible de fermer la visionneuse de BAT](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | jeudi 5 juin 2024 |
+| [Projets : le menu Partage ne se charge pas](known-issues-workfront/wf-projects-cannot-share-task-issue.md) | jeudi 5 juin 2024 |
 | [[!UICONTROL Resource Planner]: impossible de partager le filtre](known-issues-workfront/wf-resource-planner-cannot-share-filter.md) | mercredi 4 juin 2024 |
 | [La date d’achèvement réelle s’affiche sous la forme S.O.](known-issues-workfront/wf-projects-completion-date-is-na.md) | mercredi 4 juin 2024 |
-| [Mises à jour : l’utilisateur balisé ne peut pas voir qui les a balisées.](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md) | mercredi 4 juin 2024 |
 | [Projet : impossible de convertir le problème en projet si le document est joint.](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | jeudi 29 mai 2024 |
 | [Utilisateurs : utilisateurs manquants lors d’affectations en bloc](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | mercredi 28 mai 2024 |
 | [Groupes : impossible d’ajouter un sous-groupe](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | vendredi 23 mai 2024 |
