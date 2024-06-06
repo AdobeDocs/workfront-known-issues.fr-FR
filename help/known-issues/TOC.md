@@ -5,7 +5,7 @@ role: User
 source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
 workflow-type: tm+mt
 source-wordcount: '2008'
-ht-degree: 96%
+ht-degree: 97%
 
 ---
 
@@ -23,9 +23,9 @@ ht-degree: 96%
       + [Rapports : les liens publics vers un rapport ne fonctionnent pas](known-issues-workfront/wf-reports-public-link-not-working.md)
       + [[!UICONTROL Resource Planner]: impossible de partager le filtre](known-issues-workfront/wf-resource-planner-cannot-share-filter.md)
       + [La date d’achèvement réelle s’affiche sous la forme S.O.](known-issues-workfront/wf-projects-completion-date-is-na.md)
-      + [Tâches : le rôle de tâche ne disparaît pas de la liste lorsque l’utilisateur est affecté à une tâche](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
-      + [Utilisateurs : utilisateurs manquants lors d’affectations en bloc](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
-      + [Formulaires personnalisés : erreur lors de la modification de champs de texte descriptif](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
+      + [Tâches : la fonction ne disparaît pas de la liste lorsque la personne est affectée à une tâche.](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
+      + [Utilisateurs et utilisatrices : utilisateurs et utilisatrices manquants lors d’affectations en masse](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
+      + [Formulaires personnalisés : erreur lors de la modification de champs de texte descriptif](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
       + [Groupes : impossible d’ajouter un sous-groupe](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
       + [Mises à jour : la personne taguée ne peut pas voir qui l’a taguée.](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
       + [Accueil : les heures prévues s’affichent en minutes.](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md)

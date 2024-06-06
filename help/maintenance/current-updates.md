@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
 workflow-type: tm+mt
 source-wordcount: '3808'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -38,15 +38,15 @@ Cette mise à jour inclut uniquement des correctifs mineurs ou moins importants.
 
 Erreur lors de la modification des champs de texte descriptif
 
-Lorsqu’un utilisateur tente de modifier le texte descriptif sur un formulaire personnalisé, le texte n’est pas enregistré et l’utilisateur voit l’erreur suivante :
+Lorsqu’une personne tente de modifier le texte descriptif sur un formulaire personnalisé, le texte n’est pas enregistré et l’erreur suivante s’affiche :
 
-&quot;La valeur de clé en double viole une contrainte unique&quot;
+« La valeur de clé en double viole la contrainte unique. »
 
-Cela a été signalé dans l’ancien créateur de formulaires.
+Ce problème a été signalé dans le créateur hérité de formulaires.
 
 #### Mises à jour
 
-**La copie et le collage d’une mention ne notifient pas l’utilisateur mentionné**
+**Copier et coller une mention ne notifie pas la personne mentionnée.**
 
 Lorsqu’une personne copie un commentaire qui comprend une mention au format @, puis colle ce commentaire dans la zone Mises à jour d’un autre objet, la personne mentionnée n’est pas informée du commentaire collé.
 

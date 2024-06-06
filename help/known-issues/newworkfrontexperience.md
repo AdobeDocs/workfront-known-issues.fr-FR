@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
 workflow-type: tm+mt
 source-wordcount: '880'
-ht-degree: 91%
+ht-degree: 94%
 
 ---
 
@@ -26,7 +26,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
 | [Rapports : les liens publics vers un rapport ne fonctionnent pas](known-issues-workfront/wf-reports-public-link-not-working.md) | mercredi 4 juin 2024 |
-| [Tâches : le rôle de tâche ne disparaît pas de la liste lorsque l’utilisateur est affecté à une tâche](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | jeudi 29 mai 2024 |
+| [Tâches : la fonction ne disparaît pas de la liste lorsque la personne est affectée à une tâche.](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | jeudi 29 mai 2024 |
 | [Programmes : tout accès au programme est perdu lorsque l’accès utilisateur ou utilisatrice au programme est mis à jour.](known-issues-workfront/wf-programs-permissions-not-inherited.md) | mardi 20 mai 2024 |
 | [Configuration : la bannière « Connexion en tant que » n’apparaît pas en cas de connexion en tant qu’autre personne.](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | mercredi 7 mai 2024 |
 | [Tâches : la création ou la duplication de tâches entraîne l’affichage de la liste de tâches dans un ordre incorrect.](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | mardi 26 février 2024 |
@@ -47,7 +47,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [[!UICONTROL Resource Planner]: impossible de partager le filtre](known-issues-workfront/wf-resource-planner-cannot-share-filter.md) | mercredi 4 juin 2024 |
 | [La date d’achèvement réelle s’affiche sous la forme S.O.](known-issues-workfront/wf-projects-completion-date-is-na.md) | mercredi 4 juin 2024 |
 | [Projet : impossible de convertir le problème en projet si le document est joint.](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | jeudi 29 mai 2024 |
-| [Utilisateurs : utilisateurs manquants lors d’affectations en bloc](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | mercredi 28 mai 2024 |
+| [Utilisateurs et utilisatrices : utilisateurs et utilisatrices manquants lors d’affectations en masse](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | mercredi 28 mai 2024 |
 | [Groupes : impossible d’ajouter un sous-groupe](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | vendredi 23 mai 2024 |
 | [Documents : écran d’erreur lors du téléchargement ou de la prévisualisation d’une ressource.](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | mardi 20 mai 2024 |
 | [Utilisateurs et utilisatrices : impossible de modifier le niveau d’accès de l’utilisateur ou de l’utilisatrice](known-issues-workfront/wf-users-cannot-modify-access-level.md) | mardi 20 mai 2024 |
