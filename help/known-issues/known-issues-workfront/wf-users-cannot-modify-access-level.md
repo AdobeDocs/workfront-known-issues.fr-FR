@@ -3,9 +3,9 @@ title: '« Utilisateurs et utilisatrices : impossible de modifier le niveau d�
 description: « Lorsqu’un administrateur ou une administratrice de groupes tente de modifier le niveau d’accès d’une personne du groupe, le champ de niveau d’accès est désactivé et l’administrateur ou l’administratrice de groupes ne peut pas modifier le niveau d’accès de la personne. »
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
-workflow-type: ht
-source-wordcount: '104'
+source-git-commit: 21fbdfeb58b40df15c74d75fc43fe78096828d84
+workflow-type: tm+mt
+source-wordcount: '110'
 ht-degree: 100%
 
 ---
@@ -13,13 +13,9 @@ ht-degree: 100%
 
 # Utilisateurs et utilisatrices : impossible de modifier le niveau d’accès de l’utilisateur ou de l’utilisatrice
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on May 9, 2024.
-
--->
+>Ce problème a été résolu le vendredi 6 juin 2024.
 
 Lorsqu’un administrateur ou une administratrice de groupes tente de modifier le niveau d’accès d’une personne du groupe, le champ de niveau d’accès est désactivé et l’administrateur ou l’administratrice de groupes ne peut pas modifier le niveau d’accès de la personne.
 

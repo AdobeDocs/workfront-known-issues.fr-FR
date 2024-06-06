@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
+source-git-commit: 21fbdfeb58b40df15c74d75fc43fe78096828d84
 workflow-type: tm+mt
-source-wordcount: '3808'
-ht-degree: 100%
+source-wordcount: '3824'
+ht-degree: 99%
 
 ---
 
@@ -24,7 +24,13 @@ Pour connaître les mises à jour de maintenance antérieures à 2024, consultez
 
 +++ **Mise à jour de maintenance le vendredi 6 juin 2024**
 
-Cette mise à jour inclut uniquement des correctifs mineurs ou moins importants. L’assistance [!DNL Workfront] vous avertira lorsqu’un problème que vous avez soumis sera résolu.
+### Mise à jour de maintenance le 6 juin 2024
+
+#### Formulaires personnalisés dans mon groupe
+
+**Limitation des champs natifs dans le concepteur de formulaires**
+
+Plusieurs champs natifs sont désormais pris en charge sur les formulaires personnalisés créés dans le concepteur de formulaires. Auparavant, la limite était d’un champ natif par formulaire.
 
 +++
 

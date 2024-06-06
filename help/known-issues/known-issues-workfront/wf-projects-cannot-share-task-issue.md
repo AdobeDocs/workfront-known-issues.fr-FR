@@ -1,17 +1,21 @@
 ---
 title: "Projets : le menu Partage ne se charge pas"
-description: "Lorsqu’un utilisateur tente de partager une tâche ou un problème, le menu Accorder l’accès X au , se charge en permanence, et l’utilisateur ne peut pas partager la tâche ou le problème."
+description: Lorsqu’un utilisateur tente de partager une tâche ou un problème, le menu Accorder l’accès X au , se charge en permanence, et l’utilisateur ne peut pas partager la tâche ou le problème.
 hidefromtoc: true
 feature: Projects, Tasks, Work Management
-source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
+exl-id: 3534300f-9c9b-4060-a83f-ae999c366187
+source-git-commit: 3566c011140842e2c901e70bf6babee2d7665ac2
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 5%
+source-wordcount: '76'
+ht-degree: 13%
 
 ---
 
-
 # Projets : le menu Partage ne se charge pas
+
+>[!NOTE]
+>
+>Ce problème a été résolu le vendredi 6 juin 2024.
 
 Lorsqu’un utilisateur tente de partager une tâche ou un problème, le menu &quot;Accorder l’accès X à&quot; se charge en continu, et l’utilisateur ne peut pas partager la tâche ou le problème.
 
