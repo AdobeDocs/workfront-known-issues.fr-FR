@@ -1,19 +1,19 @@
 ---
-title: "Utilisateurs : utilisateurs manquants lors d’affectations en bloc"
-description: '"Lorsqu’un utilisateur tente d’effectuer des affectations en bloc et qu’un rôle de tâche est attribué à la tâche, les utilisateurs disposant de ce rôle de tâche n’apparaissent pas dans la liste et l’utilisateur qui les affecte ne peut pas les sélectionner.  »'
+title: '« Utilisateurs et utilisatrices : utilisateurs et utilisatrices manquants lors d’affectations en masse »'
+description: « Lorsqu’une personne tente d’effectuer des affectations en masse et qu’une fonction est attribuée à la tâche, les personnes occupant cette fonction n’apparaissent pas dans la liste et la personne qui les affecte ne peut pas les sélectionner.  »
 hidefromtoc: true
 feature: People Teams and Groups
 source-git-commit: c3e3297bd52a4189321102e75cd952ac5162f1fa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Utilisateurs : utilisateurs manquants lors d’affectations en bloc
+# Utilisateurs et utilisatrices : utilisateurs et utilisatrices manquants lors d’affectations en masse
 
-Lorsqu’un utilisateur tente d’effectuer des affectations en bloc et qu’un rôle de tâche est attribué à la tâche, les utilisateurs disposant de ce rôle de tâche n’apparaissent pas dans la liste et l’utilisateur qui les affecte ne peut pas les sélectionner.
+Lorsqu’une personne tente d’effectuer des affectations en masse et qu’une fonction est attribuée à la tâche, les personnes occupant cette fonction n’apparaissent pas dans la liste et la personne qui les affecte ne peut pas les sélectionner.
 
 Ce comportement a également été signalé dans l’équilibreur de charge de travail.
 
