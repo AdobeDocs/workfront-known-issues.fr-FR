@@ -4,18 +4,22 @@ description: Lorsqu’un utilisateur ou une utilisatrice tente de convertir une 
 hidefromtoc: true
 feature: Digital Content and Documents, Projects, Tasks, Work Management
 exl-id: 0022db1d-7ad3-4229-96a8-fb3823e89d9f
-source-git-commit: 170d07d1223b1077e904ea848eeb894b120a974a
-workflow-type: ht
-source-wordcount: '152'
-ht-degree: 100%
+source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
+workflow-type: tm+mt
+source-wordcount: '178'
+ht-degree: 94%
 
 ---
 
 # Épreuves : l’épreuve empêche la conversion de la tâche ou du problème en projet.
 
+>[!NOTE]
+>
+>L’équipe produit évalue actuellement la résolution de ce problème. Une fois la résolution trouvée, elle sera communiquée dans les annonces de produits et non pas dans les mises à jour de maintenance.
+
 Lorsqu’un utilisateur ou une utilisatrice tente de convertir une tâche ou un problème qui inclut une épreuve générée sur le web en projet, le projet n’est pas créé et le message suivant s’affiche :
 
-« [!UICONTROL Un problème s’est produit lors de la copie du fichier] \xxxxxxxxstrong>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\u003C\/strong>. [!UICONTROL Supprimez le fichier ou contactez l’assistance et réessayez.] »
+&quot;[!UICONTROL Un problème s’est produit lors de la copie du fichier] \xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\u003C\. [!UICONTROL Supprimez le fichier ou contactez l’assistance et réessayez.] »
 
 **Solutions de contournement**
 
