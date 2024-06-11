@@ -1,17 +1,21 @@
 ---
 title: "Resource Planner : impossible de partager le filtre"
-description: "Lorsqu’un utilisateur tente de partager un filtre dans la variable [!UICONTROL Resource Planner], ils ne peuvent pas partager le filtre et affichent un message d’erreur."
+description: Lorsqu’un utilisateur tente de partager un filtre dans la variable [!UICONTROL Resource Planner], ils ne peuvent pas partager le filtre et affichent un message d’erreur.
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
+exl-id: 0f35655e-96b7-4279-b536-63106276efc3
+source-git-commit: 8c6ab11bcafbfd09c204e239b831095871a0e9b3
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 17%
+source-wordcount: '86'
+ht-degree: 23%
 
 ---
 
-
 # [!UICONTROL Resource Planner]: impossible de partager le filtre
+
+>[!NOTE]
+>
+>Ce problème a été résolu le mardi 10 juin 2024.
 
 Lorsqu’un utilisateur tente de partager un filtre dans la variable [!UICONTROL Resource Planner], ils ne peuvent pas partager le filtre et voir le message suivant :
 

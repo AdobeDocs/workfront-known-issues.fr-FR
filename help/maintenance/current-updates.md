@@ -3,9 +3,9 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 21fbdfeb58b40df15c74d75fc43fe78096828d84
+source-git-commit: 8c6ab11bcafbfd09c204e239b831095871a0e9b3
 workflow-type: tm+mt
-source-wordcount: '3824'
+source-wordcount: '3861'
 ht-degree: 99%
 
 ---
@@ -21,6 +21,18 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2024.
 Pour connaître les mises à jour de maintenance antérieures à 2024, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates).
 
 ## Mises à jour de juin 2024
+
++++**(Planifiée) Mise à jour de maintenance du vendredi 13 juin 2024**
+
+### **(Planifiée) Mise à jour de maintenance du vendredi 13 juin 2024**
+
+#### Groupes
+
+**Impossible d’ajouter un sous-groupe**
+
+Lorsqu’une personne tente d’ajouter un sous-groupe existant à un groupe, le bouton Enregistrer ne fonctionne pas et le sous-groupe n’est pas ajouté.
+
++++
 
 +++ **Mise à jour de maintenance le vendredi 6 juin 2024**
 

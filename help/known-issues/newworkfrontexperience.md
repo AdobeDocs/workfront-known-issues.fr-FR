@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: db13d8e9f23ef3edc18550c1b502f82212af2282
+source-git-commit: 8c6ab11bcafbfd09c204e239b831095871a0e9b3
 workflow-type: tm+mt
-source-wordcount: '801'
-ht-degree: 96%
+source-wordcount: '806'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Navigation : le bouton Retour ne revient pas à la page précédente](known-issues-workfront/wf-navigation-back-button-not-work.md) | mercredi 11 juin 2024 |
 | [Configuration : la bannière « Connexion en tant que » n’apparaît pas en cas de connexion en tant qu’autre personne.](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | mercredi 7 mai 2024 |
 
 {style="table-layout:auto"}
@@ -39,7 +40,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [Tâches : la fonction ne disparaît pas de la liste lorsque la personne est affectée à une tâche.](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | samedi 7 juin 2024 |
 | [Documents : erreur lors de l’utilisation d’un lien public vers un document](known-issues-workfront/wf-documents-public-link-not-working.md) | jeudi 5 juin 2024 |
 | [BAT : impossible de fermer la visionneuse de BAT](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | jeudi 5 juin 2024 |
-| [[!UICONTROL Resource Planner]: impossible de partager le filtre](known-issues-workfront/wf-resource-planner-cannot-share-filter.md) | mercredi 4 juin 2024 |
 | [Projet : impossible de convertir le problème en projet si le document est joint.](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | jeudi 29 mai 2024 |
 | [Utilisateurs et utilisatrices : utilisateurs et utilisatrices manquants lors d’affectations en masse](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | mercredi 28 mai 2024 |
 | [Groupes : impossible d’ajouter un sous-groupe](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | vendredi 23 mai 2024 |
