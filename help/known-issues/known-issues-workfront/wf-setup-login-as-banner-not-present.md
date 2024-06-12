@@ -5,13 +5,13 @@ hidefromtoc: true
 feature: System Setup and Administration
 exl-id: fc90bd88-933d-480b-a8c0-b653e6070625
 source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '118'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
-# Configuration : la bannière &quot;Connecté en tant que&quot; ne s’affiche pas lorsque vous êtes connecté en tant qu’autre utilisateur.
+# Configuration : la bannière « Connexion en tant que » n’apparaît pas en cas de connexion en tant qu’autre personne.
 
 >[!NOTE]
 >

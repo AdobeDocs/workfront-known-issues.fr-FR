@@ -4,7 +4,7 @@ description: « Lorsqu’une personne est taguée dans une mise à jour, elle n
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
 ht-degree: 100%
 
