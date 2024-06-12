@@ -5,7 +5,7 @@ role: User
 source-git-commit: 8c6ab11bcafbfd09c204e239b831095871a0e9b3
 workflow-type: tm+mt
 source-wordcount: '2018'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -18,12 +18,12 @@ ht-degree: 97%
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
       + [Navigation : le bouton Retour ne revient pas à la page précédente](known-issues-workfront/wf-navigation-back-button-not-work.md)
-      + [Documents : erreur lors de l’utilisation d’un lien public vers un document](known-issues-workfront/wf-documents-public-link-not-working.md)
-      + [BAT : impossible de fermer la visionneuse de BAT](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
-      + [Projets : le menu Partage ne se charge pas](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
-      + [Rapports : les liens publics vers un rapport ne fonctionnent pas](known-issues-workfront/wf-reports-public-link-not-working.md)
-      + [[!UICONTROL Resource Planner]: impossible de partager le filtre](known-issues-workfront/wf-resource-planner-cannot-share-filter.md)
-      + [La date d’achèvement réelle s’affiche sous la forme S.O.](known-issues-workfront/wf-projects-completion-date-is-na.md)
+      + [Documents : erreur lors de l’utilisation d’un lien public vers un document](known-issues-workfront/wf-documents-public-link-not-working.md)
+      + [Épreuves : impossible de fermer la visionneuse de relecture](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
+      + [Projets : le menu Partage ne se charge pas.](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
+      + [Rapports : les liens publics vers un rapport ne fonctionnent pas.](known-issues-workfront/wf-reports-public-link-not-working.md)
+      + [[!UICONTROL Planificateur de ressources] : impossible de partager le filtre](known-issues-workfront/wf-resource-planner-cannot-share-filter.md)
+      + [La date d’achèvement effective affiche S/O.](known-issues-workfront/wf-projects-completion-date-is-na.md)
       + [Tâches : la fonction ne disparaît pas de la liste lorsque la personne est affectée à une tâche.](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
       + [Utilisateurs et utilisatrices : utilisateurs et utilisatrices manquants lors d’affectations en masse](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
       + [Formulaires personnalisés : erreur lors de la modification de champs de texte descriptif](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
