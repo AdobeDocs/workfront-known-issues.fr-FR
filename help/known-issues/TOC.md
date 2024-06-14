@@ -2,9 +2,9 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 41daceaf1b4300b4d71a459e3203d5a387ab1c28
+source-git-commit: adfa446a98afa884e49823fbfbd21a83d6dddcc3
 workflow-type: tm+mt
-source-wordcount: '2029'
+source-wordcount: '2036'
 ht-degree: 98%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Planification des ressources : [!UICONTROL Plus] n’est pas visible](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
       + [Statuts : impossible de réutiliser l’état précédemment supprimé](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
       + [Accueil : impossible de supprimer le widget Mentions](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
       + [Navigation : le bouton Retour ne revient pas à la page précédente](known-issues-workfront/wf-navigation-back-button-not-work.md)

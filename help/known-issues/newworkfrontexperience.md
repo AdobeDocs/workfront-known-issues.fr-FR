@@ -4,9 +4,9 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 64b4631aa965e303c559fc189cd1fb812a4c027e
+source-git-commit: adfa446a98afa884e49823fbfbd21a83d6dddcc3
 workflow-type: tm+mt
-source-wordcount: '794'
+source-wordcount: '795'
 ht-degree: 97%
 
 ---
@@ -25,6 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Planification des ressources : [!UICONTROL Plus] n’est pas visible](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | samedi 14 juin 2024 |
 | [Navigation : le bouton Retour ne revient pas à la page précédente](known-issues-workfront/wf-navigation-back-button-not-work.md) | mercredi 11 juin 2024 |
 | [Configuration : la bannière « Connexion en tant que » n’apparaît pas en cas de connexion en tant qu’autre personne.](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | mercredi 7 mai 2024 |
 
@@ -36,7 +37,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
-| [Statuts : impossible de réutiliser l’état précédemment supprimé](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md) | vendredi 13 juin 2024 |
 | [Programmes : tout accès au programme est perdu lorsque l’accès utilisateur ou utilisatrice au programme est mis à jour.](known-issues-workfront/wf-programs-permissions-not-inherited.md) | samedi 7 juin 2024 |
 | [Tâches : la fonction ne disparaît pas de la liste lorsque la personne est affectée à une tâche.](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | samedi 7 juin 2024 |
 | [Documents : erreur lors de l’utilisation d’un lien public vers un document](known-issues-workfront/wf-documents-public-link-not-working.md) | jeudi 5 juin 2024 |
