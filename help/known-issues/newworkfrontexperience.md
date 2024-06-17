@@ -4,9 +4,9 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f78fa5cbcd333b4e2534f2b0dedf603eb915996a
+source-git-commit: aa221eafef81c6bdd29f8286f44e924323744625
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '823'
 ht-degree: 95%
 
 ---
@@ -39,6 +39,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
+| [Documents : écran d’erreur lors du téléchargement ou de la prévisualisation d’une ressource.](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | mardi 17 juin 2024 |
 | [Programmes : tout accès au programme est perdu lorsque l’accès utilisateur ou utilisatrice au programme est mis à jour.](known-issues-workfront/wf-programs-permissions-not-inherited.md) | samedi 7 juin 2024 |
 | [Tâches : la fonction ne disparaît pas de la liste lorsque la personne est affectée à une tâche.](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | samedi 7 juin 2024 |
 | [Documents : erreur lors de l’utilisation d’un lien public vers un document](known-issues-workfront/wf-documents-public-link-not-working.md) | jeudi 5 juin 2024 |
