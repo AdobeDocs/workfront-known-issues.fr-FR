@@ -1,13 +1,13 @@
 ---
-title: 'Accueil : les tâches des projets dont l’état est Approuvé ou Planification ne sont pas incluses dans Mes tâches ou Liste de travail à domicile'
-description: Les tâches des projets dont le statut est Approuvé ou Planification ne s’affichent pas dans Accueil. Une solution de contournement est disponible.
+title: '« Accueil : les tâches des projets dont le statut est Approuvé ou Planification ne sont pas incluses dans Mes tâches ou la Liste de travail de l’accueil. »'
+description: Les tâches des projets dont le statut est Approuvé ou Planification ne s’affichent pas dans l’accueil. Une solution de contournement est disponible.
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 5994508b-ee9f-40a9-bca3-e17d7a7708b5
 source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '195'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 

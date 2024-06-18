@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: b35d21a3-6d8b-48af-87fc-e0f63cf0194c
 source-git-commit: db13d8e9f23ef3edc18550c1b502f82212af2282
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -19,8 +19,8 @@ Lorsqu’un utilisateur ou une utilisatrice consulte une épreuve dans la vision
 
 Utilisez l’une des méthodes suivantes :
 
-* Cliquez sur le nom du document dans l’e-mail pour accéder au document, puis ouvrez l’épreuve à partir de là. Cela peut permettre au X de fonctionner comme prévu.
-* Essayez de fermer le BAT à nouveau.
+* Cliquez sur le nom du document dans l’e-mail pour accéder au document, puis ouvrez l’épreuve à partir de là. Cela peut permettre à l’action de fermeture (clic sur X) de fonctionner comme prévu.
+* Essayez de fermer l’épreuve à nouveau.
 * Fermez l’épreuve en fermant l’onglet du navigateur.
 
-_Premier signalement le samedi 31 mai 2024._
+_Premier signalement le 31 mai 2024._

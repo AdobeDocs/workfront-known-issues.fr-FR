@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 12fe08b3-1aa5-442e-ab23-ecc6d491359c
 source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '116'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Ce problème a été résolu le vendredi 6 juin 2024.
+>Ce problème a été résolu le 6 juin 2024.
 
 Lorsqu’un utilisateur ou une utilisatrice clique sur un lien public vers un rapport, une erreur s’affiche. L’erreur spécifique dépend du navigateur utilisé.
 
@@ -27,4 +27,4 @@ Les utilisateurs et utilisatrices ayant accès à Workfront peuvent se connecter
 
 Il n’existe actuellement aucune solution de contournement pour les personnes externes.
 
-_Premier signalement le jeudi 22 mai 2024._
+_Premier signalement le 22 mai 2024._

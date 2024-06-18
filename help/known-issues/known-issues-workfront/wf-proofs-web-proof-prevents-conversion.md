@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents, Projects, Tasks, Work Management
 exl-id: 0022db1d-7ad3-4229-96a8-fb3823e89d9f
 source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '178'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 94%
 
 Lorsqu’un utilisateur ou une utilisatrice tente de convertir une tâche ou un problème qui inclut une épreuve générée sur le web en projet, le projet n’est pas créé et le message suivant s’affiche :
 
-&quot;[!UICONTROL Un problème s’est produit lors de la copie du fichier] \xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\u003C\. [!UICONTROL Supprimez le fichier ou contactez l’assistance et réessayez.] »
+« [!UICONTROL Un problème est survenu lors de la copie du fichier] \xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\u003C\. » [!UICONTROL Supprimez le fichier ou contactez l’assistance et réessayez.] »
 
 **Solutions de contournement**
 
@@ -29,5 +29,5 @@ Procédez comme suit :
 2. Convertissez la tâche ou le problème en projet.
 3. Utilisez la fonctionnalité Déplacer document pour déplacer l’épreuve vers le nouveau projet.
 
-_Premier signalement le vendredi 28 mars 2024._
+_Premier signalement le 28 mars 2024._
 
