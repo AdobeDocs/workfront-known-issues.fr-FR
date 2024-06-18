@@ -4,8 +4,8 @@ user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
 source-git-commit: 82b4e84ed06aab1c4f6da30196f000413f910706
 workflow-type: tm+mt
-source-wordcount: '1627'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 97%
       + [Planification des ressources : [!UICONTROL Plus] n’est pas visible](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
       + [Statuts : impossible de réutiliser l’état précédemment supprimé](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
       + [Accueil : impossible de supprimer le widget Mentions](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
-      + [Navigation : le bouton Retour ne revient pas à la page précédente](known-issues-workfront/wf-navigation-back-button-not-work.md)
+      + [Navigation : le bouton Retour ne revient pas à la page précédente.](known-issues-workfront/wf-navigation-back-button-not-work.md)
       + [Documents : erreur lors de l’utilisation d’un lien public vers un document](known-issues-workfront/wf-documents-public-link-not-working.md)
       + [Épreuves : impossible de fermer la visionneuse de relecture](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
       + [Projets : le menu Partage ne se charge pas.](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
@@ -115,7 +115,7 @@ ht-degree: 97%
       + [Panoramas : les cartes ne se déplacent pas vers la colonne appropriée lorsque le statut est modifié](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md)
       + [Configuration : impossible d’utiliser les [!UICONTROL Démarrages] pour créer des regroupements](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md)
       + [Panoramas : les cartes déplacées dans une colonne reviennent à la colonne d’origine après actualisation](known-issues-workfront/inactive/wf-boards-cards-not-move-to-custom-status.md)
-      + [Documents : impossible d’accéder à  [!DNL SharePoint]](known-issues-workfront/inactive/wf-docs-sharepoint-authorization-required.md)
+      + [Documents : impossible d’accéder à [!DNL SharePoint]](known-issues-workfront/inactive/wf-docs-sharepoint-authorization-required.md)
       + [Tableau de bord : grande marge vide lors de l’impression d’un tableau de bord en PDF](known-issues-workfront/inactive/wf-dashboard-blank-area-when-printing.md)
       + [Accueil : les tâches des projets dont le statut est Approuvé ou Planification ne sont pas incluses dans Mes tâches ou la liste de travail dans Accueil](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
       + [Bons à tirer : chemin de navigation manquant lors de l’accès au BAT à partir du lien de l’e-mail](known-issues-workfront/wf-proofs-breadcrumb-missing.md)
@@ -129,7 +129,7 @@ ht-degree: 97%
       + [[!UICONTROL Accueil] : le widget [!UICONTROL Mentions] du nouvel [!UICONTROL Accueil] ne se limite pas aux messages dans lesquels la personne est mentionnée.](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md)
       + [[!UICONTROL Configuration] : impossible d’exporter les journaux d’audit](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md)
       + [Épreuves : les épreuves n’apparaissent pas comme approuvées dans les rapports.](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md)
-      + [Intégrations de document : impossible de voir tous les dossiers dans  [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
+      + [Intégrations de document : impossible de voir tous les dossiers dans [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
       + [Épreuves : les options d’approbation n’apparaissent pas dans le [!UICONTROL Lecteur de vérification].](known-issues-workfront/inactive/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
       + [Épreuves : les épreuves sont créées lentement dans l’environnement Aperçu](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md)
       + [Formulaires personnalisés : erreur « [!UICONTROL Oups] » lors de la configuration d’un champ calculé](known-issues-workfront/inactive/wf-custom-forms-error-with-calculated-field.md)

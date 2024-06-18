@@ -5,8 +5,8 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 41daceaf1b4300b4d71a459e3203d5a387ab1c28
 workflow-type: tm+mt
-source-wordcount: '3859'
-ht-degree: 99%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -34,23 +34,23 @@ Lorsqu’une personne tente d’ajouter un sous-groupe existant à un groupe, le
 
 +++
 
-+++ **Mise à jour de maintenance le vendredi 6 juin 2024**
++++ **Mise à jour de maintenance le 6 juin 2024**
 
-### Mise à jour de maintenance le 6 juin 2024
+### Mise à jour de maintenance le 6 juin 2024
 
 #### Formulaires personnalisés dans mon groupe
 
-**Limitation des champs natifs dans le concepteur de formulaires**
+**Limitation des champs natifs dans le créateur de formulaire**
 
-Plusieurs champs natifs sont désormais pris en charge sur les formulaires personnalisés créés dans le concepteur de formulaires. Auparavant, la limite était d’un champ natif par formulaire.
+Plusieurs champs natifs sont désormais pris en charge sur les formulaires personnalisés créés dans le créateur de formulaire. Auparavant, la limite était d’un champ natif par formulaire.
 
 +++
 
 ## Mises à jour de mai 2024
 
-+++ **Mise à jour de maintenance le vendredi 30 mai 2024**
++++ **Mise à jour de maintenance le 30 mai 2024**
 
-### Mise à jour de maintenance le vendredi 30 mai 2024
+### Mise à jour de maintenance le 30 mai 2024
 
 #### Formulaires personnalisés dans mon groupe
 
@@ -70,9 +70,9 @@ Lorsqu’une personne copie un commentaire qui comprend une mention au format @,
 
 +++
 
-+++ **Mise à jour de maintenance le vendredi 23 mai 2024**
++++ **Mise à jour de maintenance le 23 mai 2024**
 
-### Mise à jour de maintenance le vendredi 23 mai 2024
+### Mise à jour de maintenance le 23 mai 2024
 
 #### Rapports
 
@@ -96,9 +96,9 @@ Lorsqu’une personne tente de taguer une autre personne à l’aide de @ dans l
 
 +++
 
-+++**Mise à jour de maintenance le vendredi 16 mai 2024**
++++**Mise à jour de maintenance le 16 mai 2024**
 
-### Mise à jour de maintenance le vendredi 16 mai 2024
+### Mise à jour de maintenance le 16 mai 2024
 
 #### Configuration
 
@@ -114,15 +114,15 @@ Il est impossible de supprimer des utilisateurs et utilisatrices. Ce problème a
 
 +++
 
-+++**Mise à jour de maintenance le vendredi 9 mai 2024**
++++**Mise à jour de maintenance le 9 mai 2024**
 
-### Mise à jour de maintenance le vendredi 9 mai 2024
+### Mise à jour de maintenance le 9 mai 2024
 
 Cette mise à jour inclut uniquement des correctifs mineurs ou moins importants. L’assistance [!DNL Workfront] vous avertira lorsqu’un problème que vous avez soumis sera résolu.
 
 +++
 
-+++**Mise à jour de maintenance le vendredi 2 mai 2024**
++++**Mise à jour de maintenance le 2 mai 2024**
 
 ### Mise à jour de maintenance le 2 mai 2024
 
@@ -136,9 +136,9 @@ Lorsqu’un utilisateur ou une utilisatrice tente de modifier les heures sur une
 
 ## Mises à jour d’avril 2024
 
-+++**Mise à jour de maintenance le vendredi 25 avril 2024**
++++**Mise à jour de maintenance le 25 avril 2024**
 
-### Mise à jour de maintenance le vendredi 25 avril 2024
+### Mise à jour de maintenance le 25 avril 2024
 
 #### Mises à jour
 
@@ -156,9 +156,9 @@ Cela a été signalé dans la nouvelle expérience de commentaire.
 
 +++
 
-+++**Mise à jour de maintenance le vendredi 18 avril 2024**
++++**Mise à jour de maintenance le 18 avril 2024**
 
-### Mise à jour de maintenance le vendredi 18 avril 2024
+### Mise à jour de maintenance le 18 avril 2024
 
 #### Agile
 
@@ -190,9 +190,9 @@ Lorsqu’un problème est associé à une épreuve web (une épreuve d’URL uti
 
 +++
 
-+++**Mise à jour de maintenance le vendredi 11 avril 2024**
++++**Mise à jour de maintenance le 11 avril 2024**
 
-### Mise à jour de maintenance le vendredi 11 avril 2024
+### Mise à jour de maintenance le 11 avril 2024
 
 #### Recherche
 
@@ -216,7 +216,7 @@ Lorsqu’un utilisateur ou une utilisatrice tente de répondre à un message dan
 
 +++
 
-+++**Mise à jour de maintenance le vendredi 4 avril 2024**
++++**Mise à jour de maintenance le 4 avril 2024**
 
 ### Mise à jour de maintenance le 4 avril 2024
 
@@ -242,7 +242,7 @@ Lorsqu’un utilisateur ou une utilisatrice tente de répondre à un message dan
 
 +++
 
-+++**Mise à jour de maintenance le vendredi 4 avril 2024**
++++**Mise à jour de maintenance le 4 avril 2024**
 
 ### Mise à jour de maintenance le 4 avril 2024
 
@@ -279,9 +279,9 @@ L’expérience de commentaire héritée fonctionne comme prévu.
 
 ## Mises à jour de mars 2024
 
-+++**Mise à jour de maintenance le vendredi 28 mars 2024**
++++**Mise à jour de maintenance le 28 mars 2024**
 
-### Mise à jour de maintenance le vendredi 28 mars 2024
+### Mise à jour de maintenance le 28 mars 2024
 
 #### Intégrations
 
@@ -332,7 +332,7 @@ Ce problème a été signalé dans la nouvelle expérience de commentaire.
 
 +++
 
-+++**Mise à jour de maintenance de Workfront Fusion le vendredi 28 mars 2024**
++++**Mise à jour de maintenance de Workfront Fusion le 28 mars 2024**
 
 ### Mise à jour de maintenance de Workfront Fusion le 28 mars 2024
 
@@ -344,9 +344,9 @@ Cela peut se produire si la réponse est extrêmement longue. Les données sont 
 
 +++
 
-+++**Mise à jour de maintenance le vendredi 21 mars 2024**
++++**Mise à jour de maintenance le 21 mars 2024**
 
-### Mise à jour de maintenance le vendredi 21 mars 2024
+### Mise à jour de maintenance le 21 mars 2024
 
 #### Mises à jour
 
@@ -364,9 +364,9 @@ Ce correctif s’applique uniquement à la nouvelle expérience de commentaire.
 
 +++
 
-+++**Mise à jour de maintenance le vendredi 14 mars 2024**
++++**Mise à jour de maintenance le 14 mars 2024**
 
-### Mise à jour de maintenance le vendredi 14 mars 2024
+### Mise à jour de maintenance le 14 mars 2024
 
 #### Épreuves
 
@@ -384,7 +384,7 @@ Lorsqu’un utilisateur ou une utilisatrice crée une autre personne, seul son p
 
 +++
 
-+++**Mise à jour de maintenance le vendredi 7 mars 2024**
++++**Mise à jour de maintenance le 7 mars 2024**
 
 ### Mise à jour de maintenance le 7 mars 2024
 
@@ -423,9 +423,9 @@ Les scénarios qui utilisent le module Workfront Proof > Module de surveillanc
 
 ## Mises à jour de février 2024
 
-+++**Mise à jour de maintenance du vendredi 29 février 2024**
++++**Mise à jour de maintenance le 29 février 2024**
 
-### Mise à jour de maintenance du vendredi 29 février 2024
+### Mise à jour de maintenance le 29 février 2024
 
 #### Mises à jour
 
@@ -437,9 +437,9 @@ Cela est dû au fait que la personne n’est pas autorisée à voir les utilisat
 
 +++
 
-+++**Mise à jour de maintenance du vendredi 22 février 2024**
++++**Mise à jour de maintenance le 22 février 2024**
 
-### Mise à jour de maintenance du vendredi 22 février 2024
+### Mise à jour de maintenance le 22 février 2024
 
 #### Page d’accueil
 
@@ -469,9 +469,9 @@ L’équilibreur de charge de travail et le calendrier des congés affichent dé
 
 +++
 
-+++**Mise à jour de maintenance du vendredi 15 février 2024**
++++**Mise à jour de maintenance le 15 février 2024**
 
-### Mise à jour de maintenance du vendredi 15 février 2024
+### Mise à jour de maintenance le 15 février 2024
 
 #### Problèmes
 
@@ -493,9 +493,9 @@ Quand un administrateur ou une administratrice [!DNL Workfront] désactive l’o
 
 +++
 
-+++**Mise à jour de maintenance du vendredi 8 février 2024**
++++**Mise à jour de maintenance le 8 février 2024**
 
-### Mise à jour de maintenance du 8 février 2024
+### Mise à jour de maintenance le 8 février 2024
 
 #### Panneaux
 
@@ -523,7 +523,7 @@ Cela est dû au fait que les fonctions créent automatiquement des taux en doubl
 
 +++
 
-+++**Mise à jour de maintenance du vendredi 1 février 2024**
++++**Mise à jour de maintenance le 1 février 2024**
 
 ### Mise à jour de maintenance le 1er février 2024
 
@@ -545,7 +545,7 @@ Lorsqu’une personne tente de copier un modèle nouveau ou existant, celui-ci n
 
 ## Mises à jour de janvier 2024
 
-+++**Mise à jour de maintenance (correctif) le mercredi 30 janvier 2024**
++++**Mise à jour de maintenance (correctif) le 30 janvier 2024**
 
 ### Mise à jour de maintenance (correctif) le 30 janvier 2024
 
@@ -559,9 +559,9 @@ Désormais, lorsqu’un champ personnalisé de recherche externe est utilisé da
 
 +++
 
-+++**Mise à jour de maintenance du vendredi 25 janvier 2024**
++++**Mise à jour de maintenance le 25 janvier 2024**
 
-### Mise à jour de maintenance du vendredi 25 janvier 2024
+### Mise à jour de maintenance le 25 janvier 2024
 
 #### Panneaux
 
@@ -590,9 +590,9 @@ La personne reçoit une notification par e-mail concernant la balise, comme pré
 
 +++
 
-+++**Mise à jour de maintenance du vendredi 18 janvier 2024**
++++**Mise à jour de maintenance le 18 janvier 2024**
 
-### Mise à jour de maintenance du vendredi 18 janvier 2024
+### Mise à jour de maintenance le 18 janvier 2024
 
 #### Panneaux
 
@@ -692,9 +692,9 @@ Un commentaire effectué dans l’expérience de commentaire héritée peut ne p
 
 +++
 
-+++**Mise à jour de maintenance du vendredi 11 janvier 2024**
++++**Mise à jour de maintenance le 11 janvier 2024**
 
-### Mise à jour de maintenance du vendredi 11 janvier 2024
+### Mise à jour de maintenance le 11 janvier 2024
 
 #### Panneaux
 
