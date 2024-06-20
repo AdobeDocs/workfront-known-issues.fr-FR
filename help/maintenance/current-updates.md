@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 41daceaf1b4300b4d71a459e3203d5a387ab1c28
+source-git-commit: 54183096bca61f6bf6e58062555b9e07282137f1
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '3963'
+ht-degree: 99%
 
 ---
 
@@ -21,6 +21,27 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2024.
 Pour connaître les mises à jour de maintenance antérieures à 2024, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates).
 
 ## Mises à jour de juin 2024
+
++++**(Planifiée) Mise à jour de maintenance le vendredi 20 juin 2024**
+
+### Mise à jour de maintenance (planifiée) pour le vendredi 20 juin 2024.
+
+#### Navigation
+
+**Le bouton Retour ne revient pas à la page précédente**
+
+Lorsqu’un utilisateur ou une utilisatrice de Workfront clique sur le bouton Retour de son navigateur, l’une des situations suivantes peut se produire.
+
+* Le nom de l’onglet du navigateur change, mais la page ne change pas. Le fait de cliquer à nouveau sur le bouton Retour peut résoudre le problème.
+* La personne est dirigée vers la page de destination de son navigateur.
+
+#### Épreuves
+
+**Impossible de fermer la visionneuse de BAT**
+
+Lorsqu’un utilisateur ou une utilisatrice consulte une épreuve dans la visionneuse de relecture et tente de fermer l’épreuve en cliquant sur le X dans le coin supérieur droit, l’épreuve ne se ferme pas.
+
++++
 
 +++**Mise à jour de maintenance le vendredi 13 juin 2024**
 
