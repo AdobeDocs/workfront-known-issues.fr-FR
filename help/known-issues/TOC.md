@@ -2,9 +2,9 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 865816354c9891a4ad15985e8679b59dcce8ad24
+source-git-commit: 1857044b49332a4c49fcc440d935937dc937c61d
 workflow-type: tm+mt
-source-wordcount: '1648'
+source-wordcount: '1652'
 ht-degree: 96%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Approbations : trop de redirections](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
       + [Mises à jour : le lien copié ne colle pas correctement](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
       + [Rapports : &quot;Aucune donnée à afficher&quot; lorsque le nom du groupement comporte une barre oblique](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
       + [Intégrations : problèmes d’intégration de Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md)
