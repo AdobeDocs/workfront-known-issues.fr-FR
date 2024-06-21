@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0c35343702267443ecc8cc3c506f941ed479b81e
+source-git-commit: 9b8060b70250b75f8777e8815af45ec525c4e860
 workflow-type: tm+mt
-source-wordcount: '1663'
-ht-degree: 95%
+source-wordcount: '1685'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Rapports : le rapport ne se charge pas lorsque la devise par défaut est USD.](known-issues-workfront/wf-reports-default-currency-error.md)
+      + [Panoramas : le panorama ne s’affiche pas en tant qu’utilisateur lors de l’utilisation de [!UICONTROL Connectez-vous en tant que]](known-issues-workfront/wf-boards-log-in-as.md)
       + [Accueil : le widget Mes problèmes n’affiche pas les problèmes fermés ou terminés](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
       + [Approbations : trop de redirections](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
       + [Mises à jour : le lien copié ne colle pas correctement](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
