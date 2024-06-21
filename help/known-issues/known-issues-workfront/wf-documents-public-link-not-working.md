@@ -4,14 +4,18 @@ description: Lorsqu’un utilisateur ou une utilisatrice clique sur un lien publ
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: c5ef7b1b-7652-4a41-980d-210b7b48a586
-source-git-commit: 492e3e74ffb96d976f160d2d2c3656a270a77ae2
-workflow-type: ht
-source-wordcount: '85'
+source-git-commit: d34df8cd575d6b17a02bc4ed25fa5ca891c2afe7
+workflow-type: tm+mt
+source-wordcount: '90'
 ht-degree: 100%
 
 ---
 
 # Documents : erreur lors de l’utilisation d’un lien public vers un document
+
+>[!NOTE]
+>
+>Ce problème a été résolu.
 
 Lorsqu’un utilisateur ou une utilisatrice clique sur un lien public pour accéder à un document dans Workfront, l’une des erreurs suivantes peut s’afficher :
 
