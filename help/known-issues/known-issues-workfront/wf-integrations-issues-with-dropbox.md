@@ -1,23 +1,23 @@
 ---
-title: "Intégrations : problèmes avec l’intégration de Dropbox"
-description: "Des problèmes ont été signalés concernant l’intégration du Dropbox."
+title: '« Intégrations : problèmes d’intégration de Dropbox »'
+description: Des problèmes ont été signalés concernant l’intégration de Dropbox.
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents
-source-git-commit: f78fa5cbcd333b4e2534f2b0dedf603eb915996a
-workflow-type: tm+mt
+exl-id: 58df9050-d71a-4fee-834b-8b15b20f4946
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: ht
 source-wordcount: '98'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
+# Intégrations : problèmes d’intégration de Dropbox
 
-# Intégrations : problèmes d’intégration de Dropbox
+Les problèmes suivants liés à l’intégration de Dropbox ont été signalés :
 
-Les problèmes suivants ont été signalés concernant l’intégration de Dropbox :
+* Lorsqu’un utilisateur ou une utilisatrice tente de rechercher un fichier dans le sélecteur de fichiers de Dropbox, un message d’erreur d’autorisation s’affiche et le sélecteur de fichiers ne récupère pas le fichier de Dropbox.
+* Lorsqu’un utilisateur ou une utilisatrice tente d’ouvrir un dossier lié, une erreur s’affiche indiquant que les fichiers ou le dossier n’existent plus dans Dropbox.
 
-* Lorsqu’un utilisateur tente de rechercher un fichier dans le sélecteur de fichiers du Dropbox, un message d’erreur d’autorisation s’affiche et le sélecteur de fichiers ne récupère pas le fichier du Dropbox.
-* Lorsqu’un utilisateur tente d’ouvrir un dossier lié, il voit une erreur indiquant que les fichiers ou le dossier n’existent plus dans Dropbox.
-
-Ces problèmes sont dus à des problèmes avec Dropbox, et non à Workfront.
+Ces problèmes proviennent de Dropbox, et non de Workfront.
 
 _Premier signalement le samedi 12 avril 2024._

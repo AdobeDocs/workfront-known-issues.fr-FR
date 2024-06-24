@@ -1,20 +1,20 @@
 ---
-title: "Accueil : impossible de supprimer le widget Mentions"
-description: "Si un utilisateur de la nouvelle page d’accueil souhaite supprimer le widget Mentions, il ne peut pas le supprimer."
+title: '« Accueil : impossible de supprimer le widget Mentions »'
+description: Si un utilisateur ou une utilisatrice de la nouvelle page d’accueil souhaite supprimer le widget Mentions, la suppression échoue.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 9440e4db426bcf559e0e175ffc27649e041f8407
-workflow-type: tm+mt
+exl-id: 57defe2f-47df-43ce-a9c7-e6f3a3e79ff5
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
+# Accueil : impossible de supprimer le widget Mentions
 
-# Accueil : impossible de supprimer le widget Mentions
+Si un utilisateur ou une utilisatrice de la nouvelle page d’accueil souhaite supprimer le widget Mentions, la suppression échoue.
 
-Si un utilisateur de la nouvelle page d’accueil souhaite supprimer le widget Mentions, il ne peut pas le supprimer.
-
-Le widget Mentions est contrôlé par le biais du modèle Mise en page , géré par un administrateur Workfront. Cela fonctionne comme prévu, mais rien n’indique à l’utilisateur qu’il ne peut pas supprimer lui-même le widget.
+Le widget Mentions est contrôlé par le biais du modèle de mise en page, dont la gestion est assurée par un administrateur ou une administratrice Workfront. Cela fonctionne comme prévu, mais rien n’indique à l’utilisateur ou l’utilisatrice que la suppression du widget leur est impossible.
 
 _Premier signalement le jeudi 12 juin 2024._
