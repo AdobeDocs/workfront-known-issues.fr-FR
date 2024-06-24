@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d34df8cd575d6b17a02bc4ed25fa5ca891c2afe7
+source-git-commit: 81681ce1ed977fe43ae323d9d5d1bbe0b1d90d7d
 workflow-type: tm+mt
-source-wordcount: '848'
-ht-degree: 89%
+source-wordcount: '858'
+ht-degree: 88%
 
 ---
 
@@ -25,6 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Intégrations : impossible d’ajouter une nouvelle version d’un document à partir de [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | mardi 24 juin 2024 |
 | [BAT : lorsque vous cliquez sur le nom du BAT, un écran vide s’affiche.](known-issues-workfront/wf-proofs-go-to-blank-screen.md) | samedi 21 juin 2024 |
 | [Panoramas : le panorama ne s’affiche pas en tant qu’utilisateur lors de l’utilisation de [!UICONTROL Connectez-vous en tant que]](known-issues-workfront/wf-boards-log-in-as.md) | samedi 21 juin 2024 |
 | [Rapports : &quot;Aucune donnée à afficher&quot; lorsque le nom du groupement comporte une barre oblique](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | mercredi 18 juin 2024 |
