@@ -4,9 +4,9 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 81681ce1ed977fe43ae323d9d5d1bbe0b1d90d7d
+source-git-commit: 875945978c7bdb4a7128ade826b6fbc31da04ae9
 workflow-type: tm+mt
-source-wordcount: '858'
+source-wordcount: '849'
 ht-degree: 91%
 
 ---
@@ -77,7 +77,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [[!DNL Workfront Proof] : impossible de développer le workflow](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25 octobre 2023 |
 | [[!UICONTROL Accueil] : le widget [!UICONTROL Mentions] du nouvel [!UICONTROL Accueil] ne se limite pas aux messages dans lesquels la personne est mentionnée](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md) | 25 septembre 2023 |
 | [[!UICONTROL Accueil] : l’aperçu du nouveau widget [!UICONTROL Accueil] n’affiche pas le nom correct de l’objet.](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 7 septembre 2023 |
-| [Modèles de disposition : les modèles de disposition provoquent des incohérences dans les rapports.](known-issues-workfront/inactive/wf-layout-templates-classic.md) | 21 août 2023 |
 | [Épreuves : les options d’approbation n’apparaissent pas dans le [!UICONTROL Lecteur de vérification.]](known-issues-workfront/inactive/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 10 août 2023 |
 | [Épreuves : les épreuves n’apparaissent pas comme approuvées dans les rapports.](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 3 août 2023 |
 | [[!UICONTROL Configuration] : impossible d’exporter les journaux d’audit](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md) | 20 juillet 2023 |

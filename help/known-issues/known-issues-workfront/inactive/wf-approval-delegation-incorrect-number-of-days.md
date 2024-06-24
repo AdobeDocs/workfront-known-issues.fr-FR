@@ -4,14 +4,16 @@ description: Lorsque l’utilisateur planifie un Temps de congé personnel et d�
 exl-id: 8d978983-b663-442b-9935-75ecbd359a43
 feature: Approvals
 hidefromtoc: true
-source-git-commit: 688d728782638489aacc76a1a12c38ab12215f8e
-workflow-type: ht
+source-git-commit: 875945978c7bdb4a7128ade826b6fbc31da04ae9
+workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 100%
 
 ---
 
 # Approbations : la délégation d’approbation est définie pour un nombre de jours incorrect
+
+<!--Live for workaround-->
 
 >[!NOTE]
 >

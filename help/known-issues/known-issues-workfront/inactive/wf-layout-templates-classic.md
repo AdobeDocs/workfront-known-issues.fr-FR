@@ -4,16 +4,20 @@ description: Les modèles de disposition de l’expérience Workfront classique 
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 1542291f-4797-477e-83b8-0706ac6801ae
-source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
-workflow-type: ht
-source-wordcount: '193'
+source-git-commit: 875945978c7bdb4a7128ade826b6fbc31da04ae9
+workflow-type: tm+mt
+source-wordcount: '198'
 ht-degree: 100%
 
 ---
 
 # Modèles de disposition : les modèles de disposition provoquent des incohérences dans les rapports.
 
-<!--Live for workaround-->
+<!--Can delete after 9/24/2024-->
+
+>[!NOTE]
+>
+>Ce problème a été résolu.
 
 Les modèles de disposition de l’expérience [!DNL Workfront] classique ne sont plus disponibles dans l’interface [!DNL Workfront], mais peuvent tout de même affecter les données [!DNL Workfront]. Cela peut entraîner des incohérences dans les champs affectés par les modèles de disposition (tels que [!UICONTROL Partagé avec]) sur les rapports ou les tableaux de bord.
 
