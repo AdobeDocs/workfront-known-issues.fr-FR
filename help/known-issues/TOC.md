@@ -5,7 +5,7 @@ role: User
 source-git-commit: 81681ce1ed977fe43ae323d9d5d1bbe0b1d90d7d
 workflow-type: tm+mt
 source-wordcount: '1702'
-ht-degree: 93%
+ht-degree: 95%
 
 ---
 
@@ -25,12 +25,12 @@ ht-degree: 93%
       + [Approbations : trop de redirections](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
       + [Mises à jour : le lien copié ne colle pas correctement](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
       + [Rapports : &quot;Aucune donnée à afficher&quot; lorsque le nom du groupement comporte une barre oblique](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
-      + [Intégrations : problèmes d’intégration de Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md)
-      + [Rapports : erreur lors de l’affichage des détails du rapport regroupés par date personnalisée](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
+      + [Intégrations : problèmes d’intégration de Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md)
+      + [Rapports : erreur lors de l’affichage des détails du rapport regroupés par date personnalisée](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
       + [Page d’accueil : le widget Approbations n’est pas exact.](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
-      + [Planification des ressources : [!UICONTROL Plus] n’est pas visible](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
-      + [Statuts : impossible de réutiliser l’état précédemment supprimé](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
-      + [Accueil : impossible de supprimer le widget Mentions](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
+      + [Planification des ressources : le bouton [!UICONTROL Plus] n’est pas visible](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
+      + [Statuts : impossible de réutiliser le statut précédemment supprimé](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
+      + [Accueil : impossible de supprimer le widget Mentions](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
       + [Navigation : le bouton Retour ne revient pas à la page précédente.](known-issues-workfront/wf-navigation-back-button-not-work.md)
       + [Documents : erreur lors de l’utilisation d’un lien public vers un document](known-issues-workfront/wf-documents-public-link-not-working.md)
       + [Épreuves : impossible de fermer la visionneuse de relecture](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
