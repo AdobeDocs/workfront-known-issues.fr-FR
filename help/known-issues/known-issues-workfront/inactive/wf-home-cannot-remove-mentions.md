@@ -4,14 +4,16 @@ description: Si un utilisateur ou une utilisatrice de la nouvelle page d’accue
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 57defe2f-47df-43ce-a9c7-e6f3a3e79ff5
-source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
-workflow-type: ht
+source-git-commit: 1aed6a440155c99f8ce0b0f42c44dd9a3c660af4
+workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 100%
 
 ---
 
 # Accueil : impossible de supprimer le widget Mentions
+
+<!--valid issue; won't fix-->
 
 Si un utilisateur ou une utilisatrice de la nouvelle page d’accueil souhaite supprimer le widget Mentions, la suppression échoue.
 

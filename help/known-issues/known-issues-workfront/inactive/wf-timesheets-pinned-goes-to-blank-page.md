@@ -1,17 +1,19 @@
 ---
-title: '« Feuilles de temps : la feuille de temps épinglée est placée sur une page vierge. »'
-description: « Lorsqu’une personne clique sur une épingle de Workfront destinée à atteindre sa feuille de temps, l’épingle est placée sur une page vierge. » Une solution de contournement est disponible. »
+title: "Fiches horaires : la feuille de temps épinglée passe à la page vierge"
+description: Lorsqu’un utilisateur clique sur une épingle de Workfront destinée à atteindre sa feuille de temps, elle accède plutôt à une page vierge. Une solution de contournement est disponible.
 hidefromtoc: true
 feature: Timesheets
-source-git-commit: 89eb14bfaccb517764af1711ca31e2926de63795
-workflow-type: ht
+exl-id: 684ccdfa-f419-451e-836a-11831fbc1816
+source-git-commit: 1aed6a440155c99f8ce0b0f42c44dd9a3c660af4
+workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 100%
+ht-degree: 74%
 
 ---
 
-
 # Feuilles de temps : la feuille de temps épinglée est placée sur une page vierge.
+
+<!--article live for workaround-->
 
 Lorsqu’une personne clique sur une épingle de Workfront destinée à atteindre sa feuille de temps, l’épingle est placée sur une page vierge.
 
@@ -24,4 +26,3 @@ Cela se produit parce que l’URL de la feuille de temps a changé. L’élémen
 1. Épinglez à nouveau la feuille de temps.
 
 _Premier signalement le mercredi 7 mai 2024._
-
