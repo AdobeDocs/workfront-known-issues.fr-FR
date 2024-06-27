@@ -1,17 +1,21 @@
 ---
 title: "Rapports : le rapport ne se charge pas lorsque la devise par défaut est le dollar américain"
-description: "Lorsqu’un utilisateur tente d’afficher un rapport dont la devise par défaut est le dollar américain (USD), le rapport ne se charge pas."
+description: Lorsqu’un utilisateur tente d’afficher un rapport dont la devise par défaut est le dollar américain (USD), le rapport ne se charge pas.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 9b8060b70250b75f8777e8815af45ec525c4e860
+exl-id: b312cc55-78c3-4cf4-bb0c-5d8ba4d0600d
+source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 6%
+source-wordcount: '79'
+ht-degree: 13%
 
 ---
 
-
 # Rapports : le rapport ne se charge pas lorsque la devise par défaut est USD.
+
+>[!NOTE]
+>
+>Ce problème a été résolu le vendredi 27 juin 2024.
 
 Lorsqu’un utilisateur tente d’afficher un rapport dont la devise par défaut est le dollar américain (USD), le rapport ne se charge pas.
 

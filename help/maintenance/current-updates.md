@@ -3,9 +3,9 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 7e617a611bf88f2133ba83746596f6336efa1593
+source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
 workflow-type: tm+mt
-source-wordcount: '4124'
+source-wordcount: '4070'
 ht-degree: 97%
 
 ---
@@ -22,9 +22,9 @@ Pour connaître les mises à jour de maintenance antérieures à 2024, consultez
 
 ## Mises à jour de juin 2024
 
-+++**(Planifiée) Mise à jour de maintenance le vendredi 27 juin 2024**
++++**Mise à jour de maintenance le vendredi 27 juin 2024**
 
-### Mise à jour de maintenance (planifiée) pour le vendredi 27 juin 2024.
+### Mise à jour de maintenance le vendredi 27 juin 2024
 
 #### Rapports
 
@@ -39,14 +39,6 @@ Lorsqu’un utilisateur tente d’afficher un rapport dont la devise par défaut
 Si un utilisateur copie un lien d’une mise à jour en cliquant avec le bouton droit de la souris et en sélectionnant &quot;[!UICONTROL Copier l’adresse du lien]&quot;, colle ensuite le lien dans une mise à jour ; le lien ne se colle pas correctement. Seule la première partie du lien est un lien et le reste de l’URL est ignoré.
 
 Copie du lien à l’aide d’une autre méthode &quot;[!UICONTROL Copier l’adresse du lien]&quot; permet au lien de se coller comme prévu.
-
-#### Utilisateurs
-
-**Utilisateurs manquants lors d’affectations en bloc**
-
-Lorsqu’une personne tente d’effectuer des affectations en masse et qu’une fonction est attribuée à la tâche, les personnes occupant cette fonction n’apparaissent pas dans la liste et la personne qui les affecte ne peut pas les sélectionner.
-
-Ce comportement a également été signalé dans l’équilibreur de charge de travail.
 
 +++
 

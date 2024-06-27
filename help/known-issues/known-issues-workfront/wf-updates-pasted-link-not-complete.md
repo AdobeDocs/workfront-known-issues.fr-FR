@@ -4,14 +4,18 @@ description: Si un utilisateur copie un lien d’une mise à jour en cliquant av
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: 04f96b95-19a3-476b-b2c1-6c6e439d437a
-source-git-commit: b48bf247fd2ccdffc996a8f205e3586aea1338c1
+source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 3%
+source-wordcount: '146'
+ht-degree: 7%
 
 ---
 
 # Mises à jour : le lien copié ne colle pas correctement
+
+>[!NOTE]
+>
+>Ce problème a été résolu le vendredi 27 juin 2024.
 
 Si un utilisateur copie un lien d’une mise à jour en cliquant avec le bouton droit de la souris et en sélectionnant &quot;[!UICONTROL Copier l’adresse du lien]&quot;, colle ensuite le lien dans une mise à jour ; le lien ne se colle pas correctement. Seule la première partie du lien est un lien et le reste de l’URL est ignoré.
 
