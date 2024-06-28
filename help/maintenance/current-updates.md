@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
 workflow-type: tm+mt
 source-wordcount: '4070'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -30,15 +30,15 @@ Pour connaître les mises à jour de maintenance antérieures à 2024, consultez
 
 **Le rapport ne se charge pas lorsque la devise par défaut est USD**
 
-Lorsqu’un utilisateur tente d’afficher un rapport dont la devise par défaut est le dollar américain (USD), le rapport ne se charge pas.
+Lorsqu’un utilisateur ou une utilisatrice tente d’afficher un rapport dont la devise par défaut est USD, le rapport ne se charge pas.
 
 #### Mises à jour
 
 **Le lien copié ne se colle pas correctement**
 
-Si un utilisateur copie un lien d’une mise à jour en cliquant avec le bouton droit de la souris et en sélectionnant &quot;[!UICONTROL Copier l’adresse du lien]&quot;, colle ensuite le lien dans une mise à jour ; le lien ne se colle pas correctement. Seule la première partie du lien est un lien et le reste de l’URL est ignoré.
+Si un utilisateur ou une utilisatrice copie un lien d’une mise à jour en cliquant avec le bouton droit de la souris et en sélectionnant « [!UICONTROL Copier l’adresse du lien] », puis le colle dans une mise à jour, le lien n’est pas collé correctement. Seule la première partie du lien est un lien, et le reste de l’URL est ignoré.
 
-Copie du lien à l’aide d’une autre méthode &quot;[!UICONTROL Copier l’adresse du lien]&quot; permet au lien de se coller comme prévu.
+La copie du lien à l’aide d’une méthode autre que « [!UICONTROL Copier l’adresse du lien] » permet au lien d’être collé comme prévu.
 
 +++
 
@@ -48,7 +48,7 @@ Copie du lien à l’aide d’une autre méthode &quot;[!UICONTROL Copier l’ad
 
 #### Navigation
 
-**Le bouton Retour ne revient pas à la page précédente**
+**Le bouton Retour ne revient pas à la page précédente.**
 
 Lorsqu’un utilisateur ou une utilisatrice de Workfront clique sur le bouton Retour de son navigateur, l’une des situations suivantes peut se produire.
 
@@ -57,7 +57,7 @@ Lorsqu’un utilisateur ou une utilisatrice de Workfront clique sur le bouton Re
 
 #### Épreuves
 
-**Impossible de fermer la visionneuse de BAT**
+**Impossible de fermer la visionneuse de relecture**
 
 Lorsqu’un utilisateur ou une utilisatrice consulte une épreuve dans la visionneuse de relecture et tente de fermer l’épreuve en cliquant sur le X dans le coin supérieur droit, l’épreuve ne se ferme pas.
 

@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
 workflow-type: tm+mt
 source-wordcount: '862'
-ht-degree: 89%
+ht-degree: 95%
 
 ---
 
@@ -31,9 +31,9 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 | [Tâches : la recherche du prénom dans l’affectation de tâche ne renvoie pas d’utilisateurs](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md) | vendredi 27 juin 2024 |
 | [Intégrations : liaison d’un dossier [!DNL Google Drive] ne lie pas les ressources dans le dossier](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | mercredi 25 juin 2024 |
 | [Bons à tirer : la fermeture d’un BAT mène à la page Documents de produit](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | mardi 24 juin 2024 |
-| [Intégrations : impossible d’ajouter une nouvelle version d’un document à partir de [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | mardi 24 juin 2024 |
-| [Panoramas : le panorama ne s’affiche pas en tant qu’utilisateur lors de l’utilisation de [!UICONTROL Connectez-vous en tant que]](known-issues-workfront/wf-boards-log-in-as.md) | samedi 21 juin 2024 |
-| [Rapports : &quot;Aucune donnée à afficher&quot; lorsque le nom du groupement comporte une barre oblique](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | mercredi 18 juin 2024 |
+| [Intégrations : impossible d’ajouter une nouvelle version d’un document à partir de  [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | mardi 24 juin 2024 |
+| [Panoramas : le panorama de l’utilisateur ou de l’utilisatrice ne s’affiche pas lors de l’utilisation de [!UICONTROL Connexion en tant que]](known-issues-workfront/wf-boards-log-in-as.md). | samedi 21 juin 2024 |
+| [Rapports : « Aucune donnée à afficher » lorsque le nom du regroupement comporte une barre oblique ou une barre oblique inversée.](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | mercredi 18 juin 2024 |
 | [Intégrations : problèmes d’intégration de Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | samedi 14 juin 2024 |
 | [Rapports : erreur lors de l’affichage des détails du rapport regroupés par date personnalisée](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | samedi 14 juin 2024 |
 | [Configuration : la bannière « Connexion en tant que » n’apparaît pas en cas de connexion en tant qu’autre personne.](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7 mai 2024 |
@@ -61,7 +61,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Accueil : le widget Mes problèmes n’affiche pas les problèmes fermés ou terminés](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md) | vendredi 20 juin 2024 |
+| [Accueil : le widget Mes problèmes n’affiche pas les problèmes fermés ou terminés.](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md) | vendredi 20 juin 2024 |
 | [Accueil : impossible de supprimer le widget Mentions](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | jeudi 12 juin 2024 |
 | [Épreuves : l’épreuve empêche la conversion de la tâche ou du problème en projet.](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 7 juin 2024 |
 | [Mises à jour : les utilisateurs Demandeur et utilisatrices Demandeuse ne peuvent pas ajouter d’images aux mises à jour.](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 7 juin 2024 |

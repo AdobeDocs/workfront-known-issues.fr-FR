@@ -5,7 +5,7 @@ role: User
 source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
 workflow-type: tm+mt
 source-wordcount: '1744'
-ht-degree: 93%
+ht-degree: 97%
 
 ---
 
@@ -22,14 +22,14 @@ ht-degree: 93%
       + [Tâches : la recherche du prénom dans l’affectation de tâche ne renvoie pas d’utilisateurs](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md)
       + [Intégrations : liaison d’un dossier [!DNL Google Drive] ne lie pas les ressources dans le dossier](known-issues-workfront/wf-integration-google-folder-not-link-assets.md)
       + [Bons à tirer : la fermeture d’un BAT mène à la page Documents de produit](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md)
-      + [Intégrations : impossible d’ajouter une nouvelle version d’un document à partir de [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md)
-      + [BAT : lorsque vous cliquez sur le nom du BAT, un écran vide s’affiche.](known-issues-workfront/wf-proofs-go-to-blank-screen.md)
-      + [Rapports : le rapport ne se charge pas lorsque la devise par défaut est USD.](known-issues-workfront/wf-reports-default-currency-error.md)
-      + [Panoramas : le panorama ne s’affiche pas en tant qu’utilisateur lors de l’utilisation de [!UICONTROL Connectez-vous en tant que]](known-issues-workfront/wf-boards-log-in-as.md)
-      + [Accueil : le widget Mes problèmes n’affiche pas les problèmes fermés ou terminés](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
-      + [Approbations : trop de redirections](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
-      + [Mises à jour : le lien copié ne colle pas correctement](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
-      + [Rapports : &quot;Aucune donnée à afficher&quot; lorsque le nom du groupement comporte une barre oblique](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
+      + [Intégrations : impossible d’ajouter une nouvelle version d’un document à partir de  [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md)
+      + [Épreuve : lorsque vous cliquez sur le nom de l’épreuve, un écran vide s’affiche.](known-issues-workfront/wf-proofs-go-to-blank-screen.md)
+      + [Rapports : le rapport ne se charge pas lorsque la devise par défaut est USD.](known-issues-workfront/wf-reports-default-currency-error.md)
+      + [Panoramas : le panorama de l’utilisateur ou de l’utilisatrice ne s’affiche pas lors de l’utilisation de [!UICONTROL Connexion en tant que].](known-issues-workfront/wf-boards-log-in-as.md)
+      + [Accueil : le widget Mes problèmes n’affiche pas les problèmes fermés ou terminés.](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
+      + [Approbations : trop de redirections](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
+      + [Mises à jour : le lien copié n’est pas collé pas correctement.](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
+      + [Rapports : « Aucune donnée à afficher » lorsque le nom du regroupement comporte une barre oblique ou une barre oblique inversée](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
       + [Intégrations : problèmes d’intégration de Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md)
       + [Rapports : erreur lors de l’affichage des détails du rapport regroupés par date personnalisée](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
       + [Page d’accueil : le widget Approbations n’est pas exact.](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
