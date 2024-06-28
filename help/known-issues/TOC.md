@@ -2,9 +2,9 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
+source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
 workflow-type: tm+mt
-source-wordcount: '1744'
+source-wordcount: '1753'
 ht-degree: 97%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Enregistrements de facturation : le bouton Ajouter d&#39;autres enregistrements de facturation est manquant](known-issues-workfront/wf-billing-records-new-button-missing.md)
       + [Documents : le nombre de documents est inexact](known-issues-workfront/wf-documents-count-only-root-folder.md)
       + [Projets : erreur lors de la modification en masse de projets](known-issues-workfront/wf-projects-error-when-bulk-editing.md)
       + [Tâches : la recherche du prénom dans l’affectation de tâche ne renvoie pas d’utilisateurs](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md)
