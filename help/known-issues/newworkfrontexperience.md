@@ -4,9 +4,9 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f05ce2d8659b7ae7bf636d5585c78483c4bcfe5d
+source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
 workflow-type: tm+mt
-source-wordcount: '854'
+source-wordcount: '862'
 ht-degree: 89%
 
 ---
@@ -25,12 +25,13 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documents : le nombre de documents est inexact](known-issues-workfront/wf-documents-count-only-root-folder.md) | samedi 28 juin 2024 |
+| [Navigation : le bouton Retour ne revient pas à la page précédente.](known-issues-workfront/wf-navigation-back-button-not-work.md) | samedi 28 juin 2024 |
 | [Projets : erreur lors de la modification en masse de projets](known-issues-workfront/wf-projects-error-when-bulk-editing.md) | vendredi 27 juin 2024 |
 | [Tâches : la recherche du prénom dans l’affectation de tâche ne renvoie pas d’utilisateurs](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md) | vendredi 27 juin 2024 |
 | [Intégrations : liaison d’un dossier [!DNL Google Drive] ne lie pas les ressources dans le dossier](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | mercredi 25 juin 2024 |
 | [Bons à tirer : la fermeture d’un BAT mène à la page Documents de produit](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | mardi 24 juin 2024 |
 | [Intégrations : impossible d’ajouter une nouvelle version d’un document à partir de [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | mardi 24 juin 2024 |
-| [BAT : lorsque vous cliquez sur le nom du BAT, un écran vide s’affiche.](known-issues-workfront/wf-proofs-go-to-blank-screen.md) | samedi 21 juin 2024 |
 | [Panoramas : le panorama ne s’affiche pas en tant qu’utilisateur lors de l’utilisation de [!UICONTROL Connectez-vous en tant que]](known-issues-workfront/wf-boards-log-in-as.md) | samedi 21 juin 2024 |
 | [Rapports : &quot;Aucune donnée à afficher&quot; lorsque le nom du groupement comporte une barre oblique](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | mercredi 18 juin 2024 |
 | [Intégrations : problèmes d’intégration de Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | samedi 14 juin 2024 |
