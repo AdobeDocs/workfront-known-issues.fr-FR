@@ -1,18 +1,18 @@
 ---
-title: "Rapports : aucune donnée à afficher lorsque le nom du groupement comporte une barre oblique (avant ou arrière)"
-description: "Lorsqu’un utilisateur consulte un graphique dans un rapport et clique sur un groupement dans le graphique, et que le nom de ce groupement comporte une barre oblique (avant ou arrière), les détails qui s’ouvrent n’affichent pas les éléments du groupement et l’utilisateur voit une valeur Aucune donnée pour afficher le message."
+title: '« Rapports : aucune donnée à afficher lorsque le nom du regroupement comporte une barre oblique ou une barre oblique inversée »'
+description: Lorsqu’un utilisateur ou une utilisatrice consulte un graphique dans un rapport et clique sur un regroupement dans le graphique, et que le nom de ce regroupement comporte une barre oblique ou une barre oblique inversée, les détails qui s’ouvrent n’affichent pas les éléments du regroupement et l’utilisateur ou l’utilisatrice voit une valeur Aucune donnée pour afficher le message.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 08976071e8d1b25a8bc1e3e63b698e9d760d8f91
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+exl-id: 27b1ff30-ad5c-41f4-992b-56c87b939e69
+source-git-commit: e16d44c4b0fa446373bfe2032551498d03aca2c2
+workflow-type: ht
+source-wordcount: '127'
+ht-degree: 100%
 
 ---
 
+# Rapports : « Aucune donnée à afficher » lorsque le nom du regroupement comporte le symbole / ou \.
 
-# Rapports : &quot;Aucune donnée à afficher&quot; lorsque le nom du groupement est / ou \
-
-Lorsqu’un utilisateur consulte un graphique dans un rapport et clique sur un groupement dans le graphique, et que ce groupement comporte un / ou un \ dans le nom, les détails qui s’ouvrent n’affichent pas les éléments du groupement et l’utilisateur voit un message &quot;Aucune donnée à afficher&quot;.
+Lorsqu’un utilisateur ou une utilisatrice consulte un graphique dans un rapport et clique sur un regroupement dans le graphique, et que le nom de ce regroupement comporte un symbole / ou un \, les détails qui s’ouvrent n’affichent pas les éléments du regroupement et l’utilisateur ou l’utilisatrice voit un message « Aucune donnée à afficher ».
 
 _Premier signalement le mardi 17 juin 2024._

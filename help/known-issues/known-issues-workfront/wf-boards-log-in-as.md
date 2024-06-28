@@ -1,18 +1,18 @@
 ---
-title: 'Panoramas : le panorama ne s’affiche pas en tant qu’utilisateur lors de l’utilisation de la connexion en tant que'
-description: "Lorsqu’un administrateur ou un administrateur de groupe se connecte en tant qu’un autre utilisateur et consulte les panoramas, les panoramas qui s’affichent sont ceux de l’administrateur, et non ceux de l’utilisateur."
+title: '« Panoramas : le panorama de l’utilisateur ou de l’utilisatrice ne s’affiche pas lors de l’utilisation de Connexion en tant que. »'
+description: Lorsque l’équipe d’administration ou d’administration de groupe se connecte en tant qu’un autre utilisateur ou une autre utilisatrice et consulte les panoramas, les panoramas qui s’affichent sont ceux de l’équipe d’administration et non ceux de l’utilisateur ou de l’utilisatrice.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 9b8060b70250b75f8777e8815af45ec525c4e860
-workflow-type: tm+mt
+exl-id: fe845e13-82fd-417b-8dd6-c40345c7c6da
+source-git-commit: 2ab561d9b97aea63728c811e310fd23d0f51c018
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
+# Panoramas : le panorama de l’utilisateur ou de l’utilisatrice ne s’affiche pas lors de l’utilisation de [!UICONTROL Connexion en tant que].
 
-# Panoramas : le panorama ne s’affiche pas en tant qu’utilisateur lors de l’utilisation de [!UICONTROL Connectez-vous en tant que]
-
-Lorsqu’un administrateur ou un administrateur de groupe se connecte en tant qu’un autre utilisateur et consulte les panoramas, les panoramas qui s’affichent sont ceux de l’administrateur et non ceux de l’utilisateur.
+Lorsque l’équipe d’administration ou d’administration de groupe se connecte en tant qu’un autre utilisateur ou une autre utilisatrice et consulte les panoramas, les panoramas qui s’affichent sont ceux de l’équipe d’administration et non ceux de l’utilisateur ou de l’utilisatrice.
 
 _Premier signalement le mercredi 11 juin 2024._
