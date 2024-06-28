@@ -3,9 +3,9 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
+source-git-commit: 03957afbedfc08809d885f26239f47e09ca3f263
 workflow-type: tm+mt
-source-wordcount: '4070'
+source-wordcount: '4096'
 ht-degree: 99%
 
 ---
@@ -25,6 +25,12 @@ Pour connaître les mises à jour de maintenance antérieures à 2024, consultez
 +++**Mise à jour de maintenance le vendredi 27 juin 2024**
 
 ### Mise à jour de maintenance le vendredi 27 juin 2024
+
+#### Panneaux
+
+**Seul le propriétaire du panorama peut mettre à jour les filtres de configuration**
+
+Pour des raisons de sécurité, seul le propriétaire d’un panorama peut modifier les filtres du panorama dans le panneau Configurer .
 
 #### Rapports
 
