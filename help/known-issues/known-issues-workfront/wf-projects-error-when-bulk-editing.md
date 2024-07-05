@@ -1,28 +1,28 @@
 ---
-title: "Projets : erreur lors de la modification en masse de projets"
-description: "Lorsqu’un utilisateur tente de modifier des projets en masse, la fenêtre de modification est vide et une erreur s’affiche."
+title: '« Projets : erreur lors de la modification en masse de projets »'
+description: « Lorsque un utilisateur ou une utilisatrice tente de modifier en masse des projets, la fenêtre de modification est vide, et une erreur apparaît. »
 hidefromtoc: true
 feature: Projects
 source-git-commit: f05ce2d8659b7ae7bf636d5585c78483c4bcfe5d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# Projets : erreur lors de la modification en masse de projets
+# Projets : erreur lors de la modification en masse de projets
 
-Lorsqu’un utilisateur tente de modifier des projets en masse, la fenêtre de modification est vide et l’utilisateur voit l’erreur suivante :
+Lorsque un utilisateur ou une utilisatrice tente de modifier en masse des projets, la fenêtre de modification est vide, et une erreur apparaît.
 
-&quot;Une erreur inattendue s’est produite&quot;
+« Une erreur inattendue s’est produite. »
 
-L’utilisateur doit actualiser la page pour revenir à la liste de projets ou au rapport.
+Il est alors nécessaire d’actualiser la page pour revenir à la liste de projets ou aux rapports.
 
 Cela a été signalé lors de la modification en masse à partir d’une liste de projets ou d’un rapport de projet.
 
 **Solution de contournement**
 
-Actualisez la page, puis tentez à nouveau de la modifier.
+Actualisez la page, puis réessayez d’effectuer des modifications.
 
 _Premier signalement le vendredi 13 juin 2024._

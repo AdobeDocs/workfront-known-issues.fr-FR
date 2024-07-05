@@ -5,9 +5,9 @@ keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '436'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -25,10 +25,10 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documents : le nombre de documents est inexact](known-issues-workfront/wf-documents-count-only-root-folder.md) | samedi 28 juin 2024 |
-| [Intégrations : liaison d’un dossier [!DNL Google Drive] ne lie pas les ressources dans le dossier](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | mercredi 25 juin 2024 |
-| [Bons à tirer : la fermeture d’un BAT mène à la page Documents de produit](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | mardi 24 juin 2024 |
-| [Intégrations : impossible d’ajouter une nouvelle version d’un document à partir de [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | mardi 24 juin 2024 |
+| [Documents : le nombre de documents est inexact.](known-issues-workfront/wf-documents-count-only-root-folder.md) | samedi 28 juin 2024 |
+| [Intégrations : lier un dossier depuis  [!DNL Google Drive]  ne lie pas les ressources dans le dossier.](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | mercredi 25 juin 2024 |
+| [Épreuves : la fermeture d’une épreuve conduit à la page Documents de produit.](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | mardi 24 juin 2024 |
+| [Intégrations : impossible d’ajouter une nouvelle version d’un document à partir de  [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | mardi 24 juin 2024 |
 | [Intégrations : problèmes d’intégration de Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | samedi 14 juin 2024 |
 | [Notifications : les notifications de la version bêta des approbations de documents ne sont pas correctement formatées.](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 22 avril 2024 |
 

@@ -1,13 +1,13 @@
 ---
-title: "Fiches horaires : la feuille de temps épinglée passe à la page vierge"
-description: Lorsqu’un utilisateur clique sur une épingle de Workfront destinée à atteindre sa feuille de temps, elle accède plutôt à une page vierge. Une solution de contournement est disponible.
+title: '« Feuilles de temps : la feuille de temps épinglée est placée sur une page vierge. »'
+description: Lorsqu’une personne clique sur une épingle de Workfront destinée à atteindre sa feuille de temps, l’épingle conduit à une page vierge. Une solution de contournement est disponible.
 hidefromtoc: true
 feature: Timesheets
 exl-id: 684ccdfa-f419-451e-836a-11831fbc1816
 source-git-commit: 1aed6a440155c99f8ce0b0f42c44dd9a3c660af4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
