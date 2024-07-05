@@ -34,13 +34,13 @@ Pour des raisons de sécurité, seul le propriétaire d’un panorama peut modif
 
 #### Rapports
 
-**Le rapport ne se charge pas lorsque la devise par défaut est USD**
+**Le rapport ne se charge pas lorsque la devise par défaut est USD.**
 
 Lorsqu’un utilisateur ou une utilisatrice tente d’afficher un rapport dont la devise par défaut est USD, le rapport ne se charge pas.
 
 #### Mises à jour
 
-**Le lien copié ne se colle pas correctement**
+**Le lien copié n’est pas collé correctement.**
 
 Si un utilisateur ou une utilisatrice copie un lien d’une mise à jour en cliquant avec le bouton droit de la souris et en sélectionnant « [!UICONTROL Copier l’adresse du lien] », puis le colle dans une mise à jour, le lien n’est pas collé correctement. Seule la première partie du lien est un lien, et le reste de l’URL est ignoré.
 
