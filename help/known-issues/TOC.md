@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
+source-git-commit: 6f802d32e74e3a567e2943ae837594809c703576
 workflow-type: tm+mt
-source-wordcount: '1753'
-ht-degree: 99%
+source-wordcount: '1811'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,13 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Accueil : impossible d’ouvrir des éléments à partir de [!UICONTROL Calendrier d’accueil] ou [!UICONTROL Liste de tâches]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
+      + [Notifications : miniatures non visibles dans les notifications par e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
+      + [Formulaires personnalisés : le formulaire personnalisé n’est pas supprimé du document](known-issues-workfront/wf-custom-form-not-deleted-on-document.md)
+      + [Problèmes : erreur lors d’une affectation avancée à un problème](known-issues-workfront/wf-issues-error-when-making-assignment.md)
+      + [Portfolios : l’utilisateur ne peut pas définir de portefeuille](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
+      + [Workfront : la terminologie personnalisée n’est pas appliquée](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md)
+      + [Heure : le type d’heure filtré n’est pas la valeur par défaut lors de l’heure de journalisation.](known-issues-workfront/wf-time-filtered-hour-type-not-default.md)
       + [Enregistrements de facturation : le bouton Ajouter d&#39;autres enregistrements de facturation est manquant](known-issues-workfront/wf-billing-records-new-button-missing.md)
       + [Documents : le nombre de documents est inexact.](known-issues-workfront/wf-documents-count-only-root-folder.md)
       + [Projets : erreur lors de la modification en masse de projets](known-issues-workfront/wf-projects-error-when-bulk-editing.md)
