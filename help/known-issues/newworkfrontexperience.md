@@ -4,9 +4,9 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 6f802d32e74e3a567e2943ae837594809c703576
+source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
 workflow-type: tm+mt
-source-wordcount: '937'
+source-wordcount: '913'
 ht-degree: 93%
 
 ---
@@ -37,7 +37,6 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 | [Épreuves : la fermeture d’une épreuve conduit à la page Documents de produit.](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | mardi 24 juin 2024 |
 | [Intégrations : impossible d’ajouter une nouvelle version d’un document à partir de  [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | mardi 24 juin 2024 |
 | [Panoramas : le panorama de l’utilisateur ou de l’utilisatrice ne s’affiche pas lors de l’utilisation de [!UICONTROL Connexion en tant que]](known-issues-workfront/wf-boards-log-in-as.md). | samedi 21 juin 2024 |
-| [Rapports : « Aucune donnée à afficher » lorsque le nom du regroupement comporte une barre oblique ou une barre oblique inversée.](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | mercredi 18 juin 2024 |
 | [Intégrations : problèmes d’intégration de Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | samedi 14 juin 2024 |
 | [Rapports : erreur lors de l’affichage des détails du rapport regroupés par date personnalisée](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | samedi 14 juin 2024 |
 | [Configuration : la bannière « Connexion en tant que » n’apparaît pas en cas de connexion en tant qu’autre personne.](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7 mai 2024 |
@@ -50,11 +49,11 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
+| [Épreuves : impossible de fermer la visionneuse de relecture](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | mercredi 9 juillet 2024 |
 | [Problèmes : erreur lors d’une affectation avancée à un problème](known-issues-workfront/wf-issues-error-when-making-assignment.md) | mardi 8 juillet 2024 |
 | [Portfolios : l’utilisateur ne peut pas définir de portefeuille](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | mardi 8 juillet 2024 |
 | [Workfront : la terminologie personnalisée n’est pas appliquée](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md) | mardi 8 juillet 2024 |
 | [Heure : le type d’heure filtré n’est pas la valeur par défaut lors de l’heure de journalisation.](known-issues-workfront/wf-time-filtered-hour-type-not-default.md) | mardi 8 juillet 2024 |
-| [Tâches : la fonction ne disparaît pas de la liste lorsque la personne est affectée à une tâche.](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 7 juin 2024 |
 | [Projet : impossible de convertir le problème en projet si le document est joint.](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 29 mai 2024 |
 | [Utilisateurs et utilisatrices : utilisateurs et utilisatrices manquants lors d’affectations en masse](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 28 mai 2024 |
 | [Équipes : impossible d’afficher la personne propriétaire de l’équipe ou de supprimer l’équipe](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 avril 2024 |

@@ -2,9 +2,9 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 6f802d32e74e3a567e2943ae837594809c703576
+source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
 workflow-type: tm+mt
-source-wordcount: '1811'
+source-wordcount: '1816'
 ht-degree: 96%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Workfront Mobile : impossible d’ouvrir les bons à tirer](known-issues-workfront/wf-mobile-proofs-not-open.md)
       + [Accueil : impossible d’ouvrir des éléments à partir de [!UICONTROL Calendrier d’accueil] ou [!UICONTROL Liste de tâches]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
       + [Notifications : miniatures non visibles dans les notifications par e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
       + [Formulaires personnalisés : le formulaire personnalisé n’est pas supprimé du document](known-issues-workfront/wf-custom-form-not-deleted-on-document.md)

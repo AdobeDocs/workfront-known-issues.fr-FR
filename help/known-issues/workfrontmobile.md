@@ -4,10 +4,10 @@ description: Problèmes connus et signalés dans l’application mobile  [!DNL A
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 9f48d0f8-b4e8-4bd8-b317-ff406e97cb1b
 feature: Work Management
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
-workflow-type: ht
-source-wordcount: '58'
-ht-degree: 100%
+source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
+workflow-type: tm+mt
+source-wordcount: '68'
+ht-degree: 92%
 
 ---
 
@@ -19,9 +19,9 @@ Cette page répertorie les problèmes actuellement identifiés dans l’applicat
 >
 >Pour plus d’informations sur la disponibilité ou les pannes du serveur, consultez [https://status.adobe.com/fr](https://status.adobe.com/fr). Pour plus d’informations sur les problèmes récemment résolus, consultez les [[!DNL Workfront] Mises à jour de maintenance](../maintenance/current-updates.md).
 
-**Il n’existe aucun problème connu pour[!DNL Workfront Mobile]**
+<!--**There are currently no known issues for [!DNL Workfront Mobile]**
 
-<!--
+
 
 ## Current Issues
 
@@ -30,3 +30,11 @@ Cette page répertorie les problèmes actuellement identifiés dans l’applicat
 |Issue text  | YYYY/MM/DD  | 
 
 -->
+
+## Nouveau
+
+Ces problèmes récemment signalés sont en train d’être examinés.
+
+| **Problème** | **Dernière modification** |
+| -----------------------------------------------------------------| ----------------- |
+| [Workfront Mobile : impossible d’ouvrir les bons à tirer](known-issues-workfront/wf-mobile-proofs-not-open.md) | mercredi 9 juillet 2024 |

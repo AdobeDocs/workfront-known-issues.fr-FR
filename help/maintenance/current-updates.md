@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 03957afbedfc08809d885f26239f47e09ca3f263
-workflow-type: ht
-source-wordcount: '4096'
-ht-degree: 100%
+source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
+workflow-type: tm+mt
+source-wordcount: '4346'
+ht-degree: 97%
 
 ---
 
@@ -19,6 +19,56 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2024.
 >Ces mises à jour incluent également d’autres correctifs mineurs ou moins conséquents. L’assistance [!DNL Workfront] vous avertira lorsqu’un problème que vous avez soumis est résolu.
 
 Pour connaître les mises à jour de maintenance antérieures à 2024, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates).
+
+## Mises à jour de juillet 2024
+
++++**(Prévue) Mise à jour de maintenance du vendredi 11 juillet 2024**
+
+### Mise à jour de maintenance (planifiée) pour le vendredi 11 juillet 2024.
+
+#### Problèmes
+
+**Erreur lors d’une affectation avancée à un problème**
+
+Lorsqu’un utilisateur tente d’effectuer une affectation avancée à un problème dans Workfront, celui-ci n’est pas affecté et le message d’erreur suivant s’affiche :
+
+&quot;[!UICONTROL APIModel INTERNAL ne prend pas en charge la durée des champs (OpTask)]&quot;
+
+#### Rapports
+
+**Erreur de chute lors de la définition des paramètres de matrice sur le rapport Heure**
+
+Lorsqu’un utilisateur tente de définir les paramètres de la matrice sur un rapport Heure, il ne peut pas définir les paramètres, et l’erreur suivante s’affiche :
+
+* « [!UICONTROL Oups ! Un problème est survenu. Contactez Workfront pour nous aider à comprendre l’erreur et y remédier.] »
+
+
++++
+
++++**Mise à jour de maintenance le vendredi 4 juillet 2024**
+
+### Mise à jour de maintenance le 4 juillet 2024
+
+#### Page d’accueil
+
+**Le menu à trois points est inefficace.**
+
+Lorsqu’un utilisateur clique sur le menu Plus à trois points dans l’ancien Home Worlkist, aucune action n’est déclenchée.
+
+#### Rapports
+
+**&quot;Aucune donnée à afficher&quot; lorsque le nom du groupement comporte une barre oblique inverse ou ascendante**
+
+Lorsqu’un utilisateur ou une utilisatrice consulte un graphique dans un rapport et clique sur un regroupement dans le graphique, et que le nom de ce regroupement comporte un symbole / ou un \, les détails qui s’ouvrent n’affichent pas les éléments du regroupement et l’utilisateur ou l’utilisatrice voit un message « Aucune donnée à afficher ».
+
+#### Tâches
+
+**Le rôle de tâche ne disparaît pas de la liste lorsque l’utilisateur est affecté à la tâche**
+
+Lorsqu’une fonction est affectée à une tâche et que cette tâche est affectée à une personne qui occupe la fonction, la fonction ne disparaît pas de la liste des affectations.
+
+
++++
 
 ## Mises à jour de juin 2024
 
