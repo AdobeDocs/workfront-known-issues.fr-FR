@@ -3,15 +3,19 @@ title: '« Projets : erreur lors de la modification en masse de projets »'
 description: « Lorsque un utilisateur ou une utilisatrice tente de modifier en masse des projets, la fenêtre de modification est vide, et une erreur apparaît. »
 hidefromtoc: true
 feature: Projects
-source-git-commit: f05ce2d8659b7ae7bf636d5585c78483c4bcfe5d
-workflow-type: ht
-source-wordcount: '99'
+source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
+workflow-type: tm+mt
+source-wordcount: '105'
 ht-degree: 100%
 
 ---
 
 
 # Projets : erreur lors de la modification en masse de projets
+
+>[!NOTE]
+>
+>Ce problème a été résolu le mardi 8 juillet 2024.
 
 Lorsque un utilisateur ou une utilisatrice tente de modifier en masse des projets, la fenêtre de modification est vide, et une erreur apparaît.
 
