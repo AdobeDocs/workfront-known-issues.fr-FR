@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
+source-git-commit: 4db36c0edb0710d933886aff2e7757c01bf2b6d9
 workflow-type: tm+mt
-source-wordcount: '923'
-ht-degree: 92%
+source-wordcount: '912'
+ht-degree: 93%
 
 ---
 
@@ -51,7 +51,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 |----------------------------------| ----------------- |
 | [Utilisateurs : la page du profil utilisateur se charge en continu](known-issues-workfront/wf-users-profile-continuously-reloads.md) | jeudi 10 juillet 2024 |
 | [Épreuves : impossible de fermer la visionneuse de relecture](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | mercredi 9 juillet 2024 |
-| [Problèmes : erreur lors d’une affectation avancée à un problème](known-issues-workfront/wf-issues-error-when-making-assignment.md) | mardi 8 juillet 2024 |
 | [Portfolios : l’utilisateur ne peut pas définir de portefeuille](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | mardi 8 juillet 2024 |
 | [Workfront : la terminologie personnalisée n’est pas appliquée](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md) | mardi 8 juillet 2024 |
 | [Heure : le type d’heure filtré n’est pas la valeur par défaut lors de l’heure de journalisation.](known-issues-workfront/wf-time-filtered-hour-type-not-default.md) | mardi 8 juillet 2024 |
