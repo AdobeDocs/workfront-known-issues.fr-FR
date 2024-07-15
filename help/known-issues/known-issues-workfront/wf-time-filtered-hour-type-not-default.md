@@ -3,17 +3,21 @@ title: "Heure : le type d’heure filtré n’est pas la valeur par défaut lors
 description: "Lorsqu’un utilisateur consigne l’heure, le type d’heure présélectionné est Heure de la tâche au lieu du type d’heure filtré pour ce projet."
 hidefromtoc: true
 feature: Timesheets, Work Management
-source-git-commit: e64b507317a384626b33f81802737c17b210af24
+source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 10%
+source-wordcount: '130'
+ht-degree: 14%
 
 ---
 
 
 # Heure : le type d’heure filtré n’est pas la valeur par défaut lors de l’heure de journalisation.
 
-Lorsqu’un utilisateur consigne l’heure, le type d’heure présélectionné est &quot;[!UICONTROL Heure de la tâche]&quot; au lieu du type d’heure filtré pour ce projet.
+>[!NOTE]
+>
+>Ce problème a été résolu le mercredi 9 juillet 2024.
+
+Lorsqu’un utilisateur consigne l’heure, le type d’heure présélectionné est &quot;[!UICONTROL Task time]&quot; au lieu du type d’heure filtré pour ce projet.
 
 L’utilisateur peut sélectionner le type d’heure correct dans la liste déroulante de type d’heure, mais il s’agit d’une étape supplémentaire.
 

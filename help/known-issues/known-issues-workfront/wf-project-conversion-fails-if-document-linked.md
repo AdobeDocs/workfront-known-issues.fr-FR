@@ -4,22 +4,19 @@ description: Lorsqu’un problème comporte un document et qu’une personne ten
 hidefromtoc: true
 feature: Projects, Work Management, Digital Content and Documents
 exl-id: 9c133ddd-4001-4d1a-ad96-f7a0a57fe9a1
-source-git-commit: d23c66b7f7002647dc4ebb2adc02a6a75130515b
-workflow-type: ht
-source-wordcount: '119'
+source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
+workflow-type: tm+mt
+source-wordcount: '125'
 ht-degree: 100%
 
 ---
 
 # Projet : impossible de convertir le problème en projet si le document est joint.
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on May 23, 2024.
+>Ce problème a été résolu le vendredi 27 juin 2024.
 
--->
 
 Lorsqu’un problème comporte un document et qu’une personne tente de convertir ce problème en projet, la conversion échoue et le projet n’est pas créé. L’utilisateur ou l’utilisatrice voit l’erreur suivante :
 

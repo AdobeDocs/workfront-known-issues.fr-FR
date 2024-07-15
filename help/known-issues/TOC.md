@@ -2,9 +2,9 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
+source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
 workflow-type: tm+mt
-source-wordcount: '1831'
+source-wordcount: '1837'
 ht-degree: 95%
 
 ---
@@ -17,10 +17,11 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Impossible de créer une vue pour la liste Documents](known-issues-workfront/wf-documents-cannot-add-new-view.md)
       + [Agile : le tableau d’articles devient vide lors de l’ajout d’une sous-tâche](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
       + [Utilisateurs : la page du profil utilisateur se charge en continu](known-issues-workfront/wf-users-profile-continuously-reloads.md)
       + [Workfront Mobile : impossible d’ouvrir les bons à tirer](known-issues-workfront/wf-mobile-proofs-not-open.md)
-      + [Accueil : impossible d’ouvrir des éléments à partir de [!UICONTROL Calendrier d’accueil] ou [!UICONTROL Liste de tâches]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
+      + [Accueil : impossible d’ouvrir les éléments à partir du [!UICONTROL calendrier d’accueil] ou de la [!UICONTROL liste de travail]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
       + [Notifications : miniatures non visibles dans les notifications par e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
       + [Formulaires personnalisés : le formulaire personnalisé n’est pas supprimé du document](known-issues-workfront/wf-custom-form-not-deleted-on-document.md)
       + [Problèmes : erreur lors d’une affectation avancée à un problème](known-issues-workfront/wf-issues-error-when-making-assignment.md)
