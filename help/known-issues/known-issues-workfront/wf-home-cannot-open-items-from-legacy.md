@@ -1,19 +1,19 @@
 ---
-title: "Accueil : impossible d’ouvrir des éléments à partir du calendrier d’accueil ou de la liste de travail"
-description: "Lorsqu’un utilisateur tente d’ouvrir un élément de travail ou un BAT à partir de son calendrier d’accueil ou de sa liste de travail, l’élément ne s’ouvre pas."
+title: '« Accueil : impossible d’ouvrir des éléments à partir du calendrier d’accueil ou de la liste de travail »'
+description: « Lorsqu’une personne tente d’ouvrir un élément de travail ou une épreuve à partir de son calendrier d’accueil ou de sa liste de travail de l’accueil, l’élément ne s’ouvre pas. »
 hidefromtoc: true
 feature: Get Started with Workfront
 source-git-commit: e64b507317a384626b33f81802737c17b210af24
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
 
-# Accueil : impossible d’ouvrir des éléments à partir de [!UICONTROL Calendrier d’accueil] ou [!UICONTROL Liste de tâches]
+# Accueil : impossible d’ouvrir des éléments à partir du [!UICONTROL calendrier d’accueil] ou de la [!UICONTROL liste de travail]
 
-Lorsqu’un utilisateur tente d’ouvrir un élément de travail ou un BAT à partir de son [!UICONTROL Calendrier d’accueil] ou [!UICONTROL Liste de travail à domicile], l’élément ne s’ouvre pas.
+Lorsqu’une personne tente d’ouvrir un élément de travail ou une épreuve à partir de son [!UICONTROL calendrier d’accueil] ou de sa [!UICONTROL liste de travail de l’accueil], l’élément ne s’ouvre pas.
 
 **Solution**
 
