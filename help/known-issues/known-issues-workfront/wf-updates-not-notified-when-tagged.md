@@ -1,15 +1,15 @@
 ---
-title: '« Mises à jour : baliser une personne ne fonctionne pas »'
-description: « Lorsqu’une personne est balisée dans un commentaire, ce dernier n’est pas visible par la personne. De plus, la personne balisée n’est pas informée du commentaire, que ce soit par e-mail ou par le biais d’une notification in-app. »
+title: "Mises à jour : le balisage d’un utilisateur est inefficace"
+description: Lorsqu’une personne est balisée dans un commentaire, ce dernier n’est pas visible par la personne. De plus, la personne balisée n’est pas informée du commentaire, que ce soit par e-mail ou par le biais d’une notification in-app.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
-workflow-type: ht
+exl-id: e2d49337-3176-401e-ace8-c52abd6e64db
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
-
 
 # Mises à jour : baliser une personne ne fonctionne pas
 

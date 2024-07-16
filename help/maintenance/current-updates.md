@@ -3,9 +3,9 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 4db36c0edb0710d933886aff2e7757c01bf2b6d9
+source-git-commit: b618463ab3321b711836c17e167fe34a5b859472
 workflow-type: tm+mt
-source-wordcount: '4344'
+source-wordcount: '4508'
 ht-degree: 96%
 
 ---
@@ -22,6 +22,45 @@ Pour connaître les mises à jour de maintenance antérieures à 2024, consultez
 
 ## Mises à jour de juillet 2024
 
+
+
++++**(Prévue) Mise à jour de maintenance du vendredi 18 juillet 2024**
+
+### Mise à jour de maintenance (planifiée) pour le vendredi 18 juillet 2024.
+
+#### Agile
+
+**Le tableau d’article devient vide lors de l’ajout d’une sous-tâche**
+
+Lorsqu’un utilisateur tente d’ajouter une sous-tâche à un tableau de bord alors qu’un filtre est sélectionné, l’écran devient vide et l’utilisateur ne peut pas ajouter la sous-tâche.
+
+#### Page d’accueil
+
+**Impossible d’ouvrir les éléments à partir du [!UICONTROL calendrier d’accueil] ou de la [!UICONTROL liste de travail]**
+
+Lorsqu’une personne tente d’ouvrir un élément de travail ou une épreuve à partir de son [!UICONTROL calendrier d’accueil] ou de sa [!UICONTROL liste de travail de l’accueil], l’élément ne s’ouvre pas.
+
+#### Épreuves
+
+**La fermeture d’un BAT mène à la page Documents de produit**
+
+Lorsqu’un utilisateur ou une utilisatrice consulte une épreuve et la ferme, la page Documents du projet s’affiche au lieu de la page à partir de laquelle l’épreuve a été ouverte.
+
+#### Workfront
+
+**La terminologie personnalisée n&#39;est pas appliquée**
+
+La terminologie personnalisée définie dans le modèle de mise en page n’apparaît pas dans certaines zones de Workfront. En effet, la terminologie non personnalisée par défaut s’affiche à la place.
+
+Les zones suivantes sont concernées :
+
+* Onglets du menu
+* En-têtes de page
+* Descriptions des projets répertoriés
+
+
++++
+
 +++**Mise à jour de maintenance le vendredi 11 juillet 2024**
 
 ### Mise à jour de maintenance le 11 juillet 2024
@@ -30,13 +69,13 @@ Pour connaître les mises à jour de maintenance antérieures à 2024, consultez
 
 **Erreur lors d’une affectation avancée à un problème**
 
-Lorsqu’un utilisateur tente d’effectuer une affectation avancée à un problème dans Workfront, celui-ci n’est pas affecté et le message d’erreur suivant s’affiche :
+Lorsqu’une personne tente d’attribuer une affectation avancée à un problème dans Workfront, le problème n’est pas attribué et un message d’erreur s’affiche :
 
-&quot;[!UICONTROL APIModel INTERNAL ne prend pas en charge la durée des champs (OpTask)]&quot;
+« [!UICONTROL APIModel INTERNAL ne prend pas en charge la durée des champs (OpTask)]. »
 
 #### Rapports
 
-**Erreur de chute lors de la définition des paramètres de matrice sur le rapport Heure**
+**Erreur de perte de clientèle lors de la définition des paramètres de matrice sur le rapport Heure**
 
 Lorsqu’un utilisateur tente de définir les paramètres de la matrice sur un rapport Heure, il ne peut pas définir les paramètres, et l’erreur suivante s’affiche :
 
@@ -51,7 +90,7 @@ Lorsqu’un utilisateur tente de définir les paramètres de la matrice sur un r
 
 #### Page d’accueil
 
-**Le menu à trois points est inefficace.**
+**Le menu à trois points est inefficace**
 
 Lorsqu’un utilisateur clique sur le menu Plus à trois points dans l’ancien Home Worlkist, aucune action n’est déclenchée.
 
@@ -63,7 +102,7 @@ Lorsqu’un utilisateur ou une utilisatrice consulte un graphique dans un rappor
 
 #### Tâches
 
-**Le rôle de tâche ne disparaît pas de la liste lorsque l’utilisateur est affecté à la tâche**
+**Le rôle de tâche ne disparaît pas de la liste lorsque l&#39;utilisateur est affecté à la tâche**
 
 Lorsqu’une fonction est affectée à une tâche et que cette tâche est affectée à une personne qui occupe la fonction, la fonction ne disparaît pas de la liste des affectations.
 

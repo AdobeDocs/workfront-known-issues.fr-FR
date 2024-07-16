@@ -15,6 +15,6 @@ ht-degree: 5%
 
 Lorsqu’un utilisateur tente d’afficher une page de profil utilisateur, la page semble être en cours de chargement, mais n’est pas complètement chargée.
 
-Cela a été signalé lors de l’utilisation de la variable [!UICONTROL Connexion en tant que] fonction .
+Ceci a été signalé lors de l’utilisation de la fonction [!UICONTROL Se connecter en tant que].
 
 _Premier signalement le mardi 8 juillet 2024._

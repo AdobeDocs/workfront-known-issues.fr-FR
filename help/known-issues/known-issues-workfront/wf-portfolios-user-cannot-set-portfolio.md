@@ -4,7 +4,7 @@ description: « Les personnes ne peuvent pas modifier les portfolios d’un pro
 hidefromtoc: true
 feature: Work Management
 source-git-commit: e64b507317a384626b33f81802737c17b210af24
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 100%
 

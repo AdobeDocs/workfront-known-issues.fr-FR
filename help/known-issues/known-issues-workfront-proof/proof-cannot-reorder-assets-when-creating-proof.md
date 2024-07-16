@@ -1,15 +1,15 @@
 ---
-title: '« Workfront Proof : impossible de réorganiser les ressources lors de la création d’un BAT »'
-description: « lorsqu’un utilisateur ou une utilisatrice de Workfront Proof tente de réorganiser les ressources qui seront combinées dans un BAT, il est impossible faire glisser les fichiers et leur ordre reste inchangé. »
+title: "Workfront Proof : impossible de réorganiser les ressources lors de la création d’un BAT"
+description: lorsqu’un utilisateur de Workfront Proof tente de réorganiser les ressources qui seront combinées dans un BAT, il ne peut pas faire glisser les fichiers et l’ordre des fichiers reste inchangé.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
-workflow-type: ht
+exl-id: d7651c5d-1a68-4a4f-a7aa-a9354eedead0
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 100%
+ht-degree: 59%
 
 ---
-
 
 # [!UICONTROL Workfront Proof] : impossible de réorganiser les ressources lors de la création d’un BAT
 

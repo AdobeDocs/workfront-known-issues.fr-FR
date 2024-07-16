@@ -4,7 +4,7 @@ description: « Lorsqu’une personne affiche une notification par e-mail conce
 hidefromtoc: true
 feature: Updates and Notifications, Digital Content and Documents
 source-git-commit: e64b507317a384626b33f81802737c17b210af24
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 100%
 

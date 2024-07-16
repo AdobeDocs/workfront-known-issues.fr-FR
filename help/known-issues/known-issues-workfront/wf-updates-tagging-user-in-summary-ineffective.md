@@ -1,15 +1,15 @@
 ---
-title: '« Mises à jour : taguer une personne avec @ dans le panneau Résumé ne fonctionne pas. »'
-description: « Lorsqu’une personne tente de taguer une autre personne à l’aide de @ dans la zone Mises à jour d’un panneau Résumé, cliquer sur le nom de la personne dans la liste déroulante ne fonctionne pas. » La deuxième tentative fonctionne toutefois comme prévu. »
+title: "Mises à jour : le balisage d’un utilisateur avec @ dans le panneau Résumé est inefficace"
+description: Lorsqu’une personne tente de taguer une autre personne à l’aide de @ dans la zone Mises à jour d’un panneau Résumé, cliquer sur le nom de la personne dans la liste déroulante ne fonctionne pas. La deuxième tentative fonctionne toutefois comme prévu.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
-workflow-type: ht
+exl-id: bf802503-0c05-48fb-ab5c-6965740c6333
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 100%
+ht-degree: 92%
 
 ---
-
 
 # Mises à jour : taguer une personne avec @ dans le panneau Résumé ne fonctionne pas.
 
@@ -28,5 +28,3 @@ Ou
 Sélectionnez la personne à l’aide de la touche Entrée/Retour.
 
 _Premier signalement le mardi 18 mars 2024._
-
-

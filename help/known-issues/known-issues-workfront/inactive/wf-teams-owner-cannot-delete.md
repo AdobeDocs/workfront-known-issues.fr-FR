@@ -1,15 +1,15 @@
 ---
-title: '« Équipes : impossible d’afficher la personne propriétaire de l’équipe ou de supprimer l’équipe »'
-description: « Ces actions ne sont pas disponibles pour les administrateurs et administratrices de groupes. »
+title: "Équipes : impossible d’afficher le propriétaire de l’équipe ou de supprimer l’équipe"
+description: Ces actions ne sont pas disponibles pour les administrateurs de groupe.
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 5ca6aa4e5e8ddc127623f0587cb42fc0fc10ebf8
-workflow-type: ht
+exl-id: bc8b7759-2cda-4ea0-8ba8-1ca883838ba9
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
-
 
 # Équipes : impossible d’afficher la personne propriétaire de l’équipe ou de supprimer l’équipe
 
@@ -25,4 +25,3 @@ Les actions suivantes ne sont pas disponibles pour les administrateurs et admini
 Elle survient même si l’administrateur ou l’administratrice du groupe dispose de toutes les autorisations liées aux équipes et aux utilisateurs et utilisatrices.
 
 _Premier signalement le samedi 15 mars 2024._
-

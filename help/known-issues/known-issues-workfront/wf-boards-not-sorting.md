@@ -1,15 +1,15 @@
 ---
-title: '« Panoramas : cartes non triées »'
-description: « Lorsqu’un utilisateur ou une utilisatrice tente de trier une carte sur un panorama, celle-ci n’est pas triée. Cela se produit lorsque vous utilisez une option de tri. »
+title: "Panoramas : cartes non triées"
+description: Lorsqu’un utilisateur ou une utilisatrice tente de trier des cartes sur un panorama, les cartes ne sont pas triées. Cela se produit lorsque vous utilisez une option de tri.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
-workflow-type: ht
+exl-id: 8cb4c535-73d6-40d7-aabc-0abd1f213fa6
+source-git-commit: 7aba3a4ce3e0436a8fd9850197bc44da9dafe347
+workflow-type: tm+mt
 source-wordcount: '62'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
-
 
 # Panoramas : cartes non triées
 

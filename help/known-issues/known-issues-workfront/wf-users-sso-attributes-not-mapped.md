@@ -1,15 +1,15 @@
 ---
-title: '« Utilisateurs : les attributs utilisateur et utilisatrice ne sont pas mappés à partir de l’authentification unique. »'
-description: « Les attributs d’authentification unique n’apparaissent pas dans Workfront, même s’ils ont été correctement configurés dans Configuration. »
+title: "Utilisateurs : les attributs utilisateur ne sont pas mappés à partir de l’authentification unique"
+description: Les attributs d’authentification unique n’apparaissent pas dans Workfront, même s’ils ont été correctement configurés dans Configuration.
 hidefromtoc: true
 feature: People Teams and Groups, System Setup and Administration
-source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
-workflow-type: ht
+exl-id: c221d721-48ee-42f4-a12e-44ec6982ff89
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
-
 
 # Utilisateurs ou utilisatrices : les attributs utilisateur et utilisatrice ne sont pas mappés à partir de l’authentification unique.
 
