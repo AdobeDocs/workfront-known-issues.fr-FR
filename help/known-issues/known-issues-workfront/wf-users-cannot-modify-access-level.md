@@ -4,18 +4,21 @@ description: Lorsqu’un administrateur ou une administratrice de groupes tente 
 hidefromtoc: true
 feature: People Teams and Groups
 exl-id: f5548cd1-5d03-4a3e-86a8-7da5fc647a41
-source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '104'
 ht-degree: 100%
 
 ---
 
 # Utilisateurs et utilisatrices : impossible de modifier le niveau d’accès de l’utilisateur ou de l’utilisatrice
 
+
+<!--
 >[!NOTE]
 >
->Ce problème a été résolu le 6 juin 2024.
+>This issue was fixed on June 6, 2024.
+-->
 
 Lorsqu’un administrateur ou une administratrice de groupes tente de modifier le niveau d’accès d’une personne du groupe, le champ de niveau d’accès est désactivé et l’administrateur ou l’administratrice de groupes ne peut pas modifier le niveau d’accès de la personne.
 

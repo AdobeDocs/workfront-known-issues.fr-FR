@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
+source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
 workflow-type: tm+mt
-source-wordcount: '1837'
-ht-degree: 98%
+source-wordcount: '1864'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Projets : le symbole de devise est incorrect lors de l’exportation](known-issues-workfront/wf-projects-currency-symbol-incorrect.md)
+      + [Formulaires personnalisés : la liste déroulante se ferme lors de la sélection de plusieurs valeurs](known-issues-workfront/wf-custom-forms-dropdown-closes.md)
+      + [Panoramas : erreur lors du chargement d’un panorama](known-issues-workfront/wf-boards-error-when-loading-board.md)
+      + [Bons à tirer : les bons à tirer approuvés apparaissent dans les rapports](known-issues-workfront/wf-proofs-approved-showing-on-reports.md)
       + [Impossible de créer une vue pour la liste Documents](known-issues-workfront/wf-documents-cannot-add-new-view.md)
       + [Agile : le tableau d’articles devient vide lors de l’ajout d’une sous-tâche](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
       + [Utilisateurs : la page du profil utilisateur se charge en continu](known-issues-workfront/wf-users-profile-continuously-reloads.md)

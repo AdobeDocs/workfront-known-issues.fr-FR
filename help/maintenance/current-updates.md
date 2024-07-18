@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: b618463ab3321b711836c17e167fe34a5b859472
+source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
 workflow-type: tm+mt
-source-wordcount: '4508'
-ht-degree: 96%
+source-wordcount: '4535'
+ht-degree: 95%
 
 ---
 
@@ -24,9 +24,9 @@ Pour connaître les mises à jour de maintenance antérieures à 2024, consultez
 
 
 
-+++**(Prévue) Mise à jour de maintenance du vendredi 18 juillet 2024**
++++**Mise à jour de maintenance le vendredi 18 juillet 2024**
 
-### Mise à jour de maintenance (planifiée) pour le vendredi 18 juillet 2024.
+### Mise à jour de maintenance le 18 juillet 2024
 
 #### Agile
 
@@ -39,6 +39,10 @@ Lorsqu’un utilisateur tente d’ajouter une sous-tâche à un tableau de bord 
 **Impossible d’ouvrir les éléments à partir du [!UICONTROL calendrier d’accueil] ou de la [!UICONTROL liste de travail]**
 
 Lorsqu’une personne tente d’ouvrir un élément de travail ou une épreuve à partir de son [!UICONTROL calendrier d’accueil] ou de sa [!UICONTROL liste de travail de l’accueil], l’élément ne s’ouvre pas.
+
+**La page d’accueil de l’administrateur s’affiche lorsqu’il est connecté en tant qu’autre utilisateur**
+
+Lorsqu’un administrateur est connecté en tant qu’autre utilisateur et consulte la page d’accueil de cet utilisateur, la page d’accueil de l’administrateur s’affiche.
 
 #### Épreuves
 

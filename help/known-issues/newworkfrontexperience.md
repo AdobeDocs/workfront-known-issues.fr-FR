@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ecd8588333404b8effc26111f34618c8e9cec459
+source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
 workflow-type: tm+mt
-source-wordcount: '814'
-ht-degree: 99%
+source-wordcount: '852'
+ht-degree: 96%
 
 ---
 
@@ -25,6 +25,9 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Utilisateurs et utilisatrices : impossible de modifier le niveau d’accès de l’utilisateur ou de l’utilisatrice](known-issues-workfront/wf-users-cannot-modify-access-level.md) | vendredi 18 juillet 2024 |
+| [Panoramas : erreur lors du chargement d’un panorama](known-issues-workfront/wf-boards-error-when-loading-board.md) | vendredi 18 juillet 2024 |
+| [ Bons à tirer : les bons à tirer approuvés apparaissent dans les rapports](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | vendredi 18 juillet 2024 |
 | [Documents : le nombre de documents est inexact.](known-issues-workfront/wf-documents-count-only-root-folder.md) | samedi 28 juin 2024 |
 | [Navigation : le bouton Retour ne revient pas à la page précédente.](known-issues-workfront/wf-navigation-back-button-not-work.md) | samedi 28 juin 2024 |
 | [Intégrations : lier un dossier depuis  [!DNL Google Drive]  ne lie pas les ressources dans le dossier.](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | mercredi 25 juin 2024 |
@@ -42,6 +45,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
+| [Projets : le symbole de devise est incorrect lors de l’exportation ](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | vendredi 18 juillet 2024 |
+| [Formulaires personnalisés : la liste déroulante se ferme lors de la sélection de plusieurs valeurs](known-issues-workfront/wf-custom-forms-dropdown-closes.md) | vendredi 18 juillet 2024 |
 | [Notifications : miniatures non visibles dans les notifications par e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | vendredi 18 juillet 2024 |
 | [Formulaires personnalisés : le formulaire personnalisé n’est pas supprimé du document.](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | vendredi 18 juillet 2024 |
 | [ Impossible de créer une vue pour la liste Documents](known-issues-workfront/wf-documents-cannot-add-new-view.md) | mardi 15 juillet 2024 |
