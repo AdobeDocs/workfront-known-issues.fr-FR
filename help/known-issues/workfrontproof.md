@@ -4,9 +4,9 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
+source-git-commit: 7b149f8f117d778efaa35ae650ed8b6f47c06311
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '451'
 ht-degree: 97%
 
 ---
@@ -30,7 +30,6 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 | [Formulaires personnalisés : le formulaire personnalisé n’est pas supprimé du document.](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | mardi 8 juillet 2024 |
 | [Documents : le nombre de documents est inexact.](known-issues-workfront/wf-documents-count-only-root-folder.md) | samedi 28 juin 2024 |
 | [Intégrations : lier un dossier depuis  [!DNL Google Drive]  ne lie pas les ressources dans le dossier.](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | mercredi 25 juin 2024 |
-| [Épreuves : la fermeture d’une épreuve conduit à la page Documents de produit.](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | mardi 24 juin 2024 |
 | [Intégrations : impossible d’ajouter une nouvelle version d’un document à partir de  [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | mardi 24 juin 2024 |
 | [Intégrations : problèmes d’intégration de Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | samedi 14 juin 2024 |
 | [Notifications : les notifications de la version bêta des approbations de documents ne sont pas correctement formatées.](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 22 avril 2024 |
@@ -45,7 +44,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | -----------------------------------------------------------------| ----------------- |
 | [ Impossible de créer une vue pour la liste Documents](known-issues-workfront/wf-documents-cannot-add-new-view.md) | mardi 15 juillet 2024 |
 | [Documents : erreur lors de l’utilisation d’un lien public vers un document](known-issues-workfront/wf-documents-public-link-not-working.md) | 5 juin 2024 |
-| [Épreuves : impossible de fermer la visionneuse de relecture](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 5 juin 2024 |
 | [Page d’accueil : le widget Approbations n’est pas exact.](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 8 mai 2024 |
 | [Projet : impossible de convertir le problème en projet si l’épreuve web est jointe](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 22 mars 2024 |
 | [Bons à tirer : chemin de navigation manquant lors de l’accès au BAT à partir du lien de l’e-mail](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 novembre 2023 |

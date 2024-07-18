@@ -3,15 +3,19 @@ title: '« Enregistrements de facturation : le bouton Ajouter d’autres enreg
 description: « Lorsqu’une personne consulte une liste d’enregistrements de facturation et tente d’en ajouter un nouveau, elle voit que le bouton Ajouter un nouvel enregistrement de facturation est absent du haut de la page. »
 hidefromtoc: true
 feature: Work Management
-source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
+source-git-commit: 7b149f8f117d778efaa35ae650ed8b6f47c06311
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '152'
 ht-degree: 100%
 
 ---
 
 
 # Enregistrements de facturation : le bouton Ajouter d’autres enregistrements de facturation est manquant.
+
+>[!NOTE]
+>
+>Ce problème a été résolu le vendredi 18 juillet 2024.
 
 Lorsqu’une personne consulte une liste d’enregistrements de facturation et tente d’en ajouter un nouveau, elle voit que le bouton Ajouter un nouvel enregistrement de facturation est absent du haut de la page.
 
