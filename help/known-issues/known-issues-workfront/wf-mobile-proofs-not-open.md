@@ -3,15 +3,19 @@ title: "Workfront Mobile : impossible d’ouvrir les bons à tirer"
 description: "Lorsqu’un utilisateur tente d’ouvrir un BAT dans l’application mobile Workfront, il voit l’indicateur de chargement en rotation, mais le BAT ne se charge pas."
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
+source-git-commit: ecd8588333404b8effc26111f34618c8e9cec459
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 6%
+source-wordcount: '77'
+ht-degree: 5%
 
 ---
 
 
 # Workfront Mobile : impossible d’ouvrir les bons à tirer
+
+>[!NOTE]
+>
+>Ce problème a été corrigé avec la version de l’application publiée le 15 juillet 2024.
 
 Lorsqu’un utilisateur tente d’ouvrir un BAT dans l’application mobile Workfront, il voit l’indicateur de chargement en rotation, mais le BAT ne se charge pas.
 
