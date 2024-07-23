@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
+source-git-commit: 35106dcf97314734dec36ddc05a821aa2b54b234
 workflow-type: tm+mt
-source-wordcount: '852'
-ht-degree: 96%
+source-wordcount: '861'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Panoramas : la carte n’inclut pas de sous-tâches](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 23 juillet 2024 |
 | [Utilisateurs et utilisatrices : impossible de modifier le niveau d’accès de l’utilisateur ou de l’utilisatrice](known-issues-workfront/wf-users-cannot-modify-access-level.md) | vendredi 18 juillet 2024 |
 | [Panoramas : erreur lors du chargement d’un panorama](known-issues-workfront/wf-boards-error-when-loading-board.md) | vendredi 18 juillet 2024 |
 | [ Bons à tirer : les bons à tirer approuvés apparaissent dans les rapports](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | vendredi 18 juillet 2024 |
