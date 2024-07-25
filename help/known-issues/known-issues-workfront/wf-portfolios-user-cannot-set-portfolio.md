@@ -1,17 +1,21 @@
 ---
-title: '« Portfolios : la personne ne peut pas définir de portfolio. »'
-description: « Les personnes ne peuvent pas modifier les portfolios d’un projet si elles n’ont pas accès au portfolio. »
+title: "Portfolios : l’utilisateur ne peut pas définir de portefeuille"
+description: Les personnes ne peuvent pas modifier les portfolios d’un projet si elles n’ont pas accès au portfolio.
 hidefromtoc: true
 feature: Work Management
-source-git-commit: e64b507317a384626b33f81802737c17b210af24
+exl-id: 38ad277a-2087-486c-8715-93e275488697
+source-git-commit: 83768065b8ab38a516a5f1a51039ad6df05b5788
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 100%
+source-wordcount: '167'
+ht-degree: 97%
 
 ---
 
-
 # Portfolios : la personne ne peut pas définir de portfolio.
+
+>[!NOTE]
+>
+>Ce problème a été résolu, car tout fonctionne comme prévu.
 
 Les personnes ne peuvent pas modifier les portfolios d’un projet si elles n’ont pas accès au portfolio.
 

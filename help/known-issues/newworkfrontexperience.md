@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 689e979b0598017911ad86f2f16e30733eadd2bb
+source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
 workflow-type: tm+mt
-source-wordcount: '854'
-ht-degree: 96%
+source-wordcount: '873'
+ht-degree: 92%
 
 ---
 
@@ -25,8 +25,9 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bons à tirer : l’ouverture d’un BAT ouvre plusieurs copies](known-issues-workfront/wf-proofs-two-proofs-open.md) | vendredi 25 juillet 2024 |
+| [Connexion en tant que : l’accueil et les épingles s’affichent incorrectement lors de la déconnexion de &quot;Connexion en tant que&quot;](known-issues-workfront/wf-login-as-displays-when-logged-out.md) | vendredi 25 juillet 2024 |
 | [Panoramas : la carte n’inclut pas de sous-tâches](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 23 juillet 2024 |
-| [Utilisateurs et utilisatrices : impossible de modifier le niveau d’accès de l’utilisateur ou de l’utilisatrice](known-issues-workfront/wf-users-cannot-modify-access-level.md) | vendredi 18 juillet 2024 |
 | [Panoramas : erreur lors du chargement d’un panorama](known-issues-workfront/wf-boards-error-when-loading-board.md) | vendredi 18 juillet 2024 |
 | [Documents : le nombre de documents est inexact.](known-issues-workfront/wf-documents-count-only-root-folder.md) | samedi 28 juin 2024 |
 | [Navigation : le bouton Retour ne revient pas à la page précédente.](known-issues-workfront/wf-navigation-back-button-not-work.md) | samedi 28 juin 2024 |
@@ -45,12 +46,12 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
+| [Mises à jour : les utilisateurs ne sont pas avertis des mises à jour dirigées](known-issues-workfront/wf-updates-users-not-getting-email.md) | vendredi 25 juillet 2024 |
+| [Tâches : les autorisations héritées manquent dans les tâches](known-issues-workfront/wf-tasks-inherited-permissions-missing.md) | vendredi 25 juillet 2024 |
+| [Niveaux d’accès : Duplication des niveaux d’accès dans la zone de configuration](known-issues-workfront/wf-access-duplicate-level.md) | vendredi 25 juillet 2024 |
 | [Projets : le symbole de devise est incorrect lors de l’exportation ](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | vendredi 18 juillet 2024 |
-| [Formulaires personnalisés : la liste déroulante se ferme lors de la sélection de plusieurs valeurs](known-issues-workfront/wf-custom-forms-dropdown-closes.md) | vendredi 18 juillet 2024 |
-| [Notifications : miniatures non visibles dans les notifications par e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | vendredi 18 juillet 2024 |
 | [Formulaires personnalisés : le formulaire personnalisé n’est pas supprimé du document.](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | vendredi 18 juillet 2024 |
 | [ Impossible de créer une vue pour la liste Documents](known-issues-workfront/wf-documents-cannot-add-new-view.md) | mardi 15 juillet 2024 |
-| [Portfolios : la personne ne peut pas définir de portfolio.](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | mardi 8 juillet 2024 |
 | [Équipes : impossible d’afficher la personne propriétaire de l’équipe ou de supprimer l’équipe](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 avril 2024 |
 | [Tâches : erreur bizContext lors de l’ajout ou de la suppression d’une tâche](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 4 avril 2024 |
 | [[!DNL Workfront] : problèmes lors de la soumission d’un cas d’assistance [!DNL Workfront] sur Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 août 2022 |

@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
+source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
 workflow-type: tm+mt
-source-wordcount: '1864'
-ht-degree: 97%
+source-wordcount: '1908'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,11 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Mises à jour : les utilisateurs ne sont pas avertis des mises à jour redirigées.](known-issues-workfront/wf-updates-users-not-getting-email.md)
+      + [Bons à tirer : l&#39;ouverture d&#39;un BAT ouvre plusieurs copies](known-issues-workfront/wf-proofs-two-proofs-open.md)
+      + [Connexion en tant que : l’accueil et les épingles s’affichent incorrectement lors de la déconnexion de &quot;Connexion en tant que&quot;.](known-issues-workfront/wf-login-as-displays-when-logged-out.md)
+      + [Tâches : autorisations héritées manquantes pour les tâches](known-issues-workfront/wf-tasks-inherited-permissions-missing.md)
+      + [Niveaux d’accès : niveaux d’accès en double dans la zone Configuration](known-issues-workfront/wf-access-duplicate-level.md)
       + [Projets : le symbole de devise est incorrect lors de l’exportation](known-issues-workfront/wf-projects-currency-symbol-incorrect.md)
       + [Formulaires personnalisés : la liste déroulante se ferme lors de la sélection de plusieurs valeurs](known-issues-workfront/wf-custom-forms-dropdown-closes.md)
       + [Panoramas : erreur lors du chargement d’un panorama](known-issues-workfront/wf-boards-error-when-loading-board.md)
