@@ -1,17 +1,21 @@
 ---
-title: '« Intégrations : impossible d’ajouter une nouvelle version d’un document à partir de  [!DNL Google Drive] »'
-description: « Si un utilisateur ou une utilisatrice consulte une liste de documents et tente d’ajouter une nouvelle version d’un document à partir de  [!DNL Google Drive], un message s’affiche. Une solution de contournement est disponible. »
+title: "Intégrations : impossible d’ajouter une nouvelle version d’un document à partir de [!DNL Google Drive]"
+description: Si un utilisateur consulte une liste de documents et tente d’ajouter une nouvelle version d’un document à partir de [!DNL Google Drive], un message s’affiche. Une solution de contournement est disponible.
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents
-source-git-commit: 1d1f820d9f68a687df58d432b4d18dd91b2d2b13
+exl-id: f3158228-7df2-4063-99f9-5d01a224ada4
+source-git-commit: d88a785bb980ad4dcbb5ccb6b1b1bfb0cb61a161
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 100%
+source-wordcount: '117'
+ht-degree: 67%
 
 ---
 
-
 # Intégrations : impossible d’ajouter une nouvelle version d’un document à partir de [!DNL Google Drive]
+
+>[!NOTE]
+>
+>Ce numéro a été fermé le 25 juillet 2024.
 
 Si un utilisateur ou une utilisatrice consulte une liste de documents et tente d’ajouter une nouvelle version d’un document à partir de [!DNL Google Drive], ce message s’affiche :
 
