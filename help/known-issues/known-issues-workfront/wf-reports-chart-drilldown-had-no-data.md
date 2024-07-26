@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 27b1ff30-ad5c-41f4-992b-56c87b939e69
 source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '133'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->Ce problème a été clos le 4 juillet 2024.
+>Ce problème a été résolu le 4 juillet 2024.
 
 Lorsqu’un utilisateur ou une utilisatrice consulte un graphique dans un rapport et clique sur un regroupement dans le graphique, et que le nom de ce regroupement comporte un symbole / ou un \, les détails qui s’ouvrent n’affichent pas les éléments du regroupement et l’utilisateur ou l’utilisatrice voit un message « Aucune donnée à afficher ».
 
