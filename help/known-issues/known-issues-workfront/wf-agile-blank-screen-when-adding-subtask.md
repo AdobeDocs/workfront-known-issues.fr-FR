@@ -1,23 +1,23 @@
 ---
 title: "Agile : le tableau d’article devient vide lors de l’ajout d’une sous-tâche"
-description: "Lorsqu’un utilisateur tente d’ajouter une sous-tâche à un tableau de bord alors qu’un filtre est sélectionné, l’écran devient vide et l’utilisateur ne peut pas ajouter la sous-tâche."
+description: Lorsqu’une personne tente d’ajouter une sous-tâche à un tableau de bord alors qu’un filtre est sélectionné, l’écran se vide et il est impossible d’ajouter la sous-tâche.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 7b149f8f117d778efaa35ae650ed8b6f47c06311
+exl-id: 3d4ad64a-31a3-4205-a469-80bf680659b3
+source-git-commit: 18d44b25277610942a68227b9a3a9c17c874b966
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 11%
+ht-degree: 90%
 
 ---
 
-
-# Agile : le tableau d’articles devient vide lors de l’ajout d’une sous-tâche
+# Agile : le storyboard se vide lors de l’ajout d’une sous-tâche.
 
 >[!NOTE]
 >
 >Ce problème a été résolu le vendredi 18 juillet 2024.
 
-Lorsqu’un utilisateur tente d’ajouter une sous-tâche à un tableau de bord alors qu’un filtre est sélectionné, l’écran devient vide et l’utilisateur ne peut pas ajouter la sous-tâche.
+Lorsqu’une personne tente d’ajouter une sous-tâche à un tableau de bord alors qu’un filtre est sélectionné, l’écran se vide et il est impossible d’ajouter la sous-tâche.
 
 **Solution de contournement**
 

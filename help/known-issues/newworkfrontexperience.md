@@ -49,7 +49,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [Niveaux d’accès : Duplication des niveaux d’accès dans la zone de configuration](known-issues-workfront/wf-access-duplicate-level.md) | vendredi 25 juillet 2024 |
 | [Projets : le symbole de devise est incorrect lors de l’exportation ](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | vendredi 18 juillet 2024 |
 | [Formulaires personnalisés : le formulaire personnalisé n’est pas supprimé du document.](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | vendredi 18 juillet 2024 |
-| [ Impossible de créer une vue pour la liste Documents](known-issues-workfront/wf-documents-cannot-add-new-view.md) | mardi 15 juillet 2024 |
+| [Impossible de créer une vue pour la liste Documents](known-issues-workfront/wf-documents-cannot-add-new-view.md) | mardi 15 juillet 2024 |
 | [Équipes : impossible d’afficher la personne propriétaire de l’équipe ou de supprimer l’équipe](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 avril 2024 |
 | [Tâches : erreur bizContext lors de l’ajout ou de la suppression d’une tâche](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 4 avril 2024 |
 | [[!DNL Workfront] : problèmes lors de la soumission d’un cas d’assistance [!DNL Workfront] sur Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 août 2022 |

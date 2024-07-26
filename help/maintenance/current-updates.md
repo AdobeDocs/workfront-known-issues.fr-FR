@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 349f5a14e77cd710a3566ece5985caf731969f0f
 workflow-type: tm+mt
 source-wordcount: '4620'
-ht-degree: 94%
+ht-degree: 97%
 
 ---
 
@@ -26,7 +26,7 @@ Pour connaître les mises à jour de maintenance antérieures à 2024, consultez
 
 +++**Mise à jour de maintenance le vendredi 25 juillet 2024**
 
-### Mise à jour de maintenance le 25 juillet 2024
+### Mise à jour de maintenance le vendredi 25 juillet 2024
 
 #### Formulaires personnalisés dans mon groupe
 
@@ -48,13 +48,13 @@ Ce problème a été signalé sur Gmail.
 
 +++**Mise à jour de maintenance le vendredi 18 juillet 2024**
 
-### Mise à jour de maintenance le 18 juillet 2024
+### Mise à jour de maintenance le vendredi 18 juillet 2024
 
 #### Agile
 
 **Le tableau d’article devient vide lors de l’ajout d’une sous-tâche**
 
-Lorsqu’un utilisateur tente d’ajouter une sous-tâche à un tableau de bord alors qu’un filtre est sélectionné, l’écran devient vide et l’utilisateur ne peut pas ajouter la sous-tâche.
+Lorsqu’une personne tente d’ajouter une sous-tâche à un tableau de bord alors qu’un filtre est sélectionné, l’écran se vide et il est impossible d’ajouter la sous-tâche.
 
 #### Page d’accueil
 
@@ -89,7 +89,7 @@ Les zones suivantes sont concernées :
 
 +++**Mise à jour de maintenance le vendredi 11 juillet 2024**
 
-### Mise à jour de maintenance le 11 juillet 2024
+### Mise à jour de maintenance le 11 juillet 2024
 
 #### Problèmes
 
@@ -101,9 +101,9 @@ Lorsqu’une personne tente d’attribuer une affectation avancée à un problè
 
 #### Rapports
 
-**Erreur de perte de clientèle lors de la définition des paramètres de matrice sur le rapport Heure**
+**Erreur « Oups » lors de la définition des paramètres de matrice sur le rapport sur les heures**
 
-Lorsqu’un utilisateur tente de définir les paramètres de la matrice sur un rapport Heure, il ne peut pas définir les paramètres, et l’erreur suivante s’affiche :
+Lorsqu’une personne tente de définir les paramètres de matrice sur un rapport sur les heures, il est impossible de définir les paramètres et l’erreur suivante s’affiche :
 
 * « [!UICONTROL Oups ! Un problème est survenu. Contactez Workfront pour nous aider à comprendre l’erreur et y remédier.] »
 
@@ -112,23 +112,23 @@ Lorsqu’un utilisateur tente de définir les paramètres de la matrice sur un r
 
 +++**Mise à jour de maintenance le vendredi 4 juillet 2024**
 
-### Mise à jour de maintenance le 4 juillet 2024
+### Mise à jour de maintenance le 4 juillet 2024
 
 #### Page d’accueil
 
-**Le menu à trois points est inefficace**
+**Le menu à trois points ne fonctionne pas.**
 
-Lorsqu’un utilisateur clique sur le menu Plus à trois points dans l’ancien Home Worlkist, aucune action n’est déclenchée.
+Lorsqu’une personne clique sur le menu Plus à trois points dans l’ancienne liste de travail de l’accueil (Home Worlkist), aucune action n’est déclenchée.
 
 #### Rapports
 
-**&quot;Aucune donnée à afficher&quot; lorsque le nom du groupement comporte une barre oblique inverse ou ascendante**
+**« Aucune donnée à afficher » lorsque le nom du regroupement comporte une barre oblique ou une barre oblique inversée.**
 
 Lorsqu’un utilisateur ou une utilisatrice consulte un graphique dans un rapport et clique sur un regroupement dans le graphique, et que le nom de ce regroupement comporte un symbole / ou un \, les détails qui s’ouvrent n’affichent pas les éléments du regroupement et l’utilisateur ou l’utilisatrice voit un message « Aucune donnée à afficher ».
 
 #### Tâches
 
-**Le rôle de tâche ne disparaît pas de la liste lorsque l&#39;utilisateur est affecté à la tâche**
+**La fonction ne disparaît pas de la liste lorsque la personne est affectée à une tâche.**
 
 Lorsqu’une fonction est affectée à une tâche et que cette tâche est affectée à une personne qui occupe la fonction, la fonction ne disparaît pas de la liste des affectations.
 

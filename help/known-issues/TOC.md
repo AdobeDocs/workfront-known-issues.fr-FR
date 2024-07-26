@@ -5,7 +5,7 @@ role: User
 source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
 workflow-type: tm+mt
 source-wordcount: '1908'
-ht-degree: 94%
+ht-degree: 96%
 
 ---
 
@@ -27,9 +27,9 @@ ht-degree: 94%
       + [Panoramas : erreur lors du chargement d’un panorama](known-issues-workfront/wf-boards-error-when-loading-board.md)
       + [Bons à tirer : les bons à tirer approuvés apparaissent dans les rapports](known-issues-workfront/wf-proofs-approved-showing-on-reports.md)
       + [Impossible de créer une vue pour la liste Documents](known-issues-workfront/wf-documents-cannot-add-new-view.md)
-      + [Agile : le tableau d’articles devient vide lors de l’ajout d’une sous-tâche](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
-      + [Utilisateurs : la page du profil utilisateur se charge en continu](known-issues-workfront/wf-users-profile-continuously-reloads.md)
-      + [Workfront Mobile : impossible d’ouvrir les bons à tirer](known-issues-workfront/wf-mobile-proofs-not-open.md)
+      + [Agile : le storyboard se vide lors de l’ajout d’une sous-tâche.](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
+      + [Utilisateurs et utilisatrices : la page du profil utilisateur ne parvient pas à se charger complètement.](known-issues-workfront/wf-users-profile-continuously-reloads.md)
+      + [Workfront Mobile : impossible d’ouvrir les épreuves](known-issues-workfront/wf-mobile-proofs-not-open.md)
       + [Accueil : impossible d’ouvrir des éléments à partir du [!UICONTROL calendrier d’accueil] ou de la [!UICONTROL liste de travail]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
       + [Notifications : miniatures non visibles dans les notifications par e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
       + [Formulaires personnalisés : le formulaire personnalisé n’est pas supprimé du document.](known-issues-workfront/wf-custom-form-not-deleted-on-document.md)

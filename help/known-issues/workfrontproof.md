@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: d88a785bb980ad4dcbb5ccb6b1b1bfb0cb61a161
 workflow-type: tm+mt
 source-wordcount: '437'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -40,7 +40,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
 | [Notifications : miniatures non visibles dans les notifications par e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | mardi 8 juillet 2024 |
-| [ Impossible de créer une vue pour la liste Documents](known-issues-workfront/wf-documents-cannot-add-new-view.md) | mardi 15 juillet 2024 |
+| [Impossible de créer une vue pour la liste Documents](known-issues-workfront/wf-documents-cannot-add-new-view.md) | mardi 15 juillet 2024 |
 | [Documents : erreur lors de l’utilisation d’un lien public vers un document](known-issues-workfront/wf-documents-public-link-not-working.md) | 5 juin 2024 |
 | [Page d’accueil : le widget Approbations n’est pas exact.](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 8 mai 2024 |
 | [Projet : impossible de convertir le problème en projet si l’épreuve web est jointe](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 22 mars 2024 |
