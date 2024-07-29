@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e5895c67ae8b4f63bc9c1d4872521263909a8c6c
+source-git-commit: ee8a402825303927035fea84fd52751c26a46189
 workflow-type: tm+mt
-source-wordcount: '843'
-ht-degree: 95%
+source-wordcount: '853'
+ht-degree: 94%
 
 ---
 
@@ -43,6 +43,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
+| [Notifications : miniatures non visibles dans les notifications par e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 29 juillet 2024 |
 | [Panoramas : la carte n’inclut pas de sous-tâches](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 25 juillet 2024 |
 | [Mises à jour : les utilisateurs ne sont pas avertis des mises à jour dirigées](known-issues-workfront/wf-updates-users-not-getting-email.md) | vendredi 25 juillet 2024 |
 | [Niveaux d’accès : Duplication des niveaux d’accès dans la zone de configuration](known-issues-workfront/wf-access-duplicate-level.md) | vendredi 25 juillet 2024 |
