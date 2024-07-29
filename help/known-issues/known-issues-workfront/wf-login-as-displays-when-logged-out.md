@@ -1,17 +1,21 @@
 ---
-title: "Connexion en tant que : la page d’accueil et les épingles s’affichent incorrectement lors de la déconnexion de la connexion en tant que"
-description: "Lorsqu’un utilisateur connecté en tant qu’autre utilisateur se déconnecte en tant qu’utilisateur, les problèmes suivants s’affichent sur son écran d’accueil."
+title: 'Se connecter en tant que : le domicile et les épingles s’affichent incorrectement lors de la déconnexion de Se connecter en tant que'
+description: Lorsqu’un utilisateur connecté en tant qu’autre utilisateur se déconnecte en tant qu’utilisateur, les problèmes suivants s’affichent sur son écran d’accueil.
 hidefromtoc: true
 feature: System Setup and Administration, Get Started with Workfront
-source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
+exl-id: 3614563d-7f53-4632-b09f-2874133aa217
+source-git-commit: e3290a00e93e0faf6b944ac02c2820dc3a26fb4b
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 6%
+source-wordcount: '122'
+ht-degree: 11%
 
 ---
 
-
 # Connexion en tant que : l’accueil et les épingles s’affichent incorrectement lors de la déconnexion de &quot;Connexion en tant que&quot;.
+
+>[!NOTE]
+>
+>Ce problème a été résolu le vendredi 25 juillet 2024.
 
 Lorsqu’un utilisateur connecté en tant qu’autre utilisateur se déconnecte en tant qu’utilisateur, les éléments suivants s’affichent :
 

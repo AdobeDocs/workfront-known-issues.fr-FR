@@ -4,9 +4,9 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: d88a785bb980ad4dcbb5ccb6b1b1bfb0cb61a161
+source-git-commit: e5895c67ae8b4f63bc9c1d4872521263909a8c6c
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '447'
 ht-degree: 98%
 
 ---
@@ -25,6 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Agile : le storyboard se vide lors de l’ajout d’une sous-tâche.](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | samedi 26 juillet 2024 |
 | [Bons à tirer : l’ouverture d’un BAT ouvre plusieurs copies](known-issues-workfront/wf-proofs-two-proofs-open.md) | vendredi 25 juillet 2024 |
 | [Formulaires personnalisés : le formulaire personnalisé n’est pas supprimé du document.](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | mardi 8 juillet 2024 |
 | [Intégrations : lier un dossier depuis  [!DNL Google Drive]  ne lie pas les ressources dans le dossier.](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | mercredi 25 juin 2024 |

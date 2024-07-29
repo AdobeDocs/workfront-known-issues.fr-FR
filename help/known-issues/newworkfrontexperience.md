@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d88a785bb980ad4dcbb5ccb6b1b1bfb0cb61a161
+source-git-commit: e5895c67ae8b4f63bc9c1d4872521263909a8c6c
 workflow-type: tm+mt
-source-wordcount: '857'
-ht-degree: 92%
+source-wordcount: '843'
+ht-degree: 95%
 
 ---
 
@@ -26,7 +26,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
 | [Bons à tirer : l’ouverture d’un BAT ouvre plusieurs copies](known-issues-workfront/wf-proofs-two-proofs-open.md) | vendredi 25 juillet 2024 |
-| [Connexion en tant que : l’accueil et les épingles s’affichent incorrectement lors de la déconnexion de &quot;Connexion en tant que&quot;](known-issues-workfront/wf-login-as-displays-when-logged-out.md) | vendredi 25 juillet 2024 |
+| [Panoramas : la carte n’inclut pas de sous-tâches](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 23 juillet 2024 |
 | [Panoramas : erreur lors du chargement d’un panorama](known-issues-workfront/wf-boards-error-when-loading-board.md) | vendredi 18 juillet 2024 |
 | [Navigation : le bouton Retour ne revient pas à la page précédente.](known-issues-workfront/wf-navigation-back-button-not-work.md) | samedi 28 juin 2024 |
 | [Intégrations : lier un dossier depuis  [!DNL Google Drive]  ne lie pas les ressources dans le dossier.](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | mercredi 25 juin 2024 |
@@ -45,7 +45,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 |----------------------------------| ----------------- |
 | [Panoramas : la carte n’inclut pas de sous-tâches](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 25 juillet 2024 |
 | [Mises à jour : les utilisateurs ne sont pas avertis des mises à jour dirigées](known-issues-workfront/wf-updates-users-not-getting-email.md) | vendredi 25 juillet 2024 |
-| [Tâches : les autorisations héritées manquent dans les tâches](known-issues-workfront/wf-tasks-inherited-permissions-missing.md) | vendredi 25 juillet 2024 |
 | [Niveaux d’accès : Duplication des niveaux d’accès dans la zone de configuration](known-issues-workfront/wf-access-duplicate-level.md) | vendredi 25 juillet 2024 |
 | [Projets : le symbole de devise est incorrect lors de l’exportation ](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | vendredi 18 juillet 2024 |
 | [Formulaires personnalisés : le formulaire personnalisé n’est pas supprimé du document.](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | vendredi 18 juillet 2024 |
