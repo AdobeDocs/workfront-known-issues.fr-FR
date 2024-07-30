@@ -1,17 +1,17 @@
 ---
-title: « Impossible de créer une vue pour la liste Documents »
-description: « Lorsqu’une personne tente de créer une vue dans une liste Documents, l’écran se vide et il est impossible de créer la vue.  »
+title: Impossible de créer une vue pour la liste Documents
+description: '"Lorsqu’un utilisateur tente de créer une vue dans une liste Documents, l’écran devient vide et l’utilisateur ne peut pas créer la vue.  »'
 hidefromtoc: true
 feature: Digital Content and Documents, Work Management
-source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
-workflow-type: ht
-source-wordcount: '84'
-ht-degree: 100%
+exl-id: 19fe57f9-fea3-48da-8c82-51e2991958d7
+source-git-commit: a04d80ecff08c17a0e4006f71e23c841c20581b1
+workflow-type: tm+mt
+source-wordcount: '85'
+ht-degree: 63%
 
 ---
 
-
-# Impossible de créer une vue pour la liste Documents
+# Documents : impossible de créer une vue pour la liste Documents
 
 Lorsqu’une personne tente de créer une vue dans une liste Documents, l’écran se vide et il est impossible de créer la vue.
 
