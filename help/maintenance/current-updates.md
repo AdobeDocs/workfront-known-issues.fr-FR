@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 3d966ae45f5a1a6c6e34dc49c801186178e7635d
 workflow-type: tm+mt
 source-wordcount: '4751'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -55,9 +55,9 @@ Ces problèmes proviennent de Dropbox, et non de Workfront.
 
 #### Formulaires personnalisés dans mon groupe
 
-**La liste déroulante se ferme lors de la sélection de plusieurs valeurs**
+**La liste déroulante se ferme lors de la sélection de plusieurs valeurs.**
 
-Lorsqu’un utilisateur tente de sélectionner plusieurs valeurs sur un champ de formulaire personnalisé, la liste déroulante se ferme une fois la première valeur sélectionnée.
+Lorsqu’un utilisateur ou une utilisatrice tente de sélectionner plusieurs valeurs dans un champ de formulaire personnalisé, la liste déroulante se ferme une fois la première valeur sélectionnée.
 
 Cela se produit lorsque le champ est associé à la logique d’affichage dans le formulaire personnalisé.
 
@@ -77,29 +77,29 @@ Ce problème a été signalé sur Gmail.
 
 #### Agile
 
-**Le tableau d’article devient vide lors de l’ajout d’une sous-tâche**
+**Le storyboard devient vide lors de l’ajout d’une sous-tâche.**
 
 Lorsqu’une personne tente d’ajouter une sous-tâche à un tableau de bord alors qu’un filtre est sélectionné, l’écran se vide et il est impossible d’ajouter la sous-tâche.
 
 #### Page d’accueil
 
-**Impossible d’ouvrir les éléments à partir du [!UICONTROL calendrier d’accueil] ou de la [!UICONTROL liste de travail]**
+**Impossible d’ouvrir des éléments à partir du [!UICONTROL Calendrier d’accueil] ou de la [!UICONTROL Liste de travail]**
 
 Lorsqu’une personne tente d’ouvrir un élément de travail ou une épreuve à partir de son [!UICONTROL calendrier d’accueil] ou de sa [!UICONTROL liste de travail de l’accueil], l’élément ne s’ouvre pas.
 
-**La page d’accueil de l’administrateur s’affiche lorsqu’il est connecté en tant qu’autre utilisateur**
+**La page d’accueil de la personne chargée de l’administration s’affiche lorsqu’elle est connectée en tant qu’une autre personne.**
 
-Lorsqu’un administrateur est connecté en tant qu’autre utilisateur et consulte la page d’accueil de cet utilisateur, la page d’accueil de l’administrateur s’affiche.
+Lorsqu’une personne chargée de l’administration est connectée en tant qu’une autre personne et consulte la page d’accueil de cette personne, la page d’accueil de l’administrateur ou de l’administratrice s’affiche.
 
 #### Épreuves
 
-**La fermeture d’un BAT mène à la page Documents de produit**
+**Épreuves : la fermeture d’une épreuve dirige vers la page Documents de projet.**
 
 Lorsqu’un utilisateur ou une utilisatrice consulte une épreuve et la ferme, la page Documents du projet s’affiche au lieu de la page à partir de laquelle l’épreuve a été ouverte.
 
 #### Workfront
 
-**La terminologie personnalisée n&#39;est pas appliquée**
+**La terminologie personnalisée n’est pas appliquée.**
 
 La terminologie personnalisée définie dans le modèle de mise en page n’apparaît pas dans certaines zones de Workfront. En effet, la terminologie non personnalisée par défaut s’affiche à la place.
 
