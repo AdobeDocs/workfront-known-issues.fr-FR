@@ -4,14 +4,18 @@ description: Des problèmes ont été signalés concernant l’intégration de D
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents
 exl-id: 58df9050-d71a-4fee-834b-8b15b20f4946
-source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+source-git-commit: 4a75c9135e2b1ba7dab0ab8d69d52b6d1469aa49
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '104'
 ht-degree: 100%
 
 ---
 
 # Intégrations : problèmes d’intégration de Dropbox
+
+>[!NOTE]
+>
+>Ce problème a été résolu le vendredi 1 août 2024.
 
 Les problèmes suivants liés à l’intégration de Dropbox ont été signalés :
 
