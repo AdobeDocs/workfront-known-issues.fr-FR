@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3d966ae45f5a1a6c6e34dc49c801186178e7635d
+source-git-commit: 75df57618eed9609381f64ef56e2bc89162d1542
 workflow-type: tm+mt
-source-wordcount: '4751'
-ht-degree: 99%
+source-wordcount: '4655'
+ht-degree: 100%
 
 ---
 
@@ -26,24 +26,30 @@ Pour connaître les mises à jour de maintenance antérieures à 2024, consultez
 
 ### Mise à jour de maintenance (planifiée) pour le vendredi 1 août 2024.
 
+Cette mise à jour inclut uniquement des correctifs mineurs ou moins importants. L’assistance [!DNL Workfront] vous avertira lorsqu’un problème que vous avez soumis sera résolu.
+
+<!--
+
 #### Documents
 
-**Impossible de créer une vue pour la liste Documents**
+**Cannot create view for Documents list**
 
-Lorsqu’une personne tente de créer une vue dans une liste Documents, l’écran se vide et il est impossible de créer la vue.
+When a user attempts to create a new view on a Documents list, the screen goes blank, and the user cannot create the view. 
 
-Les vues existantes fonctionnent comme prévu.
+Existing views work as expected.
 
-#### Intégrations
+#### Integrations
 
-**Problèmes d’intégration de Dropbox**
+**Issues with Dropbox integration**
 
-Les problèmes suivants liés à l’intégration de Dropbox ont été signalés :
+The following issues have been reported regarding the Dropbox integration:
 
-* Lorsqu’un utilisateur ou une utilisatrice tente de rechercher un fichier dans le sélecteur de fichiers de Dropbox, un message d’erreur d’autorisation s’affiche et le sélecteur de fichiers ne récupère pas le fichier de Dropbox.
-* Lorsqu’un utilisateur ou une utilisatrice tente d’ouvrir un dossier lié, une erreur s’affiche indiquant que les fichiers ou le dossier n’existent plus dans Dropbox.
+* When a user attempts to search for a file in the Dropbox file selector, they see an authorization error message, and the file selector does not retrieve the file from Dropbox.
+* When a user attempts to open a linked folder, the user sees an error stating that the files or folder no longer exist in Dropbox.
 
-Ces problèmes proviennent de Dropbox, et non de Workfront.
+These issues are due to issues with Dropbox, not Workfront.
+
+-->
 
 +++
 
