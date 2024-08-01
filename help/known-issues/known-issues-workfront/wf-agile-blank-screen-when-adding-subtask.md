@@ -4,9 +4,9 @@ description: Lorsqu’une personne tente d’ajouter une sous-tâche à un table
 hidefromtoc: true
 feature: Agile
 exl-id: 3d4ad64a-31a3-4205-a469-80bf680659b3
-source-git-commit: e3290a00e93e0faf6b944ac02c2820dc3a26fb4b
+source-git-commit: 99647a699d8a32726302cba80385cd0dcd5497ff
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '95'
 ht-degree: 100%
 
 ---
@@ -14,11 +14,9 @@ ht-degree: 100%
 # Agile : le storyboard se vide lors de l’ajout d’une sous-tâche.
 
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on July 18, 2024.
--->
+>Ce problème a été résolu le vendredi 1 août 2024.
 
 Lorsqu’une personne tente d’ajouter une sous-tâche à un tableau de bord alors qu’un filtre est sélectionné, l’écran se vide et il est impossible d’ajouter la sous-tâche.
 
