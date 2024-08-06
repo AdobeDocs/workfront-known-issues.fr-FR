@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 4a75c9135e2b1ba7dab0ab8d69d52b6d1469aa49
+source-git-commit: 6a969ff30fbc8299786ceda421f615c0c6322a4d
 workflow-type: tm+mt
-source-wordcount: '4749'
-ht-degree: 99%
+source-wordcount: '4858'
+ht-degree: 98%
 
 ---
 
@@ -21,6 +21,30 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2024.
 Pour connaître les mises à jour de maintenance antérieures à 2024, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates).
 
 ## Mises à jour d’août 2024
+
++++**(Planifiée) Mise à jour de maintenance du vendredi 8 août 2024**
+
+### Mise à jour de maintenance (planifiée) pour le vendredi 8 août 2024.
+
+#### Panneaux
+
+**La carte n’inclut pas les sous-tâches**
+
+Lorsqu’un utilisateur ou une utilisatrice consulte une carte pour une tâche qui est une tâche parent, les sous-tâches de cette tâche parent ne s’affichent pas sur la carte. À la place, la carte indique qu’il y a 0 sous-tâche.
+
+### Rapports
+
+**Les diffusions des rapports sont retardées ou manquantes**
+
+Les rapports avec des diffusions planifiées ne sont pas remis comme prévu. Ils peuvent être en retard, ou ne pas être livrés du tout.
+
+#### Configuration
+
+**&quot;Se connecter en tant que&quot; mène à un écran vide**
+
+Lorsqu’un administrateur se connecte en tant qu’autre utilisateur, au lieu de voir son compte, il voit un écran vide.
+
++++
 
 +++**Mise à jour de maintenance le vendredi 1 août 2024**
 
