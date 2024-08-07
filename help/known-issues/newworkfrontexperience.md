@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 2ec952138a05cf003c1f9ab3f31304a53cb7bfc2
 workflow-type: tm+mt
 source-wordcount: '924'
-ht-degree: 89%
+ht-degree: 90%
 
 ---
 
@@ -29,7 +29,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 | [Tâches : problèmes avec le recalcul de la chronologie](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | mardi 5 août 2024 |
 | [API : demande le délai d’expiration](known-issues-workfront/wf-api-request-timing-out.md) | mardi 5 août 2024 |
 | [Épreuves : l’ouverture d’une épreuve ouvre plusieurs copies.](known-issues-workfront/wf-proofs-two-proofs-open.md) | vendredi 25 juillet 2024 |
-| [Panoramas : la carte n’inclut pas de sous-tâches](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 23 juillet 2024 |
+| [Panoramas : la carte n’inclut pas de sous-tâches](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 23 juillet 2024 |
 | [Panoramas : erreur lors du chargement d’un panorama](known-issues-workfront/wf-boards-error-when-loading-board.md) | vendredi 18 juillet 2024 |
 | [Navigation : le bouton Retour ne revient pas à la page précédente.](known-issues-workfront/wf-navigation-back-button-not-work.md) | samedi 28 juin 2024 |
 | [Intégrations : lier un dossier depuis  [!DNL Google Drive]  ne lie pas les ressources dans le dossier.](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | mercredi 25 juin 2024 |
