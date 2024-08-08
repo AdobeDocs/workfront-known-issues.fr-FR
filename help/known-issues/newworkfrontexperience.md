@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ebd60c6433e8ef475d1b93f50790cc7305c4678e
+source-git-commit: e10357f37cd453025e0e3b214cd5dd253719fb21
 workflow-type: tm+mt
-source-wordcount: '934'
-ht-degree: 89%
+source-wordcount: '902'
+ht-degree: 91%
 
 ---
 
@@ -45,16 +45,13 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
+| [Panoramas : problèmes liés aux cartes en double](known-issues-workfront/wf-boards-some-cards-duplicated.md) | mardi 5 août 2024 |
 | [Notifications : miniatures non visibles dans les notifications par e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 août 2024 |
-| [Panoramas : problèmes liés aux cartes en double](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 25 juillet 2024 |
 | [ Formulaires personnalisés : le navigateur se bloque lors de la création de formulaires volumineux](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 5 août 2024 |
-| [Rapports : les diffusions des rapports sont retardées ou manquantes](known-issues-workfront/wf-reports-not-delivered.md) | 5 août 2024 |
 | [Formulaires personnalisés : le créateur de formulaires se bloque lors de la saisie de la logique d’affichage](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 5 août 2024 |
 | [Documents : cliquer sur un nom de document conduit à une page vierge](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md) | 5 août 2024 |
 | [Formulaires personnalisés : impossible de faire défiler le champ de recherche externe](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md) | 5 août 2024 |
 | [Formulaires personnalisés : champ calculé présentant une valeur incorrecte](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 5 août 2024 |
-| [Configuration : &quot;Se connecter en tant que&quot; conduit à un écran vide](known-issues-workfront/wf-setup-blank-screen-for-login-as.md) | 5 août 2024 |
-| [Panoramas : la carte n’inclut pas de sous-tâches](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 25 juillet 2024 |
 | [Niveaux d’accès : niveaux d’accès en double dans la zone de configuration](known-issues-workfront/wf-access-duplicate-level.md) | vendredi 25 juillet 2024 |
 | [Projets : le symbole de devise est incorrect lors de l’export.](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | vendredi 18 juillet 2024 |
 | [Formulaires personnalisés : le formulaire personnalisé n’est pas supprimé du document.](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | vendredi 18 juillet 2024 |
