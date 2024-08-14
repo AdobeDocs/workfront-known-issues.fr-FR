@@ -3,9 +3,9 @@ user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
 source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1991'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -17,17 +17,17 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
-      + [Notifications : erreur de blocage lors de la définition des préférences de notification](known-issues-workfront/wf-notifications-whoops-error.md)
-      + [Formulaires personnalisés : le navigateur se bloque lors de la création de formulaires volumineux](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
-      + [Rapports : les diffusions des rapports sont retardées ou manquantes](known-issues-workfront/wf-reports-not-delivered.md)
-      + [Tâches : problèmes liés au recalcul de la chronologie](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md)
-      + [Formulaires personnalisés : le créateur de formulaires se bloque lors de la saisie d’une logique d’affichage](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md)
-      + [Documents : lorsque vous cliquez sur le nom d’un document, une page vierge s’affiche.](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md)
-      + [Formulaires personnalisés : impossible de faire défiler le champ de recherche externe](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md)
-      + [Formulaires personnalisés : champ calculé indiquant une valeur incorrecte](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md)
-      + [Fusion Workfront : impossible d’authentifier une connexion à l’aide de la fonctionnalité de connexion à Workfront](known-issues-workfront/wf-fusion-cannot-use-login-as.md)
-      + [Configuration : &quot;Se connecter en tant que&quot; conduit à un écran vide](known-issues-workfront/wf-setup-blank-screen-for-login-as.md)
-      + [API : délai d’expiration des requêtes](known-issues-workfront/wf-api-request-timing-out.md)
+      + [Notifications : erreur de type « Oups » lors de la définition des préférences de notification](known-issues-workfront/wf-notifications-whoops-error.md)
+      + [Formulaires personnalisés : crash du navigateur lors de la création de formulaires volumineux](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
+      + [Rapports : des remises de rapports sont retardées ou manquantes.](known-issues-workfront/wf-reports-not-delivered.md)
+      + [Tâches : problèmes liés au recalcul de la chronologie](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md)
+      + [Formulaires personnalisés : crash du créateur de formulaires lors de la saisie d’une logique d’affichage](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md)
+      + [Documents : cliquer sur le nom d’un document dirige vers une page vierge.](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md)
+      + [Formulaires personnalisés : impossible de faire défiler le champ de recherche externe](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md)
+      + [Formulaires personnalisés : champ calculé indiquant une valeur incorrecte](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md)
+      + [Workfront Fusion : impossible d’authentifier une connexion à l’aide de la fonctionnalité Connexion en tant que de Workfront](known-issues-workfront/wf-fusion-cannot-use-login-as.md)
+      + [Configuration : la fonctionnalité « Connexion en tant que » dirige vers un écran vide.](known-issues-workfront/wf-setup-blank-screen-for-login-as.md)
+      + [API : des requêtes dépassent leur délai d’expiration.](known-issues-workfront/wf-api-request-timing-out.md)
       + [Mises à jour : les utilisateurs et les utilisatrices ne sont pas avertis des mises à jour dirigées.](known-issues-workfront/wf-updates-users-not-getting-email.md)
       + [Épreuves : l’ouverture d’une épreuve ouvre plusieurs copies.](known-issues-workfront/wf-proofs-two-proofs-open.md)
       + [Connexion en tant que : l’accueil et les épingles s’affichent de manière incorrecte lors de la déconnexion de la « Connexion en tant que ».](known-issues-workfront/wf-login-as-displays-when-logged-out.md)
