@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 3bd94e7fbed03e3394f01043b3af32f29cc6d09e
 workflow-type: tm+mt
 source-wordcount: '4999'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -39,13 +39,13 @@ Les problèmes suivants ont été signalés concernant les cartes en double dans
 
 **Erreur de suppression lors de la définition des préférences de notification**
 
-Lorsqu’un utilisateur tente d’afficher les préférences de notification, le message d’erreur suivant s’affiche :
+Lorsqu’un utilisateur ou une utilisatrice tente d’afficher les préférences de notification, le message d’erreur suivant s’affiche :
 
 « [!UICONTROL Oups ! Un problème est survenu. Contactez Workfront pour nous aider à comprendre l’erreur et y remédier.] »
 
 Les zones suivantes sont concernées :
 
-* Paramètres de notification sur un profil utilisateur
+* Paramètres de notification dans un profil d’utilisateur ou d’utilisatrice
 * Zone Notifications d’événement dans Configuration
 
 #### Projets
@@ -63,27 +63,27 @@ Lorsqu’un utilisateur ou une utilisatrice exporte un problème, le symbole de 
 
 #### Panneaux
 
-**La carte n’inclut pas les sous-tâches**
+**Une carte n’inclut pas les sous-tâches.**
 
 Lorsqu’un utilisateur ou une utilisatrice consulte une carte pour une tâche qui est une tâche parent, les sous-tâches de cette tâche parent ne s’affichent pas sur la carte. À la place, la carte indique qu’il y a 0 sous-tâche.
 
 ### Rapports
 
-**Les diffusions des rapports sont retardées ou manquantes**
+**Des remises de rapports sont retardées ou manquantes.**
 
-Les rapports avec des diffusions planifiées ne sont pas remis comme prévu. Ils peuvent être en retard, ou ne pas être livrés du tout.
+Des rapports avec des remises planifiées ne sont pas remis comme prévu. Ils peuvent être retardés voire ne pas être remis.
 
 #### Configuration
 
-**&quot;Se connecter en tant que&quot; mène à un écran vide**
+**La fonctionnalité « Connexion en tant que » dirige vers un écran vide.**
 
-Lorsqu’un administrateur se connecte en tant qu’autre utilisateur, au lieu de voir son compte, il voit un écran vide.
+Lorsqu’un administrateur ou une administratrice se connecte en tant qu’un autre utilisateur ou une autre utilisatrice, au lieu de voir le compte de l’utilisateur ou de l’utilisatrice, un écran vide s’affiche.
 
 +++
 
 +++**Mise à jour de maintenance le vendredi 1 août 2024**
 
-### Mise à jour de maintenance le 1er août 2024
+### Mise à jour de maintenance le 1er août 2024
 
 #### Documents
 
