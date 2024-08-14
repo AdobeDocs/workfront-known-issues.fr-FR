@@ -3,9 +3,9 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3bd94e7fbed03e3394f01043b3af32f29cc6d09e
+source-git-commit: b6ed840df25684f16f88bc30fe7a8138e37fbe53
 workflow-type: tm+mt
-source-wordcount: '4999'
+source-wordcount: '5019'
 ht-degree: 99%
 
 ---
@@ -53,6 +53,12 @@ Les zones suivantes sont concernées :
 **Le symbole de devise est incorrect lors de l&#39;export**
 
 Lorsqu’un utilisateur ou une utilisatrice exporte un problème, le symbole de devise dans l’export ne correspond pas à la devise définie dans le projet ou le problème.
+
+#### Épreuves
+
+**Les annotations de BAT sont inexactes**
+
+Les annotations de BAT ne sont pas alignées sur les impressions de PDF reçues par courrier électronique à partir de la fonction d’impression de BAT.
 
 
 +++

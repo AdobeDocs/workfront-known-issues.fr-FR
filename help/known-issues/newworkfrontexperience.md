@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: cf88e835ef023ba2a74b732aa4e512820f533950
+source-git-commit: dbbedf12a1af39e5668b7a5288c47f3be327555e
 workflow-type: tm+mt
-source-wordcount: '910'
-ht-degree: 99%
+source-wordcount: '985'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,12 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront : plusieurs onglets de navigateur entraînent la déconnexion de Workfront](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | jeudi 14 août 2024 |
+| [Requêtes : l’utilisateur peut modifier l’état malgré l’absence d’autorisations](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | jeudi 14 août 2024 |
+| [Panoramas : la carte connectée est dans une colonne incorrecte](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | jeudi 14 août 2024 |
+| [Workfront Mobile : impossible de se connecter sans utiliser SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | jeudi 14 août 2024 |
+| [Rapports : erreur lors de l’export d’un rapport](known-issues-workfront/wf-reports-error-cache-content.md) | jeudi 14 août 2024 |
+| [Utilisateurs : le paramètre régional de messagerie de l’utilisateur n’enregistre pas](known-issues-workfront/wf-users-email-locale-not-saving.md) | jeudi 14 août 2024 |
 | [Tâches : problèmes liés au recalcul de la chronologie](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | mardi 5 août 2024 |
 | [API : des requêtes dépassent leur délai d’expiration.](known-issues-workfront/wf-api-request-timing-out.md) | mardi 5 août 2024 |
 | [Épreuves : l’ouverture d’une épreuve ouvre plusieurs copies.](known-issues-workfront/wf-proofs-two-proofs-open.md) | vendredi 25 juillet 2024 |
@@ -43,6 +49,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
+| [Rapports : impossible de cliquer sur un rapport de la zone Champs personnalisés de la configuration](known-issues-workfront/wf-reports-cannot-click-on-report.md) | jeudi 14 août 2024 |
+| [Intégrations : erreur lors de la création d’une requête à partir d’Outlook](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | jeudi 14 août 2024 |
 | [Notifications : erreur de type « Oups » lors de la définition des préférences de notification](known-issues-workfront/wf-notifications-whoops-error.md) | vendredi 8 août 2024 |
 | [Panoramas : erreur lors du chargement d’un panorama](known-issues-workfront/wf-boards-error-when-loading-board.md) | vendredi 8 août 2024 |
 | [Notifications : miniatures non visibles dans les notifications par e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | vendredi 8 août 2024 |

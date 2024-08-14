@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
-workflow-type: ht
-source-wordcount: '1991'
-ht-degree: 100%
+source-git-commit: dbbedf12a1af39e5668b7a5288c47f3be327555e
+workflow-type: tm+mt
+source-wordcount: '2058'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,14 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Workfront : plusieurs onglets de navigateur entraînent la déconnexion de Workfront](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
+      + [Rapports : impossible de cliquer sur un rapport dans la zone Champs personnalisés de la configuration.](known-issues-workfront/wf-reports-cannot-click-on-report.md)
+      + [Requêtes : l’utilisateur peut modifier l’état malgré l’absence d’autorisations](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
+      + [Panoramas : la carte connectée est incorrecte dans la colonne](known-issues-workfront/wf-boards-connected-card-incorrect-column.md)
+      + [Workfront Mobile : impossible de se connecter sans utiliser SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md)
+      + [Rapports : erreur lors de l&#39;export d&#39;un rapport](known-issues-workfront/wf-reports-error-cache-content.md)
+      + [Utilisateurs : le paramètre régional de messagerie de l’utilisateur n’est pas en cours d’enregistrement](known-issues-workfront/wf-users-email-locale-not-saving.md)
+      + [Intégrations : erreur lors de la création d’une requête à partir d’Outlook](known-issues-workfront/wf-integrations-outlook-attachment-error.md)
       + [Notifications : erreur de type « Oups » lors de la définition des préférences de notification](known-issues-workfront/wf-notifications-whoops-error.md)
       + [Formulaires personnalisés : crash du navigateur lors de la création de formulaires volumineux](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
       + [Rapports : des remises de rapports sont retardées ou manquantes.](known-issues-workfront/wf-reports-not-delivered.md)
