@@ -4,9 +4,9 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
+source-git-commit: 9f8167f06da0121f32f9fba22d51c667efd415e3
 workflow-type: tm+mt
-source-wordcount: '1025'
+source-wordcount: '1015'
 ht-degree: 88%
 
 ---
@@ -64,7 +64,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [Formulaires personnalisés : crash du navigateur lors de la création de formulaires volumineux](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 5 août 2024 |
 | [Formulaires personnalisés : crash du créateur de formulaires lors de la saisie d’une logique d’affichage](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 5 août 2024 |
 | [Documents : cliquer sur le nom d’un document dirige vers une page vierge.](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md) | 5 août 2024 |
-| [Formulaires personnalisés : impossible de faire défiler le champ de recherche externe](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md) | 5 août 2024 |
 | [Formulaires personnalisés : champ calculé indiquant une valeur incorrecte](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 5 août 2024 |
 | [Niveaux d’accès : niveaux d’accès en double dans la zone de configuration](known-issues-workfront/wf-access-duplicate-level.md) | vendredi 25 juillet 2024 |
 | [Formulaires personnalisés : le formulaire personnalisé n’est pas supprimé du document.](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | vendredi 18 juillet 2024 |
