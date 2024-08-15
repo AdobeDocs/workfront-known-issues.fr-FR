@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: dbbedf12a1af39e5668b7a5288c47f3be327555e
+source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
 workflow-type: tm+mt
-source-wordcount: '2058'
-ht-degree: 96%
+source-wordcount: '2106'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Accueil : &quot;Aucun accès&quot; s’affiche comme nom du projet.](known-issues-workfront/wf-home-no-access-project-name.md)
+      + [Documents : impossible de prévisualiser les documents avec un lien d’aperçu](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)
+      + [Formulaires personnalisés : affiche une erreur de conversion de type sur les formulaires personnalisés](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md)
+      + [Formulaires personnalisés : impossible de modifier les champs de la page de liste de champs](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md)
+      + [Accueil : le domicile se bloque avec l’erreur &quot;Mémoire insuffisante&quot;](known-issues-workfront/wf-home-crashes-with-error.md)
+      + [Configuration : problèmes lors de la déconnexion en tant qu’autre utilisateur](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md)
       + [Workfront : plusieurs onglets de navigateur entraînent la déconnexion de Workfront](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
       + [Rapports : impossible de cliquer sur un rapport dans la zone Champs personnalisés de la configuration.](known-issues-workfront/wf-reports-cannot-click-on-report.md)
       + [Requêtes : l’utilisateur peut modifier l’état malgré l’absence d’autorisations](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)

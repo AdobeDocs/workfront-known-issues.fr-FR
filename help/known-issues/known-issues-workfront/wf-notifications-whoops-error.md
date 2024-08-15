@@ -3,15 +3,19 @@ title: '« Notifications : erreur de type "Oups" lors de la définition des pr
 description: « Lorsqu’un utilisateur ou une utilisatrice tente de modifier les paramètres de notification par e-mail, une erreur s’affiche. »
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
-workflow-type: ht
-source-wordcount: '80'
+source-git-commit: dfecda276ab8f6da56bbe2442f09d0a6cb0c71de
+workflow-type: tm+mt
+source-wordcount: '86'
 ht-degree: 100%
 
 ---
 
 
 # Notifications : erreur de type « Oups » lors de la définition des préférences de notification
+
+>[!NOTE]
+>
+>Ce problème a été résolu le vendredi 15 août 2024.
 
 Lorsqu’un utilisateur ou une utilisatrice tente d’afficher les préférences de notification, le message d’erreur suivant s’affiche :
 

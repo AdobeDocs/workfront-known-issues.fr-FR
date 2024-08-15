@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: dbbedf12a1af39e5668b7a5288c47f3be327555e
+source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
 workflow-type: tm+mt
-source-wordcount: '985'
-ht-degree: 92%
+source-wordcount: '1025'
+ht-degree: 88%
 
 ---
 
@@ -25,7 +25,9 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront : plusieurs onglets de navigateur entraînent la déconnexion de Workfront](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | jeudi 14 août 2024 |
+| [Accueil : &quot;Aucun accès&quot; s’affiche comme nom du projet](known-issues-workfront/wf-home-no-access-project-name.md) | vendredi 15 août 2024 |
+| [Home : Home se bloque avec l’erreur &quot;Out of memory&quot;](known-issues-workfront/wf-home-crashes-with-error.md) | vendredi 15 août 2024 |
+| [Workfront : plusieurs onglets de navigateur entraînent la déconnexion de Workfront](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | vendredi 15 août 2024 |
 | [Requêtes : l’utilisateur peut modifier l’état malgré l’absence d’autorisations](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | jeudi 14 août 2024 |
 | [Panoramas : la carte connectée est dans une colonne incorrecte](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | jeudi 14 août 2024 |
 | [Workfront Mobile : impossible de se connecter sans utiliser SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | jeudi 14 août 2024 |
@@ -49,12 +51,15 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
+| [Documents : impossible de prévisualiser les documents avec le lien d’aperçu](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | vendredi 15 août 2024 |
+| [Formulaires personnalisés : erreur de conversion de type d’affichage sur formulaires personnalisés](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | vendredi 15 août 2024 |
+| [Formulaires personnalisés : impossible de modifier les champs sur la page de liste de champs](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md) | vendredi 15 août 2024 |
+| [Configuration : problèmes lors de la déconnexion en tant qu’autre utilisateur](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | vendredi 15 août 2024 |
 | [Rapports : impossible de cliquer sur un rapport de la zone Champs personnalisés de la configuration](known-issues-workfront/wf-reports-cannot-click-on-report.md) | jeudi 14 août 2024 |
 | [Intégrations : erreur lors de la création d’une requête à partir d’Outlook](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | jeudi 14 août 2024 |
 | [Notifications : erreur de type « Oups » lors de la définition des préférences de notification](known-issues-workfront/wf-notifications-whoops-error.md) | vendredi 8 août 2024 |
 | [Panoramas : erreur lors du chargement d’un panorama](known-issues-workfront/wf-boards-error-when-loading-board.md) | vendredi 8 août 2024 |
 | [Notifications : miniatures non visibles dans les notifications par e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | vendredi 8 août 2024 |
-| [Panoramas : problèmes liés aux cartes en double](known-issues-workfront/wf-boards-some-cards-duplicated.md) | mardi 5 août 2024 |
 | [Notifications : miniatures non visibles dans les notifications par e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 août 2024 |
 | [Formulaires personnalisés : crash du navigateur lors de la création de formulaires volumineux](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 5 août 2024 |
 | [Formulaires personnalisés : crash du créateur de formulaires lors de la saisie d’une logique d’affichage](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 5 août 2024 |
@@ -62,7 +67,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [Formulaires personnalisés : impossible de faire défiler le champ de recherche externe](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md) | 5 août 2024 |
 | [Formulaires personnalisés : champ calculé indiquant une valeur incorrecte](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 5 août 2024 |
 | [Niveaux d’accès : niveaux d’accès en double dans la zone de configuration](known-issues-workfront/wf-access-duplicate-level.md) | vendredi 25 juillet 2024 |
-| [Projets : le symbole de devise est incorrect lors de l’export.](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | vendredi 18 juillet 2024 |
 | [Formulaires personnalisés : le formulaire personnalisé n’est pas supprimé du document.](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | vendredi 18 juillet 2024 |
 | [Équipes : impossible d’afficher la personne propriétaire de l’équipe ou de supprimer l’équipe](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 avril 2024 |
 | [Tâches : erreur bizContext lors de l’ajout ou de la suppression d’une tâche](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 4 avril 2024 |
