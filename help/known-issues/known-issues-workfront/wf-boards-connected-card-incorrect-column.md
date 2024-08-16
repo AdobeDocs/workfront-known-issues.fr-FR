@@ -3,15 +3,19 @@ title: 'Panoramas : la carte connectée est dans une colonne incorrecte'
 description: "Des problèmes ont été signalés concernant les cartes connectées dans la mauvaise colonne."
 hidefromtoc: true
 feature: Agile
-source-git-commit: b6ed840df25684f16f88bc30fe7a8138e37fbe53
+source-git-commit: 5a6d6b7d8866d234340bb816531353495e1e7f1c
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 5%
+source-wordcount: '85'
+ht-degree: 11%
 
 ---
 
 
 # Panoramas : la carte connectée est incorrecte dans la colonne
+
+>[!NOTE]
+>
+>Ce problème a été résolu le vendredi 15 août 2024.
 
 Les problèmes suivants ont été signalés concernant les cartes connectées dans la mauvaise colonne :
 

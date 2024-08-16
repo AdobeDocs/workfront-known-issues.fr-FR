@@ -4,9 +4,9 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9f8167f06da0121f32f9fba22d51c667efd415e3
+source-git-commit: 654b13c25c7a69da5b14b2846cf1c1db4d527fba
 workflow-type: tm+mt
-source-wordcount: '1015'
+source-wordcount: '1007'
 ht-degree: 88%
 
 ---
@@ -29,7 +29,6 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 | [Home : Home se bloque avec l’erreur &quot;Out of memory&quot;](known-issues-workfront/wf-home-crashes-with-error.md) | vendredi 15 août 2024 |
 | [Workfront : plusieurs onglets de navigateur entraînent la déconnexion de Workfront](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | vendredi 15 août 2024 |
 | [Requêtes : l’utilisateur peut modifier l’état malgré l’absence d’autorisations](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | jeudi 14 août 2024 |
-| [Panoramas : la carte connectée est dans une colonne incorrecte](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | jeudi 14 août 2024 |
 | [Workfront Mobile : impossible de se connecter sans utiliser SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | jeudi 14 août 2024 |
 | [Rapports : erreur lors de l’export d’un rapport](known-issues-workfront/wf-reports-error-cache-content.md) | jeudi 14 août 2024 |
 | [Utilisateurs : le paramètre régional de messagerie de l’utilisateur n’enregistre pas](known-issues-workfront/wf-users-email-locale-not-saving.md) | jeudi 14 août 2024 |
