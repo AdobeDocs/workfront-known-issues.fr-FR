@@ -24,11 +24,11 @@ Pour connaître les mises à jour de maintenance antérieures à 2024, consultez
 
 +++**Mise à jour de maintenance le vendredi 15 août 2024**
 
-### Mise à jour de maintenance le 15 août 2024
+### Mise à jour de maintenance le vendredi 15 août 2024
 
 #### Panneaux
 
-**Problèmes concernant les cartes en double**
+**Problèmes liés aux cartes en double**
 
 Les problèmes suivants ont été signalés concernant les cartes en double dans les panoramas :
 
@@ -37,7 +37,7 @@ Les problèmes suivants ont été signalés concernant les cartes en double dans
 
 #### Notifications
 
-**Erreur de suppression lors de la définition des préférences de notification**
+**Erreur de type « Oups » lors de la définition des préférences de notification**
 
 Lorsqu’un utilisateur ou une utilisatrice tente d’afficher les préférences de notification, le message d’erreur suivant s’affiche :
 
@@ -50,7 +50,7 @@ Les zones suivantes sont concernées :
 
 #### Projets
 
-**Le symbole de devise est incorrect lors de l&#39;export**
+**Le symbole de devise est incorrect lors de l’export.**
 
 Lorsqu’un utilisateur ou une utilisatrice exporte un problème, le symbole de devise dans l’export ne correspond pas à la devise définie dans le projet ou le problème.
 
@@ -65,7 +65,7 @@ Les annotations de BAT ne sont pas alignées sur les impressions de PDF reçues 
 
 +++**Mise à jour de maintenance le vendredi 8 août 2024**
 
-### Mise à jour de maintenance le 8 août 2024
+### Mise à jour de maintenance le 8 août 2024
 
 #### Panneaux
 

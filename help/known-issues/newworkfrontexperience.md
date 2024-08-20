@@ -61,7 +61,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [Notifications : erreur de type « Oups » lors de la définition des préférences de notification](known-issues-workfront/wf-notifications-whoops-error.md) | vendredi 8 août 2024 |
 | [Panoramas : erreur lors du chargement d’un panorama](known-issues-workfront/wf-boards-error-when-loading-board.md) | vendredi 8 août 2024 |
 | [Notifications : miniatures non visibles dans les notifications par e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | vendredi 8 août 2024 |
-| [Notifications : miniatures non visibles dans les notifications par e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 août 2024 |
+| [Notifications : miniatures non visibles dans les notifications par e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 août 2024 |
 | [Formulaires personnalisés : crash du navigateur lors de la création de formulaires volumineux](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 5 août 2024 |
 | [Formulaires personnalisés : crash du créateur de formulaires lors de la saisie d’une logique d’affichage](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 5 août 2024 |
 | [Documents : cliquer sur le nom d’un document dirige vers une page vierge.](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md) | 5 août 2024 |
