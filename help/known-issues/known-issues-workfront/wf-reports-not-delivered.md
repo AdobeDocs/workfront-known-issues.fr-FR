@@ -4,7 +4,7 @@ description: « Des rapports avec des remises planifiées ne sont pas remis com
 hidefromtoc: true
 feature: Reports and Dashboards
 source-git-commit: da6a28494f7550727031bc4eee4947b86bfd9fea
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
 ht-degree: 100%
 
