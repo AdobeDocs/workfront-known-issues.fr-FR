@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: dfecda276ab8f6da56bbe2442f09d0a6cb0c71de
+source-git-commit: dfb204f364643c92ebce34916c8a926661dd0383
 workflow-type: tm+mt
-source-wordcount: '5017'
-ht-degree: 99%
+source-wordcount: '5093'
+ht-degree: 98%
 
 ---
 
@@ -21,6 +21,18 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2024.
 Pour connaître les mises à jour de maintenance antérieures à 2024, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates).
 
 ## Mises à jour d’août 2024
+
++++**Mise à jour de maintenance le vendredi 22 août 2024**
+
+### Mise à jour de maintenance le 22 août,
+
+#### Rapports
+
+**Impossible de cliquer sur un rapport de la zone Champs personnalisés de la configuration**
+
+Lorsqu’un utilisateur consulte la zone Forms personnalisée > Champs de la configuration et que la vue inclut le champ Rapports natif, les liens vers les rapports ne fonctionnent pas. L&#39;utilisateur doit pouvoir cliquer sur le nom d&#39;un rapport pour l&#39;amener au rapport, mais cliquer sur le nom du rapport est inefficace.
+
++++
 
 +++**Mise à jour de maintenance le vendredi 15 août 2024**
 
