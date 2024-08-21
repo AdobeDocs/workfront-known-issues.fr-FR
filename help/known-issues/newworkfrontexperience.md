@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 32bed5a9c917cab2cc3a6ccd1065f38c074ca917
+source-git-commit: 73dd7f585ad53937cbcfacf1fec92036be2cf3a1
 workflow-type: tm+mt
-source-wordcount: '1022'
-ht-degree: 88%
+source-wordcount: '1051'
+ht-degree: 86%
 
 ---
 
@@ -25,6 +25,9 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Intégrations : impossible de se connecter à Workfront pour Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | jeudi 21 août 2024 |
+| [Accueil : &quot;widget.list.view&quot; créé lorsque l’utilisateur déplace des colonnes dans le widget d’accueil](known-issues-workfront/wf-home-widget-list-view.md) | jeudi 21 août 2024 |
+| [Documents : commentaires de BAT non affichés sur les mises à jour de document](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | jeudi 21 août 2024 |
 | [Accueil : &quot;Aucun accès&quot; s’affiche comme nom du projet](known-issues-workfront/wf-home-no-access-project-name.md) | vendredi 15 août 2024 |
 | [Home : Home se bloque avec l’erreur &quot;Out of memory&quot;](known-issues-workfront/wf-home-crashes-with-error.md) | vendredi 15 août 2024 |
 | [Workfront : plusieurs onglets de navigateur entraînent la déconnexion de Workfront](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | vendredi 15 août 2024 |
