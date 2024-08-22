@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 411c1488a5d7ba1c0065f96763c191d609059675
+source-git-commit: 7e512694b62cdcf9db71fe4d658855e7b7e8c335
 workflow-type: tm+mt
-source-wordcount: '2139'
-ht-degree: 93%
+source-wordcount: '2146'
+ht-degree: 92%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Formulaires personnalisés : Forms propose par défaut des formulaires de projet](known-issues-workfront/wf-custom-forms-default-to-project.md)
       + [Intégrations : impossible de se connecter à Workfront pour Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
       + [Accueil : &quot;widget.list.view&quot; créé lorsque l’utilisateur déplace des colonnes dans le widget Accueil](known-issues-workfront/wf-home-widget-list-view.md)
       + [Documents : commentaires du BAT non affichés sur les mises à jour du document](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
