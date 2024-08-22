@@ -4,7 +4,7 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7e512694b62cdcf9db71fe4d658855e7b7e8c335
+source-git-commit: f8183b30f86ffade75a6f80b2d5a4a7befd3b0ae
 workflow-type: tm+mt
 source-wordcount: '1025'
 ht-degree: 88%
@@ -29,7 +29,6 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 | [Documents : commentaires de BAT non affichés sur les mises à jour de document](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | jeudi 21 août 2024 |
 | [Accueil : &quot;Aucun accès&quot; s’affiche comme nom du projet](known-issues-workfront/wf-home-no-access-project-name.md) | vendredi 15 août 2024 |
 | [Home : Home se bloque avec l’erreur &quot;Out of memory&quot;](known-issues-workfront/wf-home-crashes-with-error.md) | vendredi 15 août 2024 |
-| [Workfront : plusieurs onglets de navigateur entraînent la déconnexion de Workfront](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | vendredi 15 août 2024 |
 | [Requêtes : l’utilisateur peut modifier l’état malgré l’absence d’autorisations](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | jeudi 14 août 2024 |
 | [Workfront Mobile : impossible de se connecter sans utiliser SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | jeudi 14 août 2024 |
 | [Rapports : erreur lors de l’export d’un rapport](known-issues-workfront/wf-reports-error-cache-content.md) | jeudi 14 août 2024 |
@@ -52,6 +51,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
+| [Workfront : plusieurs onglets de navigateur entraînent la déconnexion de Workfront](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | vendredi 22 août 2024 |
 | [Formulaires personnalisés : Forms utilise par défaut les formulaires de projet](known-issues-workfront/wf-custom-forms-default-to-project.md) | vendredi 22 août 2024 |
 | [Accueil : le widget des approbations en attente affiche les documents supprimés](known-issues-workfront/wf-home-deleted-documents.md) | mardi 19 août 2024 |
 | [Panoramas : la carte n’inclut pas de sous-tâches](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | mardi 19 août 2024 |
