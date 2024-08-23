@@ -5,7 +5,7 @@ role: User
 source-git-commit: 7e512694b62cdcf9db71fe4d658855e7b7e8c335
 workflow-type: tm+mt
 source-wordcount: '2146'
-ht-degree: 92%
+ht-degree: 98%
 
 ---
 
@@ -21,21 +21,21 @@ ht-degree: 92%
       + [Intégrations : impossible de se connecter à Workfront pour Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
       + [Accueil : &quot;widget.list.view&quot; créé lorsque l’utilisateur déplace des colonnes dans le widget Accueil](known-issues-workfront/wf-home-widget-list-view.md)
       + [Documents : commentaires du BAT non affichés sur les mises à jour du document](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
-      + [Accueil : le widget des approbations en attente affiche les documents supprimés](known-issues-workfront/wf-home-deleted-documents.md)
-      + [Accueil : &quot;Aucun accès&quot; s’affiche comme nom du projet.](known-issues-workfront/wf-home-no-access-project-name.md)
-      + [Documents : impossible de prévisualiser les documents avec un lien d’aperçu](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)
-      + [Formulaires personnalisés : affiche une erreur de conversion de type sur les formulaires personnalisés](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md)
-      + [Formulaires personnalisés : impossible de modifier les champs de la page de liste de champs](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md)
-      + [Accueil : le domicile se bloque avec l’erreur &quot;Mémoire insuffisante&quot;](known-issues-workfront/wf-home-crashes-with-error.md)
-      + [Configuration : problèmes lors de la déconnexion en tant qu’autre utilisateur](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md)
-      + [Workfront : plusieurs onglets de navigateur entraînent la déconnexion de Workfront](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
-      + [Rapports : impossible de cliquer sur un rapport dans la zone Champs personnalisés de la configuration.](known-issues-workfront/wf-reports-cannot-click-on-report.md)
-      + [Requêtes : l’utilisateur peut modifier l’état malgré l’absence d’autorisations](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
-      + [Panoramas : la carte connectée est incorrecte dans la colonne](known-issues-workfront/wf-boards-connected-card-incorrect-column.md)
-      + [Workfront Mobile : impossible de se connecter sans utiliser SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md)
-      + [Rapports : erreur lors de l&#39;export d&#39;un rapport](known-issues-workfront/wf-reports-error-cache-content.md)
-      + [Utilisateurs : le paramètre régional de messagerie de l’utilisateur n’est pas en cours d’enregistrement](known-issues-workfront/wf-users-email-locale-not-saving.md)
-      + [Intégrations : erreur lors de la création d’une requête à partir d’Outlook](known-issues-workfront/wf-integrations-outlook-attachment-error.md)
+      + [Accueil : le widget des approbations en attente affiche les documents supprimés.](known-issues-workfront/wf-home-deleted-documents.md)
+      + [Accueil : « Aucun accès » s’affiche comme nom du projet.](known-issues-workfront/wf-home-no-access-project-name.md)
+      + [Documents : impossible de prévisualiser les documents avec un lien d’aperçu](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)
+      + [Formulaires personnalisés : erreur de conversion de type d’affichage sur les formulaires personnalisés](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md)
+      + [Formulaires personnalisés : impossible de modifier les champs sur la page de liste de champs](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md)
+      + [Accueil : la page d’accueil se bloque avec une erreur de mémoire insuffisante.](known-issues-workfront/wf-home-crashes-with-error.md)
+      + [Configuration : problèmes lors de la déconnexion en tant qu’autre utilisateur ou utilisatrice](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md)
+      + [Workfront : plusieurs onglets du navigateur entraînent la déconnexion de Workfront.](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
+      + [Rapports : impossible de cliquer sur un rapport de la zone Champs personnalisés de la configuration](known-issues-workfront/wf-reports-cannot-click-on-report.md)
+      + [Requêtes : l’utilisateur ou l’utilisatrice peut modifier le statut malgré l’absence d’autorisations.](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
+      + [Panoramas : la carte connectée est dans une colonne incorrecte.](known-issues-workfront/wf-boards-connected-card-incorrect-column.md)
+      + [Workfront Mobile : impossible de se connecter sans utiliser la méthode SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md)
+      + [Rapports : erreur lors de l’exportation d’un rapport](known-issues-workfront/wf-reports-error-cache-content.md)
+      + [Utilisateurs et utilisatrices : les paramètres régionaux de l’e-mail de l’utilisateur ou de l’utilisatrice ne sont pas enregistrés.](known-issues-workfront/wf-users-email-locale-not-saving.md)
+      + [Intégrations : erreur lors de la création d’une requête depuis Outlook](known-issues-workfront/wf-integrations-outlook-attachment-error.md)
       + [Notifications : erreur de type « Oups » lors de la définition des préférences de notification](known-issues-workfront/wf-notifications-whoops-error.md)
       + [Formulaires personnalisés : crash du navigateur lors de la création de formulaires volumineux](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
       + [Rapports : des remises de rapports sont retardées ou manquantes.](known-issues-workfront/wf-reports-not-delivered.md)

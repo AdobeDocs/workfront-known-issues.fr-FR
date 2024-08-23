@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 7e512694b62cdcf9db71fe4d658855e7b7e8c335
 workflow-type: tm+mt
 source-wordcount: '5121'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -34,7 +34,7 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2024.
 
 **Impossible de cliquer sur un rapport de la zone Champs personnalisés de la configuration**
 
-Lorsqu’un utilisateur consulte la zone Forms personnalisée > Champs de la configuration et que la vue inclut le champ Rapports natif, les liens vers les rapports ne fonctionnent pas. L&#39;utilisateur doit pouvoir cliquer sur le nom d&#39;un rapport pour l&#39;amener au rapport, mais cliquer sur le nom du rapport est inefficace.
+Lorsqu’une personne consulte la zone Formulaires personnalisée > Champs de la configuration et que la vue inclut le champ Rapports natif, les liens vers les rapports ne fonctionnent pas. La personne doit pouvoir cliquer sur le nom d’un rapport pour y accéder, mais cette action se révèle inefficace.
 
 +++
 
@@ -72,9 +72,9 @@ Lorsqu’un utilisateur ou une utilisatrice exporte un problème, le symbole de 
 
 #### Épreuves
 
-**Les annotations de BAT sont inexactes**
+**Les annotations d’épreuves sont inexactes.**
 
-Les annotations de BAT ne sont pas alignées sur les impressions de PDF reçues par courrier électronique à partir de la fonction d’impression de BAT.
+Les annotations d’épreuves ne sont pas alignées sur les impressions de PDF reçues par e-mail à partir de la fonction d’impression d’épreuves.
 
 
 +++
