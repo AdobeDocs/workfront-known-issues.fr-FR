@@ -3,15 +3,19 @@ title: '« Formulaires personnalisés : impossible de modifier les champs sur 
 description: « Lorsqu’une personne tente d’afficher un champ volumineux sur la page de liste de champs, la page se bloque avec une erreur. Une solution de contournement est disponible. »
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: d74148711b4709355ca869f9808bed0cdcf6f6c7
-workflow-type: ht
-source-wordcount: '107'
+source-git-commit: 2531eb3fd75a0f6c9b26780f521c61b2be464e83
+workflow-type: tm+mt
+source-wordcount: '113'
 ht-degree: 100%
 
 ---
 
 
 # Formulaires personnalisés : impossible de modifier les champs sur la page de liste de champs
+
+>[!NOTE]
+>
+>Ce problème a été résolu le vendredi 22 août 2024.
 
 Lorsqu’une personne tente d’afficher un champ volumineux sur la page de liste de champs, la page se bloque avec l’erreur suivante :
 

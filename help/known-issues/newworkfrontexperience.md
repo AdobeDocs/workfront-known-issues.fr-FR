@@ -4,9 +4,9 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f8183b30f86ffade75a6f80b2d5a4a7befd3b0ae
+source-git-commit: 400c115091c363914a27a6c4c0d90e04a5943aec
 workflow-type: tm+mt
-source-wordcount: '1025'
+source-wordcount: '1015'
 ht-degree: 97%
 
 ---
@@ -29,7 +29,6 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 | [Documents : commentaires de BAT non affichés sur les mises à jour de document](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | jeudi 21 août 2024 |
 | [Accueil : « Aucun accès » s’affiche comme nom du projet.](known-issues-workfront/wf-home-no-access-project-name.md) | vendredi 15 août 2024 |
 | [Accueil : la page d’accueil se bloque avec une erreur de mémoire insuffisante.](known-issues-workfront/wf-home-crashes-with-error.md) | vendredi 15 août 2024 |
-| [Requêtes : l’utilisateur ou l’utilisatrice peut modifier le statut malgré l’absence d’autorisations.](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | jeudi 14 août 2024 |
 | [Workfront Mobile : impossible de se connecter sans utiliser la méthode SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | jeudi 14 août 2024 |
 | [Rapports : erreur lors de l’export du rapport](known-issues-workfront/wf-reports-error-cache-content.md) | jeudi 14 août 2024 |
 | [Utilisateurs et utilisatrices : les paramètres régionaux de l’e-mail de l’utilisateur ou de l’utilisatrice ne sont pas enregistrés.](known-issues-workfront/wf-users-email-locale-not-saving.md) | jeudi 14 août 2024 |
