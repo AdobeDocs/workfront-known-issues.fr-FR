@@ -1,18 +1,18 @@
 ---
-title: "Demandes : l’utilisateur peut changer d’état malgré l’absence d’autorisations"
-description: "Les utilisateurs disposant d’un accès à contribution et d’aucune autorisation pour modifier l’état du problème peuvent modifier l’état."
+title: '« Requêtes : l’utilisateur ou l’utilisatrice peut modifier le statut malgré l’absence d’autorisations. »'
+description: « Les personnes disposant d’un accès en contribution et d’aucune autorisation de modifier le statut du problème peuvent modifier le statut. »
 hidefromtoc: true
 feature: Requests
 source-git-commit: b6ed840df25684f16f88bc30fe7a8138e37fbe53
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '58'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
 
-# Requêtes : l’utilisateur peut modifier l’état malgré l’absence d’autorisations
+# Requêtes : l’utilisateur ou l’utilisatrice peut modifier le statut malgré l’absence d’autorisations.
 
-Les utilisateurs disposant d’un accès à contribution et d’aucune autorisation pour modifier l’état du problème peuvent modifier l’état.
+Les personnes disposant d’un accès à contribution et d’aucune autorisation de modifier le statut du problème peuvent modifier le statut.
 
 _Premier signalement le mardi 29 juillet 2024._
