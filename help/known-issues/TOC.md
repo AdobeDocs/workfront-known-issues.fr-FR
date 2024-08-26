@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2814d94459436c93607756b72cd7943a266fb676
+source-git-commit: 368856cd75b3c09c09442f4cb5ffe479425211af
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1643'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Utilisateurs : impossible de réactiver l’utilisateur](known-issues-workfront/wf-users-reactivate-user.md)
+      + [Affectations : l’icône de désactivation n’apparaît pas lors de l’affectation de tâches](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
       + [Formulaires personnalisés : Forms propose par défaut des formulaires de projet](known-issues-workfront/wf-custom-forms-default-to-project.md)
       + [Intégrations : impossible de se connecter à Workfront pour Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
       + [Accueil : &quot;widget.list.view&quot; créé lorsque l’utilisateur déplace des colonnes dans le widget Accueil](known-issues-workfront/wf-home-widget-list-view.md)
