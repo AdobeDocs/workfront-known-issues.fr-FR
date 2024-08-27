@@ -3,15 +3,19 @@ title: '« Accueil : la page d’accueil se bloque avec une erreur de mémoire
 description: « Lorsqu’une personne tente d’afficher la nouvelle page d’accueil, le site se bloque avec un message d’erreur. Une solution de contournement est disponible. »
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
-workflow-type: ht
-source-wordcount: '100'
+source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
+workflow-type: tm+mt
+source-wordcount: '128'
 ht-degree: 100%
 
 ---
 
 
 # Accueil : la page d’accueil se bloque avec une erreur de mémoire insuffisante.
+
+>[!NOTE]
+>
+>L’équipe produit évalue actuellement la résolution de ce problème, qui peut nécessiter des améliorations du produit. Les améliorations apportées aux produits sont communiquées dans les annonces de produit et non dans les mises à jour de maintenance.
 
 « Lorsqu’une personne tente d’afficher la nouvelle page d’accueil, le site se bloque avec un message d’erreur :
 
