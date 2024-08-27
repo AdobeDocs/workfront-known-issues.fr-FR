@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 7e512694b62cdcf9db71fe4d658855e7b7e8c335
+source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
 workflow-type: tm+mt
-source-wordcount: '5121'
-ht-degree: 99%
+source-wordcount: '5247'
+ht-degree: 98%
 
 ---
 
@@ -26,9 +26,33 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2024.
 
 ## Mises à jour d’août 2024
 
++++**(Planifiée) Mise à jour de maintenance du vendredi 29 août 2024**
+
+### Mise à jour de maintenance (planifiée) pour le vendredi 29 août 2024.
+
+#### Formulaires personnalisés
+
+**Forms utilise par défaut les formulaires de projet**
+
+Lorsqu’un utilisateur crée un formulaire personnalisé et sélectionne un type d’objet pour le formulaire, ce dernier est ignoré et le formulaire est créé en tant que formulaire personnalisé Projet .
+
+#### Documents
+
+**Cliquer sur un nom de document mène à une page vierge**
+
+Lorsqu’un utilisateur ou une utilisatrice tente d’afficher les détails d’un document en cliquant sur le nom de ce dernier dans une liste de documents, la liste disparaît et cela ne dirige pas l’utilisateur ou l’utilisatrice vers les détails du document.
+
+#### Page d’accueil
+
+**Le widget des approbations en attente affiche les documents supprimés**
+
+Lorsqu’une personne affiche son widget Accueil : en attente d’approbation, elle voit les documents qui ont été supprimés. Si la personne clique sur l’un de ces documents, elle accède à une page vierge.
+
++++
+
 +++**Mise à jour de maintenance le vendredi 22 août 2024**
 
-### Mise à jour de maintenance le 22 août,
+### Mise à jour de maintenance le vendredi 22 août 2024
 
 #### Rapports
 
