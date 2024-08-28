@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
+source-git-commit: a24b19521ec110b10d0a6920c54300d0d22ceaba
 workflow-type: tm+mt
-source-wordcount: '5247'
-ht-degree: 99%
+source-wordcount: '5328'
+ht-degree: 98%
 
 ---
 
@@ -47,6 +47,14 @@ Lorsqu’un utilisateur ou une utilisatrice tente d’afficher les détails d’
 **Le widget des approbations en attente affiche les documents supprimés**
 
 Lorsqu’une personne affiche son widget Accueil : en attente d’approbation, elle voit les documents qui ont été supprimés. Si la personne clique sur l’un de ces documents, elle accède à une page vierge.
+
+#### Utilisateurs
+
+**Le champ Paramètres régionaux de l’email du profil utilisateur a été désactivé**
+
+Pour les organisations sur IMS, les préférences linguistiques sont stockées dans le profil Adobe Experience Cloud de chaque utilisateur. Le champ Paramètres régionaux de l’email dans le profil utilisateur Workfront a été désactivé (pour les organisations IMS uniquement) et une info-bulle dans ce champ fournit des instructions sur la façon d’accéder aux paramètres de langue dans le profil d’Adobe.
+
+Cela résout un problème en raison duquel, lorsqu’un administrateur tente de modifier le paramètre régional Email d’un utilisateur, il revient à l’anglais.
 
 +++
 
