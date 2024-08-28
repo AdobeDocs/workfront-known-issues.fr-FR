@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
 workflow-type: tm+mt
 source-wordcount: '1048'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -28,8 +28,8 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 | [Workfront : impossible d’utiliser SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | mardi 26 août 2024 |
 | [Rapports : les diffusions des rapports sont retardées ou manquantes](known-issues-workfront/wf-reports-not-delivered.md) | mardi 26 août 2024 |
 | [Affectations : l’icône de désactivation n’apparaît pas lors de l’affectation de tâches](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | mardi 26 août 2024 |
-| [Intégrations : impossible de se connecter à Workfront pour Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | jeudi 21 août 2024 |
-| [Documents : commentaires de BAT non affichés sur les mises à jour de document](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | jeudi 21 août 2024 |
+| [Intégrations : impossible de se connecter à Workfront pour Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | jeudi 21 août 2024 |
+| [Documents : commentaires d’épreuves non affichés sur les mises à jour de document](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | jeudi 21 août 2024 |
 | [Accueil : « Aucun accès » s’affiche comme nom du projet.](known-issues-workfront/wf-home-no-access-project-name.md) | vendredi 15 août 2024 |
 | [Accueil : la page d’accueil se bloque avec une erreur de mémoire insuffisante.](known-issues-workfront/wf-home-crashes-with-error.md) | vendredi 15 août 2024 |
 | [Workfront Mobile : impossible de se connecter sans utiliser la méthode SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | jeudi 14 août 2024 |
@@ -56,7 +56,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [Utilisateurs : impossible de réactiver l’utilisateur](known-issues-workfront/wf-users-reactivate-user.md) | mardi 26 août 2024 |
 | [Panoramas : problèmes liés aux cartes en double](known-issues-workfront/wf-boards-some-cards-duplicated.md) | mardi 26 août 2024 |
 | [Workfront : plusieurs onglets du navigateur entraînent la déconnexion de Workfront.](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | vendredi 22 août 2024 |
-| [Formulaires personnalisés : Forms utilise par défaut les formulaires de projet](known-issues-workfront/wf-custom-forms-default-to-project.md) | vendredi 22 août 2024 |
+| [Formulaires personnalisés : Forms utilise par défaut les formulaires de projet](known-issues-workfront/wf-custom-forms-default-to-project.md) | vendredi 22 août 2024 |
 | [Accueil : le widget des approbations en attente affiche les documents supprimés.](known-issues-workfront/wf-home-deleted-documents.md) | mardi 19 août 2024 |
 | [Panoramas : la carte n’inclut pas de sous-tâches](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | mardi 19 août 2024 |
 | [Documents : impossible de prévisualiser les documents avec un lien d’aperçu](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | vendredi 15 août 2024 |

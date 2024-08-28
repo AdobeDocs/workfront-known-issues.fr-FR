@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
 workflow-type: tm+mt
 source-wordcount: '5247'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 98%
 
 >[!NOTE]
 >
->Pour plus d’informations sur les pannes de maintenance pour tous les produits Adobe, y compris Workfront, consultez la [page d’état de l’Adobe](https://status.adobe.com/).
+>Pour plus d’informations sur les pannes de maintenance pour tous les produits Adobe, y compris Workfront, voir la [page de statut d’Adobe](https://status.adobe.com/).
 
 Cette page décrit les problèmes résolus par les mises à jour hebdomadaires de Workfront.
 
@@ -34,7 +34,7 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2024.
 
 **Forms utilise par défaut les formulaires de projet**
 
-Lorsqu’un utilisateur crée un formulaire personnalisé et sélectionne un type d’objet pour le formulaire, ce dernier est ignoré et le formulaire est créé en tant que formulaire personnalisé Projet .
+Lorsqu’un utilisateur ou une utilisatrice crée un formulaire personnalisé et sélectionne un type d’objet pour le formulaire, le type d’objet est ignoré et le formulaire est créé en tant que formulaire personnalisé de projet.
 
 #### Documents
 

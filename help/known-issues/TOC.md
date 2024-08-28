@@ -5,7 +5,7 @@ role: User
 source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
 workflow-type: tm+mt
 source-wordcount: '1651'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -20,10 +20,10 @@ ht-degree: 96%
       + [Workfront : impossible d’utiliser SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [Utilisateurs : impossible de réactiver l’utilisateur](known-issues-workfront/wf-users-reactivate-user.md)
       + [Affectations : l’icône de désactivation n’apparaît pas lors de l’affectation de tâches](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
-      + [Formulaires personnalisés : Forms propose par défaut des formulaires de projet](known-issues-workfront/wf-custom-forms-default-to-project.md)
-      + [Intégrations : impossible de se connecter à Workfront pour Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
-      + [Accueil : &quot;widget.list.view&quot; créé lorsque l’utilisateur déplace des colonnes dans le widget Accueil](known-issues-workfront/wf-home-widget-list-view.md)
-      + [Documents : commentaires du BAT non affichés sur les mises à jour du document](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
+      + [Formulaires personnalisés : Forms utilise par défaut des formulaires de projet](known-issues-workfront/wf-custom-forms-default-to-project.md)
+      + [Intégrations : impossible de se connecter à Workfront pour Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
+      + [Accueil : « widget.list.view » créé lorsque l’utilisateur ou l’utilisatrice déplace des colonnes dans le widget Accueil.](known-issues-workfront/wf-home-widget-list-view.md)
+      + [Documents : commentaires d’épreuve non affichés sur les mises à jour du document](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
       + [Accueil : le widget des approbations en attente affiche les documents supprimés.](known-issues-workfront/wf-home-deleted-documents.md)
       + [Accueil : « Aucun accès » s’affiche comme nom du projet.](known-issues-workfront/wf-home-no-access-project-name.md)
       + [Documents : impossible de prévisualiser les documents avec un lien d’aperçu](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)
