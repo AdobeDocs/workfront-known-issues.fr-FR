@@ -1,17 +1,21 @@
 ---
-title: '« Accueil : le widget des approbations en attente affiche les documents supprimés. »'
-description: '« Lorsqu’une personne affiche son widget Accueil : en attente d’approbation, elle voit les documents qui ont été supprimés. Si la personne clique sur l’un de ces documents, elle accède à une page vierge. »'
+title: 'Accueil : le widget des approbations en attente affiche les documents supprimés'
+description: 'Lorsqu’une personne affiche son widget Accueil : en attente d’approbation, elle voit les documents qui ont été supprimés. Si la personne clique sur l’un de ces documents, elle accède à une page vierge.'
 hidefromtoc: true
 feature: Get Started with Workfront, Digital Content and Documents
-source-git-commit: 32bed5a9c917cab2cc3a6ccd1065f38c074ca917
-workflow-type: ht
-source-wordcount: '84'
-ht-degree: 100%
+exl-id: 82fa6159-ae27-4391-9690-8d4679c5b91c
+source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
+workflow-type: tm+mt
+source-wordcount: '90'
+ht-degree: 92%
 
 ---
 
-
 # Accueil : le widget des approbations en attente affiche les documents supprimés.
+
+>[!NOTE]
+>
+>Ce problème a été résolu le vendredi 29 août 2024.
 
 Lorsqu’une personne affiche son widget Accueil : en attente d’approbation, elle voit les documents qui ont été supprimés. Si la personne clique sur l’un de ces documents, elle accède à une page vierge.
 
