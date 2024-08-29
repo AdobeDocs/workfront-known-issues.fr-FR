@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
+source-git-commit: c73aa8451c52e4c6f5091b549d9f0a35b8e8d1f8
 workflow-type: tm+mt
-source-wordcount: '1043'
-ht-degree: 96%
+source-wordcount: '1051'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Panoramas : la carte connectée est dans une colonne incorrecte](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | jeudi 28 août 2024 |
 | [Notifications : les utilisateurs contributeurs ne reçoivent pas de notifications par courrier électronique](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md) | jeudi 28 août 2024 |
 | [Workfront : impossible d’utiliser SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | mardi 26 août 2024 |
 | [Rapports : les diffusions des rapports sont retardées ou manquantes](known-issues-workfront/wf-reports-not-delivered.md) | mardi 26 août 2024 |
