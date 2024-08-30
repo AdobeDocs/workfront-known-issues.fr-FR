@@ -4,22 +4,18 @@ description: Des problèmes ont été signalés concernant les cartes en double 
 hidefromtoc: true
 feature: Agile
 exl-id: f08d6464-99df-4b49-be0f-becc8297c6c5
-source-git-commit: 944b2342e35f70d095380312a8742e7e97734818
+source-git-commit: 5883bf2455640b180072be228eae4d11d1c7b6c9
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '69'
 ht-degree: 100%
 
 ---
 
 # Panoramas : problèmes liés aux cartes en double.
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on August 15, 2024.
-
--->
+>Ce problème a été résolu le vendredi 29 août 2024.
 
 
 Les problèmes suivants ont été signalés concernant les cartes en double dans les panoramas :
