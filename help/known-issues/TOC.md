@@ -2,9 +2,9 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: cc5305d58c51c2944c992682dedbcc61bce56166
+source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
 workflow-type: tm+mt
-source-wordcount: '1671'
+source-wordcount: '1662'
 ht-degree: 97%
 
 ---
@@ -40,7 +40,6 @@ ht-degree: 97%
       + [Panoramas : la carte connectée est dans une colonne incorrecte.](known-issues-workfront/wf-boards-connected-card-incorrect-column.md)
       + [Workfront Mobile : impossible de se connecter sans utiliser la méthode SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md)
       + [Rapports : erreur lors de l’exportation d’un rapport](known-issues-workfront/wf-reports-error-cache-content.md)
-      + [Utilisateurs et utilisatrices : les paramètres régionaux de l’e-mail de l’utilisateur ou de l’utilisatrice ne sont pas enregistrés.](known-issues-workfront/wf-users-email-locale-not-saving.md)
       + [Intégrations : erreur lors de la création d’une requête depuis Outlook](known-issues-workfront/wf-integrations-outlook-attachment-error.md)
       + [Notifications : erreur de type « Oups » lors de la définition des préférences de notification](known-issues-workfront/wf-notifications-whoops-error.md)
       + [Formulaires personnalisés : crash du navigateur lors de la création de formulaires volumineux](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)

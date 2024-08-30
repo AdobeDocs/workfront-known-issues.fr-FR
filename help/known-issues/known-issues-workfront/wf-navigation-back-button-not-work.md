@@ -4,22 +4,18 @@ description: Lorsqu’un utilisateur ou une utilisatrice de Workfront clique sur
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: cba19c37-ca23-4eb6-93d5-b4ad7ab00c28
-source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
+source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '119'
 ht-degree: 100%
 
 ---
 
 # Navigation : le bouton Retour ne revient pas à la page précédente.
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on June 20, 2024.
-
--->
+>L’équipe produit évalue actuellement la résolution de ce problème. Une fois la résolution trouvée, elle sera communiquée dans les annonces de produits et non pas dans les mises à jour de maintenance.
 
 Lorsqu’un utilisateur ou une utilisatrice de Workfront clique sur le bouton Retour de son navigateur, l’une des situations suivantes peut se produire.
 
