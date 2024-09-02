@@ -4,7 +4,7 @@ description: « Lorsqu’une personne affiche son widget Mes tâches sur la pag
 hidefromtoc: true
 feature: Get Started with Workfront, Work Management
 source-git-commit: 944b2342e35f70d095380312a8742e7e97734818
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
 ht-degree: 100%
 

@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Updates and Notifications, Digital Content and Documents
 exl-id: 8f378ff6-5a44-40a2-b28e-c613b63a1b76
 source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 64%
 >
 >Les miniatures ne sont pas prises en charge dans Gmail.
 
-Lorsqu’un utilisateur affiche une notification par courrier électronique concernant la validation d’un document, la miniature du document n’est pas visible dans le courrier électronique. À la place, l’utilisateur voit une icône d’image rompue.
+Lorsqu’une personne affiche une notification par e-mail concernant l’approbation d’un document, la miniature du document n’est pas visible dans l’e-mail. À la place, elle voit une icône d’image rompue.
 
 Ce problème a été signalé sur Gmail.
 
