@@ -32,19 +32,19 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2024.
 
 #### Formulaires personnalisés
 
-**Forms utilise par défaut les formulaires de projet**
+**Forms utilise par défaut les formulaires de projet**.
 
 Lorsqu’un utilisateur ou une utilisatrice crée un formulaire personnalisé et sélectionne un type d’objet pour le formulaire, le type d’objet est ignoré et le formulaire est créé en tant que formulaire personnalisé de projet.
 
 #### Documents
 
-**Cliquer sur un nom de document mène à une page vierge**
+**Cliquer sur le nom d’un document dirige vers une page vierge.**
 
 Lorsqu’un utilisateur ou une utilisatrice tente d’afficher les détails d’un document en cliquant sur le nom de ce dernier dans une liste de documents, la liste disparaît et cela ne dirige pas l’utilisateur ou l’utilisatrice vers les détails du document.
 
 #### Page d’accueil
 
-**Le widget des approbations en attente affiche les documents supprimés**
+**Le widget des approbations en attente affiche les documents supprimés.**
 
 Lorsqu’une personne affiche son widget Accueil : en attente d’approbation, elle voit les documents qui ont été supprimés. Si la personne clique sur l’un de ces documents, elle accède à une page vierge.
 
@@ -166,7 +166,7 @@ Ces problèmes proviennent de Dropbox, et non de Workfront.
 
 ### Mise à jour de maintenance le vendredi 25 juillet 2024
 
-#### Formulaires personnalisés dans mon groupe
+#### Formulaires personnalisés
 
 **La liste déroulante se ferme lors de la sélection de plusieurs valeurs.**
 
@@ -338,7 +338,7 @@ Lorsqu’une personne tente d’ajouter un sous-groupe existant à un groupe, le
 
 ### Mise à jour de maintenance le 6 juin 2024
 
-#### Formulaires personnalisés dans mon groupe
+#### Formulaires personnalisés
 
 **Limitation des champs natifs dans le créateur de formulaire**
 
@@ -352,7 +352,7 @@ Plusieurs champs natifs sont désormais pris en charge sur les formulaires perso
 
 ### Mise à jour de maintenance le 30 mai 2024
 
-#### Formulaires personnalisés dans mon groupe
+#### Formulaires personnalisés
 
 Erreur lors de la modification des champs de texte descriptif
 
@@ -472,7 +472,7 @@ Lorsqu’un utilisateur ou une utilisatrice consulte un panorama Kanban configur
 
 Lorsqu’un utilisateur ou une utilisatrice affiche un calendrier et actualise la page, une erreur « Oups » s’affiche. Les données du calendrier s’affichent comme prévu, mais peuvent être masquées par le message d’erreur.
 
-#### Formulaires personnalisés dans mon groupe
+#### Formulaires personnalisés
 
 **Les champs de recherche externes ne renvoient pas de résultats.**
 
@@ -937,7 +937,7 @@ Lorsqu’un utilisateur ou une utilisatrice tente d’afficher des commentaires 
 
 Cela peut se produire même si l’utilisateur ou l’utilisatrice pouvait auparavant voir des commentaires sur la carte.
 
-#### Formulaires personnalisés dans mon groupe
+#### Formulaires personnalisés
 
 **Impossible d’ajouter ou de supprimer des formulaires personnalisés en bloc sur des tâches de modèle**
 

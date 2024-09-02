@@ -5,7 +5,7 @@ role: User
 source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
 workflow-type: tm+mt
 source-wordcount: '1662'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 97%
       + [Workfront : la date s’affiche dans un format incorrect](known-issues-workfront/wf-workfront-date-format-incorrect.md)
       + [Notifications : les utilisateurs contributeurs ne reçoivent pas de notifications par e-mail](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
       + [Groupes : les sous-groupes ne s’affichent pas correctement](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
-      + [Workfront : impossible d’utiliser SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md)
-      + [Utilisateurs : impossible de réactiver l’utilisateur](known-issues-workfront/wf-users-reactivate-user.md)
-      + [Affectations : l’icône de désactivation n’apparaît pas lors de l’affectation de tâches](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
+      + [Workfront : impossible d’utiliser SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md)
+      + [Utilisateurs et utilisatrices : impossible de réactiver un utilisateur ou une utilisatrice](known-issues-workfront/wf-users-reactivate-user.md)
+      + [Affectations : l’icône des congés n’apparaît pas lors de l’affectation de tâches.](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
       + [Formulaires personnalisés : Forms utilise par défaut des formulaires de projet](known-issues-workfront/wf-custom-forms-default-to-project.md)
       + [Intégrations : impossible de se connecter à Workfront pour Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
       + [Accueil : « widget.list.view » créé lorsque l’utilisateur ou l’utilisatrice déplace des colonnes dans le widget Accueil.](known-issues-workfront/wf-home-widget-list-view.md)
@@ -214,7 +214,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problèmes connus dans Workfront Fusion](workfrontfusion.md)
    + Problèmes actifs dans [!DNL Workfront Fusion] {#fusion-current}
-      + [Fusion Workfront : 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
+      + [Workfront Fusion : 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
       + [Workfront Fusion : le champ est absent du module](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
       + [Workfront Fusion : formatage des sorties pour les dates](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion : RuntimeError avec réponse 200 du module Workfront](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)
