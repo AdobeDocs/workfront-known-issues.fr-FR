@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
+source-git-commit: 8f0104f86d2dd3703b82bce8fc40dbbf58ad40f1
 workflow-type: tm+mt
-source-wordcount: '1025'
-ht-degree: 97%
+source-wordcount: '1060'
+ht-degree: 94%
 
 ---
 
@@ -25,6 +25,9 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Mobile : impossible de se déconnecter et informations de profil utilisateur manquantes](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | 3 septembre 2024 |
+| [Panoramas : le statut de la carte ne correspond pas à l’objet connecté et ignore le filtre](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 3 septembre 2024 |
+| [Tableaux de bord : la sélection du bouton Exporter dans un rapport fait défiler la page jusqu’en haut de la page](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md) | 3 septembre 2024 |
 | [Panoramas : la carte connectée est dans une colonne incorrecte](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | jeudi 28 août 2024 |
 | [Notifications : les utilisateurs contributeurs ne reçoivent pas de notifications par courrier électronique](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md) | jeudi 28 août 2024 |
 | [Workfront : impossible d’utiliser SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | mardi 26 août 2024 |
