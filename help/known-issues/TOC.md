@@ -2,9 +2,9 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8f0104f86d2dd3703b82bce8fc40dbbf58ad40f1
+source-git-commit: 9da826677fc6a00f85d5add27c4fa73cf8fc3361
 workflow-type: tm+mt
-source-wordcount: '1694'
+source-wordcount: '1700'
 ht-degree: 96%
 
 ---
@@ -217,6 +217,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problèmes connus dans Workfront Fusion](workfrontfusion.md)
    + Problèmes actifs dans [!DNL Workfront Fusion] {#fusion-current}
+      + [Fusion Workfront : la file d’attente de webhook n’est pas traitée](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md)
       + [Workfront Fusion : 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
       + [Workfront Fusion : le champ est absent du module](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
       + [Workfront Fusion : formatage des sorties pour les dates](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
