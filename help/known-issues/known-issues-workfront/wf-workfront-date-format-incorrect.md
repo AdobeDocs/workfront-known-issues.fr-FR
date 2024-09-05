@@ -1,17 +1,21 @@
 ---
 title: "Workfront : la date s’affiche dans un format incorrect"
-description: '"Les dates dans Workfront s’affichent sous la forme MM/JJ/AAAA. C’est le cas même lorsque les navigateurs des utilisateurs sont définis sur les préférences d’affichage des dates locales.  »'
+description: "Les dates dans Workfront s’affichent sous la forme MM/JJ/AAAA. C’est le cas même lorsque les navigateurs des utilisateurs sont définis sur les préférences d’affichage des dates locales."
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 5883bf2455640b180072be228eae4d11d1c7b6c9
+exl-id: 2afa4965-d261-48e4-9325-341caba75f8a
+source-git-commit: c92704a7ddab443c76ed315775f0d26b95667207
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 6%
+source-wordcount: '72'
+ht-degree: 13%
 
 ---
 
-
 # Workfront : la date s’affiche dans un format incorrect
+
+>[!NOTE]
+>
+>Ce problème a été résolu le samedi 30 août 2024.
 
 Les dates dans Workfront s’affichent sous la forme MM/JJ/AAAA. C’est le cas même lorsque les navigateurs des utilisateurs sont définis sur les préférences d’affichage des dates locales.
 

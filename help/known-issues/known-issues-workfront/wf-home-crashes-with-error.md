@@ -4,14 +4,18 @@ description: Lorsqu’un utilisateur tente d’afficher la nouvelle page d’acc
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: befeb093-6376-4c91-a4c4-f956b85660aa
-source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
+source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 76%
+source-wordcount: '128'
+ht-degree: 81%
 
 ---
 
 # Accueil : la page d’accueil se bloque avec une erreur de mémoire insuffisante.
+
+>[!NOTE]
+>
+>L’équipe produit évalue actuellement la résolution de ce problème, qui peut nécessiter des améliorations du produit. Les améliorations apportées aux produits sont communiquées dans les annonces de produit et non dans les mises à jour de maintenance.
 
 « Lorsqu’une personne tente d’afficher la nouvelle page d’accueil, le site se bloque avec un message d’erreur :
 

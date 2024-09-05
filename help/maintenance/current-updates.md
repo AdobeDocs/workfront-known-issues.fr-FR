@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
+source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
-source-wordcount: '5326'
-ht-degree: 98%
+source-wordcount: '5452'
+ht-degree: 97%
 
 ---
 
@@ -23,6 +23,30 @@ Ces mises à jour incluent également d’autres correctifs mineurs ou moins con
 Pour connaître les mises à jour de maintenance antérieures à 2024, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates).
 
 Les mises à jour de maintenance suivantes ont été effectuées en 2024.
+
+## Mises à jour de septembre 2024
+
++++**Mise à jour de maintenance le vendredi 5 septembre 2024**
+
+### Mise à jour de maintenance le 5 septembre 2024
+
+#### Groupes
+
+**Les sous-groupes ne s’affichent pas correctement**
+
+Lorsqu’un utilisateur consulte la liste Groupes dans la zone Configuration, il voit que les sous-groupes ne sont pas correctement répertoriés sous le groupe parent. Le sous-groupe est correctement enregistré sous le groupe parent, mais la liste peut prêter à confusion.
+
+Si l’utilisateur ouvre le sous-groupe, il peut voir dans le chemin de navigation que le sous-groupe est enregistré correctement sous le groupe parent.
+
+#### Utilisateurs
+
+**Impossible de réactiver l’utilisateur**
+
+Lorsqu’un utilisateur ou une utilisatrice tente de réactiver un autre utilisateur ou une autre utilisatrice à l’aide de l’option Réactiver l’utilisateur ou l’utilisatrice du menu Plus, un niveau d’accès peut être sélectionné pour cette personne, mais la modification n’est pas enregistrée. À la place, le message d’erreur suivant s’affiche :
+
+« homeGroupID ne peut pas être nul. »
+
++++
 
 ## Mises à jour d’août 2024
 

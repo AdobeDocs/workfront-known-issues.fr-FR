@@ -2,9 +2,9 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9da826677fc6a00f85d5add27c4fa73cf8fc3361
+source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
-source-wordcount: '1700'
+source-wordcount: '1708'
 ht-degree: 96%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Panoramas : impossible de prévisualiser ou de télécharger des documents à partir d’une carte](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md)
       + [Mobile : impossible de se déconnecter et informations de profil utilisateur manquantes](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
       + [Panoramas : le statut de la carte ne correspond pas à l’objet connecté et au filtre Contours](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
       + [Tableaux de bord : lorsque vous sélectionnez un bouton Exporter dans un rapport, le défilement se trouve en haut de la page.](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)
