@@ -5,7 +5,7 @@ role: User
 source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
 source-wordcount: '1708'
-ht-degree: 96%
+ht-degree: 97%
 
 ---
 
@@ -21,9 +21,9 @@ ht-degree: 96%
       + [Mobile : impossible de se déconnecter et informations de profil utilisateur manquantes](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
       + [Panoramas : le statut de la carte ne correspond pas à l’objet connecté et au filtre Contours](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
       + [Tableaux de bord : lorsque vous sélectionnez un bouton Exporter dans un rapport, le défilement se trouve en haut de la page.](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)
-      + [Workfront : la date s’affiche dans un format incorrect](known-issues-workfront/wf-workfront-date-format-incorrect.md)
-      + [Notifications : les utilisateurs contributeurs ne reçoivent pas de notifications par e-mail](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
-      + [Groupes : les sous-groupes ne s’affichent pas correctement](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
+      + [Workfront : la date s’affiche dans un format incorrect.](known-issues-workfront/wf-workfront-date-format-incorrect.md)
+      + [Notifications : les personnes contributrices ne reçoivent pas de notifications par e-mail.](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
+      + [Groupes : les sous-groupes ne s’affichent pas correctement.](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
       + [Workfront : impossible d’utiliser SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [Utilisateurs et utilisatrices : impossible de réactiver un utilisateur ou une utilisatrice](known-issues-workfront/wf-users-reactivate-user.md)
       + [Affectations : l’icône des congés n’apparaît pas lors de l’affectation de tâches.](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
