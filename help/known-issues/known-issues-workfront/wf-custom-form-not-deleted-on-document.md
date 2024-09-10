@@ -1,13 +1,13 @@
 ---
-title: "Formulaires personnalisés : le formulaire personnalisé n’est pas supprimé du document"
+title: '« Formulaires personnalisés : le formulaire personnalisé n’est pas supprimé du document. »'
 description: Lorsqu’une personne tente de supprimer un formulaire personnalisé d’un document, elle voit un message indiquant que le formulaire personnalisé a été supprimé, mais le formulaire personnalisé est toujours joint.  Si la personne actualise la page du document, elle peut constater que le formulaire personnalisé est joint.
 hidefromtoc: true
 feature: Custom Forms, Digital Content and Documents
 exl-id: 906dc16e-3e9d-4121-a929-8d50b7fa17f5
 source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 

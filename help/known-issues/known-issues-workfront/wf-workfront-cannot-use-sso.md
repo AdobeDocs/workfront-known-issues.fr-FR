@@ -1,13 +1,13 @@
 ---
-title: "Workfront : impossible d’utiliser SSO"
-description: La fonctionnalité Workfront qui utilise la fonction SSO renvoie une erreur Whoops .
+title: '« Workfront : impossible d’utiliser SSO »'
+description: La fonctionnalité Workfront qui utilise la fonction SSO renvoie une erreur Oups.
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 372bab9a-fd77-41eb-a806-34e99ce55b17
 source-git-commit: 9a8c1695bc2469c3c29849e7ed735a71c347bcce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
-ht-degree: 59%
+ht-degree: 100%
 
 ---
 
@@ -15,8 +15,8 @@ ht-degree: 59%
 
 >[!NOTE]
 >
->* Cela a été signalé dans les environnements Sandbox d’aperçu et Sandbox d’actualisation personnalisée.
->* Cela a été signalé pour les organisations qui utilisent la connexion unique héritée (non Adobe).
+>* Ce problème a été signalé dans les environnements de prévisualisation de sandbox et de sandbox à actualisation personnalisée.
+>* Ce problème a été signalé pour les organisations qui utilisent l’authentification unique héritée (autre qu’Adobe).
 
 La fonctionnalité Workfront qui utilise l’authentification unique renvoie l’erreur suivante :
 

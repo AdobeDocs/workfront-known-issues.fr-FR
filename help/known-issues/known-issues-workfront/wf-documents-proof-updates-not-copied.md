@@ -1,13 +1,13 @@
 ---
-title: 'Documents : commentaires du BAT non affichés sur les mises à jour du document'
+title: '« Documents : les commentaires d’épreuve ne sont pas affichés sur les mises à jour du document. »'
 description: Lorsqu’un utilisateur ou une utilisatrice fait un commentaire sur une épreuve, ce commentaire n’est pas copié dans la zone de mise à jour du document de l’épreuve dans Workfront.
 hidefromtoc: true
 feature: Digital Content and Documents, Updates and Notifications
 exl-id: 37b8f980-c782-404f-838d-7404f9112778
 source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
