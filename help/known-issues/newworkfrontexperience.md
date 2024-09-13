@@ -5,9 +5,9 @@ keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 62011540c9d8a33335ddb97ed15033ff5614657d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1014'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -25,10 +25,10 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Panoramas : impossible de prévisualiser ou de télécharger des documents à partir de la carte](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | 5 septembre 2024 |
-| [Mobile : impossible de se déconnecter et informations de profil utilisateur manquantes](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | 3 septembre 2024 |
-| [Panoramas : le statut de la carte ne correspond pas à l’objet connecté et ignore le filtre](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 3 septembre 2024 |
-| [Tableaux de bord : la sélection du bouton Exporter dans un rapport fait défiler la page jusqu’en haut de la page](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md) | 3 septembre 2024 |
+| [Panoramas : impossible de prévisualiser ou de télécharger des documents à partir de la carte](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | 5 septembre 2024 |
+| [Mobile : impossible de se déconnecter et informations de profil utilisateur manquantes](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | 3 septembre 2024 |
+| [Panoramas : le statut de la carte ne correspond pas à l’objet connecté et contourne le filtre](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 3 septembre 2024 |
+| [Tableaux de bord : lorsque vous cliquez sur le bouton Exporter dans un rapport, la page remonte au début.](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md) | 3 septembre 2024 |
 | [Panoramas : la carte connectée est dans une colonne incorrecte.](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | jeudi 28 août 2024 |
 | [Workfront : impossible d’utiliser SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | mardi 26 août 2024 |
 | [Rapports : des remises de rapports sont retardées ou manquantes](known-issues-workfront/wf-reports-not-delivered.md). | mardi 26 août 2024 |
@@ -135,7 +135,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [Listes : le nom d’affichage ne s’applique pas au regroupement de champs personnalisés.](known-issues-workfront/inactive/wf-lists-display-name-not-applied-to-grouping.md) | 9 novembre 2020 |
 | [Accueil : les dates de délégation d’approbation changent après l’actualisation et l’envoi de 2 e-mails.](known-issues-workfront/inactive/wf-home-approval-delegation-dates-changing.md) | 9 novembre 2020 |
 | [Calendrier : les tâches n’apparaissent pas.](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md) | 9 novembre 2020 |
-| [Accueil : la page d’accueil se bloque avec une erreur de mémoire insuffisante.](known-issues-workfront/wf-home-crashes-with-error.md) | 5 septembre 2024 |
+| [Accueil : la page d’accueil se bloque avec une erreur de mémoire insuffisante.](known-issues-workfront/wf-home-crashes-with-error.md) | 5 septembre 2024 |
 
 {style="table-layout:auto"}
 

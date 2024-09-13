@@ -3,9 +3,9 @@ user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
 source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1708'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -17,10 +17,10 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
-      + [Panoramas : impossible de prévisualiser ou de télécharger des documents à partir d’une carte](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md)
-      + [Mobile : impossible de se déconnecter et informations de profil utilisateur manquantes](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
-      + [Panoramas : le statut de la carte ne correspond pas à l’objet connecté et au filtre Contours](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
-      + [Tableaux de bord : lorsque vous sélectionnez un bouton Exporter dans un rapport, le défilement se trouve en haut de la page.](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)
+      + [Panoramas : impossible de prévisualiser ou de télécharger des documents à partir d’une carte](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md)
+      + [Mobile : impossible de se déconnecter et informations de profil d’utilisation manquantes](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
+      + [Panoramas : le statut de la carte ne correspond pas à l’objet connecté et contourne le filtre.](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
+      + [Tableaux de bord : lorsque vous cliquez sur le bouton Exporter dans un rapport, la page remonte au début.](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)
       + [Workfront : la date s’affiche dans un format incorrect.](known-issues-workfront/wf-workfront-date-format-incorrect.md)
       + [Notifications : les personnes contributrices ne reçoivent pas de notifications par e-mail.](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
       + [Groupes : les sous-groupes ne s’affichent pas correctement.](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
@@ -218,7 +218,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problèmes connus dans Workfront Fusion](workfrontfusion.md)
    + Problèmes actifs dans [!DNL Workfront Fusion] {#fusion-current}
-      + [Fusion Workfront : la file d’attente de webhook n’est pas traitée](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md)
+      + [Workfront Fusion : la file d’attente de webhook n’est pas traitée.](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md)
       + [Workfront Fusion : 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
       + [Workfront Fusion : le champ est absent du module](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
       + [Workfront Fusion : formatage des sorties pour les dates](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)

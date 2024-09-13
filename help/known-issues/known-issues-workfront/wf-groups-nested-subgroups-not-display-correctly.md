@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: People Teams and Groups
 exl-id: b4b032cd-e0bc-43af-bc4f-d0f8b8eb42a8
 source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->Cet article a été corrigé le 5 septembre 2024.
+>Ce problème a été résolu le 5 septembre 2024.
 
 Lorsqu’une personne consulte la liste Groupes dans la zone Configuration, elle voit que les sous-groupes ne sont pas correctement répertoriés sous le groupe parent. Le sous-groupe est correctement enregistré sous le groupe parent, mais la liste peut prêter à confusion.
 

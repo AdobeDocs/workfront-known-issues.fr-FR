@@ -4,9 +4,9 @@ description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '5452'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -28,11 +28,11 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2024.
 
 +++**Mise à jour de maintenance le vendredi 5 septembre 2024**
 
-### Mise à jour de maintenance le 5 septembre 2024
+### Mise à jour de maintenance le 5 septembre 2024
 
 #### Groupes
 
-**Les sous-groupes ne s’affichent pas correctement**
+**Les sous-groupes ne s’affichent pas correctement.**
 
 Lorsqu’une personne consulte la liste Groupes dans la zone Configuration, elle voit que les sous-groupes ne sont pas correctement répertoriés sous le groupe parent. Le sous-groupe est correctement enregistré sous le groupe parent, mais la liste peut prêter à confusion.
 
@@ -40,7 +40,7 @@ Si la personne ouvre le sous-groupe, elle peut voir dans le chemin de navigation
 
 #### Utilisateurs
 
-**Impossible de réactiver l’utilisateur**
+**Impossible de réactiver un utilisateur ou une utilisatrice**
 
 Lorsqu’un utilisateur ou une utilisatrice tente de réactiver un autre utilisateur ou une autre utilisatrice à l’aide de l’option Réactiver l’utilisateur ou l’utilisatrice du menu Plus, un niveau d’accès peut être sélectionné pour cette personne, mais la modification n’est pas enregistrée. À la place, le message d’erreur suivant s’affiche :
 

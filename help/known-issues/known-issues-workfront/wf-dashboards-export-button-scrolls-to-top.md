@@ -1,18 +1,18 @@
 ---
-title: "Tableaux de bord : la sélection du bouton Exporter dans un rapport fait défiler la page jusqu’en haut"
-description: "Lorsque vous cliquez sur le bouton Exporter d’un rapport dans un tableau de bord, la fenêtre fait défiler la page vers le haut et requiert un défilement vers le bas pour trouver le menu des options d’exportation ouvertes."
+title: '« Tableaux de bord : lorsque vous cliquez sur le bouton Exporter dans un rapport, la page remonte au début. »'
+description: Lorsque vous cliquez sur le bouton Exporter d’un rapport dans un tableau de bord, la fenêtre remonte au début de la page. Cela nécessite de faire défiler vers le bas pour trouver le menu des options d’export ouvert.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 9da826677fc6a00f85d5add27c4fa73cf8fc3361
-workflow-type: tm+mt
+exl-id: 620d7f58-fef2-41f5-90fa-c6f196f5bf54
+source-git-commit: 1564d40acb9cd6c9e6bbf8496aac7a8076ba5b35
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
+# Tableaux de bord : lorsque vous cliquez sur le bouton Exporter dans un rapport, la page remonte au début.
 
-# Tableaux de bord : lorsque vous sélectionnez un bouton Exporter dans un rapport, le défilement se trouve en haut de la page.
-
-Lorsque vous cliquez sur le bouton Exporter d’un rapport dans un tableau de bord, la fenêtre fait défiler la page jusqu’en haut de la page. Elle requiert un défilement vers le bas pour trouver le menu des options d’exportation ouvertes.
+Lorsque vous cliquez sur le bouton Exporter d’un rapport dans un tableau de bord, la fenêtre remonte au début de la page. Cela nécessite de faire défiler vers le bas pour trouver le menu des options d’export ouvert.
 
 _Premier signalement le vendredi 29 août 2024._

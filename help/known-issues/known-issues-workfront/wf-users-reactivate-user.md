@@ -1,13 +1,13 @@
 ---
-title: "Utilisateurs : impossible de réactiver l’utilisateur"
-description: Lorsqu’un utilisateur tente de réactiver un utilisateur à l’aide de l’option Réactiver l’utilisateur du menu Plus , il peut sélectionner un niveau d’accès pour l’utilisateur, mais la modification n’est pas enregistrée. Un message d’erreur s’affiche à la place. Une solution de contournement est disponible.
+title: '« Utilisateurs et utilisatrices : impossible de réactiver un utilisateur ou une utilisatrice »'
+description: Lorsqu’un utilisateur ou une utilisatrice tente de réactiver une personne à l’aide de l’option Réactiver l’utilisateur ou l’utilisatrice du menu Plus, un niveau d’accès peut être sélectionné pour cette personne, mais la modification n’est pas enregistrée. Un message d’erreur s’affiche à la place. Une solution de contournement est disponible.
 hidefromtoc: true
 feature: People Teams and Groups
 exl-id: 771c1393-ed95-4556-b053-e3e91348f5ac
 source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 66%
 
 >[!NOTE]
 >
->Cet article a été corrigé le 5 septembre 2024.
+>Ce problème a été résolu le 5 septembre 2024.
 
 Lorsqu’un utilisateur ou une utilisatrice tente de réactiver un autre utilisateur ou une autre utilisatrice à l’aide de l’option Réactiver l’utilisateur ou l’utilisatrice du menu Plus, un niveau d’accès peut être sélectionné pour cette personne, mais la modification n’est pas enregistrée. À la place, le message d’erreur suivant s’affiche :
 

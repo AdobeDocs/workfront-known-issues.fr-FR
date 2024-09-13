@@ -1,18 +1,18 @@
 ---
-title: "Mobile : impossible de se déconnecter et informations de profil utilisateur manquantes"
-description: "L’option de déconnexion de l’application mobile ne permet pas à certains utilisateurs de se déconnecter. Leurs pages de profil utilisateur apparaissent également vides et génèrent un message d’erreur."
+title: '« Mobile : impossible de se déconnecter et informations de profil d’utilisation manquantes »'
+description: L’option de déconnexion de l’application mobile ne permet pas à certaines personnes de se déconnecter. De plus, les pages de leur profil d’utilisation apparaissent vides et génèrent un message d’erreur.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 9da826677fc6a00f85d5add27c4fa73cf8fc3361
-workflow-type: tm+mt
+exl-id: 1713c576-5df6-424a-a90e-d615c38c751a
+source-git-commit: 1564d40acb9cd6c9e6bbf8496aac7a8076ba5b35
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
+# Mobile : impossible de se déconnecter et informations de profil d’utilisation manquantes
 
-# Mobile : impossible de se déconnecter et informations de profil utilisateur manquantes
-
-L’option de déconnexion de l’application mobile ne permet pas à certains utilisateurs de se déconnecter. Les pages de leur profil utilisateur apparaissent également vides et génèrent un message d’erreur.
+L’option de déconnexion de l’application mobile ne permet pas à certaines personnes de se déconnecter. De plus, les pages de leur profil d’utilisation apparaissent vides et génèrent un message d’erreur.
 
 _Premier signalement le vendredi 18 juillet 2024._
