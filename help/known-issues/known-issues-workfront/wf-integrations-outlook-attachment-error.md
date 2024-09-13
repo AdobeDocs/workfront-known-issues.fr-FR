@@ -4,18 +4,14 @@ description: 'Lorsqu’une personne tente de créer une requête à partir de l�
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Work Management
 exl-id: cd7e5de2-eb82-4cb6-a8e7-ed59b120fffd
-source-git-commit: 73c65fa752d5bf75f4ec03c18bc06930fc1f4a7b
+source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 90%
+source-wordcount: '107'
+ht-degree: 89%
 
 ---
 
 # Intégrations : erreur lors de la création d’une requête depuis Outlook
-
->[!NOTE]
->
->Ce problème a été résolu le vendredi 12 septembre 2024.
 
 Lorsqu’une personne tente de créer une requête à partir de l’intégration Workfront pour Microsoft Outlook et ajoute une pièce jointe : elle voit le message Une erreur s’est produite. Réessayez plus tard. »
 
