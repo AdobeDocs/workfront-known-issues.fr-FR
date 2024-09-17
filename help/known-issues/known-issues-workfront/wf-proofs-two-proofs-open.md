@@ -1,21 +1,25 @@
 ---
-title: "Bons à tirer : ouvrir un BAT ouvre plusieurs copies"
-description: '"Lorsqu’un utilisateur ouvre un BAT, deux onglets de navigateur s’ouvrent avec le même BAT.  »'
+title: '« Épreuves : l’ouverture d’une épreuve ouvre plusieurs copies. »'
+description: « Lorsqu’un utilisateur ou une utilisatrice ouvre une épreuve, deux onglets de navigateur s’ouvrent avec la même épreuve.  »
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 0a5eb31cd241a3ee5b878b71863ab3811d6b75ab
+exl-id: c09e199c-0b72-4791-930c-eed14dd2ffbf
+source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 8%
+source-wordcount: '66'
+ht-degree: 100%
 
 ---
 
+# Épreuves : l’ouverture d’une épreuve ouvre plusieurs copies.
 
-# Bons à tirer : l&#39;ouverture d&#39;un BAT ouvre plusieurs copies
+>[!NOTE]
+>
+>Ce problème a été résolu le mercredi 10 septembre 2024.
 
-Lorsqu’un utilisateur ouvre un BAT, deux onglets de navigateur s’ouvrent avec le même BAT.
+Lorsqu’un utilisateur ou une utilisatrice ouvre une épreuve, deux onglets de navigateur s’ouvrent avec la même épreuve.
 
-Ceci a été signalé lors de l’utilisation de Shell unifié.
+Cela a été signalé lors de l’utilisation d’Unified Shell.
 
 **Solution de contournement**
 

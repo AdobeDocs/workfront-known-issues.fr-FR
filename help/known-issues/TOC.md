@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
+source-git-commit: ae9a8c6a8186b240b5482f51a08565d222301843
 workflow-type: tm+mt
-source-wordcount: '1708'
-ht-degree: 100%
+source-wordcount: '1746'
+ht-degree: 97%
 
 ---
 
@@ -17,12 +17,17 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Affectations : l’affectation de tâche échoue et les autorisations héritées sont supprimées](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)
+      + [Groupes : l’état du groupe supprimé réapparaît](known-issues-workfront/wf-groups-deleted-status-reappears.md)
+      + [API : l’appel API échoue en raison d’une erreur SQL](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md)
+      + [Agile : l’option Ajouter à l’itération est répertoriée deux fois lors de l’attribution de l’équipe de crum](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md)
+      + [Bons à tirer : les utilisateurs actifs apparaissent comme désactivés](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md)
       + [Panoramas : impossible de prévisualiser ou de télécharger des documents à partir d’une carte](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md)
       + [Mobile : impossible de se déconnecter et informations de profil d’utilisation manquantes](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
       + [Panoramas : le statut de la carte ne correspond pas à l’objet connecté et contourne le filtre.](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
       + [Tableaux de bord : lorsque vous cliquez sur le bouton Exporter dans un rapport, la page remonte au début.](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)
       + [Workfront : la date s’affiche dans un format incorrect.](known-issues-workfront/wf-workfront-date-format-incorrect.md)
-      + [Notifications : les personnes contributrices ne reçoivent pas de notifications par e-mail.](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
+      + [Notifications : les personnes contributrices ne reçoivent pas de notifications par e-mail.](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md)
       + [Groupes : les sous-groupes ne s’affichent pas correctement.](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
       + [Workfront : impossible d’utiliser SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [Utilisateurs et utilisatrices : impossible de réactiver un utilisateur ou une utilisatrice](known-issues-workfront/wf-users-reactivate-user.md)
