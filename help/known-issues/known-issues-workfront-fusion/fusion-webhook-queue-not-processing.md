@@ -4,14 +4,18 @@ description: Lorsqu’un événement se produit et qu’il doit déclencher un s
 hidefromtoc: true
 feature: Workfront Fusion
 exl-id: 3388eaae-61cf-4a86-a946-925892c9633a
-source-git-commit: 1564d40acb9cd6c9e6bbf8496aac7a8076ba5b35
-workflow-type: ht
-source-wordcount: '68'
+source-git-commit: c94e9f4cbe23fe5f9e681eb672585dca237f0c79
+workflow-type: tm+mt
+source-wordcount: '74'
 ht-degree: 100%
 
 ---
 
 # Workfront Fusion : la file d’attente de webhook n’est pas traitée.
+
+>[!NOTE]
+>
+>Ce problème a été résolu le samedi 13 septembre 2024.
 
 Lorsqu’un événement se produit et qu’il doit déclencher un scénario de webhook dans Workfront Fusion, le scénario ne s’exécute pas et l’événement reste dans la file d’attente de webhooks.
 
