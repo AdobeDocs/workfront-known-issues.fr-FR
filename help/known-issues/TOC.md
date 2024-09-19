@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: ae9a8c6a8186b240b5482f51a08565d222301843
+source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1774'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Rapports : temps de chargement long du créateur de rapports](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
+      + [Rapports : impossible de faire défiler l’écran pour afficher l’intégralité du rapport de graphique](known-issues-workfront/wf-reports-unable-to-scroll.md)
       + [Affectations : l’affectation de tâche échoue et les autorisations héritées sont supprimées](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)
       + [Groupes : l’état du groupe supprimé réapparaît](known-issues-workfront/wf-groups-deleted-status-reappears.md)
       + [API : l’appel API échoue en raison d’une erreur SQL](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md)
@@ -198,6 +200,7 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [Problèmes connus dans  [!DNL Workfront Proof]](workfrontproof.md)
    + Problèmes actifs dans [!DNL Workfront Proof] {#proof-current}
+      + [Workfront Proof : le contenu ne se colle pas correctement dans la section Mises à jour de la visionneuse de vérification de l’appli de bureau](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md)
       + [[!UICONTROL Workfront Proof] : impossible de réorganiser les ressources lors de la création d’un BAT](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof] : horodatage incorrect sur le [!UICONTROL Résumé du BAT]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!DNL Workfront Proof] : impossible de développer le workflow](known-issues-workfront-proof/proof-cannot-view-workflow.md)

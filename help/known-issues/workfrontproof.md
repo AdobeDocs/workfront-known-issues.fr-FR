@@ -4,10 +4,10 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
+source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '432'
+ht-degree: 96%
 
 ---
 
@@ -38,6 +38,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Proof : le contenu ne se colle pas correctement dans la section Mises à jour de la visionneuse de vérification de l’appli de bureau](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md) | vendredi 19 septembre 2024 |
 | [Documents : impossible de prévisualiser les documents avec un lien d’aperçu](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | vendredi 15 août 2024 |
 | [Notifications : miniatures non visibles dans les notifications par e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | mardi 8 juillet 2024 |
 | [Impossible de créer une vue pour la liste Documents](known-issues-workfront/wf-documents-cannot-add-new-view.md) | mardi 15 juillet 2024 |

@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
+source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '5578'
+ht-degree: 99%
 
 ---
 
@@ -25,6 +25,32 @@ Pour connaître les mises à jour de maintenance antérieures à 2024, consultez
 Les mises à jour de maintenance suivantes ont été effectuées en 2024.
 
 ## Mises à jour de septembre 2024
+
++++**Mise à jour de maintenance le vendredi 19 septembre 2024**
+
+### Mise à jour de maintenance le vendredi 19 septembre 2024
+
+#### Tableaux de bord
+
+**La sélection du bouton Exporter dans un rapport fait défiler l’écran jusqu’en haut de la page**
+
+Lorsque vous cliquez sur le bouton Exporter d’un rapport dans un tableau de bord, la fenêtre remonte au début de la page. Cela nécessite de faire défiler vers le bas pour trouver le menu des options d’export ouvert.
+
++++
+
++++**Mise à jour de maintenance le vendredi 12 septembre 2024**
+
+### Mise à jour de maintenance le vendredi 12 septembre 2024
+
+#### Intégrations
+
+**Erreur lors de la création d’une demande depuis Outlook**
+
+Lorsqu’une personne tente de créer une requête à partir de l’intégration Workfront pour Microsoft Outlook et ajoute une pièce jointe : elle voit le message Une erreur s’est produite. Réessayez plus tard. »
+
+La requête est créée et contient un dossier pour les pièces jointes des e-mails, mais le dossier est vide et la pièce jointe n’a pas été ajoutée à la requête.
+
++++
 
 +++**Mise à jour de maintenance le vendredi 5 septembre 2024**
 

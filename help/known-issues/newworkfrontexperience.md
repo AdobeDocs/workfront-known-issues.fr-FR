@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 5346638be033d65ee86c7e991a70cea32fbbcc7f
+source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1048'
+ht-degree: 98%
 
 ---
 
@@ -25,13 +25,12 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Rapports : temps de chargement long du créateur de rapports](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | vendredi 19 septembre 2024 |
 | [API : l’appel API échoue en raison d’une erreur SQL](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | vendredi 12 septembre 2024 |
 | [Agile : l’option Ajouter à l’itération est répertoriée deux fois lors de l’affectation de l’équipe Scrum](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md) | vendredi 12 septembre 2024 |
 | [Épreuves : les utilisateurs et utilisatrices actifs apparaissent comme désactivés.](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md) | vendredi 12 septembre 2024 |
 | [Panoramas : impossible de prévisualiser ou de télécharger des documents à partir de la carte](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | 5 septembre 2024 |
-| [Mobile : impossible de se déconnecter et informations de profil utilisateur manquantes](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | 3 septembre 2024 |
 | [Panoramas : le statut de la carte ne correspond pas à l’objet connecté et contourne le filtre](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 3 septembre 2024 |
-| [Tableaux de bord : lorsque vous cliquez sur le bouton Exporter dans un rapport, la page remonte au début.](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md) | 3 septembre 2024 |
 | [Panoramas : la carte connectée est dans une colonne incorrecte.](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | jeudi 28 août 2024 |
 | [Workfront : impossible d’utiliser SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | mardi 26 août 2024 |
 | [Rapports : des remises de rapports sont retardées ou manquantes](known-issues-workfront/wf-reports-not-delivered.md). | mardi 26 août 2024 |
@@ -79,6 +78,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Rapports : impossible de faire défiler l’écran pour afficher l’intégralité du rapport de graphique](known-issues-workfront/wf-reports-unable-to-scroll.md) | vendredi 19 septembre 2024 |
 | [Workfront : plusieurs onglets du navigateur entraînent la déconnexion de Workfront.](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | jeudi 18 septembre 2024 |
 | [Formulaires personnalisés : champ calculé indiquant une valeur incorrecte](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | vendredi 12 septembre 2024 |
 | [Accueil : la page d’accueil se bloque avec une erreur de mémoire insuffisante.](known-issues-workfront/wf-home-crashes-with-error.md) | vendredi 12 septembre 2024 |
