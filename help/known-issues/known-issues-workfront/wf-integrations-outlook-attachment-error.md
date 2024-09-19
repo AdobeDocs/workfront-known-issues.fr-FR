@@ -1,13 +1,13 @@
 ---
-title: "Intégrations : erreur lors de la création d’une requête à partir d’Outlook"
-description: 'Lorsqu’une personne tente de créer une requête à partir de l’intégration Workfront pour Microsoft Outlook et ajoute une pièce jointe : elle voit le message Une erreur s’est produite. Essaie à nouveau plus tard.'
+title: '« Intégrations : erreur lors de la création d’une demande depuis Outlook »'
+description: 'Lorsqu’une personne tente de créer une requête à partir de l’intégration Workfront pour Microsoft Outlook et ajoute une pièce jointe : elle voit le message Une erreur s’est produite. Réessayez plus tard.'
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Work Management
 exl-id: cd7e5de2-eb82-4cb6-a8e7-ed59b120fffd
 source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 90%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
