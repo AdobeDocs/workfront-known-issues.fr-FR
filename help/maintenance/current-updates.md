@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
+source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
 workflow-type: tm+mt
-source-wordcount: '5578'
-ht-degree: 99%
+source-wordcount: '5723'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,30 @@ Pour connaître les mises à jour de maintenance antérieures à 2024, consultez
 Les mises à jour de maintenance suivantes ont été effectuées en 2024.
 
 ## Mises à jour de septembre 2024
+
++++**Mise à jour de maintenance le vendredi 26 septembre 2024**
+
+### Mise à jour de maintenance le vendredi 26 septembre 2024
+
+#### Agile
+
+**L&#39;option Ajouter à l&#39;itération est répertoriée deux fois lors de l&#39;affectation de l&#39;équipe de crum**
+
+Lors de l’affectation d’une tâche ou d’un problème à une équipe de travail agile, l’option Ajouter à l’itération s’affiche deux fois dans le menu Plus. Cela n’a aucune incidence sur la capacité d’affecter l’équipe et n’apparaît pas pour les équipes agiles non Scrum.
+
+#### Formulaires personnalisés
+
+**Liste de champs de l’éditeur de calcul limitée à 200 éléments**
+
+Dans l’éditeur de calcul pour les champs calculés sur les formulaires personnalisés, la liste de champs d’un objet est désormais limitée à 200 éléments afin d’améliorer les performances du système. Si vous connaissez le nom du champ, vous pouvez le rechercher à l’aide de l’option de saisie anticipée au lieu de parcourir la liste.
+
+#### Rapports
+
+**Des remises de rapports sont retardées ou manquantes.**
+
+Des rapports avec des remises planifiées ne sont pas remis comme prévu. Ils peuvent être retardés voire ne pas être remis.
+
++++
 
 +++**Mise à jour de maintenance le vendredi 19 septembre 2024**
 

@@ -4,22 +4,18 @@ description: Lorsqu’un utilisateur ou une utilisatrice consulte une carte pour
 hidefromtoc: true
 feature: Agile
 exl-id: 542514fa-6144-475a-a541-e02c392eb302
-source-git-commit: 32bed5a9c917cab2cc3a6ccd1065f38c074ca917
-workflow-type: ht
-source-wordcount: '88'
+source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
+workflow-type: tm+mt
+source-wordcount: '94'
 ht-degree: 100%
 
 ---
 
 # Panoramas : la carte n’inclut pas de sous-tâches
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on August 8, 2024.
-
--->
+>Ce problème a été résolu le mercredi 24 septembre 2024.
 
 Lorsqu’un utilisateur ou une utilisatrice consulte une carte pour une tâche qui est une tâche parent, les sous-tâches de cette tâche parent ne s’affichent pas sur la carte. À la place, la carte indique qu’il y a 0 sous-tâche.
 
