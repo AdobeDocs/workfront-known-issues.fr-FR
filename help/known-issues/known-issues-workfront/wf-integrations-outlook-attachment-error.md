@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Workfront Integrations and Apps, Work Management
 exl-id: cd7e5de2-eb82-4cb6-a8e7-ed59b120fffd
 source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '113'
+ht-degree: 100%
 
 ---
 
