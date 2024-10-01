@@ -1,18 +1,18 @@
 ---
-title: "Panoramas : erreur lors du déplacement de cartes ou de l’attribution d’utilisateurs"
-description: "Lors du déplacement de cartes ou de l’affectation d’utilisateurs, parfois l’action ne passe pas et génère à la place l’erreur Réponse non réussie : Code d’état reçu 502 après un délai."
+title: '« Panoramas : erreur lors d’un déplacement de cartes ou de l’affectation d’utilisateurs et d’utilisatrices »'
+description: '« Lors d’un déplacement de cartes ou de l’affectation d’utilisateurs et d’utilisatrices, il arrive que l’action ne se réalise pas et génère à la place l’erreur Échec de la réponse : Code d’état 502 reçu après un délai. »'
 hidefromtoc: true
 feature: Agile
 source-git-commit: b9206238976884e19b286d3a401ec32b58c144a4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# Panoramas : erreur lors du déplacement de cartes ou de l’attribution d’utilisateurs
+# Panoramas : erreur lors d’un déplacement de cartes ou de l’affectation d’utilisateurs et d’utilisatrices
 
-Lors du déplacement de cartes ou de l’affectation d’utilisateurs, parfois l’action ne passe pas et génère à la place l’erreur &quot;Réponse non réussie : code d’état reçu 502&quot; après un délai.
+Lors d’un déplacement de cartes ou de l’affectation d’utilisateurs et d’utilisatrices, il arrive que l’action ne se réalise pas et génère à la place l’erreur Échec de la réponse : Code d’état 502 reçu après un délai.
 
 _Premier signalement le samedi 13 septembre 2024._
