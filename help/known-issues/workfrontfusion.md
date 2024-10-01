@@ -7,7 +7,7 @@ feature: Workfront Fusion
 source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 88%
+ht-degree: 93%
 
 ---
 
@@ -39,7 +39,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Fusion Workfront : impossible d’ajouter ou de supprimer des utilisateurs de Workfront Fusion](known-issues-workfront-fusion/fusion-cannot-manage-users.md) | mercredi 24 septembre 2024 |
+| [Workfront Fusion : impossible d’ajouter ou de supprimer des utilisateurs et des utilisatrices dans Workfront Fusion](known-issues-workfront-fusion/fusion-cannot-manage-users.md) | mercredi 24 septembre 2024 |
 
 {style="table-layout:auto"}
 

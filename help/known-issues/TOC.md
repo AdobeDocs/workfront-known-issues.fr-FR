@@ -5,7 +5,7 @@ role: User
 source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
 workflow-type: tm+mt
 source-wordcount: '1804'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
-      + [Panoramas : erreur lors du déplacement de cartes ou de l’attribution d’utilisateurs](known-issues-workfront/wf-boards-error-moving-cards.md)
-      + [Rapports : temps de chargement long du créateur de rapports](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
-      + [Rapports : impossible de faire défiler l’écran pour afficher l’intégralité du rapport de graphique](known-issues-workfront/wf-reports-unable-to-scroll.md)
+      + [Panoramas : erreur lors d’un déplacement de cartes ou de l’affectation d’utilisateurs et d’utilisatrices](known-issues-workfront/wf-boards-error-moving-cards.md)
+      + [Rapports : les temps de chargement de Report Builder sont longs.](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
+      + [Rapports : impossible de faire défiler l’écran pour afficher l’intégralité d’un rapport de graphique](known-issues-workfront/wf-reports-unable-to-scroll.md)
       + [Affectations : l’affectation de tâche échoue et les autorisations héritées sont supprimées](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)
       + [Groupes : l’état du groupe supprimé réapparaît](known-issues-workfront/wf-groups-deleted-status-reappears.md)
       + [API : l’appel API échoue en raison d’une erreur SQL](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md)
@@ -201,7 +201,7 @@ ht-degree: 96%
 + [!DNL Workfront Proof] {#proof}
    + [Problèmes connus dans  [!DNL Workfront Proof]](workfrontproof.md)
    + Problèmes actifs dans [!DNL Workfront Proof] {#proof-current}
-      + [Workfront Proof : le contenu ne se colle pas correctement dans la section Mises à jour de la visionneuse de vérification de l’appli de bureau](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md)
+      + [Workfront Proof : le contenu n’est pas collé correctement dans la section Mises à jour de la visionneuse de relecture de bureau.](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md)
       + [[!UICONTROL Workfront Proof] : impossible de réorganiser les ressources lors de la création d’un BAT](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof] : horodatage incorrect sur le [!UICONTROL Résumé du BAT]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!DNL Workfront Proof] : impossible de développer le workflow](known-issues-workfront-proof/proof-cannot-view-workflow.md)
@@ -229,7 +229,7 @@ ht-degree: 96%
    + Problèmes actifs dans [!DNL Workfront Fusion] {#fusion-current}
       + [Workfront Fusion : problèmes liés à l’entrepôt de données](known-issues-workfront-fusion/fusion-data-store-issues.md)
       + [Fusion Workfront : les détails de l’exécution s’affichent en tant que traitement](known-issues-workfront-fusion/fusion-execution-details-display-processing.md)
-      + [Workfront Fusion : impossible d’ajouter ou de supprimer des utilisateurs de Workfront Fusion](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
+      + [Workfront Fusion : impossible d’ajouter ou de supprimer des utilisateurs et des utilisatrices dans Workfront Fusion](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
       + [Workfront Fusion : la file d’attente de webhook n’est pas traitée.](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md)
       + [Workfront Fusion : 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
       + [Workfront Fusion : le champ est absent du module](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)

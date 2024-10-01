@@ -56,7 +56,7 @@ Des rapports avec des remises planifiées ne sont pas remis comme prévu. Ils pe
 
 #### Tableaux de bord
 
-**La sélection du bouton Exporter dans un rapport fait défiler l’écran jusqu’en haut de la page**
+**Lorsque le bouton Exporter est sélectionné dans un rapport, la page remonte tout en haut.**
 
 Lorsque vous cliquez sur le bouton Exporter d’un rapport dans un tableau de bord, la fenêtre remonte au début de la page. Cela nécessite de faire défiler vers le bas pour trouver le menu des options d’export ouvert.
 
