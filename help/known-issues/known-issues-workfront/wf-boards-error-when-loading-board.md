@@ -1,22 +1,26 @@
 ---
-title: "Panoramas : erreur lors du chargement d’un panorama"
-description: "Lorsqu’un utilisateur tente de charger un panorama, celui-ci ne se charge pas et un message d’erreur s’affiche."
+title: '« Panoramas : erreur lors du chargement d’un panorama »'
+description: Lorsqu’un utilisateur ou une utilisatrice tente de charger un panorama, celui-ci ne se charge pas et un message d’erreur s’affiche.
 hidefromtoc: true
 feature: Agile
-source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
+exl-id: 5ba4609f-9ad1-4fda-af28-913286acc327
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 26%
+source-wordcount: '90'
+ht-degree: 100%
 
 ---
 
+# Panoramas : erreur lors du chargement d’un panorama
 
-# Panoramas : erreur lors du chargement d’un panorama
+>[!NOTE]
+>
+>Ce problème a été résolu le vendredi 3 octobre 2024.
 
-Lorsqu’un utilisateur tente de charger un panorama, celui-ci ne se charge pas et le message suivant s’affiche :
+Lorsqu’un utilisateur ou une utilisatrice tente de charger un panorama, celui-ci ne se charge pas et le message d’erreur suivant s’affiche :
 
-&quot;[!UICONTROL Erreur lors du chargement de la carte]&quot;
+« [!UICONTROL Erreur lors du chargement du panorama] »
 
-&quot;[!UICONTROL Un problème s’est produit lors du chargement de ce panorama. Actualisez la page pour réessayer ou contactez l’assistance en indiquant l’identifiant de l’erreur si le problème persiste.] »
+« [!UICONTROL Un problème s’est produit lors du chargement de ce panorama. Actualisez la page pour réessayer ou contactez l’assistance en indiquant l’identifiant de l’erreur si le problème persiste.] »
 
 _Premier signalement le vendredi 27 juin 2024._

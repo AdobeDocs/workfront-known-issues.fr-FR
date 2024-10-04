@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
-source-wordcount: '5723'
-ht-degree: 98%
+source-wordcount: '5906'
+ht-degree: 97%
 
 ---
 
@@ -23,6 +23,47 @@ Ces mises à jour incluent également d’autres correctifs mineurs ou moins con
 Pour connaître les mises à jour de maintenance antérieures à 2024, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates).
 
 Les mises à jour de maintenance suivantes ont été effectuées en 2024.
+
+## Mises à jour d’octobre 2024
+
++++**Mise à jour de maintenance le vendredi 3 octobre 2024**
+
+### Mise à jour de maintenance le 3 octobre 2024
+
+#### Panneaux
+
+**Cartes connectées archivées non synchronisées**
+
+Pour résoudre les problèmes de performances, les cartes connectées qui sont archivées ne sont plus synchronisées. Les modifications apportées à la tâche ou au problème Workfront ne sont pas répercutées sur les cartes archivées. Si vous restaurez une carte, elle sera à nouveau synchronisée.
+
+#### Formulaires personnalisés
+
+**Erreur de conversion de type d&#39;affichage sur les formulaires personnalisés**
+
+Les champs de texte enrichi provoquent l’affichage d’une erreur sur les formulaires personnalisés :
+
+« Erreur : les conversions de type d’affichage entre le texte et le texte enrichi ne sont pas autorisées. »
+
+Cela peut se produire dans les cas suivants :
+
+* La personne commence à modifier les formulaires, mais le fait de cliquer sur Appliquer n’apporte aucune modification.
+* La personne crée un formulaire personnalisé.
+
+Dans les deux cas, les champs de texte enrichi provoquent des problèmes.
+
+#### Notifications
+
+**Les utilisateurs contributeurs ne reçoivent pas de notifications par courrier électronique**
+
+Les personnes disposant d’une licence de contributeur ou contributrice ne reçoivent pas d’e-mails de notification. Cela peut avoir une incidence sur les e-mails de notification instantanée et les e-mails de synthèse quotidienne.
+
+#### Épreuves
+
+**Les signatures électroniques ne peuvent pas être ajoutées lors de l’utilisation de SSO pour le BAT**
+
+Lors de l’utilisation de l’authentification unique pour se connecter à BAT, les utilisateurs ne peuvent pas définir de bon à tirer pour exiger des signatures électroniques.
+
++++
 
 ## Mises à jour de septembre 2024
 

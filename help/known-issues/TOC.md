@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
-source-wordcount: '1804'
-ht-degree: 99%
+source-wordcount: '1845'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Se connecter en tant que redirige vers la connexion ou provoque une erreur](known-issues-workfront/wf-login-as-redirects-to-login.md)
+      + [Accueil : &quot;Marquer comme terminé&quot; ferme le volet de résumé du widget Mes problèmes](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
+      + [Projets : impossible de partager des projets en raison d’une erreur &quot;accès à la suppression&quot;.](known-issues-workfront/wf-projects-sharing-access-error.md)
+      + [Bons à tirer : la création d’un BAT échoue pour les documents liés à partir d’AEM via Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md)
       + [Panoramas : erreur lors d’un déplacement de cartes ou de l’affectation d’utilisateurs et d’utilisatrices](known-issues-workfront/wf-boards-error-moving-cards.md)
       + [Rapports : les temps de chargement de Report Builder sont longs.](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
       + [Rapports : impossible de faire défiler l’écran pour afficher l’intégralité d’un rapport de graphique](known-issues-workfront/wf-reports-unable-to-scroll.md)

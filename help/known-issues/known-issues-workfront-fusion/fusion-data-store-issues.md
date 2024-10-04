@@ -3,15 +3,19 @@ title: "Workfront Fusion : problèmes liés à Data Store"
 description: "Les problèmes suivants ont été signalés concernant les champs booléens dans les entrepôts de données : les entrepôts de données ne renvoient aucune valeur pour les champs dont la valeur est EMPTY et les utilisateurs ne peuvent pas définir les valeurs sur FALSE directement dans l’entrepôt de données."
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 5%
+source-wordcount: '106'
+ht-degree: 10%
 
 ---
 
 
 # Workfront Fusion : problèmes liés à l’entrepôt de données
+
+>[!NOTE]
+>
+>Ce problème a été résolu le vendredi 26 septembre 2024.
 
 Les problèmes suivants ont été signalés concernant les champs booléens dans les entrepôts de données :
 
