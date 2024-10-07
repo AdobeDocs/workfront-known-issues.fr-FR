@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
 source-wordcount: '5906'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -73,15 +73,15 @@ Lors de l’utilisation de l’authentification unique pour se connecter à BAT,
 
 #### Agile
 
-**L&#39;option Ajouter à l&#39;itération est répertoriée deux fois lors de l&#39;affectation de l&#39;équipe de crum**
+**L’option Ajouter à l’itération est répertoriée deux fois lors de l’affectation de l’équipe Scrum.**
 
 Lors de l’affectation d’une tâche ou d’un problème à une équipe de travail agile, l’option Ajouter à l’itération s’affiche deux fois dans le menu Plus. Cela n’a aucune incidence sur la capacité d’affecter l’équipe et n’apparaît pas pour les équipes agiles non Scrum.
 
 #### Formulaires personnalisés
 
-**Liste de champs de l’éditeur de calcul limitée à 200 éléments**
+**Liste de champs de l’éditeur de calcul limitée à 200 éléments**
 
-Dans l’éditeur de calcul pour les champs calculés sur les formulaires personnalisés, la liste de champs d’un objet est désormais limitée à 200 éléments afin d’améliorer les performances du système. Si vous connaissez le nom du champ, vous pouvez le rechercher à l’aide de l’option de saisie anticipée au lieu de parcourir la liste.
+Dans l’éditeur de calcul pour les champs calculés sur les formulaires personnalisés, la liste de champs d’un objet est désormais limitée à 200 éléments afin d’améliorer les performances du système. Si vous connaissez le nom du champ, vous pouvez le rechercher à l’aide de l’option de tirage anticipé au lieu de parcourir la liste.
 
 #### Rapports
 
