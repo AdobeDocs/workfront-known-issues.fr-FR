@@ -4,7 +4,7 @@ description: « Lors de l’affectation d’une tâche ou d’un problème à u
 hidefromtoc: true
 feature: Agile
 source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '112'
 ht-degree: 100%
 

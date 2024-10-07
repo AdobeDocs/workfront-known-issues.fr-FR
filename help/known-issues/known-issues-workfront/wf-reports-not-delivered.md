@@ -1,13 +1,13 @@
 ---
-title: "Rapports : les diffusions des rapports sont retardées ou manquantes"
+title: '« Rapports : des diffusions de rapports sont retardées ou manquantes. »'
 description: Des rapports avec des remises planifiées ne sont pas remis comme prévu. Ils peuvent être retardés voire ne pas être remis.
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 91d2561d-8edf-462b-8a36-beb727de064b
 source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
