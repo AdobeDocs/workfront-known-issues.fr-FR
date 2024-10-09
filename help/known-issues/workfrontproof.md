@@ -4,10 +4,10 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
 workflow-type: tm+mt
-source-wordcount: '430'
-ht-degree: 97%
+source-wordcount: '440'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Mobile : les liens d’e-mail de BAT ne s’ouvriront pas sur iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | jeudi 9 octobre 2024 |
 | [Bons à tirer : la création d’un BAT échoue pour les documents liés à partir d’AEM via Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | vendredi 3 octobre 2024 |
 | [Agile : le storyboard se vide lors de l’ajout d’une sous-tâche.](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | samedi 26 juillet 2024 |
 | [Épreuves : l’ouverture d’une épreuve ouvre plusieurs copies.](known-issues-workfront/wf-proofs-two-proofs-open.md) | vendredi 25 juillet 2024 |
