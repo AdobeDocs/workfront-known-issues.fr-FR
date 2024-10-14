@@ -1,13 +1,13 @@
 ---
-title: "Configuration : problèmes lors de la déconnexion en tant qu’autre utilisateur"
-description: Lorsqu’un administrateur est connecté en tant qu’autre utilisateur et tente de se déconnecter, des problèmes peuvent se produire.
+title: '« Configuration : problèmes lors de la déconnexion en tant qu’autre utilisateur ou utilisatrice »'
+description: Lorsqu’un administrateur ou une administratrice se connecte en tant qu’autre utilisateur ou utilisatrice et tente de se déconnecter, des problèmes peuvent se produire.
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 722f58b5-7fce-401d-8ae4-8c1522cfde6e
 source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 

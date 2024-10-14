@@ -5,9 +5,9 @@ keywords: nouveau fichier, ajouter un fichier
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
 source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '185'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Bons à tirer : la création d’un BAT échoue pour les documents liés à partir d’AEM via Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | vendredi 3 octobre 2024 |
+| [Épreuves : la création d’une épreuve échoue pour les documents liés à partir d’AEM via Fusion.](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | vendredi 3 octobre 2024 |
 | [Workfront Fusion : la file d’attente de webhooks n’est pas traitée.](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md) | vendredi 19 septembre 2024 |
 | [API : des requêtes dépassent leur délai d’expiration.](known-issues-workfront/wf-api-request-timing-out.md) | mardi 5 août 2024 |
 

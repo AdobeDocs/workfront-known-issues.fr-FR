@@ -4,9 +4,9 @@ description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '5906'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2024.
 
 +++**Mise à jour de maintenance le vendredi 3 octobre 2024**
 
-### Mise à jour de maintenance le 3 octobre 2024
+### Mise à jour de maintenance le 3 octobre 2024
 
 #### Panneaux
 
@@ -38,7 +38,7 @@ Pour résoudre les problèmes de performances, les cartes connectées qui sont a
 
 #### Formulaires personnalisés
 
-**Erreur de conversion de type d&#39;affichage sur les formulaires personnalisés**
+**Erreur de conversion de type d’affichage sur les formulaires personnalisés**
 
 Les champs de texte enrichi provoquent l’affichage d’une erreur sur les formulaires personnalisés :
 
@@ -53,15 +53,15 @@ Dans les deux cas, les champs de texte enrichi provoquent des problèmes.
 
 #### Notifications
 
-**Les utilisateurs contributeurs ne reçoivent pas de notifications par courrier électronique**
+**Les personnes contributrices ne reçoivent pas de notifications par e-mail.**
 
 Les personnes disposant d’une licence de contributeur ou contributrice ne reçoivent pas d’e-mails de notification. Cela peut avoir une incidence sur les e-mails de notification instantanée et les e-mails de synthèse quotidienne.
 
 #### Épreuves
 
-**Les signatures électroniques ne peuvent pas être ajoutées lors de l’utilisation de SSO pour le BAT**
+**Les signatures électroniques ne peuvent pas être ajoutées lors de l’utilisation du SSO pour Workfront Proof.**
 
-Lors de l’utilisation de l’authentification unique pour se connecter à BAT, les utilisateurs ne peuvent pas définir de bon à tirer pour exiger des signatures électroniques.
+Lors de l’utilisation de l’authentification SSO pour se connecter à Workfront Proof, les personnes ne peuvent pas définir d’épreuve pour exiger des signatures électroniques.
 
 +++
 

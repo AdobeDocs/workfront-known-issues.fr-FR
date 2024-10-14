@@ -1,13 +1,13 @@
 ---
-title: "Formulaires personnalisés : le navigateur se bloque lors de la création de formulaires volumineux"
+title: '« Formulaires personnalisés : crash du navigateur lors de la création de formulaires volumineux »'
 description: Lorsqu’un utilisateur ou une utilisatrice crée ou modifie un formulaire volumineux dans le créateur de formulaires, cela peut provoquer un crash du navigateur et l’utilisateur ou l’utilisatrice se voit dans l’impossibilité de créer ou de modifier le formulaire.
 hidefromtoc: true
 feature: Custom Forms
 exl-id: 8be2ce6c-7440-4b08-a62e-dbc41ef8d4a3
 source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 

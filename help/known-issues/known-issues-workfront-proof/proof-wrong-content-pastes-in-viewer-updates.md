@@ -4,7 +4,7 @@ description: « Lorsque du contenu est collé dans la section Mises à jour d�
 hidefromtoc: true
 feature: Workfront Proof
 source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
 ht-degree: 100%
 
