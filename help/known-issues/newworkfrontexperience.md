@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
 workflow-type: tm+mt
 source-wordcount: '1087'
-ht-degree: 92%
+ht-degree: 96%
 
 ---
 
@@ -52,10 +52,10 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
-| [Connexion En tant que redirige vers la connexion ou provoque une erreur](known-issues-workfront/wf-login-as-redirects-to-login.md) | vendredi 3 octobre 2024 |
-| [Accueil : &quot;Marquer comme terminé&quot; ferme le volet de résumé du widget Mes problèmes](known-issues-workfront/wf-home-mark-as-done-closes-summary.md) | vendredi 3 octobre 2024 |
-| [Projets : impossible de partager des projets en raison de l’erreur &quot;accès à la suppression&quot;](known-issues-workfront/wf-projects-sharing-access-error.md) | vendredi 3 octobre 2024 |
-| [Bons à tirer : la création d’un BAT échoue pour les documents liés à partir d’AEM via Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | vendredi 3 octobre 2024 |
+| [Se connecter en tant que redirige vers la connexion ou provoque une erreur.](known-issues-workfront/wf-login-as-redirects-to-login.md) | vendredi 3 octobre 2024 |
+| [Accueil : Marquer comme terminé ferme le volet de résumé du widget Mes problèmes.](known-issues-workfront/wf-home-mark-as-done-closes-summary.md) | vendredi 3 octobre 2024 |
+| [Projets : impossible de partager des projets en raison d’une erreur « Accès à la suppression »](known-issues-workfront/wf-projects-sharing-access-error.md) | vendredi 3 octobre 2024 |
+| [Épreuves : la création d’une épreuve échoue pour les documents liés à partir d’AEM via Fusion.](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | vendredi 3 octobre 2024 |
 | [Formulaires personnalisés : erreur de conversion de type d’affichage sur les formulaires personnalisés](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | vendredi 3 octobre 2024 |
 | [Intégrations : impossible de se connecter à Workfront pour Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | mercredi 24 septembre 2024 |
 | [Groupes : le statut du groupe supprimé réapparaît](known-issues-workfront/wf-groups-deleted-status-reappears.md) | vendredi 12 septembre 2024 |

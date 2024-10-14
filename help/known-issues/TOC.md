@@ -5,7 +5,7 @@ role: User
 source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
 workflow-type: tm+mt
 source-wordcount: '1888'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -21,10 +21,10 @@ ht-degree: 95%
       + [Panoramas : options d’état de duplication pour les tâches et les problèmes](known-issues-workfront/wf-boards-duplicate-status-options.md)
       + [Accueil : les champs personnalisés supprimés persistent dans les widgets de projet, de tâche et de problème.](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
       + [Priorités : les groupes empêchent le tri et la modification en ligne.](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
-      + [Se connecter en tant que redirige vers la connexion ou provoque une erreur](known-issues-workfront/wf-login-as-redirects-to-login.md)
-      + [Accueil : &quot;Marquer comme terminé&quot; ferme le volet de résumé du widget Mes problèmes](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
-      + [Projets : impossible de partager des projets en raison d’une erreur &quot;accès à la suppression&quot;.](known-issues-workfront/wf-projects-sharing-access-error.md)
-      + [Bons à tirer : la création d’un BAT échoue pour les documents liés à partir d’AEM via Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md)
+      + [Se connecter en tant que redirige vers la connexion ou provoque une erreur.](known-issues-workfront/wf-login-as-redirects-to-login.md)
+      + [Accueil : Marquer comme terminé ferme le volet de résumé du widget Mes problèmes.](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
+      + [Projets : impossible de partager des projets en raison d’une erreur « Accès à la suppression »](known-issues-workfront/wf-projects-sharing-access-error.md)
+      + [Épreuves : la création d’une épreuve échoue pour les documents liés à partir d’AEM via Fusion.](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md)
       + [Panoramas : erreur lors d’un déplacement de cartes ou de l’affectation d’utilisateurs et d’utilisatrices](known-issues-workfront/wf-boards-error-moving-cards.md)
       + [Rapports : les temps de chargement de Report Builder sont longs.](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
       + [Rapports : impossible de faire défiler l’écran pour afficher l’intégralité d’un rapport de graphique](known-issues-workfront/wf-reports-unable-to-scroll.md)

@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
 workflow-type: tm+mt
 source-wordcount: '440'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -26,7 +26,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
 | [Workfront Mobile : les liens d’e-mail de BAT ne s’ouvriront pas sur iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | jeudi 9 octobre 2024 |
-| [Bons à tirer : la création d’un BAT échoue pour les documents liés à partir d’AEM via Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | vendredi 3 octobre 2024 |
+| [Épreuves : la création d’une épreuve échoue pour les documents liés à partir d’AEM via Fusion.](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | vendredi 3 octobre 2024 |
 | [Agile : le storyboard se vide lors de l’ajout d’une sous-tâche.](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | samedi 26 juillet 2024 |
 | [Épreuves : l’ouverture d’une épreuve ouvre plusieurs copies.](known-issues-workfront/wf-proofs-two-proofs-open.md) | vendredi 25 juillet 2024 |
 | [Intégrations : lier un dossier depuis  [!DNL Google Drive]  ne lie pas les ressources dans le dossier.](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | mercredi 25 juin 2024 |
