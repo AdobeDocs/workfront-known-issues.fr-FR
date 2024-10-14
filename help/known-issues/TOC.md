@@ -2,9 +2,9 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
+source-git-commit: 0ab00df7f9b96ce840139a852345c3f9fff0ebe8
 workflow-type: tm+mt
-source-wordcount: '1888'
+source-wordcount: '1898'
 ht-degree: 97%
 
 ---
@@ -236,6 +236,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problèmes connus dans Workfront Fusion](workfrontfusion.md)
    + Problèmes actifs dans [!DNL Workfront Fusion] {#fusion-current}
+      + [Fusion Workfront : commencer à définir &quot;À partir de maintenant&quot; pour traiter toutes les données](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
       + [Workfront Fusion : problèmes liés à l’entrepôt de données](known-issues-workfront-fusion/fusion-data-store-issues.md)
       + [Workfront Fusion : les détails de l’exécution s’affichent en tant que traitement.](known-issues-workfront-fusion/fusion-execution-details-display-processing.md)
       + [Workfront Fusion : impossible d’ajouter ou de supprimer des utilisateurs et des utilisatrices dans Workfront Fusion](known-issues-workfront-fusion/fusion-cannot-manage-users.md)

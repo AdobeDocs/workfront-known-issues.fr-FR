@@ -4,8 +4,8 @@ description: Lorsqu’un utilisateur ou une utilisatrice tente de charger un pan
 hidefromtoc: true
 feature: Agile
 exl-id: 5ba4609f-9ad1-4fda-af28-913286acc327
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
-workflow-type: ht
+source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
+workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Ce problème a été résolu le vendredi 3 octobre 2024.
+>Ce problème a été résolu le vendredi 10 octobre 2024.
 
 Lorsqu’un utilisateur ou une utilisatrice tente de charger un panorama, celui-ci ne se charge pas et le message d’erreur suivant s’affiche :
 

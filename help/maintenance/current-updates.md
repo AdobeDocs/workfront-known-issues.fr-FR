@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
-workflow-type: ht
-source-wordcount: '5906'
-ht-degree: 100%
+source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
+workflow-type: tm+mt
+source-wordcount: '6157'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,49 @@ Pour connaître les mises à jour de maintenance antérieures à 2024, consultez
 Les mises à jour de maintenance suivantes ont été effectuées en 2024.
 
 ## Mises à jour d’octobre 2024
+
++++**Mise à jour de maintenance le vendredi 10 octobre 2024**
+
+### Mise à jour de maintenance le vendredi 10 octobre 2024
+
+#### Panneaux
+
+**Erreur lors du déplacement de cartes ou de l’affectation d’utilisateurs**
+
+Lors d’un déplacement de cartes ou de l’affectation d’utilisateurs et d’utilisatrices, il arrive que l’action ne se réalise pas et génère à la place l’erreur Échec de la réponse : Code d’état 502 reçu après un délai.
+
+**Erreur lors du chargement d’un panorama**
+
+Lorsqu’un utilisateur ou une utilisatrice tente de charger un panorama, celui-ci ne se charge pas et le message d’erreur suivant s’affiche :
+
+&quot;Erreur de chargement du panorama&quot;
+
+&quot;Un problème s’est produit lors du chargement de ce panorama. Actualisez la page pour réessayer ou contactez le support technique avec l’ID d’erreur ci-dessous si le problème persiste.&quot;
+
+#### Page d’accueil
+
+**&quot;Marquer comme terminé&quot; ferme le volet de résumé du widget Mes problèmes**
+
+Lorsque vous essayez d’utiliser le bouton « Marquer comme terminé » dans le volet de résumé d’un problème ouvert via le widget Mes problèmes, le volet de résumé se ferme inopinément.
+
+**Les paramètres du widget Modèle de mise en page ne parviennent pas à ajouter la colonne**
+
+Lorsque vous sélectionnez un champ à ajouter à un widget par le biais des paramètres du widget Modèle de mise en page , un champ peut être sélectionné, mais la colonne correspondante n’apparaît pas dans le widget.
+
+#### Tâches
+
+**Problèmes avec le recalcul de la chronologie**
+
+Les problèmes suivants liés au recalcul de la chronologie ont été signalés :
+
+* Lors d’une mise à jour de la durée d’une chronologie de tâche, le système prend beaucoup de temps pour recalculer.
+* Une fois le recalcul terminé, les dates peuvent rester désactivées ou se désactiver, comme si le recalcul de la chronologie était toujours en cours.
+
+**Dépenses de tâche non affichées**
+
+Après avoir ajouté une dépense à une tâche, la dépense n&#39;apparaît pas dans les informations de la tâche malgré la confirmation de l&#39;API qu&#39;elle a été saisie.
+
++++
 
 +++**Mise à jour de maintenance le vendredi 3 octobre 2024**
 

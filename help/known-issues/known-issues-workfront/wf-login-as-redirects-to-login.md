@@ -3,15 +3,19 @@ title: « Se connecter en tant que redirige vers la connexion ou provoque une e
 description: « Lorsqu’elle tente d’utiliser la fonction Se connecter en tant que dans un environnement de prévisualisation ou de sandbox, la personne est redirigée vers la page de connexion ou une erreur s’affiche. »
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
-workflow-type: ht
-source-wordcount: '70'
+source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
+workflow-type: tm+mt
+source-wordcount: '76'
 ht-degree: 100%
 
 ---
 
 
 # Se connecter en tant que redirige vers la connexion ou provoque une erreur.
+
+>[!NOTE]
+>
+>Ce problème a été résolu le vendredi 10 octobre 2024.
 
 Lorsqu’elle tente d’utiliser la fonction Se connecter en tant que dans un environnement de prévisualisation ou de sandbox, la personne est redirigée vers la page de connexion ou une erreur s’affiche.
 

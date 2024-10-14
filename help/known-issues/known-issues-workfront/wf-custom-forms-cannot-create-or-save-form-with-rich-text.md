@@ -1,17 +1,21 @@
 ---
-title: '« Formulaires personnalisés : erreur de conversion de type d’affichage sur les formulaires personnalisés »'
-description: « Les champs de texte enrichi provoquent l’affichage d’une erreur sur les formulaires personnalisés. »
+title: "Formulaires personnalisés : erreur de conversion de type d’affichage sur les formulaires personnalisés"
+description: Les champs de texte enrichi provoquent l’affichage d’une erreur sur les formulaires personnalisés.
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
-workflow-type: ht
-source-wordcount: '97'
-ht-degree: 100%
+exl-id: 60fc4472-292d-4910-8cde-1d39d8e8a1c8
+source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
+workflow-type: tm+mt
+source-wordcount: '103'
+ht-degree: 79%
 
 ---
 
-
 # Formulaires personnalisés : erreur de conversion de type d’affichage sur les formulaires personnalisés
+
+>[!NOTE]
+>
+>Ce problème a été résolu le jeudi 9 octobre 2024.
 
 Les champs de texte enrichi provoquent l’affichage d’une erreur sur les formulaires personnalisés :
 

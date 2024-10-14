@@ -1,17 +1,21 @@
 ---
-title: '« Tâches : problèmes liés au recalcul de la chronologie »'
-description: « Les problèmes suivants liés au recalcul de la chronologie ont été signalés. »
+title: "Tâches : problèmes avec le recalcul de la chronologie"
+description: Les problèmes suivants ont été signalés concernant le recalcul de la chronologie.
 hidefromtoc: true
 feature: Tasks, Work Management
-source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
-workflow-type: ht
-source-wordcount: '70'
-ht-degree: 100%
+exl-id: 43211889-8c49-4f40-adca-2a2922c5b8dc
+source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
+workflow-type: tm+mt
+source-wordcount: '76'
+ht-degree: 81%
 
 ---
 
-
 # Tâches : problèmes liés au recalcul de la chronologie
+
+>[!NOTE]
+>
+>Ce problème a été résolu le vendredi 10 octobre 2024.
 
 Les problèmes suivants liés au recalcul de la chronologie ont été signalés :
 
