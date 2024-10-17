@@ -5,7 +5,7 @@ role: User
 source-git-commit: 0ab00df7f9b96ce840139a852345c3f9fff0ebe8
 workflow-type: tm+mt
 source-wordcount: '1898'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -17,10 +17,10 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
-      + [Documents : impossible de déplacer des documents de l’onglet Documents de l’objet](known-issues-workfront/wf-documents-cannot-move-from-object.md)
-      + [Panoramas : options d’état de duplication pour les tâches et les problèmes](known-issues-workfront/wf-boards-duplicate-status-options.md)
-      + [Accueil : les champs personnalisés supprimés persistent dans les widgets de projet, de tâche et de problème.](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
-      + [Priorités : les groupes empêchent le tri et la modification en ligne.](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
+      + [Documents : impossible de déplacer des documents de l’onglet Documents de l’objet](known-issues-workfront/wf-documents-cannot-move-from-object.md)
+      + [Panoramas : options de statut en double pour les tâches et les problèmes](known-issues-workfront/wf-boards-duplicate-status-options.md)
+      + [Accueil : les champs personnalisés supprimés persistent dans les widgets de projet, de tâche et de problème.](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
+      + [Priorités : les regroupements empêchent le tri et la modification en ligne.](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
       + [Se connecter en tant que redirige vers la connexion ou provoque une erreur.](known-issues-workfront/wf-login-as-redirects-to-login.md)
       + [Accueil : Marquer comme terminé ferme le volet de résumé du widget Mes problèmes.](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
       + [Projets : impossible de partager des projets en raison d’une erreur « Accès à la suppression »](known-issues-workfront/wf-projects-sharing-access-error.md)
@@ -209,7 +209,7 @@ ht-degree: 97%
 + [!DNL Workfront Proof] {#proof}
    + [Problèmes connus dans  [!DNL Workfront Proof]](workfrontproof.md)
    + Problèmes actifs dans [!DNL Workfront Proof] {#proof-current}
-      + [Workfront Mobile : les liens d’e-mail de BAT ne s’ouvriront pas sur iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md)
+      + [Workfront Mobile : les liens des e-mails d’épreuve ne s’ouvrent pas sur iPhone.](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md)
       + [Workfront Proof : le contenu n’est pas collé correctement dans la section Mises à jour de la visionneuse de relecture de bureau.](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md)
       + [[!UICONTROL Workfront Proof] : impossible de réorganiser les ressources lors de la création d’un BAT](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof] : horodatage incorrect sur le [!UICONTROL Résumé du BAT]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
