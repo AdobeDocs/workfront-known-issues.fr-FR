@@ -1,13 +1,13 @@
 ---
-title: "API : demandes d’expiration du délai"
+title: '« API : des requêtes dépassent leur délai d’expiration. »'
 description: Les requêtes effectuées via l’API Workfront expirent.
 hidefromtoc: true
 feature: Workfront API, Workfront Fusion
 exl-id: 48cdb8e2-8409-4b0e-9c27-e494156bccc1
 source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '50'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 

@@ -4,9 +4,9 @@ description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '6157'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2024.
 
 #### Panneaux
 
-**Erreur lors du déplacement de cartes ou de l’affectation d’utilisateurs**
+**Erreur lors d’un déplacement de cartes ou de l’affectation d’utilisateurs et d’utilisatrices**
 
 Lors d’un déplacement de cartes ou de l’affectation d’utilisateurs et d’utilisatrices, il arrive que l’action ne se réalise pas et génère à la place l’erreur Échec de la réponse : Code d’état 502 reçu après un délai.
 
@@ -40,23 +40,23 @@ Lors d’un déplacement de cartes ou de l’affectation d’utilisateurs et d�
 
 Lorsqu’un utilisateur ou une utilisatrice tente de charger un panorama, celui-ci ne se charge pas et le message d’erreur suivant s’affiche :
 
-&quot;Erreur de chargement du panorama&quot;
+« Erreur lors du chargement du panorama »
 
-&quot;Un problème s’est produit lors du chargement de ce panorama. Actualisez la page pour réessayer ou contactez le support technique avec l’ID d’erreur ci-dessous si le problème persiste.&quot;
+« Un problème s’est produit lors du chargement de ce panorama. Actualisez la page pour réessayer ou contactez l’assistance en indiquant l’identifiant de l’erreur si le problème persiste. »
 
 #### Page d’accueil
 
-**&quot;Marquer comme terminé&quot; ferme le volet de résumé du widget Mes problèmes**
+**« Marquer comme terminé » ferme le volet de résumé du widget Mes problèmes.**
 
 Lorsque vous essayez d’utiliser le bouton « Marquer comme terminé » dans le volet de résumé d’un problème ouvert via le widget Mes problèmes, le volet de résumé se ferme inopinément.
 
-**Les paramètres du widget Modèle de mise en page ne parviennent pas à ajouter la colonne**
+**Les paramètres du widget Modèle de mise en page ne parviennent pas à ajouter la colonne.**
 
-Lorsque vous sélectionnez un champ à ajouter à un widget par le biais des paramètres du widget Modèle de mise en page , un champ peut être sélectionné, mais la colonne correspondante n’apparaît pas dans le widget.
+Lorsque vous sélectionnez un champ à ajouter à un widget par le biais des paramètres du widget Modèle de mise en page, un champ peut être sélectionné, mais la colonne correspondante n’apparaît pas dans le widget.
 
 #### Tâches
 
-**Problèmes avec le recalcul de la chronologie**
+**Problèmes liés au recalcul de la chronologie**
 
 Les problèmes suivants liés au recalcul de la chronologie ont été signalés :
 
@@ -65,7 +65,7 @@ Les problèmes suivants liés au recalcul de la chronologie ont été signalés�
 
 **Dépenses de tâche non affichées**
 
-Après avoir ajouté une dépense à une tâche, la dépense n&#39;apparaît pas dans les informations de la tâche malgré la confirmation de l&#39;API qu&#39;elle a été saisie.
+Après avoir ajouté une dépense à une tâche, la dépense n’apparaît pas dans les informations de la tâche, bien que l’API ait confirmé sa saisie.
 
 +++
 
