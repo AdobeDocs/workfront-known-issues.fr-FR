@@ -4,9 +4,9 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: cfdbb6026edc39df8c89a100d6e6366216fd9bf7
+source-git-commit: f40e0fdd778b01e2fea1c5369bfbf979009cd839
 workflow-type: tm+mt
-source-wordcount: '1071'
+source-wordcount: '1068'
 ht-degree: 95%
 
 ---
@@ -47,7 +47,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | **Problème** | **Dernière modification** |
 |----------------------------------| ----------------- |
 | [Projets : le diagramme de Gantt n&#39;est pas exact](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md) | mercredi 22 octobre 2024 |
-| [Notifications : les personnes contributrices ne reçoivent pas de notifications par e-mail.](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | mercredi 22 octobre 2024 |
+| [Épreuves : impossible de fermer la visionneuse de relecture](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | mercredi 22 octobre 2024 |
 | [Projets : impossible d’ajouter des problèmes au projet terminé](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md) | mercredi 22 octobre 2024 |
 | [Notifications : les personnes contributrices ne reçoivent pas de notifications par e-mail.](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | mercredi 22 octobre 2024 |
 | [Formulaires personnalisés : impossible de mettre à jour des données personnalisées dans les projets terminés](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md) | mercredi 22 octobre 2024 |
