@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0ab00df7f9b96ce840139a852345c3f9fff0ebe8
-workflow-type: ht
-source-wordcount: '1898'
-ht-degree: 100%
+source-git-commit: cfdbb6026edc39df8c89a100d6e6366216fd9bf7
+workflow-type: tm+mt
+source-wordcount: '1944'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Projets : le diagramme de Gantt n’est pas exact](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md)
+      + [Projets : impossible d’ajouter des problèmes au projet terminé](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md)
+      + [Formulaires personnalisés : impossible de mettre à jour les données personnalisées dans les projets terminés](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md)
+      + [Accueil : la zone des priorités est accessible lorsqu’elle est désactivée.](known-issues-workfront/wf-home-priorities-accessible.md)
+      + [Accueil : le widget Mes approbations ne fonctionne pas](known-issues-workfront/wf-home-my-approval-not-working.md)
+      + [Bons à tirer : impossible de créer des bons à tirer dans l’environnement Aperçu](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md)
       + [Documents : impossible de déplacer des documents de l’onglet Documents de l’objet](known-issues-workfront/wf-documents-cannot-move-from-object.md)
       + [Panoramas : options de statut en double pour les tâches et les problèmes](known-issues-workfront/wf-boards-duplicate-status-options.md)
       + [Accueil : les champs personnalisés supprimés persistent dans les widgets de projet, de tâche et de problème.](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)

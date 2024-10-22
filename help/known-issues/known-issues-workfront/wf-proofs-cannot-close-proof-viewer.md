@@ -4,18 +4,21 @@ description: Lorsqu’un utilisateur ou une utilisatrice consulte une épreuve d
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: b35d21a3-6d8b-48af-87fc-e0f63cf0194c
-source-git-commit: 7b149f8f117d778efaa35ae650ed8b6f47c06311
+source-git-commit: a14a043c13563a2706f9dd0a344a4cabd07bb19a
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '123'
 ht-degree: 100%
 
 ---
 
 # Épreuves : impossible de fermer la visionneuse de relecture
 
+
+<!--
 >[!NOTE]
 >
->Ce problème a été résolu le vendredi 18 juillet 2024.
+>This issue was fixed on July 18, 2024.
+-->
 
 Lorsqu’un utilisateur ou une utilisatrice consulte une épreuve dans la visionneuse de relecture et tente de fermer l’épreuve en cliquant sur le X dans le coin supérieur droit, l’épreuve ne se ferme pas.
 
