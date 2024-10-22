@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2044929db057509bea6200631336e53b76d4a1ff
+source-git-commit: 2f464b30a14ac8e8b8ce862e818c4d30c7cdf66f
 workflow-type: tm+mt
-source-wordcount: '6368'
-ht-degree: 97%
+source-wordcount: '6375'
+ht-degree: 96%
 
 ---
 
@@ -67,7 +67,7 @@ Lorsqu’un utilisateur tente de se connecter à une heure sur une feuille de te
 
 Il s’agit du comportement attendu, qui ne doit pas être considéré comme un problème.
 
-Auparavant, les utilisateurs pouvaient se connecter aux feuilles de temps envoyées ou fermées.
+Auparavant, les utilisateurs pouvaient se connecter aux feuilles de temps envoyées ou fermées par le biais de l’API Workfront ou de Workfront Fusion.
 
 +++
 
