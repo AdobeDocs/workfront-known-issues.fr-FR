@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
-workflow-type: ht
-source-wordcount: '6157'
-ht-degree: 100%
+source-git-commit: c97902d01cc405c209eda11c53eb8b55ec5f9a6c
+workflow-type: tm+mt
+source-wordcount: '6368'
+ht-degree: 97%
 
 ---
 
@@ -25,6 +25,51 @@ Pour connaître les mises à jour de maintenance antérieures à 2024, consultez
 Les mises à jour de maintenance suivantes ont été effectuées en 2024.
 
 ## Mises à jour d’octobre 2024
+
++++**(Planifiée) Mise à jour de maintenance du vendredi 24 octobre 2024**
+
+### Mise à jour de maintenance (planifiée) pour le vendredi 24 octobre 2024.
+
+#### Formulaires personnalisés
+
+**Impossible de mettre à jour les données personnalisées dans les projets terminés**
+
+Lorsqu’un utilisateur tente de mettre à jour des données personnalisées dans un projet terminé, il ne peut pas mettre à jour les données et le message suivant s’affiche :
+
+&quot;Impossible de terminer l’opération pour un projet dont l’état est Terminé.&quot;
+
+#### Projets
+
+**Impossible d’ajouter des problèmes au projet terminé**
+
+Lorsqu’un utilisateur tente d’ajouter un problème à un projet à l’état Terminé, il ne peut pas l’ajouter. Cela peut se produire même si l’option &quot;Ajouter et modifier des problèmes&quot; est activée.
+
+**Le diagramme de Gantt n&#39;est pas précis**
+
+Lorsqu’un utilisateur affiche le diagramme de Gantt et change de vue, le graphique de Gantt n’affiche pas de données précises ou ne peut pas afficher de données.
+
++++
+
+
++++**Mise à jour de maintenance le vendredi 17 octobre 2024**
+
+### Mise à jour de maintenance le vendredi 17 octobre 2024
+
+#### Épreuves
+
+**Les bons à tirer affichent une date inexacte**
+
+Les dates répertoriées dans la liste des documents indiquent la date de création de la première version du document, au lieu de la date de création de la version la plus récente.
+
+### Feuilles de temps
+
+Lorsqu’un utilisateur tente de se connecter à une heure sur une feuille de temps qui est à l’état Envoyé ou Fermé, il ne peut pas consigner l’heure.
+
+Il s’agit du comportement attendu, qui ne doit pas être considéré comme un problème.
+
+Auparavant, les utilisateurs pouvaient se connecter aux feuilles de temps envoyées ou fermées.
+
++++
 
 +++**Mise à jour de maintenance le vendredi 10 octobre 2024**
 
