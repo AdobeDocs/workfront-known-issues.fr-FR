@@ -3,15 +3,19 @@ title: "Projets : impossible d’ajouter des problèmes au projet terminé"
 description: "Lorsqu’un utilisateur tente d’ajouter un problème à un projet à l’état Terminé, il ne peut pas l’ajouter. Cela peut se produire même si l’option Ajouter et modifier des problèmes est activée."
 hidefromtoc: true
 feature: Projects, Work Management
-source-git-commit: a14a043c13563a2706f9dd0a344a4cabd07bb19a
+source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 4%
+source-wordcount: '90'
+ht-degree: 11%
 
 ---
 
 
 # Projets : impossible d’ajouter des problèmes au projet terminé
+
+>[!NOTE]
+>
+>Ce problème a été résolu le vendredi 24 octobre 2024.
 
 Lorsqu’un utilisateur tente d’ajouter un problème à un projet à l’état Terminé, il ne peut pas l’ajouter. Cela peut se produire même si l’option &quot;Ajouter et modifier des problèmes&quot; est activée.
 

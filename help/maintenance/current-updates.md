@@ -3,9 +3,9 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2f464b30a14ac8e8b8ce862e818c4d30c7cdf66f
+source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
 workflow-type: tm+mt
-source-wordcount: '6375'
+source-wordcount: '6442'
 ht-degree: 96%
 
 ---
@@ -26,9 +26,15 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2024.
 
 ## Mises à jour d’octobre 2024
 
-+++**(Planifiée) Mise à jour de maintenance du vendredi 24 octobre 2024**
++++**Mise à jour de maintenance le vendredi 24 octobre 2024**
 
-### Mise à jour de maintenance (planifiée) pour le vendredi 24 octobre 2024.
+### Mise à jour de maintenance le vendredi 24 octobre 2024
+
+#### Affectations
+
+**L’icône de décalage n’apparaît pas lors de l’attribution de tâches**
+
+Lorsqu’un utilisateur ou une utilisatrice affecte une tâche et commence à écrire le nom d’une personne absente pendant la période de la tâche, l’icône des congés (avion) n’apparaît pas parmi les Affectations suggérées. Néanmoins, si l’utilisateur ou l’utilisatrice poursuit la saisie jusqu’à ce que le nom soit visible dans la liste des équipes et des utilisateurs et utilisatrices, l’icône s’affiche.
 
 #### Formulaires personnalisés
 

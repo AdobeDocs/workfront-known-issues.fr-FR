@@ -3,15 +3,19 @@ title: "Formulaires personnalisés : impossible de mettre à jour les données p
 description: « »
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: 6e06225c52775894d03605b0dbbf0182e43e53ed
+source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 7%
+source-wordcount: '63'
+ht-degree: 15%
 
 ---
 
 
 # Formulaires personnalisés : impossible de mettre à jour les données personnalisées dans les projets terminés
+
+>[!NOTE]
+>
+>Ce problème a été résolu le vendredi 24 octobre 2024.
 
 Lorsqu’un utilisateur tente de mettre à jour des données personnalisées dans un projet terminé, il ne peut pas mettre à jour les données et le message suivant s’affiche :
 
