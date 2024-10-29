@@ -2,9 +2,9 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
+source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
 workflow-type: tm+mt
-source-wordcount: '1958'
+source-wordcount: '1967'
 ht-degree: 96%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Notifications : les emails de notification de document ne peuvent pas afficher d’aperçus d’image](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
       + [Rapports : l’option Afficher le filtre / Masquer le filtre est manquante](known-issues-workfront/wf-reports-show-filter-missing.md)
       + [Accueil : le pourcentage de fin est coupé](known-issues-workfront/wf-home-percent-complete-inaccurate.md)
       + [Projets : le diagramme de Gantt n’est pas exact](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md)
