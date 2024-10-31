@@ -4,9 +4,9 @@ description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '6442'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2024.
 
 #### Affectations
 
-**L’icône de décalage n’apparaît pas lors de l’attribution de tâches**
+**L’icône des congés n’apparaît pas lors de l’affectation de tâches.**
 
 Lorsqu’un utilisateur ou une utilisatrice affecte une tâche et commence à écrire le nom d’une personne absente pendant la période de la tâche, l’icône des congés (avion) n’apparaît pas parmi les Affectations suggérées. Néanmoins, si l’utilisateur ou l’utilisatrice poursuit la saisie jusqu’à ce que le nom soit visible dans la liste des équipes et des utilisateurs et utilisatrices, l’icône s’affiche.
 
@@ -40,19 +40,19 @@ Lorsqu’un utilisateur ou une utilisatrice affecte une tâche et commence à é
 
 **Impossible de mettre à jour les données personnalisées dans les projets terminés**
 
-Lorsqu’un utilisateur tente de mettre à jour des données personnalisées dans un projet terminé, il ne peut pas mettre à jour les données et le message suivant s’affiche :
+Lorsqu’une personne tente de mettre à jour des données personnalisées dans un projet terminé, le processus échoue et le message suivant s’affiche :
 
-&quot;Impossible de terminer l’opération pour un projet dont l’état est Terminé.&quot;
+« Impossible de terminer l’opération pour un projet dont le statut est Terminé. »
 
 #### Projets
 
 **Impossible d’ajouter des problèmes au projet terminé**
 
-Lorsqu’un utilisateur tente d’ajouter un problème à un projet à l’état Terminé, il ne peut pas l’ajouter. Cela peut se produire même si l’option &quot;Ajouter et modifier des problèmes&quot; est activée.
+Lorsqu’une personne tente d’ajouter un problème à un projet au statut Terminé, le processus échoue. Cela peut se produire même si l’option « Ajouter et modifier des problèmes » est activée.
 
-**Le diagramme de Gantt n&#39;est pas précis**
+**Le graphique de Gantt n’est pas précis.**
 
-Lorsqu’un utilisateur affiche le diagramme de Gantt et change de vue, le graphique de Gantt n’affiche pas de données précises ou ne peut pas afficher de données.
+Lorsqu’une personne affiche le graphique de Gantt et change de vue, le graphique de Gantt n’affiche pas de données précises ou ne peut pas afficher de données.
 
 +++
 
@@ -63,17 +63,17 @@ Lorsqu’un utilisateur affiche le diagramme de Gantt et change de vue, le graph
 
 #### Épreuves
 
-**Les bons à tirer affichent une date inexacte**
+**Les épreuvent affichent une date inexacte.**
 
 Les dates répertoriées dans la liste des documents indiquent la date de création de la première version du document, au lieu de la date de création de la version la plus récente.
 
 ### Feuilles de temps
 
-Lorsqu’un utilisateur tente de se connecter à une heure sur une feuille de temps qui est à l’état Envoyé ou Fermé, il ne peut pas consigner l’heure.
+Lorsqu’une personne tente de consigner du temps sur une feuille de temps dont le statut est Envoyé ou Fermé, le processus échoue.
 
 Il s’agit du comportement attendu, qui ne doit pas être considéré comme un problème.
 
-Auparavant, les utilisateurs pouvaient se connecter aux feuilles de temps envoyées ou fermées par le biais de l’API Workfront ou de Workfront Fusion.
+Auparavant, les personnes pouvaient consigner du temps dans les feuilles de temps envoyées ou fermées par le biais de l’API Workfront ou de Workfront Fusion.
 
 +++
 

@@ -1,18 +1,18 @@
 ---
-title: "Accueil : le pourcentage de réussite est coupé"
-description: "Lorsqu’un utilisateur affiche une liste sur la page d’accueil, la colonne Pourcentage de fin est partiellement coupée et l’utilisateur ne peut pas voir le pourcentage exact de fin des objets."
+title: '« Accueil : le pourcentage terminé est coupé. »'
+description: « Lorsqu’une personne affiche une liste sur la page d’accueil, la colonne Pourcentage terminé est partiellement coupée et la personne ne peut pas voir le pourcentage terminé exact des objets. »
 hidefromtoc: true
 feature: Get Started with Workfront
 source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Accueil : le pourcentage de fin est coupé
+# Accueil : le pourcentage terminé est coupé.
 
-Lorsqu’un utilisateur affiche une liste sur la page d’accueil, la colonne Pourcentage de fin est partiellement coupée et l’utilisateur ne peut pas voir le pourcentage exact de fin des objets.
+Lorsqu’une personne affiche une liste sur la page d’accueil, la colonne Pourcentage terminé est partiellement coupée et la personne ne peut pas voir le pourcentage terminé exact des objets.
 
-_Premier signalé le 22 octobre 2024._
+_Premier signalement le 22 octobre 2024._
