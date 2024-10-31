@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
 workflow-type: tm+mt
 source-wordcount: '1030'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -25,7 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Accueil : le pourcentage de fin est coupé](known-issues-workfront/wf-home-percent-complete-inaccurate.md) | vendredi 24 octobre 2024 |
+| [Accueil : le pourcentage terminé est coupé.](known-issues-workfront/wf-home-percent-complete-inaccurate.md) | vendredi 24 octobre 2024 |
 | [Workfront Mobile : les liens des e-mails d’épreuve ne s’ouvrent pas sur iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | jeudi 9 octobre 2024 |
 | [Rapports : les temps de chargement de Report Builder sont longs.](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | vendredi 19 septembre 2024 |
 | [API : l’appel API échoue en raison d’une erreur SQL](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | vendredi 12 septembre 2024 |
@@ -49,8 +49,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [API : des requêtes dépassent leur délai d’expiration.](known-issues-workfront/wf-api-request-timing-out.md) | vendredi 24 octobre 2024 |
 | [Épreuves : impossible de fermer la visionneuse de relecture](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | mercredi 22 octobre 2024 |
 | [Notifications : les personnes contributrices ne reçoivent pas de notifications par e-mail.](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | mercredi 22 octobre 2024 |
-| [Accueil : le widget Mes approbations ne fonctionne pas](known-issues-workfront/wf-home-my-approval-not-working.md) | mercredi 22 octobre 2024 |
-| [Bons à tirer : impossible de créer des bons à tirer dans l’environnement de prévisualisation](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | mercredi 22 octobre 2024 |
+| [Accueil : le widget Mes approbations ne fonctionne pas.](known-issues-workfront/wf-home-my-approval-not-working.md) | mercredi 22 octobre 2024 |
+| [Épreuves : impossible de créer des épreuves dans l’environnement de prévisualisation](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | mercredi 22 octobre 2024 |
 | [Projets : impossible de partager des projets en raison d’une erreur « Accès à la suppression »](known-issues-workfront/wf-projects-sharing-access-error.md) | vendredi 3 octobre 2024 |
 | [Épreuves : la création d’une épreuve échoue pour les documents liés à partir d’AEM via Fusion.](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | vendredi 3 octobre 2024 |
 | [Intégrations : impossible de se connecter à Workfront pour Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | mercredi 24 septembre 2024 |

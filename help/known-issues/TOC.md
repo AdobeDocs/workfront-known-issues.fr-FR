@@ -5,7 +5,7 @@ role: User
 source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
 workflow-type: tm+mt
 source-wordcount: '1967'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -18,14 +18,14 @@ ht-degree: 96%
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
       + [Notifications : les emails de notification de document ne peuvent pas afficher d’aperçus d’image](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
-      + [Rapports : l’option Afficher le filtre / Masquer le filtre est manquante](known-issues-workfront/wf-reports-show-filter-missing.md)
-      + [Accueil : le pourcentage de fin est coupé](known-issues-workfront/wf-home-percent-complete-inaccurate.md)
-      + [Projets : le diagramme de Gantt n’est pas exact](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md)
-      + [Projets : impossible d’ajouter des problèmes au projet terminé](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md)
-      + [Formulaires personnalisés : impossible de mettre à jour les données personnalisées dans les projets terminés](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md)
-      + [Accueil : la zone des priorités est accessible lorsqu’elle est désactivée.](known-issues-workfront/wf-home-priorities-accessible.md)
-      + [Accueil : le widget Mes approbations ne fonctionne pas](known-issues-workfront/wf-home-my-approval-not-working.md)
-      + [Bons à tirer : impossible de créer des bons à tirer dans l’environnement Aperçu](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md)
+      + [Rapports : l’option Afficher le filtre/Masquer le filtre est manquante.](known-issues-workfront/wf-reports-show-filter-missing.md)
+      + [Accueil : le pourcentage terminé est coupé.](known-issues-workfront/wf-home-percent-complete-inaccurate.md)
+      + [Projets : le graphique de Gantt n’est pas exact.](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md)
+      + [Projets : impossible d’ajouter des problèmes au projet terminé](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md)
+      + [Formulaires personnalisés : impossible de mettre à jour des données personnalisées dans des projets terminés](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md)
+      + [Accueil : la zone des priorités est accessible lorsqu’elle a été désactivée.](known-issues-workfront/wf-home-priorities-accessible.md)
+      + [Accueil : le widget Mes approbations ne fonctionne pas.](known-issues-workfront/wf-home-my-approval-not-working.md)
+      + [Épreuves : impossible de créer des épreuves dans l’environnement de prévisualisation](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md)
       + [Documents : impossible de déplacer des documents de l’onglet Documents de l’objet](known-issues-workfront/wf-documents-cannot-move-from-object.md)
       + [Panoramas : options de statut en double pour les tâches et les problèmes](known-issues-workfront/wf-boards-duplicate-status-options.md)
       + [Accueil : les champs personnalisés supprimés persistent dans les widgets de projet, de tâche et de problème.](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)

@@ -1,17 +1,17 @@
 ---
-title: "Rapports : l’option Afficher le filtre / Masquer le filtre est manquante"
-description: "Lorsqu’un utilisateur consulte un rapport, les options Afficher le filtre et Masquer le filtre ne sont pas visibles."
+title: '« Rapports : l’option Afficher le filtre/Masquer le filtre est manquante. »'
+description: « Lorsqu’une personne consulte un rapport, les options Afficher le filtre et Masquer le filtre ne sont pas visibles. »
 hidefromtoc: true
 feature: Reports and Dashboards
 source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
 workflow-type: tm+mt
 source-wordcount: '70'
-ht-degree: 15%
+ht-degree: 75%
 
 ---
 
 
-# Rapports : l’option Afficher le filtre / Masquer le filtre est manquante
+# Rapports : l’option Afficher le filtre/Masquer le filtre est manquante.
 
 >[!NOTE]
 >
