@@ -4,10 +4,10 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
+source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
 workflow-type: tm+mt
-source-wordcount: '1030'
-ht-degree: 99%
+source-wordcount: '1071'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,10 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [ Modèles de mise en page : les champs de données personnalisés ne s’affichent pas lorsqu’ils sont ajoutés au Résumé de la tâche par le biais du modèle de mise en page](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 4 novembre 2024 |
+| [Accueil : le widget Mes mises à jour ne fonctionne pas](known-issues-workfront/wf-home-my-updates-not-working.md) | 4 novembre 2024 |
+| [Documents : Bouton Options d’approbation manquant sur les documents](known-issues-workfront/wf-documents-missing-approval-button.md) | 4 novembre 2024 |
+| [Accueil : erreurs du widget Tâches pour les tâches nouvelles et terminées](known-issues-workfront/wf-home-to-do-new-complete-error.md) | 4 novembre 2024 |
 | [Accueil : le pourcentage terminé est coupé.](known-issues-workfront/wf-home-percent-complete-inaccurate.md) | vendredi 24 octobre 2024 |
 | [Workfront Mobile : les liens des e-mails d’épreuve ne s’ouvrent pas sur iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | jeudi 9 octobre 2024 |
 | [Rapports : les temps de chargement de Report Builder sont longs.](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | vendredi 19 septembre 2024 |
