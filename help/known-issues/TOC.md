@@ -22,7 +22,7 @@ ht-degree: 97%
       + [Documents : bouton Options de validation manquant dans les documents](known-issues-workfront/wf-documents-missing-approval-button.md)
       + [Accueil : erreurs du widget Tâches pour les tâches nouvelles et terminées](known-issues-workfront/wf-home-to-do-new-complete-error.md)
       + [Intégrations : les intégrations de JumpSeat échouent pour les organisations sur Unified Shell](known-issues-workfront/wf-integrations-jumpseat-error-with-unified-shell.md)
-      + [Notifications : les emails de notification de document ne peuvent pas afficher d’aperçus d’image](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
+      + [Notifications : les e-mails de notification de document ne peuvent pas afficher de prévisualisations d’images.](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
       + [Rapports : l’option Afficher le filtre/Masquer le filtre est manquante.](known-issues-workfront/wf-reports-show-filter-missing.md)
       + [Accueil : le pourcentage terminé est coupé.](known-issues-workfront/wf-home-percent-complete-inaccurate.md)
       + [Projets : le graphique de Gantt n’est pas exact.](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md)

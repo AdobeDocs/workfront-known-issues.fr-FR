@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
 workflow-type: tm+mt
 source-wordcount: '1071'
-ht-degree: 95%
+ht-degree: 96%
 
 ---
 
@@ -76,7 +76,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Notifications : les emails de notification de document ne peuvent pas afficher d’aperçus d’image](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | mercredi 29 octobre 2024 |
+| [Notifications : les e-mails de notification de document ne peuvent pas afficher de prévisualisations d’images](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | mercredi 29 octobre 2024 |
 | [Rapports : erreur lors de l’export du rapport](known-issues-workfront/wf-reports-error-cache-content.md) | mardi 14 octobre 2024 |
 | [Accueil : les champs personnalisés supprimés persistent dans les widgets de projet, de tâche et de problème.](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | mercredi 8 octobre 2024 |
 | [Priorités : les regroupements empêchent le tri et la modification en ligne.](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | mercredi 8 octobre 2024 |
