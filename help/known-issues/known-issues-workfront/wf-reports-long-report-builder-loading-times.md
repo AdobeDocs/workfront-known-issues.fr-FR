@@ -4,14 +4,14 @@ description: « Le chargement de Report Builder prend plus de temps que la norm
 hidefromtoc: true
 feature: Reports and Dashboards
 source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '56'
-ht-degree: 50%
+ht-degree: 100%
 
 ---
 
 
-# Rapports : temps de chargement long pour les rapports
+# Rapports : temps de chargement long pour les rapports
 
 Le chargement des rapports prend beaucoup de temps. Cela a une incidence sur l’affichage des rapports, ainsi que sur la modification et la création de rapports dans le créateur de rapports.
 

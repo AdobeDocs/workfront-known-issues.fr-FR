@@ -4,22 +4,22 @@ description: Lorsqu’une personne affiche une notification par e-mail concernan
 hidefromtoc: true
 feature: Updates and Notifications, Digital Content and Documents
 source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 39%
+ht-degree: 100%
 
 ---
 
-# Notifications : les emails de notification de document ne peuvent pas afficher d’aperçus d’image
+# Notifications : les e-mails de notification de document ne peuvent pas afficher de prévisualisations d’images.
 
 >[!NOTE]
 >
 >Ce problème est dû à une limitation de Gmail et ne sera pas corrigé.
 
-Lors de l’ouverture d’un courrier électronique de révision ou d’approbation de document à l’aide de Gmail, les aperçus d’image ne s’affichent pas.
+Lors de l’ouverture d’un e-mail de révision ou d’approbation de document à l’aide de Gmail, les prévisualisations d’images ne s’affichent pas.
 
 **Solution de contournement**
 
-L’utilisation d’une application de messagerie autre que Gmail entraînera l’affichage correct des aperçus d’image.
+L’utilisation d’une application de messagerie autre que Gmail permet d’afficher correctement les prévisualisations d’images.
 
 _Premier signalement le vendredi 17 octobre 2024._

@@ -4,9 +4,9 @@ description: « Lorsqu’une personne consulte un rapport, les options Afficher
 hidefromtoc: true
 feature: Reports and Dashboards
 source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 75%
 >
 >Ce problème a été résolu le vendredi 24 octobre 2024.
 
-Lorsqu’un utilisateur consulte un rapport, les options Afficher le filtre et Masquer le filtre ne sont pas visibles.
+Lorsqu’une personne consulte un rapport, les options Afficher le filtre et Masquer le filtre ne sont pas visibles.
 
 **Solution de contournement**
 
