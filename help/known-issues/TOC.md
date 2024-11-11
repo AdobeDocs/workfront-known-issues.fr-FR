@@ -3,9 +3,9 @@ user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
 source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2013'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
-      + [Modèles de mise en page : les champs de données personnalisés ne s’affichent pas lorsqu’ils sont ajoutés au Résumé de la tâche par le biais du modèle de mise en page](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
-      + [Accueil : le widget Mes mises à jour ne fonctionne pas](known-issues-workfront/wf-home-my-updates-not-working.md)
-      + [Documents : bouton Options de validation manquant dans les documents](known-issues-workfront/wf-documents-missing-approval-button.md)
-      + [Accueil : erreurs du widget Tâches pour les tâches nouvelles et terminées](known-issues-workfront/wf-home-to-do-new-complete-error.md)
-      + [Intégrations : les intégrations de JumpSeat échouent pour les organisations sur Unified Shell](known-issues-workfront/wf-integrations-jumpseat-error-with-unified-shell.md)
+      + [Modèles de mise en page : les champs de données personnalisés ne s’affichent pas lorsqu’ils sont ajoutés au Résumé de la tâche par le biais du modèle de mise en page.](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
+      + [Accueil : le widget Mes mises à jour ne fonctionne pas.](known-issues-workfront/wf-home-my-updates-not-working.md)
+      + [Documents : bouton Options d’approbation manquant sur les documents](known-issues-workfront/wf-documents-missing-approval-button.md)
+      + [Accueil : erreurs du widget Tâches pour les tâches nouvelles et terminées](known-issues-workfront/wf-home-to-do-new-complete-error.md)
+      + [Intégrations : échec des intégrations JumpSeat pour les organisations sur Unified Shell](known-issues-workfront/wf-integrations-jumpseat-error-with-unified-shell.md)
       + [Notifications : les e-mails de notification de document ne peuvent pas afficher de prévisualisations d’images.](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
       + [Rapports : l’option Afficher le filtre/Masquer le filtre est manquante.](known-issues-workfront/wf-reports-show-filter-missing.md)
       + [Accueil : le pourcentage terminé est coupé.](known-issues-workfront/wf-home-percent-complete-inaccurate.md)
