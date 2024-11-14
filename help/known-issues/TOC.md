@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
-workflow-type: ht
-source-wordcount: '2013'
-ht-degree: 100%
+source-git-commit: 8b921bed9b740195decf545195baaa495c05c1e8
+workflow-type: tm+mt
+source-wordcount: '2120'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,19 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Fiches horaires : les utilisateurs contributeurs disposent d’un bouton &quot;Soumettre pour approbation&quot;](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
+      + [Notifications : notifications par e-mail pour les mises à jour non envoyées](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)
+      + [Formulaires personnalisés : impossible d’ajouter les champs de tâche &quot;estimationByHours&quot; ou &quot;hoursPerPoint&quot;](known-issues-workfront/wf-custom-forms-invalid-fields.md)
+      + [Documents : l’approbation &quot;ajout rapide&quot; n’inclut pas l’entrée de délai pour les nouvelles versions.](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md)
+      + [Modèles de disposition : les administrateurs ne peuvent pas modifier les modèles de mise en page d’accueil](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md)
+      + [Utilisateurs : la balise &quot;désinscrit&quot; persiste après la connexion](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md)
+      + [Workfront : les utilisateurs contributeurs ne peuvent pas accéder aux programmes ou aux Portfolios](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
+      + [Validations : le filtre &quot;Tous&quot; exclut les approbations personnellement envoyées](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)
+      + [Tâches : durée des jours écoulés incorrecte pour les tâches parents avec enfants](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
+      + [Rapports : la modification en masse dans les listes de graphiques ne répond pas](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md)
+      + [Workfront : le chargement des onglets du navigateur laissés ouverts échoue](known-issues-workfront/wf-workfront-browser-tabs-error.md)
+      + [Gestionnaire de ressources : impossible d’accéder au planificateur de ressources](known-issues-workfront/wf-resource-planner-inaccessible.md)
+      + [Accueil : le widget Mes tâches ne se charge pas](known-issues-workfront/wf-home-task-widget-wont-load.md)
       + [Modèles de mise en page : les champs de données personnalisés ne s’affichent pas lorsqu’ils sont ajoutés au Résumé de la tâche par le biais du modèle de mise en page.](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
       + [Accueil : le widget Mes mises à jour ne fonctionne pas.](known-issues-workfront/wf-home-my-updates-not-working.md)
       + [Documents : bouton Options d’approbation manquant sur les documents](known-issues-workfront/wf-documents-missing-approval-button.md)
