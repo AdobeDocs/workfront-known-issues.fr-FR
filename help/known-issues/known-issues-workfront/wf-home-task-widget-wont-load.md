@@ -3,20 +3,18 @@ title: "Accueil : le widget Mes tâches ne se chargera pas"
 description: Lorsqu’un utilisateur tente d’afficher le widget Mes tâches dans l’accueil, le widget n’affiche pas de contenu qui semble être bloqué.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 9723d244a9e72025eca6742995b6be1d7144a3b3
+source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 6%
+source-wordcount: '70'
+ht-degree: 14%
 
 ---
 
 # Accueil : le widget Mes tâches ne se charge pas
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on October 24, 2024.
--->
+>Ce problème a été résolu le vendredi 14 novembre 2024.
 
 Lorsqu’un utilisateur tente d’afficher le widget Mes tâches dans l’accueil, le widget n’affiche pas de contenu qui semble être bloqué.
 

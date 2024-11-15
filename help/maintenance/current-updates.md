@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
-source-wordcount: '6506'
-ht-degree: 99%
+source-wordcount: '6582'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,24 @@ Pour connaître les mises à jour de maintenance antérieures à 2024, consultez
 Les mises à jour de maintenance suivantes ont été effectuées en 2024.
 
 ## Mises à jour de novembre 2024
+
++++**Mise à jour de maintenance le vendredi 14 novembre 2024**
+
+### Mise à jour de maintenance le 14 novembre 2024
+
+#### Page d’accueil
+
+**Erreurs du widget Tâches pour les tâches nouvelles et terminées**
+
+Lors de la tentative de créer une tâche ou d’en exécuter une dans le widget Tâches (accueil), les personnes rencontrent une erreur et leur tentative ne peut aboutir.
+
+#### Utilisateurs
+
+**&quot;Envoyer des emails d’invitation à ces personnes&quot; case à cocher manquante**
+
+Lors de l’importation de nouveaux utilisateurs dans Workfront, la case à cocher &quot;Envoyer des emails d’invitation à ces personnes&quot; est absente de la fenêtre de boîte de dialogue.
+
++++
 
 +++**Mise à jour de maintenance le vendredi 7 novembre 2024**
 
@@ -52,7 +70,7 @@ Cette mise à jour inclut uniquement des correctifs mineurs ou moins importants.
 
 **L’icône des congés n’apparaît pas lors de l’affectation de tâches.**
 
-Lorsqu’un utilisateur ou une utilisatrice affecte une tâche et commence à écrire le nom d’une personne absente pendant la période de la tâche, l’icône des congés (avion) n’apparaît pas parmi les Affectations suggérées. Néanmoins, si l’utilisateur ou l’utilisatrice poursuit la saisie jusqu’à ce que le nom soit visible dans la liste des équipes et des utilisateurs et utilisatrices, l’icône s’affiche.
+Lorsqu’un utilisateur attribue une tâche et commence à saisir le nom de la personne désignée dont le temps de travail est planifié pendant la tâche, les icônes de l’utilisateur sous la zone Affectations proposées n’affichent pas l’icône Temps de service (avion). Néanmoins, si l’utilisateur ou l’utilisatrice poursuit la saisie jusqu’à ce que le nom soit visible dans la liste des équipes et des utilisateurs et utilisatrices, l’icône s’affiche.
 
 #### Formulaires personnalisés
 
@@ -84,7 +102,7 @@ Lorsqu’une personne affiche le graphique de Gantt et change de vue, le graphiq
 
 Les dates répertoriées dans la liste des documents indiquent la date de création de la première version du document, au lieu de la date de création de la version la plus récente.
 
-### Feuilles de temps
+#### Feuilles de temps
 
 Lorsqu’une personne tente de consigner du temps sur une feuille de temps dont le statut est Envoyé ou Fermé, le processus échoue.
 
