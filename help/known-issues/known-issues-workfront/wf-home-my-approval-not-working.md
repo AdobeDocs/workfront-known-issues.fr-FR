@@ -1,13 +1,13 @@
 ---
-title: "Accueil : le widget Mes approbations ne fonctionne pas"
-description: Lorsqu’un utilisateur tente d’afficher le widget Mes approbations à la maison, il n’apparaît pas et un message s’affiche.
+title: '« Accueil : le widget Mes approbations ne fonctionne pas »'
+description: Lorsqu’une personne tente d’afficher le widget Mes approbations sur la page d’accueil, le processus échoue et un message s’affiche.
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: dcfa4c2a-da19-4e62-bcbe-e8f93a99eb0b
 source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 

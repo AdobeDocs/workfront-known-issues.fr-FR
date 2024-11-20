@@ -1,13 +1,13 @@
 ---
-title: 'Bons à tirer : la création d’un BAT échoue pour les documents liés à partir d’AEM via Fusion'
+title: '« Épreuves : la création d’une épreuve échoue pour les documents liés à partir d’AEM via Fusion »'
 description: Lorsque vous essayez de convertir un document en épreuve qui a été liée à Workfront à partir d’AEM à l’aide de Fusion, le processus est bloqué et l’épreuve n’est jamais générée.
 hidefromtoc: true
 feature: Digital Content and Documents, Workfront Fusion
 exl-id: 411b274e-7b93-4f15-ae0f-992eba40de84
 source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 

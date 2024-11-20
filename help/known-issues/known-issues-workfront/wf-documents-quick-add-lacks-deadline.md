@@ -1,17 +1,17 @@
 ---
-title: '"L’approbation "ajout rapide" n’inclut pas l’entrée de délai pour les nouvelles versions"'
-description: Lorsqu’un utilisateur crée une validation de document pour une version d’un document au-delà de la première par le biais de la fonction d’ajout rapide, il n’est pas possible d’ajouter une date limite à l’approbation.
+title: La fonction « ajout rapide » de l’approbation n’inclut pas la saisie de la date limite pour les nouvelles versions
+description: Lorsqu’une personne initie une approbation pour une version de document postérieure à la première via la fonction d’ajout rapide, il n’existe pas d’option pour ajouter une date limite à cette approbation.
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
-# Documents : l’approbation &quot;ajout rapide&quot; n’inclut pas l’entrée de délai pour les nouvelles versions.
+# Documents : la fonction « ajout rapide » de l’approbation n’inclut pas la saisie de la date limite pour les nouvelles versions
 
-Lorsqu’un utilisateur crée une validation de document pour une version d’un document au-delà de la première par le biais de la fonction d’ajout rapide, il n’est pas possible d’ajouter une date limite à l’approbation.
+Lorsqu’une personne initie une approbation pour une version de document postérieure à la première via la fonction d’ajout rapide, il n’existe pas d’option pour ajouter une date limite à cette approbation.
 
 _Premier signalement le vendredi 10 octobre 2024._
