@@ -28,7 +28,7 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2024.
 
 +++**Mise à jour de maintenance le vendredi 14 novembre 2024**
 
-### Mise à jour de maintenance le 14 novembre 2024
+### Mise à jour de maintenance le vendredi 14 novembre 2024
 
 #### Page d’accueil
 
@@ -46,7 +46,7 @@ Lors de l’importation de nouveaux utilisateurs dans Workfront, la case à coch
 
 +++**Mise à jour de maintenance le vendredi 7 novembre 2024**
 
-### Mise à jour de maintenance le 7 novembre 2024
+### Mise à jour de maintenance le 7 novembre 2024
 
 Cette mise à jour inclut uniquement des correctifs mineurs ou moins importants. L’assistance Workfront vous avertira lorsqu’un problème que vous avez soumis sera résolu.
 

@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
 source-wordcount: '1126'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -25,17 +25,17 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Fiches horaires : les utilisateurs contributeurs disposent d’un bouton &quot;Soumettre pour approbation&quot;](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md) | jeudi 13 novembre 2024 |
-| [Notifications : notifications par e-mail pour les mises à jour non envoyées](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | jeudi 13 novembre 2024 |
-| [Formulaires personnalisés : impossible d’ajouter les champs de tâche &quot;estimationByHours&quot; ou &quot;hoursPerPoint&quot;](known-issues-workfront/wf-custom-forms-invalid-fields.md) | jeudi 13 novembre 2024 |
-| [Documents : l’approbation &quot;ajout rapide&quot; n’inclut pas l’entrée de délai pour les nouvelles versions](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md) | jeudi 13 novembre 2024 |
-| [Modèles de mise en page : les administrateurs ne peuvent pas modifier les modèles de mise en page d’accueil](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md) | jeudi 13 novembre 2024 |
-| [Utilisateurs : la balise &quot;Non inscrit&quot; persiste après la connexion](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md) | jeudi 13 novembre 2024 |
-| [Workfront : les utilisateurs contributeurs ne peuvent pas accéder aux programmes ou aux Portfolios](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | jeudi 13 novembre 2024 |
-| [Validations : le filtre &quot;Tous&quot; exclut les approbations soumises personnellement](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md) | jeudi 13 novembre 2024 |
-| [Tâches : durée des jours écoulés incorrecte pour les tâches parents avec enfants](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md) | jeudi 13 novembre 2024 |
-| [Rapports : la modification en masse dans les listes de graphiques ne répond pas](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | jeudi 13 novembre 2024 |
-| [Workfront : l’ouverture des onglets du navigateur échoue au chargement](known-issues-workfront/wf-workfront-browser-tabs-error.md) | mercredi 12 novembre 2024 |
+| [Feuilles de temps : les personnes ayant le niveau d’accès Contributeur ou Contributrice utilisent un bouton « Soumettre pour approbation »](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md) | jeudi 13 novembre 2024 |
+| [Notifications : les notifications par e-mail pour les mises à jour ne sont pas envoyées](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | jeudi 13 novembre 2024 |
+| [Formulaires personnalisés : impossible d’ajouter les champs de tâche « estimationByHours » ou « hoursPerPoint »](known-issues-workfront/wf-custom-forms-invalid-fields.md) | jeudi 13 novembre 2024 |
+| [Documents : la fonction « ajout rapide » de l’approbation n’inclut pas la saisie de la date limite pour les nouvelles versions](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md) | jeudi 13 novembre 2024 |
+| [Modèles de mise en page : les personnes chargées de l’administration ne peuvent pas modifier les modèles de mise en page de l’accueil](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md) | jeudi 13 novembre 2024 |
+| [Utilisateurs et utilisatrices : la balise « Non enregistré » persiste après la connexion](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md) | jeudi 13 novembre 2024 |
+| [Workfront : les personnes ayant le niveau d’accès Contributeur ou Contributrice ne peuvent pas accéder aux programmes ou aux portefeuilles](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | jeudi 13 novembre 2024 |
+| [Approbations : le filtre « Toutes » exclut les approbations soumises personnellement](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md) | jeudi 13 novembre 2024 |
+| [Tâches : la durée des jours écoulés est incorrecte pour les tâches parents ayant des tâches enfants](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md) | jeudi 13 novembre 2024 |
+| [Rapports : la modification en bloc dans les listes de graphiques ne répond pas](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | jeudi 13 novembre 2024 |
+| [Workfront : le chargement des onglets de navigateur laissés ouverts échoue](known-issues-workfront/wf-workfront-browser-tabs-error.md) | mercredi 12 novembre 2024 |
 | [Modèles de mise en page : les champs de données personnalisés ne s’affichent pas lorsqu’ils sont ajoutés au Résumé de la tâche par le biais du modèle de mise en page.](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 4 novembre 2024 |
 | [Accueil : le widget Mes mises à jour ne fonctionne pas.](known-issues-workfront/wf-home-my-updates-not-working.md) | 4 novembre 2024 |
 | [Documents : bouton Options d’approbation manquant sur les documents](known-issues-workfront/wf-documents-missing-approval-button.md) | 4 novembre 2024 |

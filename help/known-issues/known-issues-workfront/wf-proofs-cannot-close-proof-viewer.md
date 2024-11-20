@@ -7,7 +7,7 @@ exl-id: b35d21a3-6d8b-48af-87fc-e0f63cf0194c
 source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ Lorsqu’un utilisateur ou une utilisatrice consulte une épreuve dans la vision
 
 Utilisez l’une des méthodes suivantes :
 
-* Accédez au BAT via la liste Documents . Cela peut permettre à l’action de fermeture (clic sur X) de fonctionner comme prévu.
+* Accédez à l’épreuve via la liste Documents. Cela peut permettre à l’action de fermeture (clic sur X) de fonctionner comme prévu.
 * Essayez de fermer l’épreuve à nouveau.
 * Fermez l’épreuve en fermant l’onglet du navigateur.
 

@@ -1,21 +1,22 @@
 ---
-title: "Rapports : les rapports ne se chargent pas"
-description: Lors de la tentative d’accès à un rapport, le chargement du rapport échoue. Cela a été signalé pour les vues Graphique, Résumé et Détail, ainsi que pour la modification du rapport dans le créateur de rapports.
+title: '« Rapports : échec du chargement des rapports »'
+description: Lorsqu’une personne tente d’accéder à un rapport, le chargement échoue. Ce problème a été signalé pour les vues Graphique, Résumé et Détails, ainsi que lors de la modification du rapport dans le créateur de rapports.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
+exl-id: 6fe58622-6673-4830-b867-d4bb8eee1467
+source-git-commit: 894de7cfbd8798d700cd7707edae4a3e86902bec
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 12%
+ht-degree: 100%
 
 ---
 
-# Rapports : le chargement des rapports échoue
+# Rapports : échec du chargement des rapports
 
 >[!NOTE]
 >
 >Ce problème a été résolu le vendredi 14 novembre 2024.
 
-Lors de la tentative d’accès à un rapport, le chargement du rapport échoue. Cela a été signalé pour les vues Graphique, Résumé et Détail, ainsi que pour la modification du rapport dans le créateur de rapports.
+Lorsqu’une personne tente d’accéder à un rapport, le chargement échoue. Ce problème a été signalé pour les vues Graphique, Résumé et Détails, ainsi que lors de la modification du rapport dans le créateur de rapports.
 
 _Premier signalement le vendredi 7 novembre 2024._
