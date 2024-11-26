@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
 workflow-type: tm+mt
 source-wordcount: '6739'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -70,9 +70,9 @@ Lors de la tentative de créer une tâche ou d’en exécuter une dans le widget
 
 #### Utilisateurs
 
-**&quot;Envoyer des emails d’invitation à ces personnes&quot; case à cocher manquante**
+**La case « Envoyer des e-mails d’invitation à ces personnes » est manquante.**
 
-Lors de l’importation de nouveaux utilisateurs dans Workfront, la case à cocher &quot;Envoyer des emails d’invitation à ces personnes&quot; est absente de la fenêtre de boîte de dialogue.
+Lors de l’import de nouvelles personnes dans Workfront, la case « Envoyer des emails d’invitation à ces personnes » est absente de la fenêtre de boîte de dialogue.
 
 +++
 
@@ -102,7 +102,7 @@ Cette mise à jour inclut uniquement des correctifs mineurs ou moins importants.
 
 **L’icône des congés n’apparaît pas lors de l’affectation de tâches.**
 
-Lorsqu’un utilisateur attribue une tâche et commence à saisir le nom de la personne désignée dont le temps de travail est planifié pendant la tâche, les icônes de l’utilisateur sous la zone Affectations proposées n’affichent pas l’icône Temps de service (avion). Néanmoins, si l’utilisateur ou l’utilisatrice poursuit la saisie jusqu’à ce que le nom soit visible dans la liste des équipes et des utilisateurs et utilisatrices, l’icône s’affiche.
+Lorsqu’un utilisateur ou une utilisatrice affecte une tâche et commence à écrire le nom d’une personne en congés pendant la période de la tâche, l’icône des congés (avion) n’apparaît pas parmi les Affectations suggérées. Néanmoins, si l’utilisateur ou l’utilisatrice poursuit la saisie jusqu’à ce que le nom soit visible dans la liste des équipes et des utilisateurs et utilisatrices, l’icône s’affiche.
 
 #### Formulaires personnalisés
 
