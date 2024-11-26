@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: System Setup and Administration
 exl-id: c044ba60-b69d-454d-934e-aeb104b91e4d
 source-git-commit: 894de7cfbd8798d700cd7707edae4a3e86902bec
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -17,6 +17,6 @@ Lorsqu’une personne chargée de l’administration tente de modifier un modèl
 
 **Solution de contournement**
 
-Attribuez-vous le modèle sans réponse avant de le modifier.
+Attribuez-vous le modèle qui ne répond pas avant de le modifier.
 
 _Premier signalement le vendredi 10 octobre 2024._
