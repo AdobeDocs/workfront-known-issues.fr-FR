@@ -4,7 +4,7 @@ description: Problèmes signalés et connus dans la nouvelle expérience  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
+source-git-commit: 8bb5041a13374ce5dde6a1db173487f50d049f17
 workflow-type: tm+mt
 source-wordcount: '1109'
 ht-degree: 99%
@@ -76,7 +76,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront : les paramètres ZScalar peuvent réduire les performances](known-issues-workfront//wf-workfront-zscalar.md) | jeudi 20 novembre 2024 |
+| [Workfront : les paramètres ZScaler peuvent entraîner une réduction des performances](known-issues-workfront//wf-workfront-zscaler.md) | jeudi 20 novembre 2024 |
 | [Notifications : les personnes contributrices ne reçoivent pas de notifications par e-mail.](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | mercredi 12 novembre 2024 |
 | [Rapports : les temps de chargement de Report Builder sont longs.](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | mercredi 12 novembre 2024 |
 | [Notifications : les e-mails de notification de document ne peuvent pas afficher de prévisualisations d’images](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | mercredi 29 octobre 2024 |
