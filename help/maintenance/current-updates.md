@@ -4,9 +4,9 @@ description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '6739'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2024.
 
 #### Tableaux de bord
 
-**Impossible d’interagir avec les barres de rapports de graphique à barres dans les tableaux de bord**
+**Impossible d’interagir avec les barres de rapport de graphique à barres dans les tableaux de bord**
 
 Lorsque vous essayez de cliquer ou de survoler une barre d’un rapport de graphique à barres dans un tableau de bord, le menu Détails ne s’ouvre pas ou aucune info-bulle ne s’affiche, respectivement.
 
@@ -44,17 +44,17 @@ Lorsque vous accédez à un projet, la page ne charge parfois aucun contenu.
 
 #### Rapports
 
-**La modification en masse dans les listes de graphiques ne répond pas**
+**La modification en masse dans les listes de graphiques ne répond pas.**
 
 Lorsqu’une personne utilise la recherche avancée et tente de modifier ou d’éditer en masse les résultats, l’icône Modifier ne répond pas.
 
-**Les boutons Modifier et Supprimer ne répondent pas dans les rapports de feuille de temps**
+**Les boutons Modifier et Supprimer ne répondent pas dans les rapports de feuille de temps.**
 
-Lorsque vous tentez de cliquer sur les icônes Modifier ou Supprimer dans un rapport de feuille de temps, aucune réponse n’est apportée.
+Lorsque vous cliquez sur les icônes Modifier ou Supprimer dans un rapport de feuille de temps, il n’y a aucune réponse.
 
-**Les rapports contenant des champs de type devant ne se chargent pas**
+**Les rapports contenant des champs de saisie semi-automatique ne se chargent pas.**
 
-Lors de l’ouverture d’un rapport contenant des champs de type personnalisé, le rapport échoue parfois à charger et affiche un message d’erreur.
+Lors de l’ouverture d’un rapport contenant des champs de saisie semi-automatique de type personnalisé, le chargement du rapport échoue parfois et un message d’erreur s’affiche.
 
 +++
 
