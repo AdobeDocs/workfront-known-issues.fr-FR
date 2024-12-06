@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
-workflow-type: ht
-source-wordcount: '6739'
-ht-degree: 100%
+source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
+workflow-type: tm+mt
+source-wordcount: '7142'
+ht-degree: 96%
 
 ---
 
@@ -24,7 +24,77 @@ Pour connaître les mises à jour de maintenance antérieures à 2024, consultez
 
 Les mises à jour de maintenance suivantes ont été effectuées en 2024.
 
+## Mises à jour de décembre 2024
+
++++**Mise à jour de maintenance le vendredi 5 décembre 2024**
+
+### Mise à jour de maintenance le 5 décembre 2024
+
+#### Formulaires personnalisés
+
+**Impossible d&#39;ajouter les champs de tâche &quot;estimationByHours&quot; ou &quot;hoursPerPoint&quot;**
+
+Lorsqu’une personne tente d’ajouter les champs &quot;estimatedByHours&quot; ou &quot;hoursPerPoint&quot; à un formulaire personnalisé dans le créateur de formulaires, un message d’erreur s’affiche : « Expression personnalisée non valide, veuillez réessayer. »
+
+**La logique d&#39;affichage ne fonctionne pas dans les formulaires personnalisés**
+
+Lorsqu’un utilisateur saisit des informations dans un formulaire personnalisé avec une logique d’affichage, les champs qui doivent apparaître en fonction de la logique d’affichage n’apparaissent pas.
+
+#### Page d’accueil
+
+**Les contributeurs ont affiché un bouton &quot;Travailler dessus&quot; non fonctionnel**
+
+Les utilisateurs contributeurs ont accès à un bouton &quot;Travailler dessus&quot; non fonctionnel dans le widget Mon travail de la page d’accueil.
+
+#### Rapports
+
+**Les trimestres personnalisés n&#39;apparaissent pas dans les invites de rapport**
+
+Lorsqu’un utilisateur exécute un rapport avec une invite basée sur des dates, les trimestres personnalisés n’apparaissent pas dans la liste de sélections de l’invite.
+
++++
+
 ## Mises à jour de novembre 2024
+
++++**Mise à jour de maintenance le vendredi 28 novembre 2024**
+
+### Mise à jour de maintenance le vendredi 28 novembre 2024
+
+#### Projets
+
+**Impossible de partager les projets en raison de l’erreur &quot;accès à la suppression&quot;**
+
+Lorsqu’elle tente de partager un projet, la personne reçoit l’erreur suivante : vous ne disposez pas d’un accès suffisant pour supprimer ce projet. » Cela se produit même si la personne n’a pas tenté de supprimer le projet, mais qu’elle est propriétaire du projet et dispose d’un accès de partage et de gestion du projet.
+
+#### Rapports
+
+**Champ Nom de catégorie non lié au formulaire personnalisé**
+
+Lors de l’affichage d’une liste dans un rapport contenant un champ Nom de catégorie, il n’est pas possible de cliquer sur le contenu de la colonne Nom de catégorie pour ouvrir le formulaire personnalisé correspondant.
+
+**Regrouper les couleurs personnalisées dans les rapports qui ne fonctionnent pas**
+
+Lors de l’attribution d’une couleur personnalisée à un groupe dans le créateur de rapports, la sélection de couleur n’apparaît pas lors de l’exécution du rapport.
+
+**Temps de chargement long pour les rapports**
+
+Le chargement des rapports prend beaucoup de temps. Cela a une incidence sur l’affichage des rapports, ainsi que sur la modification et la création de rapports dans le créateur de rapports.
+
+**Champ Heure manquant pour les champs Date/Heure calculés dans les invites de rapport**
+
+Lors de l’exécution d’un rapport avec un champ Date/Heure personnalisé utilisé comme invite, le champ de sélection de l’heure est absent de l’interface de l’invite.
+
+**Impossible d’afficher les rapports/tableaux de bord partagés**
+
+Lorsqu’un utilisateur tente d’accéder à un rapport ou à un tableau de bord qui a été partagé avec lui, le rapport ou le tableau de bord est inaccessible.
+
+#### Feuilles de temps
+
+**Les utilisateurs contributeurs ont un bouton &quot;Soumettre pour approbation&quot;**
+
+Bien que les heures ne puissent pas être saisies dans les feuilles de temps, les personnes ayant le niveau d’accès Contributeur ou Contributrice disposent d’un bouton « Soumettre à l’approbation » sur lequel elles peuvent cliquer.
+
++++
 
 +++**Mise à jour de maintenance le vendredi 21 novembre 2024**
 

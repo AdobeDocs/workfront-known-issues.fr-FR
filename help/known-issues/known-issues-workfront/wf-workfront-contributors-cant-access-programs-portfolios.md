@@ -1,16 +1,21 @@
 ---
-title: '« Workfront : les personnes ayant le niveau d’accès Contributeur ou Contributrice ne peuvent pas accéder aux programmes ou aux portefeuilles »'
+title: 'Workfront : les personnes ayant le niveau d’accès Contributeur ou Contributrice ne peuvent pas accéder aux programmes ou aux portefeuilles'
 description: Les personnes ayant le nouveau niveau d’accès Contributeur ou Contributrice ne peuvent pas accéder aux programmes ou aux portefeuilles bien que l’accès aux deux soit inclus dans le niveau d’accès.
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
-workflow-type: ht
-source-wordcount: '66'
+exl-id: 463d212d-ff0a-4de2-ae6e-70a538de497e
+source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
+workflow-type: tm+mt
+source-wordcount: '77'
 ht-degree: 100%
 
 ---
 
 # Workfront : les personnes ayant le niveau d’accès Contributeur ou Contributrice ne peuvent pas accéder aux programmes ou aux portefeuilles
+
+>[!NOTE]
+>
+>Ce problème a été résolu, car tout fonctionne comme prévu.
 
 Les personnes ayant le nouveau niveau d’accès Contributeur ou Contributrice ne peuvent pas accéder aux programmes ou aux portefeuilles bien que l’accès aux deux soit inclus dans le niveau d’accès.
 
