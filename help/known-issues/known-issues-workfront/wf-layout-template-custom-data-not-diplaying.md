@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: System Setup and Administration
 exl-id: f37ecfc5-30b9-4fe2-9e76-a97be0ae969f
 source-git-commit: 273f533553626082787f579b171ab4b314743d58
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '137'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -15,12 +15,12 @@ ht-degree: 77%
 
 >[!NOTE]
 >
->Ce problème a été résolu, car tout fonctionne comme prévu. Voir la solution ci-dessous.
+>Ce problème a été résolu, car tout fonctionne comme prévu. Consultez la solution ci-dessous.
 
 Lorsqu’un administrateur ou une administratrice ajoute un champ de données personnalisé à la section Résumé de la tâche par le biais d’un modèle de mise en page, le champ s’affiche comme vide pour les personnes qui consultent la section Résumé d’une tâche.
 
 **Solution de contournement**
 
-Évitez d’utiliser des points &quot;.&quot; dans les noms de champ personnalisés pour éviter ce problème. Vous pouvez renommer le champ personnalisé dans la section Résumé et inclure un point si vous le souhaitez.
+Évitez d’utiliser des points « . » dans les noms de champ personnalisés pour éviter ce problème. Vous pouvez renommer le champ personnalisé dans la section Résumé et inclure un point si vous le souhaitez.
 
 _Premier signalement le jeudi 2 octobre 2024._

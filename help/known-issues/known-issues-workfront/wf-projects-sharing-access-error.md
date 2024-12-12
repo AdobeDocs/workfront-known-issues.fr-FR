@@ -1,13 +1,13 @@
 ---
-title: 'Projets : impossible de partager des projets en raison d’une erreur d’accès à la suppression'
-description: 'Lorsque vous tentez de partager un projet, l’utilisateur reçoit une erreur : vous ne disposez pas d’un accès suffisant pour supprimer ce projet. Cela se produit même si la personne n’a pas tenté de supprimer le projet, mais qu’elle est propriétaire du projet et dispose d’un accès de partage et de gestion du projet.'
+title: 'Projets : impossible de partager des projets en raison d’une erreur Accès à la suppression'
+description: 'Lorsqu’elle tente de partager un projet, la personne reçoit l’erreur suivante : vous ne disposez pas d’un accès suffisant pour supprimer ce projet. Cela se produit même si la personne n’a pas tenté de supprimer le projet, mais qu’elle est propriétaire du projet et dispose d’un accès de partage et de gestion du projet.'
 hidefromtoc: true
 feature: Projects
 exl-id: 4eb533ed-babc-4ba8-8ac2-5c99e55b95b4
 source-git-commit: a086b3cbc07d6d53dabf88b4575677257621cd1a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 

@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Workfront Integrations and Apps
 exl-id: 5ea65906-84c8-4aad-a4d9-a10b577a4c4c
 source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
@@ -19,6 +19,6 @@ ht-degree: 66%
 >This issue was resolved on October 21, 2024.
 -->
 
-Lorsqu’un utilisateur tente de se connecter à Workfront pour Outlook, le bouton ne répond pas et il ne peut pas se connecter.
+Lorsqu’un utilisateur ou une utilisatrice tente de se connecter à Workfront pour Outlook, le bouton ne répond pas et la connexion est impossible.
 
 _Premier signalement le vendredi 8 août 2024._
