@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 15525c915fd95ffaf04f5ee4725c23856cabed1a
 workflow-type: tm+mt
 source-wordcount: '1165'
-ht-degree: 92%
+ht-degree: 95%
 
 ---
 
@@ -26,10 +26,10 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 | **Problème** | **Dernière modification** |
 | ----------------------------------------------------------------- | ----------------- |
 | [Agile : impossible de modifier des articles en masse dans une itération](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md) | vendredi 5 décembre 2024 |
-| [Approbations : les approbations déléguées n’apparaissent pas pour les délégués](known-issues-workfront/wf-approvals-delegation-not-working.md) | vendredi 5 décembre 2024 |
-| [Documents : Erreur &quot;Modifications non enregistrées&quot; lors de l’ajout d’un formulaire à un document](known-issues-workfront/wf-documents-unsaved-changes-error.md) | vendredi 5 décembre 2024 |
-| [ Tâches : le champ Prêt à démarrer n’est pas mis à jour malgré les prédécesseurs terminés](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md) | mercredi 3 décembre 2024 |
-| [Workfront : changements de format de date dans toute l&#39;application](known-issues-workfront/wf-workfront-date-format-changing.md) | mercredi 3 décembre 2024 |
+| [Approbations : les approbations déléguées n’apparaissent pas pour les personnes déléguées](known-issues-workfront/wf-approvals-delegation-not-working.md) | vendredi 5 décembre 2024 |
+| [Documents : erreur « Modifications non enregistrées » lors de l’ajout d’un formulaire à un document](known-issues-workfront/wf-documents-unsaved-changes-error.md) | vendredi 5 décembre 2024 |
+| [Tâches : le champ Prêt à démarrer n’est pas mis à jour malgré les éléments antérieurs terminés.](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md) | mercredi 3 décembre 2024 |
+| [Workfront : changements de format de date dans toute l’application](known-issues-workfront/wf-workfront-date-format-changing.md) | mercredi 3 décembre 2024 |
 | [Intégrations : impossible de se connecter à Workfront pour Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | mercredi 3 décembre 2024 |
 | [Tâches : problèmes liés au recalcul de la chronologie](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | mercredi 3 décembre 2024 |
 | [Documents : la fonction « ajout rapide » de l’approbation n’inclut pas la saisie de la date limite pour les nouvelles versions](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md) | jeudi 13 novembre 2024 |
