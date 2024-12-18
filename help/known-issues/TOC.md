@@ -3,9 +3,9 @@ user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
 source-git-commit: c99217ec17f8bacf7593c9e337c74952efb6c69b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2214'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -17,12 +17,12 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
-      + [Formulaires personnalisés : données personnalisées non affichées dans le panneau Résumé](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
-      + [Agile : impossible de modifier des articles en masse dans une itération](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
-      + [BAT : Impossible d&#39;ajouter des destinataires au BAT](known-issues-workfront/wf-proofs-cannot-add-recipients.md)
-      + [Bons à tirer : le nom du bon à tirer n’apparaît pas dans l’onglet du navigateur.](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md)
-      + [Tâches : vide l’erreur lors de l’ajout de tâches personnelles](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md)
-      + [Bons à tirer : les BAT de capture web ne sont pas générés](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
+      + [Formulaires personnalisés : données personnalisées non affichées dans le panneau Résumé](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
+      + [Agile : impossible de modifier des histoires en masse dans une itération](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
+      + [Épreuves : impossible d’ajouter des destinataires à l’épreuve](known-issues-workfront/wf-proofs-cannot-add-recipients.md)
+      + [Épreuves : le nom de l’épreuve n’apparaît pas sur l’onglet du navigateur.](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md)
+      + [Tâches : erreur « Oups ! » lors de l’ajout de tâches personnelles](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md)
+      + [Épreuves : les épreuves de la capture web ne se génèrent pas.](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
       + [Approbations : les approbations déléguées n’apparaissent pas pour les personnes déléguées.](known-issues-workfront/wf-approvals-delegation-not-working.md)
       + [Documents : erreur « Modifications non enregistrées » lors de l’ajout d’un formulaire à un document](known-issues-workfront/wf-documents-unsaved-changes-error.md)
       + [Tâches : le champ Prêt à démarrer ne se met pas à jour malgré des éléments antérieurs terminés](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md)
@@ -176,7 +176,7 @@ ht-degree: 97%
       + [Mises à jour : le lien dans le commentaire renvoie à un écran vide.](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
       + [Équipes : impossible d’afficher la personne propriétaire de l’équipe ou de supprimer l’équipe](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [Épreuves : l’épreuve empêche la conversion de la tâche ou du problème en projet.](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
-      + [Tâches : erreur de base de données lors de l’ajout ou de la suppression d’une tâche (précédemment erreur Bizcontext)](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
+      + [Tâches : erreur de base de données lors de l’ajout ou de la suppression d’une tâche (précédemment Bizcontext error)](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
       + [Modèle de disposition : la page de destination est incorrecte.](known-issues-workfront/wf-layout-template-set-to-home-not-request.md)
       + [Rapports : le filtre de rapports ne renvoie pas les résultats attendus.](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [Projet : impossible de convertir le problème en projet si l’épreuve web est jointe](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)

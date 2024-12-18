@@ -5,9 +5,9 @@ keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: 15525c915fd95ffaf04f5ee4725c23856cabed1a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '452'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -39,9 +39,9 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Bons à tirer : impossible d’ajouter des destinataires au BAT](known-issues-workfront/wf-proofs-cannot-add-recipients.md) | jeudi 11 décembre 2024 |
-| [Bons à tirer : le nom du bon à tirer n’apparaît pas sur l’onglet du navigateur](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | jeudi 11 décembre 2024 |
-| [Bons à tirer : les bons à tirer de la capture web ne génèrent pas](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | jeudi 11 décembre 2024 |
+| [Épreuves : impossible d’ajouter des destinataires à l’épreuve](known-issues-workfront/wf-proofs-cannot-add-recipients.md) | jeudi 11 décembre 2024 |
+| [Épreuves : le nom de l’épreuve n’apparaît pas sur l’onglet du navigateur.](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | jeudi 11 décembre 2024 |
+| [Épreuves : les épreuves de la capture web ne se génèrent pas.](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | jeudi 11 décembre 2024 |
 | [Documents : impossible de prévisualiser les documents avec un lien d’aperçu](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | vendredi 15 août 2024 |
 | [Notifications : miniatures non visibles dans les notifications par e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | mardi 8 juillet 2024 |
 | [Impossible de créer une vue pour la liste Documents](known-issues-workfront/wf-documents-cannot-add-new-view.md) | mardi 15 juillet 2024 |
