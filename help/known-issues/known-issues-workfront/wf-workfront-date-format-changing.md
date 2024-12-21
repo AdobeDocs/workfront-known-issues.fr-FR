@@ -3,20 +3,19 @@ title: 'Workfront : changements de format de date dans l’application'
 description: Lorsque vous naviguez entre différentes pages avec des listes dans l’application, le format de date passe sporadiquement de MM/JJ/AAAA à JJ/MM/AAAA ou vice versa.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
-workflow-type: ht
-source-wordcount: '68'
+exl-id: baeed4df-8b86-4767-9991-c0b947b07f3b
+source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
+workflow-type: tm+mt
+source-wordcount: '79'
 ht-degree: 100%
 
 ---
 
 # Workfront : changements de format de date dans l’application
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on August 30, 2024.
--->
+>Ce problème a été clôturé, car la situation n’a pas pu être reproduite.
 
 Lorsque vous naviguez entre différentes pages avec des listes dans l’application, le format de date passe sporadiquement de MM/JJ/AAAA à JJ/MM/AAAA ou vice versa.
 

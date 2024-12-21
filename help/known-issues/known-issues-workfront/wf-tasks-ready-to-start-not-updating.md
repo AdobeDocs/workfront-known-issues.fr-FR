@@ -3,14 +3,19 @@ title: 'Tâches : le champ Prêt à démarrer ne se met pas à jour malgré des
 description: Le champ Prêt à démarrer pour une tâche avec des éléments antérieurs ne parvient pas à se mettre à jour vers True même si tous les éléments antérieurs sont marqués comme Terminés.
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
-workflow-type: ht
-source-wordcount: '70'
+exl-id: 1eb9441c-ffd0-4953-9e5c-61e8e32b8600
+source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
+workflow-type: tm+mt
+source-wordcount: '76'
 ht-degree: 100%
 
 ---
 
 # Tâches : le champ Prêt à démarrer ne se met pas à jour malgré des éléments antérieurs terminés
+
+>[!NOTE]
+>
+>Ce problème a été résolu le mardi 9 décembre 2024.
 
 Le champ Prêt à démarrer pour une tâche avec des éléments antérieurs ne parvient pas à se mettre à jour vers True même si tous les éléments antérieurs sont marqués comme Terminés.
 

@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
-workflow-type: ht
-source-wordcount: '7142'
-ht-degree: 100%
+source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
+workflow-type: tm+mt
+source-wordcount: '7288'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,36 @@ Pour connaître les mises à jour de maintenance antérieures à 2024, consultez
 Les mises à jour de maintenance suivantes ont été effectuées en 2024.
 
 ## Mises à jour de décembre 2024
+
++++**Mise à jour de maintenance le vendredi 19 décembre 2024**
+
+### Mise à jour de maintenance le vendredi 19 décembre 2024
+
+Cette mise à jour inclut uniquement des correctifs mineurs ou moins importants. L’assistance Workfront vous avertira lorsqu’un problème que vous avez soumis sera résolu.
+
++++
+
++++**Mise à jour de maintenance le vendredi 12 décembre 2024**
+
+### Mise à jour de maintenance le vendredi 12 décembre 2024
+
+#### Tableaux de bord
+
+**La colonne disparaît lorsqu’elle est utilisée pour le tri dans un rapport de tableau de bord**
+
+Lors du tri d’un rapport placé dans un tableau de bord par une colonne, la colonne disparaît et le contenu n’est pas trié.
+
+#### Rapports
+
+**L’option Regrouper les colonnes sous le graphique provoque une erreur**
+
+Lors de l’activation de l’option « Regrouper les colonnes sous le graphique » dans un rapport avec un graphique, le message d’erreur suivant s’affiche : « Une erreur s’est produite et nous nous efforçons de la résoudre. Pour continuer votre travail, essayez d’actualiser cette page du navigateur. »
+
+**Les icônes Modifier et Supprimer en bloc sont absentes des rapports**
+
+Lorsque vous tentez de modifier ou de supprimer plusieurs éléments de rapport en bloc, les icônes Modifier et Supprimer n’apparaissent parfois pas.
+
++++
 
 +++**Mise à jour de maintenance le vendredi 5 décembre 2024**
 
