@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: be24594ee77ab33b5bec2e1fcd6219fa6ccebbe2
+source-git-commit: e35f7b857de061973467ddd90400dea51f3a2b59
 workflow-type: tm+mt
-source-wordcount: '2299'
-ht-degree: 96%
+source-wordcount: '2313'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Formulaires personnalisés : le formulaire personnalisé apparaît dans l’ancien format](known-issues-workfront/wf-custom-forms-legacy-form-appears.md)
+      + [Enregistrement de facturation : les heures ne sont pas enregistrées](known-issues-workfront/wf-billing-record-hours-not-saved.md)
       + [Panoramas : impossible de déplacer la carte vers une autre colonne](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
       + [Formulaires personnalisés : un message « Champs non valides » apparaît lors de la modification d’un formulaire personnalisé](known-issues-workfront/wf-custom-forms-blank-required-field.md)
       + [Utilisateurs : la mise à jour en bloc des utilisateurs est très lente.](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
