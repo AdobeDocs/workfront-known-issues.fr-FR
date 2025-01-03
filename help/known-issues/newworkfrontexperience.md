@@ -4,10 +4,10 @@ description: 'Problèmes signalés et connus dans la nouvelle expérience  [!DNL
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
+source-git-commit: be24594ee77ab33b5bec2e1fcd6219fa6ccebbe2
 workflow-type: tm+mt
-source-wordcount: '1195'
-ht-degree: 95%
+source-wordcount: '1230'
+ht-degree: 93%
 
 ---
 
@@ -54,6 +54,10 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | ---------------------------------- | ----------------- |
+| [Panoramas : impossible de déplacer la carte vers une autre colonne](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | vendredi 2 janvier 2025 |
+| [Formulaires personnalisés : un message « Champs non valides » s’affiche lors de la modification d’un formulaire personnalisé](known-issues-workfront/wf-custom-forms-blank-required-field.md) | vendredi 2 janvier 2025 |
+| [Utilisateurs : la mise à jour en bloc des utilisateurs est très lente](known-issues-workfront/wf-users-bulk-update-takes-long-time.md) | vendredi 2 janvier 2025 |
+| [Formulaires personnalisés : les boutons radio sont répertoriés horizontalement](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md) | vendredi 2 janvier 2025 |
 | [Demandes et problèmes : erreur lors des affectations d’utilisateurs avancées](known-issues-workfront/wf-issues-advanced-user-assignment-error.md) | vendredi 2 janvier 2025 |
 | [Formulaires personnalisés : impossible d’ajouter les champs de tâche « estimationByHours » ou « hoursPerPoint »](known-issues-workfront/wf-custom-forms-invalid-fields.md) | samedi 20 décembre 2024 |
 | [Formulaires personnalisés : données personnalisées non affichées dans le panneau Résumé](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | jeudi 11 décembre 2024 |

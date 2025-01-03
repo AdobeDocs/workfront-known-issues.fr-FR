@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
+source-git-commit: be24594ee77ab33b5bec2e1fcd6219fa6ccebbe2
 workflow-type: tm+mt
-source-wordcount: '2268'
-ht-degree: 97%
+source-wordcount: '2299'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Panoramas : impossible de déplacer la carte vers une autre colonne](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
+      + [Formulaires personnalisés : un message « Champs non valides » apparaît lors de la modification d’un formulaire personnalisé](known-issues-workfront/wf-custom-forms-blank-required-field.md)
+      + [Utilisateurs : la mise à jour en bloc des utilisateurs est très lente.](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
+      + [Formulaires personnalisés : les boutons radio sont répertoriés horizontalement](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md)
       + [Mises à jour : les heures consignées ne s’affichent pas sur le libellé Consigner l’heure dans la zone Mises à jour](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
       + [Rapports : les invites de rapport se chargent lentement](known-issues-workfront/wf-reports-prompts-load-slowly.md)
       + [Notifications : les notifications push à l’application mobile Workfront ne fonctionnent pas](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
