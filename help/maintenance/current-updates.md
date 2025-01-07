@@ -4,9 +4,9 @@ description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '7288'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -40,17 +40,17 @@ Cette mise à jour inclut uniquement des correctifs mineurs ou moins importants.
 
 #### Tableaux de bord
 
-**La colonne disparaît lorsqu’elle est utilisée pour le tri dans un rapport de tableau de bord**
+**La colonne disparaît lorsqu’elle est utilisée pour le tri dans un rapport de tableau de bord.**
 
-Lors du tri d’un rapport placé dans un tableau de bord par une colonne, la colonne disparaît et le contenu n’est pas trié.
+Lors du tri d’un rapport placé dans un tableau de bord par une colonne, celle-ci disparaît et le contenu n’est pas trié.
 
 #### Rapports
 
-**L’option Regrouper les colonnes sous le graphique provoque une erreur**
+**L’option Regrouper les colonnes sous le graphique provoque une erreur.**
 
-Lors de l’activation de l’option « Regrouper les colonnes sous le graphique » dans un rapport avec un graphique, le message d’erreur suivant s’affiche : « Une erreur s’est produite et nous nous efforçons de la résoudre. Pour continuer votre travail, essayez d’actualiser cette page du navigateur. »
+Lors de l’activation de l’option « Regrouper les colonnes sous le graphique » dans un rapport contenant un graphique, le message d’erreur suivant s’affiche : « Une erreur s’est produite et nous travaillons à résoudre le problème. Pour continuer votre travail, essayez d’actualiser cette page du navigateur. »
 
-**Les icônes Modifier et Supprimer en bloc sont absentes des rapports**
+**Les icônes Modifier et Supprimer en bloc sont absentes des rapports.**
 
 Lorsque vous tentez de modifier ou de supprimer plusieurs éléments de rapport en bloc, les icônes Modifier et Supprimer n’apparaissent parfois pas.
 
