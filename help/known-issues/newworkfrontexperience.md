@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
 workflow-type: tm+mt
 source-wordcount: '1217'
-ht-degree: 92%
+ht-degree: 98%
 
 ---
 
@@ -28,25 +28,25 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 | [Accueil : boutons d’approbation manquants dans le widget Approbation en attente](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | vendredi 9 janvier 2025 |
 | [Utilisateurs : compte en double créé lors du changement d’administrateur système](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | vendredi 9 janvier 2025 |
 | [Projets : la condition de retard ne s’applique pas comme prévu](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | vendredi 9 janvier 2025 |
-| [Formulaires personnalisés : le formulaire personnalisé s’affiche dans un format hérité](known-issues-workfront/wf-custom-forms-legacy-form-appears.md) | jeudi 3 janvier 2024 |
-| [Enregistrement de facturation : les heures ne sont pas enregistrées](known-issues-workfront/wf-billing-record-hours-not-saved.md) | jeudi 3 janvier 2024 |
-| [Rapports : les invites de rapport se chargent lentement](known-issues-workfront/wf-reports-prompts-load-slowly.md) | mercredi 2 janvier 2024 |
-| [Notifications : les notifications push à l’application mobile Workfront ne fonctionnent pas](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | mercredi 2 janvier 2024 |
-| [Formulaires personnalisés : erreur lors de la modification d’un formulaire personnalisé dans une colonne](known-issues-workfront/wf-custom-forms-error-when-editing.md) | mercredi 2 janvier 2024 |
-| [Documents : erreur « Modifications non enregistrées » lors de l’ajout d’un formulaire à un document](known-issues-workfront/wf-documents-unsaved-changes-error.md) | vendredi 5 décembre 2024 |
-| [Intégrations : impossible de se connecter à Workfront pour Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | mercredi 3 décembre 2024 |
-| [Tâches : problèmes liés au recalcul de la chronologie](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | mercredi 3 décembre 2024 |
-| [Utilisateurs et utilisatrices : la balise « Non enregistré » persiste après la connexion](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md) | jeudi 13 novembre 2024 |
-| [Workfront : le chargement des onglets de navigateur laissés ouverts échoue](known-issues-workfront/wf-workfront-browser-tabs-error.md) | mercredi 12 novembre 2024 |
-| [Workfront Mobile : les liens des e-mails d’épreuve ne s’ouvrent pas sur iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | jeudi 9 octobre 2024 |
-| [API : l’appel API échoue en raison d’une erreur SQL](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | vendredi 12 septembre 2024 |
+| [Formulaires personnalisés : le formulaire personnalisé s’affiche dans un format hérité.](known-issues-workfront/wf-custom-forms-legacy-form-appears.md) | 3 janvier 2024 |
+| [Enregistrement de facturation : les heures ne sont pas enregistrées.](known-issues-workfront/wf-billing-record-hours-not-saved.md) | 3 janvier 2024 |
+| [Rapports : les invites de rapport se chargent lentement.](known-issues-workfront/wf-reports-prompts-load-slowly.md) | 2 janvier 2024 |
+| [Notifications : les notifications push à l’application mobile Workfront ne fonctionnent pas.](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | 2 janvier 2024 |
+| [Formulaires personnalisés : erreur lors de la modification d’un formulaire personnalisé dans une colonne](known-issues-workfront/wf-custom-forms-error-when-editing.md) | 2 janvier 2024 |
+| [Documents : erreur « Modifications non enregistrées » lors de l’ajout d’un formulaire à un document](known-issues-workfront/wf-documents-unsaved-changes-error.md) | 5 décembre 2024 |
+| [Intégrations : impossible de se connecter à Workfront pour Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 3 décembre 2024 |
+| [Tâches : problèmes liés au recalcul de la chronologie](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 3 décembre 2024 |
+| [Utilisateurs et utilisatrices : la balise « Non enregistré » persiste après la connexion](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md) | 13 novembre 2024 |
+| [Workfront : le chargement des onglets de navigateur laissés ouverts échoue](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 12 novembre 2024 |
+| [Workfront Mobile : les liens des e-mails d’épreuve ne s’ouvrent pas sur iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 9 octobre 2024 |
+| [API : l’appel API échoue en raison d’une erreur SQL](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 12 septembre 2024 |
 | [Panoramas : le statut de la carte ne correspond pas à l’objet connecté et contourne le filtre](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 3 septembre 2024 |
-| [Panoramas : la carte connectée est dans une colonne incorrecte.](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | jeudi 28 août 2024 |
-| [Workfront : impossible d’utiliser SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | mardi 26 août 2024 |
-| [Accueil : « Aucun accès » s’affiche comme nom du projet.](known-issues-workfront/wf-home-no-access-project-name.md) | vendredi 15 août 2024 |
-| [Workfront Mobile : impossible de se connecter sans utiliser la méthode SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | jeudi 14 août 2024 |
-| [Intégrations : lier un dossier depuis  [!DNL Google Drive]  ne lie pas les ressources dans le dossier.](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | mercredi 25 juin 2024 |
-| [Rapports : erreur lors de l’affichage des détails du rapport regroupés par date personnalisée](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | samedi 14 juin 2024 |
+| [Panoramas : la carte connectée est dans une colonne incorrecte.](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 28 août 2024 |
+| [Workfront : impossible d’utiliser SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | 26 août 2024 |
+| [Accueil : « Aucun accès » s’affiche comme nom du projet.](known-issues-workfront/wf-home-no-access-project-name.md) | 15 août 2024 |
+| [Workfront Mobile : impossible de se connecter sans utiliser la méthode SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 14 août 2024 |
+| [Intégrations : lier un dossier depuis  [!DNL Google Drive]  ne lie pas les ressources dans le dossier.](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juin 2024 |
+| [Rapports : erreur lors de l’affichage des détails du rapport regroupés par date personnalisée](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 14 juin 2024 |
 | [Configuration : la bannière « Connexion en tant que » n’apparaît pas en cas de connexion en tant qu’autre personne.](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7 mai 2024 |
 
 {style="table-layout:auto"}
@@ -57,20 +57,20 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | ---------------------------------- | ----------------- |
-| [Panoramas : impossible de déplacer la carte vers une autre colonne](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | vendredi 2 janvier 2025 |
-| [Formulaires personnalisés : un message « Champs non valides » s’affiche lors de la modification d’un formulaire personnalisé](known-issues-workfront/wf-custom-forms-blank-required-field.md) | vendredi 2 janvier 2025 |
-| [Utilisateurs : la mise à jour en bloc des utilisateurs est très lente](known-issues-workfront/wf-users-bulk-update-takes-long-time.md) | vendredi 2 janvier 2025 |
-| [Demandes et problèmes : erreur lors des affectations d’utilisateurs avancées](known-issues-workfront/wf-issues-advanced-user-assignment-error.md) | vendredi 2 janvier 2025 |
-| [Formulaires personnalisés : données personnalisées non affichées dans le panneau Résumé](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | jeudi 11 décembre 2024 |
-| [Épreuves : le nom de l’épreuve n’apparaît pas sur l’onglet du navigateur.](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | jeudi 11 décembre 2024 |
-| [Rapports : la modification en bloc dans les listes de graphiques ne répond pas](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | mercredi 3 décembre 2024 |
-| [Rapports : les temps de chargement de Report Builder sont longs.](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | vendredi 21 novembre 2024 |
-| [API : des requêtes dépassent leur délai d’expiration.](known-issues-workfront/wf-api-request-timing-out.md) | vendredi 24 octobre 2024 |
-| [Intégrations : impossible de se connecter à Workfront pour Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | mercredi 24 septembre 2024 |
-| [Formulaires personnalisés : Forms utilise par défaut les formulaires de projet](known-issues-workfront/wf-custom-forms-default-to-project.md) | vendredi 22 août 2024 |
-| [Configuration : problèmes lors de la déconnexion en tant qu’autre utilisateur ou utilisatrice](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | vendredi 15 août 2024 |
-| [Notifications : erreur de type « Oups » lors de la définition des préférences de notification](known-issues-workfront/wf-notifications-whoops-error.md) | vendredi 8 août 2024 |
-| [Niveaux d’accès : niveaux d’accès en double dans la zone de configuration](known-issues-workfront/wf-access-duplicate-level.md) | vendredi 25 juillet 2024 |
+| [Panoramas : impossible de déplacer la carte vers une autre colonne](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | 2 janvier 2025 |
+| [Formulaires personnalisés : un message « Champs non valides » s’affiche lors de la modification d’un formulaire personnalisé.](known-issues-workfront/wf-custom-forms-blank-required-field.md) | 2 janvier 2025 |
+| [Utilisateurs et utilisatrices : la mise à jour en masse est très lente.](known-issues-workfront/wf-users-bulk-update-takes-long-time.md) | 2 janvier 2025 |
+| [Demandes et problèmes : erreur lors des affectations avancées de personnes](known-issues-workfront/wf-issues-advanced-user-assignment-error.md) | 2 janvier 2025 |
+| [Formulaires personnalisés : données personnalisées non affichées dans le panneau Résumé](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 11 décembre 2024 |
+| [Épreuves : le nom de l’épreuve n’apparaît pas sur l’onglet du navigateur.](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | 11 décembre 2024 |
+| [Rapports : la modification en bloc dans les listes de graphiques ne répond pas](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 3 décembre 2024 |
+| [Rapports : les temps de chargement de Report Builder sont longs.](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 21 novembre 2024 |
+| [API : des requêtes dépassent leur délai d’expiration.](known-issues-workfront/wf-api-request-timing-out.md) | 24 octobre 2024 |
+| [Intégrations : impossible de se connecter à Workfront pour Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 24 septembre 2024 |
+| [Formulaires personnalisés : Forms utilise par défaut les formulaires de projet](known-issues-workfront/wf-custom-forms-default-to-project.md) | 22 août 2024 |
+| [Configuration : problèmes lors de la déconnexion en tant qu’autre utilisateur ou utilisatrice](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 15 août 2024 |
+| [Notifications : erreur de type « Oups » lors de la définition des préférences de notification](known-issues-workfront/wf-notifications-whoops-error.md) | 8 août 2024 |
+| [Niveaux d’accès : niveaux d’accès en double dans la zone de configuration](known-issues-workfront/wf-access-duplicate-level.md) | 25 juillet 2024 |
 | [Équipes : impossible d’afficher la personne propriétaire de l’équipe ou de supprimer l’équipe](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 avril 2024 |
 | [[!DNL Workfront] : problèmes lors de la soumission d’un cas d’assistance [!DNL Workfront] sur Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 août 2022 |
 
@@ -82,29 +82,29 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Épreuves : les épreuves de la capture web ne se génèrent pas.](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | samedi 20 décembre 2024 |
-| [Workfront : changements de format de date dans toute l’application](known-issues-workfront/wf-workfront-date-format-changing.md) | samedi 20 décembre 2024 |
-| [Approbations : les approbations déléguées n’apparaissent pas pour les personnes déléguées](known-issues-workfront/wf-approvals-delegation-not-working.md) | samedi 20 décembre 2024 |
-| [Tâches : erreur de base de données lors de l’ajout ou de la suppression d’une tâche (précédemment Bizcontext error)](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | mercredi 10 décembre 2024 |
+| [Épreuves : les épreuves de la capture web ne se génèrent pas.](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 20 décembre 2024 |
+| [Workfront : changements de format de date dans toute l’application](known-issues-workfront/wf-workfront-date-format-changing.md) | 20 décembre 2024 |
+| [Approbations : les approbations déléguées n’apparaissent pas pour les personnes déléguées](known-issues-workfront/wf-approvals-delegation-not-working.md) | 20 décembre 2024 |
+| [Tâches : erreur de base de données lors de l’ajout ou de la suppression d’une tâche (précédemment Bizcontext error)](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 10 décembre 2024 |
 | [Modèles de mise en page : les champs de données personnalisés ne s’affichent pas lorsqu’ils sont ajoutés au Résumé de la tâche par le biais du modèle de mise en page.](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 4 novembre 2024 |
-| [Notifications : les notifications par e-mail pour les mises à jour ne sont pas envoyées](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | vendredi 5 décembre 2024 |
-| [Workfront : les personnes ayant le niveau d’accès Contributeur ou Contributrice ne peuvent pas accéder aux programmes ou aux portefeuilles](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | vendredi 5 décembre 2024 |
-| [Workfront : les paramètres ZScaler peuvent diminuer les performances.](known-issues-workfront//wf-workfront-zscaler.md) | jeudi 20 novembre 2024 |
-| [Notifications : les personnes contributrices ne reçoivent pas de notifications par e-mail.](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | mercredi 12 novembre 2024 |
-| [Rapports : les temps de chargement de Report Builder sont longs.](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | mercredi 12 novembre 2024 |
-| [Notifications : les e-mails de notification de document ne peuvent pas afficher de prévisualisations d’images](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | mercredi 29 octobre 2024 |
-| [Rapports : erreur lors de l’export du rapport](known-issues-workfront/wf-reports-error-cache-content.md) | mardi 14 octobre 2024 |
-| [Accueil : les champs personnalisés supprimés persistent dans les widgets de projet, de tâche et de problème.](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | mercredi 8 octobre 2024 |
-| [Priorités : les regroupements empêchent le tri et la modification en ligne.](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | mercredi 8 octobre 2024 |
-| [Rapports : impossible de faire défiler l’écran pour afficher l’intégralité d’un rapport de graphique](known-issues-workfront/wf-reports-unable-to-scroll.md) | vendredi 19 septembre 2024 |
-| [Workfront : plusieurs onglets du navigateur entraînent la déconnexion de Workfront.](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | jeudi 18 septembre 2024 |
-| [Formulaires personnalisés : champ calculé indiquant une valeur incorrecte](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | vendredi 12 septembre 2024 |
-| [Accueil : la page d’accueil se bloque avec une erreur de mémoire insuffisante.](known-issues-workfront/wf-home-crashes-with-error.md) | vendredi 12 septembre 2024 |
-| [Panoramas : le panorama de l’utilisateur ou de l’utilisatrice ne s’affiche pas lors de l’utilisation de [!UICONTROL Connexion en tant que]](known-issues-workfront/wf-boards-log-in-as.md). | samedi 30 août 2024 |
-| [Navigation : le bouton Retour ne revient pas à la page précédente.](known-issues-workfront/wf-navigation-back-button-not-work.md) | samedi 30 août 2024 |
-| [Notifications : miniatures non visibles dans les notifications par e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | mercredi 27 août 2024 |
-| [Accueil : le widget Mes problèmes n’affiche pas les problèmes fermés ou terminés.](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md) | vendredi 20 juin 2024 |
-| [Accueil : impossible de supprimer le widget Mentions](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | jeudi 12 juin 2024 |
+| [Notifications : les notifications par e-mail pour les mises à jour ne sont pas envoyées](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | 5 décembre 2024 |
+| [Workfront : les personnes ayant le niveau d’accès Contributeur ou Contributrice ne peuvent pas accéder aux programmes ou aux portefeuilles](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | 5 décembre 2024 |
+| [Workfront : les paramètres ZScaler peuvent diminuer les performances.](known-issues-workfront//wf-workfront-zscaler.md) | 20 novembre 2024 |
+| [Notifications : les personnes contributrices ne reçoivent pas de notifications par e-mail.](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 12 novembre 2024 |
+| [Rapports : les temps de chargement de Report Builder sont longs.](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 12 novembre 2024 |
+| [Notifications : les e-mails de notification de document ne peuvent pas afficher de prévisualisations d’images](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | 29 octobre 2024 |
+| [Rapports : erreur lors de l’export du rapport](known-issues-workfront/wf-reports-error-cache-content.md) | 14 octobre 2024 |
+| [Accueil : les champs personnalisés supprimés persistent dans les widgets de projet, de tâche et de problème.](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 8 octobre 2024 |
+| [Priorités : les regroupements empêchent le tri et la modification en ligne.](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | 8 octobre 2024 |
+| [Rapports : impossible de faire défiler l’écran pour afficher l’intégralité d’un rapport de graphique](known-issues-workfront/wf-reports-unable-to-scroll.md) | 19 septembre 2024 |
+| [Workfront : plusieurs onglets du navigateur entraînent la déconnexion de Workfront.](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | 18 septembre 2024 |
+| [Formulaires personnalisés : champ calculé indiquant une valeur incorrecte](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 12 septembre 2024 |
+| [Accueil : la page d’accueil se bloque avec une erreur de mémoire insuffisante.](known-issues-workfront/wf-home-crashes-with-error.md) | 12 septembre 2024 |
+| [Panoramas : le panorama de l’utilisateur ou de l’utilisatrice ne s’affiche pas lors de l’utilisation de [!UICONTROL Connexion en tant que]](known-issues-workfront/wf-boards-log-in-as.md). | 30 août 2024 |
+| [Navigation : le bouton Retour ne revient pas à la page précédente.](known-issues-workfront/wf-navigation-back-button-not-work.md) | 30 août 2024 |
+| [Notifications : miniatures non visibles dans les notifications par e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 27 août 2024 |
+| [Accueil : le widget Mes problèmes n’affiche pas les problèmes fermés ou terminés.](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md) | 20 juin 2024 |
+| [Accueil : impossible de supprimer le widget Mentions](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | 12 juin 2024 |
 | [Épreuves : l’épreuve empêche la conversion de la tâche ou du problème en projet.](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 7 juin 2024 |
 | [Mises à jour : les utilisateurs Demandeur et utilisatrices Demandeuse ne peuvent pas ajouter d’images aux mises à jour.](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 7 juin 2024 |
 | [Accueil : les tâches des projets dont le statut est Approuvé ou Planification ne sont pas incluses dans Mes tâches ou la liste de travail dans Accueil](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 7 juin 2024 |

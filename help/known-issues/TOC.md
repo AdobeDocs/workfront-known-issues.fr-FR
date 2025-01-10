@@ -5,7 +5,7 @@ role: User
 source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
 workflow-type: tm+mt
 source-wordcount: '2336'
-ht-degree: 94%
+ht-degree: 99%
 
 ---
 
@@ -20,18 +20,18 @@ ht-degree: 94%
       + [Accueil : boutons d’approbation manquants dans le widget Approbation en attente](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md)
       + [Utilisateurs : compte en double créé lors du changement d’administrateur système](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
       + [Projets : la condition de retard ne s’applique pas comme prévu](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
-      + [Formulaires personnalisés : le formulaire personnalisé apparaît dans l’ancien format](known-issues-workfront/wf-custom-forms-legacy-form-appears.md)
-      + [Enregistrement de facturation : les heures ne sont pas enregistrées](known-issues-workfront/wf-billing-record-hours-not-saved.md)
-      + [Panoramas : impossible de déplacer la carte vers une autre colonne](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
-      + [Formulaires personnalisés : un message « Champs non valides » apparaît lors de la modification d’un formulaire personnalisé](known-issues-workfront/wf-custom-forms-blank-required-field.md)
-      + [Utilisateurs : la mise à jour en bloc des utilisateurs est très lente.](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
-      + [Formulaires personnalisés : les boutons radio sont répertoriés horizontalement](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md)
-      + [Mises à jour : les heures consignées ne s’affichent pas sur le libellé Consigner l’heure dans la zone Mises à jour](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
-      + [Rapports : les invites de rapport se chargent lentement](known-issues-workfront/wf-reports-prompts-load-slowly.md)
-      + [Notifications : les notifications push à l’application mobile Workfront ne fonctionnent pas](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
-      + [Documents : la zone Documents n’affiche pas tous les documents](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md)
-      + [Formulaires personnalisés : erreur lors de la modification d’un formulaire personnalisé dans une colonne](known-issues-workfront/wf-custom-forms-error-when-editing.md)
-      + [Demandes et problèmes : erreur lors des affectations avancées d’utilisateurs](known-issues-workfront/wf-issues-advanced-user-assignment-error.md)
+      + [Formulaires personnalisés : le formulaire personnalisé s’affiche dans un format hérité.](known-issues-workfront/wf-custom-forms-legacy-form-appears.md)
+      + [Enregistrement de facturation : les heures ne sont pas enregistrées.](known-issues-workfront/wf-billing-record-hours-not-saved.md)
+      + [Panoramas : impossible de déplacer la carte vers une autre colonne](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
+      + [Formulaires personnalisés : un message « Champs non valides » s’affiche lors de la modification d’un formulaire personnalisé.](known-issues-workfront/wf-custom-forms-blank-required-field.md)
+      + [Utilisateurs et utilisatrices : la mise à jour en masse est très lente.](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
+      + [Formulaires personnalisés : les cases d’option sont répertoriées horizontalement.](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md)
+      + [Mises à jour : les heures consignées ne s’affichent pas sur le libellé Consigner l’heure dans la zone Mises à jour.](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
+      + [Rapports : les invites de rapport se chargent lentement.](known-issues-workfront/wf-reports-prompts-load-slowly.md)
+      + [Notifications : les notifications push à l’application mobile Workfront ne fonctionnent pas.](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
+      + [Documents : la zone Documents n’affiche pas tous les documents.](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md)
+      + [Formulaires personnalisés : erreur lors de la modification d’un formulaire personnalisé dans une colonne](known-issues-workfront/wf-custom-forms-error-when-editing.md)
+      + [Demandes et problèmes : erreur lors des affectations avancées de personnes](known-issues-workfront/wf-issues-advanced-user-assignment-error.md)
       + [Formulaires personnalisés : données personnalisées non affichées dans le panneau Résumé](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
       + [Agile : impossible de modifier des histoires en masse dans une itération](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
       + [Épreuves : impossible d’ajouter des destinataires à l’épreuve](known-issues-workfront/wf-proofs-cannot-add-recipients.md)
