@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: e35f7b857de061973467ddd90400dea51f3a2b59
+source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
 workflow-type: tm+mt
-source-wordcount: '2313'
-ht-degree: 95%
+source-wordcount: '2336'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Accueil : boutons d’approbation manquants dans le widget Approbation en attente](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md)
+      + [Utilisateurs : compte en double créé lors du changement d’administrateur système](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
+      + [Projets : la condition de retard ne s’applique pas comme prévu](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
       + [Formulaires personnalisés : le formulaire personnalisé apparaît dans l’ancien format](known-issues-workfront/wf-custom-forms-legacy-form-appears.md)
       + [Enregistrement de facturation : les heures ne sont pas enregistrées](known-issues-workfront/wf-billing-record-hours-not-saved.md)
       + [Panoramas : impossible de déplacer la carte vers une autre colonne](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)

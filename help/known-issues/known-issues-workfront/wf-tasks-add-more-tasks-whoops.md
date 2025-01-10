@@ -4,14 +4,18 @@ description: Lorsqu’une persone sur la liste des tâches essaie de créer une 
 hidefromtoc: true
 feature: Tasks
 exl-id: afe057ed-662c-4beb-98db-e11b58b97165
-source-git-commit: 87ca9e2055e1dc2aaf07410ac7a4c9b8151ba49e
-workflow-type: ht
-source-wordcount: '120'
+source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
+workflow-type: tm+mt
+source-wordcount: '126'
 ht-degree: 100%
 
 ---
 
 # Tâches : erreur « Oups ! » lors de l’ajout de tâches personnelles
+
+>[!NOTE]
+>
+>Ce problème a été résolu le vendredi 26 décembre 2024.
 
 Le bouton Ajouter d’autres tâches ne fonctionne pas pour les tâches personnelles et le message suivant s’affiche :
 
