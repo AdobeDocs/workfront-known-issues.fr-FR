@@ -1,19 +1,19 @@
 ---
-title: 'Demandes et problèmes : erreur lors des affectations avancées d’utilisateurs'
-description: Lorsque l’utilisateur tente une affectation d’utilisateur avancée pour une demande ou un événement, l’utilisateur n’est pas affecté et un message d’erreur apparaît.
+title: 'Demandes et problèmes : erreur lors des affectations avancées de personnes'
+description: Lorsqu’un utilisateur ou une utilisatrice tente d’effectuer une affectation avancée d’une personne à une demande ou à un problème, la personne n’est pas affectée et un message d’erreur s’affiche.
 hidefromtoc: true
 feature: Requests, Work Management
-source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
-workflow-type: tm+mt
+exl-id: 9310726c-646e-46f0-a419-a232086f4738
+source-git-commit: 583dbaaaf1c633fecf0c3440d1f7395148f88750
+workflow-type: ht
 source-wordcount: '101'
-ht-degree: 25%
+ht-degree: 100%
 
 ---
 
+# Demandes et problèmes : erreur lors des affectations avancées de personnes
 
-# Demandes et problèmes : erreur lors des affectations avancées d’utilisateurs
-
-Lorsque l’utilisateur tente une affectation d’utilisateur avancée pour une demande ou un événement, l’utilisateur n’est pas affecté et le message d’erreur suivant apparaît :
+Lorsqu’un utilisateur ou une utilisatrice tente d’effectuer une affectation avancée d’une personne à une demande ou à un problème, la personne n’est pas affectée et l’erreur suivante s’affiche :
 
 « Une erreur s’est produite et nous travaillons à résoudre le problème. Pour continuer votre travail, essayez d’actualiser cette page du navigateur. »
 

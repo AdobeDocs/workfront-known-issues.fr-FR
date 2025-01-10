@@ -1,22 +1,22 @@
 ---
-title: 'Utilisateurs : la mise à jour en bloc des utilisateurs est très lente.'
-description: Lorsque l’utilisateur tente de modifier des utilisateurs en bloc, l’ouverture de la fenêtre de modification prend beaucoup de temps. Cela est vrai même pour seulement deux utilisateurs, mais plus d’utilisateurs prennent encore plus de temps.
+title: 'Utilisateurs et utilisatrices : la mise à jour en masse est très lente.'
+description: Lorsqu’une personne tente de modifier des personnes en masse, l’ouverture de la fenêtre de modification prend beaucoup de temps. Le temps est d’autant plus long que le nombre de personnes est élevé.
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: be24594ee77ab33b5bec2e1fcd6219fa6ccebbe2
-workflow-type: tm+mt
+exl-id: 937bf534-e401-4a2f-9193-af935cfa5337
+source-git-commit: 39ddb7a3c9a64fffaf3a9ca0a4fc399400b2e665
+workflow-type: ht
 source-wordcount: '93'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
-
-# Utilisateurs : la mise à jour en bloc des utilisateurs est très lente.
+# Utilisateurs et utilisatrices : la mise à jour en masse est très lente.
 
 >[!NOTE]
 >
->Ce problème a été signalé uniquement pour les environnements Sandbox.
+>Ce problème a été signalé uniquement pour les environnements Sandbox.
 
-Lorsque l’utilisateur tente de modifier des utilisateurs en bloc, l’ouverture de la fenêtre de modification prend beaucoup de temps. Cela est vrai même pour seulement deux utilisateurs, mais plus d’utilisateurs prennent encore plus de temps.
+Lorsqu’une personne tente de modifier des personnes en masse, l’ouverture de la fenêtre de modification prend beaucoup de temps. Le temps est d’autant plus long que le nombre de personnes est élevé.
 
 _Premier signalement le samedi 6 décembre 2024._
