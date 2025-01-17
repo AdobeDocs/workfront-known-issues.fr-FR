@@ -5,9 +5,9 @@ keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1217'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -25,9 +25,9 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Accueil : boutons d’approbation manquants dans le widget Approbation en attente](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | vendredi 9 janvier 2025 |
-| [Utilisateurs : compte en double créé lors du changement d’administrateur système](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | vendredi 9 janvier 2025 |
-| [Projets : la condition de retard ne s’applique pas comme prévu](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | vendredi 9 janvier 2025 |
+| [Accueil : boutons d’approbation manquants dans le widget Approbation en attente](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | vendredi 9 janvier 2025 |
+| [Utilisateurs et utilisatrices : compte en double créé lors d’un changement d’administrateur ou d’administratrice système](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | vendredi 9 janvier 2025 |
+| [Projets : la condition « En retard » ne s’applique pas comme prévu.](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | vendredi 9 janvier 2025 |
 | [Formulaires personnalisés : le formulaire personnalisé s’affiche dans un format hérité.](known-issues-workfront/wf-custom-forms-legacy-form-appears.md) | 3 janvier 2024 |
 | [Enregistrement de facturation : les heures ne sont pas enregistrées.](known-issues-workfront/wf-billing-record-hours-not-saved.md) | 3 janvier 2024 |
 | [Rapports : les invites de rapport se chargent lentement.](known-issues-workfront/wf-reports-prompts-load-slowly.md) | 2 janvier 2024 |

@@ -2,10 +2,11 @@
 title: Mises à jour de maintenance Workfront en 2024
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 feature: Get Started with Workfront
-source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
-workflow-type: tm+mt
+exl-id: 8a8ade95-d940-4773-8032-724bc2d8301e
+source-git-commit: abb417f3b19f2c8a5ef27a2318f4fde55fadc99d
+workflow-type: ht
 source-wordcount: '7353'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -55,9 +56,9 @@ Lorsque vous tentez de modifier ou de supprimer plusieurs éléments de rapport 
 
 **Erreurs dans les rapports de projet (données financières)**
 
-Une erreur Oups s’affiche par intermittence pour les rapports Projet (Données financières), à la fois dans la page des détails et dans la page de la matrice.
+Une erreur de type « Oups » s’affiche par intermittence pour les rapports de projets (données financières), à la fois sur la page des détails et sur la page de la matrice.
 
-Pour résoudre ce problème, les projets de ce type de rapport ne sont plus recalculés automatiquement avant le chargement des données. Les utilisateurs doivent recalculer manuellement les données financières de projets individuels pour mettre à jour les données d&#39;un rapport de données financières.
+Pour résoudre ce problème, les projets avec ce type de rapport ne sont plus recalculés automatiquement avant le chargement des données. Les utilisateurs et les utilisatrices doivent recalculer manuellement les données financières dans les projets individuels pour mettre à jour les données d’un rapport de données financières.
 
 +++
 
