@@ -4,10 +4,10 @@ description: 'Problèmes signalés et connus dans la nouvelle expérience  [!DNL
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
-workflow-type: ht
-source-wordcount: '1217'
-ht-degree: 100%
+source-git-commit: 72d8b7becf9d5a009c04108f3492bd19d1261a8c
+workflow-type: tm+mt
+source-wordcount: '1179'
+ht-degree: 98%
 
 ---
 
@@ -25,15 +25,14 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Tâches : les heures consignées restent sur le projet précédent une fois déplacées](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md) | vendredi 16 janvier 2025 |
+| [Rapports : les filtres des rapports horaires incluent des dates incorrectes](/help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md) | vendredi 16 janvier 2025 |
+| [Feuilles de temps : nombre d&#39;heures total incorrect](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md) | vendredi 16 janvier 2025 |
 | [Accueil : boutons d’approbation manquants dans le widget Approbation en attente](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | vendredi 9 janvier 2025 |
 | [Utilisateurs et utilisatrices : compte en double créé lors d’un changement d’administrateur ou d’administratrice système](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | vendredi 9 janvier 2025 |
 | [Projets : la condition « En retard » ne s’applique pas comme prévu.](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | vendredi 9 janvier 2025 |
-| [Formulaires personnalisés : le formulaire personnalisé s’affiche dans un format hérité.](known-issues-workfront/wf-custom-forms-legacy-form-appears.md) | 3 janvier 2024 |
 | [Enregistrement de facturation : les heures ne sont pas enregistrées.](known-issues-workfront/wf-billing-record-hours-not-saved.md) | 3 janvier 2024 |
-| [Rapports : les invites de rapport se chargent lentement.](known-issues-workfront/wf-reports-prompts-load-slowly.md) | 2 janvier 2024 |
-| [Notifications : les notifications push à l’application mobile Workfront ne fonctionnent pas.](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | 2 janvier 2024 |
-| [Formulaires personnalisés : erreur lors de la modification d’un formulaire personnalisé dans une colonne](known-issues-workfront/wf-custom-forms-error-when-editing.md) | 2 janvier 2024 |
-| [Documents : erreur « Modifications non enregistrées » lors de l’ajout d’un formulaire à un document](known-issues-workfront/wf-documents-unsaved-changes-error.md) | 5 décembre 2024 |
+| [Notifications : les notifications push vers l’application mobile Workfront ne fonctionnent pas.](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | 2 janvier 2024 |
 | [Intégrations : impossible de se connecter à Workfront pour Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 3 décembre 2024 |
 | [Tâches : problèmes liés au recalcul de la chronologie](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 3 décembre 2024 |
 | [Utilisateurs et utilisatrices : la balise « Non enregistré » persiste après la connexion](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md) | 13 novembre 2024 |
@@ -58,11 +57,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | **Problème** | **Dernière modification** |
 | ---------------------------------- | ----------------- |
 | [Panoramas : impossible de déplacer la carte vers une autre colonne](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | 2 janvier 2025 |
-| [Formulaires personnalisés : un message « Champs non valides » s’affiche lors de la modification d’un formulaire personnalisé.](known-issues-workfront/wf-custom-forms-blank-required-field.md) | 2 janvier 2025 |
 | [Utilisateurs et utilisatrices : la mise à jour en masse est très lente.](known-issues-workfront/wf-users-bulk-update-takes-long-time.md) | 2 janvier 2025 |
-| [Demandes et problèmes : erreur lors des affectations avancées de personnes](known-issues-workfront/wf-issues-advanced-user-assignment-error.md) | 2 janvier 2025 |
 | [Formulaires personnalisés : données personnalisées non affichées dans le panneau Résumé](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 11 décembre 2024 |
-| [Épreuves : le nom de l’épreuve n’apparaît pas sur l’onglet du navigateur.](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | 11 décembre 2024 |
 | [Rapports : la modification en bloc dans les listes de graphiques ne répond pas](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 3 décembre 2024 |
 | [Rapports : les temps de chargement de Report Builder sont longs.](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 21 novembre 2024 |
 | [API : des requêtes dépassent leur délai d’expiration.](known-issues-workfront/wf-api-request-timing-out.md) | 24 octobre 2024 |
@@ -82,6 +78,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Rapports : les invites de rapport se chargent lentement.](known-issues-workfront/wf-reports-prompts-load-slowly.md) | mercredi 16 janvier 2024 |
 | [Épreuves : les épreuves de la capture web ne se génèrent pas.](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 20 décembre 2024 |
 | [Workfront : changements de format de date dans toute l’application](known-issues-workfront/wf-workfront-date-format-changing.md) | 20 décembre 2024 |
 | [Approbations : les approbations déléguées n’apparaissent pas pour les personnes déléguées](known-issues-workfront/wf-approvals-delegation-not-working.md) | 20 décembre 2024 |

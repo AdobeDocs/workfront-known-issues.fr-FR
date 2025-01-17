@@ -4,14 +4,18 @@ description: Lorsqu’un utilisateur ou une utilisatrice tente d’effectuer une
 hidefromtoc: true
 feature: Requests, Work Management
 exl-id: 9310726c-646e-46f0-a419-a232086f4738
-source-git-commit: 583dbaaaf1c633fecf0c3440d1f7395148f88750
-workflow-type: ht
-source-wordcount: '101'
+source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
+workflow-type: tm+mt
+source-wordcount: '107'
 ht-degree: 100%
 
 ---
 
 # Demandes et problèmes : erreur lors des affectations avancées de personnes
+
+>[!NOTE]
+>
+>Ce problème a été résolu le vendredi 16 janvier 2025.
 
 Lorsqu’un utilisateur ou une utilisatrice tente d’effectuer une affectation avancée d’une personne à une demande ou à un problème, la personne n’est pas affectée et l’erreur suivante s’affiche :
 

@@ -4,14 +4,18 @@ description: Lorsqu’une personne consulte une liste d’objets qui inclut des 
 hidefromtoc: true
 feature: Custom Forms
 exl-id: 33d0d447-cde0-445f-80da-64f9a63814e9
-source-git-commit: 583dbaaaf1c633fecf0c3440d1f7395148f88750
-workflow-type: ht
-source-wordcount: '138'
+source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
+workflow-type: tm+mt
+source-wordcount: '144'
 ht-degree: 100%
 
 ---
 
 # Formulaires personnalisés : erreur lors de la modification d’un formulaire personnalisé dans une colonne
+
+>[!NOTE]
+>
+>Cet élément a été corrigé le vendredi 9 janvier 2025.
 
 Lorsqu’une personne consulte une liste d’objets qui inclut des liens vers des formulaires personnalisés et tente de modifier un formulaire personnalisé en cliquant sur le lien, l’opération échoue et le message suivant s’affiche :
 
