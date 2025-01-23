@@ -1,16 +1,21 @@
 ---
-title: '« Utilisateurs et utilisatrices : la balise "Non enregistré" persiste après la connexion »'
-description: « Même après une première connexion réussie, la balise "Non enregistré" ne disparaît pas comme prévu pour les nouveaux utilisateurs et utilisatrices. »
+title: 'Utilisateurs et utilisatrices : la balise « Non enregistré » persiste après la connexion'
+description: Même après une première connexion réussie, la balise « Non enregistré » ne disparaît pas comme prévu pour les nouveaux utilisateurs et utilisatrices.
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
-workflow-type: ht
-source-wordcount: '54'
+exl-id: 74bfb5e2-d6a1-47c9-9972-f2167ee2909b
+source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
+workflow-type: tm+mt
+source-wordcount: '60'
 ht-degree: 100%
 
 ---
 
 # Utilisateurs et utilisatrices : la balise « Non enregistré » persiste après la connexion
+
+>[!NOTE]
+>
+>Cet élément a été corrigé le vendredi 23 janvier 2025.
 
 Même après une première connexion réussie, la balise « Non enregistré » ne disparaît pas comme prévu pour les nouveaux utilisateurs et utilisatrices.
 

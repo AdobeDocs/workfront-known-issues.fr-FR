@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
-workflow-type: ht
-source-wordcount: '281'
-ht-degree: 100%
+source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
+workflow-type: tm+mt
+source-wordcount: '337'
+ht-degree: 91%
 
 ---
 
@@ -25,6 +25,24 @@ Pour connaître les mises à jour de maintenance antérieures à 2025, consultez
 Les mises à jour de maintenance suivantes ont été effectuées en 2025.
 
 ## Mises à jour de janvier 2025
+
++++**Mise à jour de maintenance le vendredi 23 janvier 2025**
+
+### Mise à jour de maintenance le vendredi 23 janvier 2025
+
+#### Rapports
+
+**Les champs de devise personnalisés provoquent une erreur de rapport**
+
+Lorsqu’une vue de rapport contient plusieurs champs de devise personnalisés, le rapport renvoie une erreur.
+
+#### Utilisateurs
+
+**balise « Unregistered » persiste après la connexion**
+
+Même après une première connexion réussie, la balise « Non enregistré » ne disparaît pas comme prévu pour les nouveaux utilisateurs et utilisatrices.
+
++++
 
 +++**Mise à jour de maintenance le vendredi 16 janvier 2025**
 
