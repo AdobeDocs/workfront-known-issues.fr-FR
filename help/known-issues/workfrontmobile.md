@@ -4,10 +4,10 @@ description: 'Problèmes connus et signalés dans l’application mobile  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 9f48d0f8-b4e8-4bd8-b317-ff406e97cb1b
 feature: Work Management
-source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
-workflow-type: ht
-source-wordcount: '84'
-ht-degree: 100%
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+workflow-type: tm+mt
+source-wordcount: '72'
+ht-degree: 81%
 
 ---
 
@@ -26,9 +26,8 @@ Cette page répertorie les problèmes actuellement identifiés dans l’applicat
 Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
-| -----------------------------------------------------------------| ----------------- |
-| [Notifications : les notifications push vers l’application mobile Workfront ne fonctionnent pas.](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | 2 janvier 2024 |
-| [Workfront Mobile : les liens des e-mails d’épreuve ne s’ouvrent pas sur iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 9 octobre 2024 |
+| -----------------------------------------------------------------| ----------------- ||
+| [Workfront Mobile : les liens des e-mails de relecture ne s’ouvrent pas sur iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 9 octobre 2024 |
 
 <!--
 ## Current Issues

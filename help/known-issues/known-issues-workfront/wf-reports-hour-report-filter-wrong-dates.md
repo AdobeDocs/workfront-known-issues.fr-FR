@@ -3,14 +3,19 @@ title: 'Rapports : les filtres de rapports horaires incluent des dates incorrec
 description: Lors du filtrage d’un rapport horaire pour n’afficher qu’une date spécifique, une date adjacente différente est en fait incluse dans le rapport. Ce problème semble lié aux paramètres de fuseau horaire.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
-workflow-type: ht
-source-wordcount: '98'
+exl-id: 1a158dd0-8f24-4d2d-b8e6-36330d4131b4
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+workflow-type: tm+mt
+source-wordcount: '104'
 ht-degree: 100%
 
 ---
 
 # Rapports : les filtres de rapports horaires incluent des dates incorrectes.
+
+>[!NOTE]
+>
+>Cet élément a été corrigé le vendredi 30 janvier 2025.
 
 Lors du filtrage d’un rapport horaire pour n’afficher qu’une date spécifique, une date adjacente différente est en fait incluse dans le rapport. Ce problème semble lié aux paramètres de fuseau horaire.
 

@@ -1,26 +1,27 @@
 ---
-title: '« Documents : erreur lors de l’utilisation d’un lien public vers un document »'
-description: Lorsqu’un utilisateur ou une utilisatrice clique sur un lien public pour accéder à un document dans Workfront, une erreur peut s’afficher.
+title: 'Documents : erreur lors de l’utilisation d’un lien public vers un document'
+description: Lorsque l’utilisateur clique sur un lien public pour accéder à un document dans Workfront, une erreur s’affiche.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: c5ef7b1b-7652-4a41-980d-210b7b48a586
-source-git-commit: d34df8cd575d6b17a02bc4ed25fa5ca891c2afe7
+source-git-commit: 154faa161413258aae76968495cb464b17d71857
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 100%
+source-wordcount: '80'
+ht-degree: 31%
 
 ---
 
 # Documents : erreur lors de l’utilisation d’un lien public vers un document
 
+<!--
 >[!NOTE]
 >
->Ce problème a été résolu.
+>This issue has been resolved.-->
 
-Lorsqu’un utilisateur ou une utilisatrice clique sur un lien public pour accéder à un document dans Workfront, l’une des erreurs suivantes peut s’afficher :
+Lorsque l’utilisateur clique sur un lien public pour accéder à un document dans Workfront, le message d’erreur suivant apparaît : « Ce document n’existe plus ».
 
-* Erreur 500
-* « [!UICONTROL Oups ! Un problème est survenu. Contactez Workfront pour nous aider à comprendre l’erreur et y remédier.] »
+**Solution de contournement**
 
+Si l’utilisateur est connecté, il peut afficher le document comme prévu.
 
-_Premier signalement le vendredi 30 mai 2024._
+_Premier signalement le samedi 10 janvier 2025._
