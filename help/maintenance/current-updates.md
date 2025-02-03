@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
 workflow-type: tm+mt
 source-wordcount: '410'
-ht-degree: 85%
+ht-degree: 91%
 
 ---
 
@@ -56,7 +56,7 @@ Lorsqu’une vue de rapport contient plusieurs champs de devise personnalisés, 
 
 #### Utilisateurs
 
-**balise « Unregistered » persiste après la connexion**
+**La balise « Non enregistré » persiste après la connexion**
 
 Même après une première connexion réussie, la balise « Non enregistré » ne disparaît pas comme prévu pour les nouveaux utilisateurs et utilisatrices.
 

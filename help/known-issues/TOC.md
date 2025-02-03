@@ -5,7 +5,7 @@ role: User
 source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
 workflow-type: tm+mt
 source-wordcount: '2391'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -19,9 +19,9 @@ ht-degree: 98%
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
       + [Épreuves : impossible de baliser certains utilisateurs](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
       + [Tâches : filtres au niveau du projet et vues disponibles pour les tâches](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md)
-      + [Rapports : les champs de saisie semi-automatique personnalisés de l’analyse ne répondent pas](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)
-      + [Se connecter en tant que : le modèle de mise en page Accueil de l’administrateur s’affiche](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)
-      + [Utilisateurs : erreur de modification du taux de coût](/help/known-issues/known-issues-workfront/wf-users-edit-cost-rate-error.md)
+      + [Rapports : les champs de saisie semi-automatique personnalisés de l’analyse en profondeur ne répondent pas.](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)
+      + [Connexion en tant que : le modèle de mise en page Accueil de l’administrateur ou administratrice s’affiche](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)
+      + [Utilisateurs et utilisatrices : erreur de modification du taux de dépenses](/help/known-issues/known-issues-workfront/wf-users-edit-cost-rate-error.md)
       + [Tâches : une fois déplacées, les heures enregistrées restent sur le projet précédent.](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md)
       + [Rapports : les filtres de rapports horaires incluent des dates incorrectes.](/help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md)
       + [Feuilles de temps : nombre total d’heures incorrect](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md)
