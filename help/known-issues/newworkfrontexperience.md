@@ -4,10 +4,10 @@ description: 'Problèmes signalés et connus dans la nouvelle expérience  [!DNL
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
 workflow-type: tm+mt
-source-wordcount: '1174'
-ht-degree: 98%
+source-wordcount: '1200'
+ht-degree: 97%
 
 ---
 
@@ -25,7 +25,9 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Épreuves : impossible de baliser certains utilisateurs](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | vendredi 30 janvier 2025 |
+| [Modèles de disposition : les vues supprimées sont toujours disponibles](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md) | mercredi 11 février 2025 |
+| [Formulaires personnalisés : entreprises manquantes dans le champ de saisie semi-automatique](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | mercredi 11 février 2025 |
+| [Documents : impossible de charger dans la liste des documents du dossier AEM](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | mercredi 11 février 2025 |
 | [Documents : erreur lors de l’utilisation d’un lien public vers un document](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md) | vendredi 30 janvier 2025 |
 | [Tâches : filtres et vues au niveau du projet disponibles pour les tâches](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | vendredi 30 janvier 2025 |
 | [Rapports : les champs de saisie semi-automatique personnalisés de l’analyse en profondeur ne répondent pas.](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md) | vendredi 23 janvier 2025 |
@@ -56,6 +58,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | ---------------------------------- | ----------------- |
+| [BAT : les BAT approuvés apparaissent dans les rapports](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | mercredi 11 février 2025 |
 | [Formulaires personnalisés : données personnalisées non affichées dans le panneau Résumé](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 11 décembre 2024 |
 | [Rapports : la modification en bloc dans les listes de graphiques ne répond pas](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 3 décembre 2024 |
 | [Rapports : les temps de chargement de Report Builder sont longs.](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 21 novembre 2024 |

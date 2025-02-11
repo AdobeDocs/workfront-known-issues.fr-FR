@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
 workflow-type: tm+mt
-source-wordcount: '2391'
-ht-degree: 99%
+source-wordcount: '2413'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Modèles de disposition : les vues supprimées sont toujours disponibles](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md)
+      + [Formulaires personnalisés : entreprises manquantes dans le champ de saisie semi-automatique](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md)
+      + [Documents : impossible de charger dans la liste des documents du dossier AEM](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md)
       + [Épreuves : impossible de baliser certains utilisateurs](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
       + [Tâches : filtres au niveau du projet et vues disponibles pour les tâches](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md)
       + [Rapports : les champs de saisie semi-automatique personnalisés de l’analyse en profondeur ne répondent pas.](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)

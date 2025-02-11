@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
 workflow-type: tm+mt
-source-wordcount: '410'
-ht-degree: 91%
+source-wordcount: '458'
+ht-degree: 85%
 
 ---
 
@@ -23,6 +23,20 @@ Ces mises à jour incluent également d’autres correctifs mineurs ou moins con
 Pour connaître les mises à jour de maintenance antérieures à 2025, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates).
 
 Les mises à jour de maintenance suivantes ont été effectuées en 2025.
+
+## Mises à jour de février 2025
+
++++**Mise à jour de maintenance le vendredi 6 février 2025**
+
+### Mise à jour de maintenance le vendredi 6 février 2025
+
+#### Listes
+
+**Impossible de modifier la liste des tâches après le chargement de l’épreuve**
+
+Lors du chargement d’un BAT vers un projet, la liste des tâches de ce projet ne peut pas être modifiée en ligne tant que la page n’est pas actualisée ou que le chargement du BAT n’est pas terminé.
+
++++
 
 ## Mises à jour de janvier 2025
 
