@@ -3,14 +3,19 @@ title: 'Rapports : les champs de saisie semi-automatique personnalisés de l’
 description: 'Lorsque l’utilisateur ou utilisatrice tente de modifier un champ de saisie semi-automatique personnalisé dans le tableau d’analyse en profondeur d’un rapport de graphique, le champ ne répond pas correctement : le texte ne peut pas être saisi, il supprime sporadiquement le texte saisi ou entraîne parfois le blocage de la page.'
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
-workflow-type: ht
-source-wordcount: '104'
+exl-id: 7eee2b05-a7a1-4f45-94a6-2f771da9ba6d
+source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
+workflow-type: tm+mt
+source-wordcount: '110'
 ht-degree: 100%
 
 ---
 
 # Rapports : les champs de saisie semi-automatique personnalisés de l’analyse en profondeur ne répondent pas.
+
+>[!NOTE]
+>
+>Ce problème a été résolu le vendredi 6 février 2025.
 
 Lorsqu’un utilisateur ou une utilisatrice tente de modifier un champ de saisie semi-automatique personnalisé dans le tableau d’analyse en profondeur d’un rapport de graphique, le champ ne répond pas correctement : le texte ne peut pas être saisi, il supprime sporadiquement le texte saisi ou entraîne parfois le blocage de la page.
 

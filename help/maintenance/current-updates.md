@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
+source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
 workflow-type: tm+mt
-source-wordcount: '458'
-ht-degree: 85%
+source-wordcount: '545'
+ht-degree: 76%
 
 ---
 
@@ -25,6 +25,24 @@ Pour connaître les mises à jour de maintenance antérieures à 2025, consultez
 Les mises à jour de maintenance suivantes ont été effectuées en 2025.
 
 ## Mises à jour de février 2025
+
++++**Mise à jour de maintenance le vendredi 13 février 2025**
+
+### Mise à jour de maintenance le vendredi 13 février 2025
+
+#### Formulaires personnalisés
+
+**Les données personnalisées ne s’affichent pas dans le panneau Résumé**
+
+Lorsqu’un client ou une cliente consulte le panneau Résumé pour une tâche, les données personnalisées qui doivent apparaître dans le panneau Résumé ne sont pas présentes. Cela peut se produire même si le modèle de mise en page des tâches inclut les champs personnalisés.
+
+#### Rapports
+
+**Problèmes d’affichage des invites**
+
+Lors de l’accès à un rapport d’invite avec un grand nombre d’invites, la boîte de dialogue d’invite ne permet pas de faire défiler l’écran pour accéder à toutes les invites ou au bouton Exécuter le rapport.
+
++++
 
 +++**Mise à jour de maintenance le vendredi 6 février 2025**
 

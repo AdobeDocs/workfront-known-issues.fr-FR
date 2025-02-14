@@ -4,10 +4,10 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Fusion]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
-workflow-type: ht
-source-wordcount: '177'
-ht-degree: 100%
+source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
+workflow-type: tm+mt
+source-wordcount: '189'
+ht-degree: 94%
 
 ---
 
@@ -45,6 +45,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Épreuves : impossible de créer des épreuves pour les vidéos liées depuis AEM via Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | vendredi 13 février 2025 |
 | [Fusion Workfront : le paramètre de démarrage À partir de maintenant traite toutes les données.](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | mercredi 29 octobre 2024 |
 | [Workfront Fusion : le champ est absent du module](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | mardi 5 février 2024 |
 | [Workfront Fusion : formatage des sorties pour les dates](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | jeudi 31 janvier 2024 |
