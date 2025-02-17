@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: People Teams and Groups
 exl-id: ec7464c7-2952-4a4a-8fa1-594405a3ea84
 source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Cet élément a été corrigé le vendredi 23 janvier 2025.
+>Cet élément a été corrigé le 18 janvier 2025.
 
 Lorsque vous tentez de modifier le taux de dépenses d’un utilisateur ou d’une utilisatrice, l’erreur suivante s’affiche : « Réessayons. Pour modifier les dates en ligne, définissez plus de 1 taux pour le rôle ».
 
