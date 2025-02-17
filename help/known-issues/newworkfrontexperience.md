@@ -28,8 +28,8 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 | [Modèles de disposition : les vues supprimées sont toujours disponibles](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md) | mercredi 11 février 2025 |
 | [Formulaires personnalisés : entreprises manquantes dans le champ de saisie semi-automatique](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | mercredi 11 février 2025 |
 | [Documents : impossible de charger dans la liste des documents du dossier AEM](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | mercredi 11 février 2025 |
-| [Documents : erreur lors de l’utilisation d’un lien public vers un document](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md) | vendredi 30 janvier 2025 |
-| [Tâches : filtres et vues au niveau du projet disponibles pour les tâches](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | vendredi 30 janvier 2025 |
+| [Documents : erreur lors de l’utilisation d’un lien public vers un document](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md) | 30 janvier 2025 |
+| [Tâches : filtres et vues au niveau du projet disponibles pour les tâches](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | 30 janvier 2025 |
 | [Tâches : les heures consignées restent sur le projet précédent une fois déplacées.](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md) | vendredi 16 janvier 2025 |
 | [Feuilles de temps : nombre total d’heures incorrect](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md) | vendredi 16 janvier 2025 |
 | [Accueil : boutons d’approbation manquants dans le widget Approbation en attente](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | vendredi 9 janvier 2025 |

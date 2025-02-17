@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
 workflow-type: tm+mt
 source-wordcount: '545'
-ht-degree: 76%
+ht-degree: 82%
 
 ---
 
@@ -58,19 +58,19 @@ Lors du chargement d’un BAT vers un projet, la liste des tâches de ce projet 
 
 ## Mises à jour de janvier 2025
 
-+++**Mise à jour de maintenance le vendredi 30 janvier 2025**
++++**Mise à jour de maintenance le 30 janvier 2025**
 
-### Mise à jour de maintenance le vendredi 30 janvier 2025
+### Mise à jour de maintenance le 30 janvier 2025
 
 #### Page d’accueil
 
-**Les approbations n’apparaissent pas dans le widget d’accueil**
+**Les approbations n’apparaissent pas dans le widget d’accueil.**
 
-Les approbations soumises par un utilisateur n’apparaissent pas dans son propre widget Mes approbations , même si elles sont filtrées pour les afficher spécifiquement.
+Les approbations soumises par une personne n’apparaissent pas dans son propre widget Mes approbations, même si elles sont filtrées pour être affichées spécifiquement.
 
 #### Rapports
 
-**Les filtres de rapport horaires incluent des dates incorrectes**
+**Les filtres des rapports horaires incluent des dates incorrectes**
 
 Lors du filtrage d’un rapport horaire pour n’afficher qu’une date spécifique, une date adjacente différente est en fait incluse dans le rapport. Ce problème semble lié aux paramètres de fuseau horaire.
 
