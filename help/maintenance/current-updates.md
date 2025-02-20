@@ -4,9 +4,9 @@ description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '545'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -26,15 +26,15 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2025.
 
 ## Mises à jour de février 2025
 
-+++**Mise à jour de maintenance le vendredi 13 février 2025**
++++**Mise à jour de maintenance le 13 février 2025**
 
-### Mise à jour de maintenance le vendredi 13 février 2025
+### Mise à jour de maintenance le 13 février 2025
 
 #### Formulaires personnalisés
 
-**Les données personnalisées ne s’affichent pas dans le panneau Résumé**
+**Données personnalisées non affichées dans le panneau Résumé**
 
-Lorsqu’un client ou une cliente consulte le panneau Résumé pour une tâche, les données personnalisées qui doivent apparaître dans le panneau Résumé ne sont pas présentes. Cela peut se produire même si le modèle de mise en page des tâches inclut les champs personnalisés.
+Lorsqu’un client ou une cliente consulte le panneau Résumé pour une tâche, les données personnalisées qui devraient apparaître dans le panneau Résumé sont absentes. Ce problème peut se produire même si le modèle de disposition des tâches inclut les champs personnalisés.
 
 #### Rapports
 
@@ -44,15 +44,15 @@ Lors de l’accès à un rapport d’invite avec un grand nombre d’invites, la
 
 +++
 
-+++**Mise à jour de maintenance le vendredi 6 février 2025**
++++**Mise à jour de maintenance le 6 février 2025**
 
-### Mise à jour de maintenance le vendredi 6 février 2025
+### Mise à jour de maintenance le 6 février 2025
 
 #### Listes
 
 **Impossible de modifier la liste des tâches après le chargement de l’épreuve**
 
-Lors du chargement d’un BAT vers un projet, la liste des tâches de ce projet ne peut pas être modifiée en ligne tant que la page n’est pas actualisée ou que le chargement du BAT n’est pas terminé.
+Lors du chargement d’une épreuve dans un projet, la liste des tâches de ce projet ne peut pas être modifiée en ligne tant que la page n’est pas actualisée ou que le chargement de l’épreuve n’est pas terminé.
 
 +++
 

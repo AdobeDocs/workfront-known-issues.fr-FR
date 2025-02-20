@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 43ab6e92-f8f4-4cb3-8fe5-6e2708474e06
 source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Ce problème a été résolu le samedi 7 février 2025.
+>Ce problème a été résolu le 7 février 2025.
 
 Lorsque une personne tente de taguer une autre personne dans une épreuve, cette dernière ne s’affiche pas toujours dans le champ de saisie semi-automatique.
 

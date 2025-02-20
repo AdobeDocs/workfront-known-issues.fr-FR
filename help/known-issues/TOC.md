@@ -3,9 +3,9 @@ user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
 source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2424'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -17,10 +17,10 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
-      + [Épreuves : impossible de créer des épreuves pour les vidéos liées depuis AEM via Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md)
-      + [Modèles de disposition : les vues supprimées sont toujours disponibles](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md)
-      + [Formulaires personnalisés : entreprises manquantes dans le champ de saisie semi-automatique](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md)
-      + [Documents : impossible de charger dans la liste des documents du dossier AEM](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md)
+      + [Épreuves : impossible de créer des épreuves pour les vidéos liées à partir d’AEM via Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md)
+      + [Modèles de disposition : les vues supprimées sont toujours disponibles.](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md)
+      + [Formulaires personnalisés : sociétés manquantes dans le champ de saisie semi-automatique personnalisé](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md)
+      + [Documents : impossible de charger dans la liste des documents du dossier AEM](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md)
       + [Épreuves : impossible de taguer certaines personnes](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
       + [Tâches : filtres au niveau du projet et vues disponibles pour les tâches](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md)
       + [Rapports : les champs de saisie semi-automatique personnalisés de l’analyse en profondeur ne répondent pas.](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)

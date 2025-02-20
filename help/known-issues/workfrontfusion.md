@@ -5,9 +5,9 @@ keywords: nouveau fichier, ajouter un fichier
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
 source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '189'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion : impossible d’ajouter ou de supprimer des utilisateurs et des utilisatrices dans Workfront Fusion](known-issues-workfront-fusion/fusion-cannot-manage-users.md) | mercredi 24 septembre 2024 |
+| [Workfront Fusion : impossible d’ajouter ou de supprimer des utilisateurs et des utilisatrices dans Workfront Fusion](known-issues-workfront-fusion/fusion-cannot-manage-users.md) | 24 septembre 2024 |
 
 {style="table-layout:auto"}
 
@@ -45,8 +45,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Épreuves : impossible de créer des épreuves pour les vidéos liées depuis AEM via Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | vendredi 13 février 2025 |
-| [Fusion Workfront : le paramètre de démarrage À partir de maintenant traite toutes les données.](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | mercredi 29 octobre 2024 |
+| [Épreuves : impossible de créer des épreuves pour les vidéos liées à partir d’AEM via Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 13 février 2025 |
+| [Workfront Fusion : le paramètre de début « À partir de maintenant » traite toutes les données.](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | 29 octobre 2024 |
 | [Workfront Fusion : le champ est absent du module](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | mardi 5 février 2024 |
 | [Workfront Fusion : formatage des sorties pour les dates](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | jeudi 31 janvier 2024 |
 | [Workfront Fusion : erreur de mémoire faible](known-issues-workfront-fusion/fusion-low-memory-error.md) | 16 novembre 2023 |

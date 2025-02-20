@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 7eee2b05-a7a1-4f45-94a6-2f771da9ba6d
 source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Ce problème a été résolu le vendredi 6 février 2025.
+>Ce problème a été résolu le 6 février 2025.
 
 Lorsqu’un utilisateur ou une utilisatrice tente de modifier un champ de saisie semi-automatique personnalisé dans le tableau d’analyse en profondeur d’un rapport de graphique, le champ ne répond pas correctement : le texte ne peut pas être saisi, il supprime sporadiquement le texte saisi ou entraîne parfois le blocage de la page.
 

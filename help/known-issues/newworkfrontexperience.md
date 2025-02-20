@@ -5,9 +5,9 @@ keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1192'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -25,9 +25,9 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Modèles de disposition : les vues supprimées sont toujours disponibles](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md) | mercredi 11 février 2025 |
-| [Formulaires personnalisés : entreprises manquantes dans le champ de saisie semi-automatique](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | mercredi 11 février 2025 |
-| [Documents : impossible de charger dans la liste des documents du dossier AEM](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | mercredi 11 février 2025 |
+| [Modèles de disposition : les vues supprimées sont toujours disponibles.](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md) | 11 février 2025 |
+| [Formulaires personnalisés : sociétés manquantes dans le champ de saisie semi-automatique personnalisé](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | 11 février 2025 |
+| [Documents : impossible de charger dans la liste des documents du dossier AEM](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 11 février 2025 |
 | [Documents : erreur lors de l’utilisation d’un lien public vers un document](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md) | 30 janvier 2025 |
 | [Tâches : filtres et vues au niveau du projet disponibles pour les tâches](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | 30 janvier 2025 |
 | [Tâches : les heures consignées restent sur le projet précédent une fois déplacées.](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md) | vendredi 16 janvier 2025 |
@@ -57,7 +57,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | ---------------------------------- | ----------------- |
-| [BAT : les BAT approuvés apparaissent dans les rapports](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | mercredi 11 février 2025 |
+| [Épreuves : les épreuves approuvées apparaissent dans les rapports.](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 11 février 2025 |
 | [Rapports : la modification en bloc dans les listes de graphiques ne répond pas](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 3 décembre 2024 |
 | [Rapports : les temps de chargement de Report Builder sont longs.](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 21 novembre 2024 |
 | [API : des requêtes dépassent leur délai d’expiration.](known-issues-workfront/wf-api-request-timing-out.md) | 24 octobre 2024 |
@@ -77,7 +77,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Épreuves : impossible de créer des épreuves pour les vidéos liées depuis AEM via Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | vendredi 13 février 2025 |
+| [Épreuves : impossible de créer des épreuves pour les vidéos liées à partir d’AEM via Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 13 février 2025 |
 | [Connexion en tant que : le modèle de mise en page Accueil de l’administrateur ou administratrice s’affiche](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md) | vendredi 23 janvier 2025 |
 | [Rapports : les invites de rapport se chargent lentement.](known-issues-workfront/wf-reports-prompts-load-slowly.md) | mercredi 16 janvier 2024 |
 | [Épreuves : les épreuves de la capture web ne se génèrent pas.](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 20 décembre 2024 |
