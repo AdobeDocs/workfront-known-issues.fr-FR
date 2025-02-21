@@ -3,14 +3,19 @@ title: 'Tâches : une fois déplacées, les heures enregistrées restent sur le
 description: Une fois que les tâches ont été déplacées vers un nouveau projet, le total des heures du projet d’origine inclut les heures des tâches déplacées. Les tâches conservent toujours correctement les heures consignées dans le nouveau projet.
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
-workflow-type: ht
-source-wordcount: '92'
+exl-id: d66210f8-eb94-4d49-84e1-4133b1683f76
+source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
+workflow-type: tm+mt
+source-wordcount: '98'
 ht-degree: 100%
 
 ---
 
 # Tâches : une fois déplacées, les heures enregistrées restent sur le projet précédent.
+
+>[!NOTE]
+>
+>Ce problème a été résolu le vendredi 20 février 2025.
 
 Une fois que les tâches ont été déplacées vers un nouveau projet, le total des heures du projet d’origine inclut les heures des tâches déplacées. Les tâches conservent toujours correctement les heures consignées dans le nouveau projet.
 

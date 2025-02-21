@@ -4,20 +4,18 @@ description: Lorsqu’une personne utilise la recherche avancée et tente de mod
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 7833bf90-076d-423a-9f0a-8354881a9a69
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
-workflow-type: ht
-source-wordcount: '86'
+source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
+workflow-type: tm+mt
+source-wordcount: '92'
 ht-degree: 100%
 
 ---
 
 # Rapports : la modification en bloc dans les listes de graphiques ne répond pas
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on November 21, 2024.
--->
+>Ce problème a été résolu le 13 février 2025.
 
 Lorsqu’une personne utilise la recherche avancée et tente de modifier ou d’éditer en masse les résultats, l’icône Modifier ne répond pas.
 

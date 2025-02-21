@@ -4,18 +4,19 @@ description: Lorsque une personne tente de taguer une autre personne dans une é
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 43ab6e92-f8f4-4cb3-8fe5-6e2708474e06
-source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
-workflow-type: ht
-source-wordcount: '64'
+source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
+workflow-type: tm+mt
+source-wordcount: '58'
 ht-degree: 100%
 
 ---
 
 # Épreuves : impossible de taguer certaines personnes
 
+<!--
 >[!NOTE]
 >
->Ce problème a été résolu le 7 février 2025.
+>This issue was fixed on February 7, 2025.-->
 
 Lorsque une personne tente de taguer une autre personne dans une épreuve, cette dernière ne s’affiche pas toujours dans le champ de saisie semi-automatique.
 

@@ -4,19 +4,18 @@ description: Lorsqu’un utilisateur ou une utilisatrice clique sur un lien publ
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: c5ef7b1b-7652-4a41-980d-210b7b48a586
-source-git-commit: 154faa161413258aae76968495cb464b17d71857
-workflow-type: ht
-source-wordcount: '80'
-ht-degree: 100%
+source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
+workflow-type: tm+mt
+source-wordcount: '85'
+ht-degree: 94%
 
 ---
 
 # Documents : erreur lors de l’utilisation d’un lien public vers un document
 
-<!--
 >[!NOTE]
 >
->This issue has been resolved.-->
+>Ce problème a été résolu le 14 février 2025.
 
 Lorsque l’utilisateur ou l’utilisatrice clique sur un lien public pour accéder à un document dans Workfront, le message d’erreur suivant apparaît : « Ce document n’existe plus ».
 
