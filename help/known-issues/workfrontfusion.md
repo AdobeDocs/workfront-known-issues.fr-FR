@@ -4,9 +4,9 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Fusion]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
-workflow-type: ht
-source-wordcount: '189'
+source-git-commit: 9b24b2758215149cbc2517f3c7cbac24b4070f10
+workflow-type: tm+mt
+source-wordcount: '172'
 ht-degree: 100%
 
 ---
@@ -19,15 +19,15 @@ Cette page répertorie les problèmes actuellement identifiés dans [!DNL Adobe 
 >
 >Pour plus d’informations sur la disponibilité ou les pannes du serveur, consultez [https://status.adobe.com/fr](https://status.adobe.com/fr). Pour plus d’informations sur les problèmes récemment résolus, consultez les [[!DNL Workfront] Mises à jour de maintenance](../maintenance/current-updates.md).
 
-## Nouveau
+<!--
+## New
 
-Ces problèmes récemment signalés sont en train d’être examinés.
+These recently reported issues are currently under review.
 
-| **Problème** | **Dernière modification** |
+| **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [API : des requêtes dépassent leur délai d’expiration.](known-issues-workfront/wf-api-request-timing-out.md) | mardi 5 août 2024 |
 
-{style="table-layout:auto"}
+{style="table-layout:auto"}-->
 
 ## En cours
 
