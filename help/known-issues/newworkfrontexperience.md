@@ -4,10 +4,10 @@ description: 'Problèmes signalés et connus dans la nouvelle expérience  [!DNL
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
+source-git-commit: a2d7e98c114ca65872e60c4d9b507f90d663e5df
 workflow-type: tm+mt
-source-wordcount: '1142'
-ht-degree: 100%
+source-wordcount: '1153'
+ht-degree: 99%
 
 ---
 
@@ -25,6 +25,8 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Modèle de disposition : section Itérations personnalisées inaccessible](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md) | mardi 24 février 2025 |
+| [Notifications : emails en double](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | mardi 24 février 2025 |
 | [Épreuves : impossible de taguer certaines personnes](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | vendredi 20 février 2025 |
 | [Documents : impossible de charger dans la liste des documents du dossier AEM](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 11 février 2025 |
 | [Tâches : filtres et vues au niveau du projet disponibles pour les tâches](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | 30 janvier 2025 |

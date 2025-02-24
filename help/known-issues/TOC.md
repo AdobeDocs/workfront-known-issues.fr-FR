@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
-workflow-type: ht
-source-wordcount: '2424'
-ht-degree: 100%
+source-git-commit: a2d7e98c114ca65872e60c4d9b507f90d663e5df
+workflow-type: tm+mt
+source-wordcount: '2438'
+ht-degree: 99%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Modèle de disposition : section Itérations personnalisées inaccessible](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md)
+      + [Notifications : e-mails en double](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
+      + [Workfront Fusion : erreur de connexion au scénario](/help/known-issues/known-issues-workfront/wf-fusion-scenario-connection-error.md)
       + [Épreuves : impossible de créer des épreuves pour les vidéos liées à partir d’AEM via Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md)
       + [Modèles de disposition : les vues supprimées sont toujours disponibles.](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md)
       + [Formulaires personnalisés : sociétés manquantes dans le champ de saisie semi-automatique personnalisé](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md)

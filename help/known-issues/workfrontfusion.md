@@ -4,10 +4,10 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Fusion]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 9b24b2758215149cbc2517f3c7cbac24b4070f10
+source-git-commit: a2d7e98c114ca65872e60c4d9b507f90d663e5df
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 100%
+source-wordcount: '190'
+ht-degree: 97%
 
 ---
 
@@ -19,15 +19,15 @@ Cette page répertorie les problèmes actuellement identifiés dans [!DNL Adobe 
 >
 >Pour plus d’informations sur la disponibilité ou les pannes du serveur, consultez [https://status.adobe.com/fr](https://status.adobe.com/fr). Pour plus d’informations sur les problèmes récemment résolus, consultez les [[!DNL Workfront] Mises à jour de maintenance](../maintenance/current-updates.md).
 
-<!--
-## New
+## Nouveau
 
-These recently reported issues are currently under review.
+Ces problèmes récemment signalés sont en train d’être examinés.
 
-| **Issue** | **Last Modified** |
+| **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion : erreur de connexion au scénario](/help/known-issues/known-issues-workfront/wf-fusion-scenario-connection-error.md) | mardi 24 février 2025 |
 
-{style="table-layout:auto"}-->
+{style="table-layout:auto"}
 
 ## En cours
 
