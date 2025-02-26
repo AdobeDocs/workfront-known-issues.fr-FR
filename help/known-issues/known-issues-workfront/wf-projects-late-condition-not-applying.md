@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Projects
 exl-id: 61a366bc-b2dc-49e1-86f2-e159312e8567
 source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 85%
 
 >[!NOTE]
 >
->Ce problème a été résolu, car la situation n’a pas pu être reproduite.
+>Ce problème a été clôturé, car il n’a pas pu être reproduit.
 
 La condition ne s’applique pas comme prévu pour les projets qui répondent aux critères pour être marqués comme « En retard » par le système.
 

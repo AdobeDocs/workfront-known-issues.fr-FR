@@ -5,7 +5,7 @@ keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '469'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Épreuves : impossible de taguer certaines personnes](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | vendredi 20 février 2025 |
+| [Épreuves : impossible de taguer certaines personnes](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 février 2025 |
 | [Documents : la zone Documents n’affiche pas tous les documents.](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md) | 2 janvier 2024 |
 | [Workfront Mobile : les liens des e-mails d’épreuve ne s’ouvrent pas sur iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 9 octobre 2024 |
 | [Agile : le storyboard se vide lors de l’ajout d’une sous-tâche.](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 26 juillet 2024 |
