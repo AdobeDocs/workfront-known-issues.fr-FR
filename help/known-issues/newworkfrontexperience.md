@@ -4,10 +4,10 @@ description: 'Problèmes signalés et connus dans la nouvelle expérience  [!DNL
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 4b156962d5d83984311eb4a3124a6fc864d23249
+source-git-commit: 3b0bd3d5de463bc58c4bbbf54d407632dadab58d
 workflow-type: tm+mt
-source-wordcount: '1162'
-ht-degree: 99%
+source-wordcount: '1171'
+ht-degree: 98%
 
 ---
 
@@ -69,6 +69,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Intégrations : erreur outlookIdentityToken lors de l’utilisation de Workfront pour Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | 4 mars 2025 |
 | [Notifications : emails en double](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | vendredi 27 février 2025 |
 | [Documents : impossible de charger dans la liste des documents du dossier AEM](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | vendredi 27 février 2025 |
 | [Intégrations : impossible de se connecter à Workfront pour Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 20 février 2025 |
