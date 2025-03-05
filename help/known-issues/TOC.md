@@ -18,9 +18,9 @@ ht-degree: 99%
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
       + [Intégrations : erreur outlookIdentityToken lors de l’utilisation de Workfront pour Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
-      + [Modèle de disposition : section Itérations personnalisées inaccessible](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md)
-      + [Notifications : e-mails en double](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
-      + [Workfront Fusion : erreur de connexion au scénario](/help/known-issues/known-issues-workfront/wf-fusion-scenario-connection-error.md)
+      + [Modèle de disposition : section Itérations personnalisées inaccessible](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md)
+      + [Notifications : e-mails en double](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
+      + [Workfront Fusion : erreur de connexion au scénario](/help/known-issues/known-issues-workfront/wf-fusion-scenario-connection-error.md)
       + [Épreuves : impossible de créer des épreuves pour les vidéos liées à partir d’AEM via Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md)
       + [Modèles de disposition : les vues supprimées sont toujours disponibles.](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md)
       + [Formulaires personnalisés : sociétés manquantes dans le champ de saisie semi-automatique personnalisé](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md)
