@@ -4,14 +4,18 @@ description: Lors de l’ouverture des listes de filtres ou de vues pour une tâ
 hidefromtoc: true
 feature: Tasks
 exl-id: 3f28e60d-8c19-432b-94af-be217d607cad
-source-git-commit: 015ccb27d78aba44a707d1cb55586d22d02738b1
-workflow-type: ht
-source-wordcount: '72'
+source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
+workflow-type: tm+mt
+source-wordcount: '78'
 ht-degree: 100%
 
 ---
 
 # Tâches : filtres au niveau du projet et vues disponibles pour les tâches
+
+>[!NOTE]
+>
+>Ce problème a été résolu le samedi 21 février 2025.
 
 Lors de l’ouverture des listes de filtres ou de vues pour une tâche, les filtres et les vues créés au niveau du projet apparaissent dans la liste des options.
 

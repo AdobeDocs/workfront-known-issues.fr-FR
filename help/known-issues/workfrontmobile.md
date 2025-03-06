@@ -4,9 +4,9 @@ description: 'Problèmes connus et signalés dans l’application mobile  [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 9f48d0f8-b4e8-4bd8-b317-ff406e97cb1b
 feature: Work Management
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
-workflow-type: ht
-source-wordcount: '72'
+source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
+workflow-type: tm+mt
+source-wordcount: '63'
 ht-degree: 100%
 
 ---
@@ -26,8 +26,8 @@ Cette page répertorie les problèmes actuellement identifiés dans l’applicat
 Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
-| -----------------------------------------------------------------| ----------------- ||
-| [Workfront Mobile : les liens des e-mails d’épreuve ne s’ouvrent pas sur iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 9 octobre 2024 |
+| -----------------------------------------------------------------| ----------------- |
+| Aucun |  |
 
 <!--
 ## Current Issues
