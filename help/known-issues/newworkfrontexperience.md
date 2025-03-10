@@ -4,10 +4,10 @@ description: 'Problèmes signalés et connus dans la nouvelle expérience  [!DNL
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ddcea9054f51049698bbe7eb059efe304a31f7d9
+source-git-commit: 8e83060ba2fddb328ca6750d6eb72b2d9e860e6a
 workflow-type: tm+mt
-source-wordcount: '979'
-ht-degree: 97%
+source-wordcount: '977'
+ht-degree: 96%
 
 ---
 
@@ -25,7 +25,6 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Modèle de disposition : section Itérations personnalisées inaccessible](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md) | 24 février 2025 |
 | [Épreuves : impossible de taguer certaines personnes](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 février 2025 |
 | [Utilisateurs et utilisatrices : compte en double créé lors d’un changement d’administrateur ou d’administratrice système](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | vendredi 9 janvier 2025 |
 | [Tâches : problèmes liés au recalcul de la chronologie](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 3 décembre 2024 |
@@ -41,8 +40,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | ---------------------------------- | ----------------- |
+| [Mises à jour : certains utilisateurs ne peuvent pas voir les images ou les documents joints aux commentaires](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 10 Mars 2025 |
 | [Connexion en tant que : les administrateurs de groupe ne peuvent pas se connecter en tant qu’autre utilisateur](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 6 mars 2025 |
-| [Épreuves : les épreuves approuvées apparaissent dans les rapports.](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 11 février 2025 |
 | [Intégrations : impossible de se connecter à Workfront pour Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 24 septembre 2024 |
 | [Équipes : impossible d’afficher la personne propriétaire de l’équipe ou de supprimer l’équipe](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 avril 2024 |
 | [[!DNL Workfront] : problèmes lors de la soumission d’un cas d’assistance [!DNL Workfront] sur Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 août 2022 |

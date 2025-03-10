@@ -4,20 +4,20 @@ description: Lorsqu’un utilisateur ou une utilisatrice consulte un rapport d�
 hidefromtoc: true
 feature: Digital Content and Documents, Reports and Dashboards
 exl-id: 12bf8b0e-f31b-4320-b7f1-ea9964e86bf7
-source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
-workflow-type: ht
-source-wordcount: '84'
+source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
+workflow-type: tm+mt
+source-wordcount: '90'
 ht-degree: 100%
 
 ---
 
 # Épreuves : les épreuves approuvées apparaissent dans les rapports.
 
-<!--
+
 >[!NOTE]
 >
->This issue was fixed on January 28, 2025.
--->
+>Ce problème a été résolu le 28 janvier 2025.
+
 
 Lorsqu’un utilisateur ou une utilisatrice consulte un rapport d’approbation des épreuves, certaines épreuves approuvées peuvent apparaître dans ce rapport. Cela peut se produire même si le rapport est filtré pour afficher uniquement les épreuves en attente d’approbation.
 

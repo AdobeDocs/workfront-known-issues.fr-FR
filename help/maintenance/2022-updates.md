@@ -3,10 +3,10 @@ title: Mises à jour de maintenance Workfront en 2022
 description: Mises à jour de maintenance 2022 pour [!DNL Adobe Workfront]
 exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
 feature: Get Started with Workfront
-source-git-commit: 8dc177a194ae32bcb135910badc7fdb2c42e530d
+source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
 workflow-type: tm+mt
-source-wordcount: '16797'
-ht-degree: 100%
+source-wordcount: '16794'
+ht-degree: 99%
 
 ---
 
@@ -1079,14 +1079,13 @@ Suite à ces correctifs, l’adresse e-mail utilisée pour envoyer les notificat
 
 Auparavant, les adresses e-mail d’épreuves contenaient le sous-domaine de votre organisation. Par exemple, notifications@[domaine de l’entreprise].my.workfront.com
 
-Désormais, les adresses e-mail d’épreuves ne contiennent plus le sous-domaine de l’organisation. Toutes les notifications par e-mail liées aux épreuves proviennent de l’adresse suivante : notification@my.workfront.com
+Désormais, les adresses e-mail d’épreuves ne contiennent plus le sous-domaine de l’organisation. Toutes les notifications par e-mail concernant les épreuves proviennent de l&#39;adresse suivante : `notification@my.workfront.com`
 
 Par conséquent, nous vous recommandons d’effectuer les actions suivantes si vous ne l’avez pas déjà fait :
 
-* Mettez à jour vos filtres antispam pour accepter les e-mails de notification@my.workfront.com
-* Mettez à jour vos listes autorisées pour accepter les e-mails de notification@my.workfront.com
-
-**Impossible de modifier les options de l’utilisateur après la configuration initiale dans les modèles de workflow**
+* Mettez à jour vos filtres anti-spam pour accepter les e-mails provenant de l’adresse `notification@my.workfront.com`
+* Mettre à jour vos places sur la liste autorisée pour accepter les e-mails de `notification@my.workfront.com`
+  **Impossible de modifier les options de l’utilisateur après la configuration initiale dans les modèles de workflow**
 
 *[!DNL Workfront Proof]*
 
