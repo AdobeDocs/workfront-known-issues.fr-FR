@@ -19,7 +19,7 @@ ht-degree: 98%
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
       + [Mises à jour : certains utilisateurs ne peuvent pas voir les images ou les documents joints aux commentaires](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md)
       + [Connexion en tant que : les administrateurs de groupe ne peuvent pas se connecter en tant qu’autre utilisateur](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
-      + [Intégrations : erreur outlookIdentityToken lors de l’utilisation de Workfront pour Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
+      + [Intégrations : erreur outlookIdentityToken lors de l’utilisation de Workfront pour Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
       + [Modèle de disposition : section Itérations personnalisées inaccessible](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md)
       + [Notifications : e-mails en double](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
       + [Workfront Fusion : erreur de connexion au scénario](/help/known-issues/known-issues-workfront/wf-fusion-scenario-connection-error.md)
@@ -104,7 +104,7 @@ ht-degree: 98%
       + [Notifications : miniatures non visibles dans les notifications par e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
       + [Portfolios : la personne ne peut pas définir de portfolio.](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
       + [Tâches : la recherche du prénom dans l’affectation de tâche ne renvoie pas d’utilisateurs ni d’utilisatrices.](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md)
-      + [Intégrations : lier un dossier depuis  [!DNL Google Drive]  ne lie pas les ressources dans le dossier.](known-issues-workfront/wf-integration-google-folder-not-link-assets.md)
+      + [Intégrations : lier un dossier depuis [!DNL Google Drive] ne lie pas les ressources dans le dossier.](known-issues-workfront/wf-integration-google-folder-not-link-assets.md)
       + [Panoramas : le panorama de l’utilisateur ou de l’utilisatrice ne s’affiche pas lors de l’utilisation de [!UICONTROL Connexion en tant que].](known-issues-workfront/wf-boards-log-in-as.md)
       + [Accueil : le widget Mes problèmes n’affiche pas les problèmes fermés ou terminés.](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
       + [Rapports : « Aucune donnée à afficher » lorsque le nom du regroupement comporte une barre oblique ou une barre oblique inversée](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
@@ -175,7 +175,7 @@ ht-degree: 98%
       + [Agile : incohérence dans les [!UICONTROL Points terminés] d’une itération](known-issues-workfront/inactive/wf-agile-discrepancy-in-completed-points.md)
       + [Notifications par e-mail : « [!UICONTROL Je suis affecté à un événement] » apparaît.](known-issues-workfront/inactive/wf-email-notif-im-assigned-to-issue-displaying.md)
       + [Notifications par e-mail : la personne utilisatrice n’est pas redirigée vers le fil de commentaires.](known-issues-workfront/inactive/wf-email-notif-user-not-directed-to-thread.md)
-      + [Calendriers : [!DNL OR]  l’instruction de filtre exclut la règle de filtrage](known-issues-workfront/inactive/wf-calendars-or-filter-statement.md)
+      + [Calendriers : [!DNL OR] l’instruction de filtre exclut la règle de filtrage](known-issues-workfront/inactive/wf-calendars-or-filter-statement.md)
       + [[!UICONTROL Accueil] : le nom du projet s’affiche sous la forme d’un GUID dans la [!UICONTROL Liste de travail].](known-issues-workfront/inactive/wf-home-project-name-shows-as-guid.md)
       + [Rapports : le calendrier indique par défaut les anciennes dates.](known-issues-workfront/inactive/wf-reports-caledar-defaults-to-old-dates.md)
       + [Notifications par e-mail : les e-mails ne sont pas formatés correctement dans [!DNL Outlook].](known-issues-workfront/inactive/wf-email-notif-not-formatting-in-outlook.md)
@@ -232,7 +232,7 @@ ht-degree: 98%
    + [Problèmes connus dans  [!DNL Workfront Goals]](workfrontgoals.md)
 + [!DNL Workfront Library] {#library}
    + [Problèmes connus dans  [!DNL Workfront Library]](workfrontlibrary.md)
-+ Application mobile [!DNL Workfront] {#mobile}
++ [!DNL Workfront] Application mobile {#mobile}
    + [Problèmes connus dans l’application mobile  [!DNL Workfront] ](workfrontmobile.md)
 + [!DNL Workfront Scenario Planner] {#scenarioplanner}
    + [Problèmes connus dans  [!DNL Workfront Scenario Planner]](workfrontscenarioplanner.md)

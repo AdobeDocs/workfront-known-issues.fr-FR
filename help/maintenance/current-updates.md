@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 670de537b1a167ad682f6e74f5ef02e4f6691c46
 workflow-type: tm+mt
 source-wordcount: '727'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->Pour plus d’informations sur les pannes de maintenance pour tous les produits Adobe, y compris Workfront, voir la [page de statut d’Adobe](https://status.adobe.com/).
+>Pour plus d’informations sur les pannes de maintenance pour tous les produits Adobe, y compris Workfront, voir la [page de statut d’Adobe](https://status.adobe.com/fr/).
 
 Cette page décrit les problèmes résolus par les mises à jour hebdomadaires de Workfront.
 
@@ -36,15 +36,15 @@ Cette mise à jour inclut uniquement des correctifs mineurs ou moins importants.
 
 ## Mises à jour de février 2025
 
-+++**Mise à jour de maintenance le vendredi 27 février 2025**
++++**Mise à jour de maintenance le 27 février 2025**
 
-### Mise à jour de maintenance le vendredi 27 février 2025
+### Mise à jour de maintenance le 27 février 2025
 
 #### Groupes
 
-**Impossible de partager le niveau d’accès administrateur**
+**Impossible de partager le niveau d’accès d’administration**
 
-Lorsque vous tentez de partager le niveau d’accès administrateur à un groupe, la case à cocher permettant de vérifier chaque groupe ne répond pas et le groupe n’obtient pas le niveau d’accès attendu.
+Lors d’une tentative pour partager le niveau d’accès d’administration avec un groupe, la case à cocher pour chaque groupe ne répond pas et le groupe n’obtient pas le niveau d’accès attendu.
 
 +++
 
