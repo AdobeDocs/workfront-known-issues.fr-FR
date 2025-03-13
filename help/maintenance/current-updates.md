@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 670de537b1a167ad682f6e74f5ef02e4f6691c46
+source-git-commit: a463b80b8f40ef00f074a855b3a6265595d70198
 workflow-type: tm+mt
-source-wordcount: '727'
-ht-degree: 100%
+source-wordcount: '797'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,18 @@ Pour connaître les mises à jour de maintenance antérieures à 2025, consultez
 Les mises à jour de maintenance suivantes ont été effectuées en 2025.
 
 ## Mises à jour de mars 2025
+
++++**Mise à jour de maintenance le vendredi 13 mars 2025**
+
+### Mise à jour de maintenance le vendredi 13 mars 2025
+
+#### Rapports
+
+**Le nombre d’éléments dans le graphique est inexact**
+
+Dans un rapport de tableau de bord, cliquer sur un résultat de graphique contenant plus de 15 éléments et sélectionner cette option pour n’afficher que 15 éléments fonctionne comme prévu. Cependant, si vous ouvrez le même rapport en dehors du tableau de bord et que vous cliquez sur le même résultat de graphique, tous les éléments s’affichent, mais seuls 15 d’entre eux apparaissent.
+
++++
 
 +++**Mise à jour de maintenance le vendredi 6 mars 2025**
 
