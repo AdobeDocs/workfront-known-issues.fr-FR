@@ -4,9 +4,9 @@ description: 'Problèmes signalés et connus dans la nouvelle expérience [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 592c51c774fcf9f6ff3e633fec7b2be559ea3158
+source-git-commit: f3ceee997d45018f85617da69400863a97582864
 workflow-type: tm+mt
-source-wordcount: '988'
+source-wordcount: '979'
 ht-degree: 96%
 
 ---
@@ -30,7 +30,6 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 | [Épreuves : impossible de taguer certaines personnes](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 février 2025 |
 | [Utilisateurs et utilisatrices : compte en double créé lors d’un changement d’administrateur ou d’administratrice système](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | vendredi 9 janvier 2025 |
 | [Workfront : le chargement des onglets de navigateur laissés ouverts échoue](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 12 novembre 2024 |
-| [Accueil : « Aucun accès » s’affiche comme nom du projet.](known-issues-workfront/wf-home-no-access-project-name.md) | 15 août 2024 |
 | [Intégrations : lier un dossier depuis [!DNL Google Drive] ne lie pas les ressources dans le dossier.](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juin 2024 |
 
 {style="table-layout:auto"}
@@ -43,8 +42,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | ---------------------------------- | ----------------- |
 | [Mises à jour : certains utilisateurs ne peuvent pas voir les images ou les documents joints aux commentaires](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | mardi 10 mars 2025 |
 | [Connexion en tant que : les administrateurs de groupe ne peuvent pas se connecter en tant qu’autre utilisateur](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | vendredi 6 mars 2025 |
-| [Intégrations : impossible de se connecter à Workfront pour Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 24 septembre 2024 |
-| [Équipes : impossible d’afficher la personne propriétaire de l’équipe ou de supprimer l’équipe](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 avril 2024 |
 | [[!DNL Workfront] : problèmes lors de la soumission d’un cas d’assistance [!DNL Workfront] sur Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 août 2022 |
 
 {style="table-layout:auto"}
@@ -55,6 +52,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Équipes : impossible d’afficher la personne propriétaire de l’équipe ou de supprimer l’équipe](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | vendredi 13 mars 2025 |
+| [Accueil : « Aucun accès » s’affiche comme nom du projet.](known-issues-workfront/wf-home-no-access-project-name.md) | vendredi 13 mars 2025 |
 | [Intégrations : erreur outlookIdentityToken lors de l’utilisation de Workfront pour Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | 4 mars 2025 |
 | [Notifications : e-mails en double](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | 27 février 2025 |
 | [Documents : chargement impossible dans la liste des documents du dossier AEM](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 27 février 2025 |
