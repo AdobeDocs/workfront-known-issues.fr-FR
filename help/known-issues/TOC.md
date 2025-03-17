@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 592c51c774fcf9f6ff3e633fec7b2be559ea3158
+source-git-commit: 9a60d4716a7f940fbbb344fa955f4d0d16edc2f4
 workflow-type: tm+mt
-source-wordcount: '1716'
-ht-degree: 99%
+source-wordcount: '1726'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Mises à jour : les mises à jour sont retardées](known-issues-workfront/wf-updates-delay-in-updates.md)
+      + [BAT : la génération de BAT est extrêmement lente](/help/known-issues/known-issues-workfront/wf-proofs-generation-takes-long-time.md)
       + [Demandes : file d’attente des demandes non disponible](/help/known-issues/known-issues-workfront/wf-requests-queue-not-available.md)
       + [Projets : le statut de progression du projet n’est pas automatiquement mis à jour en retard](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
       + [Mises à jour : certaines personnes ne peuvent pas afficher les images ou les documents joints aux commentaires.](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md)

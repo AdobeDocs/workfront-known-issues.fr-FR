@@ -4,10 +4,10 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
-workflow-type: ht
-source-wordcount: '420'
-ht-degree: 100%
+source-git-commit: 9a60d4716a7f940fbbb344fa955f4d0d16edc2f4
+workflow-type: tm+mt
+source-wordcount: '427'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [BAT : la génération de BAT est extrêmement lente](/help/known-issues/known-issues-workfront/wf-proofs-generation-takes-long-time.md) | mardi 17 mars 2025 |
 | [Épreuves : impossible de taguer certaines personnes](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 février 2025 |
 | [Documents : la zone Documents n’affiche pas tous les documents.](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md) | 2 janvier 2024 |
 | [Intégrations : lier un dossier depuis [!DNL Google Drive] ne lie pas les ressources dans le dossier.](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juin 2024 |
