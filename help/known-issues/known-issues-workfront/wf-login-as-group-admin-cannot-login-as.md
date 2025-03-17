@@ -1,18 +1,18 @@
 ---
-title: 'Connexion en tant que : les administrateurs de groupe ne peuvent pas se connecter en tant qu’autre utilisateur'
-description: Lorsque l’administrateur de groupes tente de se connecter en tant qu’autre utilisateur, il n’est pas connecté en tant qu’utilisateur. À la place, la bannière Connecté en tant que affiche le nom de l’administrateur de groupes, qui voit son propre compte.
+title: 'Connexion en tant que : les personnes administrant des groupes ne peuvent pas se connecter en tant qu’autre utilisateur ou utilisatrice.'
+description: Lorsque la personne administrant des groupes tente de se connecter en tant qu’autre utilisateur ou utilisatrice, l’opération échoue. À la place, la bannière Connexion en tant que affiche le nom de la personne administrant des groupes, qui voit son propre compte.
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: bde5a0c3f09e6a238224e03ecae168f6d5cda677
-workflow-type: tm+mt
+exl-id: 853cf466-f4f8-4f76-aac1-b7d62f286c4b
+source-git-commit: 7de2c762d323b8ab457d694edc447fb538ab1eb4
+workflow-type: ht
 source-wordcount: '100'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
+# Connexion en tant que : les personnes administrant des groupes ne peuvent pas se connecter en tant qu’autre utilisateur ou utilisatrice.
 
-# Connexion en tant que : les administrateurs de groupe ne peuvent pas se connecter en tant qu’autre utilisateur
+Lorsque la personne administrant des groupes tente de se connecter en tant qu’autre utilisateur ou utilisatrice, l’opération échoue. À la place, la bannière « Connexion en tant que » affiche le nom de la personne administrant des groupes, qui voit son propre compte.
 
-Lorsque l’administrateur de groupes tente de se connecter en tant qu’autre utilisateur, il n’est pas connecté en tant qu’utilisateur. À la place, la bannière « Connecté en tant que » affiche le nom de l’administrateur de groupes, qui voit son propre compte.
-
-_Premier signalement le mercredi 18 février 2025._
+_Premier signalement le 18 février 2025._

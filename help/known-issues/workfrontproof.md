@@ -5,9 +5,9 @@ keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '420'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 | -----------------------------------------------------------------| ----------------- |
 | [Épreuves : impossible de taguer certaines personnes](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 février 2025 |
 | [Documents : la zone Documents n’affiche pas tous les documents.](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md) | 2 janvier 2024 |
-| [Intégrations : lier un dossier depuis  [!DNL Google Drive]  ne lie pas les ressources dans le dossier.](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juin 2024 |
+| [Intégrations : lier un dossier depuis [!DNL Google Drive] ne lie pas les ressources dans le dossier.](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juin 2024 |
 
 {style="table-layout:auto"}
 
@@ -37,7 +37,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Mises à jour : certains utilisateurs ne peuvent pas voir les images ou les documents joints aux commentaires](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 10 Mars 2025 |
+| [Mises à jour : certaines personnes ne peuvent pas voir les images ou les documents joints aux commentaires.](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 10 mars 2025 |
 | [Épreuves : les épreuves approuvées apparaissent dans les rapports.](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 11 février 2025 |
 | [Notifications : miniatures non visibles dans les notifications par e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 juillet 2024 |
 | [Documents : erreur lors de l’utilisation d’un lien public vers un document](known-issues-workfront/wf-documents-public-link-not-working.md) | 5 juin 2024 |

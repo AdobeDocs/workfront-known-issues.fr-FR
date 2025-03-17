@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Agile
 exl-id: 98c1c3d7-df14-4f4d-9970-f5326870e2e0
 source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Ce problème a été résolu le vendredi 10 octobre 2024.
+>Ce problème a été résolu le 10 octobre 2024.
 
 
 Les problèmes suivants ont été signalés concernant les cartes connectées dans la colonne incorrecte :
