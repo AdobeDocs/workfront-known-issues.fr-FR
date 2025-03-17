@@ -38,9 +38,9 @@ Dans un rapport de tableau de bord, cliquer sur un résultat de graphique conten
 
 +++
 
-+++**Mise à jour de maintenance le vendredi 6 mars 2025**
++++**Mise à jour de maintenance le 6 mars 2025**
 
-### Mise à jour de maintenance le vendredi 6 mars 2025
+### Mise à jour de maintenance le 6 mars 2025
 
 Cette mise à jour inclut uniquement des correctifs mineurs ou moins importants. L’assistance Workfront vous avertira lorsqu’un problème que vous avez soumis sera résolu.
 

@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: f3ceee997d45018f85617da69400863a97582864
 workflow-type: tm+mt
 source-wordcount: '979'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -40,8 +40,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | ---------------------------------- | ----------------- |
-| [Mises à jour : certains utilisateurs ne peuvent pas voir les images ou les documents joints aux commentaires](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | mardi 10 mars 2025 |
-| [Connexion en tant que : les administrateurs de groupe ne peuvent pas se connecter en tant qu’autre utilisateur](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | vendredi 6 mars 2025 |
+| [Mises à jour : certaines personnes ne peuvent pas voir les images ou les documents joints aux commentaires.](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 10 mars 2025 |
+| [Connexion en tant que : les personnes administrant des groupes ne peuvent pas se connecter en tant qu’autre utilisateur ou utilisatrice.](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 6 mars 2025 |
 | [[!DNL Workfront] : problèmes lors de la soumission d’un cas d’assistance [!DNL Workfront] sur Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 août 2022 |
 
 {style="table-layout:auto"}
