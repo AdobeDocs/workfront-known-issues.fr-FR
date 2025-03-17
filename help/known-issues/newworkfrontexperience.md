@@ -4,10 +4,10 @@ description: 'Problèmes signalés et connus dans la nouvelle expérience [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9a60d4716a7f940fbbb344fa955f4d0d16edc2f4
+source-git-commit: 9369fd311a0d3610cc431ce51bcfb4bf25a20005
 workflow-type: tm+mt
-source-wordcount: '985'
-ht-degree: 97%
+source-wordcount: '984'
+ht-degree: 98%
 
 ---
 
@@ -25,7 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | ----------------------------------------------------------------- | ----------------- |
-| [BAT : la génération de BAT est extrêmement lente](/help/known-issues/known-issues-workfront/wf-proofs-generation-takes-long-time.md) | mardi 17 mars 2025 |
+| [BAT : la génération du BAT est lente](/help/known-issues/known-issues-workfront/wf-proofs-generation-takes-long-time.md) | mardi 17 mars 2025 |
 | [Projets : le statut de progression du projet n’est pas automatiquement mis à jour en retard](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md) | vendredi 13 mars 2025 |
 | [Épreuves : impossible de taguer certaines personnes](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 février 2025 |
 | [Utilisateurs et utilisatrices : compte en double créé lors d’un changement d’administrateur ou d’administratrice système](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | vendredi 9 janvier 2025 |
