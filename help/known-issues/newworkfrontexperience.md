@@ -4,10 +4,10 @@ description: 'Problèmes signalés et connus dans la nouvelle expérience [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2fd0fec1215ca576b4873f84ed564f31650e3567
+source-git-commit: f9c3efc48b0a3978f38986959e52652bf3509daf
 workflow-type: tm+mt
-source-wordcount: '973'
-ht-degree: 99%
+source-wordcount: '975'
+ht-degree: 98%
 
 ---
 
@@ -25,7 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | ----------------------------------------------------------------- | ----------------- |
-| [BAT : la génération du BAT est lente](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md) | mardi 17 mars 2025 |
+| [Accueil : impossible d’envoyer des réponses à partir du widget Mentions](/help/known-issues/known-issues-workfront/wf-home-mention-replies-not-sent.md) | vendredi 20 mars 2025 |
 | [Épreuves : impossible de taguer certaines personnes](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 février 2025 |
 | [Utilisateurs et utilisatrices : compte en double créé lors d’un changement d’administrateur ou d’administratrice système](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | vendredi 9 janvier 2025 |
 | [Workfront : le chargement des onglets de navigateur laissés ouverts échoue](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 12 novembre 2024 |

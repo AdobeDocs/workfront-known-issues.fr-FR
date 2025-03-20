@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 067fc125293bbfe30f6b8ded8ef71d440506e7eb
+source-git-commit: f9c3efc48b0a3978f38986959e52652bf3509daf
 workflow-type: tm+mt
-source-wordcount: '1731'
-ht-degree: 98%
+source-wordcount: '1738'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Accueil : impossible d’envoyer des réponses à partir du widget Mentions](/help/known-issues/known-issues-workfront/wf-home-mention-replies-not-sent.md)
       + [Mises à jour : les mises à jour sont retardées](known-issues-workfront/wf-updates-delay-in-updates.md)
       + [BAT : la génération du BAT est lente](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md)
       + [Demandes : file d’attente des demandes non disponible](/help/known-issues/known-issues-workfront/wf-requests-queue-not-available.md)

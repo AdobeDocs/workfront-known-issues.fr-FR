@@ -3,14 +3,19 @@ title: 'BAT : la génération du BAT est lente'
 description: Lorsque l’utilisateur crée une épreuve dans Workfront, sa génération peut prendre entre 3 et 10 minutes. L’épreuve est générée, mais lentement.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 70391ab9ea91c84b22e23049bc1e791e55a8829f
+exl-id: b337b735-a27f-4eef-a15c-ec6f07bfc528
+source-git-commit: f9c3efc48b0a3978f38986959e52652bf3509daf
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 6%
+source-wordcount: '66'
+ht-degree: 15%
 
 ---
 
 # BAT : la génération du BAT est lente
+
+>[!NOTE]
+>
+>Ce problème a été résolu le jeudi 19 mars 2025.
 
 Lorsque l’utilisateur crée une épreuve dans Workfront, sa génération peut prendre entre 3 et 10 minutes. L’épreuve est générée, mais lentement.
 
