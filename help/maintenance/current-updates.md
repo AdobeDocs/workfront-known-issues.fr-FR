@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: f9c3efc48b0a3978f38986959e52652bf3509daf
 workflow-type: tm+mt
 source-wordcount: '827'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -36,15 +36,15 @@ Cette mise à jour inclut uniquement des correctifs mineurs ou moins importants.
 
 +++
 
-+++**Mise à jour de maintenance le vendredi 13 mars 2025**
++++**Mise à jour de maintenance le 13 mars 2025**
 
-### Mise à jour de maintenance le vendredi 13 mars 2025
+### Mise à jour de maintenance le 13 mars 2025
 
 #### Rapports
 
-**Le nombre d’éléments dans le graphique est inexact**
+**Le nombre d’éléments dans le graphique est inexact.**
 
-Dans un rapport de tableau de bord, cliquer sur un résultat de graphique contenant plus de 15 éléments et sélectionner cette option pour n’afficher que 15 éléments fonctionne comme prévu. Cependant, si vous ouvrez le même rapport en dehors du tableau de bord et que vous cliquez sur le même résultat de graphique, tous les éléments s’affichent, mais seuls 15 d’entre eux apparaissent.
+Dans un rapport de tableau de bord, le fait de cliquer sur un résultat de graphique contenant plus de 15 éléments et choisir de n’afficher que 15 éléments fonctionne comme prévu. Cependant, si vous ouvrez le même rapport en dehors du tableau de bord et que vous cliquez sur le même résultat de graphique, tous les éléments s’affichent, mais seuls 15 d’entre eux apparaissent.
 
 +++
 

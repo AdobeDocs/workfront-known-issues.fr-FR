@@ -5,7 +5,7 @@ role: User
 source-git-commit: f9c3efc48b0a3978f38986959e52652bf3509daf
 workflow-type: tm+mt
 source-wordcount: '1738'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -20,8 +20,8 @@ ht-degree: 97%
       + [Accueil : impossible d’envoyer des réponses à partir du widget Mentions](/help/known-issues/known-issues-workfront/wf-home-mention-replies-not-sent.md)
       + [Mises à jour : les mises à jour sont retardées](known-issues-workfront/wf-updates-delay-in-updates.md)
       + [BAT : la génération du BAT est lente](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md)
-      + [Demandes : file d’attente des demandes non disponible](/help/known-issues/known-issues-workfront/wf-requests-queue-not-available.md)
-      + [Projets : le statut de progression du projet n’est pas automatiquement mis à jour en retard](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
+      + [Demandes : file d’attente des demandes non disponible](/help/known-issues/known-issues-workfront/wf-requests-queue-not-available.md)
+      + [Projets : le statut de progression du projet n’est pas automatiquement mis à jour sur En retard.](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
       + [Mises à jour : certaines personnes ne peuvent pas afficher les images ou les documents joints aux commentaires.](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md)
       + [Connexion en tant que : les personnes administrant des groupes ne peuvent pas se connecter en tant qu’autre utilisateur ou utilisatrice.](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
       + [Intégrations : erreur outlookIdentityToken lors de l’utilisation de Workfront pour Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
@@ -76,7 +76,7 @@ ht-degree: 97%
       + [Approbations : le filtre « Toutes » exclut les approbations soumises personnellement](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)
       + [Tâches : la durée des jours écoulés est incorrecte pour les tâches parents ayant des tâches enfants](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
       + [Rapports : la modification en bloc dans les listes de graphiques ne répond pas](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md)
-      + [Workfront : le chargement des onglets de navigateur laissés ouverts échoue](known-issues-workfront/wf-workfront-browser-tabs-error.md)
+      + [Workfront : le chargement des onglets de navigateur laissés ouverts échoue.](known-issues-workfront/wf-workfront-browser-tabs-error.md)
       + [Rapports : échec du chargement des rapports](known-issues-workfront/wf-reports-fail-to-load.md)
       + [Modèles de mise en page : les champs de données personnalisés ne s’affichent pas lorsqu’ils sont ajoutés au Résumé de la tâche par le biais du modèle de mise en page.](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
       + [Accueil : le widget Mes mises à jour ne fonctionne pas.](known-issues-workfront/wf-home-my-updates-not-working.md)
