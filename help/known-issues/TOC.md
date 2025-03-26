@@ -2,9 +2,9 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: f9c3efc48b0a3978f38986959e52652bf3509daf
+source-git-commit: b1a44fbf96213a612d5667f49ed1757aac6a2345
 workflow-type: tm+mt
-source-wordcount: '1738'
+source-wordcount: '1745'
 ht-degree: 98%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Filtres : la liste déroulante disparaît lorsque vous cliquez sur la barre de défilement.](known-issues-workfront/wf-filter-scroll-bar.md)
       + [Accueil : impossible d’envoyer des réponses à partir du widget Mentions](/help/known-issues/known-issues-workfront/wf-home-mention-replies-not-sent.md)
       + [Mises à jour : les mises à jour sont retardées](known-issues-workfront/wf-updates-delay-in-updates.md)
       + [BAT : la génération du BAT est lente](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md)
