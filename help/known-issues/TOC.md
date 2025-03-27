@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: b1a44fbf96213a612d5667f49ed1757aac6a2345
+source-git-commit: 9f1db9c48f25e3e0eddc4ae214b1ef6600597696
 workflow-type: tm+mt
-source-wordcount: '1745'
-ht-degree: 98%
+source-wordcount: '1772'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Demandes : les URL de code incorporé ne chargent pas correctement la file d’attente des demandes](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
+      + [Rapports : les utilisateurs de différents fuseaux horaires obtiennent des résultats de rapport différents](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md)
+      + [Utilisateurs : les administrateurs de groupe ne peuvent pas désactiver les utilisateurs](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md)
       + [Filtres : la liste déroulante disparaît lorsque vous cliquez sur la barre de défilement.](known-issues-workfront/wf-filter-scroll-bar.md)
       + [Accueil : impossible d’envoyer des réponses à partir du widget Mentions](/help/known-issues/known-issues-workfront/wf-home-mention-replies-not-sent.md)
       + [Mises à jour : les mises à jour sont retardées](known-issues-workfront/wf-updates-delay-in-updates.md)

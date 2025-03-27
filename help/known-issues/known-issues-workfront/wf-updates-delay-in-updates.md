@@ -3,15 +3,19 @@ title: 'Mises à jour : les mises à jour sont retardées'
 description: Lorsqu’une mise à jour se produit qui doit apparaître dans le flux de mise à jour d’un objet, elle n’apparaît pas pendant 20 minutes au maximum. La mise à jour a été enregistrée et peut être trouvée via une requête API, mais elle ne s’affiche pas immédiatement dans le flux de mise à jour.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 7b4146154fa50c77daf237ec8c480b900c0aa277
+exl-id: 04399483-4ecc-4573-8d9c-63370e0c600f
+source-git-commit: 1a9af831359c7d61ab477f693e873dbfb6c58efa
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 4%
+source-wordcount: '108'
+ht-degree: 10%
 
 ---
 
-
 # Mises à jour : les mises à jour sont retardées
+
+>[!NOTE]
+>
+>Ce problème a été résolu le 27 mars. 2025.
 
 Lorsqu’une mise à jour se produit qui doit apparaître dans le flux de mise à jour d’un objet, elle n’apparaît pas pendant 20 minutes au maximum. La mise à jour a été enregistrée et peut être trouvée via une requête API, mais elle ne s’affiche pas immédiatement dans le flux de mise à jour.
 
