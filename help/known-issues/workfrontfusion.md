@@ -5,9 +5,9 @@ keywords: nouveau fichier, ajouter un fichier
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
 source-git-commit: 067fc125293bbfe30f6b8ded8ef71d440506e7eb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '192'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion : le scénario n’est pas en cours d’exécution](known-issues-workfront-fusion/fusion-scenario-not-running.md) | mercredi 19 mars 2024 |
+| [Workfront Fusion : le scénario ne s’exécute pas.](known-issues-workfront-fusion/fusion-scenario-not-running.md) | 19 mars 2024 |
 | [Workfront Fusion : impossible d’ajouter ou de supprimer des utilisateurs et des utilisatrices dans Workfront Fusion](known-issues-workfront-fusion/fusion-cannot-manage-users.md) | 24 septembre 2024 |
 
 {style="table-layout:auto"}
