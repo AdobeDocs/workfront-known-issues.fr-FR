@@ -4,10 +4,10 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Fusion]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 067fc125293bbfe30f6b8ded8ef71d440506e7eb
-workflow-type: ht
-source-wordcount: '192'
-ht-degree: 100%
+source-git-commit: 545032a42d837620d24a0cac7a16bbecb1d945e4
+workflow-type: tm+mt
+source-wordcount: '208'
+ht-degree: 92%
 
 ---
 
@@ -25,7 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| Aucun |  |
+| [Workfront Fusion : les options d’abonnement aux événements Workfront version 2 ne sont pas disponibles lors de la connexion à un environnement Sandbox](/help/known-issues/known-issues-workfront-fusion/fusion-event-subs-v1-sandbox.md) | vendredi 3 avril 2025 |
 
 {style="table-layout:auto"}
 

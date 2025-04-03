@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9f1db9c48f25e3e0eddc4ae214b1ef6600597696
+source-git-commit: 545032a42d837620d24a0cac7a16bbecb1d945e4
 workflow-type: tm+mt
-source-wordcount: '1772'
-ht-degree: 98%
+source-wordcount: '1794'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
+      + [Tableaux de bord : le tableau de bord personnalisé ne s’ouvre pas](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)
       + [Demandes : les URL de code incorporé ne chargent pas correctement la file d’attente des demandes](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
       + [Rapports : les utilisateurs de différents fuseaux horaires obtiennent des résultats de rapport différents](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md)
       + [Utilisateurs : les administrateurs de groupe ne peuvent pas désactiver les utilisateurs](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md)
@@ -225,6 +226,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problèmes connus dans Workfront Fusion](workfrontfusion.md)
    + Problèmes actifs dans [!DNL Workfront Fusion] {#fusion-current}
+      + [Workfront Fusion : les options d’abonnement aux événements Workfront version 2 ne sont pas disponibles lors de la connexion à un environnement Sandbox](/help/known-issues/known-issues-workfront-fusion/fusion-event-subs-v1-sandbox.md)
       + [Workfront Fusion : le scénario ne s’exécute pas.](known-issues-workfront-fusion/fusion-scenario-not-running.md)
       + [Fusion Workfront : le paramètre de démarrage « À partir de maintenant » traite toutes les données.](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
       + [Workfront Fusion : impossible d’ajouter ou de supprimer des utilisateurs et des utilisatrices dans Workfront Fusion](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
