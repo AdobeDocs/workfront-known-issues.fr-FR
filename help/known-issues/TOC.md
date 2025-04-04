@@ -5,7 +5,7 @@ role: User
 source-git-commit: 545032a42d837620d24a0cac7a16bbecb1d945e4
 workflow-type: tm+mt
 source-wordcount: '1794'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -18,10 +18,10 @@ ht-degree: 96%
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actifs dans [!DNL Adobe Workfront] {#wf-current}
       + [Tableaux de bord : le tableau de bord personnalisé ne s’ouvre pas](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)
-      + [Demandes : les URL de code incorporé ne chargent pas correctement la file d’attente des demandes](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
-      + [Rapports : les utilisateurs de différents fuseaux horaires obtiennent des résultats de rapport différents](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md)
-      + [Utilisateurs : les administrateurs de groupe ne peuvent pas désactiver les utilisateurs](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md)
-      + [Filtres : la liste déroulante disparaît lorsque vous cliquez sur la barre de défilement.](known-issues-workfront/wf-filter-scroll-bar.md)
+      + [Demandes : les URL de code incorporé ne chargent pas correctement la file d’attente des demandes](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
+      + [Rapports : les utilisateurs et utilisatrices de différents fuseaux horaires obtiennent des résultats de rapport différents](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md)
+      + [Utilisateurs et utilisatrices : les administrateurs et administratrices de groupes ne peuvent pas désactiver les utilisateurs et les utilisatrices](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md)
+      + [Filtres : la liste déroulante disparaît lorsque vous cliquez sur la barre de défilement](known-issues-workfront/wf-filter-scroll-bar.md)
       + [Accueil : impossible d’envoyer des réponses à partir du widget Mentions](/help/known-issues/known-issues-workfront/wf-home-mention-replies-not-sent.md)
       + [Mises à jour : les mises à jour sont retardées.](known-issues-workfront/wf-updates-delay-in-updates.md)
       + [Épreuves : la génération des épreuves est lente.](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md)
