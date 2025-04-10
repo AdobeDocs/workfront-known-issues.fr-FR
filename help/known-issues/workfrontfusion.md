@@ -7,7 +7,7 @@ feature: Workfront Fusion
 source-git-commit: 7694737e6f8bc14d4c166be918bbe96948b930f8
 workflow-type: tm+mt
 source-wordcount: '201'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion : les options d’abonnement aux événements Workfront version 2 ne sont pas disponibles lors de la connexion à un environnement Sandbox](/help/known-issues/known-issues-workfront-fusion/fusion-event-subs-v1-sandbox.md) | vendredi 3 avril 2025 |
+| [Workfront Fusion : les options d’abonnement aux événements Workfront version 2 ne sont pas disponibles lors de la connexion à un environnement de sandbox.](/help/known-issues/known-issues-workfront-fusion/fusion-event-subs-v1-sandbox.md) | 3 avril 2025 |
 
 {style="table-layout:auto"}
 

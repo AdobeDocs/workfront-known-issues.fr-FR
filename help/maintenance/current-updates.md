@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 7694737e6f8bc14d4c166be918bbe96948b930f8
 workflow-type: tm+mt
 source-wordcount: '964'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -34,7 +34,7 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2025.
 
 **Le tableau de bord personnalisé ne s’ouvre pas**
 
-Lorsque l’utilisateur consulte un objet et tente d’ouvrir un tableau de bord personnalisé joint à cet objet, le tableau de bord ne s’ouvre pas.
+Lorsque l’utilisateur ou l’utilisatrice consulte un objet et tente d’ouvrir un tableau de bord personnalisé joint à cet objet, le tableau de bord ne s’ouvre pas.
 
 #### Rapports
 
@@ -44,9 +44,9 @@ Les utilisateurs et utilisatrices de différents fuseaux horaires qui utilisent 
 
 +++
 
-+++**Mise à jour de maintenance le vendredi 3 avril 2025**
++++**Mise à jour de maintenance le 3 avril 2025**
 
-### Mise à jour de maintenance le vendredi 3 avril 2025
+### Mise à jour de maintenance le 3 avril 2025
 
 Cette mise à jour inclut uniquement des correctifs mineurs ou moins importants. L’assistance Workfront vous avertira lorsqu’un problème que vous avez soumis sera résolu.
 
