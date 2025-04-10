@@ -5,9 +5,9 @@ keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 282c250c226a0024d0359bca938ad56d78026848
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '986'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Tableaux de bord : le tableau de bord personnalisé ne s’ouvre pas](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md) | vendredi 3 avril 2025 |
+| [Tableaux de bord : le tableau de bord personnalisé ne s’ouvre pas.](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md) | 3 avril 2025 |
 | [Demandes : les URL de code incorporé ne chargent pas correctement la file d’attente des demandes](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md) | 27 mars 2025 |
 | [Rapports : les utilisateurs et utilisatrices de différents fuseaux horaires obtiennent des résultats de rapport différents](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md) | 27 mars 2025 |
 | [Épreuves : impossible de taguer certaines personnes](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 février 2025 |
