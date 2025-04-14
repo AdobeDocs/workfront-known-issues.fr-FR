@@ -4,10 +4,10 @@ description: 'Problèmes signalés et connus dans la nouvelle expérience [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 769cf7631661402b5add6e719838358859e25a21
+source-git-commit: fcea0943bdcea64988c6db4584a79486d12611f1
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '947'
+ht-degree: 99%
 
 ---
 
@@ -38,7 +38,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | ---------------------------------- | ----------------- |
-| [Demandes : les URL de code incorporé ne chargent pas correctement la file d’attente des demandes](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md) | vendredi 10 avril 2025 |
 | [Connexion en tant que : les personnes administrant des groupes ne peuvent pas se connecter en tant qu’autre utilisateur ou utilisatrice.](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 6 mars 2025 |
 | [[!DNL Workfront] : problèmes lors de la soumission d’un cas d’assistance [!DNL Workfront] sur Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 août 2022 |
 
