@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 1d6e079de904bba0142e73d01bbc3020aadf95df
 workflow-type: tm+mt
 source-wordcount: '962'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -32,13 +32,13 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2025.
 
 #### Tableaux de bord
 
-**Le tableau de bord personnalisé ne s’ouvre pas**
+**Le tableau de bord personnalisé ne s’ouvre pas.**
 
 Lorsque l’utilisateur ou l’utilisatrice consulte un objet et tente d’ouvrir un tableau de bord personnalisé joint à cet objet, le tableau de bord ne s’ouvre pas.
 
 #### Rapports
 
-**Les utilisateurs de différents fuseaux horaires obtiennent des résultats de rapports différents**
+**Les utilisateurs et utilisatrices de différents fuseaux horaires obtiennent des résultats de rapport différents.**
 
 Les utilisateurs et utilisatrices de différents fuseaux horaires qui utilisent le sélecteur de date pour obtenir un rapport pour une certaine date obtiennent des résultats différents pour ce rapport.
 
