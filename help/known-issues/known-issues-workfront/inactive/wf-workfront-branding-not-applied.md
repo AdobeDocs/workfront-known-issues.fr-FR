@@ -1,13 +1,13 @@
 ---
 title: 'Workfront : l’image de marque n’est pas disponible'
-description: Lorsqu’une personne charge des fichiers dans la zone Branding de la configuration, les fichiers semblent être chargés correctement. Cependant, le menu principal n’affiche pas le logo. Au lieu de cela, un message d’erreur s’affiche.
+description: L’identité graphique n’est pas disponible pour les organisations qui ont été migrées vers Adobe Admin Console, Adobe Unified Shell ou Adobe IMS (système Identity Management).
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 0c7e5ebf-c09a-45fd-a017-c1607cef8b78
-source-git-commit: edbb0ac85506450aaf5b5147525fe50f2089b119
+source-git-commit: 838c8ed34b72916597a4a28ec00a5711bba3fe23
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 56%
+source-wordcount: '181'
+ht-degree: 39%
 
 ---
 
