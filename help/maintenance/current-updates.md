@@ -34,9 +34,9 @@ Cette mise à jour inclut uniquement des correctifs mineurs ou moins importants.
 
 +++
 
-+++**Mise à jour de maintenance le vendredi 10 avril 2025**
++++**Mise à jour de maintenance le 10 avril 2025**
 
-### **Mise à jour de maintenance le vendredi 10 avril 2025**
+### **Mise à jour de maintenance le 10 avril 2025**
 
 #### Tableaux de bord
 

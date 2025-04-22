@@ -5,7 +5,7 @@ role: User
 source-git-commit: e75c9fdb389dacf156c21a6a82f61470a4758375
 workflow-type: tm+mt
 source-wordcount: '1806'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 98%
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
       + [Documents : les miniatures des documents ne s’affichent pas](known-issues-workfront/wf-documents-thumbnails-not-display.md)
-      + [Modèles : impossible de partager avec un accès de type Contributeur](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)
+      + [Modèles : impossible de partager avec un accès de type Contribuer](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)
       + [Tableaux de bord : le tableau de bord personnalisé ne s’ouvre pas.](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)
       + [Demandes : les URL de code incorporé ne chargent pas correctement la file d’attente des demandes](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
       + [Rapports : les utilisateurs et utilisatrices de différents fuseaux horaires obtiennent des résultats de rapport différents](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md)
@@ -201,8 +201,8 @@ ht-degree: 98%
 
 + [!DNL Workfront Proof] {#proof}
    + [Problèmes connus dans  [!DNL Workfront Proof]](workfrontproof.md)
-   + Problèmes actuels dans [!DNL Workfront Proof] {#proof-current}
-      + [Workfront Mobile : les liens des e-mails d’épreuve ne s’ouvrent pas sur iPhone.](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md)
+   + Problèmes actifs dans [!DNL Workfront Proof] {#proof-current}
+      + [Application mobile Workfront : les liens des e-mails d’épreuve ne s’ouvrent pas sur iPhone.](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md)
       + [[!UICONTROL Workfront Proof] : impossible de réorganiser les ressources lors de la création d’un BAT](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof] : horodatage incorrect sur le [!UICONTROL Résumé du BAT]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!DNL Workfront Proof] : impossible de développer le workflow](known-issues-workfront-proof/proof-cannot-view-workflow.md)
@@ -221,13 +221,13 @@ ht-degree: 98%
       + [Le rapport [!UICONTROL Approbation de l’épreuve] ne détermine pas précisément les échéances.](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
       + [[!UICONTROL Accueil] : les épreuves terminées sont bloquées dans la [!UICONTROL Liste de travail].](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)
       + [Documents : l’icône du workflow de l’épreuve ne s’affiche pas.](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md)
-   + Problèmes résolus dans [!DNL Workfront] Proof {#proof-resolved}
+   + Problèmes résolus dans [!DNL Workfront] Proof {#proof-resolved}
       + [Épreuves : les épreuves indiquent « [!UICONTROL Génération de l’épreuve en cours] » pendant un délai très long.](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
 
 
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problèmes connus dans Workfront Fusion](workfrontfusion.md)
-   + Problèmes actuels dans [!DNL Workfront Fusion] {#fusion-current}
+   + Problèmes actifs dans [!DNL Workfront Fusion] {#fusion-current}
       + [Workfront Fusion : les options d’abonnement aux événements Workfront version 2 ne sont pas disponibles lors de la connexion à un environnement de sandbox.](/help/known-issues/known-issues-workfront-fusion/fusion-event-subs-v1-sandbox.md)
       + [Workfront Fusion : le scénario ne s’exécute pas.](known-issues-workfront-fusion/fusion-scenario-not-running.md)
       + [Fusion Workfront : le paramètre de démarrage « À partir de maintenant » traite toutes les données.](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
@@ -242,7 +242,7 @@ ht-degree: 98%
       + [[!DNL Workfront Fusion] : le module  [!DNL Fusion] renvoie une erreur 404 sans autre information.](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [Les liens d’aide in-app de [!DNL Workfront Fusion] ne mènent pas à des pages d’aide spécifiques.](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
-+ [!UICONTROL Objectifs Adobe Workfront] {#goals}
++ [!UICONTROL Objectifs Adobe Workfront] {#goals}
    + [Problèmes connus dans  [!DNL Workfront Goals]](workfrontgoals.md)
 + [!DNL Workfront Library] {#library}
    + [Problèmes connus dans  [!DNL Workfront Library]](workfrontlibrary.md)
