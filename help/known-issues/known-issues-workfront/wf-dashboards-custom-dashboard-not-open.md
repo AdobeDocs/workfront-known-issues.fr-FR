@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 7f096582-d645-4c80-82bc-ce4a6c8dcbc4
 source-git-commit: 1d6e079de904bba0142e73d01bbc3020aadf95df
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Ce problème a été résolu le vendredi 10 avril 2025.
+>Ce problème a été résolu le 10 avril 2025.
 
 Lorsque l’utilisateur ou l’utilisatrice consulte un objet et tente d’ouvrir un tableau de bord personnalisé joint à cet objet, le tableau de bord ne s’ouvre pas.
 

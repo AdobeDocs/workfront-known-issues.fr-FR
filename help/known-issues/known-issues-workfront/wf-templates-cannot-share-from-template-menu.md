@@ -1,18 +1,18 @@
 ---
-title: 'Modèles : impossible de partager avec un accès de type Contributeur'
-description: Lorsque l’utilisateur consulte un modèle ou tente de partager le modèle ou le projet avec un autre utilisateur, il ne peut pas lui attribuer un accès de type Contributeur. Les options Gérer et Afficher sont les seules options disponibles lors du partage à partir d’un modèle.
+title: 'Modèles : impossible de partager avec un accès de type Contribuer'
+description: Lorsqu’un utilisateur ou une utilisatrice consulte un modèle et tente de partager le modèle ou un projet avec une autre personne, il est impossible d’attribuer à celle-ci un accès de type Contribuer. Les options Gérer et Afficher sont les seules options disponibles lors du partage à partir d’un modèle.
 hidefromtoc: true
 feature: Work Management, Projects
-source-git-commit: 769cf7631661402b5add6e719838358859e25a21
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+exl-id: ffe3a135-c48b-483f-9fbf-a9ee8a0c0967
+source-git-commit: d1fa4c2fcb7096490d739caf656586dfa42acfb7
+workflow-type: ht
+source-wordcount: '96'
+ht-degree: 100%
 
 ---
 
+# Modèles : impossible de partager avec un accès de type Contribuer
 
-# Modèles : impossible de partager avec un accès de type Contributeur
+Lorsqu’un utilisateur ou une utilisatrice consulte un modèle et tente de partager le modèle ou un projet avec une autre personne, il est impossible d’attribuer à celle-ci un accès de type Contribuer. Les options Gérer et Afficher sont les seules options disponibles lors du partage à partir d’un modèle.
 
-Lorsque l’utilisateur consulte un modèle ou tente de partager le modèle ou le projet avec un autre utilisateur, il ne peut pas lui attribuer un accès de type Contributeur. Les options Gérer et Afficher sont les seules options disponibles lors du partage à partir d’un modèle.
-
-_Premier signalement le mercredi 1 avril 2025._
+_Premier signalement le 1 avril 2025._
