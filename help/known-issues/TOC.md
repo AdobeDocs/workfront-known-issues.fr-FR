@@ -5,7 +5,7 @@ role: User
 source-git-commit: ad58881526869c966792584b9a139c2759e7282d
 workflow-type: tm+mt
 source-wordcount: '1625'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
-      + [Documents : les miniatures des documents ne s’affichent pas](known-issues-workfront/wf-documents-thumbnails-not-display.md)
+      + [Documents : les miniatures des documents ne s’affichent pas.](known-issues-workfront/wf-documents-thumbnails-not-display.md)
       + [Modèles : impossible de partager avec un accès de type Contribuer](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)
       + [Tableaux de bord : le tableau de bord personnalisé ne s’ouvre pas.](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)
       + [Demandes : les URL de code incorporé ne chargent pas correctement la file d’attente des demandes](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)

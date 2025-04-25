@@ -34,9 +34,9 @@ Cette mise à jour inclut uniquement des correctifs mineurs ou moins importants.
 
 +++
 
-+++**Mise à jour de maintenance le vendredi 17 avril 2025**
++++**Mise à jour de maintenance le 17 avril 2025**
 
-### Mise à jour de maintenance le vendredi 17 avril 2025
+### Mise à jour de maintenance le 17 avril 2025
 
 Cette mise à jour inclut uniquement des correctifs mineurs ou moins importants. L’assistance Workfront vous avertira lorsqu’un problème que vous avez soumis sera résolu.
 

@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: e32c9244e39877d2a541d4911348c5adee553c62
 workflow-type: tm+mt
 source-wordcount: '403'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -37,7 +37,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documents : les miniatures des documents ne s’affichent pas](known-issues-workfront/wf-documents-thumbnails-not-display.md) | vendredi 17 avril 2025 |
+| [Documents : les miniatures des documents ne s’affichent pas](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 17 avril 2025 |
 | [Mises à jour : certaines personnes ne peuvent pas voir les images ou les documents joints aux commentaires.](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 10 mars 2025 |
 | [Épreuves : les épreuves approuvées apparaissent dans les rapports.](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 11 février 2025 |
 | [Notifications : miniatures non visibles dans les notifications par e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 juillet 2024 |

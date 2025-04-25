@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: e32c9244e39877d2a541d4911348c5adee553c62
 workflow-type: tm+mt
 source-wordcount: '940'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -37,7 +37,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | ---------------------------------- | ----------------- |
-| [Documents : les miniatures des documents ne s’affichent pas](known-issues-workfront/wf-documents-thumbnails-not-display.md) | vendredi 17 avril 2025 |
+| [Documents : les miniatures des documents ne s’affichent pas](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 17 avril 2025 |
 | [Connexion en tant que : les personnes administrant des groupes ne peuvent pas se connecter en tant qu’autre utilisateur ou utilisatrice.](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 6 mars 2025 |
 | [[!DNL Workfront] : problèmes lors de la soumission d’un cas d’assistance [!DNL Workfront] sur Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 août 2022 |
 
