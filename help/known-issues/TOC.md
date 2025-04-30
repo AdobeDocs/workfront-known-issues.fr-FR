@@ -3,7 +3,7 @@ user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
 source-git-commit: ad58881526869c966792584b9a139c2759e7282d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1625'
 ht-degree: 100%
 
@@ -60,7 +60,7 @@ ht-degree: 100%
       + [Approbations : les approbations déléguées n’apparaissent pas pour les personnes déléguées.](known-issues-workfront/wf-approvals-delegation-not-working.md)
       + [Workfront : changements de format de date dans l’application](known-issues-workfront/wf-workfront-date-format-changing.md)
       + [Workfront : les paramètres ZScaler peuvent diminuer les performances.](known-issues-workfront//wf-workfront-zscaler.md)
-      + [« Notifications : les notifications par e-mail pour les mises à jour ne sont pas envoyées »](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)
+      + [Notifications : les notifications par e-mail pour les mises à jour ne sont pas envoyées.](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)
       + [Utilisateurs et utilisatrices : la balise « Non enregistré » persiste après la connexion](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md)
       + [Workfront : les personnes ayant le niveau d’accès Contributeur ou Contributrice ne peuvent pas accéder aux programmes ou aux portefeuilles](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
       + [Approbations : le filtre « Toutes » exclut les approbations soumises personnellement](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)

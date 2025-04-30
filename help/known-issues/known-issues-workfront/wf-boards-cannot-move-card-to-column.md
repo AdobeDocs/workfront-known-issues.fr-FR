@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Agile
 exl-id: adac7c77-8517-4b7e-ae55-ad72cace8d54
 source-git-commit: 838c8ed34b72916597a4a28ec00a5711bba3fe23
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Ce problème a été résolu le vendredi 30 janvier 2025.
+>Ce problème a été résolu le 30 janvier 2025.
 
 Lorsqu’une personne tente de déplacer une carte vers une autre colonne, la carte ne se déplace pas et le message suivant s’affiche :
 

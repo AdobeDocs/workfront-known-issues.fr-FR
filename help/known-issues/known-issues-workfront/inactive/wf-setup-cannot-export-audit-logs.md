@@ -1,13 +1,13 @@
 ---
-title: 'Configuration : impossible d’exporter les journaux d’audit'
+title: 'Configuration : impossible d’exporter les journaux d’audit'
 description: Lorsqu’un utilisateur ou une utilisatrice tente d’exporter un grand nombre de journaux d’audit, les journaux ne sont pas exportés. Rien n’indique que l’export a échoué.
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: a9a7b551-58ba-412f-bef4-b0dae16d2611
 source-git-commit: e32c9244e39877d2a541d4911348c5adee553c62
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->Ce problème a été résolu le mardi 4 novembre 2024.
+>Ce problème a été résolu le 4 novembre 2024.
 
 Lorsqu’un utilisateur ou une utilisatrice tente d’exporter un grand nombre de journaux d’audit, les journaux ne sont pas exportés. Rien n’indique que l’export a échoué.
 

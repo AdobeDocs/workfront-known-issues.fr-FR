@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 1a158dd0-8f24-4d2d-b8e6-36330d4131b4
 source-git-commit: 838c8ed34b72916597a4a28ec00a5711bba3fe23
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Ce problème a été résolu le vendredi 30 janvier 2025.
+>Ce problème a été résolu le 30 janvier 2025.
 
 Lors du filtrage d’un rapport horaire pour n’afficher qu’une date spécifique, une date adjacente différente est en fait incluse dans le rapport. Ce problème semble lié aux paramètres de fuseau horaire.
 

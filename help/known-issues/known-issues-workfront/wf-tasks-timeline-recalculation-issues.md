@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Tasks, Work Management
 exl-id: 43211889-8c49-4f40-adca-2a2922c5b8dc
 source-git-commit: 838c8ed34b72916597a4a28ec00a5711bba3fe23
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Ce problème a été résolu le mardi 10 mars 2025.
+>Ce problème a été résolu le 10 mars 2025.
 
 Les problèmes suivants liés au recalcul de la chronologie ont été signalés :
 
