@@ -4,9 +4,9 @@ description: 'Lorsque des onglets Workfront restent ouverts assez longtemps pour
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: ac9ec88e-2edd-44de-9925-f2936a0feebf
-source-git-commit: 77776e8134a24a6b85a01ac97029306f389437ef
-workflow-type: ht
-source-wordcount: '120'
+source-git-commit: ef202b88d094e783b2b4e288aea68ccbb71c175f
+workflow-type: tm+mt
+source-wordcount: '115'
 ht-degree: 100%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Le correctif pour ce problème est déployé progressivement.
+>Ce problème a été résolu.
 
 Lorsque des onglets Workfront restent ouverts assez longtemps pour qu’une nouvelle connexion soit requise, la page affiche une erreur : « 500-001a : échec du chargement de la page » au lieu de demander à l’utilisateur ou à l’utilisatrice de se reconnecter.
 
