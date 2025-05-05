@@ -29,6 +29,6 @@ Le délai d’autorisation est contrôlé par Microsoft.
 
 Autoriser à nouveau.
 
-Si les problèmes persistent, consultez la section [Dépannage](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-sharepoint-integration.html#troubleshooting) de [Configuration de l’intégration SharePoint](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-sharepoint-integration.html).
+Si les problèmes persistent, consultez la section [Dépannage](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-sharepoint-integration.html?lang=fr#troubleshooting) de [Configuration de l’intégration SharePoint](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-sharepoint-integration.html?lang=fr).
 
 _Premier signalement le 9 novembre 2023._
