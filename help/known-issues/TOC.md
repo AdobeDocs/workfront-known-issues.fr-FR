@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: ad58881526869c966792584b9a139c2759e7282d
-workflow-type: ht
-source-wordcount: '1625'
-ht-degree: 100%
+source-git-commit: fe4f61bf23c2def29767fbccde8cc24a07a56b36
+workflow-type: tm+mt
+source-wordcount: '1632'
+ht-degree: 99%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
+      + [Épreuves : la fermeture des redirections d’épreuve vers la liste des documents](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md)
       + [Documents : les miniatures des documents ne s’affichent pas.](known-issues-workfront/wf-documents-thumbnails-not-display.md)
       + [Modèles : impossible de partager avec un accès de type Contribuer](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)
       + [Tableaux de bord : le tableau de bord personnalisé ne s’ouvre pas.](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)

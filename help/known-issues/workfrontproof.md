@@ -4,10 +4,10 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: e32c9244e39877d2a541d4911348c5adee553c62
-workflow-type: ht
-source-wordcount: '403'
-ht-degree: 100%
+source-git-commit: fe4f61bf23c2def29767fbccde8cc24a07a56b36
+workflow-type: tm+mt
+source-wordcount: '411'
+ht-degree: 98%
 
 ---
 
@@ -51,6 +51,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Épreuves : la fermeture des épreuves redirige vers la liste des documents](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | jeudi 14 mai 2025 |
 | [Épreuves : impossible de créer des épreuves pour les vidéos liées à partir d’AEM via Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 13 février 2025 |
 | [Épreuves : les épreuves de la capture web ne se génèrent pas.](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 20 décembre 2024 |
 | [Épreuve : échec de la génération des épreuves compressées.](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 7 juin 2024 |
