@@ -2,9 +2,9 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: fe4f61bf23c2def29767fbccde8cc24a07a56b36
-workflow-type: ht
-source-wordcount: '1632'
+source-git-commit: 9a3bf766e9660d24c6fe9899712f6011980a4c04
+workflow-type: tm+mt
+source-wordcount: '1629'
 ht-degree: 100%
 
 ---
@@ -224,8 +224,6 @@ ht-degree: 100%
 
 + [!UICONTROL Objectifs Adobe Workfront] {#goals}
    + [Problèmes connus dans  [!DNL Workfront Goals]](workfrontgoals.md)
-+ [!DNL Workfront Library] {#library}
-   + [Problèmes connus dans  [!DNL Workfront Library]](workfrontlibrary.md)
 + Application mobile [!DNL Workfront] {#mobile}
    + [Problèmes connus dans l’application mobile  [!DNL Workfront] ](workfrontmobile.md)
 + [!DNL Workfront Scenario Planner] {#scenarioplanner}
