@@ -5,9 +5,9 @@ keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: fe4f61bf23c2def29767fbccde8cc24a07a56b36
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '939'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -49,7 +49,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Épreuves : la fermeture des épreuves redirige vers la liste des documents](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | jeudi 14 mai 2025 |
+| [Épreuves : la fermeture de l’épreuve redirige vers la liste des documents.](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | 14 mai 2025 |
 | [Filtres : la liste déroulante disparaît lorsque vous cliquez sur la barre de défilement](known-issues-workfront/wf-filter-scroll-bar.md) | 26 mars 2025 |
 | [Équipes : impossible d’afficher la personne propriétaire de l’équipe ou de supprimer l’équipe](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 13 mars 2025 |
 | [Accueil : « Aucun accès » s’affiche comme nom du projet.](known-issues-workfront/wf-home-no-access-project-name.md) | 13 mars 2025 |
