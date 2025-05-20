@@ -4,9 +4,9 @@ description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 55507ca9bb62e46af3b896819faeeacc8262c660
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1129'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -26,15 +26,15 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2025.
 
 ## Mises à jour de mai 2025
 
-+++**Mise à jour de maintenance le vendredi 15 mai 2025**
++++**Mise à jour de maintenance le 15 mai 2025**
 
-### Mise à jour de maintenance le vendredi 15 mai 2025
+### Mise à jour de maintenance le 15 mai 2025
 
 #### Rapports
 
 **Erreur lors de l’affichage d’un rapport avec une vue Jalon**
 
-Lorsque l’utilisateur tente d’afficher un rapport dont la vue Jalon est disponible pour activation, le rapport ne se charge pas et affiche une erreur.
+Lorsque l’utilisateur ou l’utilisatrice tente d’afficher un rapport dont la vue Jalon est disponible pour activation, le rapport ne se charge pas et affiche une erreur.
 
 +++
 
