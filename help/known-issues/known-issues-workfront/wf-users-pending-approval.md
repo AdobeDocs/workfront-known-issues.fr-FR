@@ -42,7 +42,7 @@ Vous pouvez résoudre des utilisateurs individuels dans la liste Utilisateurs .
 
 Pour résoudre le problème des utilisateurs ajoutés dans un lot volumineux, vous pouvez ajouter directement le lot d’utilisateurs au Adobe Admin Console.
 
-Pour obtenir des instructions, voir [Gérer plusieurs utilisateurs | Chargement CSV en masse](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html) dans la documentation d’Adobe.
+Pour obtenir des instructions, voir [Gérer plusieurs utilisateurs | Chargement CSV en masse](https://helpx.adobe.com/fr/enterprise/using/bulk-upload-users.html) dans la documentation d’Adobe.
 
 
 _Premier signalement le vendredi 8 mai 2025._
