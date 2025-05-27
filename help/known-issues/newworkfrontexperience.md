@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 7b73c768009d730f95684e6cc3fb46dbd08c9afe
 workflow-type: tm+mt
 source-wordcount: '931'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -25,7 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Planificateur de ressources : bouton Exporter désactivé](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md) | vendredi 22 mai 2025 |
+| [Planificateur de ressources : le bouton Exporter est désactivé.](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md) | 22 mai 2025 |
 | [Intégrations : lier un dossier depuis [!DNL Google Drive] ne lie pas les ressources dans le dossier.](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juin 2024 |
 
 {style="table-layout:auto"}
