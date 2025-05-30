@@ -18,7 +18,7 @@ ht-degree: 99%
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
       + [Recherche : la recherche avancée ne renvoie pas les résultats attendus](/help/known-issues/known-issues-workfront/wf-search-advanced-not-working.md)
-      + [Utilisateurs : le badge « Approbation en attente » s’affiche pour les nouveaux utilisateurs](known-issues-workfront/wf-users-pending-approval.md)
+      + [Utilisateurs et utilisatrices : le badge « Approbation en attente » s’affiche pour les nouvelles personnes.](known-issues-workfront/wf-users-pending-approval.md)
       + [Planificateur de ressources : le bouton Exporter est désactivé.](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md)
       + [Épreuves : la fermeture de l’épreuve entraîne une redirection vers la liste des documents.](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md)
       + [Documents : les miniatures des documents ne s’affichent pas.](known-issues-workfront/wf-documents-thumbnails-not-display.md)
