@@ -18,7 +18,7 @@ ht-degree: 99%
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
       + [Feuilles de temps : les feuilles de temps ne sont pas correctement générées](known-issues-workfront/wf-timesheets-one-week-created.md)
-      + [Recherche : la recherche avancée ne renvoie pas les résultats attendus](/help/known-issues/known-issues-workfront/wf-search-advanced-not-working.md)
+      + [Recherche : la recherche avancée ne renvoie pas les résultats attendus.](/help/known-issues/known-issues-workfront/wf-search-advanced-not-working.md)
       + [Utilisateurs et utilisatrices : le badge « Approbation en attente » s’affiche pour les nouvelles personnes.](known-issues-workfront/wf-users-pending-approval.md)
       + [Planificateur de ressources : le bouton Exporter est désactivé.](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md)
       + [Épreuves : la fermeture de l’épreuve entraîne une redirection vers la liste des documents.](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md)

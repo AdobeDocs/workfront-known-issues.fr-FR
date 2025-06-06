@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 6e9a1d2bc434be36549a91e692d4fa44db0f26cd
 workflow-type: tm+mt
 source-wordcount: '1248'
-ht-degree: 94%
+ht-degree: 98%
 
 ---
 
@@ -40,9 +40,9 @@ Lorsqu’un utilisateur ou une utilisatrice utilise la recherche avancée, les r
 
 ## Mises à jour de mai 2025
 
-+++**Mises à jour de maintenance les 26 et 30 mai 2025**
++++**Mises à jour de maintenance du 26 au 30 mai 2025**
 
-### Mise à jour de maintenance les 26 et 30 mai 2025
+### Mise à jour de maintenance du 26 au 30 mai 2025
 
 Les mises à jour de cette semaine incluent uniquement des correctifs mineurs ou moins importants. L’assistance Workfront vous avertira lorsqu’un problème que vous avez soumis sera résolu.
 
