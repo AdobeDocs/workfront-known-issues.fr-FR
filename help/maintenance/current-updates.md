@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 23766d8e6c6e67c7106f138c83057ba99cb1da1a
+source-git-commit: 6e9a1d2bc434be36549a91e692d4fa44db0f26cd
 workflow-type: tm+mt
-source-wordcount: '1196'
-ht-degree: 97%
+source-wordcount: '1248'
+ht-degree: 94%
 
 ---
 
@@ -23,6 +23,20 @@ Ces mises à jour incluent également d’autres correctifs mineurs ou moins con
 Pour connaître les mises à jour de maintenance antérieures à 2025, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates).
 
 Les mises à jour de maintenance suivantes ont été effectuées en 2025.
+
+## Mises à jour de juin 2025
+
++++**Mises à jour de maintenance les 2 et 6 juin 2025**
+
+### Mise à jour de maintenance les 2 et 6 juin 2025
+
+### Recherche
+
+**La recherche avancée ne renvoie pas les résultats attendus**
+
+Lorsqu’un utilisateur ou une utilisatrice utilise la recherche avancée, les résultats attendus ne sont pas renvoyés. Cela peut se produire même lorsqu’aucun filtre n’est appliqué à la recherche avancée.
+
++++
 
 ## Mises à jour de mai 2025
 
