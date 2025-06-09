@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2366fa99ff22001b52a8cfc37526b1d3ab84e56e
+source-git-commit: 2d481e92c9f1ac680d0381970028a1e341cdfa65
 workflow-type: tm+mt
-source-wordcount: '1656'
-ht-degree: 99%
+source-wordcount: '1669'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
+      + [Épreuves : impossible d’ouvrir l’épreuve à partir du lien direct](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md)
+      + [Rapports : l’exploration du graphique inclut des résultats inexacts](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md)
       + [Feuilles de temps : les feuilles de temps ne sont pas correctement générées](known-issues-workfront/wf-timesheets-one-week-created.md)
       + [Recherche : la recherche avancée ne renvoie pas les résultats attendus.](/help/known-issues/known-issues-workfront/wf-search-advanced-not-working.md)
       + [Utilisateurs et utilisatrices : le badge « Approbation en attente » s’affiche pour les nouvelles personnes.](known-issues-workfront/wf-users-pending-approval.md)
