@@ -4,9 +4,9 @@ description: 'Problèmes signalés et connus dans la nouvelle expérience [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d4655e47130729985089c2ab6880e4db4f43294a
+source-git-commit: ba6b0d326919a29c45204fe52549401bdeda20f0
 workflow-type: tm+mt
-source-wordcount: '939'
+source-wordcount: '911'
 ht-degree: 98%
 
 ---
@@ -56,7 +56,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [Intégrations : erreur outlookIdentityToken lors de l’utilisation de Workfront pour Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | 4 mars 2025 |
 | [Notifications : e-mails en double](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | 27 février 2025 |
 | [Documents : chargement impossible dans la liste des documents du dossier AEM](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 27 février 2025 |
-| [Intégrations : impossible de se connecter à Workfront pour Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 20 février 2025 |
 | [Projets : la condition « En retard » ne s’applique pas comme prévu.](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | 20 janvier 2025 |
 | [Formulaires personnalisés : sociétés manquantes dans le champ de saisie semi-automatique personnalisé](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | 20 février 2025 |
 | [Épreuves : impossible de créer des épreuves pour les vidéos liées à partir d’AEM via Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 13 février 2025 |
@@ -70,7 +69,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [Notifications : les notifications par e-mail pour les mises à jour ne sont pas envoyées](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | 5 décembre 2024 |
 | [Workfront : les personnes ayant le niveau d’accès Contributeur ou Contributrice ne peuvent pas accéder aux programmes ou aux portefeuilles](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | 5 décembre 2024 |
 | [Workfront : les paramètres ZScaler peuvent diminuer les performances.](known-issues-workfront//wf-workfront-zscaler.md) | 20 novembre 2024 |
-| [Notifications : les personnes contributrices ne reçoivent pas de notifications par e-mail.](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 12 novembre 2024 |
 | [Notifications : les e-mails de notification de document ne peuvent pas afficher de prévisualisations d’images](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | 29 octobre 2024 |
 | [Rapports : erreur lors de l’export du rapport](known-issues-workfront/wf-reports-error-cache-content.md) | 14 octobre 2024 |
 | [Accueil : les champs personnalisés supprimés persistent dans les widgets de projet, de tâche et de problème.](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 8 octobre 2024 |
@@ -99,7 +97,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [[!DNL Workfront Proof] : impossible de développer le workflow](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25 octobre 2023 |
 | [[!UICONTROL Accueil] : le widget [!UICONTROL Mentions] du nouvel [!UICONTROL Accueil] ne se limite pas aux messages dans lesquels la personne est mentionnée](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md) | 25 septembre 2023 |
 | [[!UICONTROL Accueil] : l’aperçu du nouveau widget [!UICONTROL Accueil] n’affiche pas le nom correct de l’objet.](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 7 septembre 2023 |
-| [Épreuves : les épreuves n’apparaissent pas comme approuvées dans les rapports.](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 3 août 2023 |
 | [Épreuves : les épreuves sont créées lentement dans l’environnement Aperçu](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 8 juin 2023 |
 | [Filtres : impossible de partager un filtre d’un rapport sur un tableau de bord](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md) | 11 avril 2023 |
 | [Épreuves : l’outil de mesure n’accepte pas les points décimaux.](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | 27 mars 2023 |

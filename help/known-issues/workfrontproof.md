@@ -4,9 +4,9 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 2d481e92c9f1ac680d0381970028a1e341cdfa65
+source-git-commit: 93003ab8b3f6b5fe38255c08e43da37ebcfd5887
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '393'
 ht-degree: 98%
 
 ---
@@ -40,7 +40,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [Épreuves : impossible d’ouvrir l’épreuve à partir du lien direct](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md) | mardi 9 juin 2025 |
 | [Documents : les miniatures des documents ne s’affichent pas](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 17 avril 2025 |
 | [Mises à jour : certaines personnes ne peuvent pas voir les images ou les documents joints aux commentaires.](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 10 mars 2025 |
-| [Épreuves : les épreuves approuvées apparaissent dans les rapports.](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 11 février 2025 |
 | [Notifications : miniatures non visibles dans les notifications par e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 juillet 2024 |
 | [Page d’accueil : le widget Approbations n’est pas exact.](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 8 mai 2024 |
 
@@ -60,7 +59,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [[!DNL Workfront Proof] : impossible de développer le workflow](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25 octobre 2023 |
 | [BAT Workfront : les données du tableau de bord ne sont pas toujours exactes](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 19 septembre 2023 |
 | [BAT Workfront : les données de recherche ne sont pas toujours exactes](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md) | 19 septembre 2023 |
-| [Épreuves : les épreuves n’apparaissent pas comme approuvées dans les rapports.](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 3 août 2023 |
 | [Bons à tirer : les BAT sont créés lentement dans l’environnement Aperçu](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | 9 juin 2023 |
 | [Épreuves : les épreuves sont créées lentement dans l’environnement Aperçu](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 8 juin 2023 |
 | [[!DNL Workfront Proof] : erreur 500 lors de l’accès à [!DNL Workfront Proof] via l’API ou [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 25 mai 2023 |
@@ -76,7 +74,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [Épreuves : l’épreuve n’est pas partagée avec les utilisateurs et utilisatrices du workflow de l’épreuve](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md). | 18 septembre 2022 |
 | [Épreuves : le champ [!UICONTROL Étapes d’épreuve actives] est vide](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md). | 14 septembre 2022 |
 | [[!DNL Workfront Proof] : impossible d’ajouter un utilisateur ou une utiisatrice à l’épreuve en l’identifiant dans un commentaire](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 23 mars 2022 |
-| [[!UICONTROL Accueil] : l’action du bouton [!UICONTROL Répondre dans l’épreuve] varie](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md). | 21 juin 2021 |
 | [[!DNL Workfront Proof]: [!UICONTROL Le rapport Approbation de l’épreuve] ne détermine pas précisément les dates limites](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 21 avril 2021 |
 | [Documents : l’icône du workflow de l’épreuve ne s’affiche pas](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md). | 5 mars 2021 |
 
