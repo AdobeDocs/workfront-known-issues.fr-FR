@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 6e9a1d2bc434be36549a91e692d4fa44db0f26cd
-workflow-type: ht
-source-wordcount: '1248'
-ht-degree: 100%
+source-git-commit: d4655e47130729985089c2ab6880e4db4f43294a
+workflow-type: tm+mt
+source-wordcount: '1321'
+ht-degree: 95%
 
 ---
 
@@ -26,9 +26,27 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2025.
 
 ## Mises à jour de juin 2025
 
-+++**Mises à jour de maintenance du 2 au 6 juin 2025**
++++**Semaine des mises à jour de maintenance du 9 au 13 juin 2025**
 
-### Mise à jour de maintenance du 2 au 6 juin 2025
+### Semaine de mise à jour de maintenance du 9 au 13 juin 2025
+
+#### Planificateur de ressources
+
+**Le bouton Exporter est désactivé**
+
+Lorsque l’utilisateur ou l’utilisatrice tente d’exporter à partir du Planificateur de ressources, le bouton est désactivé (grisé) et l’export est impossible.
+
+#### Feuilles de temps
+
+**Les feuilles de temps ne sont pas correctement générées**
+
+Lorsque l’utilisateur ou l’utilisatrice tente de générer des feuilles de temps et que la génération est définie sur « Toutes les deux semaines », une seule semaine est générée.
+
++++
+
++++**Semaine des mises à jour de maintenance du 2 au 6 juin 2025**
+
+### Semaine de mise à jour de maintenance du 2 au 6 juin 2025
 
 ### Recherche
 
@@ -40,9 +58,9 @@ Lorsqu’un utilisateur ou une utilisatrice utilise la recherche avancée, les r
 
 ## Mises à jour de mai 2025
 
-+++**Mises à jour de maintenance du 26 au 30 mai 2025**
++++**Semaine des mises à jour de maintenance du 26 au 30 mai 2025**
 
-### Mise à jour de maintenance du 26 au 30 mai 2025
+### Semaine de mise à jour de maintenance du 26 au 30 mai 2025
 
 Les mises à jour de cette semaine incluent uniquement des correctifs mineurs ou moins importants. L’assistance Workfront vous avertira lorsqu’un problème que vous avez soumis sera résolu.
 

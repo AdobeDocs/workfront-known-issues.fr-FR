@@ -3,15 +3,19 @@ title: 'Planificateur de ressources : le bouton Exporter est désactivé.'
 description: Lorsque l’utilisateur ou l’utilisatrice tente d’exporter à partir du Planificateur de ressources, le bouton est désactivé (grisé) et l’export est impossible.
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: 62326cae8815b0ee835a882fbedd9b1615369a5f
-workflow-type: ht
-source-wordcount: '58'
+exl-id: cafaefa6-f0f5-4366-88e8-6c433c98280e
+source-git-commit: d4655e47130729985089c2ab6880e4db4f43294a
+workflow-type: tm+mt
+source-wordcount: '64'
 ht-degree: 100%
 
 ---
 
-
 # Planificateur de ressources : le bouton Exporter est désactivé.
+
+>[!NOTE]
+>
+>Ce problème a été résolu le mardi 9 juin 2025.
 
 Lorsque l’utilisateur ou l’utilisatrice tente d’exporter à partir du Planificateur de ressources, le bouton est désactivé (grisé) et l’export est impossible.
 
