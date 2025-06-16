@@ -4,10 +4,10 @@ description: 'Problèmes signalés et connus dans la nouvelle expérience [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ba6b0d326919a29c45204fe52549401bdeda20f0
+source-git-commit: c11e453722792402e6c4f0a1a7e993632856999b
 workflow-type: tm+mt
-source-wordcount: '911'
-ht-degree: 98%
+source-wordcount: '925'
+ht-degree: 97%
 
 ---
 
@@ -49,6 +49,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [BAT : impossible d’ajouter des utilisateurs à un BAT par nom dans l’environnement Aperçu](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | mardi 16 juin 2025 |
 | [Épreuves : la fermeture de l’épreuve redirige vers la liste des documents.](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | 14 mai 2025 |
 | [Filtres : la liste déroulante disparaît lorsque vous cliquez sur la barre de défilement](known-issues-workfront/wf-filter-scroll-bar.md) | 26 mars 2025 |
 | [Équipes : impossible d’afficher la personne propriétaire de l’équipe ou de supprimer l’équipe](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 13 mars 2025 |

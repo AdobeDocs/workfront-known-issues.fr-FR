@@ -4,10 +4,10 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 93003ab8b3f6b5fe38255c08e43da37ebcfd5887
+source-git-commit: c11e453722792402e6c4f0a1a7e993632856999b
 workflow-type: tm+mt
-source-wordcount: '393'
-ht-degree: 98%
+source-wordcount: '407'
+ht-degree: 95%
 
 ---
 
@@ -51,6 +51,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [BAT : impossible d’ajouter des utilisateurs à un BAT par nom dans l’environnement Aperçu](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | mardi 16 juin 2025 |
 | [Épreuves : la fermeture de l’épreuve redirige vers la liste des documents.](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | 14 mai 2025 |
 | [Épreuves : impossible de créer des épreuves pour les vidéos liées à partir d’AEM via Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 13 février 2025 |
 | [Épreuves : les épreuves de la capture web ne se génèrent pas.](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 20 décembre 2024 |
