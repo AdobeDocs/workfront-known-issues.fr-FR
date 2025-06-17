@@ -4,10 +4,10 @@ description: 'Problèmes signalés et connus dans la nouvelle expérience [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c11e453722792402e6c4f0a1a7e993632856999b
+source-git-commit: 1d882ff2e8415575e3658bc492aa24a7fc68687a
 workflow-type: tm+mt
-source-wordcount: '925'
-ht-degree: 98%
+source-wordcount: '936'
+ht-degree: 97%
 
 ---
 
@@ -36,6 +36,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | ---------------------------------- | ----------------- |
+| [Utilisateurs : les utilisateurs désactivés ou supprimés apparaissent comme actifs dans Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | mercredi 17 juin 2025 |
 | [Épreuves : impossible d’ouvrir l’épreuve à partir du lien direct](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md) | 9 juin 2025 |
 | [Utilisateurs et utilisatrices : le badge « Approbation en attente » s’affiche pour les nouvelles personnes](known-issues-workfront/wf-users-pending-approval.md) | 23 mai 2025 |
 | [Documents : les miniatures des documents ne s’affichent pas](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 17 avril 2025 |
