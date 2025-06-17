@@ -5,7 +5,7 @@ role: User
 source-git-commit: 76bdfa40874b920e2245c8e81d53068ca4055ac1
 workflow-type: tm+mt
 source-wordcount: '1403'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -18,8 +18,8 @@ ht-degree: 98%
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
       + [Épreuves : impossible d’ajouter des utilisateurs à une épreuve par nom dans l’environnement Aperçu](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md)
-      + [Épreuves : impossible d’ouvrir l’épreuve à partir du lien direct](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md)
-      + [Rapports : l’exploration du graphique inclut des résultats inexacts](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md)
+      + [Épreuves : impossible d’ouvrir l’épreuve à partir du lien direct](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md)
+      + [Rapports : l’analyse en profondeur du graphique inclut des résultats inexacts.](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md)
       + [Feuilles de temps : les feuilles de temps ne sont pas générées correctement.](known-issues-workfront/wf-timesheets-one-week-created.md)
       + [Recherche : la recherche avancée ne renvoie pas les résultats attendus.](/help/known-issues/known-issues-workfront/wf-search-advanced-not-working.md)
       + [Utilisateurs et utilisatrices : le badge « Approbation en attente » s’affiche pour les nouvelles personnes.](known-issues-workfront/wf-users-pending-approval.md)
