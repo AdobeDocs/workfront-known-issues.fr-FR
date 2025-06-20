@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 7924fcf0740229da5f7130691b1574aecf129eed
+source-git-commit: e1833c5e6ae78b2cfc174dbffb6c43d9597be2e1
 workflow-type: tm+mt
-source-wordcount: '1412'
-ht-degree: 99%
+source-wordcount: '1419'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
+      + [Projets : impossible de déplacer le projet vers le programme spécifié](/help/known-issues/known-issues-workfront/wf-projects-cannot-move-to-program.md)
       + [Workfront : objets non synchronisés entre Workfront et Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md)
       + [Épreuves : impossible d’ajouter des utilisateurs et utilisatrices à une épreuve à l’aide de leur nom dans l’environnement Aperçu](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md)
       + [Épreuves : impossible d’ouvrir l’épreuve à partir du lien direct](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md)
