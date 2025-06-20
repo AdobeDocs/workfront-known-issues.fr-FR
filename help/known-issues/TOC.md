@@ -5,7 +5,7 @@ role: User
 source-git-commit: 7924fcf0740229da5f7130691b1574aecf129eed
 workflow-type: tm+mt
 source-wordcount: '1412'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 98%
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
       + [Workfront : objets non synchronisés entre Workfront et Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md)
-      + [Épreuves : impossible d’ajouter des utilisateurs à une épreuve par nom dans l’environnement Aperçu](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md)
+      + [Épreuves : impossible d’ajouter des utilisateurs et utilisatrices à une épreuve à l’aide de leur nom dans l’environnement Aperçu](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md)
       + [Épreuves : impossible d’ouvrir l’épreuve à partir du lien direct](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md)
       + [Rapports : l’analyse en profondeur du graphique inclut des résultats inexacts.](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md)
       + [Feuilles de temps : les feuilles de temps ne sont pas générées correctement.](known-issues-workfront/wf-timesheets-one-week-created.md)
@@ -47,10 +47,10 @@ ht-degree: 98%
       + [Formulaires personnalisés : sociétés manquantes dans le champ de saisie semi-automatique personnalisé](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md)
       + [Documents : impossible de charger dans la liste des documents du dossier AEM](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md)
       + [Épreuves : impossible de taguer certaines personnes](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
-      + [Connexion en tant que : le modèle de mise en page Accueil de l’administrateur ou administratrice s’affiche](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)
+      + [Connexion en tant que : le modèle de mise en page Accueil de l’administrateur ou de l’administratrice s’affiche.](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)
       + [Utilisateurs et utilisatrices : compte en double créé lors d’un changement d’administrateur ou d’administratrice système.](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
       + [Projets : la condition « En retard » ne s’applique pas comme prévu.](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
-      + [Rapports : les invites de rapport se chargent lentement.](known-issues-workfront/wf-reports-prompts-load-slowly.md)
+      + [Rapports : les prompts de rapport se chargent lentement.](known-issues-workfront/wf-reports-prompts-load-slowly.md)
       + [Épreuves : les épreuves de la capture web ne se génèrent pas.](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
       + [Approbations : les approbations déléguées n’apparaissent pas pour les personnes déléguées.](known-issues-workfront/wf-approvals-delegation-not-working.md)
       + [Workfront : changements de format de date dans l’application](known-issues-workfront/wf-workfront-date-format-changing.md)
@@ -84,7 +84,7 @@ ht-degree: 98%
       + [Accueil : le widget Mes problèmes n’affiche pas les problèmes fermés ou terminés.](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
       + [Page d’accueil : le widget Approbations n’est pas exact.](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
       + [Accueil : impossible de supprimer le widget Mentions](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
-      + [Navigation : le bouton Retour ne revient pas à la page précédente.](known-issues-workfront/wf-navigation-back-button-not-work.md)
+      + [Navigation : le bouton Retour ne permet pas de revenir à la page précédente.](known-issues-workfront/wf-navigation-back-button-not-work.md)
       + [La date d’achèvement effective affiche S/O.](known-issues-workfront/wf-projects-completion-date-is-na.md)
       + [Documents : extension de fichier UNK lors de la liaison de documents à partir de l’intégration](known-issues-workfront/wf-documents-unk-file-extension.md)
       + [Projets : les projets créés à partir d’un problème utilisant un modèle ne reflètent pas la priorité définie dans le modèle.](known-issues-workfront/wf-projects-priority-not-transfer.md)

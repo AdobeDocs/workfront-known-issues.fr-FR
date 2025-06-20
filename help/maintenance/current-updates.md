@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: f1eb46ee67560fe897317c76eec9dfec801f21f7
 workflow-type: tm+mt
 source-wordcount: '1360'
-ht-degree: 94%
+ht-degree: 95%
 
 ---
 
@@ -40,13 +40,13 @@ Les mises à jour de cette semaine incluent uniquement des correctifs mineurs ou
 
 #### Planificateur de ressources
 
-**Le bouton Exporter est désactivé**
+**Le bouton Exporter est désactivé.**
 
-Lorsque l’utilisateur ou l’utilisatrice tente d’exporter à partir du Planificateur de ressources, le bouton est désactivé (grisé) et l’export est impossible.
+Lorsque l’utilisateur ou l’utilisatrice tente d’exporter à partir du planificateur de ressources, le bouton est désactivé (grisé) et l’export est impossible.
 
 #### Feuilles de temps
 
-**Les feuilles de temps ne sont pas correctement générées**
+**Les feuilles de temps ne sont pas générées correctement.**
 
 Lorsque l’utilisateur ou l’utilisatrice tente de générer des feuilles de temps et que la génération est définie sur « Toutes les deux semaines », une seule semaine est générée.
 
