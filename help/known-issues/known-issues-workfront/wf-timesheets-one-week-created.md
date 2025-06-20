@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Timesheets
 exl-id: cfc61613-57c7-477b-b448-d6f87fb4ca0d
 source-git-commit: d4655e47130729985089c2ab6880e4db4f43294a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '73'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Ce problème a été résolu le mercredi 10 juin 2025.
+>Ce problème a été résolu le 10 juin 2025.
 
 Lorsque l’utilisateur ou l’utilisatrice tente de générer des feuilles de temps et que la génération est définie sur « Toutes les deux semaines », une seule semaine est générée.
 
