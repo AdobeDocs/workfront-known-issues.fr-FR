@@ -4,9 +4,9 @@ description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: f1eb46ee67560fe897317c76eec9dfec801f21f7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1360'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -26,17 +26,17 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2025.
 
 ## Mises à jour de juin 2025
 
-+++**Semaine des mises à jour de maintenance du 15 au 21 juin 2025**
++++**Mises à jour de maintenance, semaine du 15 au 21 juin 2025**
 
-### Semaine de mise à jour de maintenance du 15 au 21 juin 2025
+### Mise à jour de maintenance, semaine du 15 au 21 juin 2025
 
 Les mises à jour de cette semaine incluent uniquement des correctifs mineurs ou moins importants. L’assistance Workfront vous avertira lorsqu’un problème que vous avez soumis sera résolu.
 
 +++
 
-+++**Semaine des mises à jour de maintenance du 8 au 14 juin 2025**
++++**Mises à jour de maintenance, semaine du 8 au 14 juin 2025**
 
-### Semaine de mise à jour de maintenance du 8 au 14 juin 2025
+### Mise à jour de maintenance, semaine du 8 au 14 juin 2025
 
 #### Planificateur de ressources
 
@@ -52,9 +52,9 @@ Lorsque l’utilisateur ou l’utilisatrice tente de générer des feuilles de t
 
 +++
 
-+++**Semaine des mises à jour de maintenance du 1er au 7 juin 2025**
++++**Mises à jour de maintenance, semaine du 1er au 7 juin 2025**
 
-### Semaine de mise à jour de maintenance du 1 au 7 juin 2025
+### Mise à jour de maintenance, semaine du 1er au 7 juin 2025
 
 ### Recherche
 
@@ -66,9 +66,9 @@ Lorsqu’un utilisateur ou une utilisatrice utilise la recherche avancée, les r
 
 ## Mises à jour de mai 2025
 
-+++**Semaine des mises à jour de maintenance du 25 au 31 mai 2025**
++++**Mises à jour de maintenance, semaine du 25 au 31 mai 2025**
 
-### Semaine de mise à jour de maintenance du 25 au 31 mai 2025
+### Mise à jour de maintenance, semaine du 25 au 31 mai 2025
 
 Les mises à jour de cette semaine incluent uniquement des correctifs mineurs ou moins importants. L’assistance Workfront vous avertira lorsqu’un problème que vous avez soumis sera résolu.
 
