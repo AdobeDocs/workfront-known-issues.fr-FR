@@ -3,15 +3,19 @@ title: 'Épreuves : impossible d’ouvrir l’épreuve à partir du lien direct
 description: Lorsqu’une personne tente d’ouvrir une épreuve à partir d’un lien direct, celle-ci ne s’ouvre pas. Cela peut se produire même si la personne fait partie d’un workflow pour l’épreuve ou si elle est administratrice Workfront.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 2d481e92c9f1ac680d0381970028a1e341cdfa65
-workflow-type: ht
-source-wordcount: '107'
+exl-id: 3ae84ebe-8c5b-4977-9417-f003c503c074
+source-git-commit: e98c29b84e022c2c8101f21f2cae5b74bda3718e
+workflow-type: tm+mt
+source-wordcount: '113'
 ht-degree: 100%
 
 ---
 
-
 # Épreuves : impossible d’ouvrir l’épreuve à partir du lien direct
+
+>[!NOTE]
+>
+>Ce problème a été résolu le mardi 23 juin 2025.
 
 Lorsqu’une personne tente d’ouvrir une épreuve à partir d’un lien direct, celle-ci ne s’ouvre pas. Cela peut se produire même si la personne fait partie d’un workflow pour l’épreuve ou si elle est administratrice Workfront.
 

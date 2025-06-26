@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f1eb46ee67560fe897317c76eec9dfec801f21f7
-workflow-type: ht
-source-wordcount: '1360'
-ht-degree: 100%
+source-git-commit: e98c29b84e022c2c8101f21f2cae5b74bda3718e
+workflow-type: tm+mt
+source-wordcount: '1421'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,18 @@ Pour connaître les mises à jour de maintenance antérieures à 2025, consultez
 Les mises à jour de maintenance suivantes ont été effectuées en 2025.
 
 ## Mises à jour de juin 2025
+
++++**Semaine des mises à jour de maintenance du 22 au 27 juin 2025**
+
+### Semaine de mise à jour de maintenance du 22 au 27 juin 2025
+
+#### Épreuves
+
+**Impossible d’ouvrir l’épreuve à partir du lien direct**
+
+Lorsqu’une personne tente d’ouvrir une épreuve à partir d’un lien direct, celle-ci ne s’ouvre pas. Cela peut se produire même si la personne fait partie d’un workflow pour l’épreuve ou si elle est administratrice Workfront.
+
++++
 
 +++**Mises à jour de maintenance, semaine du 15 au 21 juin 2025**
 

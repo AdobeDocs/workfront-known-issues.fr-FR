@@ -4,9 +4,9 @@ description: 'Problèmes signalés et connus dans la nouvelle expérience [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e1833c5e6ae78b2cfc174dbffb6c43d9597be2e1
+source-git-commit: e98c29b84e022c2c8101f21f2cae5b74bda3718e
 workflow-type: tm+mt
-source-wordcount: '943'
+source-wordcount: '935'
 ht-degree: 99%
 
 ---
@@ -38,7 +38,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | ---------------------------------- | ----------------- |
 | [Projets : impossible de déplacer le projet vers le programme spécifié](/help/known-issues/known-issues-workfront/wf-projects-cannot-move-to-program.md) | samedi 20 juin 2025 |
 | [Workfront : objets désynchronisés entre Workfront et Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 17 juin 2025 |
-| [Épreuves : impossible d’ouvrir l’épreuve à partir du lien direct](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md) | 9 juin 2025 |
 | [Utilisateurs et utilisatrices : le badge « Approbation en attente » s’affiche pour les nouvelles personnes](known-issues-workfront/wf-users-pending-approval.md) | 23 mai 2025 |
 | [Documents : les miniatures des documents ne s’affichent pas](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 17 avril 2025 |
 | [[!DNL Workfront] : problèmes lors de la soumission d’un cas d’assistance [!DNL Workfront] sur Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 août 2022 |
