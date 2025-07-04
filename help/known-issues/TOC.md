@@ -3,9 +3,9 @@ user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
 source-git-commit: 833fe5b1c0483baa3243fc02679f5515ed75b67f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1426'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
-      + [Tâches : la zone Validations disparaît du volet de navigation de gauche](known-issues-workfront/wf-tasks-approvals-tab-disappears.md)
+      + [Tâches : la zone Approbations disparaît du volet de navigation de gauche.](known-issues-workfront/wf-tasks-approvals-tab-disappears.md)
       + [Projets : impossible de déplacer le projet vers le programme spécifié](/help/known-issues/known-issues-workfront/wf-projects-cannot-move-to-program.md)
       + [Workfront : objets désynchronisés entre Workfront et Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md)
       + [Épreuves : impossible d’ajouter des utilisateurs et utilisatrices à une épreuve à l’aide de leur nom dans l’environnement Aperçu](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md)

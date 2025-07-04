@@ -4,9 +4,9 @@ description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 833fe5b1c0483baa3243fc02679f5515ed75b67f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1463'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -26,9 +26,9 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2025.
 
 ## Mises à jour de juin 2025
 
-+++**Semaine des mises à jour de maintenance du 22 au 27 juin 2025**
++++**Mises à jour de maintenance, semaine du 22 au 27 juin 2025**
 
-### Semaine de mise à jour de maintenance du 22 au 27 juin 2025
+### Mise à jour de maintenance, semaine du 22 au 27 juin 2025
 
 #### Épreuves
 
@@ -38,7 +38,7 @@ Lorsqu’une personne tente d’ouvrir une épreuve à partir d’un lien direct
 
 #### Rapports
 
-**L’analyse du graphique inclut des résultats inexacts**
+**L’analyse en profondeur du graphique comprend des résultats inexacts.**
 
 Lorsqu’une personne consulte un rapport de graphique et tente d’analyser en profondeur un groupe spécifique, les détails incluent les résultats qui ne se trouvent pas dans le groupe sélectionné.
 
