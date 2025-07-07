@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 833fe5b1c0483baa3243fc02679f5515ed75b67f
-workflow-type: ht
-source-wordcount: '1426'
-ht-degree: 100%
+source-git-commit: 3fbede430b19640e45981dd0771bc66d509f2e4f
+workflow-type: tm+mt
+source-wordcount: '1441'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
+      + [Configuration : impossible de se connecter en tant qu’utilisateur différent](known-issues-workfront/wf-setup-cannot-login-as-in-preview.md)
+      + [Intégrations : problèmes d’intégration de Workfront for Slack](known-issues-workfront/wf-integrations-slack-integration-not-working.md)
       + [Tâches : la zone Approbations disparaît du volet de navigation de gauche.](known-issues-workfront/wf-tasks-approvals-tab-disappears.md)
       + [Projets : impossible de déplacer le projet vers le programme spécifié](/help/known-issues/known-issues-workfront/wf-projects-cannot-move-to-program.md)
       + [Workfront : objets désynchronisés entre Workfront et Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md)
