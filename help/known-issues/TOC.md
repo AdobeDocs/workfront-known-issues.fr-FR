@@ -5,7 +5,7 @@ role: User
 source-git-commit: ddb39855b501df99cd0ad13c72f53487839c45ca
 workflow-type: tm+mt
 source-wordcount: '1450'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -18,8 +18,8 @@ ht-degree: 98%
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
       + [Projets : erreur lors de l’ajout d’un projet à un programme](/help/known-issues/known-issues-workfront/wf-projects-error-when-adding-to-program.md)
-      + [Configuration : impossible de se connecter en tant qu’utilisateur différent](known-issues-workfront/wf-setup-cannot-login-as-in-preview.md)
-      + [Intégrations : problèmes d’intégration de Workfront for Slack](known-issues-workfront/wf-integrations-slack-integration-not-working.md)
+      + [Configuration : impossible de se connecter sous une autre identité](known-issues-workfront/wf-setup-cannot-login-as-in-preview.md)
+      + [Intégrations : problèmes d’intégration de Workfront pour Slack](known-issues-workfront/wf-integrations-slack-integration-not-working.md)
       + [Tâches : la zone Approbations disparaît du volet de navigation de gauche.](known-issues-workfront/wf-tasks-approvals-tab-disappears.md)
       + [Projets : impossible de déplacer le projet vers le programme spécifié](/help/known-issues/known-issues-workfront/wf-projects-cannot-move-to-program.md)
       + [Workfront : objets désynchronisés entre Workfront et Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md)
