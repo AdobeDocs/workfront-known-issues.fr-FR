@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: ddb39855b501df99cd0ad13c72f53487839c45ca
+source-git-commit: 92634938b7a7ae71355edef28f0db4319f888a4d
 workflow-type: tm+mt
-source-wordcount: '1450'
-ht-degree: 99%
+source-wordcount: '1457'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
+      + [Autorisations : les autorisations d’objet ne sont pas héritées correctement](known-issues-workfront/wf-permissions-not-inherited-correctly.md)
       + [Projets : erreur lors de l’ajout d’un projet à un programme](/help/known-issues/known-issues-workfront/wf-projects-error-when-adding-to-program.md)
       + [Configuration : impossible de se connecter sous une autre identité](known-issues-workfront/wf-setup-cannot-login-as-in-preview.md)
       + [Intégrations : problèmes d’intégration de Workfront pour Slack](known-issues-workfront/wf-integrations-slack-integration-not-working.md)

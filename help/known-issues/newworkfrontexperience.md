@@ -4,10 +4,10 @@ description: 'Problèmes signalés et connus dans la nouvelle expérience [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ddb39855b501df99cd0ad13c72f53487839c45ca
+source-git-commit: 798be3dd7ef5e7bf0ecf14484242f7758ac9d9a4
 workflow-type: tm+mt
-source-wordcount: '955'
-ht-degree: 99%
+source-wordcount: '963'
+ht-degree: 96%
 
 ---
 
@@ -52,7 +52,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Épreuves : impossible d’ajouter des utilisateurs et utilisatrices à une épreuve avec leur nom dans l’environnement Aperçu](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | 16 juin 2025 |
+| [Autorisations : les autorisations d’objet ne sont pas héritées correctement](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | mercredi 15 juillet 2025 |
+| [BAT : impossible d’ajouter des utilisateurs à un BAT par nom dans l’environnement Aperçu](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | 16 juin 2025 |
 | [Épreuves : la fermeture de l’épreuve redirige vers la liste des documents.](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | 14 mai 2025 |
 | [Filtres : la liste déroulante disparaît lorsque vous cliquez sur la barre de défilement](known-issues-workfront/wf-filter-scroll-bar.md) | 26 mars 2025 |
 | [Équipes : impossible d’afficher la personne propriétaire de l’équipe ou de supprimer l’équipe](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 13 mars 2025 |
