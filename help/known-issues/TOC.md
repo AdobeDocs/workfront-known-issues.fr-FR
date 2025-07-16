@@ -2,9 +2,9 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 92634938b7a7ae71355edef28f0db4319f888a4d
+source-git-commit: 0e0043833ee2d6ab838157d99e20501f1ca58bf2
 workflow-type: tm+mt
-source-wordcount: '1457'
+source-wordcount: '1464'
 ht-degree: 99%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
+      + [Autorisations : les autorisations d’objet ne sont pas héritées correctement](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md)
       + [Autorisations : les autorisations d’objet ne sont pas héritées correctement](known-issues-workfront/wf-permissions-not-inherited-correctly.md)
       + [Projets : erreur lors de l’ajout d’un projet à un programme](/help/known-issues/known-issues-workfront/wf-projects-error-when-adding-to-program.md)
       + [Configuration : impossible de se connecter sous une autre identité](known-issues-workfront/wf-setup-cannot-login-as-in-preview.md)
