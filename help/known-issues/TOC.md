@@ -5,7 +5,7 @@ role: User
 source-git-commit: 92634938b7a7ae71355edef28f0db4319f888a4d
 workflow-type: tm+mt
 source-wordcount: '1457'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 98%
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
       + [Autorisations : les autorisations d’objet ne sont pas héritées correctement](known-issues-workfront/wf-permissions-not-inherited-correctly.md)
-      + [Projets : erreur lors de l’ajout d’un projet à un programme](/help/known-issues/known-issues-workfront/wf-projects-error-when-adding-to-program.md)
+      + [Projets : erreur lors de l’ajout d’un projet à un programme](/help/known-issues/known-issues-workfront/wf-projects-error-when-adding-to-program.md)
       + [Configuration : impossible de se connecter sous une autre identité](known-issues-workfront/wf-setup-cannot-login-as-in-preview.md)
       + [Intégrations : problèmes d’intégration de Workfront pour Slack](known-issues-workfront/wf-integrations-slack-integration-not-working.md)
       + [Tâches : la zone Approbations disparaît du volet de navigation de gauche.](known-issues-workfront/wf-tasks-approvals-tab-disappears.md)
