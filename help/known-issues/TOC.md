@@ -2,9 +2,9 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 69833d9af1ea8ca2eea02cf1e37ddcb7ed6b229e
+source-git-commit: 4d0ff9fa398a3daf22ffbf202073cde6b5e05458
 workflow-type: tm+mt
-source-wordcount: '1471'
+source-wordcount: '1367'
 ht-degree: 98%
 
 ---
@@ -36,17 +36,8 @@ ht-degree: 98%
       + [Épreuves : la fermeture de l’épreuve entraîne une redirection vers la liste des documents.](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md)
       + [Documents : les miniatures des documents ne s’affichent pas.](known-issues-workfront/wf-documents-thumbnails-not-display.md)
       + [Modèles : impossible de partager avec un accès de type Contribuer](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)
-      + [Tableaux de bord : le tableau de bord personnalisé ne s’ouvre pas.](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)
-      + [Demandes : les URL de code incorporé ne chargent pas correctement la file d’attente des demandes](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
-      + [Rapports : les utilisateurs et utilisatrices de différents fuseaux horaires obtiennent des résultats de rapport différents](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md)
-      + [Utilisateurs et utilisatrices : les administrateurs et administratrices de groupes ne peuvent pas désactiver les utilisateurs et les utilisatrices](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md)
       + [Filtres : la liste déroulante disparaît lorsque vous cliquez sur la barre de défilement](known-issues-workfront/wf-filter-scroll-bar.md)
-      + [Accueil : impossible d’envoyer des réponses à partir du widget Mentions](/help/known-issues/known-issues-workfront/wf-home-mention-replies-not-sent.md)
-      + [Mises à jour : les mises à jour sont retardées.](known-issues-workfront/wf-updates-delay-in-updates.md)
-      + [Épreuves : la génération des épreuves est lente.](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md)
-      + [Demandes : file d’attente des demandes non disponible](/help/known-issues/known-issues-workfront/wf-requests-queue-not-available.md)
       + [Projets : le statut de progression du projet n’est pas automatiquement mis à jour sur En retard.](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
-      + [Mises à jour : certaines personnes ne peuvent pas afficher les images ou les documents joints aux commentaires.](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md)
       + [Connexion en tant que : les personnes administrant des groupes ne peuvent pas se connecter en tant qu’autre utilisateur ou utilisatrice.](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
       + [Intégrations : erreur outlookIdentityToken lors de l’utilisation de Workfront pour Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
       + [Notifications : e-mails en double](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
@@ -56,7 +47,6 @@ ht-degree: 98%
       + [Documents : impossible de charger dans la liste des documents du dossier AEM](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md)
       + [Épreuves : impossible de taguer certaines personnes](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
       + [Connexion en tant que : le modèle de mise en page Accueil de l’administrateur ou de l’administratrice s’affiche.](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)
-      + [Utilisateurs et utilisatrices : compte en double créé lors d’un changement d’administrateur ou d’administratrice système.](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
       + [Projets : la condition « En retard » ne s’applique pas comme prévu.](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
       + [Rapports : les prompts de rapport se chargent lentement.](known-issues-workfront/wf-reports-prompts-load-slowly.md)
       + [Épreuves : les épreuves de la capture web ne se génèrent pas.](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
@@ -82,7 +72,6 @@ ht-degree: 98%
       + [Workfront : plusieurs onglets du navigateur entraînent la déconnexion de Workfront.](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
       + [Requêtes : l’utilisateur ou l’utilisatrice peut modifier le statut malgré l’absence d’autorisations.](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
       + [Rapports : erreur lors de l’export d’un rapport](known-issues-workfront/wf-reports-error-cache-content.md)
-      + [Formulaires personnalisés : champ calculé indiquant une valeur incorrecte](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md)
       + [Workfront Fusion : impossible d’authentifier une connexion à l’aide de la fonctionnalité Connexion en tant que de Workfront](known-issues-workfront/wf-fusion-cannot-use-login-as.md)
       + [Notifications : miniatures non visibles dans les notifications par e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
       + [Portfolios : la personne ne peut pas définir de portfolio.](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
@@ -128,7 +117,6 @@ ht-degree: 98%
       + [Épreuves : l’outil de mesure n’accepte pas les points décimaux.](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md)
       + [Documents : problèmes liés à la liste de documents](known-issues-workfront/inactive/wf-documents-list-missing-elements.md)
       + [Documents : erreur 404 lors de l’accès au document lié par [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md)
-      + [Documents : les options des [!UICONTROL Activités de vérification] débouchent sur la page de connexion.](known-issues-workfront/inactive/wf-documents-taken-to-login-screen.md)
       + [[!UICONTROL Équilibreur de charge de travail] : les heures ne s’ajustent pas pour prendre en compte les congés de l’utilisateur ou de l’utilisatrice](known-issues-workfront/inactive/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [[!UICONTROL Mises à jour] : impossible de consigner l’heure du jour en cours dans la zone [!UICONTROL Mises à jour]](known-issues-workfront/inactive/wf-updates-cannot-log-time-for-today-in-updates.md)
       + [Documents : lorsqu’un document est déplacé vers un nouveau projet, les autorisations ne sont pas héritées.](known-issues-workfront/inactive/wf-documents-permissions-not-interited-when-moved.md)
@@ -189,7 +177,6 @@ ht-degree: 98%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problèmes connus dans Workfront Fusion](workfrontfusion.md)
    + Problèmes actifs dans [!DNL Workfront Fusion] {#fusion-current}
-      + [Workfront Fusion : les options d’abonnement aux événements Workfront version 2 ne sont pas disponibles lors de la connexion à un environnement de sandbox.](/help/known-issues/known-issues-workfront-fusion/fusion-event-subs-v1-sandbox.md)
       + [Workfront Fusion : le scénario ne s’exécute pas.](known-issues-workfront-fusion/fusion-scenario-not-running.md)
       + [Fusion Workfront : le paramètre de démarrage « À partir de maintenant » traite toutes les données.](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
       + [Workfront Fusion : impossible d’ajouter ou de supprimer des utilisateurs et des utilisatrices dans Workfront Fusion](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
