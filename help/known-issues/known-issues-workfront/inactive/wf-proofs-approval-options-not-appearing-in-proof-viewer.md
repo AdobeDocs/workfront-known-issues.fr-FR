@@ -1,13 +1,13 @@
 ---
-title: '« Épreuves : les options d’approbation n’apparaissent pas dans la visionneuse de relecture. »'
+title: 'BAT : les options d’approbation n’apparaissent pas dans le lecteur de vérification'
 description: Lorsqu’un utilisateur ou une utilisatrice tente d’approuver une épreuve dans la visionneuse de relecture de bureau peu de temps après la demande d’approbation, les options d’approbation ne s’affichent pas et l’utilisateur ou l’utilisatrice ne peut pas approuver l’épreuve. Les options d’approbation apparaissent plusieurs heures après la demande d’approbation.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 17e0aa9a-d7f6-490a-b491-ef74371b787e
-source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
+source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
 
@@ -24,3 +24,5 @@ Lorsqu’une personne utilisatrice tente d’approuver un BAT dans le [!UICONTRO
 Approuvez le document à partir de la page [!UICONTROL Détails du document] dans [!DNL Workfront].
 
 _Premier signalement le 12 juin 2023._
+
+<!--CHECK ME - NO VIEWS APRIL-JUNE 2025-->

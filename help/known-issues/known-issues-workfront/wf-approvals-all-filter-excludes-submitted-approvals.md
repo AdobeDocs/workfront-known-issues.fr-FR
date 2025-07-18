@@ -4,10 +4,10 @@ description: Lorsque les approbations sont affichées dans le widget Mes approba
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: 5b861fdd-0fcf-492a-ab32-3454c3cc5f21
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
-workflow-type: ht
-source-wordcount: '99'
-ht-degree: 100%
+source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
+workflow-type: tm+mt
+source-wordcount: '105'
+ht-degree: 94%
 
 ---
 
@@ -20,3 +20,5 @@ ht-degree: 100%
 Lorsque les approbations sont affichées dans le widget Mes approbations de l’accueil ou sur la page Mes mises à jour, la liste n’inclut pas les approbations soumises par l’utilisateur ou l’utilisatrice, même si le filtre est réglé sur « Toutes ».
 
 _Premier signalement le jeudi 16 octobre 2024._
+
+&lt;!—CHECK ME—1 vue Avril-Juin 2025—>

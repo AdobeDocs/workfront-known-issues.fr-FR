@@ -1,10 +1,10 @@
 ---
-title: '« Documents : lorsqu’un document est déplacé vers un nouveau projet, les autorisations ne sont pas héritées »'
-description: « Lorsqu’un utilisateur ou une utilisatrice déplace un document vers un autre projet, il n’hérite pas des autorisations de partage de ce dernier. Le document n’est pas partagé avec les utilisateurs et utilisatrices qui ont le projet partagé.  »
+title: 'Documents : lorsqu’un document est déplacé vers un nouveau projet, les autorisations ne sont pas héritées.'
+description: 'Lorsqu’un utilisateur déplace un document vers un autre projet, il n’hérite pas des autorisations de partage de ce dernier. Le document n’est pas partagé avec les utilisateurs et utilisatrices qui ont le projet partagé. '
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 56dfaf55-7438-4569-b9a1-b62fbdd3f4d9
-source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
+source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 100%
@@ -30,3 +30,7 @@ Lorsqu’un utilisateur déplace un document vers un autre projet, il n’hérit
 Vous pouvez également noter l’ID du document (qui se trouve dans l’URL de la page [!UICONTROL Détails du document]) et contacter le service clientèle de [!DNL Workfront].
 
 _Premier signalement le 6 janvier 2023._
+
+
+
+<!--CHECK ME - 1 VIEW APRIL-JUNE 2025-->
