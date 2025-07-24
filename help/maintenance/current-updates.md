@@ -3,7 +3,7 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 4907ca1ec7d4573551d87430c6e448196f951692
+source-git-commit: 5ec1db8c8e20fa50225e9dfba3b71c157c883587
 workflow-type: tm+mt
 source-wordcount: '1629'
 ht-degree: 97%
@@ -40,7 +40,7 @@ Les mises à jour de cette semaine incluent uniquement des correctifs mineurs ou
 
 ### Intégrations
 
-**problèmes d’intégration de Workfront for Slack**
+**Problèmes d’intégration de Workfront for Slack**
 
 Les problèmes suivants liés à l’intégration de Workfront pour Slack ont été signalés :
 
