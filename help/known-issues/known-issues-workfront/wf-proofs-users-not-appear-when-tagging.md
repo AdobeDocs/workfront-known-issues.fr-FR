@@ -3,15 +3,19 @@ title: 'Épreuves : impossible de baliser les utilisateurs dans les commentaires
 description: Lorsque l’utilisateur tente d’identifier un autre utilisateur dans un commentaire d’épreuve et commence à saisir son nom, l’utilisateur n’apparaît pas dans la liste et ne peut pas être sélectionné pour être identifié. Une solution de contournement est disponible.
 hidefromtoc: true
 feature: Digital Content and Documents, People Teams and Groups
-source-git-commit: 1417b3221de89b88ee718d632d3e8cd76f29d3ae
+exl-id: 5d31e7d5-147d-4a85-a832-5981a7135db4
+source-git-commit: 07785bc2688bd08ce2877bf37ddcf856467da24f
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 7%
+source-wordcount: '127'
+ht-degree: 11%
 
 ---
 
-
 # Épreuves : impossible de baliser les utilisateurs dans les commentaires de l’épreuve
+
+>[!NOTE]
+>
+>Ce problème a été résolu le samedi 25 juillet 2025.
 
 Lorsque l’utilisateur tente d’identifier un autre utilisateur dans un commentaire d’épreuve et commence à saisir son nom, l’utilisateur n’apparaît pas dans la liste et ne peut pas être sélectionné pour être identifié.
 

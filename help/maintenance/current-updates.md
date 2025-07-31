@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 5ec1db8c8e20fa50225e9dfba3b71c157c883587
+source-git-commit: 07785bc2688bd08ce2877bf37ddcf856467da24f
 workflow-type: tm+mt
-source-wordcount: '1629'
-ht-degree: 97%
+source-wordcount: '1646'
+ht-degree: 95%
 
 ---
 
@@ -30,7 +30,11 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2025.
 
 ### Semaine de mise à jour de maintenance du 20 au 26 juillet 2025
 
-Les mises à jour de cette semaine incluent uniquement des correctifs mineurs ou moins importants. L’assistance Workfront vous avertira lorsqu’un problème que vous avez soumis sera résolu.
+#### Épreuves
+
+**Impossible de baliser les utilisateurs dans les commentaires de l’épreuve**
+
+Lorsque l’utilisateur tente d’identifier un autre utilisateur dans un commentaire d’épreuve et commence à saisir son nom, l’utilisateur n’apparaît pas dans la liste et ne peut pas être sélectionné pour être identifié.
 
 +++
 
