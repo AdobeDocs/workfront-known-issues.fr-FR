@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 07785bc2688bd08ce2877bf37ddcf856467da24f
+source-git-commit: 32b7c00b3338bc4d1152b1b0748843daaa58a115
 workflow-type: tm+mt
-source-wordcount: '1646'
-ht-degree: 95%
+source-wordcount: '1740'
+ht-degree: 90%
 
 ---
 
@@ -29,6 +29,18 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2025.
 +++**Semaine des mises à jour de maintenance du 20 au 26 juillet 2025**
 
 ### Semaine de mise à jour de maintenance du 20 au 26 juillet 2025
+
+#### Projets
+
+**Un avertissement s’affiche désormais lorsque la chronologie n’a pas été recalculée**
+
+Une icône d’avertissement s’affiche désormais lorsque la chronologie du projet n’a pas été recalculée. Pointez sur cette icône pour afficher le message suivant :
+
+« La chronologie du projet est incorrecte. Il se peut que les chefs de projet doivent recalculer manuellement la chronologie. »
+
+Parfois, les chronologies ne sont pas recalculées en raison de la complexité extrême d’un projet. Par exemple, un projet qui comporte plusieurs dépendances, un grand nombre de tâches, plusieurs prédécesseurs interprojets ou plusieurs indentations de tâches peut être affecté.
+
+Auparavant, rien n’indiquait qu’une chronologie n’avait pas été recalculée.
 
 #### Épreuves
 
