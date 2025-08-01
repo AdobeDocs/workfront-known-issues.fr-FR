@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 32b7c00b3338bc4d1152b1b0748843daaa58a115
+source-git-commit: 0c440c0387e3d981351c943cdc097bb283b0e1de
 workflow-type: tm+mt
-source-wordcount: '1740'
-ht-degree: 90%
+source-wordcount: '1760'
+ht-degree: 89%
 
 ---
 
@@ -24,11 +24,11 @@ Pour connaître les mises à jour de maintenance antérieures à 2025, consultez
 
 Les mises à jour de maintenance suivantes ont été effectuées en 2025.
 
-## Mises à jour de juillet 2025
+## Mises à jour d’août 2025
 
-+++**Semaine des mises à jour de maintenance du 20 au 26 juillet 2025**
++++**Semaine des mises à jour de maintenance du 27 juillet au 3 août 2025**
 
-### Semaine de mise à jour de maintenance du 20 au 26 juillet 2025
+### Semaine des mises à jour de maintenance du 27 juillet au 3 août 2025
 
 #### Projets
 
@@ -41,6 +41,14 @@ Une icône d’avertissement s’affiche désormais lorsque la chronologie du pr
 Parfois, les chronologies ne sont pas recalculées en raison de la complexité extrême d’un projet. Par exemple, un projet qui comporte plusieurs dépendances, un grand nombre de tâches, plusieurs prédécesseurs interprojets ou plusieurs indentations de tâches peut être affecté.
 
 Auparavant, rien n’indiquait qu’une chronologie n’avait pas été recalculée.
+
++++
+
+## Mises à jour de juillet 2025
+
++++**Semaine des mises à jour de maintenance du 20 au 26 juillet 2025**
+
+### Semaine des mises à jour de maintenance du 20 au 26 juillet 2025
 
 #### Épreuves
 
