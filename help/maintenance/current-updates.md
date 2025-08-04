@@ -3,9 +3,9 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 0c440c0387e3d981351c943cdc097bb283b0e1de
+source-git-commit: 17a909d31fc171dae062b760366ad2fed541883e
 workflow-type: tm+mt
-source-wordcount: '1760'
+source-wordcount: '1801'
 ht-degree: 89%
 
 ---
@@ -26,9 +26,9 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2025.
 
 ## Mises à jour d’août 2025
 
-+++**Semaine des mises à jour de maintenance du 27 juillet au 3 août 2025**
++++**Semaine des mises à jour de maintenance du 27 juillet au 2 août 2025**
 
-### Semaine des mises à jour de maintenance du 27 juillet au 3 août 2025
+### Semaine des mises à jour de maintenance du 27 juillet au 2 août 2025
 
 #### Projets
 
@@ -41,6 +41,12 @@ Une icône d’avertissement s’affiche désormais lorsque la chronologie du pr
 Parfois, les chronologies ne sont pas recalculées en raison de la complexité extrême d’un projet. Par exemple, un projet qui comporte plusieurs dépendances, un grand nombre de tâches, plusieurs prédécesseurs interprojets ou plusieurs indentations de tâches peut être affecté.
 
 Auparavant, rien n’indiquait qu’une chronologie n’avait pas été recalculée.
+
+#### Tâches
+
+**La zone Validations disparaît du volet de navigation de gauche**
+
+Lorsqu’un utilisateur ou une utilisatrice consulte une tâche, la zone Approbations peut disparaître du volet de navigation de gauche. La suppression et l’ajout de la zone Approbations dans le modèle de disposition résolvent le problème, mais le problème peut se reproduire.
 
 +++
 
