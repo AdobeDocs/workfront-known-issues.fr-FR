@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 17a909d31fc171dae062b760366ad2fed541883e
 workflow-type: tm+mt
 source-wordcount: '1801'
-ht-degree: 89%
+ht-degree: 93%
 
 ---
 
@@ -52,25 +52,25 @@ Lorsqu’un utilisateur ou une utilisatrice consulte une tâche, la zone Approba
 
 ## Mises à jour de juillet 2025
 
-+++**Semaine des mises à jour de maintenance du 20 au 26 juillet 2025**
++++**Mises à jour de maintenance, semaine du 20 au 26 juillet 2025**
 
 ### Semaine des mises à jour de maintenance du 20 au 26 juillet 2025
 
 #### Épreuves
 
-**Impossible de baliser les utilisateurs dans les commentaires de l’épreuve**
+**Impossible de taguer les utilisateurs et utilisatrices dans les commentaires de l’épreuve**
 
-Lorsque l’utilisateur tente d’identifier un autre utilisateur dans un commentaire d’épreuve et commence à saisir son nom, l’utilisateur n’apparaît pas dans la liste et ne peut pas être sélectionné pour être identifié.
+Lorsqu’une personne tente de taguer une autre personne dans un commentaire d’épreuve et commence à saisir son nom, la personne n’apparaît pas dans la liste et ne peut pas être sélectionnée pour être taguée.
 
 +++
 
-+++**Semaine des mises à jour de maintenance du 13 au 19 juillet 2025**
++++**Mises à jour de maintenance, semaine du 13 au 19 juillet 2025**
 
-### Semaine des mises à jour de maintenance du 13 au 192 juillet
+### Mises à jour de maintenance, semaine du 13 au 19 juillet
 
 ### Intégrations
 
-**Problèmes d’intégration de Workfront for Slack**
+**Problèmes d’intégration de Workfront pour Slack**
 
 Les problèmes suivants liés à l’intégration de Workfront pour Slack ont été signalés :
 

@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 17a909d31fc171dae062b760366ad2fed541883e
 workflow-type: tm+mt
 source-wordcount: '944'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Autorisations : les autorisations d’objet ne sont pas héritées correctement.](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md) | jeudi 16 juillet 2025 |
+| [Autorisations : les autorisations d’objet ne sont pas héritées correctement.](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md) | 16 juillet 2025 |
 | [Intégrations : lier un dossier depuis [!DNL Google Drive] ne lie pas les ressources dans le dossier.](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juin 2024 |
 
 {style="table-layout:auto"}
@@ -36,7 +36,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | ---------------------------------- | ----------------- |
-| [Épreuves : impossible de baliser les utilisateurs dans les commentaires de l’épreuve](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | 10 juillet 2025 |
+| [Épreuves : impossible de taguer les utilisateurs et utilisatrices dans les commentaires de l’épreuve](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | 10 juillet 2025 |
 | [Workfront : objets désynchronisés entre Workfront et Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 17 juin 2025 |
 | [Utilisateurs et utilisatrices : le badge « Approbation en attente » s’affiche pour les nouvelles personnes](known-issues-workfront/wf-users-pending-approval.md) | 23 mai 2025 |
 | [Documents : les miniatures des documents ne s’affichent pas](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 17 avril 2025 |
