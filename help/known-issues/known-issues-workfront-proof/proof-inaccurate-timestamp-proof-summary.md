@@ -1,13 +1,13 @@
 ---
-title: 'Workfront Proof : horodatage inexact sur le résumé de l’épreuve'
+title: 'Workfront Proof : horodatage incorrect sur le Résumé de l’épreuve'
 description: Lorsqu’une personne clique sur l’option Imprimer le résumé pour les BAT, l’horodatage qui s’affiche comporte 30 minutes supplémentaires.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 089b620b-55ce-4a35-88a7-0cb6fa0dfe82
 source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '67'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 

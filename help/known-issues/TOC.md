@@ -3,9 +3,9 @@ user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
 source-git-commit: 9c3e3f27f5e1bf4e221fbf7a5d6bad6a1bf94ebc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1358'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
-      + [Épreuves : impossible de baliser les utilisateurs dans les commentaires de l’épreuve](known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md)
+      + [Épreuves : impossible de taguer les utilisateurs et utilisatrices dans les commentaires de l’épreuve](known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md)
       + [Autorisations : les autorisations d’objet ne sont pas héritées correctement.](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md)
       + [Autorisations : les autorisations d’objet ne sont pas héritées correctement.](known-issues-workfront/wf-permissions-not-inherited-correctly.md)
       + [Projets : erreur lors de l’ajout d’un projet à un programme](/help/known-issues/known-issues-workfront/wf-projects-error-when-adding-to-program.md)
@@ -72,7 +72,7 @@ ht-degree: 99%
       + [Workfront : plusieurs onglets du navigateur entraînent la déconnexion de Workfront.](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
       + [Requêtes : l’utilisateur ou l’utilisatrice peut modifier le statut malgré l’absence d’autorisations.](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
       + [Rapports : erreur lors de l’export d’un rapport](known-issues-workfront/wf-reports-error-cache-content.md)
-      + [Workfront Fusion : impossible d’authentifier une connexion à l’aide de la fonctionnalité Connexion en tant que de Workfront](known-issues-workfront/wf-fusion-cannot-use-login-as.md)
+      + [Workfront Fusion : impossible d’authentifier une connexion à l’aide de la fonctionnalité « Se connecter en tant que » de Workfront](known-issues-workfront/wf-fusion-cannot-use-login-as.md)
       + [Notifications : miniatures non visibles dans les notifications par e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
       + [Portfolios : la personne ne peut pas définir de portfolio.](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
       + [Tâches : la recherche du prénom dans l’affectation de tâche ne renvoie pas d’utilisateurs ni d’utilisatrices.](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md)
@@ -116,7 +116,7 @@ ht-degree: 99%
       + [Filtres : impossible de partager un filtre d’un rapport sur un tableau de bord](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md)
       + [Épreuves : l’outil de mesure n’accepte pas les points décimaux.](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md)
       + [Documents : problèmes liés à la liste de documents](known-issues-workfront/inactive/wf-documents-list-missing-elements.md)
-      + [Documents : erreur 404 lors de l’accès au document lié par [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md)
+      + [Documents : erreur 404 lors de l’accès au document lié depuis  [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md)
       + [[!UICONTROL Équilibreur de charge de travail] : les heures ne s’ajustent pas pour prendre en compte les congés de l’utilisateur ou de l’utilisatrice](known-issues-workfront/inactive/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [[!UICONTROL Mises à jour] : impossible de consigner l’heure du jour en cours dans la zone [!UICONTROL Mises à jour]](known-issues-workfront/inactive/wf-updates-cannot-log-time-for-today-in-updates.md)
       + [Documents : lorsqu’un document est déplacé vers un nouveau projet, les autorisations ne sont pas héritées.](known-issues-workfront/inactive/wf-documents-permissions-not-interited-when-moved.md)

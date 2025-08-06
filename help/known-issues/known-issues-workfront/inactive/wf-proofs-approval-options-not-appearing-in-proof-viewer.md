@@ -1,13 +1,13 @@
 ---
-title: 'BAT : les options d’approbation n’apparaissent pas dans le lecteur de vérification'
+title: 'Épreuves : les options d’approbation n’apparaissent pas dans la visionneuse de relecture.'
 description: Lorsqu’un utilisateur ou une utilisatrice tente d’approuver une épreuve dans la visionneuse de relecture de bureau peu de temps après la demande d’approbation, les options d’approbation ne s’affichent pas et l’utilisateur ou l’utilisatrice ne peut pas approuver l’épreuve. Les options d’approbation apparaissent plusieurs heures après la demande d’approbation.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 17e0aa9a-d7f6-490a-b491-ef74371b787e
 source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '146'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 

@@ -1,17 +1,17 @@
 ---
-title: 'Workfront Fusion : impossible d’authentifier une connexion à l’aide de la fonctionnalité Connexion en tant que de Workfront'
-description: Lors de la création d’une connexion dans Workfront Fusion, un utilisateur ne peut pas authentifier la connexion s’il est connecté en tant qu’autre utilisateur.
+title: 'Workfront Fusion : impossible d’authentifier une connexion à l’aide de la fonctionnalité « Se connecter en tant que » de Workfront'
+description: Lors de la création d’une connexion dans Workfront Fusion, une personne ne peut pas authentifier la connexion lorsqu’elle est connectée en tant qu’un autre utilisateur ou une autre utilisatrice.
 hidefromtoc: true
 feature: Workfront Fusion
 exl-id: 2cd5e6df-d56c-43e1-948c-78c3c83dbbbb
 source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
-# Workfront Fusion : impossible d’authentifier une connexion à l’aide de la fonctionnalité Connexion en tant que de Workfront
+# Workfront Fusion : impossible d’authentifier une connexion à l’aide de la fonctionnalité « Se connecter en tant que » de Workfront
 
 >[!NOTE]
 >
