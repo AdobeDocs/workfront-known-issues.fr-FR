@@ -4,9 +4,9 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Fusion]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 8329afea4d9cdd80c6e9dba9636dcf8b27c910e4
+source-git-commit: c3608d9cb3f26bfb44b9c71247ab797a44a383de
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '188'
 ht-degree: 95%
 
 ---
@@ -50,7 +50,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [Workfront Fusion : le paramètre de début « À partir de maintenant » traite toutes les données.](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | 29 octobre 2024 |
 | [Workfront Fusion : le champ est absent du module](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | mardi 5 février 2024 |
 | [Workfront Fusion : formatage des sorties pour les dates](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | jeudi 31 janvier 2024 |
-| [Workfront Fusion : erreur de mémoire faible](known-issues-workfront-fusion/fusion-low-memory-error.md) | 16 novembre 2023 |
 | [Workfront Fusion : duplication de projets créés à partir d’un seul module](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 24 octobre 2023 |
 | [[!DNL Workfront Proof] : erreur 500 lors de l’accès à [!DNL Workfront Proof] via l’API ou [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 25 mai 2023 |
 | [[!DNL Workfront Fusion] : le module  [!DNL Fusion] renvoie une erreur 404 sans autre information.](known-issues-workfront-fusion/fusion-404-error-no-description.md) | 9 septembre 2022 |
