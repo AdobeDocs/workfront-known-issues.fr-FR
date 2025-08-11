@@ -4,9 +4,9 @@ description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 17a909d31fc171dae062b760366ad2fed541883e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1801'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -26,25 +26,25 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2025.
 
 ## Mises à jour d’août 2025
 
-+++**Semaine des mises à jour de maintenance du 27 juillet au 2 août 2025**
++++**Mises à jour de maintenance, semaine du 27 juillet au 2 août 2025**
 
-### Semaine des mises à jour de maintenance du 27 juillet au 2 août 2025
+### Mises à jour de maintenance, semaine du 27 juillet au 2 août 2025
 
 #### Projets
 
-**Un avertissement s’affiche désormais lorsque la chronologie n’a pas été recalculée**
+**Un avertissement s’affiche désormais lorsque la chronologie n’a pas été recalculée.**
 
-Une icône d’avertissement s’affiche désormais lorsque la chronologie du projet n’a pas été recalculée. Pointez sur cette icône pour afficher le message suivant :
+Une icône d’avertissement s’affiche désormais lorsque la chronologie du projet n’a pas été recalculée. Pointez sur cette icône pour afficher le message suivant :
 
-« La chronologie du projet est incorrecte. Il se peut que les chefs de projet doivent recalculer manuellement la chronologie. »
+« La chronologie du projet est incorrecte. Les personnes responsables du projet devront peut-être recalculer manuellement la chronologie. »
 
-Parfois, les chronologies ne sont pas recalculées en raison de la complexité extrême d’un projet. Par exemple, un projet qui comporte plusieurs dépendances, un grand nombre de tâches, plusieurs prédécesseurs interprojets ou plusieurs indentations de tâches peut être affecté.
+Parfois, les chronologies ne sont pas recalculées en raison de la complexité extrême du projet. Par exemple, un projet qui comporte plusieurs dépendances, un grand nombre de tâches, plusieurs projets transversaux antérieurs ou plusieurs indentations de tâches peut être affecté.
 
 Auparavant, rien n’indiquait qu’une chronologie n’avait pas été recalculée.
 
 #### Tâches
 
-**La zone Validations disparaît du volet de navigation de gauche**
+**La zone Approbations disparaît du volet de navigation de gauche.**
 
 Lorsqu’un utilisateur ou une utilisatrice consulte une tâche, la zone Approbations peut disparaître du volet de navigation de gauche. La suppression et l’ajout de la zone Approbations dans le modèle de disposition résolvent le problème, mais le problème peut se reproduire.
 
@@ -54,7 +54,7 @@ Lorsqu’un utilisateur ou une utilisatrice consulte une tâche, la zone Approba
 
 +++**Mises à jour de maintenance, semaine du 20 au 26 juillet 2025**
 
-### Semaine des mises à jour de maintenance du 20 au 26 juillet 2025
+### Mises à jour de maintenance, semaine du 20 au 26 juillet 2025
 
 #### Épreuves
 
