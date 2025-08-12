@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8acb6274be323f577faa059a9c4f02ab8a887dd2
+source-git-commit: 58539ae80132638236be9b90e0dad35be139f8ce
 workflow-type: tm+mt
-source-wordcount: '1366'
-ht-degree: 99%
+source-wordcount: '1378'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
+      + [Documents : les utilisateurs ajoutés en tant qu’approbateurs une fois l’approbation terminée ne sont pas avertis](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md)
       + [Épreuves : impossible de taguer les utilisateurs et utilisatrices dans les commentaires de l’épreuve](known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md)
       + [Autorisations : les autorisations d’objet ne sont pas héritées correctement.](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md)
       + [Autorisations : les autorisations d’objet ne sont pas héritées correctement.](known-issues-workfront/wf-permissions-not-inherited-correctly.md)

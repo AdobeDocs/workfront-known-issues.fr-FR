@@ -4,10 +4,10 @@ description: 'Problèmes signalés et connus dans la nouvelle expérience [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 17a909d31fc171dae062b760366ad2fed541883e
-workflow-type: ht
-source-wordcount: '944'
-ht-degree: 100%
+source-git-commit: 58539ae80132638236be9b90e0dad35be139f8ce
+workflow-type: tm+mt
+source-wordcount: '957'
+ht-degree: 98%
 
 ---
 
@@ -36,6 +36,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | ---------------------------------- | ----------------- |
+| [Documents : les utilisateurs ajoutés en tant qu’approbateurs une fois l’approbation terminée ne sont pas avertis](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | mercredi 12 août 2025 |
 | [Épreuves : impossible de taguer les utilisateurs et utilisatrices dans les commentaires de l’épreuve](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | 10 juillet 2025 |
 | [Workfront : objets désynchronisés entre Workfront et Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 17 juin 2025 |
 | [Utilisateurs et utilisatrices : le badge « Approbation en attente » s’affiche pour les nouvelles personnes](known-issues-workfront/wf-users-pending-approval.md) | 23 mai 2025 |

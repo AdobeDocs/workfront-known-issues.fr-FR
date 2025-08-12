@@ -4,10 +4,10 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 23747b7f1257a4c52760d0d9448e7e2bb9ef0a91
-workflow-type: ht
-source-wordcount: '381'
-ht-degree: 100%
+source-git-commit: 58539ae80132638236be9b90e0dad35be139f8ce
+workflow-type: tm+mt
+source-wordcount: '394'
+ht-degree: 96%
 
 ---
 
@@ -36,6 +36,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documents : les utilisateurs ajoutés en tant qu’approbateurs une fois l’approbation terminée ne sont pas avertis](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | mercredi 12 août 2025 |
 | [Documents : les miniatures des documents ne s’affichent pas](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 17 avril 2025 |
 | [Notifications : miniatures non visibles dans les notifications par e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 juillet 2024 |
 | [Page d’accueil : le widget Approbations n’est pas exact.](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 8 mai 2024 |
