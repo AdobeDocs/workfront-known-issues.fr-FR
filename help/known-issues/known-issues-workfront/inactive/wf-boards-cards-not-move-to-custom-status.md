@@ -4,8 +4,8 @@ description: Lorsqu’un utilisateur ou une utilisatrice déplace une carte vers
 hidefromtoc: true
 feature: Agile
 exl-id: fd92be4b-a87b-4b99-9d19-fd69c4fa5afb
-source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
-workflow-type: ht
+source-git-commit: 85b451aa1e811e9423c700bf2df36582665e0d2c
+workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 100%
 
@@ -23,4 +23,4 @@ Cela se produit lorsque la colonne vers laquelle la carte est déplacée a un st
 
 _Premier signalement le 10 novembre 2023._
 
-<!--CHECK ME - NO VIEWS APRIL-JUNE 2025-->
+<!--CHECK ME - NO VIEWS APRIL-JUNE 2025(July 21 and 25)-->

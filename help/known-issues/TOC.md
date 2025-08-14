@@ -2,9 +2,9 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 58539ae80132638236be9b90e0dad35be139f8ce
+source-git-commit: 85b451aa1e811e9423c700bf2df36582665e0d2c
 workflow-type: tm+mt
-source-wordcount: '1378'
+source-wordcount: '1370'
 ht-degree: 98%
 
 ---
@@ -108,7 +108,6 @@ ht-degree: 98%
       + [BAT : erreur lors du partage du BAT à partir du lien dans l’e-mail](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md)
       + [[!UICONTROL Accueil] : l’aperçu du nouveau widget [!UICONTROL Accueil] n’affiche pas le nom correct de l’objet.](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
       + [[!UICONTROL Accueil] : le widget [!UICONTROL Requêtes] n’affiche pas toutes les équipes affectées.](known-issues-workfront/inactive/wf-home-request-shows-one-team.md)
-      + [Modèles de disposition : les modèles de disposition provoquent des incohérences dans les rapports.](known-issues-workfront/inactive/wf-layout-templates-classic.md)
       + [[!UICONTROL Accueil] : le widget [!UICONTROL Mentions] du nouvel [!UICONTROL Accueil] ne se limite pas aux messages dans lesquels la personne est mentionnée.](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md)
       + [[!UICONTROL Configuration] : impossible d’exporter les journaux d’audit](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md)
       + [Épreuves : les épreuves sont créées lentement dans l’environnement Aperçu](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md)
