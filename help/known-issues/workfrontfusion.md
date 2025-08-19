@@ -7,7 +7,7 @@ feature: Workfront Fusion
 source-git-commit: c3608d9cb3f26bfb44b9c71247ab797a44a383de
 workflow-type: tm+mt
 source-wordcount: '188'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -45,7 +45,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion : les mises à jour du webhook ne sont pas enregistrées automatiquement](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md) | jeudi 6 août 2025 |
+| [Workfront Fusion : les mises à jour du webhook ne sont pas enregistrées automatiquement](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md). | 6 août 2025 |
 | [Épreuves : impossible de créer des épreuves pour les vidéos liées à partir d’AEM via Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 13 février 2025 |
 | [Workfront Fusion : le paramètre de début « À partir de maintenant » traite toutes les données.](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | 29 octobre 2024 |
 | [Workfront Fusion : le champ est absent du module](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | mardi 5 février 2024 |

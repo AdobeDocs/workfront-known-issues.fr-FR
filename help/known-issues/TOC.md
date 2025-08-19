@@ -5,7 +5,7 @@ role: User
 source-git-commit: 85b451aa1e811e9423c700bf2df36582665e0d2c
 workflow-type: tm+mt
 source-wordcount: '1370'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -177,7 +177,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problèmes connus dans Workfront Fusion](workfrontfusion.md)
    + Problèmes actifs dans [!DNL Workfront Fusion] {#fusion-current}
-      + [Workfront Fusion : les mises à jour du webhook ne sont pas enregistrées automatiquement](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md)
+      + [Workfront Fusion : les mises à jour du webhook ne sont pas enregistrées automatiquement.](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md)
       + [Workfront Fusion : le scénario ne s’exécute pas.](known-issues-workfront-fusion/fusion-scenario-not-running.md)
       + [Fusion Workfront : le paramètre de démarrage « À partir de maintenant » traite toutes les données.](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
       + [Workfront Fusion : impossible d’ajouter ou de supprimer des utilisateurs et des utilisatrices dans Workfront Fusion](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
