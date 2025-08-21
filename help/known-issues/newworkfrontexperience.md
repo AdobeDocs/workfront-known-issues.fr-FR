@@ -4,9 +4,9 @@ description: 'Problèmes signalés et connus dans la nouvelle expérience [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 58539ae80132638236be9b90e0dad35be139f8ce
+source-git-commit: 2b38481cecee37d6b1afcca93630566261378292
 workflow-type: tm+mt
-source-wordcount: '957'
+source-wordcount: '936'
 ht-degree: 98%
 
 ---
@@ -25,7 +25,6 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Autorisations : les autorisations d’objet ne sont pas héritées correctement.](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md) | 16 juillet 2025 |
 | [Intégrations : lier un dossier depuis [!DNL Google Drive] ne lie pas les ressources dans le dossier.](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juin 2024 |
 
 {style="table-layout:auto"}
@@ -68,7 +67,6 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [Épreuves : les épreuves de la capture web ne se génèrent pas.](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 20 décembre 2024 |
 | [Workfront : changements de format de date dans toute l’application](known-issues-workfront/wf-workfront-date-format-changing.md) | 20 décembre 2024 |
 | [Approbations : les approbations déléguées n’apparaissent pas pour les personnes déléguées](known-issues-workfront/wf-approvals-delegation-not-working.md) | 20 décembre 2024 |
-| [Tâches : erreur de base de données lors de l’ajout ou de la suppression d’une tâche (précédemment Bizcontext error)](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 10 décembre 2024 |
 | [Modèles de mise en page : les champs de données personnalisés ne s’affichent pas lorsqu’ils sont ajoutés au Résumé de la tâche par le biais du modèle de mise en page.](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 4 novembre 2024 |
 | [Notifications : les notifications par e-mail pour les mises à jour ne sont pas envoyées](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | 5 décembre 2024 |
 | [Workfront : les personnes ayant le niveau d’accès Contributeur ou Contributrice ne peuvent pas accéder aux programmes ou aux portefeuilles](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | 5 décembre 2024 |

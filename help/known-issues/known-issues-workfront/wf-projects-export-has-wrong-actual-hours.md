@@ -4,14 +4,18 @@ description: Lorsque l’utilisateur exporte un projet vers Excel, la colonne He
 hidefromtoc: true
 feature: Projects
 exl-id: d4eda569-e38d-4fe7-8417-fc21ed5f145a
-source-git-commit: 6f7218ea0e20653b94ec0eeba7bf3b3851f21e79
-workflow-type: ht
-source-wordcount: '54'
+source-git-commit: 2b38481cecee37d6b1afcca93630566261378292
+workflow-type: tm+mt
+source-wordcount: '60'
 ht-degree: 100%
 
 ---
 
 # Projets : les projets exportés contiennent des heures effectives inexactes.
+
+>[!NOTE]
+>
+>Ce problème a été résolu le mardi 18 août 2025.
 
 Lorsque l’utilisateur exporte un projet vers Excel, la colonne Heures effectives n’affiche pas les données correctes.
 
