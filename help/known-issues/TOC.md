@@ -3,9 +3,9 @@ user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
 source-git-commit: 85b451aa1e811e9423c700bf2df36582665e0d2c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1370'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
-      + [Documents : les utilisateurs ajoutés en tant qu’approbateurs une fois l’approbation terminée ne sont pas avertis](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md)
+      + [Documents : les personnes ajoutées avec des fonctions d’approbation ne sont pas averties une fois l’approbation terminée.](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md)
       + [Épreuves : impossible de taguer les utilisateurs et utilisatrices dans les commentaires de l’épreuve](known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md)
       + [Autorisations : les autorisations d’objet ne sont pas héritées correctement.](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md)
       + [Autorisations : les autorisations d’objet ne sont pas héritées correctement.](known-issues-workfront/wf-permissions-not-inherited-correctly.md)
@@ -184,7 +184,7 @@ ht-degree: 99%
       + [Workfront Fusion : 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
       + [Workfront Fusion : le champ est absent du module](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
       + [Workfront Fusion : formatage de sortie pour les dates](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
-      + [Workfront Fusion : erreur de mémoire faible](known-issues-workfront-fusion/fusion-low-memory-error.md)
+      + [Workfront Fusion : erreur de mémoire insuffisante](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion : duplication de projets créés à partir d’un seul module](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
       + [[!DNL Workfront Fusion] : [!DNL Workfront] >[!UICONTROL Module d’appel d’API personnalisé] renvoyant des erreurs 404 ou 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion] : erreur « Échec de vérification de la connexion »](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)

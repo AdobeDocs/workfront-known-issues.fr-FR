@@ -1,18 +1,18 @@
 ---
-title: 'Documents : les utilisateurs ajoutés en tant qu’approbateurs une fois l’approbation terminée ne sont pas avertis'
-description: Lorsque l’utilisateur a approuvé un document et que d’autres utilisateurs sont ajoutés en tant qu’approbateurs, les nouveaux approbateurs ne reçoivent pas de notifications in-app ou par e-mail de la demande d’approbation.
+title: 'Documents : les personnes ajoutées avec des fonctions d’approbation ne sont pas averties une fois l’approbation terminée.'
+description: Lorsqu’une personne a approuvé un document et que d’autres personnes sont ajoutées avec des fonctions d’approbation, les personnes nouvellement ajoutées ne reçoivent pas de notifications in-app ou par e-mail de la demande d’approbation.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 58539ae80132638236be9b90e0dad35be139f8ce
-workflow-type: tm+mt
+exl-id: b636c6ea-7c31-47f1-8b15-4e62c593ed07
+source-git-commit: e3fbdba51652d4cff44f0e955bc1acd5d44bf270
+workflow-type: ht
 source-wordcount: '88'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
+# Documents : les personnes ajoutées avec des fonctions d’approbation ne sont pas averties une fois l’approbation terminée.
 
-# Documents : les utilisateurs ajoutés en tant qu’approbateurs une fois l’approbation terminée ne sont pas avertis
+Lorsqu’une personne a approuvé un document et que d’autres personnes sont ajoutées avec des fonctions d’approbation, les personnes nouvellement ajoutées ne reçoivent pas de notifications in-app ou par e-mail de la demande d’approbation.
 
-Lorsque l’utilisateur a approuvé un document et que d’autres utilisateurs sont ajoutés en tant qu’approbateurs, les nouveaux approbateurs ne reçoivent pas de notifications in-app ou par e-mail de la demande d’approbation.
-
-_Premier signalement le mardi 28 juillet 2025._
+_Premier signalement le 28 juillet 2025._

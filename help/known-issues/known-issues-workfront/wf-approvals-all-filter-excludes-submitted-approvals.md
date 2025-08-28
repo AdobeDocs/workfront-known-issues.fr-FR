@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Updates and Notifications
 exl-id: 5b861fdd-0fcf-492a-ab32-3454c3cc5f21
 source-git-commit: 85b451aa1e811e9423c700bf2df36582665e0d2c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -21,4 +21,4 @@ Lorsque les approbations sont affichées dans le widget Mes approbations de l’
 
 _Premier signalement le jeudi 16 octobre 2024._
 
-&lt;!—CHECK ME—1 vue Avril-Juin 2025 (7 juillet)—>
+&lt;!--VÉRIFIEZ --1 vue Avril-juin 2025 (7 juillet)-->
