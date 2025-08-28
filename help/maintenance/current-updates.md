@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 2b38481cecee37d6b1afcca93630566261378292
 workflow-type: tm+mt
 source-wordcount: '1957'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -44,17 +44,17 @@ Lorsque l’utilisateur exporte un projet vers Excel, la colonne Heures effectiv
 
 +++
 
-+++**Semaine des mises à jour de maintenance du 10 au 16 août 2025**
++++**Mises à jour de maintenance, semaine du 10 au 16 août 2025**
 
-### Semaine de mise à jour de maintenance du 10 au 16 août 2025
+### Mise à jour de maintenance, semaine du 10 au 16 août 2025
 
 Les mises à jour de cette semaine incluent uniquement des correctifs mineurs ou moins importants. L’assistance Workfront vous avertira lorsqu’un problème que vous avez soumis sera résolu.
 
 +++
 
-+++**Semaine des mises à jour de maintenance du 3 au 9 août 2025**
++++**Mises à jour de maintenance, semaine du 3 au 9 août 2025**
 
-### Semaine de mise à jour de maintenance du 3 au 9 août 2025
+### Mise à jour de maintenance, semaine du 3 au 9 août 2025
 
 Les mises à jour de cette semaine incluent uniquement des correctifs mineurs ou moins importants. L’assistance Workfront vous avertira lorsqu’un problème que vous avez soumis sera résolu.
 
