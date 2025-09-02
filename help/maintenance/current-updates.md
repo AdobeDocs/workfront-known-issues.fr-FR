@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2b38481cecee37d6b1afcca93630566261378292
+source-git-commit: a66310d736a326ea77557db8547b232caff4ee60
 workflow-type: tm+mt
-source-wordcount: '1957'
-ht-degree: 98%
+source-wordcount: '2091'
+ht-degree: 93%
 
 ---
 
@@ -24,11 +24,33 @@ Pour connaître les mises à jour de maintenance antérieures à 2025, consultez
 
 Les mises à jour de maintenance suivantes ont été effectuées en 2025.
 
+## Mises à jour de septembre 2025
+
++++**Semaine des mises à jour de maintenance du 31 août au 6 septembre 2025**
+
+### Semaine de mise à jour de maintenance du 31 août au 6 septembre 2025
+
+#### API
+
+**Nouveaux mécanismes de sécurisation pour éviter de surcharger les abonnements aux événements**
+
+Event Subscriptions est conçu pour fournir une diffusion fiable des événements à tous les utilisateurs. Pour ce faire, des mesures de protection ont été mises en place pour éviter une production excessive d’événements par un seul utilisateur, ce qui pourrait entraîner des problèmes potentiels de qualité de service pour tous les utilisateurs. Par conséquent, un utilisateur ou une utilisatrice qui produit trop d’événements à un taux élevé sur une courte période peut faire l’objet de sandbox et de retards de diffusion d’événements.
+
++++
+
 ## Mises à jour d’août 2025
+
++++**Semaine des mises à jour de maintenance du 24 au 30 août 2025**
+
+### Semaine de mise à jour de maintenance du 24 au 30 août 2025
+
+Les mises à jour de cette semaine incluent uniquement des correctifs mineurs ou moins importants. L’assistance Workfront vous avertira lorsqu’un problème que vous avez soumis sera résolu.
+
++++
 
 +++**Semaine des mises à jour de maintenance du 17 au 23 août 2025**
 
-### Semaine de mise à jour de maintenance du 17 au 25 août 2025
+### Semaine de mise à jour de maintenance du 17 au 23 août 2025
 
 #### Projets
 
@@ -80,7 +102,7 @@ Auparavant, rien n’indiquait qu’une chronologie n’avait pas été recalcul
 
 **La zone Approbations disparaît du volet de navigation de gauche.**
 
-Lorsqu’un utilisateur ou une utilisatrice consulte une tâche, la zone Approbations peut disparaître du volet de navigation de gauche. La suppression et l’ajout de la zone Approbations dans le modèle de disposition résolvent le problème, mais le problème peut se reproduire.
+Lorsqu’un utilisateur ou une utilisatrice consulte une tâche, la zone Approbations peut disparaître du volet de navigation de gauche. La suppression et l’ajout de la zone Approbations dans le modèle de mise en page résolvent le problème, mais le problème peut se reproduire.
 
 +++
 
@@ -360,7 +382,7 @@ Le calcul du nombre total d’heures des feuilles de temps affiche parfois une s
 
 **Données personnalisées non affichées dans le panneau Résumé**
 
-Lorsqu’un client ou une cliente consulte le panneau Résumé pour une tâche, les données personnalisées qui devraient apparaître dans le panneau Résumé sont absentes. Ce problème peut se produire même si le modèle de disposition des tâches inclut les champs personnalisés.
+Lorsqu’un client ou une cliente consulte le panneau Résumé pour une tâche, les données personnalisées qui devraient apparaître dans le panneau Résumé sont absentes. Ce problème peut se produire même si le modèle de mise en page des tâches inclut les champs personnalisés.
 
 #### Rapports
 
