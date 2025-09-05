@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 13a081ac430090ef3ac7f5c0e1ac1ba6a68227bd
 workflow-type: tm+mt
 source-wordcount: '2091'
-ht-degree: 93%
+ht-degree: 94%
 
 ---
 
@@ -48,7 +48,7 @@ Les mises à jour de cette semaine incluent uniquement des correctifs mineurs ou
 
 +++
 
-+++**Semaine des mises à jour de maintenance du 17 au 23 août 2025**
++++**Mises à jour de maintenance, semaine du 17 au 23 août 2025**
 
 ### Semaine de mise à jour de maintenance du 17 au 23 août 2025
 
@@ -60,9 +60,9 @@ Lorsqu’un utilisateur ou une utilisatrice tente d’ajouter un projet existant
 
 « Erreur lors du chargement du contenu secondaire... »
 
-**Les projets exportés contiennent des heures réelles inexactes**
+**Les projets exportés contiennent des heures effectives inexactes**
 
-Lorsque l’utilisateur exporte un projet vers Excel, la colonne Heures effectives n’affiche pas les données correctes.
+Lorsque l’utilisateur ou l’utilisatrice exporte un projet vers Excel, la colonne Heures effectives n’affiche pas les bonnes données.
 
 +++
 
