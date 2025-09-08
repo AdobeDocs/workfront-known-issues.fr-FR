@@ -3,9 +3,9 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 13a081ac430090ef3ac7f5c0e1ac1ba6a68227bd
+source-git-commit: 5468975035561c205f30fb2a92f6ad43346c0c2f
 workflow-type: tm+mt
-source-wordcount: '2091'
+source-wordcount: '2133'
 ht-degree: 94%
 
 ---
@@ -35,6 +35,12 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2025.
 **Nouveaux mécanismes de sécurisation pour éviter de surcharger les abonnements aux événements**
 
 Event Subscriptions est conçu pour fournir une diffusion fiable des événements à tous les utilisateurs. Pour ce faire, des mesures de protection ont été mises en place pour éviter une production excessive d’événements par un seul utilisateur, ce qui pourrait entraîner des problèmes potentiels de qualité de service pour tous les utilisateurs. Par conséquent, un utilisateur ou une utilisatrice qui produit trop d’événements à un taux élevé sur une courte période peut faire l’objet de sandbox et de retards de diffusion d’événements.
+
+#### Documents
+
+**Les utilisateurs ajoutés en tant qu’approbateurs une fois l’approbation terminée ne sont pas avertis**
+
+Lorsqu’une personne a approuvé un document et que d’autres personnes sont ajoutées avec des fonctions d’approbation, les personnes nouvellement ajoutées ne reçoivent pas de notifications in-app ou par e-mail de la demande d’approbation.
 
 +++
 
