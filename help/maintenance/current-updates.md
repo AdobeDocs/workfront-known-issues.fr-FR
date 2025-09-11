@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 5468975035561c205f30fb2a92f6ad43346c0c2f
 workflow-type: tm+mt
 source-wordcount: '2133'
-ht-degree: 94%
+ht-degree: 99%
 
 ---
 
@@ -26,15 +26,15 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2025.
 
 ## Mises à jour de septembre 2025
 
-+++**Semaine des mises à jour de maintenance du 31 août au 6 septembre 2025**
++++**Mises à jour de maintenance, semaine du 31 août au 6 septembre 2025**
 
-### Semaine de mise à jour de maintenance du 31 août au 6 septembre 2025
+### Mise à jour de maintenance, semaine du 31 août au 6 septembre 2025
 
 #### API
 
 **Nouveaux mécanismes de sécurisation pour éviter de surcharger les abonnements aux événements**
 
-Event Subscriptions est conçu pour fournir une diffusion fiable des événements à tous les utilisateurs. Pour ce faire, des mesures de protection ont été mises en place pour éviter une production excessive d’événements par un seul utilisateur, ce qui pourrait entraîner des problèmes potentiels de qualité de service pour tous les utilisateurs. Par conséquent, un utilisateur ou une utilisatrice qui produit trop d’événements à un taux élevé sur une courte période peut faire l’objet de sandbox et de retards de diffusion d’événements.
+Les abonnements aux événements sont conçus pour assurer une diffusion fiable des événements à tous les utilisateurs et utilisatrices. Pour ce faire, des mesures de protection ont été mises en place pour éviter une production excessive d’événements par une seule personne, qui pourrait entraîner des problèmes de qualité de service pour tout le monde. Par conséquent, un utilisateur ou une utilisatrice qui produit trop d’événements à un taux élevé sur une courte période peut faire l’objet de mise en sandbox et de retards de diffusion d’événements.
 
 #### Documents
 
@@ -46,9 +46,9 @@ Lorsqu’une personne a approuvé un document et que d’autres personnes sont a
 
 ## Mises à jour d’août 2025
 
-+++**Semaine des mises à jour de maintenance du 24 au 30 août 2025**
++++**Mises à jour de maintenance, semaine du 24 au 30 août 2025**
 
-### Semaine de mise à jour de maintenance du 24 au 30 août 2025
+### Mise à jour de maintenance, semaine du 24 au 30 août 2025
 
 Les mises à jour de cette semaine incluent uniquement des correctifs mineurs ou moins importants. L’assistance Workfront vous avertira lorsqu’un problème que vous avez soumis sera résolu.
 
@@ -56,7 +56,7 @@ Les mises à jour de cette semaine incluent uniquement des correctifs mineurs ou
 
 +++**Mises à jour de maintenance, semaine du 17 au 23 août 2025**
 
-### Semaine de mise à jour de maintenance du 17 au 23 août 2025
+### Mise à jour de maintenance, semaine du 17 au 23 août 2025
 
 #### Projets
 

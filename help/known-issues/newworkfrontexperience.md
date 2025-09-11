@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 4f1d7936c677f102f32a4b6c480a7bf3f53962bd
 workflow-type: tm+mt
 source-wordcount: '991'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -47,7 +47,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 ## Solution de contournement disponible
 
-Les correctifs pour ces problèmes ne figurent pas actuellement sur la feuille de route, mais des solutions de contournement sont disponibles et décrites dans l’article pour chaque problème.
+Les correctifs de ces problèmes ne figurent pas actuellement sur la feuille de route, mais des solutions de contournement sont disponibles et décrites dans l’article pour chaque problème.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
