@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 4f1d7936c677f102f32a4b6c480a7bf3f53962bd
+source-git-commit: 3cb9b2b88c62e98d8d57f76b4300eb1601bfb8cb
 workflow-type: tm+mt
-source-wordcount: '1377'
-ht-degree: 99%
+source-wordcount: '1402'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
+      + [Épreuves : impossible de générer une épreuve à partir d’un fichier PowerPoint](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md)
+      + [Utilisateurs : impossible de modifier les paramètres de notification d’un autre utilisateur](known-issues-workfront/wf-users-cannot-edit-another-users-notifications.md)
+      + [Utilisateurs : impossible de modifier le niveau d’accès d’un utilisateur](known-issues-workfront/wf-users-cannot-change-access-level.md)
       + [Utilisateurs : impossible de modifier l’ID de fédération d’un utilisateur](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md)
       + [Documents : les personnes ajoutées avec des fonctions d’approbation ne sont pas averties une fois l’approbation terminée.](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md)
       + [Épreuves : impossible de taguer les utilisateurs et utilisatrices dans les commentaires de l’épreuve](known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md)
