@@ -2,9 +2,9 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 3cb9b2b88c62e98d8d57f76b4300eb1601bfb8cb
+source-git-commit: 0f4dba4664f645920752cc0c346782c9582b0e54
 workflow-type: tm+mt
-source-wordcount: '1402'
+source-wordcount: '1410'
 ht-degree: 97%
 
 ---
@@ -181,6 +181,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problèmes connus dans Workfront Fusion](workfrontfusion.md)
    + Problèmes actifs dans [!DNL Workfront Fusion] {#fusion-current}
+      + [Workfront Fusion : le module de recherche Jira renvoie une erreur](known-issues-workfront-fusion/fusion-error-in-jira-search.md)
       + [Workfront Fusion : les mises à jour du webhook ne sont pas enregistrées automatiquement.](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md)
       + [Workfront Fusion : le scénario ne s’exécute pas.](known-issues-workfront-fusion/fusion-scenario-not-running.md)
       + [Fusion Workfront : le paramètre de démarrage « À partir de maintenant » traite toutes les données.](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
