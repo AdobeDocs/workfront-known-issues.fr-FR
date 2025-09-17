@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 3cb9b2b88c62e98d8d57f76b4300eb1601bfb8cb
 workflow-type: tm+mt
 source-wordcount: '2172'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -47,7 +47,7 @@ Les abonnements aux événements sont conçus pour assurer une diffusion fiable 
 
 #### Documents
 
-**Les utilisateurs ajoutés en tant qu’approbateurs une fois l’approbation terminée ne sont pas avertis**
+**Les personnes ajoutées avec des fonctions d’approbation ne sont pas averties une fois l’approbation terminée.**
 
 Lorsqu’une personne a approuvé un document et que d’autres personnes sont ajoutées avec des fonctions d’approbation, les personnes nouvellement ajoutées ne reçoivent pas de notifications in-app ou par e-mail de la demande d’approbation.
 

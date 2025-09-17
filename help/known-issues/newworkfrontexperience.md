@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 3cb9b2b88c62e98d8d57f76b4300eb1601bfb8cb
 workflow-type: tm+mt
 source-wordcount: '1019'
-ht-degree: 96%
+ht-degree: 97%
 
 ---
 
@@ -37,7 +37,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | ---------------------------------- | ----------------- |
-| [Utilisateurs : impossible de modifier l’ID de fédération d’un utilisateur](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md) | mercredi 9 septembre 2025 |
+| [Utilisateurs et utilisatrices : impossible de modifier l’ID de fédération d’un utilisateur ou d’une utilisatrice](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md) | 9 septembre 2025 |
 | [Documents : les personnes ajoutées avec des fonctions d’approbation ne sont pas averties une fois l’approbation terminée.](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | 12 août 2025 |
 | [Épreuves : impossible de taguer les utilisateurs et utilisatrices dans les commentaires de l’épreuve](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | 10 juillet 2025 |
 | [Workfront : objets désynchronisés entre Workfront et Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 17 juin 2025 |

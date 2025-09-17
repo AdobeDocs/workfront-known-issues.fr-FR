@@ -20,7 +20,7 @@ ht-degree: 97%
       + [Épreuves : impossible de générer une épreuve à partir d’un fichier PowerPoint](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md)
       + [Utilisateurs : impossible de modifier les paramètres de notification d’un autre utilisateur](known-issues-workfront/wf-users-cannot-edit-another-users-notifications.md)
       + [Utilisateurs : impossible de modifier le niveau d’accès d’un utilisateur](known-issues-workfront/wf-users-cannot-change-access-level.md)
-      + [Utilisateurs : impossible de modifier l’ID de fédération d’un utilisateur](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md)
+      + [Utilisateurs et utilisatrices : impossible de modifier l’ID de fédération d’un utilisateur ou d’une utilisatrice](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md)
       + [Documents : les personnes ajoutées avec des fonctions d’approbation ne sont pas averties une fois l’approbation terminée.](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md)
       + [Épreuves : impossible de taguer les utilisateurs et utilisatrices dans les commentaires de l’épreuve](known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md)
       + [Autorisations : les autorisations d’objet ne sont pas héritées correctement.](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md)
