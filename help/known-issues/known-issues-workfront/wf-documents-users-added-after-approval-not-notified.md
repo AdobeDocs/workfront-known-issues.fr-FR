@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: b636c6ea-7c31-47f1-8b15-4e62c593ed07
 source-git-commit: 5468975035561c205f30fb2a92f6ad43346c0c2f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Ce problème a été résolu le vendredi 4 septembre 2025.
+>Ce problème a été résolu le 4 septembre 2025.
 
 Lorsqu’une personne a approuvé un document et que d’autres personnes sont ajoutées avec des fonctions d’approbation, les personnes nouvellement ajoutées ne reçoivent pas de notifications in-app ou par e-mail de la demande d’approbation.
 
