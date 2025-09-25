@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 003b0e7c9b4f12ccefe534d91f06d254d26cb1a3
 workflow-type: tm+mt
 source-wordcount: '1010'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Utilisateurs : impossible de modifier le niveau d’accès d’un utilisateur](known-issues-workfront/wf-users-cannot-change-access-level.md) | vendredi 11 septembre 2025 |
+| [Utilisateurs et utilisatrice : impossible de modifier le niveau d’accès d’une personne](known-issues-workfront/wf-users-cannot-change-access-level.md) | 11 septembre 2025 |
 | [Intégrations : lier un dossier depuis [!DNL Google Drive] ne lie pas les ressources dans le dossier.](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juin 2024 |
 
 {style="table-layout:auto"}
@@ -52,7 +52,7 @@ Les correctifs de ces problèmes ne figurent pas actuellement sur la feuille de 
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
-| [Épreuves : impossible de générer une épreuve à partir d’un fichier PowerPoint](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md) | vendredi 11 septembre 2025 |
+| [Épreuves : impossible de générer une épreuve à partir d’un fichier PowerPoint](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md) | 11 septembre 2025 |
 | [Autorisations : les autorisations d’objet ne sont pas héritées correctement.](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | 15 juillet 2025 |
 | [Filtres : la liste déroulante disparaît lorsque vous cliquez sur la barre de défilement](known-issues-workfront/wf-filter-scroll-bar.md) | 26 mars 2025 |
 | [Intégrations : erreur outlookIdentityToken lors de l’utilisation de Workfront pour Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | 4 mars 2025 |
