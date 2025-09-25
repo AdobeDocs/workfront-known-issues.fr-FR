@@ -4,10 +4,10 @@ description: 'Problèmes signalés et connus dans la nouvelle expérience [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 003b0e7c9b4f12ccefe534d91f06d254d26cb1a3
+source-git-commit: e8169129ed6b03ff7d6b58ee24521885d5dc1acd
 workflow-type: tm+mt
-source-wordcount: '1010'
-ht-degree: 100%
+source-wordcount: '1024'
+ht-degree: 98%
 
 ---
 
@@ -36,6 +36,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | ---------------------------------- | ----------------- |
+| [Validations : la validation indique « Aucune échéance » lorsque l&#39;heure n&#39;est pas incluse dans l&#39;échéance](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | vendredi 25 septembre 2025 |
 | [Utilisateurs et utilisatrices : impossible de modifier l’ID de fédération d’un utilisateur ou d’une utilisatrice](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md) | 9 septembre 2025 |
 | [Documents : les personnes ajoutées avec des fonctions d’approbation ne sont pas averties une fois l’approbation terminée.](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | 12 août 2025 |
 | [Épreuves : impossible de taguer les utilisateurs et utilisatrices dans les commentaires de l’épreuve](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | 10 juillet 2025 |

@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3cb9b2b88c62e98d8d57f76b4300eb1601bfb8cb
-workflow-type: ht
-source-wordcount: '2172'
-ht-degree: 100%
+source-git-commit: e8169129ed6b03ff7d6b58ee24521885d5dc1acd
+workflow-type: tm+mt
+source-wordcount: '2269'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,28 @@ Pour connaître les mises à jour de maintenance antérieures à 2025, consultez
 Les mises à jour de maintenance suivantes ont été effectuées en 2025.
 
 ## Mises à jour de septembre 2025
+
++++**Semaine des mises à jour de maintenance du 21 au 27 septembre 2025**
+
+### Semaine des mises à jour de maintenance du 21 au 27 septembre 2025
+
+#### Utilisateurs
+
+**Impossible de modifier les paramètres des notifications pour un autre utilisateur**
+
+Lorsqu’une personne tente de modifier les paramètres de notification d’une autre personne, elle ne peut pas le faire et le message d’erreur suivant s’affiche :
+
+« Vous ne disposez pas d’un accès suffisant pour modifier les données financières. »
+
++++
+
++++**Semaine des mises à jour de maintenance du 14 au 20 septembre 2025**
+
+### Semaine des mises à jour de maintenance du 14 au 20 septembre 2025
+
+Les mises à jour de cette semaine incluent uniquement des correctifs mineurs ou moins importants. L’assistance Workfront vous avertira lorsqu’un problème que vous avez soumis sera résolu.
+
++++
 
 +++**Mises à jour de maintenance, semaine du 7 au 13 septembre 2025**
 

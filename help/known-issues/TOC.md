@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0f4dba4664f645920752cc0c346782c9582b0e54
-workflow-type: ht
-source-wordcount: '1410'
-ht-degree: 100%
+source-git-commit: e8169129ed6b03ff7d6b58ee24521885d5dc1acd
+workflow-type: tm+mt
+source-wordcount: '1423'
+ht-degree: 99%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
+      + [Approbations : l’approbation indique « Aucune échéance » lorsque l’heure n’est pas incluse dans l’échéance](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)
       + [Épreuves : impossible de générer une épreuve à partir d’un fichier PowerPoint](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md)
       + [Utilisateurs et utilisatrices : impossible de modifier les paramètres de notification d’une autre personne](known-issues-workfront/wf-users-cannot-edit-another-users-notifications.md)
       + [Utilisateurs et utilisatrice : impossible de modifier le niveau d’accès d’une personne](known-issues-workfront/wf-users-cannot-change-access-level.md)
