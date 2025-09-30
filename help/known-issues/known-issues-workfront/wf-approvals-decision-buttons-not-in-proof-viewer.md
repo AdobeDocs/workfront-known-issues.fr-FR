@@ -1,17 +1,17 @@
 ---
-title: 'Approbations : les boutons de décision d’approbation ne s’affichent pas dans la visionneuse d’épreuve'
+title: 'Approbations : les boutons de décision d’approbation ne s’affichent pas dans la visionneuse d’épreuve pour les équipes'
 description: Lorsqu’un approbateur consulte un BAT dans la visionneuse d’épreuve et tente de prendre une décision, les boutons de décision ne sont pas disponibles. Une solution de contournement est disponible.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: db29bf0acb4baecaee208821d81318b15c74233b
+source-git-commit: 173042f1f007ee7fa2ff9fcb7deee36390663b1d
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '111'
 ht-degree: 8%
 
 ---
 
 
-# Approbations : les boutons de décision d’approbation ne s’affichent pas dans la visionneuse d’épreuve
+# Approbations : les boutons de décision d’approbation ne s’affichent pas dans la visionneuse d’épreuve pour les équipes
 
 Lorsqu’un approbateur consulte un BAT dans la visionneuse d’épreuve et tente de prendre une décision, les boutons de décision ne sont pas disponibles.
 
