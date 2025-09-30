@@ -4,10 +4,10 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 58539ae80132638236be9b90e0dad35be139f8ce
-workflow-type: ht
-source-wordcount: '394'
-ht-degree: 100%
+source-git-commit: db29bf0acb4baecaee208821d81318b15c74233b
+workflow-type: tm+mt
+source-wordcount: '404'
+ht-degree: 97%
 
 ---
 
@@ -49,6 +49,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | -----------------------------------------------------------------| ----------------- |
+| [Validations : les boutons de décision de validation ne s’affichent pas dans la visionneuse d’épreuve](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md) | mercredi 30 septembre 2025 |
 | [Épreuves : impossible d’ajouter des utilisateurs et utilisatrices à une épreuve avec leur nom dans l’environnement Aperçu](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | 16 juin 2025 |
 | [Épreuves : la fermeture de l’épreuve redirige vers la liste des documents.](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | 14 mai 2025 |
 | [Épreuves : impossible de créer des épreuves pour les vidéos liées à partir d’AEM via Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 13 février 2025 |

@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: e8169129ed6b03ff7d6b58ee24521885d5dc1acd
+source-git-commit: 3df418a4700d52fbaf53122f251ab7c579e07369
 workflow-type: tm+mt
-source-wordcount: '1423'
-ht-degree: 99%
+source-wordcount: '1439'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
+      + [Programmes : impossible d’enregistrer lors de la modification d’un programme](known-issues-workfront/wf-programs-cannot-save-when-editing-program.md)
+      + [Approbations : les boutons de décision d’approbation ne s’affichent pas dans la visionneuse d’épreuve](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md)
       + [Approbations : l’approbation indique « Aucune échéance » lorsque l’heure n’est pas incluse dans l’échéance](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)
       + [Épreuves : impossible de générer une épreuve à partir d’un fichier PowerPoint](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md)
       + [Utilisateurs et utilisatrices : impossible de modifier les paramètres de notification d’une autre personne](known-issues-workfront/wf-users-cannot-edit-another-users-notifications.md)
