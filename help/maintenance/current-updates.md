@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 932556d1c72aa33e9169034f41f6250d249a228b
 workflow-type: tm+mt
 source-wordcount: '2314'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -34,19 +34,19 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2025.
 
 **Enregistrement impossible lors de la modification d’un programme**
 
-Lorsque l’utilisateur modifie un programme et tente d’enregistrer les modifications, celles-ci ne sont pas enregistrées.
+Lorsque un utilisateur ou une utilisatrice modifie un programme et tente d’enregistrer les modifications, celles-ci ne sont pas enregistrées.
 
 +++
 
 ## Mises à jour de septembre 2025
 
-+++**Semaine des mises à jour de maintenance du 21 au 27 septembre 2025**
++++**Mises à jour de maintenance, semaine du 21 au 27 septembre 2025**
 
-### Semaine des mises à jour de maintenance du 21 au 27 septembre 2025
+### Mises à jour de maintenance, semaine du 21 au 27 septembre 2025
 
-#### Utilisateurs
+#### Utilisateurs et utilisatrices
 
-**Impossible de modifier les paramètres des notifications pour un autre utilisateur**
+**Impossible de modifier les paramètres de notification d’une autre personne**
 
 Lorsqu’une personne tente de modifier les paramètres de notification d’une autre personne, elle ne peut pas le faire et le message d’erreur suivant s’affiche :
 
@@ -54,9 +54,9 @@ Lorsqu’une personne tente de modifier les paramètres de notification d’une 
 
 +++
 
-+++**Semaine des mises à jour de maintenance du 14 au 20 septembre 2025**
++++**Mises à jour de maintenance, semaine du 14 au 20 septembre 2025**
 
-### Semaine des mises à jour de maintenance du 14 au 20 septembre 2025
+### Mises à jour de maintenance, semaine du 14 au 20 septembre 2025
 
 Les mises à jour de cette semaine incluent uniquement des correctifs mineurs ou moins importants. L’assistance Workfront vous avertira lorsqu’un problème que vous avez soumis sera résolu.
 
@@ -485,7 +485,7 @@ Lors du filtrage d’un rapport horaire pour n’afficher qu’une date spécifi
 
 Lorsqu’une vue de rapport contient plusieurs champs de devise personnalisés, le rapport renvoie une erreur.
 
-#### Utilisateurs
+#### Utilisateurs et utilisatrices
 
 **La balise « Non enregistré » persiste après la connexion**
 
