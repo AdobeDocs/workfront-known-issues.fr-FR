@@ -4,9 +4,9 @@ description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 932556d1c72aa33e9169034f41f6250d249a228b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2314'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -26,15 +26,15 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2025.
 
 ## Mises à jour d’octobre 2025
 
-+++**Semaine des mises à jour de maintenance du 28 septembre au 4 octobre 2025**
++++**Mises à jour de maintenance, semaine du 28 septembre au 4 octobre 2025**
 
-### Semaine des mises à jour de maintenance du 28 septembre au 4 octobre 2025
+### Mises à jour de maintenance, semaine du 28 septembre au 4 octobre 2025
 
 #### Programmes
 
-**Enregistrement impossible lors de la modification d’un programme**
+**Impossible d’enregistrer lors de la modification d’un programme**
 
-Lorsque un utilisateur ou une utilisatrice modifie un programme et tente d’enregistrer les modifications, celles-ci ne sont pas enregistrées.
+Lorsqu’un utilisateur ou une utilisatrice modifie un programme et tente d’enregistrer les modifications, celles-ci ne sont pas enregistrées.
 
 +++
 
