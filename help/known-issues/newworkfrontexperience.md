@@ -4,10 +4,10 @@ description: 'Problèmes signalés et connus dans la nouvelle expérience [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 932556d1c72aa33e9169034f41f6250d249a228b
-workflow-type: ht
-source-wordcount: '1017'
-ht-degree: 100%
+source-git-commit: 5c84b9ef86098c4ea9cc880d276ad7f73a395bec
+workflow-type: tm+mt
+source-wordcount: '1042'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,8 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Formulaires personnalisés : la logique d’affichage des champs n’est pas correctement suivie](known-issues-workfront/wf-custom-forms-display-logic-triggering-incorrectly.md) | mercredi 14 octobre 2025 |
+| [Épreuves : impossible de fermer la visionneuse de relecture](known-issues-workfront/wf-cannot-close-proofing-viewer.md) | mercredi 14 octobre 2025 |
 | [Utilisateurs et utilisatrice : impossible de modifier le niveau d’accès d’une personne](known-issues-workfront/wf-users-cannot-change-access-level.md) | 11 septembre 2025 |
 | [Intégrations : lier un dossier depuis [!DNL Google Drive] ne lie pas les ressources dans le dossier.](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juin 2024 |
 
@@ -36,6 +38,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | ---------------------------------- | ----------------- |
+| [Utilisateurs : impossible d’utiliser les options avancées lors de la création d’utilisateurs](/help/known-issues/known-issues-workfront/wf-users-cannot-use-advanced-options.md) | mercredi 14 octobre 2025 |
 | [Approbations : l’approbation indique « Aucune échéance » lorsque l’heure n’est pas incluse dans l’échéance.](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 25 septembre 2025 |
 | [Documents : les personnes ajoutées avec des fonctions d’approbation ne sont pas averties une fois l’approbation terminée.](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | 12 août 2025 |
 | [Épreuves : impossible de taguer les utilisateurs et utilisatrices dans les commentaires de l’épreuve](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | 10 juillet 2025 |
