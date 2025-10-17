@@ -3,9 +3,9 @@ user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
 source-git-commit: 5c84b9ef86098c4ea9cc880d276ad7f73a395bec
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1461'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
-      + [Utilisateurs : impossible d’utiliser les options avancées lors de la création d’utilisateurs](/help/known-issues/known-issues-workfront/wf-users-cannot-use-advanced-options.md)
-      + [Formulaires personnalisés : la logique d’affichage des champs n’est pas correctement suivie](known-issues-workfront/wf-custom-forms-display-logic-triggering-incorrectly.md)
-      + [Épreuves : impossible de fermer la visionneuse de relecture](known-issues-workfront/wf-cannot-close-proofing-viewer.md)
+      + [Utilisateurs et utilisatrices : impossible d’utiliser les options avancées lors de la création d’utilisateurs et d’utilisatrices](/help/known-issues/known-issues-workfront/wf-users-cannot-use-advanced-options.md)
+      + [Formulaires personnalisés : la logique d’affichage des champs n’est pas correctement suivie.](known-issues-workfront/wf-custom-forms-display-logic-triggering-incorrectly.md)
+      + [Épreuves : impossible de fermer la visionneuse d’épreuves.](known-issues-workfront/wf-cannot-close-proofing-viewer.md)
       + [Programmes : impossible d’enregistrer lors de la modification d’un programme](known-issues-workfront/wf-programs-cannot-save-when-editing-program.md)
       + [Approbations : les boutons de décision d’approbation ne s’affichent pas dans la visionneuse d’épreuve.](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md)
       + [Approbations : l’approbation indique « Aucune échéance » lorsque l’heure n’est pas incluse dans l’échéance.](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)
@@ -203,7 +203,7 @@ ht-degree: 98%
       + [Les liens d’aide in-app de [!DNL Workfront Fusion] ne mènent pas à des pages d’aide spécifiques.](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + Application mobile [!DNL Workfront] {#mobile}
-   + [Problèmes connus dans l’application mobile  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problèmes connus dans l’application mobile  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 
