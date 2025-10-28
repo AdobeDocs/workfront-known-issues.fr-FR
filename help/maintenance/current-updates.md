@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 932556d1c72aa33e9169034f41f6250d249a228b
-workflow-type: ht
-source-wordcount: '2314'
-ht-degree: 100%
+source-git-commit: fa2cfd357e63ec39c64926865584ba39a78f75a6
+workflow-type: tm+mt
+source-wordcount: '2492'
+ht-degree: 97%
 
 ---
 
@@ -25,6 +25,40 @@ Pour connaître les mises à jour de maintenance antérieures à 2025, consultez
 Les mises à jour de maintenance suivantes ont été effectuées en 2025.
 
 ## Mises à jour d’octobre 2025
+
++++**Semaine des mises à jour de maintenance du 19 au 25 octobre 2025**
+
+### Semaine des mises à jour de maintenance du 19 au 25 octobre 2025
+
+#### Formulaires personnalisés
+
+**La logique d’affichage des champs n’est pas correctement suivie**
+
+Lorsqu’un utilisateur ou une utilisatrice remplit un formulaire personnalisé qui inclut une logique d’affichage (certains champs sont affichés ou non en fonction des valeurs d’autres champs), les champs ne sont pas affichés conformément à la logique de ces champs.
+
+#### Épreuves
+
+**Impossible de fermer la visionneuse de relecture**
+
+Lorsqu’un utilisateur ou une utilisatrice consulte une épreuve dans la visionneuse de relecture et tente de fermer l’épreuve en cliquant sur le X dans le coin supérieur droit, l’épreuve ne se ferme pas.
+
++++
+
++++**Semaine des mises à jour de maintenance du 12 au 18 octobre 2025**
+
+### Semaine de mise à jour de maintenance du 12 au 18 octobre 2025
+
+Les mises à jour de cette semaine incluent uniquement des correctifs mineurs ou moins importants. L’assistance Workfront vous avertira lorsqu’un problème que vous avez soumis sera résolu.
+
++++
+
++++**Semaine des mises à jour de maintenance du 5 au 11 octobre 2025**
+
+### Semaine de mise à jour de maintenance du 5 au 11 octobre 2025
+
+Les mises à jour de cette semaine incluent uniquement des correctifs mineurs ou moins importants. L’assistance Workfront vous avertira lorsqu’un problème que vous avez soumis sera résolu.
+
++++
 
 +++**Mises à jour de maintenance, semaine du 28 septembre au 4 octobre 2025**
 

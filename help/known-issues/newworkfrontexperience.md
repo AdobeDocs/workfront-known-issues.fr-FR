@@ -4,10 +4,10 @@ description: 'Problèmes signalés et connus dans la nouvelle expérience [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 5c84b9ef86098c4ea9cc880d276ad7f73a395bec
-workflow-type: ht
-source-wordcount: '1042'
-ht-degree: 100%
+source-git-commit: fa2cfd357e63ec39c64926865584ba39a78f75a6
+workflow-type: tm+mt
+source-wordcount: '1033'
+ht-degree: 99%
 
 ---
 
@@ -25,8 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Formulaires personnalisés : la logique d’affichage des champs n’est pas correctement suivie.](known-issues-workfront/wf-custom-forms-display-logic-triggering-incorrectly.md) | 14 octobre 2025 |
-| [Épreuves : impossible de fermer la visionneuse d’épreuves](known-issues-workfront/wf-cannot-close-proofing-viewer.md) | 14 octobre 2025 |
+| [Rapports : problèmes liés aux listes déroulantes dans les graphiques](known-issues-workfront/wf-reports-dropdown-not-working.md) | mercredi 28 octobre 2025 |
 | [Utilisateurs et utilisatrice : impossible de modifier le niveau d’accès d’une personne](known-issues-workfront/wf-users-cannot-change-access-level.md) | 11 septembre 2025 |
 | [Intégrations : lier un dossier depuis [!DNL Google Drive] ne lie pas les ressources dans le dossier.](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juin 2024 |
 

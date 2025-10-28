@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 5c84b9ef86098c4ea9cc880d276ad7f73a395bec
-workflow-type: ht
-source-wordcount: '1461'
-ht-degree: 100%
+source-git-commit: fa2cfd357e63ec39c64926865584ba39a78f75a6
+workflow-type: tm+mt
+source-wordcount: '1467'
+ht-degree: 99%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
+      + [Rapports : problèmes liés aux listes déroulantes dans les graphiques](known-issues-workfront/wf-reports-dropdown-not-working.md)
       + [Utilisateurs et utilisatrices : impossible d’utiliser les options avancées lors de la création d’utilisateurs et d’utilisatrices](/help/known-issues/known-issues-workfront/wf-users-cannot-use-advanced-options.md)
       + [Formulaires personnalisés : la logique d’affichage des champs n’est pas correctement suivie.](known-issues-workfront/wf-custom-forms-display-logic-triggering-incorrectly.md)
       + [Épreuves : impossible de fermer la visionneuse d’épreuves.](known-issues-workfront/wf-cannot-close-proofing-viewer.md)
