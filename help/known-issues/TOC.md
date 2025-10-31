@@ -3,9 +3,9 @@ user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
 source-git-commit: fa2cfd357e63ec39c64926865584ba39a78f75a6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1467'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
-      + [Rapports : problèmes liés aux listes déroulantes dans les graphiques](known-issues-workfront/wf-reports-dropdown-not-working.md)
+      + [Rapports : problèmes liés aux listes déroulantes dans les graphiques](known-issues-workfront/wf-reports-dropdown-not-working.md)
       + [Utilisateurs et utilisatrices : impossible d’utiliser les options avancées lors de la création d’utilisateurs et d’utilisatrices](/help/known-issues/known-issues-workfront/wf-users-cannot-use-advanced-options.md)
       + [Formulaires personnalisés : la logique d’affichage des champs n’est pas correctement suivie.](known-issues-workfront/wf-custom-forms-display-logic-triggering-incorrectly.md)
       + [Épreuves : impossible de fermer la visionneuse d’épreuves.](known-issues-workfront/wf-cannot-close-proofing-viewer.md)
@@ -204,7 +204,7 @@ ht-degree: 99%
       + [Les liens d’aide in-app de [!DNL Workfront Fusion] ne mènent pas à des pages d’aide spécifiques.](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + Application mobile [!DNL Workfront] {#mobile}
-   + [Problèmes connus dans l’application mobile  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problèmes connus dans l’application mobile  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 
