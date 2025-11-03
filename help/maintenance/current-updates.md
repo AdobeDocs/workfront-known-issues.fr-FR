@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 99364233b38b7b2e12c20b6a8185ebef9796552c
-workflow-type: ht
-source-wordcount: '2492'
-ht-degree: 100%
+source-git-commit: 21ce5890bfe3ca5bf5080fe3c0c8aec8dcb14e89
+workflow-type: tm+mt
+source-wordcount: '2607'
+ht-degree: 98%
 
 ---
 
@@ -23,6 +23,39 @@ Ces mises à jour incluent également d’autres correctifs mineurs ou moins con
 Pour connaître les mises à jour de maintenance antérieures à 2025, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates).
 
 Les mises à jour de maintenance suivantes ont été effectuées en 2025.
+
+
+
+## Mises à jour de novembre 2025
+
++++**Semaine des mises à jour de maintenance du 26 octobre au 1er novembre 2025**
+
+### Semaine des mises à jour de maintenance du 26 octobre au 1er novembre 2025
+
+#### Rapports
+
+**Problèmes liés aux listes déroulantes dans les graphiques**
+
+Les problèmes suivants ont été signalés concernant les listes déroulantes dans les graphiques :
+
+* Lors de la consultation d’un rapport avec une colonne déroulante et la fonction Graphique, la liste déroulante de la fenêtre Graphique ne fonctionne pas.
+* L’affectation de personnes à partir d’un rapport dans une liste déroulante n’est pas enregistrée.
+
+#### Utilisateurs et utilisatrices
+
+**Impossible d’utiliser les options avancées lors de la création d’utilisateurs**
+
+Lorsque l’équipe d’administration de Workfront crée un utilisateur ou une utilisatrice et tente d’utiliser l’option avancée, elle ne peut pas utiliser les options et le message suivant apparaît :
+
+```
+Cannot read properties of undefined (reading 'sections')
+
+Cannot read properties of undefined (reading 'sections')
+
+Error fetching object details
+```
+
++++
 
 ## Mises à jour d’octobre 2025
 

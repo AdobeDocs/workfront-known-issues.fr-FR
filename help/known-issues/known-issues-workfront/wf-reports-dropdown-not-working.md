@@ -3,15 +3,19 @@ title: 'Rapports : problèmes liés aux listes déroulantes dans les graphiques
 description: Des problèmes ont été signalés concernant les listes déroulantes dans les graphiques.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: b226eee1f982acf3e37c6d2c319067e139f6c559
-workflow-type: ht
-source-wordcount: '79'
+source-git-commit: 21ce5890bfe3ca5bf5080fe3c0c8aec8dcb14e89
+workflow-type: tm+mt
+source-wordcount: '85'
 ht-degree: 100%
 
 ---
 
 
 # Rapports : problèmes liés aux listes déroulantes dans les graphiques
+
+>[!NOTE]
+>
+>Ce problème a été résolu le jeudi 29 octobre 2025.
 
 Les problèmes suivants ont été signalés concernant les listes déroulantes dans les graphiques :
 
