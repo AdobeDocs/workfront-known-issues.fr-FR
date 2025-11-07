@@ -4,7 +4,7 @@ description: Des problèmes ont été signalés concernant les listes déroulant
 hidefromtoc: true
 feature: Reports and Dashboards
 source-git-commit: 21ce5890bfe3ca5bf5080fe3c0c8aec8dcb14e89
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Ce problème a été résolu le jeudi 29 octobre 2025.
+>Ce problème a été résolu le 29 octobre 2025.
 
 Les problèmes suivants ont été signalés concernant les listes déroulantes dans les graphiques :
 

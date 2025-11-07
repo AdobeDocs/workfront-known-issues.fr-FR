@@ -4,7 +4,7 @@ description: Lorsque l’équipe d’administration Workfront crée un utilisate
 hidefromtoc: true
 feature: People Teams and Groups
 source-git-commit: 21ce5890bfe3ca5bf5080fe3c0c8aec8dcb14e89
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Ce problème a été résolu le mardi 27 octobre 2025.
+>Ce problème a été résolu le 27 octobre 2025.
 
 Lorsque l’équipe d’administration de Workfront crée un utilisateur ou une utilisatrice et tente d’utiliser l’option avancée, elle ne peut pas utiliser les options et le message suivant apparaît :
 
