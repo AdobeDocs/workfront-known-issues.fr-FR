@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 0329ebb285dcf771bd23b0cebf93e36152d6587f
 workflow-type: tm+mt
 source-wordcount: '2646'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -36,9 +36,9 @@ Les mises à jour de cette semaine incluent uniquement des correctifs mineurs ou
 
 +++
 
-+++**Semaine des mises à jour de maintenance du 26 octobre au 1er novembre 2025**
++++**Mises à jour de maintenance, semaine du 26 octobre au 1er novembre 2025**
 
-### Semaine des mises à jour de maintenance du 26 octobre au 1er novembre 2025
+### Mises à jour de maintenance, semaine du 26 octobre au 1er novembre 2025
 
 #### Rapports
 
@@ -51,7 +51,7 @@ Les problèmes suivants ont été signalés concernant les listes déroulantes d
 
 #### Utilisateurs et utilisatrices
 
-**Impossible d’utiliser les options avancées lors de la création d’utilisateurs**
+**Impossible d’utiliser les options avancées lors de la création d’utilisateurs et d’utilisatrices**
 
 Lorsque l’équipe d’administration de Workfront crée un utilisateur ou une utilisatrice et tente d’utiliser l’option avancée, elle ne peut pas utiliser les options et le message suivant apparaît :
 
