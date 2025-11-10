@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 0329ebb285dcf771bd23b0cebf93e36152d6587f
+source-git-commit: d632bcd074dcec7145a788ea5ad7e08c78ca9a57
 workflow-type: tm+mt
-source-wordcount: '2646'
-ht-degree: 99%
+source-wordcount: '2712'
+ht-degree: 97%
 
 ---
 
@@ -27,6 +27,18 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2025.
 
 
 ## Mises à jour de novembre 2025
+
++++**Semaine des mises à jour de maintenance du 9 au 15 novembre 2025**
+
+### Semaine des mises à jour de maintenance du 9 au 15 novembre 2025
+
+#### Tâches
+
+**L’ajout de prédécesseurs ne dépend plus des sous-paramètres Modifier des tâches dans le niveau d’accès**
+
+Les utilisateurs peuvent ajouter des prédécesseurs aux tâches lorsque l’accès Modifier est activé pour les tâches dans leur niveau d’accès, quels que soient les sous-paramètres que vous avez sélectionnés. Cela est désormais cohérent avec la fonctionnalité d’API existante.
+
++++
 
 +++**Semaine des mises à jour de maintenance du 2 au 8 novembre 2025**
 
