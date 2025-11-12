@@ -40,9 +40,9 @@ Les utilisateurs peuvent ajouter des prédécesseurs aux tâches lorsque l’acc
 
 +++
 
-+++**Semaine des mises à jour de maintenance du 2 au 8 novembre 2025**
++++**Mises à jour de maintenance, semaine du 2 au 8 novembre 2025**
 
-### Semaine des mises à jour de maintenance du 2 au 8 novembre 2025
+### Mises à jour de maintenance, semaine du 2 au 8 novembre 2025
 
 Les mises à jour de cette semaine incluent uniquement des correctifs mineurs ou moins importants. L’assistance Workfront vous avertira lorsqu’un problème que vous avez soumis sera résolu.
 
