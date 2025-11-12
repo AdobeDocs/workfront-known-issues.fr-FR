@@ -3,9 +3,9 @@ user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
 source-git-commit: e18ef3485c84425e550a8edf4c1d25182307687b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1492'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -17,8 +17,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
-      + [Validations : liens vers les validations non disponibles](known-issues-workfront/wf-approvals-link-not-appearing.md)
-      + [Demandes : le créateur du formulaire de demande n’a pas accès au formulaire.](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md)
+      + [Approbations : liens vers les approbations non disponibles](known-issues-workfront/wf-approvals-link-not-appearing.md)
+      + [Demandes : le créateur ou la créatrice du formulaire de demande n’a pas accès au formulaire.](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md)
       + [Utilisateurs et utilisatrices : il n’est possible de rechercher des fonctions qu’à l’aide du premier mot.](known-issues-workfront/wf-users-job-role-first-word.md)
       + [Rapports : problèmes liés aux listes déroulantes dans les graphiques](known-issues-workfront/wf-reports-dropdown-not-working.md)
       + [Utilisateurs et utilisatrices : impossible d’utiliser les options avancées lors de la création d’utilisateurs et d’utilisatrices](/help/known-issues/known-issues-workfront/wf-users-cannot-use-advanced-options.md)
@@ -207,7 +207,7 @@ ht-degree: 98%
       + [Les liens d’aide in-app de [!DNL Workfront Fusion] ne mènent pas à des pages d’aide spécifiques.](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + Application mobile [!DNL Workfront] {#mobile}
-   + [Problèmes connus dans l’application mobile  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problèmes connus dans l’application mobile  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 
