@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: d632bcd074dcec7145a788ea5ad7e08c78ca9a57
+source-git-commit: f02312a28e7585e19c4718a71b5198e6e616660a
 workflow-type: tm+mt
-source-wordcount: '2712'
-ht-degree: 97%
+source-wordcount: '2790'
+ht-degree: 94%
 
 ---
 
@@ -27,6 +27,18 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2025.
 
 
 ## Mises à jour de novembre 2025
+
++++**Semaine des mises à jour de maintenance pour la planification Workfront, du 9 au 15 novembre 2025**
+
+### Semaine des mises à jour de maintenance pour la planification Workfront du 9 au 15 novembre 2025
+
+#### Types d’enregistrements
+
+**L’ajout de prédécesseurs ne dépend plus des sous-paramètres Modifier des tâches dans le niveau d’accès**
+
+Nous avons supprimé les options Modifier et Paramètres du menu Plus d’un type d’enregistrement global qui a été ajouté à un espace de travail secondaire à partir d’un type d’enregistrement global existant. Avant cette mise à jour, les menus étaient grisés et non fonctionnels.
+
++++
 
 +++**Semaine des mises à jour de maintenance du 9 au 15 novembre 2025**
 
