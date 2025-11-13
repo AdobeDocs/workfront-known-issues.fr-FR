@@ -3,9 +3,9 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f02312a28e7585e19c4718a71b5198e6e616660a
+source-git-commit: ec8f8260e5ea153b05ca359e4466d98e0bfe4ac0
 workflow-type: tm+mt
-source-wordcount: '2790'
+source-wordcount: '2791'
 ht-degree: 94%
 
 ---
@@ -34,7 +34,7 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2025.
 
 #### Types d’enregistrements
 
-**L’ajout de prédécesseurs ne dépend plus des sous-paramètres Modifier des tâches dans le niveau d’accès**
+**Les options Modifications et Paramètres ont été supprimées du menu Plus dans un type d’enregistrement**
 
 Nous avons supprimé les options Modifier et Paramètres du menu Plus d’un type d’enregistrement global qui a été ajouté à un espace de travail secondaire à partir d’un type d’enregistrement global existant. Avant cette mise à jour, les menus étaient grisés et non fonctionnels.
 
