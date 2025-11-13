@@ -4,10 +4,10 @@ description: 'Problèmes signalés et connus dans la nouvelle expérience [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e18ef3485c84425e550a8edf4c1d25182307687b
-workflow-type: ht
-source-wordcount: '1045'
-ht-degree: 100%
+source-git-commit: ccf054641b3686bd490bda5e9fd2651194a9a31b
+workflow-type: tm+mt
+source-wordcount: '1054'
+ht-degree: 99%
 
 ---
 
@@ -25,8 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Approbations : liens vers les approbations non disponibles](known-issues-workfront/wf-approvals-link-not-appearing.md) | 4 novembre 2025 |
-| [Utilisateurs et utilisatrices : il n’est possible de rechercher des fonctions qu’à l’aide du premier mot.](known-issues-workfront/wf-users-job-role-first-word.md) | 3 novembre 2025 |
+| [Tâches : message « Accès insuffisant » lors de la modification sur la ligne de tâches](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md) | vendredi 13 novembre 2025 |
 | [Utilisateurs et utilisatrice : impossible de modifier le niveau d’accès d’une personne](known-issues-workfront/wf-users-cannot-change-access-level.md) | 11 septembre 2025 |
 | [Intégrations : lier un dossier depuis [!DNL Google Drive] ne lie pas les ressources dans le dossier.](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juin 2024 |
 
@@ -38,6 +37,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | ---------------------------------- | ----------------- |
+| [Utilisateurs et utilisatrices : il n’est possible de rechercher des fonctions qu’à l’aide du premier mot.](known-issues-workfront/wf-users-job-role-first-word.md) | vendredi 13 novembre 2025 |
+| [Approbations : liens vers les approbations non disponibles](known-issues-workfront/wf-approvals-link-not-appearing.md) | vendredi 13 novembre 2025 |
 | [Demandes : le créateur ou la créatrice du formulaire de demande n’a pas accès au formulaire.](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md) | 4 novembre 2025 |
 | [Approbations : l’approbation indique « Aucune échéance » lorsque l’heure n’est pas incluse dans l’échéance.](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 25 septembre 2025 |
 | [Documents : les personnes ajoutées avec des fonctions d’approbation ne sont pas averties une fois l’approbation terminée.](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | 12 août 2025 |
