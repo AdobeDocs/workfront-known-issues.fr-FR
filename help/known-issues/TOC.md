@@ -2,9 +2,9 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: ccf054641b3686bd490bda5e9fd2651194a9a31b
+source-git-commit: b321b403f73cc06c13341286b651f5df0a77add2
 workflow-type: tm+mt
-source-wordcount: '1500'
+source-wordcount: '1504'
 ht-degree: 99%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
+      + [Feuilles de temps : feuilles de temps non générées](known-issues-workfront/wf-timesheets-not-generated.md)
       + [Tâches : message « Accès insuffisant » lors de la modification sur la ligne de tâches](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md)
       + [Approbations : liens vers les approbations non disponibles](known-issues-workfront/wf-approvals-link-not-appearing.md)
       + [Demandes : le créateur ou la créatrice du formulaire de demande n’a pas accès au formulaire.](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md)
@@ -208,7 +209,7 @@ ht-degree: 99%
       + [Les liens d’aide in-app de [!DNL Workfront Fusion] ne mènent pas à des pages d’aide spécifiques.](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + Application mobile [!DNL Workfront] {#mobile}
-   + [Problèmes connus dans l’application mobile  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problèmes connus dans l’application mobile  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 
