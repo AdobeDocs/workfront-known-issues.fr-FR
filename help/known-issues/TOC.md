@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: b321b403f73cc06c13341286b651f5df0a77add2
+source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
 workflow-type: tm+mt
-source-wordcount: '1504'
-ht-degree: 99%
+source-wordcount: '1534'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
+      + [Demandes : autorisations non héritées lors de la création d’une demande](known-issues-workfront/wf-requests-permissions-not-inherited.md)
+      + [Plannings : autorisations de planification révoquées pour un groupe](known-issues-workfront/wf-schedules-group-permissions-revoked.md)
+      + [Affectations : les affectations d’équipe ne sont pas enregistrées](known-issues-workfront/wf-assignments-not-saved.md)
+      + [Tâches : les heures planifiées ne sont pas enregistrées lors de la création de la tâche](known-issues-workfront/wf-tasks-planned-hours-not-saving.md)
       + [Feuilles de temps : feuilles de temps non générées](known-issues-workfront/wf-timesheets-not-generated.md)
       + [Tâches : message « Accès insuffisant » lors de la modification sur la ligne de tâches](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md)
       + [Approbations : liens vers les approbations non disponibles](known-issues-workfront/wf-approvals-link-not-appearing.md)
@@ -209,7 +213,7 @@ ht-degree: 99%
       + [Les liens d’aide in-app de [!DNL Workfront Fusion] ne mènent pas à des pages d’aide spécifiques.](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + Application mobile [!DNL Workfront] {#mobile}
-   + [Problèmes connus dans l’application mobile  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problèmes connus dans l’application mobile  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 
