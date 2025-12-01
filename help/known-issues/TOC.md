@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
+source-git-commit: 9bd7c64b0eae377690fee280ef77691b7b2ad446
 workflow-type: tm+mt
-source-wordcount: '1534'
-ht-degree: 97%
+source-wordcount: '1552'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
+      + [Tâches : les modifications apportées à la section Affectations d’une tâche ne sont pas enregistrées](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md)
+      + [Utilisateurs : problèmes liés aux modifications apportées au profil d&#39;épreuve](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md)
       + [Demandes : autorisations non héritées lors de la création d’une demande](known-issues-workfront/wf-requests-permissions-not-inherited.md)
       + [Plannings : autorisations de planification révoquées pour un groupe](known-issues-workfront/wf-schedules-group-permissions-revoked.md)
       + [Affectations : les affectations d’équipe ne sont pas enregistrées](known-issues-workfront/wf-assignments-not-saved.md)
@@ -213,7 +215,7 @@ ht-degree: 97%
       + [Les liens d’aide in-app de [!DNL Workfront Fusion] ne mènent pas à des pages d’aide spécifiques.](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + Application mobile [!DNL Workfront] {#mobile}
-   + [Problèmes connus dans l’application mobile  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problèmes connus dans l’application mobile  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 
