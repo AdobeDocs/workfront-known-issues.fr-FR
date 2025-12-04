@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
+source-git-commit: 714d49f190bbe66d94c2cd86d68e46500f130d1a
 workflow-type: tm+mt
-source-wordcount: '2900'
-ht-degree: 91%
+source-wordcount: '2943'
+ht-degree: 90%
 
 ---
 
@@ -24,7 +24,15 @@ Pour connaître les mises à jour de maintenance antérieures à 2025, consultez
 
 Les mises à jour de maintenance suivantes ont été effectuées en 2025.
 
+## Mises à jour de décembre 2025
 
++++**Semaine des mises à jour de maintenance du 30 novembre au 6 décembre 2025**
+
+### Semaine des mises à jour de maintenance du 30 novembre au 6 décembre 2025
+
+Les mises à jour de cette semaine incluent uniquement des correctifs mineurs ou moins importants. L’assistance Workfront vous avertira lorsqu’un problème que vous avez soumis sera résolu.
+
++++
 
 ## Mises à jour de novembre 2025
 
