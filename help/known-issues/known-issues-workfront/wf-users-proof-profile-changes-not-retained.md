@@ -3,15 +3,19 @@ title: 'Utilisateurs : problèmes liés aux modifications apportées au profil d
 description: Des problèmes ont été signalés concernant la modification du profil d’épreuve d’un utilisateur.
 hidefromtoc: true
 feature: People Teams and Groups, Digital Content and Documents
-source-git-commit: 9bd7c64b0eae377690fee280ef77691b7b2ad446
+source-git-commit: 11192c5977f47ed04fd7cef0b059d20a8af29221
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 3%
+source-wordcount: '113'
+ht-degree: 8%
 
 ---
 
 
 # Utilisateurs : problèmes liés aux modifications apportées au profil d&#39;épreuve
+
+>[!NOTE]
+>
+>Ce problème a été résolu le samedi 5 décembre 2025.
 
 Les problèmes suivants ont été signalés concernant la modification du profil d’épreuve d’un utilisateur :
 

@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 29a523089c599950569751be3e2dc214f5c1bb62
+source-git-commit: 11192c5977f47ed04fd7cef0b059d20a8af29221
 workflow-type: tm+mt
-source-wordcount: '1570'
-ht-degree: 95%
+source-wordcount: '1579'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
+      + [Tâches : les modifications apportées à une tâche ne sont pas enregistrées](known-issues-workfront/wf-tasks-inline-changes-not-saving.md)
       + [Utilisateurs : la modification en masse d’utilisateurs supprime les pools de ressources et les rapports directs](known-issues-workfront/wf-users-bulk-editing-clears-resource-pools.md)
       + [Demandes : impossible de charger le document à demander à partir de GDrive](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md)
       + [Tâches : les modifications apportées à la section Affectations d’une tâche ne sont pas enregistrées](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md)
@@ -217,7 +218,7 @@ ht-degree: 95%
       + [Les liens d’aide in-app de [!DNL Workfront Fusion] ne mènent pas à des pages d’aide spécifiques.](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + Application mobile [!DNL Workfront] {#mobile}
-   + [Problèmes connus dans l’application mobile  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problèmes connus dans l’application mobile  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 
