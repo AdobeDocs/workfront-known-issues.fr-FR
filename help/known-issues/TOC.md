@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 11192c5977f47ed04fd7cef0b059d20a8af29221
+source-git-commit: d01bdae322f5bf46acc55fd638df4cc995b4fe2a
 workflow-type: tm+mt
-source-wordcount: '1579'
-ht-degree: 94%
+source-wordcount: '1607'
+ht-degree: 92%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
+      + [Formulaires personnalisés : impossible de modifier les champs de texte enrichi](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md)
+      + [Utilisateurs : erreur à l’ouverture de la page Utilisateurs](known-issues-workfront/wf-users-cannot-open-user-tab.md)
+      + [Tâches : impossible de sélectionner le rôle utilisateur lors de la création d’une tâche](known-issues-workfront/wf-tasks-cannot-assign-user-role.md)
+      + [BAT : les modifications du statut du BAT sont retardées](known-issues-workfront/wf-proof-status-sync-delayed.md)
       + [Tâches : les modifications apportées à une tâche ne sont pas enregistrées](known-issues-workfront/wf-tasks-inline-changes-not-saving.md)
       + [Utilisateurs : la modification en masse d’utilisateurs supprime les pools de ressources et les rapports directs](known-issues-workfront/wf-users-bulk-editing-clears-resource-pools.md)
       + [Demandes : impossible de charger le document à demander à partir de GDrive](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md)
@@ -218,7 +222,7 @@ ht-degree: 94%
       + [Les liens d’aide in-app de [!DNL Workfront Fusion] ne mènent pas à des pages d’aide spécifiques.](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + Application mobile [!DNL Workfront] {#mobile}
-   + [Problèmes connus dans l’application mobile  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problèmes connus dans l’application mobile  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 
