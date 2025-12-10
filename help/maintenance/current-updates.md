@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 714d49f190bbe66d94c2cd86d68e46500f130d1a
+source-git-commit: bc0c04caa8b45bc8bd9e0417f4ca3713741ab852
 workflow-type: tm+mt
-source-wordcount: '2943'
-ht-degree: 90%
+source-wordcount: '3008'
+ht-degree: 89%
 
 ---
 
@@ -25,6 +25,20 @@ Pour connaître les mises à jour de maintenance antérieures à 2025, consultez
 Les mises à jour de maintenance suivantes ont été effectuées en 2025.
 
 ## Mises à jour de décembre 2025
+
++++**Semaine des mises à jour de maintenance du 7 au 13 décembre 2025**
+
+### Semaine des mises à jour de maintenance du 7 au 13 décembre 2025
+
+#### Utilisateurs et utilisatrices
+
+**La modification en masse d’utilisateurs supprime les pools de ressources et les rapports directs**
+
+Lorsque l’utilisateur modifie des utilisateurs en masse, clique dans le champ Pools de ressources et ne saisit pas de valeur, les pools de ressources de tous les utilisateurs modifiés sont supprimés.
+
+La modification en masse peut également supprimer les rapports directs des utilisateurs modifiés.
+
++++
 
 +++**Semaine des mises à jour de maintenance du 30 novembre au 6 décembre 2025**
 
