@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: bc0c04caa8b45bc8bd9e0417f4ca3713741ab852
+source-git-commit: e55fc268af331c75b7f2d1094edf483668e97080
 workflow-type: tm+mt
-source-wordcount: '3008'
-ht-degree: 89%
+source-wordcount: '3103'
+ht-degree: 87%
 
 ---
 
@@ -30,6 +30,13 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2025.
 
 ### Semaine des mises à jour de maintenance du 7 au 13 décembre 2025
 
+#### Demandes
+
+**Impossible de charger le document à demander à GDrive**
+
+Lorsque l’utilisateur crée une demande dans la nouvelle expérience de demande et tente de charger un document à partir de GDrive, la fenêtre de GDrive ne répond pas. L’utilisateur ne peut pas sélectionner de fichier ni fermer la fenêtre.
+
+
 #### Utilisateurs et utilisatrices
 
 **La modification en masse d’utilisateurs supprime les pools de ressources et les rapports directs**
@@ -37,6 +44,12 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2025.
 Lorsque l’utilisateur modifie des utilisateurs en masse, clique dans le champ Pools de ressources et ne saisit pas de valeur, les pools de ressources de tous les utilisateurs modifiés sont supprimés.
 
 La modification en masse peut également supprimer les rapports directs des utilisateurs modifiés.
+
+**Erreur lors de l’ouverture de la page Utilisateurs**
+
+Lorsque l’utilisateur tente d’ouvrir la page Utilisateurs depuis le menu principal, la page ne s’ouvre pas et le message suivant apparaît :
+
+« Une erreur s’est produite et nous travaillons à résoudre le problème. Pour continuer votre travail, essayez d’actualiser cette page du navigateur. »
 
 +++
 
