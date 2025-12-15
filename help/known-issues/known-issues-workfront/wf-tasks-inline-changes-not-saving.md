@@ -3,10 +3,10 @@ title: Les modifications intégrées apportées à une tâche ne sont pas enregi
 description: Lorsque l’utilisateur apporte des modifications à la section Modifications d’une tâche dans la boîte de dialogue de la tâche héritée et enregistre, les modifications ne sont pas enregistrées.
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 11192c5977f47ed04fd7cef0b059d20a8af29221
+source-git-commit: 7039085dbf83aa47d1ba70c8484e5d8572dee770
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 5%
+source-wordcount: '91'
+ht-degree: 12%
 
 ---
 
@@ -15,7 +15,8 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->Ce problème s’applique à l’expérience de tâche héritée.
+>* Ce problème a été résolu le mardi 15 décembre 2025.
+>* Ce problème s’applique à l’expérience de tâche héritée.
 
 Lorsque l’utilisateur apporte des modifications sur la ligne à une tâche dans l’expérience de tâche héritée et les enregistre, les modifications ne sont pas enregistrées.
 

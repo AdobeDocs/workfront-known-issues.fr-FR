@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e55fc268af331c75b7f2d1094edf483668e97080
+source-git-commit: 7039085dbf83aa47d1ba70c8484e5d8572dee770
 workflow-type: tm+mt
-source-wordcount: '3103'
-ht-degree: 87%
+source-wordcount: '3210'
+ht-degree: 84%
 
 ---
 
@@ -25,6 +25,30 @@ Pour connaître les mises à jour de maintenance antérieures à 2025, consultez
 Les mises à jour de maintenance suivantes ont été effectuées en 2025.
 
 ## Mises à jour de décembre 2025
+
++++**Semaine des mises à jour de maintenance du 14 au 20 décembre 2025**
+
+### Semaine des mises à jour de maintenance du 14 au 20 décembre 2025
+
+#### Affectations
+
+**Les affectations d’équipe ne sont pas enregistrées**
+
+Lorsque l’utilisateur affecte une équipe à une tâche dans Workfront, l’affectation de l’équipe n’est pas enregistrée et l’équipe n’est pas avertie du travail.
+
+#### Tâches
+
+**Les modifications intégrées apportées à une tâche ne sont pas enregistrées**
+
+Lorsque l’utilisateur apporte des modifications sur la ligne à une tâche dans l’expérience de tâche héritée et les enregistre, les modifications ne sont pas enregistrées.
+
+#### Feuilles de temps
+
+**feuilles de temps non générées**
+
+Les feuilles de temps ne sont pas générées automatiquement comme prévu. Cela peut se produire même si les profils des feuilles de temps sont précis et que les feuilles de temps des autres semaines sont générées correctement.
+
++++
 
 +++**Semaine des mises à jour de maintenance du 7 au 13 décembre 2025**
 
