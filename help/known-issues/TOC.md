@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 7039085dbf83aa47d1ba70c8484e5d8572dee770
+source-git-commit: fb31912bbb8e62578293dc0b4df3761f433913da
 workflow-type: tm+mt
-source-wordcount: '1632'
-ht-degree: 91%
+source-wordcount: '1641'
+ht-degree: 90%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 91%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
+      + [Workfront Planning : impossible d’ajouter un champ à une vue](known-issues-workfront/wf-planning-cannot-add-field.md)
       + [Approbations : le widget Mes approbations affiche les approbations terminées](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md)
       + [Workfront Planning : erreur lors de la suppression d’un champ connecté](known-issues-workfront/wf-planning-cannot-delete-connected-field.md)
       + [Utilisateurs : l’option de génération automatique d’épreuves est absente du profil utilisateur](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md)
@@ -171,13 +172,13 @@ ht-degree: 91%
       + [[!UICONTROL Accueil] : l’option Nouvelle tâche indique des utilisateurs et des utilisatrices désactivés dans le champ [!UICONTROL Affecter à].](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md)
       + [Mises à jour : le nom de l’équipe n’apparaît pas dans @mention.](known-issues-workfront/inactive/wf-updates-team-name-not-in-mention.md)
       + [Agile : incohérence dans les [!UICONTROL Points terminés] d’une itération](known-issues-workfront/inactive/wf-agile-discrepancy-in-completed-points.md)
-      + [Notifications par e-mail : « [!UICONTROL Je suis affecté à un événement] » apparaît.](known-issues-workfront/inactive/wf-email-notif-im-assigned-to-issue-displaying.md)
+      + [Notifications par e-mail : « [!UICONTROL Je suis affecté à un événement] » apparaît](known-issues-workfront/inactive/wf-email-notif-im-assigned-to-issue-displaying.md)
       + [Notifications par e-mail : la personne utilisatrice n’est pas redirigée vers le fil de commentaires.](known-issues-workfront/inactive/wf-email-notif-user-not-directed-to-thread.md)
       + [Calendriers : [!DNL OR] l’instruction de filtre exclut la règle de filtrage](known-issues-workfront/inactive/wf-calendars-or-filter-statement.md)
       + [Rapports : le calendrier indique par défaut les anciennes dates.](known-issues-workfront/inactive/wf-reports-caledar-defaults-to-old-dates.md)
       + [Notifications par e-mail : les e-mails ne sont pas formatés correctement dans [!DNL Outlook].](known-issues-workfront/inactive/wf-email-notif-not-formatting-in-outlook.md)
       + [Listes : le nom d’affichage ne s’applique pas au regroupement de champs personnalisés.](known-issues-workfront/inactive/wf-lists-display-name-not-applied-to-grouping.md)
-      + [Calendrier : les tâches n’apparaissent pas.](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md)
+      + [Calendrier : les tâches n’apparaissent pas](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md)
 
 
 
@@ -225,7 +226,7 @@ ht-degree: 91%
       + [Les liens d’aide in-app de [!DNL Workfront Fusion] ne mènent pas à des pages d’aide spécifiques.](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + Application mobile [!DNL Workfront] {#mobile}
-   + [Problèmes connus dans l’application mobile  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problèmes connus dans l’application mobile  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 
