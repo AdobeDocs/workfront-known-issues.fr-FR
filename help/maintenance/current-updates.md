@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 7039085dbf83aa47d1ba70c8484e5d8572dee770
+source-git-commit: db432f61d90c0900d7522c64c7feb990268b5542
 workflow-type: tm+mt
-source-wordcount: '3210'
-ht-degree: 84%
+source-wordcount: '3378'
+ht-degree: 80%
 
 ---
 
@@ -36,6 +36,13 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2025.
 
 Lorsque l’utilisateur affecte une équipe à une tâche dans Workfront, l’affectation de l’équipe n’est pas enregistrée et l’équipe n’est pas avertie du travail.
 
+#### Planifications
+
+**Autorisations de planification révoquées pour un groupe**
+
+Lorsque l’administrateur de groupes Workfront ajoute une exception de date à un planning et enregistre les modifications, les autorisations liées à ce planning sont supprimées du groupe et l’administrateur Workfront doit accorder l’accès au groupe.
+
+
 #### Tâches
 
 **Les modifications intégrées apportées à une tâche ne sont pas enregistrées**
@@ -47,6 +54,20 @@ Lorsque l’utilisateur apporte des modifications sur la ligne à une tâche dan
 **feuilles de temps non générées**
 
 Les feuilles de temps ne sont pas générées automatiquement comme prévu. Cela peut se produire même si les profils des feuilles de temps sont précis et que les feuilles de temps des autres semaines sont générées correctement.
+
+#### Utilisateurs et utilisatrices
+
+**Problèmes liés aux modifications apportées au profil d’épreuve**
+
+Les problèmes suivants ont été signalés concernant la modification du profil d’épreuve d’un utilisateur :
+
+* Lorsque l’utilisateur affecte un profil d’épreuve différent à un utilisateur et enregistre, la modification n’est pas enregistrée et l’utilisateur conserve le profil d’épreuve précédent.
+* Un profil d’épreuve d’un utilisateur peut s’afficher comme un profil d’épreuve incorrect, même si le profil d’épreuve correct est affecté.
+* Lorsque d’autres modifications sont apportées à un utilisateur, ses autorisations d’épreuve peuvent également changer.
+
+**L’option de génération automatique d’épreuves est absente du profil utilisateur**
+
+Lorsque l’utilisateur consulte un profil utilisateur, l’option « Générer automatiquement des épreuves lors du chargement de documents » n’est pas disponible. Cela peut se produire même si toutes les conditions préalables à l’option ont été remplies.
 
 +++
 

@@ -3,15 +3,19 @@ title: 'Plannings : autorisations de planification révoquées pour un groupe'
 description: Lorsque l’administrateur de groupes Workfront ajoute une exception de date à un planning et enregistre les modifications, les autorisations liées à ce planning sont supprimées du groupe et l’administrateur Workfront doit accorder l’accès au groupe.
 hidefromtoc: true
 feature: Timesheets
-source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
+source-git-commit: db432f61d90c0900d7522c64c7feb990268b5542
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 4%
+source-wordcount: '98'
+ht-degree: 10%
 
 ---
 
 
 # Plannings : autorisations de planification révoquées pour un groupe
+
+>[!NOTE]
+>
+>Ce problème a été résolu le vendredi 18 décembre 2025.
 
 Lorsque l’administrateur de groupes Workfront ajoute une exception de date à un planning et enregistre les modifications, les autorisations liées à ce planning sont supprimées du groupe et l’administrateur Workfront doit accorder l’accès au groupe.
 
