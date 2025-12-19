@@ -15,7 +15,7 @@ ht-degree: 88%
 Pour plus d’informations sur les problèmes de [!DNL Workfront] actuellement identifiés, voir :
 
 * [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
-* [Problèmes connus dans les épreuves de  [!DNL Workfront] ](workfrontproof.md)
+* [Problèmes connus dans les épreuves de  [!DNL Workfront] &#x200B;](workfrontproof.md)
 * [Problèmes connus dans Workfront Fusion](workfrontfusion.md)
 * [Problèmes connus dans la planification de Workfront](workfrontplanning.md)
-* [Problèmes connus dans l’application mobile  [!DNL Workfront] ](workfrontmobile.md)
+* [Problèmes connus dans l’application mobile  [!DNL Workfront] &#x200B;](workfrontmobile.md)
