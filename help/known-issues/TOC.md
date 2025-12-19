@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: fb31912bbb8e62578293dc0b4df3761f433913da
+source-git-commit: 8063c450291e294889aaec3f6484963cba6508ce
 workflow-type: tm+mt
-source-wordcount: '1641'
-ht-degree: 90%
+source-wordcount: '1523'
+ht-degree: 89%
 
 ---
 
@@ -48,28 +48,13 @@ ht-degree: 90%
       + [Approbations : l’approbation indique « Aucune échéance » lorsque l’heure n’est pas incluse dans l’échéance.](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)
       + [Épreuves : impossible de générer une épreuve à partir d’un fichier PowerPoint](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md)
       + [Utilisateurs et utilisatrices : impossible de modifier les paramètres de notification d’une autre personne](known-issues-workfront/wf-users-cannot-edit-another-users-notifications.md)
-      + [Utilisateurs et utilisatrice : impossible de modifier le niveau d’accès d’une personne](known-issues-workfront/wf-users-cannot-change-access-level.md)
       + [Utilisateurs et utilisatrices : impossible de modifier l’ID de fédération d’un utilisateur ou d’une utilisatrice](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md)
-      + [Documents : les personnes ajoutées avec des fonctions d’approbation ne sont pas averties une fois l’approbation terminée.](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md)
-      + [Épreuves : impossible de taguer les utilisateurs et utilisatrices dans les commentaires de l’épreuve](known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md)
-      + [Autorisations : les autorisations d’objet ne sont pas héritées correctement.](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md)
       + [Autorisations : les autorisations d’objet ne sont pas héritées correctement.](known-issues-workfront/wf-permissions-not-inherited-correctly.md)
-      + [Projets : erreur lors de l’ajout d’un projet à un programme](/help/known-issues/known-issues-workfront/wf-projects-error-when-adding-to-program.md)
-      + [Configuration : impossible de se connecter sous une autre identité](known-issues-workfront/wf-setup-cannot-login-as-in-preview.md)
-      + [Intégrations : problèmes d’intégration de Workfront pour Slack](known-issues-workfront/wf-integrations-slack-integration-not-working.md)
-      + [Tâches : la zone Approbations disparaît du volet de navigation de gauche.](known-issues-workfront/wf-tasks-approvals-tab-disappears.md)
-      + [Projets : impossible de déplacer le projet vers le programme spécifié](/help/known-issues/known-issues-workfront/wf-projects-cannot-move-to-program.md)
       + [Workfront : objets désynchronisés entre Workfront et Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md)
       + [Épreuves : impossible d’ajouter des utilisateurs et utilisatrices à une épreuve à l’aide de leur nom dans l’environnement Aperçu](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md)
-      + [Épreuves : impossible d’ouvrir l’épreuve à partir du lien direct](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md)
-      + [Rapports : l’analyse en profondeur du graphique inclut des résultats inexacts.](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md)
-      + [Feuilles de temps : les feuilles de temps ne sont pas générées correctement.](known-issues-workfront/wf-timesheets-one-week-created.md)
-      + [Recherche : la recherche avancée ne renvoie pas les résultats attendus.](/help/known-issues/known-issues-workfront/wf-search-advanced-not-working.md)
       + [Utilisateurs et utilisatrices : le badge « Approbation en attente » s’affiche pour les nouvelles personnes.](known-issues-workfront/wf-users-pending-approval.md)
-      + [Planificateur de ressources : le bouton Exporter est désactivé.](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md)
       + [Épreuves : la fermeture de l’épreuve entraîne une redirection vers la liste des documents.](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md)
       + [Documents : les miniatures des documents ne s’affichent pas.](known-issues-workfront/wf-documents-thumbnails-not-display.md)
-      + [Modèles : impossible de partager avec un accès de type Contribuer](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)
       + [Filtres : la liste déroulante disparaît lorsque vous cliquez sur la barre de défilement](known-issues-workfront/wf-filter-scroll-bar.md)
       + [Projets : le statut de progression du projet n’est pas automatiquement mis à jour sur En retard.](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
       + [Connexion en tant que : les personnes administrant des groupes ne peuvent pas se connecter en tant qu’autre utilisateur ou utilisatrice.](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
@@ -91,7 +76,6 @@ ht-degree: 90%
       + [Workfront : les personnes ayant le niveau d’accès Contributeur ou Contributrice ne peuvent pas accéder aux programmes ou aux portefeuilles](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
       + [Approbations : le filtre « Toutes » exclut les approbations soumises personnellement](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)
       + [Tâches : la durée des jours écoulés est incorrecte pour les tâches parents ayant des tâches enfants](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
-      + [Workfront : le chargement des onglets de navigateur laissés ouverts échoue.](known-issues-workfront/wf-workfront-browser-tabs-error.md)
       + [Modèles de mise en page : les champs de données personnalisés ne s’affichent pas lorsqu’ils sont ajoutés au Résumé de la tâche par le biais du modèle de mise en page.](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
       + [Intégrations : échec des intégrations JumpSeat pour les organisations sur Unified Shell](known-issues-workfront/wf-integrations-jumpseat-error-with-unified-shell.md)
       + [Notifications : les e-mails de notification de document ne peuvent pas afficher de prévisualisations d’images.](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
@@ -142,7 +126,6 @@ ht-degree: 90%
       + [[!UICONTROL Accueil] : l’aperçu du nouveau widget [!UICONTROL Accueil] n’affiche pas le nom correct de l’objet.](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
       + [[!UICONTROL Accueil] : le widget [!UICONTROL Requêtes] n’affiche pas toutes les équipes affectées.](known-issues-workfront/inactive/wf-home-request-shows-one-team.md)
       + [[!UICONTROL Accueil] : le widget [!UICONTROL Mentions] du nouvel [!UICONTROL Accueil] ne se limite pas aux messages dans lesquels la personne est mentionnée.](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md)
-      + [[!UICONTROL Configuration] : impossible d’exporter les journaux d’audit](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md)
       + [Épreuves : les épreuves sont créées lentement dans l’environnement Aperçu](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md)
       + [Formulaires personnalisés : erreur « [!UICONTROL Oups] » lors de la configuration d’un champ calculé](known-issues-workfront/inactive/wf-custom-forms-error-with-calculated-field.md)
       + [Épreuves : l’onglet [!UICONTROL Activité de l’épreuve] ouvre [!UICONTROL Détails de l’épreuve].](known-issues-workfront/inactive/wf-proofs-proofing-activity-redirects-to-details.md)
@@ -225,8 +208,11 @@ ht-degree: 90%
       + [[!DNL Workfront Fusion] : le module  [!DNL Fusion] renvoie une erreur 404 sans autre information.](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [Les liens d’aide in-app de [!DNL Workfront Fusion] ne mènent pas à des pages d’aide spécifiques.](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
++ Planification [!DNL Workfront] {#planning}
+   + [Problèmes connus dans  [!DNL Workfront]  planification](workfrontplanning.md)
+
 + Application mobile [!DNL Workfront] {#mobile}
-   + [Problèmes connus dans l’application mobile  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problèmes connus dans l’application mobile  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 
