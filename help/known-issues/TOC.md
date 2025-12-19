@@ -2,9 +2,9 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8063c450291e294889aaec3f6484963cba6508ce
+source-git-commit: bf06e93ba58692c35f9561c7bed67cb1da3541b5
 workflow-type: tm+mt
-source-wordcount: '1523'
+source-wordcount: '1533'
 ht-degree: 89%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 89%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
+      + [Rapports : les utilisateurs peuvent voir les données financières dans les visualisations du tableau de bord Zone de travail](known-issues-workfront/wf-reporting-users-can-see-financial-date.md)
       + [Workfront Planning : impossible d’ajouter un champ à une vue](known-issues-workfront/wf-planning-cannot-add-field.md)
       + [Approbations : le widget Mes approbations affiche les approbations terminées](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md)
       + [Workfront Planning : erreur lors de la suppression d’un champ connecté](known-issues-workfront/wf-planning-cannot-delete-connected-field.md)
@@ -212,7 +213,7 @@ ht-degree: 89%
    + [Problèmes connus dans  [!DNL Workfront]  planification](workfrontplanning.md)
 
 + Application mobile [!DNL Workfront] {#mobile}
-   + [Problèmes connus dans l’application mobile  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problèmes connus dans l’application mobile  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 
