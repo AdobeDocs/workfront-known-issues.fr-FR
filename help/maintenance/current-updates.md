@@ -3,9 +3,9 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: db432f61d90c0900d7522c64c7feb990268b5542
+source-git-commit: f10450876e7ccd1b308772778d1be0cd76f6e57e
 workflow-type: tm+mt
-source-wordcount: '3378'
+source-wordcount: '3415'
 ht-degree: 80%
 
 ---
@@ -29,6 +29,12 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2025.
 +++**Semaine des mises à jour de maintenance du 14 au 20 décembre 2025**
 
 ### Semaine des mises à jour de maintenance du 14 au 20 décembre 2025
+
+#### Approbations
+
+**Liens vers les validations non disponibles**
+
+Lorsqu’une personne est affectée à un objet en tant qu’approbatrice, le lien vers cet objet n’apparaît pas dans la zone Mes mises à jour ou le widget Mes approbations de l’Accueil.
 
 #### Affectations
 
