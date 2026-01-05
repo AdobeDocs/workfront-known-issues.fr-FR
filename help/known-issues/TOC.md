@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: a76c92773d0c295c5fc726062f765ffd37611037
+source-git-commit: 0dac0311dd76f0653d72f4d4a6e5a79c36f0679e
 workflow-type: tm+mt
-source-wordcount: '1533'
-ht-degree: 89%
+source-wordcount: '1553'
+ht-degree: 88%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 89%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
+      + [Demandes : les files d’attente de demandes apparaissent plusieurs fois](known-issues-workfront/wf-requests-queues-duplicated.md)
+      + [Utilisateurs : impossible de mettre à jour l’accès utilisateur](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md)
+      + [Rapports : la requête du lac de données ne renvoie pas les résultats attendus](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md)
       + [Rapports : les utilisateurs peuvent voir les données financières dans les visualisations du tableau de bord Zone de travail](known-issues-workfront/wf-reporting-users-can-see-financial-data.md)
       + [Workfront Planning : impossible d’ajouter un champ à une vue](known-issues-workfront/wf-planning-cannot-add-field.md)
       + [Approbations : le widget Mes approbations affiche les approbations terminées](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md)
@@ -213,7 +216,7 @@ ht-degree: 89%
    + [Problèmes connus dans  [!DNL Workfront]  planification](workfrontplanning.md)
 
 + Application mobile [!DNL Workfront] {#mobile}
-   + [Problèmes connus dans l’application mobile  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problèmes connus dans l’application mobile  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 

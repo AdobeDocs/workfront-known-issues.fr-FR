@@ -3,10 +3,10 @@ title: Problèmes connus dans  [!DNL Adobe Workfront Planning]
 description: Problèmes connus et signalés de  [!DNL Adobe Workfront Planning]
 keywords: nouveau fichier, ajouter un fichier
 feature: Workfront Planning
-source-git-commit: 8063c450291e294889aaec3f6484963cba6508ce
+source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 89%
+source-wordcount: '134'
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | --- | --- |
-| [Planification Workfront : erreur lors de la suppression du champ connecté](known-issues-workfront/wf-planning-cannot-delete-connected-field.md) | samedi 12 décembre 2025 |
+| Aucun | |
 
 {style="table-layout:auto"}
 
@@ -34,7 +34,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | --- | --- |
-| [Workfront Planning : impossible d&#39;ajouter un champ à une vue](known-issues-workfront/wf-planning-cannot-add-field.md) | mardi 15 décembre 2025 |
+| Aucun | |
 
 {style="table-layout:auto"}
 

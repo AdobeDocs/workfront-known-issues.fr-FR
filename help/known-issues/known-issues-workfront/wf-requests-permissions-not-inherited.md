@@ -3,15 +3,19 @@ title: 'Demandes : autorisations non héritées lors de la création d’une dem
 description: Lorsque l’utilisateur crée une demande, celle-ci n’hérite pas des autorisations. Cela signifie que les utilisateurs et utilisatrices peuvent ne pas être en mesure d’accéder à la demande.
 hidefromtoc: true
 feature: Requests
-source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
+source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 5%
+source-wordcount: '74'
+ht-degree: 13%
 
 ---
 
 
 # Demandes : autorisations non héritées lors de la création d’une demande
+
+>[!NOTE]
+>
+>Ce problème a été résolu le samedi 19 décembre 2025.
 
 Lorsque l’utilisateur crée une demande, celle-ci n’hérite pas des autorisations. Cela signifie que les utilisateurs et utilisatrices peuvent ne pas être en mesure d’accéder à la demande.
 

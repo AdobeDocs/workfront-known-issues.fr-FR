@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f10450876e7ccd1b308772778d1be0cd76f6e57e
+source-git-commit: 9b7fb2257432fae02c7ab8eba1aca5d05bfea90e
 workflow-type: tm+mt
-source-wordcount: '3415'
-ht-degree: 80%
+source-wordcount: '3664'
+ht-degree: 74%
 
 ---
 
@@ -26,6 +26,50 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2025.
 
 ## Mises à jour de décembre 2025
 
++++**Semaine des mises à jour de maintenance pour la planification Workfront du 21 au 27 décembre 2025**
+
+### Semaine des mises à jour de maintenance pour la planification Workfront du 21 au 27 décembre 2025
+
+#### Erreur lors de la suppression du champ connecté
+
+Lorsque l’utilisateur tente de supprimer un champ connecté dans Workfront Planning, il n’y parvient pas et le message « Impossible de supprimer le champ. Réessayez. »
+
++++
+
++++**Semaine des mises à jour de maintenance du 21 au 27 décembre 2025**
+
+### Semaine des mises à jour de maintenance du 21 au 27 décembre 2025
+
+#### Formulaires personnalisés
+
+**Impossible de modifier les champs de texte enrichi**
+
+Lorsque l’utilisateur tente de modifier un champ de texte enrichi d’un formulaire personnalisé, les modifications ne sont pas enregistrées et le champ n’est pas mis à jour pour prendre en compte les modifications.
+
+#### Tâches
+
+**Impossible de sélectionner le rôle utilisateur lors de la création d’une tâche**
+
+Lorsque l’utilisateur crée une tâche et tente d’affecter un rôle d’utilisateur, l’option d’affectation du rôle n’est pas présente et l’utilisateur ne peut pas affecter de rôle d’utilisateur.
+
++++
+
++++**Semaine des mises à jour de maintenance pour la planification Workfront du 14 au 20 décembre 2025**
+
+### Semaine des mises à jour de maintenance pour la planification Workfront du 14 au 20 décembre 2025
+
+#### Impossible d&#39;ajouter un champ à une vue
+
+>[!NOTE]
+>
+>* Ce problème a été signalé dans le sandbox d’actualisation personnalisée.
+
+Lorsque l’utilisateur tente d’ajouter un champ à une vue dans Workfront Planning, le champ n’est pas ajouté et le message suivant apparaît :
+
+« Impossible de créer la colonne de champ. Réessayez. »
+
++++
+
 +++**Semaine des mises à jour de maintenance du 14 au 20 décembre 2025**
 
 ### Semaine des mises à jour de maintenance du 14 au 20 décembre 2025
@@ -41,6 +85,12 @@ Lorsqu’une personne est affectée à un objet en tant qu’approbatrice, le li
 **Les affectations d’équipe ne sont pas enregistrées**
 
 Lorsque l’utilisateur affecte une équipe à une tâche dans Workfront, l’affectation de l’équipe n’est pas enregistrée et l’équipe n’est pas avertie du travail.
+
+#### Demandes
+
+**Autorisations non héritées lors de la création d’une requête**
+
+Lorsque l’utilisateur crée une demande, celle-ci n’hérite pas des autorisations. Cela signifie que les utilisateurs et utilisatrices peuvent ne pas être en mesure d’accéder à la demande.
 
 #### Planifications
 
