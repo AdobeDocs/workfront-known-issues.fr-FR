@@ -1,12 +1,12 @@
 ---
 title: 'Approbations : l’approbation indique Aucune échéance lorsque l’heure n’est pas incluse dans l’échéance.'
-description: Lorsqu’une échéance d’approbation inclut une date sans heure, elle affiche Aucune échéance dans le widget Page d’accueil des approbations.
+description: Lorsqu’une échéance d’approbation inclut uniquement une date, et non une heure, elle s’affiche dans le widget Page d’accueil des approbations sous la forme d’une échéance de Aucune échéance.
 hidefromtoc: true
 feature: Digital Content and Documents, Get Started with Workfront
-source-git-commit: ca8e5b7ff629064fdd7f372c21090a10cf2346da
-workflow-type: ht
+source-git-commit: 67e4a2455c4bd3db0fa91625225066611ac8d864
+workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 100%
+ht-degree: 71%
 
 ---
 
