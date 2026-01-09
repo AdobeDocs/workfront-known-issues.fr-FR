@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: c2634db0768c32bb003d6401afc2239e941bf6d2
+source-git-commit: 0bda09f90283710c8ad1e6275ba48ccf7455fbe1
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 63%
+source-wordcount: '217'
+ht-degree: 52%
 
 ---
 
@@ -25,6 +25,18 @@ Pour connaître les mises à jour de maintenance antérieures à 2026, consultez
 Les mises à jour de maintenance suivantes ont été effectuées en 2026.
 
 ## Mises à jour de janvier 2026
+
++++**Semaine des mises à jour de maintenance de Workfront Fusion du 4 au 10 janvier 2026**
+
+### Semaine des mises à jour de maintenance du 4 au 10 janvier 202
+
+**Erreur d’en-tête manquant sur les modules AWS**
+
+Les modules AWS échouent avec l’erreur suivante :
+
+« En-tête obligatoire manquant pour cette requête »
+
++++
 
 +++**Semaine des mises à jour de maintenance du 4 au 10 janvier 2026**
 
