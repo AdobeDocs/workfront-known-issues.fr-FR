@@ -3,10 +3,10 @@ title: 'Demandes : les files d’attente de demandes apparaissent plusieurs fois
 description: Lorsque l’utilisateur commence à créer une demande et sélectionne une file d’attente des demandes, celle-ci apparaît plusieurs fois dans la liste déroulante.
 hidefromtoc: true
 feature: Requests
-source-git-commit: 0dac0311dd76f0653d72f4d4a6e5a79c36f0679e
+source-git-commit: fa4e4373f3f39973086a40fc66e0d307a996d38a
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 5%
+source-wordcount: '80'
+ht-degree: 12%
 
 ---
 
@@ -15,7 +15,8 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->Ce problème a été signalé dans l’expérience de création de rapports héritée.
+>* Ce problème a été résolu le vendredi 8 janvier 2026.
+>* Ce problème a été signalé dans l’expérience de création de rapports héritée.
 
 Lorsque l’utilisateur commence à créer une demande et sélectionne une file d’attente des demandes, celle-ci apparaît plusieurs fois dans la liste déroulante.
 

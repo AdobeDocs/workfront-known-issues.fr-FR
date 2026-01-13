@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 0bda09f90283710c8ad1e6275ba48ccf7455fbe1
+source-git-commit: fa4e4373f3f39973086a40fc66e0d307a996d38a
 workflow-type: tm+mt
-source-wordcount: '217'
-ht-degree: 52%
+source-wordcount: '274'
+ht-degree: 41%
 
 ---
 
@@ -28,7 +28,7 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2026.
 
 +++**Semaine des mises à jour de maintenance de Workfront Fusion du 4 au 10 janvier 2026**
 
-### Semaine des mises à jour de maintenance du 4 au 10 janvier 202
+### Semaine des mises à jour de maintenance du 4 au 10 janvier 2026
 
 **Erreur d’en-tête manquant sur les modules AWS**
 
@@ -40,13 +40,26 @@ Les modules AWS échouent avec l’erreur suivante :
 
 +++**Semaine des mises à jour de maintenance du 4 au 10 janvier 2026**
 
-### Semaine des mises à jour de maintenance du 4 au 10 janvier 202
+### Semaine des mises à jour de maintenance du 4 au 10 janvier 2026
+
+#### Approbations
+
+**Le widget Mes approbations affiche les approbations terminées**
+
+Lorsque l’utilisateur consulte son widget Mes approbations sur l’Accueil, le widget inclut les épreuves qui ont déjà été approuvées.
 
 #### Épreuves
 
 **Les modifications du statut des épreuves sont retardées**
 
 Lorsqu’une décision est prise concernant une épreuve, elle ne s’affiche pas dans la zone Documents d’un projet pendant un maximum de 24 heures. Cela peut prêter à confusion, car le statut indique toujours En attente ou un autre statut obsolète, même si une décision a été prise.
+
+#### Demandes
+
+**Les files d’attente des demandes apparaissent plusieurs fois**
+
+Lorsque l’utilisateur commence à créer une demande et sélectionne une file d’attente des demandes, celle-ci apparaît plusieurs fois dans la liste déroulante.
+
 
 +++
 
