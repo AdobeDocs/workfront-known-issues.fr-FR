@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 43a9d0627fdbb13c615d04e5f77e31a53520d9f9
+source-git-commit: c98508b66854edc5ca9c3c25751c27462dfaf9c8
 workflow-type: tm+mt
-source-wordcount: '1581'
-ht-degree: 86%
+source-wordcount: '1600'
+ht-degree: 85%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 86%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
+      + [Demandes : le brouillon créé avec la demande entraîne des problèmes](known-issues-workfront/wf-requests-draft-created-with-request.md)
+      + [Demandes : erreur « Vous devez être un administrateur système » lors de la copie de demandes](known-issues-workfront/wf-requests-error-when-copying.md)
       + [Utilisateurs : les utilisateurs ne sont pas correctement configurés sur le Adobe Admin Console](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md)
       + [Demandes : problèmes liés aux brouillons dans la nouvelle expérience de demande](known-issues-workfront/wf-requests-issues-with-drafts.md)
       + [Demandes : les files d’attente de demandes apparaissent plusieurs fois](known-issues-workfront/wf-requests-queues-duplicated.md)
@@ -219,7 +221,7 @@ ht-degree: 86%
    + [Problèmes connus dans  [!DNL Workfront]  planification](workfrontplanning.md)
 
 + Application mobile [!DNL Workfront] {#mobile}
-   + [Problèmes connus dans l’application mobile  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problèmes connus dans l’application mobile  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 

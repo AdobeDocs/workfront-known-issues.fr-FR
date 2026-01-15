@@ -3,10 +3,10 @@ title: Les modifications apportées dans la boîte de dialogue Modifier d’une 
 description: Lorsque l’utilisateur apporte des modifications à la section Modifications d’une tâche dans la boîte de dialogue de la tâche héritée et enregistre, les modifications ne sont pas enregistrées.
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 11192c5977f47ed04fd7cef0b059d20a8af29221
+source-git-commit: c98508b66854edc5ca9c3c25751c27462dfaf9c8
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 5%
+source-wordcount: '122'
+ht-degree: 27%
 
 ---
 
@@ -15,7 +15,8 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->Ce problème s’applique à l’expérience de tâche héritée.
+>* Ce problème s’applique à l’expérience de tâche héritée.
+>* L’équipe produit évalue actuellement la résolution de ce problème, qui peut nécessiter des améliorations du produit. Les améliorations apportées aux produits sont communiquées dans les annonces de produit et non dans les mises à jour de maintenance.
 
 Lorsque l’utilisateur apporte des modifications à la section Modifications d’une tâche dans la boîte de dialogue de la tâche héritée et enregistre, les modifications ne sont pas enregistrées.
 
