@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: c98508b66854edc5ca9c3c25751c27462dfaf9c8
+source-git-commit: 5b9f2008a89c95a723523a7fad8af006754d037c
 workflow-type: tm+mt
-source-wordcount: '1600'
-ht-degree: 85%
+source-wordcount: '1617'
+ht-degree: 84%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 85%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
+      + [Formulaires personnalisés : les champs calculés n’affichent pas de données pour les utilisateurs non-administrateurs](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md)
       + [Demandes : le brouillon créé avec la demande entraîne des problèmes](known-issues-workfront/wf-requests-draft-created-with-request.md)
       + [Demandes : erreur « Vous devez être un administrateur système » lors de la copie de demandes](known-issues-workfront/wf-requests-error-when-copying.md)
       + [Utilisateurs : les utilisateurs ne sont pas correctement configurés sur le Adobe Admin Console](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md)
@@ -177,6 +178,7 @@ ht-degree: 85%
 + [!DNL Workfront Proof] {#proof}
    + [Problèmes connus dans  [!DNL Workfront Proof]](workfrontproof.md)
    + Problèmes actuels dans [!DNL Workfront Proof] {#proof-current}
+      + [Workfront Proof : les épreuves n’apparaissent pas dans les dossiers](known-issues-workfront-proof/proof-folders-not-showing-proofs.md)
       + [[!UICONTROL Workfront Proof] : impossible de réorganiser les ressources lors de la création d’un BAT](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof] : horodatage incorrect sur le [!UICONTROL Résumé du BAT]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!DNL Workfront Proof] : impossible de développer le workflow](known-issues-workfront-proof/proof-cannot-view-workflow.md)
@@ -221,7 +223,7 @@ ht-degree: 85%
    + [Problèmes connus dans  [!DNL Workfront]  planification](workfrontplanning.md)
 
 + Application mobile [!DNL Workfront] {#mobile}
-   + [Problèmes connus dans l’application mobile  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problèmes connus dans l’application mobile  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 
