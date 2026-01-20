@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: c3a80db771b7b7132fee54d33f8f2a658bcd959c
+source-git-commit: 2a8b9279bcffd316c9c4f2242633270ea076b1a4
 workflow-type: tm+mt
-source-wordcount: '1625'
-ht-degree: 84%
+source-wordcount: '1632'
+ht-degree: 83%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 84%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
+      + [Programmes : impossible de voir les exceptions des années précédentes](known-issues-workfront/wf-schedules-cannot-see-previous-year-exceptions.md)
       + [Demandes : la vue « Tous » n’affiche pas toutes les demandes](known-issues-workfront/wf-requests-not-showing-all.md)
       + [Formulaires personnalisés : les champs calculés n’affichent pas de données pour les utilisateurs non-administrateurs](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md)
       + [Demandes : le brouillon créé avec la demande entraîne des problèmes](known-issues-workfront/wf-requests-draft-created-with-request.md)
@@ -224,7 +225,7 @@ ht-degree: 84%
    + [Problèmes connus dans  [!DNL Workfront]  planification](workfrontplanning.md)
 
 + Application mobile [!DNL Workfront] {#mobile}
-   + [Problèmes connus dans l’application mobile  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problèmes connus dans l’application mobile  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 
