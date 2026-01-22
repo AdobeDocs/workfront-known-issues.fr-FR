@@ -2,9 +2,9 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9fa81ccc2d06489256f147b4d5e7f55156904158
+source-git-commit: 0b5281162e06a95b3f4da1c566e890cfad956912
 workflow-type: tm+mt
-source-wordcount: '1643'
+source-wordcount: '1648'
 ht-degree: 83%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 83%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
+      + [Documents : le panneau Résumé est vide](known-issues-workfront/wf-documents-summary-panel-is-blank.md)
       + [Demandes : erreur « Vous ne disposez pas d’un accès suffisant » lors de la copie de demandes](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md)
       + [Programmes : impossible de voir les exceptions des années précédentes](known-issues-workfront/wf-schedules-cannot-see-previous-year-exceptions.md)
       + [Demandes : la vue « Tous » n’affiche pas toutes les demandes](known-issues-workfront/wf-requests-not-showing-all.md)
@@ -25,7 +26,7 @@ ht-degree: 83%
       + [Demandes : erreur « Vous devez être un administrateur système » lors de la copie de demandes](known-issues-workfront/wf-requests-error-when-copying.md)
       + [Utilisateurs : les utilisateurs ne sont pas correctement configurés sur le Adobe Admin Console](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md)
       + [Demandes : problèmes liés aux brouillons dans la nouvelle expérience de demande](known-issues-workfront/wf-requests-issues-with-drafts.md)
-      + [Demandes : les files d’attente de demandes apparaissent plusieurs fois](known-issues-workfront/wf-requests-queues-duplicated.md)
+      + [Demandes : les files d’attente de demandes apparaissent plusieurs fois.](known-issues-workfront/wf-requests-queues-duplicated.md)
       + [Utilisateurs : impossible de mettre à jour l’accès utilisateur](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md)
       + [Rapports : la requête du lac de données ne renvoie pas les résultats attendus](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md)
       + [Rapports : les utilisateurs peuvent voir les données financières dans les visualisations du tableau de bord Zone de travail](known-issues-workfront/wf-reporting-users-can-see-financial-data.md)
@@ -34,9 +35,9 @@ ht-degree: 83%
       + [Workfront Planning : erreur lors de la suppression d’un champ connecté](known-issues-workfront/wf-planning-cannot-delete-connected-field.md)
       + [Utilisateurs : l’option de génération automatique d’épreuves est absente du profil utilisateur](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md)
       + [Formulaires personnalisés : impossible de modifier les champs de texte enrichi](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md)
-      + [Utilisateurs : erreur à l’ouverture de la page Utilisateurs](known-issues-workfront/wf-users-cannot-open-user-tab.md)
+      + [Utilisateurs : erreur lors de l’ouverture de la page Utilisateurs](known-issues-workfront/wf-users-cannot-open-user-tab.md)
       + [Tâches : impossible de sélectionner le rôle utilisateur lors de la création d’une tâche](known-issues-workfront/wf-tasks-cannot-assign-user-role.md)
-      + [BAT : les modifications du statut du BAT sont retardées](known-issues-workfront/wf-proof-status-sync-delayed.md)
+      + [Bons à tirer : les changements de statut des BAT sont retardés.](known-issues-workfront/wf-proof-status-sync-delayed.md)
       + [Tâches : les modifications apportées à une tâche ne sont pas enregistrées](known-issues-workfront/wf-tasks-inline-changes-not-saving.md)
       + [Utilisateurs : la modification en masse d’utilisateurs supprime les pools de ressources et les rapports directs](known-issues-workfront/wf-users-bulk-editing-clears-resource-pools.md)
       + [Demandes : impossible de charger le document à demander à partir de GDrive](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md)
@@ -45,9 +46,9 @@ ht-degree: 83%
       + [Demandes : autorisations non héritées lors de la création d’une demande](known-issues-workfront/wf-requests-permissions-not-inherited.md)
       + [Plannings : autorisations de planification révoquées pour un groupe](known-issues-workfront/wf-schedules-group-permissions-revoked.md)
       + [Affectations : les affectations d’équipe ne sont pas enregistrées](known-issues-workfront/wf-assignments-not-saved.md)
-      + [Tâches : les heures planifiées ne sont pas enregistrées lors de la création de la tâche](known-issues-workfront/wf-tasks-planned-hours-not-saving.md)
+      + [Tâches : heures planifiées non enregistrées lors de la création de la tâche](known-issues-workfront/wf-tasks-planned-hours-not-saving.md)
       + [Feuilles de temps : feuilles de temps non générées](known-issues-workfront/wf-timesheets-not-generated.md)
-      + [Tâches : message « Accès insuffisant » lors de la modification sur la ligne de tâches](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md)
+      + [Tâches : message « Accès insuffisant » lors de tâches de modification en ligne](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md)
       + [Approbations : liens vers les approbations non disponibles](known-issues-workfront/wf-approvals-link-not-appearing.md)
       + [Demandes : le créateur ou la créatrice du formulaire de demande n’a pas accès au formulaire.](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md)
       + [Utilisateurs et utilisatrices : il n’est possible de rechercher des fonctions qu’à l’aide du premier mot.](known-issues-workfront/wf-users-job-role-first-word.md)
@@ -222,11 +223,11 @@ ht-degree: 83%
       + [[!DNL Workfront Fusion] : le module  [!DNL Fusion] renvoie une erreur 404 sans autre information.](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [Les liens d’aide in-app de [!DNL Workfront Fusion] ne mènent pas à des pages d’aide spécifiques.](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
-+ Planification [!DNL Workfront] {#planning}
++ [!DNL Workfront] Planification {#planning}
    + [Problèmes connus dans  [!DNL Workfront]  planification](workfrontplanning.md)
 
 + Application mobile [!DNL Workfront] {#mobile}
-   + [Problèmes connus dans l’application mobile  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problèmes connus dans l’application mobile  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 
