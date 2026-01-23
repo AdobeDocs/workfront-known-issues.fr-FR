@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: fa4e4373f3f39973086a40fc66e0d307a996d38a
+source-git-commit: 614b2b8e71b244a90adddec2795c0a8b1f04b4a1
 workflow-type: tm+mt
-source-wordcount: '274'
-ht-degree: 41%
+source-wordcount: '406'
+ht-degree: 34%
 
 ---
 
@@ -25,6 +25,35 @@ Pour connaître les mises à jour de maintenance antérieures à 2026, consultez
 Les mises à jour de maintenance suivantes ont été effectuées en 2026.
 
 ## Mises à jour de janvier 2026
+
++++**Semaine de mise à jour de maintenance du 18 au 24 janvier 2026**
+
+### Semaine de mise à jour de maintenance du 18 au 24 janvier 2026
+
+#### Demandes
+
+**Problèmes liés aux brouillons dans la nouvelle expérience de demande**
+
+Les problèmes suivants ont été signalés concernant les brouillons dans la nouvelle expérience de demande :
+
+* Les demandes créées en tant que brouillon, puis envoyées, n’affichent que la première lettre de l’objet dans la liste des demandes.
+* Les brouillons ignorés ne sont pas supprimés de la liste des requêtes,
+
+#### Planifications
+
+**Impossible de voir les exceptions des années précédentes**
+
+Lorsque l’utilisateur consulte le calendrier des exceptions et tente de consulter les années précédentes, il ne peut pas consulter les années précédentes.
+
++++
+
++++**Semaine de mise à jour de maintenance du 11 au 17 janvier 2026**
+
+### Semaine de mise à jour de maintenance du 11 au 17 janvier 2026
+
+Cette mise à jour inclut uniquement des correctifs mineurs ou moins importants. L’assistance Workfront vous avertira lorsqu’un problème que vous avez soumis sera résolu.
+
++++
 
 +++**Semaine des mises à jour de maintenance de Workfront Fusion du 4 au 10 janvier 2026**
 

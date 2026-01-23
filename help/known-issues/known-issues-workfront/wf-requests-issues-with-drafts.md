@@ -3,15 +3,19 @@ title: 'Demandes : problèmes liés aux brouillons dans la nouvelle expérience 
 description: Plusieurs signalements ont été signalés concernant des brouillons dans la nouvelle expérience de demande.
 hidefromtoc: true
 feature: Requests
-source-git-commit: 43a9d0627fdbb13c615d04e5f77e31a53520d9f9
+source-git-commit: 614b2b8e71b244a90adddec2795c0a8b1f04b4a1
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 4%
+source-wordcount: '91'
+ht-degree: 10%
 
 ---
 
 
 # Demandes : problèmes liés aux brouillons dans la nouvelle expérience de demande
+
+>[!NOTE]
+>
+>Ce problème a été résolu le samedi 23 janvier 2026.
 
 Les problèmes suivants ont été signalés concernant les brouillons dans la nouvelle expérience de demande :
 
