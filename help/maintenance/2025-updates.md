@@ -3,9 +3,9 @@ title: Mises à jour de maintenance Workfront en 2025
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 feature: Get Started with Workfront
 source-git-commit: 28cc4e22ad9c05b1a3e2ecac5bca62ff8d6f4e49
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3668'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
@@ -25,88 +25,88 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2025.
 
 ## Mises à jour de décembre 2025
 
-+++**Semaine des mises à jour de maintenance pour la planification Workfront du 21 au 27 décembre 2025**
++++**Mises à jour de maintenance pour la planification Workfront, semaine du 21 au 27 décembre 2025**
 
-### Semaine des mises à jour de maintenance pour la planification Workfront du 21 au 27 décembre 2025
+### Semaine des mises à jour de maintenance pour la planification Workfront du 21 au 27 décembre 2025
 
 #### Erreur lors de la suppression du champ connecté
 
-Lorsque l’utilisateur tente de supprimer un champ connecté dans Workfront Planning, il n’y parvient pas et le message « Impossible de supprimer le champ. Réessayez. »
+Lorsqu’une personne tente de supprimer un champ connecté dans la planification Workfront et qu’elle n’y parvient pas, le message « Impossible de supprimer le champ. Réessayez. » s’affiche.
 
 +++
 
-+++**Semaine des mises à jour de maintenance du 21 au 27 décembre 2025**
++++**Mises à jour de maintenance, semaine du 21 au 27 décembre 2025**
 
-### Semaine des mises à jour de maintenance du 21 au 27 décembre 2025
+### Mises à jour de maintenance, semaine du 21 au 27 décembre 2025
 
 #### Formulaires personnalisés
 
 **Impossible de modifier les champs de texte enrichi**
 
-Lorsque l’utilisateur tente de modifier un champ de texte enrichi d’un formulaire personnalisé, les modifications ne sont pas enregistrées et le champ n’est pas mis à jour pour prendre en compte les modifications.
+Lorsqu’une personne tente de modifier un champ de texte enrichi d’un formulaire personnalisé, les modifications ne sont pas enregistrées et le champ ne prend pas en compte les modifications.
 
 #### Tâches
 
-**Impossible de sélectionner le rôle utilisateur lors de la création d’une tâche**
+**Impossible de sélectionner le rôle d’utilisateur ou d’utilisatrice lors de la création d’une tâche**
 
-Lorsque l’utilisateur crée une tâche et tente d’affecter un rôle d’utilisateur, l’option d’affectation du rôle n’est pas présente et l’utilisateur ne peut pas affecter de rôle d’utilisateur.
+Lorsqu’une personne crée une tâche et tente d’affecter un rôle d’utilisateur ou d’utilisatrice, l’option d’affectation du rôle n’est pas présente et la personne ne peut pas affecter de rôle d’utilisateur ou d’utilisatrice.
 
 +++
 
-+++**Semaine des mises à jour de maintenance pour la planification Workfront du 14 au 20 décembre 2025**
++++**Mises à jour de maintenance pour la planification Workfront, semaine du 14 au 20 décembre 2025**
 
-### Semaine des mises à jour de maintenance pour la planification Workfront du 14 au 20 décembre 2025
+### Mises à jour de maintenance pour la planification Workfront, semaine du 14 au 20 décembre 2025
 
-#### Impossible d&#39;ajouter un champ à une vue
+#### Impossible d’ajouter un champ à une vue
 
 >[!NOTE]
 >
->* Ce problème a été signalé dans le sandbox d’actualisation personnalisée.
+>* Ce problème a été signalé dans le sandbox à actualisation personnalisée.
 
-Lorsque l’utilisateur tente d’ajouter un champ à une vue dans Workfront Planning, le champ n’est pas ajouté et le message suivant apparaît :
+Lorsqu’une personne tente d’ajouter un champ à une vue dans la planification Workfront, le champ n’est pas ajouté et le message suivant apparaît :
 
-« Impossible de créer la colonne de champ. Réessayez. »
+« Impossible de créer la colonne de champ. Réessayez. ».
 
 +++
 
-+++**Semaine des mises à jour de maintenance du 14 au 20 décembre 2025**
++++**Mises à jour de maintenance, semaine du 14 au 20 décembre 2025**
 
-### Semaine des mises à jour de maintenance du 14 au 20 décembre 2025
+### Mises à jour de maintenance, semaine du 14 au 20 décembre 2025
 
 #### Approbations
 
-**Liens vers les validations non disponibles**
+**Liens vers les approbations non disponibles**
 
-Lorsqu’une personne est affectée à un objet en tant qu’approbatrice, le lien vers cet objet n’apparaît pas dans la zone Mes mises à jour ou le widget Mes approbations de l’Accueil.
+Lorsqu’une personne est désignée comme approbatrice d’un objet, le lien vers cet objet n’apparaît pas dans la zone Mes mises à jour ou le widget Mes approbations de l’Accueil.
 
 #### Affectations
 
-**Les affectations d’équipe ne sont pas enregistrées**
+**Les affectations d’équipe ne sont pas enregistrées**.
 
-Lorsque l’utilisateur affecte une équipe à une tâche dans Workfront, l’affectation de l’équipe n’est pas enregistrée et l’équipe n’est pas avertie du travail.
+Lorsque l’utilisateur ou l’utilisatrice affecte une tâche à une équipe dans Workfront, l’affectation de l’équipe n’est pas enregistrée et l’équipe n’est pas avertie du travail.
 
 #### Demandes
 
-**Autorisations non héritées lors de la création d’une requête**
+**Autorisations non héritées lors de la création d’une demande**
 
-Lorsque l’utilisateur crée une demande, celle-ci n’hérite pas des autorisations. Cela signifie que les utilisateurs et utilisatrices peuvent ne pas être en mesure d’accéder à la demande.
+Lorsqu’une personne crée une demande, celle-ci n’hérite pas des autorisations. Cela signifie que les personnes peuvent ne pas être en mesure d’accéder à la demande.
 
-#### Planifications
+#### Plannings
 
 **Autorisations de planification révoquées pour un groupe**
 
-Lorsque l’administrateur de groupes Workfront ajoute une exception de date à un planning et enregistre les modifications, les autorisations liées à ce planning sont supprimées du groupe et l’administrateur Workfront doit accorder l’accès au groupe.
+Lorsque l’administrateur ou l’administratrice de groupes Workfront ajoute une exception de date à un planning et enregistre les modifications, les autorisations liées à ce planning sont supprimées du groupe et l’administrateur ou l’administratrice Workfront doit accorder l’accès au groupe.
 
 
 #### Tâches
 
-**Les modifications intégrées apportées à une tâche ne sont pas enregistrées**
+**Les modifications en ligne apportées à une tâche ne sont pas enregistrées.**
 
-Lorsque l’utilisateur apporte des modifications sur la ligne à une tâche dans l’expérience de tâche héritée et les enregistre, les modifications ne sont pas enregistrées.
+Lorsqu’une personne apporte des modifications en ligne à une tâche dans l’expérience de tâche héritée et les enregistre, les modifications ne sont pas enregistrées.
 
 #### Feuilles de temps
 
-**feuilles de temps non générées**
+**Les feuilles de temps ne sont pas générées.**
 
 Les feuilles de temps ne sont pas générées automatiquement comme prévu. Cela peut se produire même si les profils des feuilles de temps sont précis et que les feuilles de temps des autres semaines sont générées correctement.
 
@@ -114,48 +114,48 @@ Les feuilles de temps ne sont pas générées automatiquement comme prévu. Cela
 
 **Problèmes liés aux modifications apportées au profil d’épreuve**
 
-Les problèmes suivants ont été signalés concernant la modification du profil d’épreuve d’un utilisateur :
+Les problèmes suivants ont été signalés concernant la modification du profil d’épreuve d’une personne :
 
-* Lorsque l’utilisateur affecte un profil d’épreuve différent à un utilisateur et enregistre, la modification n’est pas enregistrée et l’utilisateur conserve le profil d’épreuve précédent.
-* Un profil d’épreuve d’un utilisateur peut s’afficher comme un profil d’épreuve incorrect, même si le profil d’épreuve correct est affecté.
-* Lorsque d’autres modifications sont apportées à un utilisateur, ses autorisations d’épreuve peuvent également changer.
+* Lorsqu’une personne affecte un profil d’épreuve différent à un utilisateur ou à une utilisatrice et l’enregistre, la modification n’est pas enregistrée et l’utilisateur ou l’utilisatrice conserve le profil d’épreuve précédent.
+* Un profil d’épreuve d’une personne peut s’afficher comme un profil d’épreuve incorrect, même si le profil d’épreuve correct est affecté.
+* Lorsque d’autres modifications sont apportées à un utilisateur ou à une utilisatrice, ses autorisations d’épreuve peuvent également changer.
 
-**L’option de génération automatique d’épreuves est absente du profil utilisateur**
+**L’option de génération automatique d’épreuves est absente du profil d’utilisateur ou d’utilisatrice**
 
-Lorsque l’utilisateur consulte un profil utilisateur, l’option « Générer automatiquement des épreuves lors du chargement de documents » n’est pas disponible. Cela peut se produire même si toutes les conditions préalables à l’option ont été remplies.
+Lorsqu’une personne consulte un profil utilisateur, l’option « Générer automatiquement des épreuves lors du chargement de documents » n’est pas disponible. Cela peut se produire même si toutes les conditions préalables à l’option ont été remplies.
 
 +++
 
-+++**Semaine des mises à jour de maintenance du 7 au 13 décembre 2025**
++++**Mises à jour de maintenance, semaine du 7 au 13 décembre 2025**
 
-### Semaine des mises à jour de maintenance du 7 au 13 décembre 2025
+### Mises à jour de maintenance, semaine du 7 au 13 décembre 2025
 
 #### Demandes
 
-**Impossible de charger le document à demander à GDrive**
+**Impossible de charger le document à demander depuis GDrive**
 
-Lorsque l’utilisateur crée une demande dans la nouvelle expérience de demande et tente de charger un document à partir de GDrive, la fenêtre de GDrive ne répond pas. L’utilisateur ne peut pas sélectionner de fichier ni fermer la fenêtre.
+Lorsqu’une personne crée une demande dans la nouvelle expérience de demande et tente de charger un document à partir de GDrive, la fenêtre de GDrive ne répond pas. La personne ne peut pas sélectionner de fichier ni fermer la fenêtre.
 
 
 #### Utilisateurs et utilisatrices
 
-**La modification en masse d’utilisateurs supprime les pools de ressources et les rapports directs**
+**La modification en masse d’utilisateurs ou d’utilisatrices supprime les pools de ressources et les rapports directs.**
 
-Lorsque l’utilisateur modifie des utilisateurs en masse, clique dans le champ Pools de ressources et ne saisit pas de valeur, les pools de ressources de tous les utilisateurs modifiés sont supprimés.
+Lorsqu’une personne modifie des utilisateurs et utilisatrices en masse, clique dans le champ Pools de ressources et ne saisit pas de valeur, les pools de ressources des utilisateurs et utilisatrices modifiés sont supprimés.
 
-La modification en masse peut également supprimer les rapports directs des utilisateurs modifiés.
+La modification en masse peut également supprimer les rapports directs des utilisateurs et utilisatrices modifiés.
 
-**Erreur lors de l’ouverture de la page Utilisateurs**
+**Erreur lors de l’ouverture de la page Utilisateurs et utilisatrices**
 
-Lorsque l’utilisateur tente d’ouvrir la page Utilisateurs depuis le menu principal, la page ne s’ouvre pas et le message suivant apparaît :
+Lorsqu’une personne tente d’ouvrir la page Utilisateurs et utilisatrices à partir du menu principal, celle-ci ne se charge pas et le message suivant apparaît :
 
 « Une erreur s’est produite et nous travaillons à résoudre le problème. Pour continuer votre travail, essayez d’actualiser cette page du navigateur. »
 
 +++
 
-+++**Semaine des mises à jour de maintenance du 30 novembre au 6 décembre 2025**
++++**Mises à jour de maintenance, semaine du 30 novembre au 6 décembre 2025**
 
-### Semaine des mises à jour de maintenance du 30 novembre au 6 décembre 2025
+### Mises à jour de maintenance, semaine du 30 novembre au 6 décembre 2025
 
 Les mises à jour de cette semaine incluent uniquement des correctifs mineurs ou moins importants. L’assistance Workfront vous avertira lorsqu’un problème que vous avez soumis sera résolu.
 
@@ -163,23 +163,23 @@ Les mises à jour de cette semaine incluent uniquement des correctifs mineurs ou
 
 ## Mises à jour de novembre 2025
 
-+++**Semaine des mises à jour de maintenance pour la planification Workfront du 16 au 22 novembre 2025**
++++**Mises à jour de maintenance de la planification Workfront, semaine du 16 au 22 novembre 2025**
 
-### Semaine des mises à jour de maintenance pour la planification Workfront du 16 au 22 novembre 2025
+### Mises à jour de maintenance de la planification Workfront, semaine du 16 au 22 novembre 2025
 
 #### Formulaires personnalisés
 
 **Indicateur actif/inactif ajouté à la liste des formulaires personnalisés où un champ est utilisé**
 
-Dans le concepteur de formulaires personnalisés, vous pouvez sélectionner un champ et cliquer sur **Afficher les Forms associés** pour afficher une liste de tous les autres formulaires dans lesquels le champ est utilisé. Vous voyez ainsi quels autres formulaires seront affectés si vous modifiez le champ.
+Dans le concepteur de formulaires personnalisés, vous pouvez sélectionner un champ et cliquer sur **Afficher les formulaires associés** pour afficher une liste de tous les autres formulaires dans lesquels le champ est utilisé. Vous voyez ainsi quels autres formulaires seront affectés si vous modifiez le champ.
 
 Une amélioration de cette liste est un indicateur actif/inactif pour chaque formulaire. Vous pouvez voir en un coup d’œil si le champ est actuellement utilisé sur des formulaires actifs ou inactifs.
 
 +++
 
-+++**Semaine des mises à jour de maintenance pour la planification Workfront, du 9 au 15 novembre 2025**
++++**Mises à jour de maintenance de la planification Wokfront, semaine du 9 au 15 novembre 2025**
 
-### Semaine des mises à jour de maintenance pour la planification Workfront du 9 au 15 novembre 2025
+### Mises à jour de maintenance de la planification Workfront, semaine du 9 au 15 novembre 2025
 
 #### Types d’enregistrements
 
@@ -189,15 +189,15 @@ Nous avons supprimé les options Modifier et Paramètres du menu Plus d’un typ
 
 +++
 
-+++**Semaine des mises à jour de maintenance du 9 au 15 novembre 2025**
++++**Mises à jour de maintenance, semaine du 9 au 15 novembre 2025**
 
-### Semaine des mises à jour de maintenance du 9 au 15 novembre 2025
+### Mises à jour de maintenance, semaine du 9 au 15 novembre 2025
 
 #### Tâches
 
-**L’ajout de prédécesseurs ne dépend plus des sous-paramètres Modifier des tâches dans le niveau d’accès**
+**L’ajout de prédécesseurs ne dépend plus des sous-paramètres Modifier des tâches dans le niveau d’accès.**
 
-Les utilisateurs peuvent ajouter des prédécesseurs aux tâches lorsque l’accès Modifier est activé pour les tâches dans leur niveau d’accès, quels que soient les sous-paramètres que vous avez sélectionnés. Cela est désormais cohérent avec la fonctionnalité d’API existante.
+Les personnes peuvent ajouter des prédécesseurs aux tâches lorsque l’accès Modifier est activé pour les tâches dans leur niveau d’accès, quels que soient les sous-paramètres que vous avez sélectionnés. Cela est désormais cohérent avec la fonctionnalité d’API existante.
 
 +++
 

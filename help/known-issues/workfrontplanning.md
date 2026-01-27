@@ -4,7 +4,7 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Planning]
 keywords: nouveau fichier, ajouter un fichier
 feature: Workfront Planning
 source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
 ht-degree: 100%
 

@@ -1,25 +1,25 @@
 ---
-title: 'Workfront Planning : impossible d’ajouter un champ à une vue'
-description: Lorsque l’utilisateur tente d’ajouter un champ à une vue dans Workfront Planning, le champ n’est pas ajouté et un message apparaît.
+title: 'Planification Workfront : impossible d’ajouter un champ à une vue'
+description: Lorsqu’une personne tente d’ajouter un champ à une vue dans la planification Workfront, le champ n’est pas ajouté et un message s’affiche.
 hidefromtoc: true
 feature: Workfront Planning
 source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
 
-# Workfront Planning : impossible d’ajouter un champ à une vue
+# Planification Workfront : impossible d’ajouter un champ à une vue
 
 >[!NOTE]
 >
->* Ce problème a été résolu le samedi 19 décembre 2025.
->* Ce problème a été signalé dans le sandbox d’actualisation personnalisée.
+>* Ce problème a été résolu le 19 décembre 2025.
+>* Ce problème a été signalé dans le sandbox à actualisation personnalisée.
 
-Lorsque l’utilisateur tente d’ajouter un champ à une vue dans Workfront Planning, le champ n’est pas ajouté et le message suivant apparaît :
+Lorsqu’une personne tente d’ajouter un champ à une vue dans la planification Workfront, le champ n’est pas ajouté et le message suivant apparaît :
 
-« Impossible de créer la colonne de champ. Réessayez. »
+« Impossible de créer la colonne de champ. Réessayez. » s’affiche.
 
-_Premier signalement le jeudi 10 décembre 2025._
+_Premier signalement le 10 décembre 2025._

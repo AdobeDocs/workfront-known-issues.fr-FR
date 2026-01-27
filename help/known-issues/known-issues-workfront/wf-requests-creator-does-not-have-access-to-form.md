@@ -4,7 +4,7 @@ description: 'Lorsqu’une personne crée un formulaire de demande dans Workfron
 hidefromtoc: true
 feature: Requests
 source-git-commit: 9bd7c64b0eae377690fee280ef77691b7b2ad446
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->* Ce problème a été résolu le jeudi 26 novembre 2025.
+>* Ce problème a été résolu le 26 novembre 2025.
 >* Ce problème concerne les fonctionnalités disponibles uniquement dans Workfront Planning.
 
 Lorsqu’une personne crée un formulaire de demande dans Workfront Planning, puis tente d’y accéder, elle n’y parvient pas et le message suivant s’affiche : « Vous n’avez pas accès à ce formulaire ».

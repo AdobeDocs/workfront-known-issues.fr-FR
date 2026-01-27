@@ -1,26 +1,26 @@
 ---
-title: 'Tâches : impossible de sélectionner le rôle utilisateur lors de la création d’une tâche'
-description: Lorsque l’utilisateur crée une tâche et tente d’affecter un rôle d’utilisateur, l’option d’affectation du rôle n’est pas présente et l’utilisateur ne peut pas affecter de rôle d’utilisateur. Une solution de contournement est disponible.
+title: 'Tâches : impossible de sélectionner le rôle utilisateur ou utilisatrice lors de la création d’une tâche'
+description: Lorsqu’une personne crée une tâche et tente d’affecter un rôle d’utilisateur ou d’utilisatrice, l’option d’affectation du rôle n’est pas présente et la personne ne peut pas affecter de rôle d’utilisateur ou d’utilisatrice. Une solution de contournement est disponible.
 hidefromtoc: true
 feature: Tasks
 source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 13%
+ht-degree: 100%
 
 ---
 
 
-# Tâches : impossible de sélectionner le rôle utilisateur lors de la création d’une tâche
+# Tâches : impossible de sélectionner le rôle utilisateur ou utilisatrice lors de la création d’une tâche
 
 >[!NOTE]
 >
->Ce problème a été résolu le lundi 21 décembre 2025.
+>Ce problème a été résolu le 21 décembre 2025.
 
-Lorsque l’utilisateur crée une tâche et tente d’affecter un rôle d’utilisateur, l’option d’affectation du rôle n’est pas présente et l’utilisateur ne peut pas affecter de rôle d’utilisateur.
+Lorsqu’une personne crée une tâche et tente d’affecter un rôle d’utilisateur ou d’utilisatrice, l’option d’affectation du rôle n’est pas présente et la personne ne peut pas affecter de rôle d’utilisateur ou d’utilisatrice.
 
 **Solution de contournement**
 
-Créez la tâche, puis modifiez la tâche pour affecter le rôle utilisateur dans Affectations avancées.
+Créez la tâche, puis modifiez-la pour affecter le rôle d’utilisateur ou d’utilisatrice dans Affectations avancées.
 
-_Premier signalement le samedi 28 novembre 2025._
+_Premier signalement le 28 novembre 2025._

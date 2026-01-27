@@ -1,26 +1,26 @@
 ---
-title: 'Tâches : les heures planifiées ne sont pas enregistrées lors de la création de la tâche'
+title: 'Tâches : le nombre d’heures prévues n’est pas enregistré lors de la création d’une tâche'
 description: ''
 hidefromtoc: true
 feature: Tasks
 source-git-commit: bdd9120739d574c2f22021b7bb5ed0066b79f402
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '58'
-ht-degree: 18%
+ht-degree: 100%
 
 ---
 
 
-# Tâches : les heures planifiées ne sont pas enregistrées lors de la création de la tâche
+# Tâches : le nombre d’heures prévues n’est pas enregistré lors de la création d’une tâche
 
 >[!NOTE]
 >
->Ce problème a été résolu le jeudi 3 décembre 2025.
+>Ce problème a été résolu le 3 décembre 2025.
 
-Lorsque l’utilisateur crée une tâche et saisit les heures planifiées, puis enregistre la tâche, les heures planifiées ne sont pas enregistrées.
+Lorsqu’une personne crée une tâche et saisit le nombre d’heures prévues, puis qu’elle enregistre la tâche, le nombre d’heures prévues n’est pas enregistré.
 
 **Solution de contournement**
 
-Créez la tâche, puis modifiez-la pour ajouter les heures planifiées.
+Créez la tâche, puis modifiez-la pour ajouter le nombre d’heures prévues.
 
-_Premier signalement le samedi 10 octobre 2025._
+_Premier signalement le 10 octobre 2025._
