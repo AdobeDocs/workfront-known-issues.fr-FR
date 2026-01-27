@@ -5,7 +5,7 @@ role: User
 source-git-commit: 0b5281162e06a95b3f4da1c566e890cfad956912
 workflow-type: tm+mt
 source-wordcount: '1648'
-ht-degree: 83%
+ht-degree: 95%
 
 ---
 
@@ -24,31 +24,31 @@ ht-degree: 83%
       + [Formulaires personnalisés : les champs calculés n’affichent pas de données pour les utilisateurs non-administrateurs](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md)
       + [Demandes : le brouillon créé avec la demande entraîne des problèmes](known-issues-workfront/wf-requests-draft-created-with-request.md)
       + [Demandes : erreur « Vous devez être un administrateur système » lors de la copie de demandes](known-issues-workfront/wf-requests-error-when-copying.md)
-      + [Utilisateurs : les utilisateurs ne sont pas correctement configurés sur le Adobe Admin Console](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md)
-      + [Demandes : problèmes liés aux brouillons dans la nouvelle expérience de demande](known-issues-workfront/wf-requests-issues-with-drafts.md)
-      + [Demandes : les files d’attente de demandes apparaissent plusieurs fois.](known-issues-workfront/wf-requests-queues-duplicated.md)
-      + [Utilisateurs : impossible de mettre à jour l’accès utilisateur](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md)
-      + [Rapports : la requête du lac de données ne renvoie pas les résultats attendus](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md)
-      + [Rapports : les utilisateurs peuvent voir les données financières dans les visualisations du tableau de bord Zone de travail](known-issues-workfront/wf-reporting-users-can-see-financial-data.md)
-      + [Workfront Planning : impossible d’ajouter un champ à une vue](known-issues-workfront/wf-planning-cannot-add-field.md)
-      + [Approbations : le widget Mes approbations affiche les approbations terminées](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md)
-      + [Workfront Planning : erreur lors de la suppression d’un champ connecté](known-issues-workfront/wf-planning-cannot-delete-connected-field.md)
-      + [Utilisateurs : l’option de génération automatique d’épreuves est absente du profil utilisateur](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md)
-      + [Formulaires personnalisés : impossible de modifier les champs de texte enrichi](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md)
-      + [Utilisateurs : erreur lors de l’ouverture de la page Utilisateurs](known-issues-workfront/wf-users-cannot-open-user-tab.md)
-      + [Tâches : impossible de sélectionner le rôle utilisateur lors de la création d’une tâche](known-issues-workfront/wf-tasks-cannot-assign-user-role.md)
-      + [Bons à tirer : les changements de statut des BAT sont retardés.](known-issues-workfront/wf-proof-status-sync-delayed.md)
-      + [Tâches : les modifications apportées à une tâche ne sont pas enregistrées](known-issues-workfront/wf-tasks-inline-changes-not-saving.md)
-      + [Utilisateurs : la modification en masse d’utilisateurs supprime les pools de ressources et les rapports directs](known-issues-workfront/wf-users-bulk-editing-clears-resource-pools.md)
-      + [Demandes : impossible de charger le document à demander à partir de GDrive](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md)
-      + [Tâches : les modifications apportées à la section Affectations d’une tâche ne sont pas enregistrées](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md)
-      + [Utilisateurs : problèmes liés aux modifications apportées au profil d&#39;épreuve](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md)
-      + [Demandes : autorisations non héritées lors de la création d’une demande](known-issues-workfront/wf-requests-permissions-not-inherited.md)
-      + [Plannings : autorisations de planification révoquées pour un groupe](known-issues-workfront/wf-schedules-group-permissions-revoked.md)
-      + [Affectations : les affectations d’équipe ne sont pas enregistrées](known-issues-workfront/wf-assignments-not-saved.md)
-      + [Tâches : heures planifiées non enregistrées lors de la création de la tâche](known-issues-workfront/wf-tasks-planned-hours-not-saving.md)
-      + [Feuilles de temps : feuilles de temps non générées](known-issues-workfront/wf-timesheets-not-generated.md)
-      + [Tâches : message « Accès insuffisant » lors de tâches de modification en ligne](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md)
+      + [Utilisateurs et utilisatrices : les utilisateurs et utilisatrices ne sont pas correctement configurés dans l’Adobe Admin Console.](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md)
+      + [Demandes : problèmes liés aux brouillons dans la nouvelle expérience de demande](known-issues-workfront/wf-requests-issues-with-drafts.md)
+      + [Demandes : les files d’attente de demandes apparaissent plusieurs fois.](known-issues-workfront/wf-requests-queues-duplicated.md)
+      + [Utilisateurs et utilisatrices : impossible de mettre à jour l’accès des utilisateurs et utilisatrices](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md)
+      + [Rapports : la requête du lac de données ne renvoie pas les résultats attendus.](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md)
+      + [Rapports : les utilisateurs et utilisatrices peuvent consulter les données financières dans les visualisations du tableau de bord de la zone de travail.](known-issues-workfront/wf-reporting-users-can-see-financial-data.md)
+      + [Planification Workfront : impossible d’ajouter un champ à une vue](known-issues-workfront/wf-planning-cannot-add-field.md)
+      + [Approbations : le widget Mes approbations affiche les approbations terminées.](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md)
+      + [Planification Workfront : erreur lors de la suppression d’un champ connecté](known-issues-workfront/wf-planning-cannot-delete-connected-field.md)
+      + [Utilisateurs et utilisatrices : l’option de génération automatique d’épreuves est absente du profil utilisateur.](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md)
+      + [Formulaires personnalisés : impossible de modifier les champs de texte enrichi](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md)
+      + [Utilisateurs et utilisatrices : erreur lors de l’ouverture de la page Utilisateurs et utilisatrices](known-issues-workfront/wf-users-cannot-open-user-tab.md)
+      + [Tâches : impossible de sélectionner le rôle utilisateur ou utilisatrice lors de la création d’une tâche](known-issues-workfront/wf-tasks-cannot-assign-user-role.md)
+      + [Épreuves : les modifications du statut de l’épreuve sont retardées.](known-issues-workfront/wf-proof-status-sync-delayed.md)
+      + [Tâches : les modifications en ligne apportées à une tâche ne sont pas enregistrées.](known-issues-workfront/wf-tasks-inline-changes-not-saving.md)
+      + [Utilisateurs et utilisatrices : la modification en masse d’utilisateurs et d’utilisatrices supprime les pools de ressources et les rapports directs.](known-issues-workfront/wf-users-bulk-editing-clears-resource-pools.md)
+      + [Demandes : impossible de charger le document à demander à partir de GDrive](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md)
+      + [Tâches : les modifications apportées à la section Affectations d’une tâche ne sont pas enregistrées.](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md)
+      + [Utilisateurs et utilisatrices : problèmes liés aux modifications apportées au profil d’épreuve](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md)
+      + [Demandes : autorisations non héritées lors de la création d’une demande](known-issues-workfront/wf-requests-permissions-not-inherited.md)
+      + [Plannings : autorisations de planification révoquées pour un groupe](known-issues-workfront/wf-schedules-group-permissions-revoked.md)
+      + [Affectations : les affectations d’équipe ne sont pas enregistrées.](known-issues-workfront/wf-assignments-not-saved.md)
+      + [Tâches : le nombre d’heures prévues n’est pas enregistré lors de la création d’une tâche](known-issues-workfront/wf-tasks-planned-hours-not-saving.md)
+      + [Feuilles de temps : les feuilles de temps ne sont pas générées.](known-issues-workfront/wf-timesheets-not-generated.md)
+      + [Tâches : message « Accès insuffisant » lors de la modification en ligne de tâches](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md)
       + [Approbations : liens vers les approbations non disponibles](known-issues-workfront/wf-approvals-link-not-appearing.md)
       + [Demandes : le créateur ou la créatrice du formulaire de demande n’a pas accès au formulaire.](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md)
       + [Utilisateurs et utilisatrices : il n’est possible de rechercher des fonctions qu’à l’aide du premier mot.](known-issues-workfront/wf-users-job-role-first-word.md)
@@ -207,7 +207,7 @@ ht-degree: 83%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problèmes connus dans Workfront Fusion](workfrontfusion.md)
    + Problèmes actifs dans [!DNL Workfront Fusion] {#fusion-current}
-      + [Workfront Fusion : erreur d’en-tête manquante sur les modules AWS](known-issues-workfront-fusion/fusion-missing-header-aws.md)
+      + [Workfront Fusion : erreur d’en-tête manquante sur les modules AWS](known-issues-workfront-fusion/fusion-missing-header-aws.md)
       + [Workfront Fusion : le module de recherche Jira renvoie une erreur.](known-issues-workfront-fusion/fusion-error-in-jira-search.md)
       + [Workfront Fusion : les mises à jour du webhook ne sont pas enregistrées automatiquement.](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md)
       + [Workfront Fusion : le scénario ne s’exécute pas.](known-issues-workfront-fusion/fusion-scenario-not-running.md)
@@ -223,11 +223,11 @@ ht-degree: 83%
       + [[!DNL Workfront Fusion] : le module  [!DNL Fusion] renvoie une erreur 404 sans autre information.](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [Les liens d’aide in-app de [!DNL Workfront Fusion] ne mènent pas à des pages d’aide spécifiques.](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
-+ [!DNL Workfront] Planification {#planning}
-   + [Problèmes connus dans  [!DNL Workfront]  planification](workfrontplanning.md)
++ Planification [!DNL Workfront] {#planning}
+   + [Problèmes connus dans la planification  [!DNL Workfront] ](workfrontplanning.md)
 
 + Application mobile [!DNL Workfront] {#mobile}
-   + [Problèmes connus dans l’application mobile  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problèmes connus dans l’application mobile  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 

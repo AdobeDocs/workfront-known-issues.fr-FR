@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 614b2b8e71b244a90adddec2795c0a8b1f04b4a1
 workflow-type: tm+mt
 source-wordcount: '406'
-ht-degree: 34%
+ht-degree: 81%
 
 ---
 
@@ -34,12 +34,12 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2026.
 
 **Problèmes liés aux brouillons dans la nouvelle expérience de demande**
 
-Les problèmes suivants ont été signalés concernant les brouillons dans la nouvelle expérience de demande :
+Les problèmes suivants ont été signalés concernant les brouillons dans la nouvelle expérience de demande :
 
 * Les demandes créées en tant que brouillon, puis envoyées, n’affichent que la première lettre de l’objet dans la liste des demandes.
 * Les brouillons ignorés ne sont pas supprimés de la liste des requêtes,
 
-#### Planifications
+#### Plannings
 
 **Impossible de voir les exceptions des années précédentes**
 
@@ -55,39 +55,39 @@ Cette mise à jour inclut uniquement des correctifs mineurs ou moins importants.
 
 +++
 
-+++**Semaine des mises à jour de maintenance de Workfront Fusion du 4 au 10 janvier 2026**
++++**Mises à jour de maintenance de Workfront Fusion, semaine du 4 au 10 janvier 2026**
 
-### Semaine des mises à jour de maintenance du 4 au 10 janvier 2026
+### Mises à jour de maintenance, semaine du 4 au 10 janvier 2026
 
 **Erreur d’en-tête manquant sur les modules AWS**
 
-Les modules AWS échouent avec l’erreur suivante :
+Les modules AWS échouent avec l’erreur suivante :
 
-« En-tête obligatoire manquant pour cette requête »
+« En-tête obligatoire manquant pour cette requête »
 
 +++
 
-+++**Semaine des mises à jour de maintenance du 4 au 10 janvier 2026**
++++**Mises à jour de maintenance, semaine du 4 au 10 janvier 2026**
 
-### Semaine des mises à jour de maintenance du 4 au 10 janvier 2026
+### Mises à jour de maintenance, semaine du 4 au 10 janvier 2026
 
 #### Approbations
 
-**Le widget Mes approbations affiche les approbations terminées**
+**Le widget Mes approbations affiche les approbations terminées.**
 
-Lorsque l’utilisateur consulte son widget Mes approbations sur l’Accueil, le widget inclut les épreuves qui ont déjà été approuvées.
+Lorsqu’une personne consulte son widget Mes approbations dans l’Accueil, le widget inclut les épreuves qui ont déjà été approuvées.
 
 #### Épreuves
 
-**Les modifications du statut des épreuves sont retardées**
+**Les modifications du statut des épreuves sont retardées.**
 
-Lorsqu’une décision est prise concernant une épreuve, elle ne s’affiche pas dans la zone Documents d’un projet pendant un maximum de 24 heures. Cela peut prêter à confusion, car le statut indique toujours En attente ou un autre statut obsolète, même si une décision a été prise.
+Lorsqu’une décision est prise concernant une épreuve, elle ne s’affiche pas dans la zone Documents d’un projet pendant un maximum de 24 heures. Cela peut prêter à confusion, car le statut indique toujours En attente ou un autre statut obsolète, même si une décision a été prise.
 
 #### Demandes
 
-**Les files d’attente des demandes apparaissent plusieurs fois**
+**Les files d’attente des demandes apparaissent plusieurs fois.**
 
-Lorsque l’utilisateur commence à créer une demande et sélectionne une file d’attente des demandes, celle-ci apparaît plusieurs fois dans la liste déroulante.
+Lorsqu’une personne commence à créer une demande et qu’elle sélectionne une file d’attente des demandes, celle-ci apparaît plusieurs fois dans la liste déroulante.
 
 
 +++
