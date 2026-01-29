@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 3b8387b0412b69d303c3f848be361fd83f2c328b
+source-git-commit: 0549c4661b03901a78f302b58b25c1b5ccb88df1
 workflow-type: tm+mt
-source-wordcount: '1657'
-ht-degree: 95%
+source-wordcount: '1675'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
+      + [Formulaires personnalisés : la logique d’affichage ne s’affiche pas correctement sur le formulaire de demande](known-issues-workfront/wf-custom-forms-display-logic-not-triggering.md)
+      + [Connexion : Workfront ne se charge pas après la connexion](known-issues-workfront/wf-login-wf-does-not-load.md)
       + [Équilibreur de charge de travail : les heures par utilisateur ne sont pas calculées correctement](known-issues-workfront/wf-workload-balancer-hours-per-user-not-correct.md)
       + [Documents : le panneau Résumé est vide](known-issues-workfront/wf-documents-summary-panel-is-blank.md)
       + [Demandes : erreur « Vous ne disposez pas d’un accès suffisant » lors de la copie de demandes](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md)
@@ -225,10 +227,10 @@ ht-degree: 95%
       + [Les liens d’aide in-app de [!DNL Workfront Fusion] ne mènent pas à des pages d’aide spécifiques.](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + Planification [!DNL Workfront] {#planning}
-   + [Problèmes connus dans la planification  [!DNL Workfront] &#x200B;](workfrontplanning.md)
+   + [Problèmes connus dans la planification  [!DNL Workfront] ](workfrontplanning.md)
 
 + Application mobile [!DNL Workfront] {#mobile}
-   + [Problèmes connus dans l’application mobile  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problèmes connus dans l’application mobile  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 

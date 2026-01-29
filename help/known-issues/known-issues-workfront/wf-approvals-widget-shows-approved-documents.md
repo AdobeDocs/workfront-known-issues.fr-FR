@@ -3,9 +3,9 @@ title: 'Approbations : le widget Mes approbations affiche les approbations term
 description: Lorsqu’une personne consulte son widget Mes approbations dans l’Accueil, le widget inclut les épreuves qui ont déjà été approuvées.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: c98508b66854edc5ca9c3c25751c27462dfaf9c8
+source-git-commit: 0549c4661b03901a78f302b58b25c1b5ccb88df1
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '64'
 ht-degree: 100%
 
 ---
@@ -13,13 +13,10 @@ ht-degree: 100%
 
 # Approbations : le widget Mes approbations affiche les approbations terminées.
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on January 8, 2026.
+>Ce problème a été résolu le vendredi 29 janvier 2026.
 
--->
 
 Lorsqu’une personne consulte son widget Mes approbations dans l’Accueil, le widget inclut les épreuves qui ont déjà été approuvées.
 
