@@ -2,9 +2,9 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0b5281162e06a95b3f4da1c566e890cfad956912
+source-git-commit: 3b8387b0412b69d303c3f848be361fd83f2c328b
 workflow-type: tm+mt
-source-wordcount: '1648'
+source-wordcount: '1657'
 ht-degree: 95%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
+      + [Équilibreur de charge de travail : les heures par utilisateur ne sont pas calculées correctement](known-issues-workfront/wf-workload-balancer-hours-per-user-not-correct.md)
       + [Documents : le panneau Résumé est vide](known-issues-workfront/wf-documents-summary-panel-is-blank.md)
       + [Demandes : erreur « Vous ne disposez pas d’un accès suffisant » lors de la copie de demandes](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md)
       + [Programmes : impossible de voir les exceptions des années précédentes](known-issues-workfront/wf-schedules-cannot-see-previous-year-exceptions.md)
@@ -224,10 +225,10 @@ ht-degree: 95%
       + [Les liens d’aide in-app de [!DNL Workfront Fusion] ne mènent pas à des pages d’aide spécifiques.](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + Planification [!DNL Workfront] {#planning}
-   + [Problèmes connus dans la planification  [!DNL Workfront] &#x200B;](workfrontplanning.md)
+   + [Problèmes connus dans la planification  [!DNL Workfront] ](workfrontplanning.md)
 
 + Application mobile [!DNL Workfront] {#mobile}
-   + [Problèmes connus dans l’application mobile  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problèmes connus dans l’application mobile  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 
