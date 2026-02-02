@@ -4,10 +4,10 @@ description: 'Problèmes signalés et connus dans la nouvelle expérience [!DNL 
 keywords: nouveau fichier, ajouter un fichier
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 0549c4661b03901a78f302b58b25c1b5ccb88df1
+source-git-commit: 6b58f9558769fea6280b1d34a45648e24fd97fe9
 workflow-type: tm+mt
-source-wordcount: '1124'
-ht-degree: 93%
+source-wordcount: '1144'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | --- | --- |
+| [Formulaires personnalisés : la logique d’affichage ne s’affiche pas correctement sur le formulaire de demande](known-issues-workfront/wf-custom-forms-display-logic-not-triggering.md) | vendredi 29 janvier 2026 |
 | [Connexion : Workfront ne se charge pas après la connexion](known-issues-workfront/wf-login-wf-does-not-load.md) | vendredi 29 janvier 2026 |
 | [Équilibreur de charge de travail : les heures par utilisateur ne sont pas calculées correctement](known-issues-workfront/wf-workload-balancer-hours-per-user-not-correct.md) | vendredi 29 janvier 2026 |
 | [Utilisateurs et utilisatrices : les utilisateurs et utilisatrices ne sont pas correctement configurés dans l’Adobe Admin Console.](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md) | 7 janvier 2026 |
@@ -40,6 +41,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | --- | --- |
+| [Demandes : « Aucun objet » s’affiche dans la liste des demandes](known-issues-workfront/wf-requests-no-subject.md) | mardi 2 février 2026 |
 | [Demandes : le brouillon créé avec la demande entraîne des problèmes](known-issues-workfront/wf-requests-issues-with-drafts.md) | vendredi 29 janvier 2026 |
 | [Documents : le panneau Résumé est vide](known-issues-workfront/wf-documents-summary-panel-is-blank.md) | jeudi 21 janvier 2026 |
 | [Demandes : erreur « Vous ne disposez pas d’un accès suffisant » lors de la copie de demandes](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md) | mercredi 20 janvier 2026 |
@@ -87,7 +89,7 @@ Les correctifs de ces problèmes ne figurent pas actuellement sur la feuille de 
 | [Documents : problèmes liés à la liste de documents](known-issues-workfront/inactive/wf-documents-list-missing-elements.md) | 23 mars 2023 |
 | [Documents : lorsqu’un document est déplacé vers un nouveau projet, les autorisations ne sont pas héritées.](known-issues-workfront/inactive/wf-documents-permissions-not-interited-when-moved.md) | 7 mars 2023 |
 | [Tâches : les heures ne sont pas enregistrées lors de la saisie des heures dans le panneau [!UICONTROL Résumé de la tâche]](known-issues-workfront/inactive/wf-hours-do-not-save-when-scrolling-summary-panel.md). | 2 décembre 2022 |
-| [Formulaires personnalisés : la modification des champs des formulaires personnalisés interobjet exige un accès de niveau [!UICONTROL Gérer] ou [!UICONTROL Modifier]. &#x200B;](known-issues-workfront/inactive/wf-custom-form-stuck-in-manage-edit-access.md) | 21 novembre 2022 |
+| [Formulaires personnalisés : la modification des champs des formulaires personnalisés interobjet exige un accès de niveau [!UICONTROL Gérer] ou [!UICONTROL Modifier]. ](known-issues-workfront/inactive/wf-custom-form-stuck-in-manage-edit-access.md) | 21 novembre 2022 |
 | [Épreuves : l’épreuve n’est pas partagée avec les utilisateurs et utilisatrices du workflow de l’épreuve](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md). | 18 septembre 2022 |
 | [Épreuves : le champ [!UICONTROL Étapes d’épreuve actives] est vide](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md). | 14 septembre 2022 |
 | [Agile : impossible de modifier les champs des formulaires personnalisés sur les cartes](known-issues-workfront/inactive/wf-agile-cannot-edit-fields-custom-cards.md) | 11 mai 2022 |
@@ -136,12 +138,12 @@ Les correctifs de ces problèmes ne figurent pas actuellement sur la feuille de 
 | [Épreuves : les épreuves sont créées lentement dans l’environnement Aperçu](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 8 juin 2023 |
 | [Épreuves : l’outil de mesure n’accepte pas les points décimaux.](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | 27 mars 2023 |
 | [[!UICONTROL Accueil] : les épreuves terminées sont bloquées dans la [!UICONTROL Liste de travail]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md). | 10 janvier 2023 |
-| [Épreuves : le statut de l’épreuve n’est pas mis à jour dans les listes de [!UICONTROL documents] &#x200B;](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md). | 5 décembre 2022 |
+| [Épreuves : le statut de l’épreuve n’est pas mis à jour dans les listes de [!UICONTROL documents] ](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md). | 5 décembre 2022 |
 | [API : impossible de trier les champs dynamiques](known-issues-workfront/inactive/wf-api-cannot-sort-by-dynamic-fields.md) | 31 octobre 2022 |
 | [[!UICONTROL Configuration] : les listes se chargent lentement dans [!UICONTROL Configuration]](known-issues-workfront/inactive/wf-setup-lists-load-slowly.md). | 28 octobre 2022 |
 | [Tableaux de bord : les graphiques des rapports affichés dans un tableau de bord ne sont pas de la même couleur que ceux affichés dans le rapport.](known-issues-workfront/inactive/wf-dashboard-reports-wrong-color.md) | 5 août 2022 |
-| [Agile : problèmes de déplacement de cartes dans le tableau [!UICONTROL Agile] &#x200B;](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md) | 27 avril 2022 |
-| [[!UICONTROL Accueil] : l’option Nouvelle tâche indique des utilisateurs et des utilisatrices désactivés dans le champ [!UICONTROL Affecter à]. &#x200B;](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md) | 1er octobre 2021 |
+| [Agile : problèmes de déplacement de cartes dans le tableau [!UICONTROL Agile] ](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md) | 27 avril 2022 |
+| [[!UICONTROL Accueil] : l’option Nouvelle tâche indique des utilisateurs et des utilisatrices désactivés dans le champ [!UICONTROL Affecter à]. ](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md) | 1er octobre 2021 |
 | [Mises à jour : le nom de l’équipe n’apparaît pas dans @mention.](known-issues-workfront/inactive/wf-updates-team-name-not-in-mention.md) | 1er octobre 2021 |
 | [Agile : incohérence dans les [!UICONTROL Points terminés] d’une itération.](known-issues-workfront/inactive/wf-agile-discrepancy-in-completed-points.md) | 22 juin 2021 |
 | [Notifications par e-mail : « [!UICONTROL Je suis affecté à un événement] » apparaît](known-issues-workfront/inactive/wf-email-notif-im-assigned-to-issue-displaying.md) | 2 juin 2021 |
