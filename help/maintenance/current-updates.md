@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 0549c4661b03901a78f302b58b25c1b5ccb88df1
+source-git-commit: adace5b91add331ee783d029763298b62d3ec8db
 workflow-type: tm+mt
-source-wordcount: '449'
-ht-degree: 79%
+source-wordcount: '601'
+ht-degree: 65%
 
 ---
 
@@ -23,6 +23,34 @@ Ces mises à jour incluent également d’autres correctifs mineurs ou moins con
 Pour connaître les mises à jour de maintenance antérieures à 2026, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates).
 
 Les mises à jour de maintenance suivantes ont été effectuées en 2026.
+
+## Mises à jour de février 2026
+
++++**Semaine de mise à jour de maintenance du 1 au 7 février 2026**
+
+### Semaine de mise à jour de maintenance du 1 au 7 février 2026
+
+#### Demandes
+
+**’erreur « Vous ne disposez pas d’un accès suffisant » lors de la copie de requêtes**
+
+Lorsque l’utilisateur tente de copier une demande via la page de demande, la demande n’est pas copiée et le message d’erreur suivant apparaît :
+
+« Vous ne disposez pas d’un accès suffisant pour modifier ce problème. »
+
+**’erreur « Vous devez être un administrateur système » lors de la copie de requêtes**
+
+Lorsque l’utilisateur copie une demande et tente de l’enregistrer, la demande n’est pas enregistrée et le message suivant apparaît :
+
+« Vous devez être un administrateur système pour modifier cette valeur de paramètre de donnée personnalisée. »
+
+#### Utilisateurs et utilisatrices
+
+**Les utilisateurs ne sont pas correctement configurés sur le Adobe Admin Console**
+
+Si une personne existe déjà dans une Adobe Admin Console et qu’elle est ensuite automatiquement configurée dans une console qui inclut Workfront, cette personne n’est pas correctement configurée dans la nouvelle console.
+
++++
 
 ## Mises à jour de janvier 2026
 

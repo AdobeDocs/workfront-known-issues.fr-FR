@@ -3,15 +3,19 @@ title: 'Demandes : Vous devez être un administrateur système en erreur lors de
 description: Lorsque l’utilisateur copie une demande et tente de l’enregistrer, la demande n’est pas enregistrée et un message d’erreur apparaît
 hidefromtoc: true
 feature: Requests
-source-git-commit: c98508b66854edc5ca9c3c25751c27462dfaf9c8
+source-git-commit: adace5b91add331ee783d029763298b62d3ec8db
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 4%
+source-wordcount: '91'
+ht-degree: 10%
 
 ---
 
 
 # Demandes : erreur « Vous devez être un administrateur système » lors de la copie de demandes
+
+>[!NOTE]
+>
+>Ce problème a été résolu le mercredi 3 février 2026.
 
 Lorsque l’utilisateur copie une demande et tente de l’enregistrer, la demande n’est pas enregistrée et le message suivant apparaît :
 
