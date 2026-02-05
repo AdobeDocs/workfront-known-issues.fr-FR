@@ -3,15 +3,19 @@ title: 'Workfront Proof : les épreuves n’apparaissent pas dans les dossiers'
 description: Lorsque l’utilisateur consulte un dossier qui doit contenir des ressources, le dossier n’affiche pas ces dernières.
 hidefromtoc: true
 feature: Workfront Proof
-source-git-commit: 5b9f2008a89c95a723523a7fad8af006754d037c
+source-git-commit: 0c073b41fc21ca7951c961e0bba94e05b66c958b
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 7%
+source-wordcount: '62'
+ht-degree: 16%
 
 ---
 
 
 # Workfront Proof : les épreuves n’apparaissent pas dans les dossiers
+
+>[!NOTE]
+>
+>Ce problème a été résolu le jeudi 4 février 2026.
 
 Lorsque l’utilisateur consulte un dossier qui doit contenir des ressources, le dossier n’affiche pas ces dernières.
 
