@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: adace5b91add331ee783d029763298b62d3ec8db
+source-git-commit: 90752886f1ea4a0388d50685a597a6aca7393949
 workflow-type: tm+mt
-source-wordcount: '601'
-ht-degree: 65%
+source-wordcount: '761'
+ht-degree: 52%
 
 ---
 
@@ -30,7 +30,21 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2026.
 
 ### Semaine de mise à jour de maintenance du 1 au 7 février 2026
 
+#### Documents
+
+**Le panneau Résumé est vide**
+
+Lorsque l’utilisateur consulte une liste Documents et clique sur un document, le panneau Résumé s’ouvre, mais reste vide. L’utilisateur ne peut pas fermer le panneau Résumé .
+
+Si l’utilisateur recharge la page, le panneau Résumé peut se remplir comme prévu. Cependant, si l’utilisateur clique sur un autre document, le panneau de résumé de ce document est vide.
+
 #### Demandes
+
+**« Aucun objet » s’affiche dans la liste des demandes**
+
+Lorsque l’utilisateur consulte la liste des demandes dans la nouvelle expérience de demande, certaines des demandes affichent « Aucun objet » dans la colonne Objet.
+
+Si l’utilisateur ouvre l’une de ces requêtes, il constate qu’elle a bien un objet.
 
 **’erreur « Vous ne disposez pas d’un accès suffisant » lors de la copie de requêtes**
 
@@ -49,6 +63,12 @@ Lorsque l’utilisateur copie une demande et tente de l’enregistrer, la demand
 **Les utilisateurs ne sont pas correctement configurés sur le Adobe Admin Console**
 
 Si une personne existe déjà dans une Adobe Admin Console et qu’elle est ensuite automatiquement configurée dans une console qui inclut Workfront, cette personne n’est pas correctement configurée dans la nouvelle console.
+
+#### Équilibreur de charge de travail
+
+**Les heures par utilisateur ne sont pas calculées correctement**
+
+Lorsque l’utilisateur consulte les heures d’un utilisateur dans l’équilibreur de charge de travail , ces heures peuvent ne pas être calculées correctement. Par exemple, la vue Semaine peut afficher un calcul des heures, mais la vue 4 semaines affiche un nombre d&#39;heures différent pour cette semaine.
 
 +++
 
