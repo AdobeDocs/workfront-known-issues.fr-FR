@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 90752886f1ea4a0388d50685a597a6aca7393949
+source-git-commit: 2d2dff728a9c26ceaeb93545258403b3fd176f3f
 workflow-type: tm+mt
-source-wordcount: '761'
-ht-degree: 52%
+source-wordcount: '798'
+ht-degree: 51%
 
 ---
 
@@ -25,6 +25,18 @@ Pour connaître les mises à jour de maintenance antérieures à 2026, consultez
 Les mises à jour de maintenance suivantes ont été effectuées en 2026.
 
 ## Mises à jour de février 2026
+
++++**Semaine de mise à jour de maintenance du 8 au 14 février 2026**
+
+### Semaine de mise à jour de maintenance du 8 au 14 février 2026
+
+#### Rapports
+
+**La requête du lac de données ne renvoie pas les résultats attendus**
+
+Lorsque le lac de données est interrogé, il ne renvoie pas tous les résultats attendus.
+
++++
 
 +++**Semaine de mise à jour de maintenance du 1 au 7 février 2026**
 
