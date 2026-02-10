@@ -2,9 +2,9 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2d2dff728a9c26ceaeb93545258403b3fd176f3f
+source-git-commit: 50106ee9af1f41283cabe146785f0c792601ccf2
 workflow-type: tm+mt
-source-wordcount: '1692'
+source-wordcount: '1697'
 ht-degree: 93%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
+      + [Utilisateurs : impossible de supprimer les rapports directs](known-issues-workfront/wf-users-cannot-remove-direct-reports.md)
       + [Demandes : impossible de charger un document lors du remplissage d’une demande](known-issues-workfront/wf-request-cannot-submit-with-document.md)
       + [Demandes : « Aucun objet » s’affiche dans la liste des demandes](known-issues-workfront/wf-requests-no-subject.md)
       + [Formulaires personnalisés : la logique d’affichage ne s’affiche pas correctement sur le formulaire de demande](known-issues-workfront/wf-custom-forms-display-logic-not-triggering.md)
@@ -229,10 +230,10 @@ ht-degree: 93%
       + [Les liens d’aide in-app de [!DNL Workfront Fusion] ne mènent pas à des pages d’aide spécifiques.](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + Planification [!DNL Workfront] {#planning}
-   + [Problèmes connus dans la planification  [!DNL Workfront] &#x200B;](workfrontplanning.md)
+   + [Problèmes connus dans la planification  [!DNL Workfront] ](workfrontplanning.md)
 
 + Application mobile [!DNL Workfront] {#mobile}
-   + [Problèmes connus dans l’application mobile  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problèmes connus dans l’application mobile  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 
