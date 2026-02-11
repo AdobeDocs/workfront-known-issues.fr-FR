@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 50106ee9af1f41283cabe146785f0c792601ccf2
+source-git-commit: 926f7feb7e740d5a857cfa66ea186128ae6171b1
 workflow-type: tm+mt
-source-wordcount: '859'
-ht-degree: 53%
+source-wordcount: '951'
+ht-degree: 48%
 
 ---
 
@@ -37,6 +37,12 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2026.
 Lorsque le lac de données est interrogé, il ne renvoie pas tous les résultats attendus.
 
 #### Demandes
+
+**Le brouillon créé avec la requête entraîne des problèmes**
+
+Lorsque l’utilisateur crée et envoie une nouvelle demande dans la nouvelle expérience de demande, un brouillon est également créé. Le brouillon n’affiche que la première lettre du nom de la requête envoyée et toute tentative d’ouverture génère une erreur « Échec de récupération ».
+
+En outre, si la demande soumise est ensuite supprimée, elle semble être supprimée mais reste visible dans la zone des Demandes de Workfront. Si l’utilisateur tente de rouvrir la demande, un message l’informant que la demande n’existe pas s’affiche.
 
 **Problèmes liés aux brouillons dans la nouvelle expérience de demande**
 
