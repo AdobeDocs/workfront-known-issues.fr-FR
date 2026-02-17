@@ -4,10 +4,10 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Proof]
 keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: dc6d6c021ec44ad74aa0a40319235208594eecaf
+source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
 workflow-type: tm+mt
-source-wordcount: '408'
-ht-degree: 98%
+source-wordcount: '436'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Validations : les validations sont verrouillées automatiquement](known-issues-workfront/wf-approvals-are-locked.md) | mercredi 17 février 2026 |
 | [Épreuves : impossible de taguer certaines personnes](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 février 2025 |
 | [Intégrations : lier un dossier depuis [!DNL Google Drive] ne lie pas les ressources dans le dossier.](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juin 2024 |
 
@@ -36,6 +37,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Accueil : les mentions des épreuves n’apparaissent pas dans le widget Mentions](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md) | mercredi 17 février 2026 |
+| [Approbations : impossible d’approuver le document à partir du widget Mes approbations de l’Accueil](known-issues-workfront/wf-approval-not-work-from-widget.md) | mercredi 17 février 2026 |
 | [Workfront Proof : les épreuves n&#39;apparaissent pas dans les dossiers](known-issues-workfront-proof/proof-folders-not-showing-proofs.md) | samedi 6 février 2026 |
 | [Approbations : le widget Mes approbations affiche les approbations terminées.](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | vendredi 15 janvier 2026 |
 | [Documents : les miniatures des documents ne s’affichent pas](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 17 avril 2025 |
@@ -71,7 +74,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [[!DNL Workfront Proof] : la zone [!UICONTROL Rapports] n’est plus prise en charge.](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 1er mars 2023 |
 | [Épreuves : une nouvelle étape a été créée, car la date limite ne correspond pas à celle de l’étape existante.](known-issues-workfront-proof/proof-new-stage-created.md) | 2 février 2023 |
 | [[!UICONTROL Accueil] : les épreuves terminées sont bloquées dans la [!UICONTROL Liste de travail]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md). | 10 janvier 2023 |
-| [Épreuves : le statut de l’épreuve n’est pas mis à jour dans les listes de [!UICONTROL documents] &#x200B;](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md). | 5 décembre 2022 |
+| [Épreuves : le statut de l’épreuve n’est pas mis à jour dans les listes de [!UICONTROL documents] ](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md). | 5 décembre 2022 |
 | [Épreuves : l’épreuve n’est pas partagée avec les utilisateurs et utilisatrices du workflow de l’épreuve](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md). | 18 septembre 2022 |
 | [Épreuves : le champ [!UICONTROL Étapes d’épreuve actives] est vide](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md). | 14 septembre 2022 |
 | [[!DNL Workfront Proof] : impossible d’ajouter un utilisateur ou une utiisatrice à l’épreuve en l’identifiant dans un commentaire](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 23 mars 2022 |

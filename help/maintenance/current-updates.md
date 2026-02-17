@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 926f7feb7e740d5a857cfa66ea186128ae6171b1
+source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
 workflow-type: tm+mt
-source-wordcount: '951'
-ht-degree: 48%
+source-wordcount: '1003'
+ht-degree: 46%
 
 ---
 
@@ -25,6 +25,18 @@ Pour connaître les mises à jour de maintenance antérieures à 2026, consultez
 Les mises à jour de maintenance suivantes ont été effectuées en 2026.
 
 ## Mises à jour de février 2026
+
++++**Semaine de mise à jour de maintenance du 15 au 21 février 2026**
+
+### Semaine de mise à jour de maintenance du 15 au 21 février 2026
+
+#### Formulaires personnalisés
+
+**La logique d’affichage ne s’affiche pas correctement sur le formulaire de demande**
+
+Lorsque l’utilisateur remplit un formulaire personnalisé lié à une demande, la logique d’affichage n’est pas suivie et certains champs peuvent ne pas s’afficher comme prévu.
+
++++
 
 +++**Semaine de mise à jour de maintenance du 8 au 14 février 2026**
 

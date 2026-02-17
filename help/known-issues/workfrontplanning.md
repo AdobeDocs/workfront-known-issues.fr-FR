@@ -4,10 +4,10 @@ description: Problèmes connus et signalés de  [!DNL Adobe Workfront Planning]
 keywords: nouveau fichier, ajouter un fichier
 feature: Workfront Planning
 exl-id: 8827b3cd-c19a-4322-ac0d-6c54c9e1fd29
-source-git-commit: 926f7feb7e740d5a857cfa66ea186128ae6171b1
+source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 91%
+source-wordcount: '153'
+ht-degree: 87%
 
 ---
 
@@ -25,7 +25,7 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | --- | --- |
-| Aucun | |
+| [Planification Workfront : erreur « Échec de soumission de la demande »](/help/known-issues/known-issues-workfront/wf-planning-error-fail-to-submit-request.md) | mercredi 17 février 2026 |
 
 {style="table-layout:auto"}
 

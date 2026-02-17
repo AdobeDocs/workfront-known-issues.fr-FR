@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 798b9d8993fa7a8551b175c9ef87f5d0415b980d
+source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
 workflow-type: tm+mt
-source-wordcount: '1718'
-ht-degree: 92%
+source-wordcount: '1758'
+ht-degree: 89%
 
 ---
 
@@ -17,6 +17,11 @@ ht-degree: 92%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
+      + [Accueil : les mentions des épreuves n’apparaissent pas dans le widget Mentions](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md)
+      + [Intégrations : les notifications Slack de Workfront ne se déclenchent pas](known-issues-workfront/wf-integrations-slack-notifications-not-triggering.md)
+      + [Approbations : impossible d’approuver le document à partir du widget Mes approbations de l’Accueil](known-issues-workfront/wf-approval-not-work-from-widget.md)
+      + [Planification Workfront : erreur « Échec de l’envoi de la demande »](/help/known-issues/known-issues-workfront/wf-planning-error-fail-to-submit-request.md)
+      + [Validations : les validations sont verrouillées automatiquement](known-issues-workfront/wf-approvals-are-locked.md)
       + [Affectations : impossible d’enregistrer la modification d’affectation avancée à partir d’un rapport](known-issues-workfront/wf-assignments-cannot-save-advanced-from-report.md)
       + [Rapports : les champs Workfront Planning n’apparaissent pas dans le Report Builder des tableaux de bord de la zone de travail](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md)
       + [Utilisateurs : impossible de supprimer les rapports directs](known-issues-workfront/wf-users-cannot-remove-direct-reports.md)
@@ -232,10 +237,10 @@ ht-degree: 92%
       + [Les liens d’aide in-app de [!DNL Workfront Fusion] ne mènent pas à des pages d’aide spécifiques.](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + Planification [!DNL Workfront] {#planning}
-   + [Problèmes connus dans la planification  [!DNL Workfront] &#x200B;](workfrontplanning.md)
+   + [Problèmes connus dans la planification  [!DNL Workfront] ](workfrontplanning.md)
 
 + Application mobile [!DNL Workfront] {#mobile}
-   + [Problèmes connus dans l’application mobile  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problèmes connus dans l’application mobile  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 
