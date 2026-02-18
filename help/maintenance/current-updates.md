@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
+source-git-commit: 7cb718dba611fea9837171c8b0e1fbb56811c7e4
 workflow-type: tm+mt
-source-wordcount: '1003'
-ht-degree: 46%
+source-wordcount: '1040'
+ht-degree: 44%
 
 ---
 
@@ -35,6 +35,13 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2026.
 **La logique d’affichage ne s’affiche pas correctement sur le formulaire de demande**
 
 Lorsque l’utilisateur remplit un formulaire personnalisé lié à une demande, la logique d’affichage n’est pas suivie et certains champs peuvent ne pas s’afficher comme prévu.
+
+#### Demandes
+
+**vue « All » n’affiche pas toutes les requêtes**
+
+Lorsque l’utilisateur consulte la liste des demandes dans la nouvelle expérience de demande et que la vue est définie pour afficher toutes les demandes, seules certaines des demandes s’affichent.
+
 
 +++
 
