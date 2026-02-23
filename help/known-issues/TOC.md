@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 7cb718dba611fea9837171c8b0e1fbb56811c7e4
+source-git-commit: 46d019fafcfe638580b6faac5c09bcc16516c465
 workflow-type: tm+mt
-source-wordcount: '1788'
-ht-degree: 88%
+source-wordcount: '1802'
+ht-degree: 87%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 88%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
+      + [Programmes : les autorisations héritées ne fonctionnent pas sur les programmes](known-issues-workfront/wf-programs-inherited-permissions-not-working.md)
+      + [Tableaux : les cartes en double s’affichent sur le tableau](known-issues-workfront/wf-boards-duplicate-cards.md)
       + [Tâches : une liste de tâches volumineuse accède soudainement à un autre emplacement de la liste](known-issues-workfront/wf-tasks-large-task-list-jumps.md)
       + [Approbations : le widget Mes approbations affiche les épreuves qui ne se trouvent pas à l’étape à laquelle l’utilisateur est affecté](known-issues-workfront/wf-approvals-widget-showing-stage-not-started.md)
       + [Accueil : les mentions des épreuves n’apparaissent pas dans le widget Mentions](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md)
@@ -239,10 +241,10 @@ ht-degree: 88%
       + [Les liens d’aide in-app de [!DNL Workfront Fusion] ne mènent pas à des pages d’aide spécifiques.](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + Planification [!DNL Workfront] {#planning}
-   + [Problèmes connus dans la planification  [!DNL Workfront] &#x200B;](workfrontplanning.md)
+   + [Problèmes connus dans la planification  [!DNL Workfront] ](workfrontplanning.md)
 
 + Application mobile [!DNL Workfront] {#mobile}
-   + [Problèmes connus dans l’application mobile  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problèmes connus dans l’application mobile  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 

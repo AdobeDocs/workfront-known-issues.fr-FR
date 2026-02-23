@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 7cb718dba611fea9837171c8b0e1fbb56811c7e4
+source-git-commit: 2b5a817ea5d3891fc3d344c746322c8c89e80e85
 workflow-type: tm+mt
-source-wordcount: '1040'
-ht-degree: 44%
+source-wordcount: '1265'
+ht-degree: 37%
 
 ---
 
@@ -26,15 +26,53 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2026.
 
 ## Mises à jour de février 2026
 
++++**Semaine de mise à jour de maintenance du 22 au 28 février 2026**
+
+### Semaine de mise à jour de maintenance du 22 au 28 février 2026
+
+#### Demandes
+
+**Impossible de charger un document lors du remplissage d’une demande**
+
+Lorsque l’utilisateur remplit une demande et tente de charger un document, le document n’est pas chargé et le message d’erreur suivant apparaît :
+
+« Erreur de chargement : essayez un fichier plus petit ou joignez un fichier après la création. »
+
++++
+
 +++**Semaine de mise à jour de maintenance du 15 au 21 février 2026**
 
 ### Semaine de mise à jour de maintenance du 15 au 21 février 2026
 
 #### Formulaires personnalisés
 
+**Les champs calculés n’affichent pas de données pour les utilisateurs non-administrateurs**
+
+Lorsque l’utilisateur non-administrateur Workfront consulte un formulaire personnalisé avec des champs extraits des données d’une section réservée aux administrateurs du formulaire, ce champ n’affiche pas la valeur calculée. Si l’utilisateur exécute Recalculer les expressions, la valeur s’affiche, mais elle est perdue lors de l’actualisation.
+
+Les administrateurs et administratrices de Workfront peuvent voir les valeurs de champ comme prévu.
+
 **La logique d’affichage ne s’affiche pas correctement sur le formulaire de demande**
 
 Lorsque l’utilisateur remplit un formulaire personnalisé lié à une demande, la logique d’affichage n’est pas suivie et certains champs peuvent ne pas s’afficher comme prévu.
+
+#### Page d’accueil
+
+**Les mentions des épreuves n’apparaissent pas dans le widget Mentions**
+
+Lorsque l’utilisateur est mentionné dans un commentaire sur une épreuve, cette mention n’est pas incluse dans le widget Mentions de l’Accueil.
+
+#### Connexion
+
+**Workfront ne se charge pas après la connexion**
+
+Lorsqu’un utilisateur se connecte à Workfront, Workfront ne se charge pas. Si l’utilisateur actualise la page, Workfront se charge comme prévu.
+
+#### Rapports
+
+Les champs Workfront Planning n’apparaissent pas dans le Report Builder des tableaux de bord de la zone de travail
+
+Lorsque l’utilisateur utilise le créateur dans les tableaux de bord de la zone de travail et tente de référencer des champs dans Workfront Planning, ces champs ne s’affichent pas dans le créateur.
 
 #### Demandes
 
