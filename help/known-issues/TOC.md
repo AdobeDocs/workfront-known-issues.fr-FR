@@ -2,10 +2,10 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 46d019fafcfe638580b6faac5c09bcc16516c465
+source-git-commit: 1cb1156af6f75045d7a62ae671b2241839726eae
 workflow-type: tm+mt
-source-wordcount: '1802'
-ht-degree: 87%
+source-wordcount: '1833'
+ht-degree: 86%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 87%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problèmes connus dans  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problèmes actuels dans [!DNL Adobe Workfront] {#wf-current}
+      + [Utilisateurs : les utilisateurs supprimés de Adobe Admin Console sont toujours actifs dans Workfront](known-issues-workfront/wf-users-deactived-in-admin-console-still-active-in-wf.md)
+      + [Workfront Planning : le statut de la demande indique « En cours » une fois la demande approuvée](/help/known-issues/known-issues-workfront/wf-planning-requests-remain-in-progress.md)
+      + [Notifications : l’utilisateur ne reçoit pas les notifications attendues](known-issues-workfront/wf-notifications-user-not-receiving.md)
       + [Programmes : les autorisations héritées ne fonctionnent pas sur les programmes](known-issues-workfront/wf-programs-inherited-permissions-not-working.md)
       + [Tableaux : les cartes en double s’affichent sur le tableau](known-issues-workfront/wf-boards-duplicate-cards.md)
       + [Tâches : une liste de tâches volumineuse accède soudainement à un autre emplacement de la liste](known-issues-workfront/wf-tasks-large-task-list-jumps.md)
@@ -241,10 +244,10 @@ ht-degree: 87%
       + [Les liens d’aide in-app de [!DNL Workfront Fusion] ne mènent pas à des pages d’aide spécifiques.](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + Planification [!DNL Workfront] {#planning}
-   + [Problèmes connus dans la planification  [!DNL Workfront] &#x200B;](workfrontplanning.md)
+   + [Problèmes connus dans la planification  [!DNL Workfront] ](workfrontplanning.md)
 
 + Application mobile [!DNL Workfront] {#mobile}
-   + [Problèmes connus dans l’application mobile  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problèmes connus dans l’application mobile  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 
