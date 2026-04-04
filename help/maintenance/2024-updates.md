@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Pour plus d’informations sur les pannes de maintenance pour tous les produits Adobe, y compris Workfront, voir la [page de statut d’Adobe](https://status.adobe.com/).
+>Pour plus d’informations sur les pannes de maintenance pour tous les produits Adobe, y compris Workfront, voir la [page de statut d’Adobe](https://status.adobe.com/fr-fr/).
 
 Cette page décrit les problèmes résolus par les mises à jour hebdomadaires de Workfront.
 
