@@ -1,10 +1,10 @@
 ---
-title: '« Page d’accueil : le widget Approbations n’est pas exact. »'
+title: 'Page d’accueil : le widget Approbations n’est pas exact.'
 description: Le widget En attente de mes approbations de la nouvelle expérience de la page d’accueil n’affiche pas correctement les approbations.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 3b96bccc-8e2c-47f5-8639-10e870953bb4
-source-git-commit: 4d5f810258b537324feb23e53f370a2c55877a0b
+source-git-commit: ea69ee1c87a75a05ecb7813a92bfa811635113dc
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 100%
@@ -19,7 +19,8 @@ ht-degree: 100%
 >[!NOTE]
 >
 >This issue was fixed on May 2, 2024.
- WF, WFP-->
+ WF, WFP
+-->
 
 Le widget En attente de mes approbations de la nouvelle expérience de la page d’accueil n’affiche pas correctement les approbations.
 
