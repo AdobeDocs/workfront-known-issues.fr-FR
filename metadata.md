@@ -4,19 +4,19 @@ solution: Workfront
 product: experience cloud
 type: Troubleshooting
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/workfront-known-issues.fr-FR
+git-repo: https://github.com/AdobeDocs/workfront-known-issues.en
 index: true
 feature-set: Workfront
-source-git-commit: e758575bf35ef5e54b79472ec9611b237e7456a5
-workflow-type: ht
-source-wordcount: '62'
-ht-degree: 100%
+source-git-commit: 78d1aa2666e1c267ce838befa24b754d0dea9efd
+workflow-type: tm+mt
+source-wordcount: '69'
+ht-degree: 49%
 
 ---
 
 
 # Métadonnées à usage interne
 
-Le fichier [!DNL metadata].md comprend des métadonnées au niveau du référentiel qui sont transmises aux fichiers [!DNL TOC.md] du guide de l’utilisateur dans le référentiel. Si vous souhaitez modifier du contenu metadata.md pour n’importe quel guide de l’utilisateur, effectuez vos modifications dans n’importe quel fichier TOC.md.
+Le fichier [!DNL metadata].md comprend des métadonnées au niveau du référentiel qui sont transmises au guide de l’utilisateur [!DNL TOC.md] aux fichiers du référentiel. Si vous souhaitez modifier le contenu de metadata.md pour un guide utilisateur, faites-le dans n’importe quel fichier TOC.md.
 
-Consultez les [Métadonnées](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=fr) pour obtenir une liste de valeurs valides pour la **solution**, le **produit** et le **type**.
+Consultez [ Métadonnées ](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html) pour une liste des valeurs valides pour **solution**, **produit** et **type**
