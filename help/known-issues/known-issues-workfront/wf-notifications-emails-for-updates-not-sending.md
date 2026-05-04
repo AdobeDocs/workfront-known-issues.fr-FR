@@ -1,17 +1,16 @@
 ---
-title: '« Notifications : les notifications par e-mail pour les mises à jour ne sont pas envoyées »'
+title: 'Notifications : les notifications par e-mail pour les mises à jour ne sont pas envoyées.'
 description: Les personnes qui ont activé les notifications par e-mail pour les mises à jour d’objets ne reçoivent pas toujours la notification attendue.
-hidefromtoc: true
 feature: Updates and Notifications
 exl-id: d320a7cd-a732-49a7-a4f3-045b85b7fb2b
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
-workflow-type: ht
-source-wordcount: '65'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '67'
 ht-degree: 100%
 
 ---
 
-# « Notifications : les notifications par e-mail pour les mises à jour ne sont pas envoyées »
+# Notifications : les notifications par e-mail pour les mises à jour ne sont pas envoyées.
 
 >[!NOTE]
 >

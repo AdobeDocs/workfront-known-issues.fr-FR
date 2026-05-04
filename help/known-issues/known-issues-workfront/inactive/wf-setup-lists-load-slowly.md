@@ -1,17 +1,16 @@
 ---
-title: '« Configuration : les listes se chargent lentement dans Configuration »'
+title: 'Configuration : les listes se chargent lentement dans Configuration'
 description: « Lorsqu’un utilisateur ou une utilisatrice se trouve dans la zone Configuration et tente de charger une liste, la liste se charge très lentement. Ce problème semble concerner diverses zones dans Configuration.
-hidefromtoc: true
 exl-id: 4b48b101-9c38-416a-a45b-203cf8f6eefc
 feature: System Setup and Administration
-source-git-commit: 52b204d63eda7752c90a4481aa2050e695cd4cc7
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 100%
+source-wordcount: '102'
+ht-degree: 94%
 
 ---
 
-# [!UICONTROL Configuration] : Les listes se chargent lentement dans [!UICONTROL Configuration]
+# [!UICONTROL Configuration] : les listes se chargent lentement dans [!UICONTROL Configuration].
 
 <!--Converted to story-->
 
@@ -21,4 +20,4 @@ ht-degree: 100%
 
 Lorsqu’un utilisateur se trouve dans la zone [!UICONTROL Configuration] et tente de charger une liste, la liste se charge très lentement. Ce problème semble concerner diverses zones dans [!UICONTROL Configuration].
 
-_Premier signalement le 20 octobre 2022._
+_Premier signalement le vendredi 20 octobre 2022._

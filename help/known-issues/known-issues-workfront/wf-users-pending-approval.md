@@ -1,12 +1,11 @@
 ---
 title: 'Utilisateurs et utilisatrices : le badge Approbation en attente s’affiche pour les nouvelles personnes'
 description: Les nouveaux utilisateurs et utilisatrices de Workfront peuvent s’afficher dans la liste avec un badge Approbation en attente. Le badge apparaît pendant plusieurs minutes et reste affiché si la page est actualisée.
-hidefromtoc: true
 feature: People Teams and Groups
 exl-id: 27db1155-f6aa-465d-a42b-1147cf5431e1
-source-git-commit: 39a085b629d6d2afc5a198e47ca639d2bb431b0d
-workflow-type: ht
-source-wordcount: '245'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '255'
 ht-degree: 100%
 
 ---
@@ -45,4 +44,4 @@ Pour valider les utilisateurs et utilisatrices ajoutés dans un lot volumineux, 
 Pour obtenir des instructions, voir la section [Gérer plusieurs utilisateurs et utilisatrices | Chargement CSV en masse](https://helpx.adobe.com/fr/enterprise/using/bulk-upload-users.html?lang=fr) dans la documentation Adobe.
 
 
-_Premier signalement le 8 mai 2025_
+_Premier signalement le vendredi 8 mai 2025._

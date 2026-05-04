@@ -1,17 +1,16 @@
 ---
-title: "Documents\_: l’icône du workflow de l’épreuve ne s’affiche pas"
+title: 'Documents : l’icône du workflow de l’épreuve ne s’affiche pas.'
 description: Lorsque l’utilisateur crée une épreuve dans la nouvelle expérience  [!DNL Workfront] , l’icône de statut de l’épreuve (SOCD) ne s’affiche parfois pas dans la liste Documents, et l’utilisateur doit actualiser la page.
 exl-id: ed99c9f3-412d-4e56-9b0a-84a1d53bdcfc
-hidefromtoc: true
 feature: Workfront Proof
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '103'
 ht-degree: 100%
 
 ---
 
-# Documents : l’icône du workflow de l’épreuve ne s’affiche pas
+# Documents : l’icône du workflow de l’épreuve ne s’affiche pas.
 
 <!--Converted to story-->
 

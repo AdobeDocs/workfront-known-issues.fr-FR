@@ -1,12 +1,11 @@
 ---
-title: '« Épreuves : l’épreuve empêche la conversion de la tâche ou du problème en projet. »'
+title: 'Épreuves : l’épreuve empêche la conversion de la tâche ou du problème en projet.'
 description: Lorsqu’un utilisateur ou une utilisatrice tente de convertir une tâche ou un problème qui inclut une épreuve générée sur le web en projet, le projet n’est pas créé et un message s’affiche. Une solution de contournement est disponible.
-hidefromtoc: true
 feature: Digital Content and Documents, Projects, Tasks, Work Management
 exl-id: 0022db1d-7ad3-4229-96a8-fb3823e89d9f
-source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '179'
 ht-degree: 100%
 
 ---
@@ -29,5 +28,5 @@ Procédez comme suit :
 2. Convertissez la tâche ou le problème en projet.
 3. Utilisez la fonctionnalité Déplacer document pour déplacer l’épreuve vers le nouveau projet.
 
-_Premier signalement le 28 mars 2024._
+_Premier signalement le vendredi 28 mars 2024._
 

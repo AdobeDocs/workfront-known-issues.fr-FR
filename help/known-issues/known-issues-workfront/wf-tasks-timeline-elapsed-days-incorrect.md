@@ -1,12 +1,11 @@
 ---
 title: 'Tâches : la durée des jours écoulés est incorrecte pour les tâches parents ayant des tâches enfants'
 description: Lorsqu’une tâche parent inclut des tâches enfants dans un calcul de jours écoulés, le total des jours écoulés pour la tâche parent est incorrect en étant inférieur à la somme des jours écoulés des tâches enfants.
-hidefromtoc: true
 feature: Tasks
 exl-id: 7995103f-bb3d-43f6-93c2-17c875b73e2b
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
-workflow-type: ht
-source-wordcount: '103'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '105'
 ht-degree: 100%
 
 ---

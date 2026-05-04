@@ -1,13 +1,12 @@
 ---
-title: "Accueil\_: l’option Nouvelle tâche indique des utilisateurs désactivés dans le champ “Affecter à”"
+title: 'Accueil : l’option Nouvelle tâche indique des utilisateurs désactivés dans le champ Affecter à'
 description: Lorsque l’utilisateur dans la nouvelle expérience  [!DNL Adobe Workfront]  crée une nouvelle tâche ou un nouvel événement dans la zone d’Accueil et tente d’y affecter un utilisateur, des utilisateurs désactivés peuvent être sélectionnés dans la liste déroulante de [!UICONTROL saisie semi-automatique].
 exl-id: 32257ac1-9804-4793-9c37-62ca5608df3d
 feature: Get Started with Workfront, Tasks
-hidefromtoc: true
-source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 100%
+source-wordcount: '97'
+ht-degree: 88%
 
 ---
 
@@ -17,4 +16,4 @@ ht-degree: 100%
 
 Lorsque l’utilisateur dans la nouvelle expérience [!DNL Adobe Workfront] crée une nouvelle tâche ou un nouvel événement dans la zone d’[!UICONTROL Accueil] et tente d’y affecter un utilisateur, des utilisateurs désactivés peuvent être sélectionnés dans la liste déroulante de saisie semi-automatique.
 
-_Premier signalement le 15 juin 2021._
+_Premier signalement le mercredi 15 juin 2021._

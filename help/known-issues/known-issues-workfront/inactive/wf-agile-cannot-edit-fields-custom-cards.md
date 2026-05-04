@@ -3,10 +3,9 @@ title: 'Agile : impossible de modifier les champs des formulaires personnalisé
 description: Lorsque le champ d’une carte du tableau kanban extrait des données à partir d’un formulaire personnalisé, les utilisateurs ne sont pas en mesure de modifier ce champ directement à partir de la carte.
 exl-id: 3edad5bb-7deb-45ea-a89c-6587c34bea12
 feature: Agile
-hidefromtoc: true
-source-git-commit: d9a6571d614a6bdead444b4b1d3f9d03c0963752
-workflow-type: ht
-source-wordcount: '117'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '119'
 ht-degree: 100%
 
 ---
@@ -19,9 +18,9 @@ ht-degree: 100%
 
 Lorsque le champ d’une carte du tableau kanban extrait des données à partir d’un formulaire personnalisé, les utilisateurs ne sont pas en mesure de modifier ce champ directement à partir de la carte.
 
-**Solution**
+**Solution de contournement**
 
 Ouvrez la tâche et modifiez le champ dans la fenêtre [!UICONTROL Modifier la tâche].
 
-_Premier signalement le 12 avril 2022._
+_Premier signalement le mercredi 12 avril 2022._
 

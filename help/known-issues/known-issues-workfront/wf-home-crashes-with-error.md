@@ -1,17 +1,16 @@
 ---
-title: '« Accueil : la page d’accueil se bloque avec une erreur de mémoire insuffisante. »'
+title: 'Accueil : la maison se bloque avec une erreur de mémoire insuffisante'
 description: Lorsqu’une personne tente d’afficher la nouvelle page d’accueil, le site se bloque avec un message d’erreur. Une solution de contournement est disponible.
-hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: befeb093-6376-4c91-a4c4-f956b85660aa
-source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
-workflow-type: ht
-source-wordcount: '128'
-ht-degree: 100%
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '130'
+ht-degree: 93%
 
 ---
 
-# Accueil : la page d’accueil se bloque avec une erreur de mémoire insuffisante.
+# Accueil : la page d’accueil se bloque avec une erreur « Mémoire insuffisante ».
 
 >[!NOTE]
 >

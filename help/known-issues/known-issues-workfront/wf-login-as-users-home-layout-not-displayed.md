@@ -1,17 +1,16 @@
 ---
 title: 'Connexion en tant que : le modèle de mise en page Accueil des administrateurs ou administratrices s’affiche.'
 description: Lorsque la personne administratrice se connecte en tant qu’autre utilisateur ou utilisatrice et accède aux modèles de mise en page dans la configuration, son propre modèle de mise en page Accueil s’affiche à la place de la personne en tant que laquelle elle est connectée.
-hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 1276dd02-2399-4284-997e-8bdf3c2ce411
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
-workflow-type: ht
-source-wordcount: '110'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '112'
 ht-degree: 100%
 
 ---
 
-# Connexion en tant que : le modèle de mise en page Accueil de l’administrateur ou administratrice s’affiche
+# Connexion en tant que : le modèle de mise en page Accueil de l’administrateur ou de l’administratrice s’affiche.
 
 >[!NOTE]
 >

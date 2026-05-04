@@ -1,15 +1,14 @@
 ---
 title: 'Workfront Fusion : le module de recherche Jira renvoie une erreur.'
 description: Le module de recherche utilisé par le connecteur Jira hérité peut entraîner une erreur. Une solution de contournement est disponible.
-hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: 0f4dba4664f645920752cc0c346782c9582b0e54
-workflow-type: ht
-source-wordcount: '186'
+exl-id: 9502ffb3-f287-47b2-9b35-1a906345e924
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '188'
 ht-degree: 100%
 
 ---
-
 
 # Workfront Fusion : le module de recherche Jira renvoie une erreur.
 
@@ -33,5 +32,4 @@ Notez que :
 
 Si vous rencontrez cette erreur, vous pouvez remplacer le module de recherche du connecteur Jira hérité par celui du nouveau connecteur. Notez que le nouveau connecteur permet de sélectionner la version d’API utilisée. Veillez à sélectionner **V3** dans le champ **Version de l’API** lors de la création de la connexion.
 
-_Premier signalement le 15 septembre 2025._
-
+_Premier signalement le mardi 15 septembre 2025._

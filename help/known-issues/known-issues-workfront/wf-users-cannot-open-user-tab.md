@@ -1,15 +1,14 @@
 ---
 title: 'Utilisateurs et utilisatrices : erreur lors de l’ouverture de la page Utilisateurs et utilisatrices'
 description: Lorsqu’une personne tente d’ouvrir la page Utilisateurs et utilisatrices, la page ne s’ouvre pas et un message d’erreur apparaît.
-hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: e55fc268af331c75b7f2d1094edf483668e97080
-workflow-type: ht
-source-wordcount: '94'
+exl-id: 6efb4f4c-f096-49c3-ae89-62d5ee3f9aaa
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '98'
 ht-degree: 100%
 
 ---
-
 
 # Utilisateurs et utilisatrices : erreur lors de l’ouverture de la page Utilisateurs et utilisatrices
 

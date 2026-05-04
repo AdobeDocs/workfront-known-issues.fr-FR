@@ -1,15 +1,14 @@
 ---
 title: 'Intégrations : les notifications Slack de Workfront ne se déclenchent pas'
 description: 'Lorsqu’un événement se produit dans Workfront qui doit déclencher une notification Slack, la notification n’est pas envoyée. '
-hidefromtoc: true
 feature: Workfront Integrations and Apps
-source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
+exl-id: b8afdfb3-fad1-48fa-aacd-8e9ce829e994
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 3%
+source-wordcount: '106'
+ht-degree: 0%
 
 ---
-
 
 # Intégrations : les notifications Slack de Workfront ne se déclenchent pas
 
@@ -22,4 +21,4 @@ Les événements suivants sont concernés :
 
 Cela peut se produire même si les préférences de notification de l’utilisateur sont configurées pour envoyer la notification dans Slack.
 
-_Premier signalement le mardi 2 février 2026._
+_Premier signalement le 2 février 2026._

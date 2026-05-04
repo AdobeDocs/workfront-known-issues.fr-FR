@@ -1,15 +1,14 @@
 ---
 title: 'Planification Workfront : impossible d’ajouter un champ à une vue'
 description: Lorsqu’une personne tente d’ajouter un champ à une vue dans la planification Workfront, le champ n’est pas ajouté et un message s’affiche.
-hidefromtoc: true
 feature: Workfront Planning
-source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
-workflow-type: ht
-source-wordcount: '97'
+exl-id: 6c0dac0b-b294-491d-973a-88e0ff8d3aef
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '101'
 ht-degree: 100%
 
 ---
-
 
 # Planification Workfront : impossible d’ajouter un champ à une vue
 

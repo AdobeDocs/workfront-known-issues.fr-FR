@@ -1,17 +1,16 @@
 ---
-title: '« Navigation : le bouton Retour ne revient pas à la page précédente. »'
+title: 'Navigation : le bouton Retour ne permet pas de revenir à la page précédente.'
 description: Lorsqu’un utilisateur ou une utilisatrice de Workfront clique sur le bouton Retour de son navigateur, ce dernier ne fonctionne pas comme prévu.
-hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: cba19c37-ca23-4eb6-93d5-b4ad7ab00c28
-source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
-workflow-type: ht
-source-wordcount: '119'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '121'
 ht-degree: 100%
 
 ---
 
-# Navigation : le bouton Retour ne revient pas à la page précédente.
+# Navigation : le bouton Retour ne permet pas de revenir à la page précédente.
 
 >[!NOTE]
 >
@@ -22,4 +21,4 @@ Lorsqu’un utilisateur ou une utilisatrice de Workfront clique sur le bouton Re
 * Le nom de l’onglet du navigateur change, mais la page ne change pas. Le fait de cliquer à nouveau sur le bouton Retour peut résoudre le problème.
 * La personne est dirigée vers la page de destination de son navigateur.
 
-_Premier signalement le 3 juin 2024._
+_Premier signalement le mardi 3 juin 2024._

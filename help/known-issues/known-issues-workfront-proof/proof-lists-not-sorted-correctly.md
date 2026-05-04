@@ -1,13 +1,12 @@
 ---
-title: '« Workfront Proof : les listes ne sont pas triées correctement. »'
+title: 'Workfront Proof : les listes ne sont pas triées correctement'
 description: Lorsqu’une personne utilisatrice consulte une liste dans Workfront Proof pour laquelle un tri est appliqué (comme le nom), le tri n’est pas exact.
-hidefromtoc: true
 exl-id: 89dcfc45-0ea3-4ba6-8778-865adff9c456
 feature: Workfront Proof
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 100%
+source-wordcount: '76'
+ht-degree: 90%
 
 ---
 
@@ -21,4 +20,4 @@ Lorsqu’un utilisateur ou une utilisatrice consulte une liste dans [!DNL Workfr
 
 Utilisez des filtres pour rechercher les informations souhaitées.
 
-_Premier signalement le 10 mars 2023._
+_Premier signalement le samedi 10 mars 2023._

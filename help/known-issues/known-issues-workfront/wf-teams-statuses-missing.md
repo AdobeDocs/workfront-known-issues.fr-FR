@@ -1,12 +1,11 @@
 ---
-title: "Équipes : problèmes liés à la définition des états de l’équipe pour le bouton Terminé"
-description: Des problèmes ont été signalés concernant les états du bouton [!UICONTROL Terminé] lors de la modification ou de la création d’une équipe. Une solution de contournement est disponible.
-hidefromtoc: true
+title: 'Équipes : problèmes liés à la définition des statuts d’équipe pour le bouton Terminé '
+description: Des problèmes ont été signalés concernant les statuts du bouton [!UICONTROL Terminé] lors de la modification ou de la création d’une équipe. Une solution est disponible.
 feature: People Teams and Groups
 exl-id: b5d1ed7c-02af-49d0-ac0e-284f615f4daa
-source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '136'
 ht-degree: 78%
 
 ---

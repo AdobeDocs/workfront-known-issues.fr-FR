@@ -1,12 +1,11 @@
 ---
 title: 'Connexion en tant que : les personnes administrant des groupes ne peuvent pas se connecter en tant qu’autre utilisateur ou utilisatrice.'
 description: Lorsque la personne administrant des groupes tente de se connecter en tant qu’autre utilisateur ou utilisatrice, l’opération échoue. À la place, la bannière Connexion en tant que affiche le nom de la personne administrant des groupes, qui voit son propre compte.
-hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 853cf466-f4f8-4f76-aac1-b7d62f286c4b
-source-git-commit: 62326cae8815b0ee835a882fbedd9b1615369a5f
-workflow-type: ht
-source-wordcount: '106'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '110'
 ht-degree: 100%
 
 ---
@@ -15,8 +14,8 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Ce problème a été résolu le 27 mars 2025.
+>Ce problème a été résolu le vendredi 27 mars 2025.
 
 Lorsque la personne administrant des groupes tente de se connecter en tant qu’autre utilisateur ou utilisatrice, l’opération échoue. À la place, la bannière « Connexion en tant que » affiche le nom de la personne administrant des groupes, qui voit son propre compte.
 
-_Premier signalement le 18 février 2025._
+_Premier signalement le mercredi 18 février 2025._

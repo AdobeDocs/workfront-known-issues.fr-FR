@@ -3,10 +3,9 @@ title: 'Agile : incohérence dans les Points terminés d’une itération'
 description: Le nombre indiqué pour les Points terminés sur le storyboard ne correspond parfois pas au nombre réel de points terminés pour les articles dans une itération
 exl-id: 65696b39-e2ab-409e-8bd3-811f399f4622
 feature: Agile
-hidefromtoc: true
-source-git-commit: 130e615f63c90d843f0f7f6e3adbea80c784164a
-workflow-type: ht
-source-wordcount: '100'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '102'
 ht-degree: 100%
 
 ---
@@ -21,4 +20,4 @@ ht-degree: 100%
 
 Le nombre indiqué pour les [!UICONTROL Points terminés] sur le storyboard ne correspond parfois pas au nombre réel de points terminés pour les articles dans une itération
 
-_Premier signalement le 13 avril 2021._
+_Premier signalement le mercredi 13 avril 2021._

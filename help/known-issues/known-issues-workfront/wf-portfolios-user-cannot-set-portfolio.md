@@ -1,13 +1,12 @@
 ---
-title: "Portfolios : l’utilisateur ne peut pas définir de portefeuille"
+title: 'Portfolios : la personne ne peut pas définir de portfolio.'
 description: Les personnes ne peuvent pas modifier les portfolios d’un projet si elles n’ont pas accès au portfolio.
-hidefromtoc: true
 feature: Work Management
 exl-id: 38ad277a-2087-486c-8715-93e275488697
-source-git-commit: 83768065b8ab38a516a5f1a51039ad6df05b5788
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 97%
+source-wordcount: '169'
+ht-degree: 100%
 
 ---
 

@@ -1,13 +1,12 @@
 ---
-title: "Épreuves\_: le rapport Approbation de l’épreuve ne détermine pas précisément les dates limites"
+title: 'Épreuves : le rapport Approbation de l’épreuve ne détermine pas précisément les dates limites'
 description: Lorsque l’utilisateur crée un rapport [!UICONTROL Approbation de l’épreuve] qui contient les dates limites de l’épreuve, les dates qui s’affichent dans le rapport ne sont pas correctes. Les calculs du rapport sont alors inexacts, et les résultats le sont également.
 exl-id: 1f636a74-9522-4f2b-8e91-4f0facf1cdbc
-hidefromtoc: true
 feature: Workfront Proof
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 100%
+source-wordcount: '117'
+ht-degree: 93%
 
 ---
 

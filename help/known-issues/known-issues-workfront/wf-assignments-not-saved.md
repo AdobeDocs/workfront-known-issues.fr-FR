@@ -1,15 +1,14 @@
 ---
 title: 'Affectations : les affectations d’équipe ne sont pas enregistrées.'
 description: Lorsque l’utilisateur ou l’utilisatrice affecte une tâche à une équipe dans Workfront, l’affectation de l’équipe n’est pas enregistrée et l’équipe n’est pas avertie du travail.
-hidefromtoc: true
 feature: Tasks, Work Management, People Teams and Groups
-source-git-commit: 7039085dbf83aa47d1ba70c8484e5d8572dee770
-workflow-type: ht
-source-wordcount: '76'
+exl-id: e0940c6b-e58a-4ddc-a49a-de1557ac6fa1
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '80'
 ht-degree: 100%
 
 ---
-
 
 # Affectations : les affectations d’équipe ne sont pas enregistrées.
 

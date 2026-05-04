@@ -1,12 +1,11 @@
 ---
-title: "Agile\_: problèmes de déplacement de cartes dans le tableau Agile"
+title: 'Agile : problèmes de déplacement de cartes dans le tableau Agile'
 description: Divers problèmes ont été signalés concernant le déplacement de cartes dans le tableau Agile.
 exl-id: ef347a24-efe6-4b11-b108-4db540005604
 feature: Agile
-hidefromtoc: true
-source-git-commit: 688d728782638489aacc76a1a12c38ab12215f8e
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '72'
 ht-degree: 100%
 
 ---
@@ -21,4 +20,4 @@ Les problèmes suivants ont été signalés concernant le déplacement de cartes
 * La carte retourne dans sa colonne d’origine avant de se déplacer
 * La carte est déplacée vers un endroit imprévisible de la nouvelle colonne
 
-_Premier signalement le 1 juin 2022._
+_Premier signalement le jeudi 1 juin 2022._
