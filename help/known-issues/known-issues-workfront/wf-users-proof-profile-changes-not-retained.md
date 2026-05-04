@@ -1,15 +1,14 @@
 ---
 title: 'Utilisateurs et utilisatrices : problèmes liés aux modifications apportées au profil d’épreuve'
 description: Des problèmes ont été signalés concernant la modification du profil d’épreuve d’un utilisateur ou d’une utilisatrice.
-hidefromtoc: true
 feature: People Teams and Groups, Digital Content and Documents
-source-git-commit: fb31912bbb8e62578293dc0b4df3761f433913da
-workflow-type: ht
-source-wordcount: '113'
+exl-id: 074068c7-cd11-4bcf-8f85-2ec3cd3333b1
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '117'
 ht-degree: 100%
 
 ---
-
 
 # Utilisateurs et utilisatrices : problèmes liés aux modifications apportées au profil d’épreuve
 

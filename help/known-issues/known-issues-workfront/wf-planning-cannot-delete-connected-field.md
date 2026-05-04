@@ -1,15 +1,14 @@
 ---
 title: 'Planification Workfront : erreur lors de la suppression d’un champ connecté'
 description: Lorsqu’une personne tente de supprimer un champ connecté dans la planification Workfront et qu’elle n’y parvient pas, le message « Impossible de supprimer le champ. Réessayez. » s’affiche.
-hidefromtoc: true
 feature: Workfront Planning
-source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
-workflow-type: ht
-source-wordcount: '82'
+exl-id: 1528907f-f584-4b64-8e8e-55beb591b6a5
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '86'
 ht-degree: 100%
 
 ---
-
 
 # Planification Workfront : erreur lors de la suppression d’un champ connecté
 

@@ -1,13 +1,12 @@
 ---
-title: "Épreuve\_: impossible d’ajouter un utilisateur à l’épreuve en l’identifiant dans un commentaire."
+title: 'Épreuve : impossible d’ajouter un utilisateur à l’épreuve en l’identifiant dans un commentaire'
 description: Lorsque l’utilisateur identifie un autre utilisateur qui n’appartient pas encore à l’épreuve dans un commentaire, il lui est impossible de sélectionner une fonction ou une adresse e-mail pour l’utilisateur et ne peut donc pas l’ajouter à l’épreuve.
 exl-id: 0ed7af8f-b177-4839-8045-24a5be2c764f
-hidefromtoc: true
 feature: Workfront Proof
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 100%
+source-wordcount: '141'
+ht-degree: 90%
 
 ---
 

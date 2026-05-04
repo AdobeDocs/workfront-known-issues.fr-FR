@@ -1,12 +1,11 @@
 ---
-title: "Calendrier\_: les tâches n’apparaissent pas"
+title: 'Calendrier : les tâches n’apparaissent pas'
 description: Lorsque l’utilisateur dispose d’un rapport de liste et d’un rapport de calendrier avec les mêmes filtres, certaines tâches s’affichent dans le rapport de liste, mais pas dans le rapport de calendrier.
 exl-id: 1c606629-0db5-4096-af13-5e637a16ea7c
 feature: Reports and Dashboards
-hidefromtoc: true
-source-git-commit: 688d728782638489aacc76a1a12c38ab12215f8e
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '108'
 ht-degree: 100%
 
 ---
@@ -19,4 +18,4 @@ ht-degree: 100%
 
 Lorsque l’utilisateur dispose d’un rapport de liste et d’un rapport de calendrier avec les mêmes filtres, certaines tâches s’affichent dans le rapport de liste, mais pas dans le rapport de calendrier.
 
-_Premier signalement le 31 octobre 2019._
+_Premier signalement le vendredi 31 octobre 2019._

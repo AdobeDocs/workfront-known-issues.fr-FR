@@ -1,17 +1,16 @@
 ---
-title: 'Tâches : impossible de modifier la Date d’achèvement prévue d’une tâche'
-description: « Lorsqu’un utilisateur ou une utilisatrice tente de modifier la date d’achèvement prévue d’une tâche, le champ ne répond pas. »  »
-hidefromtoc: true
+title: 'Tâches : impossible de modifier la Date d’achèvement prévue d’une tâche'
+description: 'Lorsque l’utilisateur tente de modifier la Date d’achèvement prévue d’une tâche, le champ ne répond pas. '
 exl-id: a65d7c71-cc27-4f44-8f96-3c56b83910ac
 feature: Tasks
-source-git-commit: 52b204d63eda7752c90a4481aa2050e695cd4cc7
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 100%
+source-wordcount: '120'
+ht-degree: 78%
 
 ---
 
-# Tâches : Impossible de modifier la [!UICONTROL Date d’achèvement prévue] d’une tâche
+# Tâches : impossible de modifier la [!UICONTROL Date d’achèvement prévue] d’une tâche
 
 >[!NOTE]
 >
@@ -24,11 +23,11 @@ Les zones suivantes sont concernées :
 * En-tête de la tâche
 * La zone [!UICONTROL Détails de la tâche]
 
-**Solution**
+**Solution de contournement**
 
 Utilisez l’une des méthodes suivantes :
 
 * Dans la zone [!UICONTROL Détails de la tâche], modifiez la [!UICONTROL Contrainte de tâche] en « [!UICONTROL Doit Terminer le] » puis modifiez la [!UICONTROL Date d’achèvement prévue].
 * Modifiez la [!UICONTROL Date d’achèvement prévue] en ligne dans la liste des tâches.
 
-_Premier signalement le 11 octobre 2022._
+_Premier signalement le mercredi 11 octobre 2022._

@@ -1,13 +1,12 @@
 ---
-title: '« Nouvelle page d’accueil : les valeurs par défaut des filtres de widgets et des regroupements ne respectent pas le modèle de mise en page. »'
+title: 'Nouvel accueil : les paramètres par défaut du filtre et du regroupement des widgets ne suivent pas le modèle de mise en page'
 description: Lorsqu’un utilisateur ou une utilisatrice consulte le widget Mes projets, Mes tâches ou Mes problèmes sur la nouvelle expérience de page d’accueil, le filtre et le regroupement par défaut de ce widget ne sont pas les paramètres par défaut du modèle de mise en page affecté à cet utilisateur ou à cette utilisatrice.
-hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: d7038535-98ff-405b-9c2b-d6474dc568c9
-source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
 source-wordcount: '191'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
 

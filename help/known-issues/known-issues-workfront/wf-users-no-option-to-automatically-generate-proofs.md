@@ -1,15 +1,14 @@
 ---
 title: 'Utilisateurs et utilisatrices : l’option de génération automatique d’épreuves est absente du profil utilisateur.'
 description: Lorsqu’une personne consulte un profil utilisateur, l’option Générer automatiquement des épreuves lors du chargement de documents n’est pas disponible. Cela peut se produire même si toutes les conditions préalables à l’option ont été remplies.
-hidefromtoc: true
 feature: People Teams and Groups, Digital Content and Documents
-source-git-commit: fb31912bbb8e62578293dc0b4df3761f433913da
-workflow-type: ht
-source-wordcount: '96'
+exl-id: 22d10571-0c83-4ef9-836d-4148ea1572d4
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '100'
 ht-degree: 100%
 
 ---
-
 
 # Utilisateurs et utilisatrices : l’option de génération automatique d’épreuves est absente du profil utilisateur.
 

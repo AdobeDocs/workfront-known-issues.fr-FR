@@ -1,15 +1,14 @@
 ---
 title: 'Tâches : message d’accès insuffisant en cas de modification en ligne des tâches'
 description: 'Lorsqu’une personne tente de modifier en ligne une tâche dans une liste ou un rapport et qu’elle n’y parvient pas, le message suivant apparaît : « Vous ne disposez pas d’un niveau d’accès suffisant pour créer des affectations pour cette tâche. »'
-hidefromtoc: true
 feature: Tasks
-source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
-workflow-type: ht
-source-wordcount: '127'
+exl-id: 9da566ea-b765-4212-8ec4-a2a795a9c037
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '131'
 ht-degree: 100%
 
 ---
-
 
 # Tâches : message « Accès insuffisant » lors de la modification en ligne de tâches
 

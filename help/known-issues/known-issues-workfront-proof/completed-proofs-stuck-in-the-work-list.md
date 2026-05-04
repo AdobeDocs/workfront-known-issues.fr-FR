@@ -1,17 +1,16 @@
 ---
-title: '« Accueil : les épreuves terminées sont bloquées dans la Liste de travail »'
+title: 'Accueil : les épreuves terminées sont bloquées dans la liste de travail'
 description: Une fois que l’utilisateur termine une épreuve, elle apparaît toujours dans la [!UICONTROL Liste de travail].
 exl-id: 1d52d477-4ba9-4a64-a91d-26682a6c607f
-hidefromtoc: true
 feature: Workfront Proof
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 100%
+source-wordcount: '76'
+ht-degree: 89%
 
 ---
 
-# [!UICONTROL Accueil] : les épreuves terminées sont bloquées dans la [!UICONTROL Liste de travail]
+# [!UICONTROL Accueil] : les épreuves terminées sont bloquées dans la [!UICONTROL Liste de travail].
 
 <!-- Do not change this note unless told to by Daniel Sipos-->
 

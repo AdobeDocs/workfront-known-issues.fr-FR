@@ -1,15 +1,14 @@
 ---
-title: '« Accueil : aucun accès ne s’affiche comme nom du projet. »'
-description: « Lorsqu’une personne affiche son widget Mes tâches sur la page d’accueil, "Aucun accès" apparaît dans la colonne Nom du projet. Cela se produit même si le nom du projet est visible dans le widget Mon travail. »
-hidefromtoc: true
+title: 'Accueil : aucun accès ne s’affiche comme nom de projet'
+description: Lorsque l’utilisateur consulte son widget Mes tâches dans l’accueil, Aucun accès n’apparaît dans la colonne Nom du projet . Cela se produit même si le nom du projet est visible dans le widget Mon travail .
 feature: Get Started with Workfront, Work Management
-source-git-commit: 944b2342e35f70d095380312a8742e7e97734818
-workflow-type: ht
-source-wordcount: '84'
-ht-degree: 100%
+exl-id: d31cd7ee-4c2b-43e4-9534-9cd075a80699
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '86'
+ht-degree: 53%
 
 ---
-
 
 # Accueil : « Aucun accès » s’affiche comme nom du projet.
 

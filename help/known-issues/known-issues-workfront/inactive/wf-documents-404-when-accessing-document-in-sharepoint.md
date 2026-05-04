@@ -1,13 +1,12 @@
 ---
-title: '« Documents : erreur 404 lors de l’accès à un document lié par SharePoint »'
+title: 'Documents : erreur 404 lors de l’accès au document lié par SharePoint'
 description: Lorsqu’un utilisateur ou une utilisatrice tente d’accéder à un document lié par SharePoint, cette personne est redirigée vers une page contenant une erreur 404.
-hidefromtoc: true
 feature: Digital Content and Documents, Workfront Integrations and Apps
 exl-id: b86ec92b-a27f-4ec3-acc2-0f0118014760
-source-git-commit: 875945978c7bdb4a7128ade826b6fbc31da04ae9
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 100%
+source-wordcount: '110'
+ht-degree: 91%
 
 ---
 
@@ -25,4 +24,4 @@ Il s’agit d’un problème de [!DNL SharePoint] connu qui se produit lorsque l
 
 [!DNL SharePoint] recommande de générer une URL courte comme nouveau lien.
 
-_Premier signalement le 14 mars 2023._
+_Premier signalement le mercredi 14 mars 2023._

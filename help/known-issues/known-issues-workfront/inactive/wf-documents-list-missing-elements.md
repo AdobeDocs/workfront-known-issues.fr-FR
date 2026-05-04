@@ -1,12 +1,11 @@
 ---
-title: '« Documents : problèmes liés à la liste de documents »'
+title: 'Documents : problèmes liés à la liste de documents '
 description: Cet article décrit les problèmes liés à la liste de documents qui ont été récemment signalés.
-hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 39bc9972-7c9a-4a00-8b00-9670e502fed1
-source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '82'
 ht-degree: 100%
 
 ---
@@ -24,4 +23,4 @@ Les problèmes suivants liés à la liste de documents ont été signalés :
 
 Pour restaurer les options de filtrage, d’affichage et de regroupement, basculez en mode Standard, puis revenez en mode Liste.
 
-_Premier signalement le 1 juin 2023._
+_Premier signalement le vendredi 1 juin 2023._

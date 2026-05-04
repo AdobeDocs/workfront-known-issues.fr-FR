@@ -1,17 +1,16 @@
 ---
-title: "Workfront Fusion : formatage des valeurs de sortie pour les dates"
-description: Lorsque les dates sont générées sous forme de chaînes, le format peut être UTC ou ISO. Cela dépend de la logique dans un panneau de mappage.
-hidefromtoc: true
+title: 'Workfront Fusion : formatage de sortie pour les dates'
+description: Lorsque les dates sont générées sous forme de chaînes, le format peut être UTC ou ISO. Cela dépend de la logique d’un panneau de mappage.
 feature: Workfront Fusion
 exl-id: e01a2260-f230-4f72-a8c6-3dae56b22ff5
-source-git-commit: 7aba3a4ce3e0436a8fd9850197bc44da9dafe347
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 87%
+ht-degree: 92%
 
 ---
 
-# Workfront Fusion : formatage des sorties pour les dates
+# Workfront Fusion : formatage de sortie pour les dates
 
 Lorsque les dates sont générées sous forme de chaînes, le format peut être UTC ou ISO. Cela dépend de la logique dans un panneau de mappage :
 

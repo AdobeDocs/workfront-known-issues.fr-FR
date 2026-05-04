@@ -1,13 +1,12 @@
 ---
-title: '« [!DNL Workfront] : problèmes lors de la soumission d’un cas d’assistance Workfront sur Experience League »'
-description: « Si vous êtes un Contact d’assistance  [!DNL Workfront]  autorisé et rencontrez des problèmes lors de la soumission d’un cas d’assistance, appelez les numéros ci-dessous pour recevoir de l’aide. »
-hidefromtoc: true
+title: '[!DNL Workfront] : problèmes lors de la soumission d’un cas d’assistance Workfront sur Experience League'
+description: « Si vous êtes un Contact d’assistance autorisé et rencontrez  [!DNL Workfront]  problèmes lors de la soumission d’un cas d’assistance, appelez les numéros ci-dessous pour recevoir de l’aide.
 exl-id: f19b3e67-d31d-48f8-b847-dd4d309e11fc
 feature: System Setup and Administration
-source-git-commit: 52b204d63eda7752c90a4481aa2050e695cd4cc7
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 100%
+source-wordcount: '156'
+ht-degree: 61%
 
 ---
 
@@ -15,8 +14,8 @@ ht-degree: 100%
 
 Si vous êtes un contact d’assistance autorisé [!DNL Workfront] et que vous rencontrez des problèmes lors de la soumission d’un cas d’assistance, consultez les blogs suivants de la communauté pour obtenir des instructions :
 
-* [Soumission d’un ticket d’assistance sur Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/how-to-submit-a-support-ticket-on-experience-league/ba-p/461737?profile.language=fr)
-* [Première connexion en tant que membre nouveau ou existant de la communauté Workfront sur Experience League.](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/logging-in-for-the-first-time-as-a-new-or-existing-workfront/ba-p/461472?profile.language=fr)
+* [Soumission d’un ticket d’assistance sur Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/how-to-submit-a-support-ticket-on-experience-league/ba-p/461737?profile.language=fr)
+* [Première connexion en tant que membre nouveau ou existant de la communauté Workfront Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/logging-in-for-the-first-time-as-a-new-or-existing-workfront/ba-p/461472?profile.language=fr)
 
 Si vous rencontrez toujours des problèmes, appelez-nous aux numéros ci-dessous pour recevoir de l’aide.
 

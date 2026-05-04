@@ -1,13 +1,12 @@
 ---
-title: '« Accueil : problèmes au niveau du résumé de l’Accueil dans des navigateurs autres que Chrome »'
+title: 'Accueil : problèmes au niveau du résumé de l’Accueil dans des navigateurs autres que Chrome'
 description: Lorsque l’utilisateur consulte sa page d’Accueil dans un navigateur autre que Chrome, divers problèmes peuvent survenir.
 exl-id: 7e1935e4-2814-4527-a65a-301f4b9a9669
-hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 100%
+source-wordcount: '114'
+ht-degree: 91%
 
 ---
 
@@ -29,4 +28,4 @@ Ces problèmes ont été rencontrés avec les navigateurs suivants :
 * [!DNL Firefox]
 * [!DNL Microsoft Edge]
 
-_Premier signalement le 23 novembre 2021._
+_Premier signalement le mercredi 23 novembre 2021._

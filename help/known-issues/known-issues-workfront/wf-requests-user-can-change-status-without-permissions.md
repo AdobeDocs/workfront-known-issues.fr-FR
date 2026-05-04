@@ -1,15 +1,14 @@
 ---
-title: '« Requêtes : l’utilisateur ou l’utilisatrice peut modifier le statut malgré l’absence d’autorisations. »'
-description: « Les personnes disposant d’un accès en contribution et d’aucune autorisation de modifier le statut du problème peuvent modifier le statut. »
-hidefromtoc: true
+title: 'Requêtes : l’utilisateur ou l’utilisatrice peut modifier le statut malgré l’absence d’autorisations.'
+description: Les personnes disposant d’un accès à contribution et d’aucune autorisation de modifier le statut du problème peuvent modifier le statut.
 feature: Requests
-source-git-commit: 400c115091c363914a27a6c4c0d90e04a5943aec
-workflow-type: ht
-source-wordcount: '69'
+exl-id: f557be03-d35d-4208-a672-1ceb9072ae24
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '71'
 ht-degree: 100%
 
 ---
-
 
 # Requêtes : l’utilisateur ou l’utilisatrice peut modifier le statut malgré l’absence d’autorisations.
 

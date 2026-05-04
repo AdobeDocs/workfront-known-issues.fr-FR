@@ -1,12 +1,11 @@
 ---
-title: '« Accueil : les tâches des projets dont le statut est Approuvé ou Planification ne sont pas incluses dans Mes tâches ou la Liste de travail de l’accueil. »'
+title: 'Accueil : les tâches des projets dont le statut est Approuvé ou Planification ne sont pas incluses dans Mes tâches ou la liste de travail dans Accueil'
 description: Les tâches des projets dont le statut est Approuvé ou Planification ne s’affichent pas dans l’accueil. Une solution de contournement est disponible.
-hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 5994508b-ee9f-40a9-bca3-e17d7a7708b5
-source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '197'
 ht-degree: 100%
 
 ---
@@ -52,4 +51,4 @@ OR:1:task:statusEquatesWith=CPL
 OR:1:task:statusEquatesWith_Mod=ne
 ```
 
-_Premier signalement le 6 novembre 2023._
+_Premier signalement le mardi 6 novembre 2023._

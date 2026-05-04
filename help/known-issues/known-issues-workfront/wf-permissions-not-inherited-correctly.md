@@ -1,12 +1,11 @@
 ---
 title: 'Autorisations : les autorisations d’objet ne sont pas héritées correctement.'
 description: Les autorisations héritées ne sont pas correctement appliquées aux objets. Cela peut être dû à leur complexité.
-hidefromtoc: true
 feature: Projects, Tasks, Work Management
 exl-id: 589733a7-2bd6-4b73-afb8-a14cc1f5076a
-source-git-commit: 0fcd70848cac70a816ce2150800910675d6d13a6
-workflow-type: ht
-source-wordcount: '144'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '146'
 ht-degree: 100%
 
 ---
@@ -26,4 +25,4 @@ Les autorisations héritées ne sont pas correctement appliquées aux objets. Ce
 
 Limiter la taille ou la complexité des objets peut permettre d’éviter ce problème. Nous vous recommandons de ne pas dépasser 10 000 objets enfants sous un objet parent.
 
-_Premier signalement le 21 mars 2025._
+_Premier signalement le samedi 21 mars 2025._

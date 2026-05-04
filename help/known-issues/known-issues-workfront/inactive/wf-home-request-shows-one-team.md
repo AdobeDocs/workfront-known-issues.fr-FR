@@ -1,17 +1,16 @@
 ---
-title: 'Accueil : le widget Requêtes n’affiche pas toutes les équipes affectées'
+title: 'Accueil : le widget Demandes n’affiche pas toutes les équipes affectées'
 description: Lorsqu’une personne affiche la le widget Requêtes dans la nouvelle expérience Accueil, les requêtes s’affichent comme n’ayant qu’une seule équipe affectée, même si plusieurs équipes sont en réalité affectées.
-hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 464174a6-5b4e-4cea-a00b-db76bb16a04d
-source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 100%
+source-wordcount: '112'
+ht-degree: 91%
 
 ---
 
-# [!UICONTROL Accueil] : le widget [!UICONTROL Requêtes] n’affiche pas toutes les équipes affectées
+# [!UICONTROL Accueil] : le widget [!UICONTROL Requêtes] n’affiche pas toutes les équipes affectées.
 
 >[!NOTE]
 >
@@ -19,4 +18,4 @@ ht-degree: 100%
 
 Lorsqu’une personne affiche la le widget [!UICONTROL Requêtes] dans la nouvelle expérience [!UICONTROL Accueil], les requêtes s’affichent comme n’ayant qu’une seule équipe affectée, même si plusieurs équipes sont en réalité affectées.
 
-_Premier signalement le 25 août 2023._
+_Premier signalement le samedi 25 août 2023._

@@ -1,13 +1,12 @@
 ---
-title: '« Panoramas : le panorama de l’utilisateur ou de l’utilisatrice ne s’affiche pas lors de l’utilisation de Connexion en tant que. »'
+title: 'Panoramas : le panorama ne s’affiche pas en tant qu’utilisateur lors de l’utilisation de Connexion en tant que'
 description: Lorsque l’équipe d’administration ou d’administration de groupe se connecte en tant qu’un autre utilisateur ou une autre utilisatrice et consulte les panoramas, les panoramas qui s’affichent sont ceux de l’équipe d’administration et non ceux de l’utilisateur ou de l’utilisatrice.
-hidefromtoc: true
 feature: Agile
 exl-id: fe845e13-82fd-417b-8dd6-c40345c7c6da
-source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
-workflow-type: ht
-source-wordcount: '108'
-ht-degree: 100%
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '110'
+ht-degree: 89%
 
 ---
 

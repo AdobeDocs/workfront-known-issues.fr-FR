@@ -1,13 +1,12 @@
 ---
 title: 'Documents : le panneau Résumé est vide'
 description: Lorsque l’utilisateur consulte une liste Documents et clique sur un document, le panneau Résumé s’ouvre, mais reste vide. L’utilisateur ne peut pas fermer le panneau Résumé .
-hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 475cda94-7329-4df9-b8db-819e4634bbd4
-source-git-commit: 90752886f1ea4a0388d50685a597a6aca7393949
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 9%
+source-wordcount: '121'
+ht-degree: 5%
 
 ---
 
@@ -15,7 +14,7 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->Ce problème a été résolu le vendredi 5 février 2026.
+>Ce problème a été résolu le 5 février 2026.
 
 Lorsque l’utilisateur consulte une liste Documents et clique sur un document, le panneau Résumé s’ouvre, mais reste vide. L’utilisateur ne peut pas fermer le panneau Résumé .
 

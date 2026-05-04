@@ -1,15 +1,14 @@
 ---
 title: Les modifications apportées dans la boîte de dialogue Modifier d’une tâche ne sont pas enregistrées.
 description: Lorsqu’une personne apporte des modifications à la section Modifications d’une tâche dans la boîte de dialogue de la tâche héritée et les enregistre, les modifications ne sont pas enregistrées.
-hidefromtoc: true
 feature: Tasks
-source-git-commit: c98508b66854edc5ca9c3c25751c27462dfaf9c8
+exl-id: c4b99e1c-1034-4638-8865-550f78b7ffa2
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '124'
 ht-degree: 100%
 
 ---
-
 
 # Tâches : les modifications apportées dans la boîte de dialogue Modifier d’une tâche ne sont pas enregistrées.
 

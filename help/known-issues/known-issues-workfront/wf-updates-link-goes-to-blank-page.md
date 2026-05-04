@@ -1,13 +1,12 @@
 ---
-title: "Mises à jour : le lien dans le commentaire passe à l’écran vide"
-description: Lorsqu’un utilisateur clique sur un lien contenu dans un commentaire, le lien le dirige vers un écran vide. Une solution de contournement est disponible.
-hidefromtoc: true
+title: 'Mises à jour : le lien dans le commentaire renvoie à un écran vide.'
+description: Lorsqu’une personne clique sur un lien qui se trouve dans un commentaire, ce dernier la redirige vers un écran vide. Une solution de contournement est disponible.
 feature: Updates and Notifications
 exl-id: db510b1b-84ff-4e77-b028-7acc55ce9832
-source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 64%
+source-wordcount: '83'
+ht-degree: 100%
 
 ---
 

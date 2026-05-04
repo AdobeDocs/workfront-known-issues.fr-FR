@@ -1,12 +1,11 @@
 ---
 title: 'Workfront Fusion : erreur de connexion au scénario'
 description: 'Certains scénarios ne s’exécutent pas et le message d’erreur suivant est envoyé : « Échec de vérification de la connexion ».'
-hidefromtoc: true
 feature: Workfront Fusion
 exl-id: 53edb587-86ab-4515-90b3-c2a338eadfc3
-source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
-workflow-type: ht
-source-wordcount: '57'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '59'
 ht-degree: 100%
 
 ---
@@ -19,4 +18,4 @@ ht-degree: 100%
 
 Certains scénarios ne s’exécutent pas et le message d’erreur suivant est envoyé : « Échec de vérification de la connexion ».
 
-_Premier signalement le 19 février 2025._
+_Premier signalement le jeudi 19 février 2025._

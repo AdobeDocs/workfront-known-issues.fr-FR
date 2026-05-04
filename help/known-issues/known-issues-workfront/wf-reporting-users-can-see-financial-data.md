@@ -1,15 +1,14 @@
 ---
 title: 'Rapports : les utilisateurs et utilisatrices peuvent voir les données financières dans les visualisations du tableau de bord de la zone de travail.'
 description: Les personnes disposant d’un accès en affichage ou en modification aux données financières dans leur niveau d’accès peuvent afficher les données financières dans les visualisations de tableau de bord de la zone de travail, même si l’autorisation Afficher les données financières est supprimée au niveau de la tâche ou du projet.
-hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: fc6c4f1fa7f563ef7d7aa9335fb8b89025fcb572
-workflow-type: ht
+exl-id: 603d12f4-152e-45b9-aa7b-4dd42ad87c69
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 100%
 
 ---
-
 
 # Rapports : les utilisateurs et utilisatrices peuvent consulter les données financières dans les visualisations du tableau de bord de la zone de travail.
 
