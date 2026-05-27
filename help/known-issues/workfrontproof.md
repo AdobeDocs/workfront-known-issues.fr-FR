@@ -6,8 +6,8 @@ exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: 1cb1156af6f75045d7a62ae671b2241839726eae
 workflow-type: tm+mt
-source-wordcount: '445'
-ht-degree: 90%
+source-wordcount: '518'
+ht-degree: 89%
 
 ---
 
@@ -25,8 +25,8 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Validations : le widget Mes validations affiche les épreuves qui ne se trouvent pas à l’étape à laquelle l’utilisateur est affecté](known-issues-workfront/wf-approvals-widget-showing-stage-not-started.md) | jeudi 18 février 2026 |
-| [Validations : les validations sont verrouillées automatiquement](known-issues-workfront/wf-approvals-are-locked.md) | mercredi 17 février 2026 |
+| [Validations : le widget Mes validations affiche les épreuves qui ne se trouvent pas à l’étape à laquelle l’utilisateur est affecté](known-issues-workfront/wf-approvals-widget-showing-stage-not-started.md) | 18 Février 2026 |
+| [Validations : les validations sont verrouillées automatiquement](known-issues-workfront/wf-approvals-are-locked.md) | 17 Février 2026 |
 | [Épreuves : impossible de taguer certaines personnes](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 février 2025 |
 | [Intégrations : lier un dossier depuis [!DNL Google Drive] ne lie pas les ressources dans le dossier.](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juin 2024 |
 
@@ -38,8 +38,8 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 
 | **Problème** | **Dernière modification** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Accueil : les mentions des épreuves n’apparaissent pas dans le widget Mentions](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md) | mercredi 17 février 2026 |
-| [Approbations : impossible d’approuver le document à partir du widget Mes approbations de l’Accueil](known-issues-workfront/wf-approval-not-work-from-widget.md) | mercredi 17 février 2026 |
+| [Accueil : les mentions des épreuves n’apparaissent pas dans le widget Mentions](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md) | 17 Février 2026 |
+| [Approbations : impossible d’approuver le document à partir du widget Mes approbations de l’Accueil](known-issues-workfront/wf-approval-not-work-from-widget.md) | 17 Février 2026 |
 | [Approbations : le widget Mes approbations affiche les approbations terminées.](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | vendredi 15 janvier 2026 |
 | [Documents : les miniatures des documents ne s’affichent pas](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 17 avril 2025 |
 | [Notifications : miniatures non visibles dans les notifications par e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 juillet 2024 |
