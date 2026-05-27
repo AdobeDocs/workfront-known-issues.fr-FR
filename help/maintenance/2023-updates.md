@@ -5,8 +5,8 @@ feature: Get Started with Workfront
 exl-id: 87d54104-38b7-4950-ab21-6524a14f7f2a
 source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
 workflow-type: tm+mt
-source-wordcount: '7701'
-ht-degree: 100%
+source-wordcount: '7893'
+ht-degree: 98%
 
 ---
 
@@ -16,7 +16,7 @@ Les mises à jour de maintenance suivantes ont été effectuées en 2023.
 
 >[!NOTE]
 >
->Ces mises à jour incluent également d’autres correctifs mineurs ou moins conséquents. L’assistance [!DNL Workfront] vous avertira lorsqu’un problème que vous avez soumis est résolu.
+>Ces mises à jour incluent également d’autres correctifs mineurs ou moins importants. [!DNL Workfront] L’assistance vous avertira lorsqu’un problème que vous avez soumis sera résolu.
 
 Pour connaître les mises à jour de maintenance antérieures à 2023, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates).
 
@@ -127,7 +127,7 @@ Ce problème a été signalé dans les rapports qui utilisent une `valueexpressi
 
 +++
 
-+++**Mise à jour de maintenance le 16 novembre 2023**
++++**Mise à jour de maintenance le vendredi 16 novembre 2023**
 
 **Les heures budgétisées dans le rapport d’utilisation ne correspondent pas aux heures budgétisées signalées par le biais de l’API**
 
@@ -153,7 +153,7 @@ Cela a été signalé dans la nouvelle expérience de commentaire.
 
 +++
 
-+++**Mise à jour de maintenance le 9 novembre 2023**
++++**Mise à jour de maintenance le vendredi 9 novembre 2023**
 
 **Objets manquants du widget Mon travail lorsqu’il ne se trouve pas en haut de la page**
 
@@ -195,7 +195,7 @@ Lorsqu’un utilisateur ou une utilisatrice crée des tâches sur un modèle, pu
 
 +++
 
-+++**Mise à jour de maintenance le 2 novembre 2023**
++++**Mise à jour de maintenance le vendredi 2 novembre 2023**
 
 **Les mises à jour privées s’affichent dans les champs d’expression de valeur**
 
@@ -215,7 +215,7 @@ Si l’utilisateur ou l’utilisatrice modifie la période, l’attribution est 
 
 ## Mises à jour d’octobre 2023
 
-+++**Mise à jour de maintenance le 26 octobre 2023**
++++**Mise à jour de maintenance le vendredi 26 octobre 2023**
 
 **La recherche ne fonctionne pas**
 
@@ -257,7 +257,7 @@ Lorsqu’une personne affiche une tâche, l’en-tête de la tâche ne contient 
 
 +++
 
-+++**Mise à jour de maintenance le 19 octobre 2023**
++++**Mise à jour de maintenance le vendredi 19 octobre 2023**
 
 Les personnes ne sont pas informées des réponses sur un fil de commentaires
 
@@ -293,7 +293,7 @@ Lorsqu’une personne connectée en tant qu’une autre personne convertit un pr
 
 +++
 
-+++**Mise à jour de maintenance le 12 octobre 2023**
++++**Mise à jour de maintenance le vendredi 12 octobre 2023**
 
 **Flux de travail supprimés pour les comptes qui ne les utilisent pas**
 
@@ -319,7 +319,7 @@ Lorsqu’un utilisateur ou une utilisatrice modifie les filtres sur [!UICONTROL 
 
 +++
 
-+++**Mise à jour de maintenance le 5 octobre 2023**
++++**Mise à jour de maintenance le vendredi 5 octobre 2023**
 
 **Le chargement des panoramas est lent**
 
@@ -361,7 +361,7 @@ Les rappels automatiques par e-mail ne sont pas envoyés. Cela a commencé le 14
 
 ## Mises à jour de septembre 2023
 
-+++**Mise à jour de maintenance le 28 septembre 2023**
++++**Mise à jour de maintenance le vendredi 28 septembre 2023**
 
 **Impossible de supprimer le champ personnalisé**
 
@@ -387,7 +387,7 @@ Lorsqu’une personne accède à une section personnalisée d’un objet dans [!
 
 +++
 
-+++**Mise à jour de maintenance le 21 septembre 2023**
++++**Mise à jour de maintenance le vendredi 21 septembre 2023**
 
 **Impossible d’affecter une personne à un panorama sur un flux de travail**
 
@@ -450,7 +450,7 @@ Lorsqu’une personne tente de générer un BAT, la génération prend un temps 
 
 +++
 
-+++**Mise à jour de maintenance le 14 septembre 2023**
++++**Mise à jour de maintenance le vendredi 14 septembre 2023**
 
 **Erreur « [!UICONTROL Aucune usine] » lors de l’ajout d’un document**
 
@@ -472,7 +472,7 @@ Cela se produit lors du regroupement d’un rapport par périodes.
 
 +++
 
-+++**Mise à jour de maintenance le 11 septembre 2023**
++++**Mise à jour de maintenance le mardi 11 septembre 2023**
 
 **Les tâches personnelles ne s’affichent pas dans les feuilles de temps**
 
@@ -482,7 +482,7 @@ Les tâches personnelles ne s’affichent plus par défaut sur la feuille de tem
 
 +++
 
-+++**Mise à jour de maintenance le 7 septembre 2023**
++++**Mise à jour de maintenance le vendredi 7 septembre 2023**
 
 **Le projet est vide lorsqu’il est chargé à partir de la nouvelle expérience [!UICONTROL Accueil]**
 
@@ -496,7 +496,7 @@ Cela se produit lorsque la personne s’est connectée en tant qu’autre utilis
 
 ## Mises à jour d’août 2023
 
-+++**Mise à jour de maintenance le 31 août 2023**
++++**Mise à jour de maintenance le vendredi 31 août 2023**
 
 **Les filtres ne s’appliquent pas aux widgets dans la nouvelle expérience [!UICONTROL Accueil]**
 
@@ -531,7 +531,7 @@ Lorsqu’une personne tente de charger le [!UICONTROL planificateur de ressource
 
 _BAT_
 
-Lorsqu’une personne consulte un BAT dans le lecteur de vérification et tente de sélectionner du texte qui se trouve dans une liste ou une puce, l’outil de sélection de texte est inefficace et le texte ne peut pas être sélectionné.
+Lorsqu’une personne consulte une épreuve dans la visionneuse de relecture et tente de sélectionner du texte qui se trouve dans une liste ou une puce, l’outil de sélection de texte est inefficace et le texte ne peut pas être sélectionné.
 
 **La création d’une nouvelle version du BAT supprime toutes les versions du BAT**
 
@@ -559,7 +559,7 @@ Lorsqu’une personne consulte les paramètres du BAT dans [!DNL Workfront], la 
 
 _BAT_
 
-Lorsqu’une personne fait un commentaire dans le lecteur de vérification, ajoute une annotation au BAT, puis clique à l’extérieur, elle ne peut plus ajuster l’annotation.
+Lorsqu’une personne fait un commentaire dans la visionneuse de relecture, ajoute une annotation à l’épreuve, puis clique à l’extérieur, elle ne peut plus ajuster l’annotation.
 
 +++
 
@@ -589,7 +589,7 @@ Dans un scénario, le module [!UICONTROL Outils] > [!UICONTROL Veille] peut ent
 
 +++
 
-+++**Mise à jour de maintenance le 3 août 2023**
++++**Mise à jour de maintenance le vendredi 3 août 2023**
 
 **Difficulté à localiser les éléments dans la colonne d’entrée**
 
@@ -629,7 +629,7 @@ Ceci a été signalé aux utilisateurs et utilisatrices des zones EMEA.
 
 ## Mises à jour de juillet 2023
 
-+++**Mise à jour de maintenance le 27 juillet 2023**
++++**Mise à jour de maintenance le vendredi 27 juillet 2023**
 
 **Les balises et les éléments de liste de contrôle ne fonctionnaient pas correctement dans l’affichage du panorama des projets**
 
@@ -645,13 +645,13 @@ Si une personne partage un filtre et active l’option « [!UICONTROL Afficher 
 
 +++
 
-+++**Mise à jour de maintenance le 20 juillet 2023**
++++**Mise à jour de maintenance le vendredi 20 juillet 2023**
 
-Cette mise à jour inclut uniquement des correctifs mineurs ou moins importants. L’assistance [!DNL Workfront] vous avertira lorsqu’un problème que vous avez soumis sera résolu.
+Cette mise à jour inclut uniquement des correctifs mineurs ou moins importants. [!DNL Workfront] L’assistance vous avertira lorsqu’un problème que vous avez soumis sera résolu.
 
 +++
 
-+++**Mise à jour de maintenance le 13 juillet 2023**
++++**Mise à jour de maintenance le vendredi 13 juillet 2023**
 
 **Le journal n’est pas recalculé**
 
@@ -683,13 +683,13 @@ Lorsqu’une personne tente de modifier un autre utilisateur ou une autre utilis
 
 ## Mises à jour de juin 2023
 
-+++**Mise à jour de maintenance le 29 juin 2023**
++++**Mise à jour de maintenance le vendredi 29 juin 2023**
 
-Cette mise à jour inclut uniquement des correctifs mineurs ou moins importants. L’assistance [!DNL Workfront] vous avertira lorsqu’un problème que vous avez soumis sera résolu.
+Cette mise à jour inclut uniquement des correctifs mineurs ou moins importants. [!DNL Workfront] L’assistance vous avertira lorsqu’un problème que vous avez soumis sera résolu.
 
 +++
 
-+++**Mise à jour de maintenance le 22 juin 2023**
++++**Mise à jour de maintenance le vendredi 22 juin 2023**
 
 **Erreur [!UICONTROL « Oups ! »] lors de l’affichage du rapport de matrice**
 
@@ -709,15 +709,15 @@ Lorsqu’un graphique ou rapport de matrice est regroupé par date, les dates pr
 
 +++
 
-+++**Mise à jour de maintenance le 15 juin 2023**
++++**Mise à jour de maintenance le vendredi 15 juin 2023**
 
-Cette mise à jour inclut uniquement des correctifs mineurs ou moins importants. L’assistance [!DNL Workfront] vous avertira lorsqu’un problème que vous avez soumis sera résolu.
+Cette mise à jour inclut uniquement des correctifs mineurs ou moins importants. [!DNL Workfront] L’assistance vous avertira lorsqu’un problème que vous avez soumis sera résolu.
 
 +++
 
-+++**Mise à jour de maintenance le 8 juin 2023**
++++**Mise à jour de maintenance le vendredi 8 juin 2023**
 
-Cette mise à jour inclut uniquement des correctifs mineurs ou moins importants. L’assistance [!DNL Workfront] vous avertira lorsqu’un problème que vous avez soumis sera résolu.
+Cette mise à jour inclut uniquement des correctifs mineurs ou moins importants. [!DNL Workfront] L’assistance vous avertira lorsqu’un problème que vous avez soumis sera résolu.
 
 +++
 
@@ -729,7 +729,7 @@ Les administrateurs et administratrices d’équipe [!DNL Fusion] peuvent toujou
 
 +++
 
-+++**Mise à jour de maintenance le 1 juin 2023**
++++**Mise à jour de maintenance le vendredi 1 juin 2023**
 
 **Aucun message d’erreur lors de la réorganisation de la tâche au** statut [!UICONTROL En attente d’approbation].
 
@@ -747,7 +747,7 @@ Lorsqu’une personne tente de réorganiser une tâche dans une liste de tâches
 
 ## Mises à jour de mai 2023
 
-+++**Mise à jour de maintenance le 25 mai 2023**
++++**Mise à jour de maintenance le vendredi 25 mai 2023**
 
 Le panorama **[!UICONTROL Kanban] devient vide lors de la modification de cartes.**
 
@@ -763,22 +763,22 @@ Les situations suivantes sont concernées :
 
 +++
 
-+++**Mise à jour de maintenance le 22 mai 2023**
++++**Mise à jour de maintenance le mardi 22 mai 2023**
 
 **Impossible d’ajuster la taille du texte descriptif**
 
 _Formulaires personnalisés_
 
-Lorsque le créateur de formulaire personnalisé a été publié en version Beta, la fonctionnalité permettant d’ajuster la taille du texte descriptif n’était pas disponible. Ce problème a été corrigé et les utilisateurs et utilisatrices peuvent désormais ajuster la taille du texte descriptif.
+Lorsque le concepteur de formulaires personnalisés a été publié en version Beta, la fonctionnalité permettant d’ajuster la taille du texte descriptif n’était pas disponible. Ce problème a été corrigé et les utilisateurs et utilisatrices peuvent désormais ajuster la taille du texte descriptif.
 
 +++
 
-+++**Mise à jour de maintenance le 18 mai 2023**
++++**Mise à jour de maintenance le vendredi 18 mai 2023**
 
 **Le rapport n’est pas trié correctement lors du tri par champ personnalisé**
 
 _Rapports_
-Lorsqu’un utilisateur ou une utilisatrice exécute un rapport de tâche, le tri du rapport semble correct lors du chargement du rapport, mais une fois celui-ci terminé, la personne constate que le tri du rapport n’est pas correct.
+Lorsque l’utilisateur exécute un rapport de tâche, le tri des rapports semble correct lors du chargement des rapports, mais une fois celui-ci terminé, l’utilisateur constate le contraire.
 
 Cela semble se produire si toutes les conditions suivantes sont réunies :
 
@@ -788,13 +788,13 @@ Cela semble se produire si toutes les conditions suivantes sont réunies :
 
 +++
 
-+++**Mise à jour de maintenance le 11 mai 2023**
++++**Mise à jour de maintenance le vendredi 11 mai 2023**
 
 **Impossible de changer de version de BAT lors de sa visualisation**
 
 _BAT_
 
-Lorsqu’un utilisateur ou une utilisatrice consulte un BAT dans le [!UICONTROL Lecteur de vérification] et passe à une autre version, la liste déroulante des versions est désactivée et il est impossible de revenir à la version originale que la personne visualisait ou à une autre version du BAT.
+Lorsqu’un utilisateur ou une utilisatrice consulte une épreuve dans la [!UICONTROL Visionneuse de relecture] et passe à une autre version, la liste déroulante des versions est désactivée et il est impossible de revenir à la version originale que la personne visualisait ou à une autre version de l’épreuve.
 
 La recherche **[!DNL Workfront]expire**
 
@@ -824,7 +824,7 @@ Ce problème affecte également les fonctionnalités du module [!DNL Workfront F
 
 +++
 
-+++**Mise à jour de maintenance le 9 mai 2023**
++++**Mise à jour de maintenance le mercredi 9 mai 2023**
 
 **Filtres enregistrés disponibles dans la colonne d’entrée du panorama**
 
@@ -834,7 +834,7 @@ Vous pouvez désormais utiliser les filtres de tâches et de problèmes existant
 
 +++
 
-+++**Mise à jour de maintenance le 4 mai 2023**
++++**Mise à jour de maintenance le vendredi 4 mai 2023**
 
 **Impossible de sélectionner un modèle à partir des [!UICONTROL Modèles favoris]**
 
@@ -846,13 +846,13 @@ Lorsqu’un utilisateur ou une utilisatrice tente de sélectionner un modèle da
 
 ## Mises à jour d’avril 2023
 
-+++**Mise à jour de maintenance le 27 avril 2023**
++++**Mise à jour de maintenance le vendredi 27 avril 2023**
 
 **Impossible de changer de BAT dans la [!UICONTROL visionneuse de BAT]**
 
 _BAT_
 
-Lorsqu’un utilisateur ou une utilisatrice consulte un BAT dans le [!UICONTROL lecteur de vérification] et passe à un autre BAT, le bouton de changement de BAT ne répond plus. Il est impossible de revenir au BAT précédemment consulté ou à un autre BAT.
+Lorsqu’un utilisateur ou une utilisatrice consulte une épreuve dans la [!UICONTROL visionneuse de relecture] et passe à une autre épreuve, le bouton de changement d’épreuve ne répond plus. Il est impossible de revenir au BAT précédemment consulté ou à un autre BAT.
 
 **Modifier les images jointes lors de la modification d’un commentaire**
 
@@ -868,11 +868,11 @@ Les liens d’aide in-app de **[!DNL Fusion]ne mènent pas à des pages d’aide
 
 _[!DNL Workfront Fusion]_
 
-Lorsqu’un utilisateur ou une utilisatrice consulte un BAT dans le [!UICONTROL lecteur de vérification] et passe à un autre BAT, le bouton de changement de BAT ne répond plus. Il est impossible de revenir au BAT précédemment consulté ou à un autre BAT.
+Lorsqu’un utilisateur ou une utilisatrice consulte une épreuve dans la [!UICONTROL visionneuse de relecture] et passe à une autre épreuve, le bouton de changement d’épreuve ne répond plus. Il est impossible de revenir au BAT précédemment consulté ou à un autre BAT.
 
 +++
 
-+++**Mise à jour de maintenance le 20 avril 2023**
++++**Mise à jour de maintenance le vendredi 20 avril 2023**
 
 **Problèmes liés aux champs de liste déroulante personnalisés**
 
@@ -887,7 +887,7 @@ Les champs déroulants personnalisés activés en tant que champs à sélection 
 
 _BAT_
 
-Lorsqu’un utilisateur ou utilisatrice consulte un BAT dans le lecteur de vérification et tente d’ajouter un commentaire à l’aide de l’outil Polyligne, aucun commentaire n’est apporté au BAT.
+Lorsqu’un utilisateur ou utilisatrice consulte une épreuve dans la visionneuse de relecture et tente d’ajouter un commentaire à l’aide de l’outil Polyligne, aucun commentaire n’est apporté à l’épreuve.
 
 **La zone Options de texte affiche « textAnnotations »**
 
@@ -895,7 +895,7 @@ _BAT_
 
 Lorsqu’un utilisateur ou une utilisatrice consulte un BAT et souhaite apporter un commentaire, la personne ouvre l’outil Texte et le mot « textAnnotation » s’affiche en regard des options de l’outil. L’outil Texte fonctionne toujours normalement et « textAnnotation » disparaît après la publication du commentaire.
 
-**Conserver les images sous format brouillon lors de l’abandon d’une mise à jour pour les objectifs et les problèmes liés à l’expérience bêta de commentaires**
+**Conserver les images sous format brouillon lors de l’abandon d’une mise à jour pour les objectifs et les problèmes liés à l’expérience Beta de commentaires**
 
 >[!NOTE]
 >
@@ -903,17 +903,17 @@ Lorsqu’un utilisateur ou une utilisatrice consulte un BAT et souhaite apporter
 
 _Mises à jour_
 
-Désormais, lorsque vous quittez la page Mises à jour alors que vous composez un message auquel vous avez joint une image, le message et l’image sont conservés lorsque vous revenez en arrière. Avant cette mise à jour, le commentaire non envoyé était conservé, mais l’image était supprimée. Cette fonctionnalité est disponible dans la section Mises à jour pour les objectifs et les problèmes éventuels lors de l’activation de l’expérience bêta de commentaires.
+Désormais, lorsque vous quittez la page Mises à jour alors que vous composez un message auquel vous avez joint une image, le message et l’image sont conservés lorsque vous revenez en arrière. Avant cette mise à jour, le commentaire non envoyé était conservé, mais l’image était supprimée. Cette fonctionnalité est disponible dans la section Mises à jour pour les objectifs et les problèmes éventuels lors de l’activation de l’expérience Beta de commentaires.
 
 **Mises à jour en temps réel et commentaires supprimés dans la section Mises à jour**
 
 >[!NOTE]
 >
->Un aperçu de cette fonctionnalité a été présenté le 19 avril 2023, laquelle a été mise en production le 20 avril 2023.
+>Un aperçu de cette fonctionnalité a été présenté le 19 avril 2023 qui a été mise en production le 20 avril 2023.
 
 _Mises à jour_
 
-Désormais, lorsqu’une personne publie un commentaire ou une réponse, ou supprime un commentaire de la zone Mises à jour, le nouveau commentaire ou une indication que le commentaire a été supprimé s’affiche en temps réel, sans délai. Cette fonctionnalité est disponible dans la section Mises à jour pour les objectifs et les problèmes éventuels lors de l’activation de l’expérience bêta de commentaires.
+Désormais, lorsqu’une personne publie un commentaire ou une réponse, ou supprime un commentaire de la zone Mises à jour, le nouveau commentaire ou une indication que le commentaire a été supprimé s’affiche en temps réel, sans délai. Cette fonctionnalité est disponible dans la section Mises à jour pour les objectifs et les problèmes éventuels lors de l’activation de l’expérience Beta de commentaires.
 
 **Modification du niveau d’accès par le système sans enregistrement de la modification**
 
@@ -923,17 +923,17 @@ Le système peut modifier le niveau d’accès d’un utilisateur ou d’une uti
 
 +++
 
-+++**Mise à jour de maintenance le 17 avril 2023**
++++**Mise à jour de maintenance le mardi 17 avril 2023**
 
-**Afficher les nouveaux commentaires en dehors de la zone d’écran visible dans la section [!UICONTROL Mises à jour] des problèmes (nouvelle expérience de commentaires bêta) et [!UICONTROL Objectifs]**
+**Afficher les nouveaux commentaires en dehors de la zone d’écran visible dans la section [!UICONTROL Mises à jour] des problèmes (nouvelle expérience de commentaires Beta) et [!UICONTROL Objectifs]**
 
 _Mises à jour_
 
-Nous avons ajouté une bannière de notification pour la section [!UICONTROL Mises à jour] afin d’informer les utilisateurs et utilisatrices de la publication de commentaires sur un élément, au cas où ceux-ci se trouveraient en dehors de la zone visible à l’écran. Cette mise à jour est actuellement disponible dans la section [!UICONTROL Mises à jour] pour les objectifs et les problèmes éventuels lorsque la nouvelle expérience bêta de commentaires a été activée pour résoudre les problèmes.
+Nous avons ajouté une bannière de notification pour la section [!UICONTROL Mises à jour] afin d’informer les utilisateurs et utilisatrices de la publication de commentaires sur un élément, au cas où ceux-ci se trouveraient en dehors de la zone visible à l’écran. Cette mise à jour est actuellement disponible dans la section [!UICONTROL Mises à jour] pour les objectifs et les problèmes éventuels lorsque la nouvelle expérience Beta de commentaires a été activée pour résoudre les problèmes.
 
 +++
 
-+++**Mise à jour de maintenance le 13 avril 2023**
++++**Mise à jour de maintenance le vendredi 13 avril 2023**
 
 **Les filtres ne sont pas appliqués à la liste des demandes**
 
@@ -949,25 +949,25 @@ Lorsque l’administration modifie un utilisateur ou une utilisatrice et tente d
 
 +++
 
-+++**Mise à jour de maintenance le 6 avril 2023**
++++**Mise à jour de maintenance le vendredi 6 avril 2023**
 
 **Les menus déroulants ne s’ouvrent pas lorsqu’un utilisateur ou une utilisatrice est ajouté à un BAT**
 
 _BAT_
 
-Lorsqu’un utilisateur ou une utilisatrice ajoute un autre utilisateur ou utilisatrice à un BAT dans le [!UICONTROL Lecteur de vérification], les menus déroulants « [!UICONTROL Rôle du BAT] » et « [!UICONTROL Alertes par e-mail] » ne s’ouvrent pas. L’utilisateur ou l’utilisatrice ne peut pas attribuer un rôle de BAT ou une alerte par e-mail. Cela peut se produire lors de l’ajout d’un utilisateur ou d’une utilisatrice par le biais d’un commentaire ou du partage du BAT avec l’utilisateur ou l’utilisatrice.
+Lorsqu’un utilisateur ou une utilisatrice ajoute un autre utilisateur ou utilisatrice à une épreuve dans la [!UICONTROL Visionneuse de relecture], les menus déroulants « [!UICONTROL Rôle de l’épreuve] » et « [!UICONTROL Alertes par e-mail] » ne s’ouvrent pas. L’utilisateur ou l’utilisatrice ne peut pas attribuer un rôle de BAT ou une alerte par e-mail. Cela peut se produire lors de l’ajout d’un utilisateur ou d’une utilisatrice par le biais d’un commentaire ou du partage du BAT avec l’utilisateur ou l’utilisatrice.
 
 +++
 
 ## Mises à jour de mars 2023
 
-+++**Mise à jour de maintenance le 30 mars 2023**
++++**Mise à jour de maintenance le vendredi 30 mars 2023**
 
 **Impossible de changer de version de BAT lors de sa visualisation**
 
 _BAT_
 
-Lorsqu’un utilisateur ou une utilisatrice consulte un BAT dans le [!UICONTROL Lecteur de vérification] et passe à une autre version, la liste déroulante des versions est désactivée et il est impossible de revenir à la version originale que la personne visualisait ou à une autre version du BAT.
+Lorsqu’un utilisateur ou une utilisatrice consulte une épreuve dans la [!UICONTROL Visionneuse de relecture] et passe à une autre version, la liste déroulante des versions est désactivée et il est impossible de revenir à la version originale que la personne visualisait ou à une autre version de l’épreuve.
 
 **Erreur 504 lors de l’export des rapports**
 
@@ -983,7 +983,7 @@ Lorsqu’une personne de l’administration est connectée en tant qu’utilisat
 
 +++
 
-+++**Mise à jour de maintenance le 23 mars 2023**
++++**Mise à jour de maintenance le vendredi 23 mars 2023**
 
 Le contenu du panneau **[!UICONTROL Résumé] est trop large pour le panneau**
 
@@ -991,22 +991,22 @@ _Documents_
 
 Lorsqu’un utilisateur ou une utilisatrice consulte le panneau [!UICONTROL Résumé] d’un document, le contenu est trop large pour être affiché dans le panneau. Le panneau comporte désormais une barre de défilement horizontale qu’il faut faire défiler pour afficher le contenu du panneau [!UICONTROL Résumé]. Le problème est dû au fait que le nom de fichier du document ne s’ajuste pas. Ce problème est limité aux fichiers dont le nom comporte une extension de fichier HTML.
 
-**Nouvelle version du [!UICONTROL lecteur de vérification pour bureau]**
+**Nouvelle version de la [!UICONTROL visionneuse de relecture pour bureau]**
 
-_Vérification_
+_Relecture_
 
-Pour résoudre un problème de commentaire du [!UICONTROL lecteur de vérification pour bureau], nous en avons déployé une nouvelle version.
+Pour résoudre un problème de commentaire de la [!UICONTROL visionneuse de relecture pour bureau], nous en avons déployé une nouvelle version.
 
-Les utilisateurs ou utilisatrices qui disposent déjà du [!UICONTROL lecteur de vérification pour bureau] recevront une notification automatique de cette mise à jour.
+Les utilisateurs ou utilisatrices qui disposent déjà de la [!UICONTROL visionneuse de relecture pour bureau] recevront une notification automatique de cette mise à jour.
 
-Les utilisateurs ou utilisatrices peuvent également télécharger manuellement la dernière version. Pour plus d’informations, consultez [Installation [!UICONTROL du lecteur de vérification pour bureau]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=fr).
+Les utilisateurs ou utilisatrices peuvent également télécharger manuellement la dernière version. Pour plus d’informations, consultez [Installation [!UICONTROL de la visionneuse de relecture pour bureau]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=fr).
 
 * Version précédente : 2.1.22
 * Nouvelle version : 2.1.23
 
 +++
 
-+++**Mise à jour de maintenance le 16 mars 2023**
++++**Mise à jour de maintenance le vendredi 16 mars 2023**
 
 **Éléments de liste de contrôle non copiés lors de la copie d’une carte**
 
@@ -1028,7 +1028,7 @@ Lorsqu’un utilisateur ou une utilisatrice partage un BAT et ajoute un message 
 
 +++
 
-+++**Mise à jour de maintenance le 9 mars 2023**
++++**Mise à jour de maintenance le vendredi 9 mars 2023**
 
 **Le niveau d’accès n’est pas attribué lors de la réactivation d’un utilisateur ou d’une utilisatrice**
 
@@ -1044,7 +1044,7 @@ Désormais, lorsque vous quittez la page [!UICONTROL Mises à jour] d’un objec
 
 +++
 
-+++**Mise à jour de maintenance le 2 mars 2023**
++++**Mise à jour de maintenance le vendredi 2 mars 2023**
 
 **Impossible d’ajouter des cartes lors de l’application du regroupement**
 
@@ -1079,7 +1079,7 @@ Lorsqu’un utilisateur ou une utilisatrice tente de charger la page de résumé
 
 ## Mises à jour de février 2023
 
-+++**Mise à jour de maintenance du 23 février 2023**
++++**Mise à jour de maintenance le vendredi 23 février 2023**
 
 **Le lien vers un commentaire redirige vers la page [!UICONTROL Détails]**
 
@@ -1097,7 +1097,7 @@ Lorsqu’un utilisateur ou une utilisatrice disposant d’une licence [!UICONTRO
 
 +++
 
-+++**Mise à jour de maintenance du 16 février 2023**
++++**Mise à jour de maintenance le vendredi 16 février 2023**
 
 **Affectations de plusieurs équipes sur les panoramas**
 
@@ -1119,7 +1119,7 @@ Lorsque la désactivation d’un utilisateur ou d’une utilisatrice est planifi
 
 +++
 
-+++**Mise à jour de maintenance du 9 février 2023**
++++**Mise à jour de maintenance le vendredi 9 février 2023**
 
 Champ **[!UICONTROL Points de l’histoire] ajouté aux listes et rapports de tâches et de problèmes**
 
@@ -1129,7 +1129,7 @@ Le champ [!UICONTROL Points de l’histoire] est désormais disponible. Vous pou
 
 +++
 
-+++**Mise à jour de maintenance du 8 février 2023**
++++**Mise à jour de maintenance le jeudi 8 février 2023**
 
 **Bouton de filtre dans la colonne d’entrée**
 
@@ -1139,13 +1139,13 @@ La colonne d’entrée d’un panorama comprend désormais un bouton **[!UICONTR
 
 +++
 
-+++**Mise à jour de maintenance du 2 février 2023**
++++**Mise à jour de maintenance le vendredi 2 février 2023**
 
 Icône **[!UICONTROL Panoramas] dans le [!UICONTROL Menu principal] par défaut**
 
 _Panoramas_
 
-L’icône [!UICONTROL Panoramas] s’affiche maintenant dans le [!UICONTROL Menu principal] pour les utilisateurs et les utilisatrices qui ne disposent pas d’un modèle de disposition. Les panoramas sont également inclus par défaut dans le menu principal pour tous les nouveaux modèles de disposition créés. Les modèles existants n’ont pas été modifiés.
+L’icône [!UICONTROL Panoramas] s’affiche maintenant dans le [!UICONTROL Menu principal] pour les personnes qui ne disposent pas d’un modèle de mise en page. Les panoramas sont également inclus par défaut dans le menu principal pour tous les nouveaux modèles de mise en page créés. Les modèles de mise en page existants n’ont pas été modifiés.
 
 **Impossible d’enregistrer les modèles d’e-mail**
 
@@ -1157,7 +1157,7 @@ Lorsqu’un utilisateur ou une utilisatrice tente de créer ou de modifier un mo
 
 ## Mises à jour de janvier 2023
 
-+++**Mise à jour de maintenance du 30 janvier 2023**
++++**Mise à jour de maintenance le mardi 30 janvier 2023**
 
 **Raccourcis clavier ajoutés pour les actions courantes sur les feuilles de temps**
 
@@ -1192,7 +1192,7 @@ Notez que le fonctionnement de ces paramètres n’a pas été modifié et que s
 
 +++
 
-+++**Mise à jour de maintenance du 26 janvier 2023**
++++**Mise à jour de maintenance le vendredi 26 janvier 2023**
 
 **Erreur de soumission d’une demande depuis [!DNL Outlook]**
 
@@ -1204,13 +1204,13 @@ Lorsque l’utilisateur ou l’utilisatrice tente de soumettre une demande compr
 
 Cela se produit uniquement lorsqu’une affectation est effectuée pour la nouvelle demande, soit au moyen de la file d’attente des demandes, soit manuellement lors de la création de la demande.
 
-**Nouvelle version du lecteur de vérification pour bureau**
+**Nouvelle version de la visionneuse de relecture pour bureau**
 
-_Vérification_
+_Relecture_
 
-Pour résoudre un problème de blocage du lecteur de vérification pour bureau, nous en avons déployé une nouvelle version. Les utilisateurs ou utilisatrices qui disposent déjà du lecteur de vérification pour bureau recevront une notification automatique de cette mise à jour.
+Pour résoudre un problème de blocage de la visionneuse de relecture pour bureau, nous en avons déployé une nouvelle version. Les utilisateurs ou utilisatrices qui disposent déjà de la visionneuse de relecture pour bureau recevront une notification automatique de cette mise à jour.
 
-Les utilisateurs ou utilisatrices peuvent également afficher manuellement la dernière version. Pour plus d’informations, consultez [Installation du lecteur de vérification pour bureau](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=fr).
+Les utilisateurs ou utilisatrices peuvent également afficher manuellement la dernière version. Pour plus d’informations, consultez [Installation de la visionneuse de relecture pour bureau](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=fr).
 
 * Version précédente : 2.1.19
 * Nouvelle version : 2.1.20
@@ -1223,7 +1223,7 @@ Lorsqu’un utilisateur ou une utilisatrice sous licence de Travail, Révision o
 
 +++
 
-+++**Mise à jour de maintenance du 19 janvier 2023**
++++**Mise à jour de maintenance le vendredi 19 janvier 2023**
 
 **Les filtres de colonne d’entrée peuvent désormais être partagés.**
 
@@ -1243,7 +1243,7 @@ Les fonctionnalités suivantes sont désormais disponibles dans le menu [!UICONT
 
 +++
 
-+++**Mise à jour de maintenance du 18 janvier 2023**
++++**Mise à jour de maintenance le jeudi 18 janvier 2023**
 
 **Les expressions avec des caractères génériques ne sont pas valides dans les champs personnalisés**.
 
@@ -1293,7 +1293,7 @@ Lorsqu’un utilisateur ou une utilisatrice tente de modifier le niveau d’acc�
 
 +++
 
-+++**Mise à jour de maintenance du 12 janvier 2023**
++++**Mise à jour de maintenance le vendredi 12 janvier 2023**
 
 **Ctrl+F ou Cmd+F ne fonctionne pas comme prévu dans les champs de liste déroulante**
 
@@ -1315,7 +1315,7 @@ Lorsqu’un utilisateur ou une utilisatrice consulte une liste de tâches et met
 
 +++
 
-+++**Mise à jour de maintenance du 5 janvier 2023**
++++**Mise à jour de maintenance le vendredi 5 janvier 2023**
 
 **Fonctionnalité Épingle disponible dans le menu [!UICONTROL Plus]**
 
