@@ -586,7 +586,7 @@ Lorsque l’utilisateur consulte les mises à jour et survole un nom, une carte 
 
 Lorsque l’utilisateur tente de consigner des heures pour une tâche sur sa feuille de temps, les heures ne s’ajoutent pas et le message d’erreur suivant apparaît :
 
-«[!UICONTROL  Votre enregistrement a échoué, car une autre personne a tenté d’enregistrer ce projet au même moment. Veuillez réessayer de l’enregistrer plus tard.] »
+«[!UICONTROL Votre enregistrement a échoué, car une autre personne a tenté d’enregistrer ce projet au même moment. Veuillez réessayer de l’enregistrer plus tard.] »
 
 **Impossible de fermer la carte d’utilisateur dans le flux de mise à jour**
 
@@ -2178,7 +2178,7 @@ Lorsque l’utilisateur remplit un formulaire personnalisé en vue de la convers
 
 *Approbations*
 
-Lorsque l’utilisateur crée ou modifie un processus d’approbation dans la zone [!UICONTROL Configuration], le message « [!UICONTROL  Ce processus d’approbation peut être utilisé par...] » Le champ est manquant. Cela peut se produire lors de la création d’un processus d’approbation ou de la modification d’un processus existant.
+Lorsque l’utilisateur crée ou modifie un processus d’approbation dans la zone [!UICONTROL Configuration], le message « [!UICONTROL &#x200B; Ce processus d’approbation peut être utilisé par...] » Le champ est manquant. Cela peut se produire lors de la création d’un processus d’approbation ou de la modification d’un processus existant.
 
 **L’administrateur système ne peut pas réaffecter les utilisateurs lors de la suppression d’un groupe**
 
@@ -2266,7 +2266,7 @@ Lorsque l’utilisateur consulte un rapport dans un tableau de bord, l’icône 
 
 Lorsque l’utilisateur sélectionne un document ou une épreuve dans une liste de documents [!DNL Workfront Classic] puis clique sur « [!UICONTROL Plus] », l’un des problèmes suivants peut survenir :
 Le bouton ne répond pas
-Toutes les options situées sous le bouton sont intitulées « [!UICONTROL  Objet de l’objet ] » et ne peuvent pas être sélectionnées.
+Toutes les options situées sous le bouton sont intitulées « [!UICONTROL &#x200B; Objet de l’objet &#x200B;] » et ne peuvent pas être sélectionnées.
 
 **Erreur « Vous devez être un administrateur système » lors de la création d’un projet**
 

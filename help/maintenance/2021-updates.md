@@ -471,7 +471,7 @@ Auparavant, [!DNL Workfront] recherchait des fonctions dans les 2 000 premiers
 
 +++**Mise à jour de maintenance le vendredi 7 octobre 2021**
 
-**[!UICONTROL Les notifications in-app disparaissent du ]centre de notifications**
+**[!UICONTROL Les notifications in-app disparaissent du &#x200B;]centre de notifications**
 
 _Notifications_
 
