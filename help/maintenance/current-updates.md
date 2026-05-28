@@ -3,10 +3,10 @@ title: Mises à jour de maintenance pour Workfront
 description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2b5a817ea5d3891fc3d344c746322c8c89e80e85
+source-git-commit: eace4f6034ca11c6616e82b411c0dcfd936e5f9a
 workflow-type: tm+mt
-source-wordcount: '1265'
-ht-degree: 37%
+source-wordcount: '1270'
+ht-degree: 33%
 
 ---
 
@@ -14,17 +14,26 @@ ht-degree: 37%
 
 >[!NOTE]
 >
->Pour plus d’informations sur les pannes de maintenance pour tous les produits Adobe, y compris Workfront, voir la [page de statut d’Adobe](https://status.adobe.com/fr/).
+>Les mises à jour de cette page sont temporairement suspendues pendant que nous mettons en place un nouveau processus de gestion de son contenu.
+
+
+
+<!--
+>[!NOTE] 
+>
+>For information about maintenance outages for all Adobe products, including Workfront, see the [Adobe Status page](https://status.adobe.com/).
+
+-->
 
 Cette page décrit les problèmes résolus par les mises à jour hebdomadaires de Workfront.
 
-Ces mises à jour incluent également d’autres correctifs mineurs ou moins conséquents. L’assistance [!DNL Workfront] vous avertira lorsqu’un problème que vous avez soumis est résolu.
+Ces mises à jour incluent également d’autres correctifs mineurs ou moins importants. [!DNL Workfront] L’assistance vous avertira lorsqu’un problème que vous avez soumis sera résolu.
 
 Pour connaître les mises à jour de maintenance antérieures à 2026, consultez les [Mises à jour de maintenance précédentes](#previous-maintenance-updates).
 
 Les mises à jour de maintenance suivantes ont été effectuées en 2026.
 
-## Mises à jour de février 2026
+## Mises à jour de février 2026
 
 +++**Semaine de mise à jour de maintenance du 22 au 28 février 2026**
 
