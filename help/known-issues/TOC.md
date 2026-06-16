@@ -2,9 +2,9 @@
 user-guide-title: Problèmes connus
 user-guide-description: Problèmes connus d’ [!DNL Adobe Workfront]
 role: User
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+source-git-commit: 654ef2b12b254f34cf8943847873ec4d89c59965
 workflow-type: tm+mt
-source-wordcount: '1831'
+source-wordcount: '1823'
 ht-degree: 52%
 
 ---
@@ -117,7 +117,6 @@ ht-degree: 52%
       + {hide-from-toc}[Priorités : les regroupements empêchent le tri et la modification en ligne.](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
       + {hide-from-toc}[Rapports : impossible de faire défiler l’écran pour afficher l’intégralité d’un rapport de graphique](known-issues-workfront/wf-reports-unable-to-scroll.md)
       + {hide-from-toc}[Groupes : le statut du groupe supprimé réapparaît](known-issues-workfront/wf-groups-deleted-status-reappears.md)
-      + {hide-from-toc}[Documents : les commentaires de l’épreuve ne s’affichent pas lors des mises à jour du document](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
       + {hide-from-toc}[Accueil : « Aucun accès » s’affiche comme nom du projet.](known-issues-workfront/wf-home-no-access-project-name.md)
       + {hide-from-toc}[Accueil : la page d’accueil se bloque avec une erreur de mémoire insuffisante.](known-issues-workfront/wf-home-crashes-with-error.md)
       + {hide-from-toc}[Workfront : plusieurs onglets du navigateur entraînent la déconnexion de Workfront.](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
