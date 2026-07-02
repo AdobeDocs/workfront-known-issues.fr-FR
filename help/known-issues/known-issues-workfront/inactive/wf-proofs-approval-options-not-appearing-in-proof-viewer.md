@@ -5,24 +5,24 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 17e0aa9a-d7f6-490a-b491-ef74371b787e
 source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
-workflow-type: ht
-source-wordcount: '146'
+workflow-type: tm+mt
+source-wordcount: '148'
 ht-degree: 100%
 
 ---
 
-# Épreuves : les options d’approbation n’apparaissent pas dans le [!UICONTROL Lecteur de vérification].
+# Épreuves : les options d’approbation n’apparaissent pas dans la [!UICONTROL Visionneuse de relecture].
 
 >[!NOTE]
 >
 >L’équipe produit évalue actuellement la résolution de ce problème, qui peut nécessiter des améliorations du produit. Les améliorations apportées aux produits sont communiquées dans les annonces de produit et non dans les mises à jour de maintenance.
 
-Lorsqu’une personne utilisatrice tente d’approuver un BAT dans le [!UICONTROL Lecteur de vérification pour bureau], une fois l’approbation demandée, les options d’approbation ne sont pas visibles et elle ne peut pas approuver le BAT. Les options d’approbation apparaissent plusieurs heures après la demande d’approbation.
+Lorsqu’une personne tente d’approuver une épreuve dans la [!UICONTROL Visionneuse de relecture pour bureau], une fois l’approbation demandée, les options d’approbation ne sont pas visibles et elle ne peut pas approuver l’épreuve. Les options d’approbation apparaissent plusieurs heures après la demande d’approbation.
 
 **Solution de contournement**
 
 Approuvez le document à partir de la page [!UICONTROL Détails du document] dans [!DNL Workfront].
 
-_Premier signalement le 12 juin 2023._
+_Premier signalement le mardi 12 juin 2023._
 
 <!--CHECK ME - NO VIEWS APRIL-JUNE 2025-->
