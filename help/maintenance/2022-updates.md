@@ -1,15 +1,14 @@
 ---
 title: Mises à jour de maintenance Workfront en 2022
-description: Mises à jour de maintenance 2022 pour [!DNL Adobe Workfront]
+description: Mises à jour de maintenance pour [!DNL Adobe Workfront] en 2022
 exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
 feature: Get Started with Workfront
-source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
 workflow-type: tm+mt
-source-wordcount: '17038'
+source-wordcount: '17045'
 ht-degree: 98%
-
 ---
-
 # Mises à jour de maintenance de [!DNL Workfront] en 2022
 
 Les mises à jour de maintenance suivantes ont été effectuées en 2022.
@@ -586,7 +585,7 @@ Lorsque l’utilisateur consulte les mises à jour et survole un nom, une carte 
 
 Lorsque l’utilisateur tente de consigner des heures pour une tâche sur sa feuille de temps, les heures ne s’ajoutent pas et le message d’erreur suivant apparaît :
 
-«[!UICONTROL Votre enregistrement a échoué, car une autre personne a tenté d’enregistrer ce projet au même moment. Veuillez réessayer de l’enregistrer plus tard.] »
+«[!UICONTROL  Votre enregistrement a échoué, car une autre personne a tenté d’enregistrer ce projet au même moment. Veuillez réessayer de l’enregistrer plus tard.] »
 
 **Impossible de fermer la carte d’utilisateur dans le flux de mise à jour**
 
@@ -2178,7 +2177,7 @@ Lorsque l’utilisateur remplit un formulaire personnalisé en vue de la convers
 
 *Approbations*
 
-Lorsque l’utilisateur crée ou modifie un processus d’approbation dans la zone [!UICONTROL Configuration], le message « [!UICONTROL &#x200B; Ce processus d’approbation peut être utilisé par...] » Le champ est manquant. Cela peut se produire lors de la création d’un processus d’approbation ou de la modification d’un processus existant.
+Lorsque l’utilisateur crée ou modifie un processus d’approbation dans la zone [!UICONTROL Configuration], le message « [!UICONTROL  Ce processus d’approbation peut être utilisé par...] » Le champ est manquant. Cela peut se produire lors de la création d’un processus d’approbation ou de la modification d’un processus existant.
 
 **L’administrateur système ne peut pas réaffecter les utilisateurs lors de la suppression d’un groupe**
 
@@ -2266,7 +2265,7 @@ Lorsque l’utilisateur consulte un rapport dans un tableau de bord, l’icône 
 
 Lorsque l’utilisateur sélectionne un document ou une épreuve dans une liste de documents [!DNL Workfront Classic] puis clique sur « [!UICONTROL Plus] », l’un des problèmes suivants peut survenir :
 Le bouton ne répond pas
-Toutes les options situées sous le bouton sont intitulées « [!UICONTROL &#x200B; Objet de l’objet &#x200B;] » et ne peuvent pas être sélectionnées.
+Toutes les options situées sous le bouton sont intitulées « [!UICONTROL  Objet de l’objet ] » et ne peuvent pas être sélectionnées.
 
 **Erreur « Vous devez être un administrateur système » lors de la création d’un projet**
 
