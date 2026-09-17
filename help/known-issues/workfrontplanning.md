@@ -1,16 +1,15 @@
 ---
-title: Problèmes connus dans  [!DNL Adobe Workfront Planning]
-description: Problèmes connus et signalés de  [!DNL Adobe Workfront Planning]
+title: Problèmes connus dans [!DNL Adobe Workfront Planning]
+description: Problèmes connus et signalés de [!DNL Adobe Workfront Planning]
 keywords: nouveau fichier, ajouter un fichier
 feature: Workfront Planning
 exl-id: 8827b3cd-c19a-4322-ac0d-6c54c9e1fd29
-source-git-commit: 1cb1156af6f75045d7a62ae671b2241839726eae
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 87%
-
+source-wordcount: '159'
+ht-degree: 83%
 ---
-
 # Problèmes connus dans [!DNL Adobe Workfront Planning]
 
 Cette page répertorie les problèmes actuellement identifiés dans [!DNL Adobe Workfront Planning].
@@ -25,8 +24,8 @@ Ces problèmes récemment signalés sont en train d’être examinés.
 
 | **Problème** | **Dernière modification** |
 | --- | --- |
-| [Workfront Planning : le statut de la demande indique « En cours » une fois la demande approuvée](/help/known-issues/known-issues-workfront/wf-planning-requests-remain-in-progress.md) | mercredi 24 février 2026 |
-| [Planification Workfront : erreur « Échec de soumission de la demande »](/help/known-issues/known-issues-workfront/wf-planning-error-fail-to-submit-request.md) | mercredi 17 février 2026 |
+| [Workfront Planning : le statut de la demande indique « En cours » une fois la demande approuvée](/help/known-issues/known-issues-workfront/wf-planning-requests-remain-in-progress.md) | 24 février 2026 |
+| [Planification Workfront : erreur « Échec de soumission de la demande »](/help/known-issues/known-issues-workfront/wf-planning-error-fail-to-submit-request.md) | 17 Février 2026 |
 
 {style="table-layout:auto"}
 

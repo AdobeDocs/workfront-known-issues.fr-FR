@@ -1,15 +1,14 @@
 ---
 title: Mises à jour de maintenance Workfront en 2023
-description: Mises à jour de maintenance pour  [!DNL Adobe Workfront]
+description: Mises à jour de maintenance pour [!DNL Adobe Workfront]
 feature: Get Started with Workfront
 exl-id: 87d54104-38b7-4950-ab21-6524a14f7f2a
-source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
 workflow-type: tm+mt
 source-wordcount: '7893'
 ht-degree: 98%
-
 ---
-
 # Mises à jour de maintenance de [!DNL Workfront] en 2023
 
 Les mises à jour de maintenance suivantes ont été effectuées en 2023.
@@ -909,7 +908,7 @@ Désormais, lorsque vous quittez la page Mises à jour alors que vous composez u
 
 >[!NOTE]
 >
->Un aperçu de cette fonctionnalité a été présenté le 19 avril 2023 qui a été mise en production le 20 avril 2023.
+>Un aperçu de cette fonctionnalité a été présenté le 19 avril 2023, laquelle a été mise en production le 20 avril 2023.
 
 _Mises à jour_
 

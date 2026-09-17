@@ -1,15 +1,14 @@
 ---
 title: Mises à jour de maintenance pour Workfront en 2021
-description: Historique des mises à jour de maintenance pour  [!DNL Adobe Workfront] en 2021
+description: Historique des mises à jour de maintenance pour [!DNL Adobe Workfront] en 2021
 exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
 feature: Get Started with Workfront
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
 workflow-type: tm+mt
-source-wordcount: '10220'
+source-wordcount: '10226'
 ht-degree: 98%
-
 ---
-
 # Mises à jour de maintenance pour [!DNL Workfront] en 2021
 
 Les mises à jour de maintenance suivantes ont été effectuées en 2021 :
