@@ -3,13 +3,20 @@ title: 'Utilisateurs et utilisatrices : le badge Approbation en attente s’aff
 description: Les nouveaux utilisateurs et utilisatrices de Workfront peuvent s’afficher dans la liste avec un badge Approbation en attente. Le badge apparaît pendant plusieurs minutes et reste affiché si la page est actualisée.
 feature: People Teams and Groups
 exl-id: 27db1155-f6aa-465d-a42b-1147cf5431e1
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: 254442ca-6997-5cfa-963e-f420870aea53
+    internal-label: People Teams and Groups
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 100%
-
 ---
-
 # Utilisateurs et utilisatrices : le badge « Approbation en attente » s’affiche pour les nouvelles personnes.
 
 >[!NOTE]
@@ -41,7 +48,7 @@ Vous pouvez valider des utilisateurs et utilisatrices individuels dans la liste 
 
 Pour valider les utilisateurs et utilisatrices ajoutés dans un lot volumineux, vous pouvez ajouter ce lot de personnes directement dans Adobe Admin Console.
 
-Pour obtenir des instructions, voir la section [Gérer plusieurs utilisateurs et utilisatrices | Chargement CSV en masse](https://helpx.adobe.com/fr/enterprise/using/bulk-upload-users.html?lang=fr) dans la documentation Adobe.
+Pour obtenir des instructions, voir la section [Gérer plusieurs utilisateurs et utilisatrices | Chargement CSV en masse](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html?lang=fr) dans la documentation Adobe.
 
 
 _Premier signalement le vendredi 8 mai 2025._

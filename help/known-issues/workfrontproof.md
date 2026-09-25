@@ -5,7 +5,19 @@ keywords: nouveau fichier, ajouter un fichier
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 recommendations: noDisplay, noCatalog
-source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
+subfeature_v2:
+  - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '518'
 ht-degree: 88%
@@ -73,7 +85,7 @@ Ces problèmes sont en train d’être résolus ou vont l’être bientôt.
 | [[!DNL Workfront Proof] : la zone [!UICONTROL Rapports] n’est plus prise en charge.](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 1er mars 2023 |
 | [Épreuves : une nouvelle étape a été créée, car la date limite ne correspond pas à celle de l’étape existante.](known-issues-workfront-proof/proof-new-stage-created.md) | 2 février 2023 |
 | [[!UICONTROL Accueil] : les épreuves terminées sont bloquées dans la [!UICONTROL Liste de travail]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md). | 10 janvier 2023 |
-| [Épreuves : le statut de l’épreuve n’est pas mis à jour dans les listes de [!UICONTROL documents] &#x200B;](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md). | 5 décembre 2022 |
+| [Épreuves : le statut de l’épreuve n’est pas mis à jour dans les listes de [!UICONTROL documents] ](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md). | 5 décembre 2022 |
 | [Épreuves : l’épreuve n’est pas partagée avec les utilisateurs et utilisatrices du workflow de l’épreuve](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md). | 18 septembre 2022 |
 | [Épreuves : le champ [!UICONTROL Étapes d’épreuve actives] est vide](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md). | 14 septembre 2022 |
 | [[!DNL Workfront Proof] : impossible d’ajouter un utilisateur ou une utiisatrice à l’épreuve en l’identifiant dans un commentaire](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 23 mars 2022 |

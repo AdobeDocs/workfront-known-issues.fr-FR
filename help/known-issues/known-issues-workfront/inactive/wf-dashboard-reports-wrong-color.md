@@ -3,13 +3,20 @@ title: 'Tableaux de bord : les graphiques des rapports affichés dans un tablea
 description: Lorsque l’utilisateur consulte un graphique de rapport dans un tableau de bord, le graphique n’est pas de la même couleur que lorsqu’il est affiché dans le rapport lui-même. Cela peut prêter à confusion si une couleur donnée est censée avoir une signification particulière.
 exl-id: cfd8b018-c0d9-447a-b318-42938bd82edd
 feature: Reports and Dashboards
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+    internal-label: Reports and dashboards
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 100%
-
 ---
-
 # Tableaux de bord : les graphiques des rapports affichés dans un tableau de bord ne sont pas de la même couleur que ceux affichés dans le rapport.
 
 <!--Converted to story-->
