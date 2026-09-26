@@ -3,13 +3,20 @@ title: 'Modèles de mise en page : les champs de données personnalisés ne s�
 description: Lorsqu’un administrateur ou une administratrice ajoute un champ de données personnalisé à la section Résumé de la tâche par le biais d’un modèle de mise en page, le champ s’affiche comme vide pour les personnes qui consultent la section Résumé d’une tâche.
 feature: System Setup and Administration
 exl-id: f37ecfc5-30b9-4fe2-9e76-a97be0ae969f
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: d5896d07-2812-5418-8b18-8957a0d7f0fb
+    internal-label: System Setup and Administration
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 100%
-
 ---
-
 # Modèles de mise en page : les champs de données personnalisés ne s’affichent pas lorsqu’ils sont ajoutés au Résumé de la tâche par le biais du modèle de mise en page.
 
 >[!NOTE]

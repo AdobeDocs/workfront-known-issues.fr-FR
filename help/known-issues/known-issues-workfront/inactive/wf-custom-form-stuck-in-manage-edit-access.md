@@ -3,13 +3,23 @@ title: 'Formulaires personnalisés : la modification des champs des formulaires 
 description: Lorsque l’utilisateur crée un formulaire interobjet qui autorise uniquement un accès de niveau Gérer ou Modifier, puis supprime ce type d’objet, le formulaire personnalisé continue d’exiger un accès de niveau Gérer ou Modifier pour modifier les champs. Rien n’indique que les champs exigent un accès de niveau Gérer ou Modifier, et il est impossible de réinitialiser le formulaire.
 feature: Custom Forms
 exl-id: 3f7ad4f5-1480-4514-8543-7e699743a8ef
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+    internal-label: Administration
+subfeature_v2:
+  - id: d87de1f9-8e24-4c4d-aa4c-a403075091a1
+    internal-label: Custom forms
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 92%
-
 ---
-
 # Formulaires personnalisés : la modification des champs des formulaires personnalisés interobjet exige un accès de niveau [!UICONTROL Gérer] ou [!UICONTROL Modifier].
 
 <!--Won't fix, live for workaround-->
